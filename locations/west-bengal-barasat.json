@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-barasat",
+  "city": "Barasat",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "barasat",
+  "country": "India",
+  "pincode": "743201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.0488,
+  "longitude": 81.3094,
+  "landmark": "Barasat Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Barasat, India",
+  "population": 3096479,
+  "mobileUsers": 2374999,
+  "internetUsers": 1768089,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.68L per annum",
+  "activeMobileDevices": 3127443,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 57.1,
+  "maleCount": 1600880,
+  "femaleCount": 1495599,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kiphir",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "kiphir",
+      "distance": 68.73986841885073
+    },
+    {
+      "city": "Bolganj bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bolganj-bazar",
+      "distance": 71.18216022347676
+    },
+    {
+      "city": "Aluva",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "aluva",
+      "distance": 81.40385775256145
+    },
+    {
+      "city": "Amadalavalasa",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "amadalavalasa",
+      "distance": 96.74926001410657
+    },
+    {
+      "city": "Thodupuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thodupuzha",
+      "distance": 97.58074582285863
+    }
+  ],
+  "geohash": "tg9zdpz",
+  "geohashUrl": "https://geohash.softeng.co/tg9zdpz"
+}

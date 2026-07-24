@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-sairang",
+  "city": "Sairang",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "sairang",
+  "country": "India",
+  "pincode": "796410",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.0014,
+  "longitude": 74.3369,
+  "landmark": "Sairang Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sairang, India",
+  "population": 2139119,
+  "mobileUsers": 1576530,
+  "internetUsers": 1189350,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹8.73L per annum",
+  "activeMobileDevices": 2267466,
+  "mobilePenetration": 73.7,
+  "internetPenetration": 55.6,
+  "maleCount": 1110203,
+  "femaleCount": 1028916,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Banswara",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "banswara",
+      "distance": 41.82289713016198
+    },
+    {
+      "city": "Palakol",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "palakol",
+      "distance": 42.94729787582463
+    },
+    {
+      "city": "Vela",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vela",
+      "distance": 67.833679630318
+    },
+    {
+      "city": "Parbhani",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "parbhani",
+      "distance": 68.84104630218978
+    },
+    {
+      "city": "Tiruchendur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchendur",
+      "distance": 96.55301285830905
+    }
+  ],
+  "geohash": "tdug58f",
+  "geohashUrl": "https://geohash.softeng.co/tdug58f"
+}

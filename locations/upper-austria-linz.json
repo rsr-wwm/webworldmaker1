@@ -1,0 +1,81 @@
+{
+  "id": "upper-austria-linz",
+  "city": "Linz",
+  "state": "Upper Austria",
+  "stateSlug": "upper-austria",
+  "citySlug": "linz",
+  "country": "Austria",
+  "pincode": "4020",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / RTR",
+  "carriers": [
+    "A1",
+    "Magenta Telekom",
+    "Drei"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+43",
+  "timezone": "Europe/Vienna",
+  "latitude": 47.4236,
+  "longitude": 13.1579,
+  "landmark": "Linz Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over A1 networks. Failovers route over Magenta Telekom, Drei with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Linz, Austria",
+  "population": 4776151,
+  "mobileUsers": 3739726,
+  "internetUsers": 2956437,
+  "genderRatioText": "992 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "€62,985 per annum",
+  "activeMobileDevices": 5779142,
+  "mobilePenetration": 78.3,
+  "internetPenetration": 61.9,
+  "maleCount": 2397628,
+  "femaleCount": 2378523,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Vienna",
+      "state": "Vienna State",
+      "stateSlug": "vienna-state",
+      "citySlug": "vienna",
+      "distance": 14.410334241289931
+    },
+    {
+      "city": "Graz",
+      "state": "Styria",
+      "stateSlug": "styria",
+      "citySlug": "graz",
+      "distance": 15.09369341490375
+    },
+    {
+      "city": "Salzburg",
+      "state": "Salzburg State",
+      "stateSlug": "salzburg-state",
+      "citySlug": "salzburg",
+      "distance": 17.619580527220165
+    },
+    {
+      "city": "Innsbruck",
+      "state": "Tyrol",
+      "stateSlug": "tyrol",
+      "citySlug": "innsbruck",
+      "distance": 28.464553457129895
+    },
+    {
+      "city": "Bonn",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "bonn",
+      "distance": 78.61778741344112
+    }
+  ],
+  "geohash": "u23mg3j",
+  "geohashUrl": "https://geohash.softeng.co/u23mg3j"
+}

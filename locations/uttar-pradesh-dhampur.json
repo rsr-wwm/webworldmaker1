@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-dhampur",
+  "city": "Dhampur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "dhampur",
+  "country": "India",
+  "pincode": "246761",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.0284,
+  "longitude": 72.7439,
+  "landmark": "Dhampur GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dhampur, India",
+  "population": 2676748,
+  "mobileUsers": 1988823,
+  "internetUsers": 1498978,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹7.32L per annum",
+  "activeMobileDevices": 2864120,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 56,
+  "maleCount": 1383879,
+  "femaleCount": 1292869,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khammam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "khammam",
+      "distance": 27.22947388293937
+    },
+    {
+      "city": "Baghma",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "baghma",
+      "distance": 47.489978932805265
+    },
+    {
+      "city": "Vasco Da Gama",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vasco-da-gama",
+      "distance": 62.06310773206727
+    },
+    {
+      "city": "Kuvep",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kuvep",
+      "distance": 95.83839909241519
+    },
+    {
+      "city": "Mandi",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "mandi",
+      "distance": 106.23855233522751
+    }
+  ],
+  "geohash": "tte8x2d",
+  "geohashUrl": "https://geohash.softeng.co/tte8x2d"
+}

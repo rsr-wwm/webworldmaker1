@@ -1,0 +1,80 @@
+{
+  "id": "bioko-norte-malabo",
+  "city": "Malabo",
+  "state": "Bioko Norte",
+  "stateSlug": "bioko-norte",
+  "citySlug": "malabo",
+  "country": "Equatorial Guinea",
+  "pincode": "00000",
+  "currency": "XAF",
+  "symbol": "FCFA",
+  "compliance": "ORTEL Rules",
+  "carriers": [
+    "Getesa",
+    "Muni"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+240",
+  "timezone": "Africa/Malabo",
+  "latitude": 2.0746,
+  "longitude": 10.1519,
+  "landmark": "Malabo Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Getesa networks. Failovers route over Muni with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Malabo, Equatorial Guinea",
+  "population": 564480,
+  "mobileUsers": 465131,
+  "internetUsers": 363525,
+  "genderRatioText": "996 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "FCFA42,024 XAF per annum",
+  "activeMobileDevices": 739468,
+  "mobilePenetration": 82.4,
+  "internetPenetration": 64.4,
+  "maleCount": 282804,
+  "femaleCount": 281676,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Sao Tome",
+      "state": "Sao Tome Province",
+      "stateSlug": "sao-tome-province",
+      "citySlug": "sao-tome",
+      "distance": 354.02263375879744
+    },
+    {
+      "city": "Libreville",
+      "state": "Estuaire Province",
+      "stateSlug": "estuaire-province",
+      "citySlug": "libreville",
+      "distance": 394.85208867518884
+    },
+    {
+      "city": "Montpellier",
+      "state": "Occitanie",
+      "stateSlug": "occitanie",
+      "citySlug": "montpellier",
+      "distance": 441.3124315315286
+    },
+    {
+      "city": "Yaounde",
+      "state": "Centre Region",
+      "stateSlug": "centre-region",
+      "citySlug": "yaounde",
+      "distance": 490.7720281797166
+    },
+    {
+      "city": "Douala",
+      "state": "Littoral Region",
+      "stateSlug": "littoral-region",
+      "citySlug": "douala",
+      "distance": 501.7266661364534
+    }
+  ],
+  "geohash": "s0r5z18",
+  "geohashUrl": "https://geohash.softeng.co/s0r5z18"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "lima-province-lima",
+  "city": "Lima",
+  "state": "Lima Province",
+  "stateSlug": "lima-province",
+  "citySlug": "lima",
+  "country": "Peru",
+  "pincode": "Lima 1",
+  "currency": "PEN",
+  "symbol": "S/.",
+  "compliance": "OSIPTEL Rules",
+  "carriers": [
+    "Claro",
+    "Movistar",
+    "Entel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+51",
+  "timezone": "America/Lima",
+  "latitude": -9.9321,
+  "longitude": -75.8372,
+  "landmark": "Lima Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Claro networks. Failovers route over Movistar, Entel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Lima, Peru",
+  "population": 508471,
+  "mobileUsers": 406776,
+  "internetUsers": 331523,
+  "genderRatioText": "996 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "S/.25,011 PEN per annum",
+  "activeMobileDevices": 691520,
+  "mobilePenetration": 80,
+  "internetPenetration": 65.2,
+  "maleCount": 254744,
+  "femaleCount": 253727,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Trujillo",
+      "state": "La Libertad",
+      "stateSlug": "la-libertad",
+      "citySlug": "trujillo",
+      "distance": 19.02977554245482
+    },
+    {
+      "city": "Arequipa",
+      "state": "Arequipa Province",
+      "stateSlug": "arequipa-province",
+      "citySlug": "arequipa",
+      "distance": 21.79075389759423
+    },
+    {
+      "city": "Cuenca",
+      "state": "Azuay Province",
+      "stateSlug": "azuay-province",
+      "citySlug": "cuenca",
+      "distance": 898.0712953209636
+    },
+    {
+      "city": "Guayaquil",
+      "state": "Guayas Province",
+      "stateSlug": "guayas-province",
+      "citySlug": "guayaquil",
+      "distance": 898.5711985911569
+    },
+    {
+      "city": "Quito",
+      "state": "Pichincha Province",
+      "stateSlug": "pichincha-province",
+      "citySlug": "quito",
+      "distance": 902.3555276538136
+    }
+  ],
+  "geohash": "6q4p6rc",
+  "geohashUrl": "https://geohash.softeng.co/6q4p6rc"
+}

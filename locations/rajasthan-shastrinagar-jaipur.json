@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-shastrinagar-jaipur",
+  "city": "Shastrinagar (Jaipur)",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "shastrinagar-jaipur",
+  "country": "India",
+  "pincode": "302020",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.7206,
+  "longitude": 78.5411,
+  "landmark": "Shastrinagar (Jaipur) Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shastrinagar (Jaipur), India",
+  "population": 8342927,
+  "mobileUsers": 6015250,
+  "internetUsers": 4897298,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹9.38L per annum",
+  "activeMobileDevices": 9928083,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 58.7,
+  "maleCount": 4313293,
+  "femaleCount": 4029634,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Eluru",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "eluru",
+      "distance": 38.34830174285331
+    },
+    {
+      "city": "Surendra Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "surendra-nagar",
+      "distance": 73.56453761125914
+    },
+    {
+      "city": "Kolhapur City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kolhapur-city",
+      "distance": 77.74290348054305
+    },
+    {
+      "city": "Sehore",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sehore",
+      "distance": 88.36037588179956
+    },
+    {
+      "city": "Giribam",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "giribam",
+      "distance": 114.82567283977048
+    }
+  ],
+  "geohash": "texb5np",
+  "geohashUrl": "https://geohash.softeng.co/texb5np"
+}

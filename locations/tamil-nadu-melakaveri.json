@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-melakaveri",
+  "city": "Melakaveri",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "melakaveri",
+  "country": "India",
+  "pincode": "612002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.5242,
+  "longitude": 68.9003,
+  "landmark": "Melakaveri GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Melakaveri, India",
+  "population": 8539197,
+  "mobileUsers": 6472711,
+  "internetUsers": 4705097,
+  "genderRatioText": "935 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹9.09L per annum",
+  "activeMobileDevices": 9563900,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 55.1,
+  "maleCount": 4414765,
+  "femaleCount": 4124432,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Srirangapatna",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "srirangapatna",
+      "distance": 21.77127596795798
+    },
+    {
+      "city": "Thane",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "thane",
+      "distance": 29.867072161440095
+    },
+    {
+      "city": "Kovvur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kovvur",
+      "distance": 36.169912907114735
+    },
+    {
+      "city": "Paratwada",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "paratwada",
+      "distance": 47.30188493717007
+    },
+    {
+      "city": "Karunagapally",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "karunagapally",
+      "distance": 75.44548669723828
+    }
+  ],
+  "geohash": "te0gxy5",
+  "geohashUrl": "https://geohash.softeng.co/te0gxy5"
+}

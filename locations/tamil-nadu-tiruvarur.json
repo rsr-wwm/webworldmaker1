@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tiruvarur",
+  "city": "Tiruvarur",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tiruvarur",
+  "country": "India",
+  "pincode": "610001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.0998,
+  "longitude": 74.0519,
+  "landmark": "Tiruvarur Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tiruvarur, India",
+  "population": 5969403,
+  "mobileUsers": 4327817,
+  "internetUsers": 3426437,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹7.97L per annum",
+  "activeMobileDevices": 6864813,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 57.4,
+  "maleCount": 3086181,
+  "femaleCount": 2883222,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khanna",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "khanna",
+      "distance": 18.526776024216016
+    },
+    {
+      "city": "Nungba",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "nungba",
+      "distance": 36.67407909317375
+    },
+    {
+      "city": "Masanapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "masanapalle",
+      "distance": 49.8806719625106
+    },
+    {
+      "city": "Beawar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "beawar",
+      "distance": 75.09045351901854
+    },
+    {
+      "city": "Virudhunagar",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "virudhunagar",
+      "distance": 75.41701623892457
+    }
+  ],
+  "geohash": "teh9m0f",
+  "geohashUrl": "https://geohash.softeng.co/teh9m0f"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-khurja",
+  "city": "Khurja",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "khurja",
+  "country": "India",
+  "pincode": "203131",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.9,
+  "longitude": 80.8649,
+  "landmark": "Khurja Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Khurja, India",
+  "population": 2846104,
+  "mobileUsers": 2163039,
+  "internetUsers": 1576741,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹8.98L per annum",
+  "activeMobileDevices": 2988409,
+  "mobilePenetration": 76,
+  "internetPenetration": 55.4,
+  "maleCount": 1454359,
+  "femaleCount": 1391745,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bolganj bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bolganj-bazar",
+      "distance": 89.11248371636746
+    },
+    {
+      "city": "Kamalghat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kamalghat",
+      "distance": 98.91440938131622
+    },
+    {
+      "city": "Kiphir",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "kiphir",
+      "distance": 103.26694570216543
+    },
+    {
+      "city": "Meerut",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "meerut",
+      "distance": 120.28413616515071
+    },
+    {
+      "city": "Barasat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barasat",
+      "distance": 135.8736013078215
+    }
+  ],
+  "geohash": "tg990ns",
+  "geohashUrl": "https://geohash.softeng.co/tg990ns"
+}

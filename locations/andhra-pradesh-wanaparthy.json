@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-wanaparthy",
+  "city": "Wanaparthy",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "wanaparthy",
+  "country": "India",
+  "pincode": "509103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.3602,
+  "longitude": 71.192,
+  "landmark": "Wanaparthy Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Wanaparthy, India",
+  "population": 7352970,
+  "mobileUsers": 5500021,
+  "internetUsers": 4154428,
+  "genderRatioText": "926 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹10.65L per annum",
+  "activeMobileDevices": 8235326,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 56.5,
+  "maleCount": 3816191,
+  "femaleCount": 3536779,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Morbi",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "morbi",
+      "distance": 24.09462094766071
+    },
+    {
+      "city": "Bangalore G.P.O.",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bangalore-gpo",
+      "distance": 56.59767525459332
+    },
+    {
+      "city": "Srivaikuntam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "srivaikuntam",
+      "distance": 67.85461318218776
+    },
+    {
+      "city": "Quilandy",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "quilandy",
+      "distance": 72.33966926476133
+    },
+    {
+      "city": "Khargone",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "khargone",
+      "distance": 79.67330127155392
+    }
+  ],
+  "geohash": "tt49k4b",
+  "geohashUrl": "https://geohash.softeng.co/tt49k4b"
+}

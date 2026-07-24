@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-rampurhat",
+  "city": "Rampurhat",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "rampurhat",
+  "country": "India",
+  "pincode": "731224",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.3041,
+  "longitude": 76.7834,
+  "landmark": "Rampurhat Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rampurhat, India",
+  "population": 567024,
+  "mobileUsers": 433206,
+  "internetUsers": 334544,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹9.22L per annum",
+  "activeMobileDevices": 623726,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 59,
+  "maleCount": 294285,
+  "femaleCount": 272739,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar",
+      "distance": 3.9014603498767175
+    },
+    {
+      "city": "Hyderabad Jubilee",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hyderabad-jubilee",
+      "distance": 37.23205339919688
+    },
+    {
+      "city": "Burdwan",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "burdwan",
+      "distance": 39.68791113179276
+    },
+    {
+      "city": "Sitapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "sitapur",
+      "distance": 52.2355622144982
+    },
+    {
+      "city": "Mati",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mati",
+      "distance": 63.40425220005306
+    }
+  ],
+  "geohash": "tewee0p",
+  "geohashUrl": "https://geohash.softeng.co/tewee0p"
+}

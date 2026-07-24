@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-bahraich",
+  "city": "Bahraich",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "bahraich",
+  "country": "India",
+  "pincode": "271801",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.1856,
+  "longitude": 70.0293,
+  "landmark": "Bahraich District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bahraich, India",
+  "population": 1708874,
+  "mobileUsers": 1302161,
+  "internetUsers": 1047539,
+  "genderRatioText": "924 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹8.28L per annum",
+  "activeMobileDevices": 2016471,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 61.3,
+  "maleCount": 888614,
+  "femaleCount": 820260,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Monkolemba",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "monkolemba",
+      "distance": 33.11606908291011
+    },
+    {
+      "city": "Karimganj",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "karimganj",
+      "distance": 62.085530507606414
+    },
+    {
+      "city": "Labaan",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labaan",
+      "distance": 78.06077481086052
+    },
+    {
+      "city": "Palanpur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "palanpur",
+      "distance": 79.65932424226222
+    },
+    {
+      "city": "Darjeeling",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "darjeeling",
+      "distance": 119.14577554069842
+    }
+  ],
+  "geohash": "te3v1s9",
+  "geohashUrl": "https://geohash.softeng.co/te3v1s9"
+}

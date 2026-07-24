@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-kimin",
+  "city": "Kimin",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "kimin",
+  "country": "India",
+  "pincode": "791121",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.6546,
+  "longitude": 72.7353,
+  "landmark": "Kimin Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kimin, India",
+  "population": 9401257,
+  "mobileUsers": 7173159,
+  "internetUsers": 5123685,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹8.20L per annum",
+  "activeMobileDevices": 9495269,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 54.5,
+  "maleCount": 4794641,
+  "femaleCount": 4606616,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pondicherry",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "pondicherry",
+      "distance": 15.976543474829679
+    },
+    {
+      "city": "Tirunelveli",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirunelveli",
+      "distance": 67.4742504171136
+    },
+    {
+      "city": "Baidyanadh Deoghar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "baidyanadh-deoghar",
+      "distance": 87.56694633889178
+    },
+    {
+      "city": "Hazaribagh",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "hazaribagh",
+      "distance": 98.81294158016594
+    },
+    {
+      "city": "Betul",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "betul",
+      "distance": 111.46345210932891
+    }
+  ],
+  "geohash": "te7dp5u",
+  "geohashUrl": "https://geohash.softeng.co/te7dp5u"
+}

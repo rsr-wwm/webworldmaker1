@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-bhopal-bhel-sb",
+  "city": "Bhopal BHEL (SB)",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "bhopal-bhel-sb",
+  "country": "India",
+  "pincode": "462022",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.3382,
+  "longitude": 74.4462,
+  "landmark": "Bhopal BHEL (SB) Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhopal BHEL (SB), India",
+  "population": 8000817,
+  "mobileUsers": 5776589,
+  "internetUsers": 4432452,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹6.36L per annum",
+  "activeMobileDevices": 9200939,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 55.4,
+  "maleCount": 4168426,
+  "femaleCount": 3832391,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ashikkal",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "ashikkal",
+      "distance": 34.57092065276298
+    },
+    {
+      "city": "Ambasa",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ambasa",
+      "distance": 53.19029598739895
+    },
+    {
+      "city": "Mahesana",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "mahesana",
+      "distance": 55.19666155753467
+    },
+    {
+      "city": "Tadpatri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tadpatri",
+      "distance": 113.03113747319236
+    },
+    {
+      "city": "Mylapore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mylapore",
+      "distance": 114.38251504603429
+    }
+  ],
+  "geohash": "teuzn4d",
+  "geohashUrl": "https://geohash.softeng.co/teuzn4d"
+}

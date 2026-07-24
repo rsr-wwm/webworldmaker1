@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-chochuba",
+  "city": "Chochuba",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "chochuba",
+  "country": "India",
+  "pincode": "797104",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.3158,
+  "longitude": 86.2079,
+  "landmark": "Chochuba Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chochuba, India",
+  "population": 2264892,
+  "mobileUsers": 1764350,
+  "internetUsers": 1293253,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹11.25L per annum",
+  "activeMobileDevices": 2672572,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 57.1,
+  "maleCount": 1161890,
+  "femaleCount": 1103002,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kankroli",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "kankroli",
+      "distance": 54.298126236440275
+    },
+    {
+      "city": "Saraswathipuram",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "saraswathipuram",
+      "distance": 67.60073416280987
+    },
+    {
+      "city": "Rajamundry",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "rajamundry",
+      "distance": 85.82324478656795
+    },
+    {
+      "city": "Kanchipuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kanchipuram",
+      "distance": 88.32613666659631
+    },
+    {
+      "city": "Kallakurichi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kallakurichi",
+      "distance": 110.4537278136159
+    }
+  ],
+  "geohash": "tutm9ww",
+  "geohashUrl": "https://geohash.softeng.co/tutm9ww"
+}

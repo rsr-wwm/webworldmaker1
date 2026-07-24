@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-ghazipur",
+  "city": "Ghazipur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "ghazipur",
+  "country": "India",
+  "pincode": "233001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.6583,
+  "longitude": 78.4909,
+  "landmark": "Ghazipur Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ghazipur, India",
+  "population": 7960143,
+  "mobileUsers": 5954186,
+  "internetUsers": 4529321,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.80L per annum",
+  "activeMobileDevices": 8437751,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 56.9,
+  "maleCount": 4083553,
+  "femaleCount": 3876590,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kattappana",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kattappana",
+      "distance": 18.3926029001038
+    },
+    {
+      "city": "Dhamloan",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "dhamloan",
+      "distance": 31.90267701959447
+    },
+    {
+      "city": "Diamond Harbour",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "diamond-harbour",
+      "distance": 44.81587260249467
+    },
+    {
+      "city": "Ujjain",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "ujjain",
+      "distance": 59.50792624356063
+    },
+    {
+      "city": "Williamnagar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "williamnagar",
+      "distance": 65.73088711743651
+    }
+  ],
+  "geohash": "tsxcfng",
+  "geohashUrl": "https://geohash.softeng.co/tsxcfng"
+}

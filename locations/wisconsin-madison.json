@@ -1,0 +1,81 @@
+{
+  "id": "wisconsin-madison",
+  "city": "Madison",
+  "state": "Wisconsin",
+  "stateSlug": "wisconsin",
+  "citySlug": "madison",
+  "country": "United States",
+  "pincode": "53701",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/Chicago",
+  "latitude": 41.8889,
+  "longitude": -94.7291,
+  "landmark": "Madison GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Madison, United States",
+  "population": 3024961,
+  "mobileUsers": 2946312,
+  "internetUsers": 2864638,
+  "genderRatioText": "1,007 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "$66,952 per annum",
+  "activeMobileDevices": 3660202,
+  "mobilePenetration": 97.4,
+  "internetPenetration": 94.7,
+  "maleCount": 1506431,
+  "femaleCount": 1518530,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa",
+      "distance": 341.6915640129068
+    },
+    {
+      "city": "Omaha",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "citySlug": "omaha",
+      "distance": 428.38787570152584
+    },
+    {
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "citySlug": "las-vegas",
+      "distance": 550.678927521475
+    },
+    {
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "stateSlug": "arkansas",
+      "citySlug": "little-rock",
+      "distance": 593.367850779437
+    },
+    {
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids",
+      "distance": 617.5616844593843
+    }
+  ],
+  "geohash": "9zkwk3s",
+  "geohashUrl": "https://geohash.softeng.co/9zkwk3s"
+}

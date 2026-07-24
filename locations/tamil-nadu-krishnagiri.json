@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-krishnagiri",
+  "city": "Krishnagiri",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "krishnagiri",
+  "country": "India",
+  "pincode": "635001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.5205,
+  "longitude": 69.086,
+  "landmark": "Krishnagiri Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Krishnagiri, India",
+  "population": 4559964,
+  "mobileUsers": 3410853,
+  "internetUsers": 2485180,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹8.12L per annum",
+  "activeMobileDevices": 4833561,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 54.5,
+  "maleCount": 2325582,
+  "femaleCount": 2234382,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Manamadurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "manamadurai",
+      "distance": 32.84001582150372
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai",
+      "distance": 37.30512559446498
+    },
+    {
+      "city": "Raibag",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "raibag",
+      "distance": 45.860327072213416
+    },
+    {
+      "city": "Karur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "karur",
+      "distance": 59.39297414096887
+    },
+    {
+      "city": "Palakkad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palakkad",
+      "distance": 98.50029396407095
+    }
+  ],
+  "geohash": "tdcjup6",
+  "geohashUrl": "https://geohash.softeng.co/tdcjup6"
+}

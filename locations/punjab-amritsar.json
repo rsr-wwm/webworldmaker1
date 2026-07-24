@@ -1,0 +1,82 @@
+{
+  "id": "punjab-amritsar",
+  "city": "Amritsar",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "amritsar",
+  "country": "India",
+  "pincode": "143001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.558,
+  "longitude": 84.7601,
+  "landmark": "Amritsar District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Amritsar, India",
+  "population": 5581547,
+  "mobileUsers": 4292209,
+  "internetUsers": 3354509,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹11.39L per annum",
+  "activeMobileDevices": 5972255,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 60.1,
+  "maleCount": 2868915,
+  "femaleCount": 2712632,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sidhi",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sidhi",
+      "distance": 35.977158506216
+    },
+    {
+      "city": "Madikeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "madikeri",
+      "distance": 65.77574338034744
+    },
+    {
+      "city": "Vadakara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "vadakara",
+      "distance": 66.3365625005503
+    },
+    {
+      "city": "Wokha",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "wokha",
+      "distance": 68.70151745617564
+    },
+    {
+      "city": "Faridkot",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faridkot",
+      "distance": 92.45891691210349
+    }
+  ],
+  "geohash": "tuh22f8",
+  "geohashUrl": "https://geohash.softeng.co/tuh22f8"
+}

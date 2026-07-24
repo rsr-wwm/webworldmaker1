@@ -1,0 +1,82 @@
+{
+  "id": "bihar-hinoo",
+  "city": "Hinoo",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "hinoo",
+  "country": "India",
+  "pincode": "834002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.4377,
+  "longitude": 77.7535,
+  "landmark": "Hinoo Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hinoo, India",
+  "population": 4899027,
+  "mobileUsers": 3693866,
+  "internetUsers": 3017800,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹10.70L per annum",
+  "activeMobileDevices": 5339939,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 61.6,
+  "maleCount": 2557292,
+  "femaleCount": 2341735,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Almora",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "almora",
+      "distance": 18.789412298889722
+    },
+    {
+      "city": "Mechuka",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "mechuka",
+      "distance": 70.62804739525963
+    },
+    {
+      "city": "Bijapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bijapur",
+      "distance": 92.39242874540717
+    },
+    {
+      "city": "Koraput",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "koraput",
+      "distance": 103.48498205006264
+    },
+    {
+      "city": "Ambikapur",
+      "state": "Mashya Pradesh",
+      "stateSlug": "mashya-pradesh",
+      "citySlug": "ambikapur",
+      "distance": 103.8930192458056
+    }
+  ],
+  "geohash": "t9xm9q4",
+  "geohashUrl": "https://geohash.softeng.co/t9xm9q4"
+}

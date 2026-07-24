@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-bilaspur",
+  "city": "Bilaspur",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "bilaspur",
+  "country": "India",
+  "pincode": "174001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.4559,
+  "longitude": 80.2934,
+  "landmark": "Bilaspur Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bilaspur, India",
+  "population": 8013142,
+  "mobileUsers": 6114027,
+  "internetUsers": 4791858,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.69L per annum",
+  "activeMobileDevices": 8734324,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 59.8,
+  "maleCount": 4182860,
+  "femaleCount": 3830282,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Armoor",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "armoor",
+      "distance": 45.08941072248107
+    },
+    {
+      "city": "Vajapur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "vajapur",
+      "distance": 55.90811364403785
+    },
+    {
+      "city": "Sattenapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "sattenapalle",
+      "distance": 63.8932755853159
+    },
+    {
+      "city": "Vadakancherry",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "vadakancherry",
+      "distance": 75.02293487393925
+    },
+    {
+      "city": "Baramulla",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "baramulla",
+      "distance": 89.0561879198274
+    }
+  ],
+  "geohash": "tv94gn7",
+  "geohashUrl": "https://geohash.softeng.co/tv94gn7"
+}

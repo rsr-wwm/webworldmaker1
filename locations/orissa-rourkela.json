@@ -1,0 +1,82 @@
+{
+  "id": "orissa-rourkela",
+  "city": "Rourkela",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "rourkela",
+  "country": "India",
+  "pincode": "769001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.8171,
+  "longitude": 88.8607,
+  "landmark": "Rourkela Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rourkela, India",
+  "population": 3116895,
+  "mobileUsers": 2381307,
+  "internetUsers": 1723642,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹9.22L per annum",
+  "activeMobileDevices": 3584429,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 55.3,
+  "maleCount": 1608318,
+  "femaleCount": 1508577,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Resubelpada",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "resubelpada",
+      "distance": 52.46110059058179
+    },
+    {
+      "city": "Barega pada",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "barega-pada",
+      "distance": 67.40871715679015
+    },
+    {
+      "city": "Nabadwip",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "nabadwip",
+      "distance": 87.17847550976569
+    },
+    {
+      "city": "Nagaon (Nowgong)",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nagaon-nowgong",
+      "distance": 131.04257416232622
+    },
+    {
+      "city": "A.R.T.C",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "artc",
+      "distance": 173.91624852235097
+    }
+  ],
+  "geohash": "tvxjn04",
+  "geohashUrl": "https://geohash.softeng.co/tvxjn04"
+}

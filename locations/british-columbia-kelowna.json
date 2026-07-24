@@ -1,0 +1,81 @@
+{
+  "id": "british-columbia-kelowna",
+  "city": "Kelowna",
+  "state": "British Columbia",
+  "stateSlug": "british-columbia",
+  "citySlug": "kelowna",
+  "country": "Canada",
+  "pincode": "V1Y",
+  "currency": "CAD",
+  "symbol": "C$",
+  "compliance": "CRTC / CASL Guidelines",
+  "carriers": [
+    "Rogers",
+    "Bell",
+    "Telus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 416",
+  "timezone": "America/Toronto",
+  "latitude": 49.8879177,
+  "longitude": -119.495902,
+  "landmark": "Kelowna Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kelowna, Canada",
+  "population": 4285514,
+  "mobileUsers": 4118378,
+  "internetUsers": 4041239,
+  "genderRatioText": "986 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "C$29,432 CAD per annum",
+  "activeMobileDevices": 5656878,
+  "mobilePenetration": 96.1,
+  "internetPenetration": 94.3,
+  "maleCount": 2159899,
+  "femaleCount": 2125615,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "McAllen",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "mcallen",
+      "distance": 228.17463822307445
+    },
+    {
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "vancouver",
+      "distance": 270.00721220575997
+    },
+    {
+      "city": "Victoria",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "victoria",
+      "distance": 324.74833972436073
+    },
+    {
+      "city": "Calgary",
+      "state": "Alberta",
+      "stateSlug": "alberta",
+      "citySlug": "calgary",
+      "distance": 405.7587326184001
+    },
+    {
+      "city": "Edmonton",
+      "state": "Alberta",
+      "stateSlug": "alberta",
+      "citySlug": "edmonton",
+      "distance": 579.7885753554841
+    }
+  ],
+  "geohash": "c2g5bcc",
+  "geohashUrl": "https://geohash.softeng.co/c2g5bcc"
+}

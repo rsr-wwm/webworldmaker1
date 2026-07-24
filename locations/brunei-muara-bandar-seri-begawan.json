@@ -1,0 +1,81 @@
+{
+  "id": "brunei-muara-bandar-seri-begawan",
+  "city": "Bandar Seri Begawan",
+  "state": "Brunei-Muara",
+  "stateSlug": "brunei-muara",
+  "citySlug": "bandar-seri-begawan",
+  "country": "Brunei Darussalam",
+  "pincode": "BS8611",
+  "currency": "BND",
+  "symbol": "B$",
+  "compliance": "AITI Regulations",
+  "carriers": [
+    "DST",
+    "Progresif",
+    "imagine"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+673",
+  "timezone": "Asia/Brunei",
+  "latitude": 4.49,
+  "longitude": 114.7524,
+  "landmark": "Bandar Seri Begawan Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over DST networks. Failovers route over Progresif, imagine with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bandar Seri Begawan, Brunei Darussalam",
+  "population": 3462801,
+  "mobileUsers": 2704447,
+  "internetUsers": 2230043,
+  "genderRatioText": "973 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "B$23,230 BND per annum",
+  "activeMobileDevices": 4224617,
+  "mobilePenetration": 78.1,
+  "internetPenetration": 64.4,
+  "maleCount": 1755640,
+  "femaleCount": 1707161,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Malacca",
+      "state": "Malacca State",
+      "stateSlug": "malacca-state",
+      "citySlug": "malacca",
+      "distance": 318.0997388935216
+    },
+    {
+      "city": "Penang",
+      "state": "Penang State",
+      "stateSlug": "penang-state",
+      "citySlug": "penang",
+      "distance": 342.71693426939754
+    },
+    {
+      "city": "Johor Bahru",
+      "state": "Johor State",
+      "stateSlug": "johor-state",
+      "citySlug": "johor-bahru",
+      "distance": 345.08307077828437
+    },
+    {
+      "city": "Ipoh",
+      "state": "Perak",
+      "stateSlug": "perak",
+      "citySlug": "ipoh",
+      "distance": 351.32995805850817
+    },
+    {
+      "city": "Kuala Lumpur",
+      "state": "Federal Territory",
+      "stateSlug": "federal-territory",
+      "citySlug": "kuala-lumpur",
+      "distance": 355.06305987685744
+    }
+  ],
+  "geohash": "w8c9e32",
+  "geohashUrl": "https://geohash.softeng.co/w8c9e32"
+}

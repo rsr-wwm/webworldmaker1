@@ -1,0 +1,79 @@
+{
+  "id": "gilbert-islands-tarawa",
+  "city": "Tarawa",
+  "state": "Gilbert Islands",
+  "stateSlug": "gilbert-islands",
+  "citySlug": "tarawa",
+  "country": "Kiribati",
+  "pincode": "0000",
+  "currency": "AUD",
+  "symbol": "A$",
+  "compliance": "CCK Rules",
+  "carriers": [
+    "Vodafone Kiribati"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+686",
+  "timezone": "Pacific/Enderbury",
+  "latitude": 1.3073,
+  "longitude": 172.9765,
+  "landmark": "Tarawa Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Vodafone Kiribati networks. Failovers route over local regional carriers with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Tarawa, Kiribati",
+  "population": 3157368,
+  "mobileUsers": 2538523,
+  "internetUsers": 2099649,
+  "genderRatioText": "991 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "A$40,220 AUD per annum",
+  "activeMobileDevices": 3883562,
+  "mobilePenetration": 80.4,
+  "internetPenetration": 66.5,
+  "maleCount": 1584999,
+  "femaleCount": 1572369,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Yaren",
+      "state": "Yaren District",
+      "stateSlug": "yaren-district",
+      "citySlug": "yaren",
+      "distance": 698.6212955542492
+    },
+    {
+      "city": "Majuro",
+      "state": "Majuro Atoll",
+      "stateSlug": "majuro-atoll",
+      "citySlug": "majuro",
+      "distance": 1017.7078423063011
+    },
+    {
+      "city": "Funafuti",
+      "state": "Funafuti Atoll",
+      "stateSlug": "funafuti-atoll",
+      "citySlug": "funafuti",
+      "distance": 1189.0690198986297
+    },
+    {
+      "city": "Palikir",
+      "state": "Pohnpei State",
+      "stateSlug": "pohnpei-state",
+      "citySlug": "palikir",
+      "distance": 1741.1550721384115
+    },
+    {
+      "city": "Honiara",
+      "state": "Guadalcanal Province",
+      "stateSlug": "guadalcanal-province",
+      "citySlug": "honiara",
+      "distance": 1873.3923752766548
+    }
+  ],
+  "geohash": "xb5p2jv",
+  "geohashUrl": "https://geohash.softeng.co/xb5p2jv"
+}

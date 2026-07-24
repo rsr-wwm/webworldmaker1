@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-ballia",
+  "city": "Ballia",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "ballia",
+  "country": "India",
+  "pincode": "277001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.643,
+  "longitude": 78.8403,
+  "landmark": "Ballia State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ballia, India",
+  "population": 8473755,
+  "mobileUsers": 6541738,
+  "internetUsers": 5016462,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹10.11L per annum",
+  "activeMobileDevices": 9829555,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 59.2,
+  "maleCount": 4347036,
+  "femaleCount": 4126719,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dindigul",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "dindigul",
+      "distance": 32.220241855631144
+    },
+    {
+      "city": "Maidjiphema",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "maidjiphema",
+      "distance": 66.0315548029679
+    },
+    {
+      "city": "Assam rifles",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "assam-rifles",
+      "distance": 80.39731815499921
+    },
+    {
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "vellore",
+      "distance": 105.74784680331743
+    },
+    {
+      "city": "Lalganj",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lalganj",
+      "distance": 136.62657079483026
+    }
+  ],
+  "geohash": "tu00f41",
+  "geohashUrl": "https://geohash.softeng.co/tu00f41"
+}

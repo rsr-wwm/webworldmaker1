@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-lucknow",
+  "city": "Lucknow",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "lucknow",
+  "country": "India",
+  "pincode": "226001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.8747,
+  "longitude": 75.7717,
+  "landmark": "Lucknow Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lucknow, India",
+  "population": 9905282,
+  "mobileUsers": 7716214,
+  "internetUsers": 5834211,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹11.52L per annum",
+  "activeMobileDevices": 10004334,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 58.9,
+  "maleCount": 5121031,
+  "femaleCount": 4784251,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chidambaram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "chidambaram",
+      "distance": 13.66092362639347
+    },
+    {
+      "city": "Phulbari",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "phulbari",
+      "distance": 40.95966589106706
+    },
+    {
+      "city": "Gurdaspur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "gurdaspur",
+      "distance": 56.55344710014475
+    },
+    {
+      "city": "Ambalmukal",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "ambalmukal",
+      "distance": 85.81986452373394
+    },
+    {
+      "city": "Parbhani",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "parbhani",
+      "distance": 129.55251812740605
+    }
+  ],
+  "geohash": "tdtus5z",
+  "geohashUrl": "https://geohash.softeng.co/tdtus5z"
+}

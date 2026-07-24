@@ -1,0 +1,81 @@
+{
+  "id": "tortola-island-road-town",
+  "city": "Road Town",
+  "state": "Tortola Island",
+  "stateSlug": "tortola-island",
+  "citySlug": "road-town",
+  "country": "British Virgin Islands",
+  "pincode": "VG1110",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "TRC Guidelines",
+  "carriers": [
+    "Flow",
+    "Digicel",
+    "CCT"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+1",
+  "timezone": "America/Tortola",
+  "latitude": 18.3559,
+  "longitude": -64.476,
+  "landmark": "Road Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel, CCT with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Road Town, British Virgin Islands",
+  "population": 117306,
+  "mobileUsers": 96542,
+  "internetUsers": 80237,
+  "genderRatioText": "984 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "$8,054 USD per annum",
+  "activeMobileDevices": 145459,
+  "mobilePenetration": 82.3,
+  "internetPenetration": 68.4,
+  "maleCount": 59122,
+  "femaleCount": 58184,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Charlotte Amalie",
+      "state": "Saint Thomas Island",
+      "stateSlug": "saint-thomas-island",
+      "citySlug": "charlotte-amalie",
+      "distance": 56.24644065513685
+    },
+    {
+      "city": "Gustavia",
+      "state": "Saint Barthelemy",
+      "stateSlug": "saint-barthelemy",
+      "citySlug": "gustavia",
+      "distance": 179.20245234709267
+    },
+    {
+      "city": "Basseterre",
+      "state": "Saint George Basseterre",
+      "stateSlug": "saint-george-basseterre",
+      "citySlug": "basseterre",
+      "distance": 199.40322168615432
+    },
+    {
+      "city": "San Juan",
+      "state": "San Juan Municipality",
+      "stateSlug": "san-juan-municipality",
+      "citySlug": "san-juan",
+      "distance": 211.74984901044576
+    },
+    {
+      "city": "Plymouth",
+      "state": "Saint Anthony Parish",
+      "stateSlug": "saint-anthony-parish",
+      "citySlug": "plymouth",
+      "distance": 291.6842313354849
+    }
+  ],
+  "geohash": "de60kvd",
+  "geohashUrl": "https://geohash.softeng.co/de60kvd"
+}

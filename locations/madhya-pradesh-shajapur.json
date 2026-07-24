@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-shajapur",
+  "city": "Shajapur",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "shajapur",
+  "country": "India",
+  "pincode": "465001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.2338,
+  "longitude": 84.0895,
+  "landmark": "Shajapur Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shajapur, India",
+  "population": 1511970,
+  "mobileUsers": 1123393,
+  "internetUsers": 866358,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.07L per annum",
+  "activeMobileDevices": 1587568,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 57.3,
+  "maleCount": 778665,
+  "femaleCount": 733305,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhubaneswar G.P.O",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhubaneswar-gpo",
+      "distance": 64.9788339615909
+    },
+    {
+      "city": "Sirohi",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sirohi",
+      "distance": 75.4881308971724
+    },
+    {
+      "city": "Rajnandgaon",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "rajnandgaon",
+      "distance": 90.47852810090828
+    },
+    {
+      "city": "Kavlem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kavlem",
+      "distance": 92.85178098945075
+    },
+    {
+      "city": "Kurukshetra",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "kurukshetra",
+      "distance": 93.02120689427896
+    }
+  ],
+  "geohash": "tg7v3t2",
+  "geohashUrl": "https://geohash.softeng.co/tg7v3t2"
+}

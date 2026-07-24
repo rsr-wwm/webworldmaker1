@@ -1,0 +1,81 @@
+{
+  "id": "zhejiang-province-wenzhou",
+  "city": "Wenzhou",
+  "state": "Zhejiang Province",
+  "stateSlug": "zhejiang-province",
+  "citySlug": "wenzhou",
+  "country": "China",
+  "pincode": "325000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 34.9127,
+  "longitude": 105.018,
+  "landmark": "Wenzhou District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Wenzhou, China",
+  "population": 2205235,
+  "mobileUsers": 1967069,
+  "internetUsers": 1574537,
+  "genderRatioText": "997 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "¥35,638 CNY per annum",
+  "activeMobileDevices": 2624229,
+  "mobilePenetration": 89.2,
+  "internetPenetration": 71.4,
+  "maleCount": 1104823,
+  "femaleCount": 1100412,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Jinan",
+      "state": "Shandong Province",
+      "stateSlug": "shandong-province",
+      "citySlug": "jinan",
+      "distance": 5.47055225285977
+    },
+    {
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning",
+      "distance": 7.918043601275949
+    },
+    {
+      "city": "Hangzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "hangzhou",
+      "distance": 8.749990190988894
+    },
+    {
+      "city": "Nanjing",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "nanjing",
+      "distance": 9.149562274269753
+    },
+    {
+      "city": "Chengdu",
+      "state": "Sichuan Province",
+      "stateSlug": "sichuan-province",
+      "citySlug": "chengdu",
+      "distance": 9.857728213069871
+    }
+  ],
+  "geohash": "wq4wtex",
+  "geohashUrl": "https://geohash.softeng.co/wq4wtex"
+}

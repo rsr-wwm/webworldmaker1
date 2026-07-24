@@ -1,0 +1,82 @@
+{
+  "id": "assam-north-lakhimpur",
+  "city": "North Lakhimpur",
+  "state": "Assam",
+  "stateSlug": "assam",
+  "citySlug": "north-lakhimpur",
+  "country": "India",
+  "pincode": "787001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.9626,
+  "longitude": 72.8482,
+  "landmark": "North Lakhimpur Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for North Lakhimpur, India",
+  "population": 4721631,
+  "mobileUsers": 3555388,
+  "internetUsers": 2634670,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.01L per annum",
+  "activeMobileDevices": 5429875,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 55.8,
+  "maleCount": 2408032,
+  "femaleCount": 2313599,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "pune",
+      "distance": 23.145257810468678
+    },
+    {
+      "city": "Peddapalli",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "peddapalli",
+      "distance": 58.07063624972565
+    },
+    {
+      "city": "Khairatabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "khairatabad",
+      "distance": 92.36742568817999
+    },
+    {
+      "city": "Quilandy",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "quilandy",
+      "distance": 98.48516343027326
+    },
+    {
+      "city": "Ranipet",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ranipet",
+      "distance": 105.56358589208972
+    }
+  ],
+  "geohash": "tsgz1dq",
+  "geohashUrl": "https://geohash.softeng.co/tsgz1dq"
+}

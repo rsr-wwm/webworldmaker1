@@ -1,0 +1,82 @@
+{
+  "id": "tripura-kanchanbadi",
+  "city": "Kanchanbadi",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "kanchanbadi",
+  "country": "India",
+  "pincode": "799288",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.2387,
+  "longitude": 86.7445,
+  "landmark": "Kanchanbadi Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kanchanbadi, India",
+  "population": 3936351,
+  "mobileUsers": 2975881,
+  "internetUsers": 2255529,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.75L per annum",
+  "activeMobileDevices": 4408713,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 57.3,
+  "maleCount": 2046903,
+  "femaleCount": 1889448,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Baleshwar",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "baleshwar",
+      "distance": 36.225378615905726
+    },
+    {
+      "city": "Didwana",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "didwana",
+      "distance": 37.41851242728413
+    },
+    {
+      "city": "Chuchaimalang",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chuchaimalang",
+      "distance": 41.84880945709644
+    },
+    {
+      "city": "Bhopal C.I.T. Nagar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal-cit-nagar",
+      "distance": 53.00361884979193
+    },
+    {
+      "city": "Nanglayer",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nanglayer",
+      "distance": 81.0947197013948
+    }
+  ],
+  "geohash": "tgvwtbm",
+  "geohashUrl": "https://geohash.softeng.co/tgvwtbm"
+}

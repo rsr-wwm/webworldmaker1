@@ -1,0 +1,81 @@
+{
+  "id": "leinster-province-dublin",
+  "city": "Dublin",
+  "state": "Leinster Province",
+  "stateSlug": "leinster-province",
+  "citySlug": "dublin",
+  "country": "Ireland",
+  "pincode": "D01",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ComReg",
+  "carriers": [
+    "Vodafone",
+    "Three",
+    "Eir"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+353",
+  "timezone": "Europe/Dublin",
+  "latitude": 52.9825,
+  "longitude": -7.8805,
+  "landmark": "Dublin Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Vodafone networks. Failovers route over Three, Eir with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Dublin, Ireland",
+  "population": 4980328,
+  "mobileUsers": 3839832,
+  "internetUsers": 3252154,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "€69,341 per annum",
+  "activeMobileDevices": 6673639,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 65.3,
+  "maleCount": 2539967,
+  "femaleCount": 2440361,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Cork",
+      "state": "Munster Province",
+      "stateSlug": "munster-province",
+      "citySlug": "cork",
+      "distance": 7.772373954864794
+    },
+    {
+      "city": "Limerick",
+      "state": "Munster Province",
+      "stateSlug": "munster-province",
+      "citySlug": "limerick",
+      "distance": 13.755033987137224
+    },
+    {
+      "city": "Leeds",
+      "state": "West Yorkshire",
+      "stateSlug": "west-yorkshire",
+      "citySlug": "leeds",
+      "distance": 238.50737343664795
+    },
+    {
+      "city": "Edinburgh",
+      "state": "Scotland",
+      "stateSlug": "scotland",
+      "citySlug": "edinburgh",
+      "distance": 259.7015869048426
+    },
+    {
+      "city": "Nottingham",
+      "state": "Nottinghamshire",
+      "stateSlug": "nottinghamshire",
+      "citySlug": "nottingham",
+      "distance": 260.8668314046186
+    }
+  ],
+  "geohash": "gc6mktj",
+  "geohashUrl": "https://geohash.softeng.co/gc6mktj"
+}

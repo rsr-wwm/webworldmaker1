@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-resubelpada",
+  "city": "Resubelpada",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "resubelpada",
+  "country": "India",
+  "pincode": "794108",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.0193,
+  "longitude": 88.3585,
+  "landmark": "Resubelpada Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Resubelpada, India",
+  "population": 3108840,
+  "mobileUsers": 2381371,
+  "internetUsers": 1877739,
+  "genderRatioText": "931 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.71L per annum",
+  "activeMobileDevices": 3357547,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 60.4,
+  "maleCount": 1610379,
+  "femaleCount": 1498461,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nabadwip",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "nabadwip",
+      "distance": 34.92985444727217
+    },
+    {
+      "city": "Rourkela",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rourkela",
+      "distance": 52.46110059058179
+    },
+    {
+      "city": "Barega pada",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "barega-pada",
+      "distance": 67.56764796448736
+    },
+    {
+      "city": "Mirzapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mirzapur",
+      "distance": 128.50092171299116
+    },
+    {
+      "city": "A.R.T.C",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "artc",
+      "distance": 132.90583247353732
+    }
+  ],
+  "geohash": "tvwy4su",
+  "geohashUrl": "https://geohash.softeng.co/tvwy4su"
+}

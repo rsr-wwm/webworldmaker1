@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-thuraiyur",
+  "city": "Thuraiyur",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "thuraiyur",
+  "country": "India",
+  "pincode": "621010",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.7303,
+  "longitude": 73.8921,
+  "landmark": "Thuraiyur Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Thuraiyur, India",
+  "population": 9017495,
+  "mobileUsers": 6555718,
+  "internetUsers": 5094884,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹9.48L per annum",
+  "activeMobileDevices": 9107669,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 56.5,
+  "maleCount": 4653027,
+  "femaleCount": 4364468,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Labarchandmari",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labarchandmari",
+      "distance": 41.381891977468634
+    },
+    {
+      "city": "Gopalganj",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gopalganj",
+      "distance": 65.66663970211906
+    },
+    {
+      "city": "Kasaragod",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kasaragod",
+      "distance": 70.76836256280522
+    },
+    {
+      "city": "Belgharia",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "belgharia",
+      "distance": 93.75137653025094
+    },
+    {
+      "city": "Bijnor",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bijnor",
+      "distance": 96.572134282189
+    }
+  ],
+  "geohash": "tdhd9rq",
+  "geohashUrl": "https://geohash.softeng.co/tdhd9rq"
+}

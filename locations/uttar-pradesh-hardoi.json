@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-hardoi",
+  "city": "Hardoi",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "hardoi",
+  "country": "India",
+  "pincode": "241001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.5301,
+  "longitude": 82.1585,
+  "landmark": "Hardoi Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hardoi, India",
+  "population": 1464381,
+  "mobileUsers": 1127573,
+  "internetUsers": 872771,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.05L per annum",
+  "activeMobileDevices": 1640106,
+  "mobilePenetration": 77,
+  "internetPenetration": 59.6,
+  "maleCount": 751227,
+  "femaleCount": 713154,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Naginimira",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "naginimira",
+      "distance": 30.18111074750775
+    },
+    {
+      "city": "Panna",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "panna",
+      "distance": 71.67519883176331
+    },
+    {
+      "city": "Union Christian College",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "union-christian-college",
+      "distance": 113.01834608008444
+    },
+    {
+      "city": "Ahmednagar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ahmednagar",
+      "distance": 141.30030555765916
+    },
+    {
+      "city": "Bankura",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "bankura",
+      "distance": 145.25839990642388
+    }
+  ],
+  "geohash": "tf43tdc",
+  "geohashUrl": "https://geohash.softeng.co/tf43tdc"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-periyakulam",
+  "city": "Periyakulam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "periyakulam",
+  "country": "India",
+  "pincode": "625601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.7301,
+  "longitude": 83.3684,
+  "landmark": "Periyakulam Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Periyakulam, India",
+  "population": 8274180,
+  "mobileUsers": 6453860,
+  "internetUsers": 4484605,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹9.58L per annum",
+  "activeMobileDevices": 8274180,
+  "mobilePenetration": 78,
+  "internetPenetration": 54.2,
+  "maleCount": 4277751,
+  "femaleCount": 3996429,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kandukur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kandukur",
+      "distance": 22.953965032186126
+    },
+    {
+      "city": "Kangra",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "kangra",
+      "distance": 43.724748055532174
+    },
+    {
+      "city": "Ampati",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "ampati",
+      "distance": 53.37956247909144
+    },
+    {
+      "city": "Tenali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tenali",
+      "distance": 56.30624475462903
+    },
+    {
+      "city": "Light core peak",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "light-core-peak",
+      "distance": 81.22588524562055
+    }
+  ],
+  "geohash": "tu5qcpg",
+  "geohashUrl": "https://geohash.softeng.co/tu5qcpg"
+}

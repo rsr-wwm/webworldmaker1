@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-rasra",
+  "city": "Rasra",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "rasra",
+  "country": "India",
+  "pincode": "221712",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.4389,
+  "longitude": 72.6501,
+  "landmark": "Rasra Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rasra, India",
+  "population": 4882248,
+  "mobileUsers": 3788624,
+  "internetUsers": 2860997,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.91L per annum",
+  "activeMobileDevices": 5224005,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 58.6,
+  "maleCount": 2504593,
+  "femaleCount": 2377655,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Parvathipuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "parvathipuram",
+      "distance": 29.515027032475967
+    },
+    {
+      "city": "Buzar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "buzar",
+      "distance": 92.04509807168075
+    },
+    {
+      "city": "Kanigiri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kanigiri",
+      "distance": 105.63446039487448
+    },
+    {
+      "city": "Thingshul Theleha",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thingshul-theleha",
+      "distance": 148.37554454676783
+    },
+    {
+      "city": "Latur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "latur",
+      "distance": 163.67172931563454
+    }
+  ],
+  "geohash": "t9e8j0q",
+  "geohashUrl": "https://geohash.softeng.co/t9e8j0q"
+}

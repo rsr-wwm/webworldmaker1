@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-belgharia",
+  "city": "Belgharia",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "belgharia",
+  "country": "India",
+  "pincode": "700056",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.3042,
+  "longitude": 73.2606,
+  "landmark": "Belgharia Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Belgharia, India",
+  "population": 5723697,
+  "mobileUsers": 4378628,
+  "internetUsers": 3279678,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹8.80L per annum",
+  "activeMobileDevices": 6296066,
+  "mobilePenetration": 76.5,
+  "internetPenetration": 57.3,
+  "maleCount": 2976322,
+  "femaleCount": 2747375,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Athgarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "athgarh",
+      "distance": 10.865494966762999
+    },
+    {
+      "city": "Bijnor",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bijnor",
+      "distance": 22.174271369643627
+    },
+    {
+      "city": "Kavali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kavali",
+      "distance": 57.29731737538841
+    },
+    {
+      "city": "Kasaragod",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kasaragod",
+      "distance": 73.8890586236846
+    },
+    {
+      "city": "Thuraiyur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thuraiyur",
+      "distance": 93.75137653025094
+    }
+  ],
+  "geohash": "tdhjgpf",
+  "geohashUrl": "https://geohash.softeng.co/tdhjgpf"
+}

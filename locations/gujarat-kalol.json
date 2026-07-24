@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-kalol",
+  "city": "Kalol",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "kalol",
+  "country": "India",
+  "pincode": "382721",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.6017,
+  "longitude": 71.0945,
+  "landmark": "Kalol Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kalol, India",
+  "population": 1848519,
+  "mobileUsers": 1395631,
+  "internetUsers": 1133142,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹6.42L per annum",
+  "activeMobileDevices": 2181252,
+  "mobilePenetration": 75.5,
+  "internetPenetration": 61.3,
+  "maleCount": 963078,
+  "femaleCount": 885441,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vaivakown",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "vaivakown",
+      "distance": 27.339394760758104
+    },
+    {
+      "city": "Dikchu",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "dikchu",
+      "distance": 28.701205425050087
+    },
+    {
+      "city": "Dehra Gopipur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "dehra-gopipur",
+      "distance": 47.98308942832432
+    },
+    {
+      "city": "Bhandara",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "bhandara",
+      "distance": 90.53980609509327
+    },
+    {
+      "city": "Panvel",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "panvel",
+      "distance": 90.8566668585293
+    }
+  ],
+  "geohash": "tsdx3f9",
+  "geohashUrl": "https://geohash.softeng.co/tsdx3f9"
+}

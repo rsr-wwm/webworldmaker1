@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-barsar",
+  "city": "Barsar",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "barsar",
+  "country": "India",
+  "pincode": "174305",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.9281,
+  "longitude": 71.9419,
+  "landmark": "Barsar Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Barsar, India",
+  "population": 3857961,
+  "mobileUsers": 2781589,
+  "internetUsers": 2141168,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹10.85L per annum",
+  "activeMobileDevices": 4513814,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 55.5,
+  "maleCount": 1986850,
+  "femaleCount": 1871111,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chikhli",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "chikhli",
+      "distance": 45.36248100591341
+    },
+    {
+      "city": "Nirjuli",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "nirjuli",
+      "distance": 82.98201349160284
+    },
+    {
+      "city": "Shamli",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "shamli",
+      "distance": 92.88727435041869
+    },
+    {
+      "city": "Kavali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kavali",
+      "distance": 103.07587380794156
+    },
+    {
+      "city": "Shimoga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shimoga",
+      "distance": 113.25910775682273
+    }
+  ],
+  "geohash": "td55v56",
+  "geohashUrl": "https://geohash.softeng.co/td55v56"
+}

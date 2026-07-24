@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-hoshangabad",
+  "city": "Hoshangabad",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "hoshangabad",
+  "country": "India",
+  "pincode": "461001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.968,
+  "longitude": 82.6677,
+  "landmark": "Hoshangabad Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hoshangabad, India",
+  "population": 2584692,
+  "mobileUsers": 1969535,
+  "internetUsers": 1460350,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.36L per annum",
+  "activeMobileDevices": 3075783,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 56.5,
+  "maleCount": 1331116,
+  "femaleCount": 1253576,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajnagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "rajnagar",
+      "distance": 61.36848081923805
+    },
+    {
+      "city": "Bishanpur",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "bishanpur",
+      "distance": 95.25623037668923
+    },
+    {
+      "city": "Kanhangad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanhangad",
+      "distance": 115.29131933202991
+    },
+    {
+      "city": "Kheda",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "kheda",
+      "distance": 116.8214946850199
+    },
+    {
+      "city": "Chitradurga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chitradurga",
+      "distance": 117.0702944038872
+    }
+  ],
+  "geohash": "tufc3jk",
+  "geohashUrl": "https://geohash.softeng.co/tufc3jk"
+}

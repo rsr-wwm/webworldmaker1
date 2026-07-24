@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-thinghai",
+  "city": "Thinghai",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "thinghai",
+  "country": "India",
+  "pincode": "796581",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.806,
+  "longitude": 77.1424,
+  "landmark": "Thinghai Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Thinghai, India",
+  "population": 557466,
+  "mobileUsers": 420329,
+  "internetUsers": 341726,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹11.49L per annum",
+  "activeMobileDevices": 629936,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 61.3,
+  "maleCount": 284865,
+  "femaleCount": 272601,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Solan",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "solan",
+      "distance": 23.735173168365158
+    },
+    {
+      "city": "Palampur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "palampur",
+      "distance": 48.74738529284678
+    },
+    {
+      "city": "Nanjangud",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "nanjangud",
+      "distance": 69.5421189956134
+    },
+    {
+      "city": "Tirupur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirupur",
+      "distance": 83.2912866958045
+    },
+    {
+      "city": "Bhuj",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhuj",
+      "distance": 84.78127317114415
+    }
+  ],
+  "geohash": "tdwu5rm",
+  "geohashUrl": "https://geohash.softeng.co/tdwu5rm"
+}

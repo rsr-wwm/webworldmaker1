@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-bangalore-bengaluru",
+  "city": "Bangalore (Bengaluru)",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "bangalore-bengaluru",
+  "country": "India",
+  "pincode": "560001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.5611,
+  "longitude": 71.747,
+  "landmark": "Bangalore (Bengaluru) Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bangalore (Bengaluru), India",
+  "population": 9998571,
+  "mobileUsers": 7338951,
+  "internetUsers": 5409226,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹7.88L per annum",
+  "activeMobileDevices": 11198399,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 54.1,
+  "maleCount": 5199257,
+  "femaleCount": 4799314,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bailhongal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bailhongal",
+      "distance": 6.297204139955977
+    },
+    {
+      "city": "Lalitpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lalitpur",
+      "distance": 73.69169765408759
+    },
+    {
+      "city": "Guwahati",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati",
+      "distance": 73.88084434535234
+    },
+    {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "coimbatore",
+      "distance": 78.60738589852657
+    },
+    {
+      "city": "Udagamandalam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "udagamandalam",
+      "distance": 79.7287892582982
+    }
+  ],
+  "geohash": "tdgn0wu",
+  "geohashUrl": "https://geohash.softeng.co/tdgn0wu"
+}

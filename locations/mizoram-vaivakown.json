@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-vaivakown",
+  "city": "Vaivakown",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "vaivakown",
+  "country": "India",
+  "pincode": "796009",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.4827,
+  "longitude": 70.854,
+  "landmark": "Vaivakown District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vaivakown, India",
+  "population": 1232008,
+  "mobileUsers": 932630,
+  "internetUsers": 670212,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹7.84L per annum",
+  "activeMobileDevices": 1281288,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 54.4,
+  "maleCount": 643108,
+  "femaleCount": 588900,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kalol",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "kalol",
+      "distance": 27.339394760758104
+    },
+    {
+      "city": "Dikchu",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "dikchu",
+      "distance": 33.914162573990225
+    },
+    {
+      "city": "Dehra Gopipur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "dehra-gopipur",
+      "distance": 55.00878374489578
+    },
+    {
+      "city": "Thiruvallur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thiruvallur",
+      "distance": 66.63142407731966
+    },
+    {
+      "city": "Kadnat",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kadnat",
+      "distance": 79.19623195867666
+    }
+  ],
+  "geohash": "tsdqsm4",
+  "geohashUrl": "https://geohash.softeng.co/tsdqsm4"
+}

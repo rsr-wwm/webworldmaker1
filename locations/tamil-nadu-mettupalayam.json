@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-mettupalayam",
+  "city": "Mettupalayam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "mettupalayam",
+  "country": "India",
+  "pincode": "641301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.985,
+  "longitude": 69.7751,
+  "landmark": "Mettupalayam Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mettupalayam, India",
+  "population": 8144019,
+  "mobileUsers": 5920701,
+  "internetUsers": 4853835,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹8.15L per annum",
+  "activeMobileDevices": 8876980,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 59.6,
+  "maleCount": 4259322,
+  "femaleCount": 3884697,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thyagaraynagar",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thyagaraynagar",
+      "distance": 27.87131865171421
+    },
+    {
+      "city": "Bada pani",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bada-pani",
+      "distance": 32.77955991760345
+    },
+    {
+      "city": "Churu",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "churu",
+      "distance": 33.6036550848638
+    },
+    {
+      "city": "Medak",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "medak",
+      "distance": 86.68176286093542
+    },
+    {
+      "city": "Mandla",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "mandla",
+      "distance": 90.43213652781205
+    }
+  ],
+  "geohash": "td9t5zb",
+  "geohashUrl": "https://geohash.softeng.co/td9t5zb"
+}

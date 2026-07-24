@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-mathura",
+  "city": "Mathura",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "mathura",
+  "country": "India",
+  "pincode": "281001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.7726,
+  "longitude": 84.1407,
+  "landmark": "Mathura District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mathura, India",
+  "population": 7987330,
+  "mobileUsers": 5926598,
+  "internetUsers": 4432968,
+  "genderRatioText": "924 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹7.79L per annum",
+  "activeMobileDevices": 8865936,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 55.5,
+  "maleCount": 4153412,
+  "femaleCount": 3833918,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gorakhpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gorakhpur",
+      "distance": 44.909804649879426
+    },
+    {
+      "city": "Barabanki",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "barabanki",
+      "distance": 49.49555926528297
+    },
+    {
+      "city": "Orai",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "orai",
+      "distance": 53.32253820642171
+    },
+    {
+      "city": "Manipal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "manipal",
+      "distance": 57.68840584250179
+    },
+    {
+      "city": "Park Town",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "park-town",
+      "distance": 69.45095240608856
+    }
+  ],
+  "geohash": "tuefdev",
+  "geohashUrl": "https://geohash.softeng.co/tuefdev"
+}

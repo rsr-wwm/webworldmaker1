@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-itanagar-gpo",
+  "city": "Itanagar G.P.O",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "itanagar-gpo",
+  "country": "India",
+  "pincode": "791111",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "post_office",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.759,
+  "longitude": 76.5099,
+  "landmark": "Itanagar Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Itanagar G.P.O, India",
+  "population": 39202,
+  "mobileUsers": 30185,
+  "internetUsers": 21443,
+  "genderRatioText": "935 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹4.22L per annum",
+  "activeMobileDevices": 43514,
+  "mobilePenetration": 77,
+  "internetPenetration": 54.7,
+  "maleCount": 20267,
+  "femaleCount": 18935,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Udupi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "udupi",
+      "distance": 34.58220905136459
+    },
+    {
+      "city": "Dabhoi",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dabhoi",
+      "distance": 45.2451095420128
+    },
+    {
+      "city": "Bharuch",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bharuch",
+      "distance": 47.895133363039044
+    },
+    {
+      "city": "Dabki",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "dabki",
+      "distance": 56.151604899234094
+    },
+    {
+      "city": "Ramgarh Cantt.",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "ramgarh-cantt",
+      "distance": 58.62172707002598
+    }
+  ],
+  "geohash": "tenmj0b",
+  "geohashUrl": "https://geohash.softeng.co/tenmj0b"
+}

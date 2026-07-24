@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-palmaner",
+  "city": "Palmaner",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "palmaner",
+  "country": "India",
+  "pincode": "517408",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.8416,
+  "longitude": 78.8597,
+  "landmark": "Palmaner Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Palmaner, India",
+  "population": 8635516,
+  "mobileUsers": 6666618,
+  "internetUsers": 4740898,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹7.28L per annum",
+  "activeMobileDevices": 9326357,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 54.9,
+  "maleCount": 4499104,
+  "femaleCount": 4136412,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gaya",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gaya",
+      "distance": 24.48877745056604
+    },
+    {
+      "city": "Dehradun Cantt.",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dehradun-cantt",
+      "distance": 34.18049929797057
+    },
+    {
+      "city": "Garobandha",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "garobandha",
+      "distance": 100.7231052086746
+    },
+    {
+      "city": "Bettaih",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bettaih",
+      "distance": 104.96770894806473
+    },
+    {
+      "city": "Drishnapur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "drishnapur",
+      "distance": 117.99597301717182
+    }
+  ],
+  "geohash": "tf8h6mz",
+  "geohashUrl": "https://geohash.softeng.co/tf8h6mz"
+}

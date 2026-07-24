@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-balurghat",
+  "city": "Balurghat",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "balurghat",
+  "country": "India",
+  "pincode": "733101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.8914,
+  "longitude": 69.2879,
+  "landmark": "Balurghat Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Balurghat, India",
+  "population": 3445912,
+  "mobileUsers": 2625784,
+  "internetUsers": 2060655,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹6.70L per annum",
+  "activeMobileDevices": 3928339,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 59.8,
+  "maleCount": 1760861,
+  "femaleCount": 1685051,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tiruchirappalli",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchirappalli",
+      "distance": 17.2498861479663
+    },
+    {
+      "city": "Sri Rangam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sri-rangam",
+      "distance": 35.98245617124614
+    },
+    {
+      "city": "Midnapore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "midnapore",
+      "distance": 45.334583133634936
+    },
+    {
+      "city": "Kantolim",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kantolim",
+      "distance": 47.411099173053486
+    },
+    {
+      "city": "Shahpura",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shahpura",
+      "distance": 47.98285497088803
+    }
+  ],
+  "geohash": "teck89j",
+  "geohashUrl": "https://geohash.softeng.co/teck89j"
+}

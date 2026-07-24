@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-hospet",
+  "city": "Hospet",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "hospet",
+  "country": "India",
+  "pincode": "583201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.5728,
+  "longitude": 82.7232,
+  "landmark": "Hospet Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hospet, India",
+  "population": 1295035,
+  "mobileUsers": 935015,
+  "internetUsers": 707089,
+  "genderRatioText": "926 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹9.05L per annum",
+  "activeMobileDevices": 1502240,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 54.6,
+  "maleCount": 672123,
+  "femaleCount": 622912,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hoshiarpur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "hoshiarpur",
+      "distance": 40.2757301109645
+    },
+    {
+      "city": "Gangtok",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "gangtok",
+      "distance": 43.36231921527013
+    },
+    {
+      "city": "Kavlem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kavlem",
+      "distance": 55.53619734448596
+    },
+    {
+      "city": "Vairangte",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "vairangte",
+      "distance": 80.4977833688079
+    },
+    {
+      "city": "Meerut",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "meerut",
+      "distance": 81.50664717409336
+    }
+  ],
+  "geohash": "tg6z67j",
+  "geohashUrl": "https://geohash.softeng.co/tg6z67j"
+}

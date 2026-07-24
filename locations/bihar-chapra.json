@@ -1,0 +1,82 @@
+{
+  "id": "bihar-chapra",
+  "city": "Chapra",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "chapra",
+  "country": "India",
+  "pincode": "841301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.7853,
+  "longitude": 69.2191,
+  "landmark": "Chapra Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chapra, India",
+  "population": 2302036,
+  "mobileUsers": 1687392,
+  "internetUsers": 1279932,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹10.55L per annum",
+  "activeMobileDevices": 2601300,
+  "mobilePenetration": 73.3,
+  "internetPenetration": 55.6,
+  "maleCount": 1201663,
+  "femaleCount": 1100373,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Roorkee",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "roorkee",
+      "distance": 46.847521649072426
+    },
+    {
+      "city": "Purulai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "purulai",
+      "distance": 79.16167141185201
+    },
+    {
+      "city": "Bhongir",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhongir",
+      "distance": 80.05798668528385
+    },
+    {
+      "city": "Bargarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bargarh",
+      "distance": 88.24039014331795
+    },
+    {
+      "city": "Khousa",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "khousa",
+      "distance": 88.56110723277824
+    }
+  ],
+  "geohash": "td30xp7",
+  "geohashUrl": "https://geohash.softeng.co/td30xp7"
+}

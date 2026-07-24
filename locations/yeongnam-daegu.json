@@ -1,0 +1,81 @@
+{
+  "id": "yeongnam-daegu",
+  "city": "Daegu",
+  "state": "Yeongnam",
+  "stateSlug": "yeongnam",
+  "citySlug": "daegu",
+  "country": "South Korea",
+  "pincode": "41933",
+  "currency": "KRW",
+  "symbol": "₩",
+  "compliance": "KCC Regulations",
+  "carriers": [
+    "SK Telecom",
+    "KT",
+    "LG Uplus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+82",
+  "timezone": "Asia/Seoul",
+  "latitude": 36.9192,
+  "longitude": 127.5615,
+  "landmark": "Daegu Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over SK Telecom networks. Failovers route over KT, LG Uplus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Daegu, South Korea",
+  "population": 4835326,
+  "mobileUsers": 3969802,
+  "internetUsers": 3080102,
+  "genderRatioText": "1,010 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "₩18,894 KRW per annum",
+  "activeMobileDevices": 6237570,
+  "mobilePenetration": 82.1,
+  "internetPenetration": 63.7,
+  "maleCount": 2407992,
+  "femaleCount": 2427334,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Suwon",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "suwon",
+      "distance": 6.81918401845936
+    },
+    {
+      "city": "Changwon",
+      "state": "Gyeongnam",
+      "stateSlug": "gyeongnam",
+      "citySlug": "changwon",
+      "distance": 7.286614135925036
+    },
+    {
+      "city": "Gwangju",
+      "state": "Honam",
+      "stateSlug": "honam",
+      "citySlug": "gwangju",
+      "distance": 7.53789821977969
+    },
+    {
+      "city": "Busan",
+      "state": "Busan Metropolitan",
+      "stateSlug": "busan-metropolitan",
+      "citySlug": "busan",
+      "distance": 8.59307921195657
+    },
+    {
+      "city": "Cheongju",
+      "state": "Chungbuk",
+      "stateSlug": "chungbuk",
+      "citySlug": "cheongju",
+      "distance": 10.585953313067167
+    }
+  ],
+  "geohash": "wyddn8z",
+  "geohashUrl": "https://geohash.softeng.co/wyddn8z"
+}

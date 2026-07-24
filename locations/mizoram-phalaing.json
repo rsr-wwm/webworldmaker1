@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-phalaing",
+  "city": "Phalaing",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "phalaing",
+  "country": "India",
+  "pincode": "796431",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.1166,
+  "longitude": 75.3505,
+  "landmark": "Phalaing District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Phalaing, India",
+  "population": 3966053,
+  "mobileUsers": 2970573,
+  "internetUsers": 2363767,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹8.00L per annum",
+  "activeMobileDevices": 4402318,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 59.6,
+  "maleCount": 2070280,
+  "femaleCount": 1895773,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dahod",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dahod",
+      "distance": 40.07395859285701
+    },
+    {
+      "city": "Tanuku",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tanuku",
+      "distance": 79.44667292609824
+    },
+    {
+      "city": "Kaknad",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kaknad",
+      "distance": 79.58625804352246
+    },
+    {
+      "city": "Puttur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "puttur",
+      "distance": 81.35346559361756
+    },
+    {
+      "city": "Darbhanga",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "darbhanga",
+      "distance": 91.81750148182927
+    }
+  ],
+  "geohash": "ttme6ds",
+  "geohashUrl": "https://geohash.softeng.co/ttme6ds"
+}

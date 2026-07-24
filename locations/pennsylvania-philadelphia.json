@@ -1,0 +1,81 @@
+{
+  "id": "pennsylvania-philadelphia",
+  "city": "Philadelphia",
+  "state": "Pennsylvania",
+  "stateSlug": "pennsylvania",
+  "citySlug": "philadelphia",
+  "country": "United States",
+  "pincode": "19101",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/New_York",
+  "latitude": 27.7175,
+  "longitude": -109.2327,
+  "landmark": "Philadelphia Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Philadelphia, United States",
+  "population": 2332374,
+  "mobileUsers": 2220420,
+  "internetUsers": 2085142,
+  "genderRatioText": "1,007 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "$77,155 per annum",
+  "activeMobileDevices": 3102057,
+  "mobilePenetration": 95.2,
+  "internetPenetration": 89.4,
+  "maleCount": 1161522,
+  "femaleCount": 1170852,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Sacramento",
+      "state": "California",
+      "stateSlug": "california",
+      "citySlug": "sacramento",
+      "distance": 121.18646535670949
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "citySlug": "portland",
+      "distance": 464.2799136864546
+    },
+    {
+      "city": "Richmond",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "citySlug": "richmond",
+      "distance": 662.19914864726
+    },
+    {
+      "city": "Orlando",
+      "state": "Florida",
+      "stateSlug": "florida",
+      "citySlug": "orlando",
+      "distance": 718.8099447962694
+    },
+    {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "citySlug": "indianapolis",
+      "distance": 777.7303038429901
+    }
+  ],
+  "geohash": "9sfmdmg",
+  "geohashUrl": "https://geohash.softeng.co/9sfmdmg"
+}

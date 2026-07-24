@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-amalapuram",
+  "city": "Amalapuram",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "amalapuram",
+  "country": "India",
+  "pincode": "533201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.8902,
+  "longitude": 73.7073,
+  "landmark": "Amalapuram District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Amalapuram, India",
+  "population": 1428646,
+  "mobileUsers": 1030053,
+  "internetUsers": 845758,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹11.09L per annum",
+  "activeMobileDevices": 1642942,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 59.2,
+  "maleCount": 742896,
+  "femaleCount": 685750,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bordoli",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bordoli",
+      "distance": 15.837993030543807
+    },
+    {
+      "city": "Buchinghampet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "buchinghampet",
+      "distance": 48.10471531687134
+    },
+    {
+      "city": "Vela",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vela",
+      "distance": 76.47967424660617
+    },
+    {
+      "city": "Tiruchendur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchendur",
+      "distance": 85.99948300223738
+    },
+    {
+      "city": "Banswara",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "banswara",
+      "distance": 103.09011326594486
+    }
+  ],
+  "geohash": "tdsktq8",
+  "geohashUrl": "https://geohash.softeng.co/tdsktq8"
+}

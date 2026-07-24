@@ -1,0 +1,82 @@
+{
+  "id": "goa-chikhli",
+  "city": "Chikhli",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "chikhli",
+  "country": "India",
+  "pincode": "403711",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.3348,
+  "longitude": 71.9092,
+  "landmark": "Chikhli State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chikhli, India",
+  "population": 4058167,
+  "mobileUsers": 2942171,
+  "internetUsers": 2252282,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.80L per annum",
+  "activeMobileDevices": 4423402,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 55.5,
+  "maleCount": 2098072,
+  "femaleCount": 1960095,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nirjuli",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "nirjuli",
+      "distance": 42.18167426349756
+    },
+    {
+      "city": "Barsar",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "barsar",
+      "distance": 45.36248100591341
+    },
+    {
+      "city": "Shamli",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "shamli",
+      "distance": 51.57532005186068
+    },
+    {
+      "city": "Shimoga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shimoga",
+      "distance": 68.6319370015633
+    },
+    {
+      "city": "Kalyan City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kalyan-city",
+      "distance": 85.25460161324473
+    }
+  ],
+  "geohash": "td5nhm6",
+  "geohashUrl": "https://geohash.softeng.co/td5nhm6"
+}

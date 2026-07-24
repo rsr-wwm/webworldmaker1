@@ -1,0 +1,82 @@
+{
+  "id": "greater-poland-poznan",
+  "city": "Poznan",
+  "state": "Greater Poland",
+  "stateSlug": "greater-poland",
+  "citySlug": "poznan",
+  "country": "Poland",
+  "pincode": "60-001",
+  "currency": "PLN",
+  "symbol": "zł",
+  "compliance": "GDPR / UKE",
+  "carriers": [
+    "Orange",
+    "Play",
+    "Plus",
+    "T-Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+48",
+  "timezone": "Europe/Warsaw",
+  "latitude": 52.0395,
+  "longitude": 19.8563,
+  "landmark": "Poznan Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Play, Plus, T-Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Poznan, Poland",
+  "population": 740636,
+  "mobileUsers": 599915,
+  "internetUsers": 454750,
+  "genderRatioText": "970 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "zł22,738 PLN per annum",
+  "activeMobileDevices": 1022077,
+  "mobilePenetration": 81,
+  "internetPenetration": 61.4,
+  "maleCount": 376243,
+  "femaleCount": 364393,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Lublin",
+      "state": "Lublin Voivodeship",
+      "stateSlug": "lublin-voivodeship",
+      "citySlug": "lublin",
+      "distance": 5.481156719688369
+    },
+    {
+      "city": "Katowice",
+      "state": "Silesian Voivodeship",
+      "stateSlug": "silesian-voivodeship",
+      "citySlug": "katowice",
+      "distance": 15.065838764955371
+    },
+    {
+      "city": "Warsaw",
+      "state": "Mazovia",
+      "stateSlug": "mazovia",
+      "citySlug": "warsaw",
+      "distance": 16.7265463366272
+    },
+    {
+      "city": "Gdansk",
+      "state": "Pomerania",
+      "stateSlug": "pomerania",
+      "citySlug": "gdansk",
+      "distance": 19.46245828198806
+    },
+    {
+      "city": "Szczecin",
+      "state": "West Pomerania",
+      "stateSlug": "west-pomerania",
+      "citySlug": "szczecin",
+      "distance": 19.869789771082004
+    }
+  ],
+  "geohash": "u3q05cd",
+  "geohashUrl": "https://geohash.softeng.co/u3q05cd"
+}

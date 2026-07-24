@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-patan",
+  "city": "Patan",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "patan",
+  "country": "India",
+  "pincode": "384265",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.2657,
+  "longitude": 72.5533,
+  "landmark": "Patan Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Patan, India",
+  "population": 4618655,
+  "mobileUsers": 3427042,
+  "internetUsers": 2849710,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.02L per annum",
+  "activeMobileDevices": 5311453,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 61.7,
+  "maleCount": 2373989,
+  "femaleCount": 2244666,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kottarakara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kottarakara",
+      "distance": 48.434567035909936
+    },
+    {
+      "city": "Sawaimadhopur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sawaimadhopur",
+      "distance": 48.99975347356096
+    },
+    {
+      "city": "Makrana",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "makrana",
+      "distance": 55.92664390338148
+    },
+    {
+      "city": "Aizawal G.P.O",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "aizawal-gpo",
+      "distance": 72.96767540119603
+    },
+    {
+      "city": "Barabazar",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barabazar",
+      "distance": 74.90331393086547
+    }
+  ],
+  "geohash": "tt5w6zx",
+  "geohashUrl": "https://geohash.softeng.co/tt5w6zx"
+}

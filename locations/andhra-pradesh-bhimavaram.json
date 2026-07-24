@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-bhimavaram",
+  "city": "Bhimavaram",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "bhimavaram",
+  "country": "India",
+  "pincode": "534201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.6848,
+  "longitude": 72.2486,
+  "landmark": "Bhimavaram Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhimavaram, India",
+  "population": 3083743,
+  "mobileUsers": 2365230,
+  "internetUsers": 1671388,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹7.97L per annum",
+  "activeMobileDevices": 3577141,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 54.2,
+  "maleCount": 1578876,
+  "femaleCount": 1504867,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dausa",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "dausa",
+      "distance": 46.15669548991086
+    },
+    {
+      "city": "Udhampur",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "udhampur",
+      "distance": 61.51458640574707
+    },
+    {
+      "city": "Gudiyattam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "gudiyattam",
+      "distance": 86.22352657778326
+    },
+    {
+      "city": "Gandhinagar (Jammu)",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "gandhinagar-jammu",
+      "distance": 113.64185071640244
+    },
+    {
+      "city": "Belgaum",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "belgaum",
+      "distance": 117.06019177680848
+    }
+  ],
+  "geohash": "teg7k59",
+  "geohashUrl": "https://geohash.softeng.co/teg7k59"
+}

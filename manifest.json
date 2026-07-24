@@ -1,0 +1,17 @@
+{
+  "short_name": "WebWorldMaker",
+  "name": "WebWorldMaker - Enterprise AI & Messaging Ecosystem",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "48x48 96x96 128x128 256x256 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#030014",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait"
+}

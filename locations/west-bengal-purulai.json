@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-purulai",
+  "city": "Purulai",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "purulai",
+  "country": "India",
+  "pincode": "744101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.4167,
+  "longitude": 69.8432,
+  "landmark": "Purulai Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Purulai, India",
+  "population": 5434604,
+  "mobileUsers": 4179210,
+  "internetUsers": 3304239,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.56L per annum",
+  "activeMobileDevices": 6195448,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 60.8,
+  "maleCount": 2847732,
+  "femaleCount": 2586872,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhongir",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhongir",
+      "distance": 17.312082838646
+    },
+    {
+      "city": "Happy valley",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "happy-valley",
+      "distance": 35.602426472695626
+    },
+    {
+      "city": "HAL II Stage",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hal-ii-stage",
+      "distance": 62.445787659770644
+    },
+    {
+      "city": "Borholla",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "borholla",
+      "distance": 64.84174648799332
+    },
+    {
+      "city": "Neemuch",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "neemuch",
+      "distance": 72.61095747639288
+    }
+  ],
+  "geohash": "td1wtk6",
+  "geohashUrl": "https://geohash.softeng.co/td1wtk6"
+}

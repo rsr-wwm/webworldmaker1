@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kalpett",
+  "city": "Kalpett",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kalpett",
+  "country": "India",
+  "pincode": "673121",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.7005,
+  "longitude": 78.4311,
+  "landmark": "Kalpett Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kalpett, India",
+  "population": 7367151,
+  "mobileUsers": 5540097,
+  "internetUsers": 4442392,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.88L per annum",
+  "activeMobileDevices": 7956523,
+  "mobilePenetration": 75.2,
+  "internetPenetration": 60.3,
+  "maleCount": 3853020,
+  "femaleCount": 3514131,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sango",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "sango",
+      "distance": 28.98752139633085
+    },
+    {
+      "city": "Muzaffarnagar",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "muzaffarnagar",
+      "distance": 70.36479903940162
+    },
+    {
+      "city": "Siwan",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "siwan",
+      "distance": 72.12326065800103
+    },
+    {
+      "city": "Pauri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pauri",
+      "distance": 77.08073061886594
+    },
+    {
+      "city": "Kozhikode Civil Station",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kozhikode-civil-station",
+      "distance": 78.21477772782053
+    }
+  ],
+  "geohash": "t9zubez",
+  "geohashUrl": "https://geohash.softeng.co/t9zubez"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-parkal",
+  "city": "Parkal",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "parkal",
+  "country": "India",
+  "pincode": "506164",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.4996,
+  "longitude": 86.2391,
+  "landmark": "Parkal Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Parkal, India",
+  "population": 8687158,
+  "mobileUsers": 6741234,
+  "internetUsers": 5247043,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.30L per annum",
+  "activeMobileDevices": 9642745,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 60.4,
+  "maleCount": 4491261,
+  "femaleCount": 4195897,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ichalkaranji",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ichalkaranji",
+      "distance": 73.03034400298431
+    },
+    {
+      "city": "Silchar",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "silchar",
+      "distance": 75.77689685161751
+    },
+    {
+      "city": "Khurda",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "khurda",
+      "distance": 88.90892284318677
+    },
+    {
+      "city": "Dharmapuri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "dharmapuri",
+      "distance": 125.41631908470232
+    },
+    {
+      "city": "Adur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "adur",
+      "distance": 129.8225878095575
+    }
+  ],
+  "geohash": "tgj7d3t",
+  "geohashUrl": "https://geohash.softeng.co/tgj7d3t"
+}

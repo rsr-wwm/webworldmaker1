@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-khairatabad",
+  "city": "Khairatabad",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "khairatabad",
+  "country": "India",
+  "pincode": "500004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.2519,
+  "longitude": 72.3629,
+  "landmark": "Khairatabad Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Khairatabad, India",
+  "population": 1700774,
+  "mobileUsers": 1292588,
+  "internetUsers": 1000055,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹7.92L per annum",
+  "activeMobileDevices": 2006913,
+  "mobilePenetration": 76,
+  "internetPenetration": 58.8,
+  "maleCount": 879300,
+  "femaleCount": 821474,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Peddapalli",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "peddapalli",
+      "distance": 36.98546087961668
+    },
+    {
+      "city": "Loktak Project",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "loktak-project",
+      "distance": 38.56382985682801
+    },
+    {
+      "city": "Kalpeni",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kalpeni",
+      "distance": 55.75029091323863
+    },
+    {
+      "city": "Rayagada",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rayagada",
+      "distance": 63.90902700424459
+    },
+    {
+      "city": "Godhra",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "godhra",
+      "distance": 86.05596688510884
+    }
+  ],
+  "geohash": "tsg7n9j",
+  "geohashUrl": "https://geohash.softeng.co/tsg7n9j"
+}

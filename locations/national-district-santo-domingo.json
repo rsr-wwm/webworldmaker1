@@ -1,0 +1,80 @@
+{
+  "id": "national-district-santo-domingo",
+  "city": "Santo Domingo",
+  "state": "National District",
+  "stateSlug": "national-district",
+  "citySlug": "santo-domingo",
+  "country": "Dominican Republic",
+  "pincode": "10100",
+  "currency": "DOP",
+  "symbol": "RD$",
+  "compliance": "INDOTEL Rules",
+  "carriers": [
+    "Claro",
+    "Altice"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1",
+  "timezone": "America/Santo_Domingo",
+  "latitude": 19.1604,
+  "longitude": -70.5983,
+  "landmark": "Santo Domingo Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Claro networks. Failovers route over Altice with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Santo Domingo, Dominican Republic",
+  "population": 3614090,
+  "mobileUsers": 2999694,
+  "internetUsers": 2464809,
+  "genderRatioText": "980 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "RD$28,947 DOP per annum",
+  "activeMobileDevices": 4987444,
+  "mobilePenetration": 83,
+  "internetPenetration": 68.2,
+  "maleCount": 1825115,
+  "femaleCount": 1788975,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Santiago de los Caballeros",
+      "state": "Santiago Province",
+      "stateSlug": "santiago-province",
+      "citySlug": "santiago-de-los-caballeros",
+      "distance": 15.429777243040856
+    },
+    {
+      "city": "San Juan",
+      "state": "San Juan Municipality",
+      "stateSlug": "san-juan-municipality",
+      "citySlug": "san-juan",
+      "distance": 441.94879696244396
+    },
+    {
+      "city": "Charlotte Amalie",
+      "state": "Saint Thomas Island",
+      "stateSlug": "saint-thomas-island",
+      "citySlug": "charlotte-amalie",
+      "distance": 600.8496092779532
+    },
+    {
+      "city": "Road Town",
+      "state": "Tortola Island",
+      "stateSlug": "tortola-island",
+      "citySlug": "road-town",
+      "distance": 650.7483493554832
+    },
+    {
+      "city": "Kingston",
+      "state": "Surrey County",
+      "stateSlug": "surrey-county",
+      "citySlug": "kingston",
+      "distance": 736.4347874411795
+    }
+  ],
+  "geohash": "d7mv12p",
+  "geohashUrl": "https://geohash.softeng.co/d7mv12p"
+}

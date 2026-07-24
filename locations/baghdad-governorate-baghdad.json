@@ -1,0 +1,81 @@
+{
+  "id": "baghdad-governorate-baghdad",
+  "city": "Baghdad",
+  "state": "Baghdad Governorate",
+  "stateSlug": "baghdad-governorate",
+  "citySlug": "baghdad",
+  "country": "Iraq",
+  "pincode": "10001",
+  "currency": "IQD",
+  "symbol": "ع.د",
+  "compliance": "CMC Rules",
+  "carriers": [
+    "Zain Iraq",
+    "Asiacell",
+    "Korek"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+964",
+  "timezone": "Asia/Baghdad",
+  "latitude": 33.0312,
+  "longitude": 44.1508,
+  "landmark": "Baghdad GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over Zain Iraq networks. Failovers route over Asiacell, Korek with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Baghdad, Iraq",
+  "population": 3810407,
+  "mobileUsers": 3033083,
+  "internetUsers": 2541541,
+  "genderRatioText": "1,003 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "ع.د42,026 IQD per annum",
+  "activeMobileDevices": 4610592,
+  "mobilePenetration": 79.6,
+  "internetPenetration": 66.7,
+  "maleCount": 1901393,
+  "femaleCount": 1909014,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Erbil",
+      "state": "Kurdistan Region",
+      "stateSlug": "kurdistan-region",
+      "citySlug": "erbil",
+      "distance": 23.372220537957116
+    },
+    {
+      "city": "Basra",
+      "state": "Basra Governorate",
+      "stateSlug": "basra-governorate",
+      "citySlug": "basra",
+      "distance": 25.063949034780133
+    },
+    {
+      "city": "Mosul",
+      "state": "Nineveh Governorate",
+      "stateSlug": "nineveh-governorate",
+      "citySlug": "mosul",
+      "distance": 34.613357894209116
+    },
+    {
+      "city": "Marseille",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "stateSlug": "provence-alpes-cote-dazur",
+      "citySlug": "marseille",
+      "distance": 328.71470130849
+    },
+    {
+      "city": "Kuwait City",
+      "state": "Capital Governorate",
+      "stateSlug": "capital-governorate",
+      "citySlug": "kuwait-city",
+      "distance": 544.9122741436831
+    }
+  ],
+  "geohash": "svz7utj",
+  "geohashUrl": "https://geohash.softeng.co/svz7utj"
+}

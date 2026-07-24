@@ -1,0 +1,82 @@
+{
+  "id": "bihar-kathihar",
+  "city": "Kathihar",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "kathihar",
+  "country": "India",
+  "pincode": "854105",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.3419,
+  "longitude": 69.7888,
+  "landmark": "Kathihar Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kathihar, India",
+  "population": 8876525,
+  "mobileUsers": 6586381,
+  "internetUsers": 5237149,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹10.09L per annum",
+  "activeMobileDevices": 9054055,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 59,
+  "maleCount": 4633546,
+  "femaleCount": 4242979,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nuvem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "nuvem",
+      "distance": 24.983256554927006
+    },
+    {
+      "city": "Nongpoh",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nongpoh",
+      "distance": 33.87461776627673
+    },
+    {
+      "city": "Karimnagar",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "karimnagar",
+      "distance": 37.938722430368706
+    },
+    {
+      "city": "Gwalior (Lashkar)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "gwalior-lashkar",
+      "distance": 41.69032438713
+    },
+    {
+      "city": "Nagpur City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur-city",
+      "distance": 62.84553841853086
+    }
+  ],
+  "geohash": "ts98hj6",
+  "geohashUrl": "https://geohash.softeng.co/ts98hj6"
+}

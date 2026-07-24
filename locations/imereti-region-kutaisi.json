@@ -1,0 +1,81 @@
+{
+  "id": "imereti-region-kutaisi",
+  "city": "Kutaisi",
+  "state": "Imereti Region",
+  "stateSlug": "imereti-region",
+  "citySlug": "kutaisi",
+  "country": "Georgia",
+  "pincode": "4600",
+  "currency": "GEL",
+  "symbol": "₾",
+  "compliance": "GNCC Guidelines",
+  "carriers": [
+    "MagtiCom",
+    "Silknet",
+    "Beeline"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+995",
+  "timezone": "Asia/Tbilisi",
+  "latitude": 42.0907,
+  "longitude": 43.4572,
+  "landmark": "Kutaisi Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over MagtiCom networks. Failovers route over Silknet, Beeline with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kutaisi, Georgia",
+  "population": 4452208,
+  "mobileUsers": 3566218,
+  "internetUsers": 2911744,
+  "genderRatioText": "981 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "₾34,123 GEL per annum",
+  "activeMobileDevices": 5431693,
+  "mobilePenetration": 80.1,
+  "internetPenetration": 65.4,
+  "maleCount": 2248365,
+  "femaleCount": 2203843,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Tbilisi",
+      "state": "Tbilisi Region",
+      "stateSlug": "tbilisi-region",
+      "citySlug": "tbilisi",
+      "distance": 11.025413531801808
+    },
+    {
+      "city": "Gyumri",
+      "state": "Shirak Province",
+      "stateSlug": "shirak-province",
+      "citySlug": "gyumri",
+      "distance": 259.005881270385
+    },
+    {
+      "city": "Yerevan",
+      "state": "Yerevan Municipality",
+      "stateSlug": "yerevan-municipality",
+      "citySlug": "yerevan",
+      "distance": 263.57439109316624
+    },
+    {
+      "city": "Ganja",
+      "state": "Ganja District",
+      "stateSlug": "ganja-district",
+      "citySlug": "ganja",
+      "distance": 378.1152737965945
+    },
+    {
+      "city": "Baku",
+      "state": "Absheron District",
+      "stateSlug": "absheron-district",
+      "citySlug": "baku",
+      "distance": 393.0997009804878
+    }
+  ],
+  "geohash": "szqzkyk",
+  "geohashUrl": "https://geohash.softeng.co/szqzkyk"
+}

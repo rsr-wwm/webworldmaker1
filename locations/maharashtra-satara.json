@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-satara",
+  "city": "Satara",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "satara",
+  "country": "India",
+  "pincode": "415001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.2942,
+  "longitude": 86.6971,
+  "landmark": "Satara Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Satara, India",
+  "population": 4795346,
+  "mobileUsers": 3711597,
+  "internetUsers": 2896388,
+  "genderRatioText": "925 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹8.10L per annum",
+  "activeMobileDevices": 5562601,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 60.4,
+  "maleCount": 2488785,
+  "femaleCount": 2306561,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Yeshwant Road (Indore)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "yeshwant-road-indore",
+      "distance": 23.791238664519764
+    },
+    {
+      "city": "Buldhana",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "buldhana",
+      "distance": 63.742671499578584
+    },
+    {
+      "city": "Nagercoil",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "nagercoil",
+      "distance": 85.82401641972137
+    },
+    {
+      "city": "Churachandpur",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "churachandpur",
+      "distance": 88.51762250641403
+    },
+    {
+      "city": "Karkala",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "karkala",
+      "distance": 88.55765947516733
+    }
+  ],
+  "geohash": "tfjtuy4",
+  "geohashUrl": "https://geohash.softeng.co/tfjtuy4"
+}

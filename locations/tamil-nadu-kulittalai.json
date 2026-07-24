@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-kulittalai",
+  "city": "Kulittalai",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "kulittalai",
+  "country": "India",
+  "pincode": "639104",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.3198,
+  "longitude": 73.4344,
+  "landmark": "Kulittalai State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kulittalai, India",
+  "population": 4464954,
+  "mobileUsers": 3348715,
+  "internetUsers": 2469119,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.80L per annum",
+  "activeMobileDevices": 5045398,
+  "mobilePenetration": 75,
+  "internetPenetration": 55.3,
+  "maleCount": 2290521,
+  "femaleCount": 2174433,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Morai",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "morai",
+      "distance": 25.314151397280085
+    },
+    {
+      "city": "Gadwal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gadwal",
+      "distance": 33.370236387759824
+    },
+    {
+      "city": "Nambol",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "nambol",
+      "distance": 64.52835673620478
+    },
+    {
+      "city": "Kandoli",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kandoli",
+      "distance": 67.85641438193801
+    },
+    {
+      "city": "Kaikalur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kaikalur",
+      "distance": 94.26940513052297
+    }
+  ],
+  "geohash": "ttspz59",
+  "geohashUrl": "https://geohash.softeng.co/ttspz59"
+}

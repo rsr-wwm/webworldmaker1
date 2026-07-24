@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-atur",
+  "city": "Atur",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "atur",
+  "country": "India",
+  "pincode": "636102",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.2531,
+  "longitude": 84.3062,
+  "landmark": "Atur Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Atur, India",
+  "population": 3647838,
+  "mobileUsers": 2735878,
+  "internetUsers": 2068324,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹11.33L per annum",
+  "activeMobileDevices": 3647838,
+  "mobilePenetration": 75,
+  "internetPenetration": 56.7,
+  "maleCount": 1878637,
+  "femaleCount": 1769201,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Saharsa",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "saharsa",
+      "distance": 13.292739041947602
+    },
+    {
+      "city": "Malda",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "malda",
+      "distance": 55.45222651025953
+    },
+    {
+      "city": "Perumbavoor",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "perumbavoor",
+      "distance": 65.24150825744753
+    },
+    {
+      "city": "Mailuri",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mailuri",
+      "distance": 70.06405973759485
+    },
+    {
+      "city": "Solapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "solapur",
+      "distance": 72.09617825387316
+    }
+  ],
+  "geohash": "tv7un7m",
+  "geohashUrl": "https://geohash.softeng.co/tv7un7m"
+}

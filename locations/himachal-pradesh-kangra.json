@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-kangra",
+  "city": "Kangra",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "kangra",
+  "country": "India",
+  "pincode": "176001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.5253,
+  "longitude": 83.002,
+  "landmark": "Kangra Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kangra, India",
+  "population": 9285140,
+  "mobileUsers": 7149557,
+  "internetUsers": 5041831,
+  "genderRatioText": "929 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹9.51L per annum",
+  "activeMobileDevices": 10027951,
+  "mobilePenetration": 77,
+  "internetPenetration": 54.3,
+  "maleCount": 4809703,
+  "femaleCount": 4475437,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tenali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tenali",
+      "distance": 18.768087891028962
+    },
+    {
+      "city": "Ampati",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "ampati",
+      "distance": 31.04143607936411
+    },
+    {
+      "city": "Periyakulam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "periyakulam",
+      "distance": 43.724748055532174
+    },
+    {
+      "city": "Light core peak",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "light-core-peak",
+      "distance": 54.579036788512006
+    },
+    {
+      "city": "Kandukur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kandukur",
+      "distance": 63.70813534209055
+    }
+  ],
+  "geohash": "tu5jbf8",
+  "geohashUrl": "https://geohash.softeng.co/tu5jbf8"
+}

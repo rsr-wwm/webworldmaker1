@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-zahirabad",
+  "city": "Zahirabad",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "zahirabad",
+  "country": "India",
+  "pincode": "502220",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.7539,
+  "longitude": 70.3267,
+  "landmark": "Zahirabad District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Zahirabad, India",
+  "population": 1722894,
+  "mobileUsers": 1299062,
+  "internetUsers": 987218,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹11.45L per annum",
+  "activeMobileDevices": 1998557,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 57.3,
+  "maleCount": 902796,
+  "femaleCount": 820098,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sriganganagar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sriganganagar",
+      "distance": 37.03473452084538
+    },
+    {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "coimbatore",
+      "distance": 74.21353217369236
+    },
+    {
+      "city": "Udagamandalam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "udagamandalam",
+      "distance": 81.21688950730594
+    },
+    {
+      "city": "Palakkad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palakkad",
+      "distance": 89.9227193560359
+    },
+    {
+      "city": "Angul",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "angul",
+      "distance": 96.37725823330429
+    }
+  ],
+  "geohash": "tdfp23f",
+  "geohashUrl": "https://geohash.softeng.co/tdfp23f"
+}

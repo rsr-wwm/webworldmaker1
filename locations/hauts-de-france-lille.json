@@ -1,0 +1,82 @@
+{
+  "id": "hauts-de-france-lille",
+  "city": "Lille",
+  "state": "Hauts-de-France",
+  "stateSlug": "hauts-de-france",
+  "citySlug": "lille",
+  "country": "France",
+  "pincode": "59000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ARCEP",
+  "carriers": [
+    "Orange",
+    "SFR",
+    "Bouygues",
+    "Free Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+33 1",
+  "timezone": "Europe/Paris",
+  "latitude": 34.7701,
+  "longitude": -12.0138,
+  "landmark": "Lille Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Lille, France",
+  "population": 4369168,
+  "mobileUsers": 4128863,
+  "internetUsers": 4015265,
+  "genderRatioText": "985 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "€64,585 per annum",
+  "activeMobileDevices": 5330384,
+  "mobilePenetration": 94.5,
+  "internetPenetration": 91.9,
+  "maleCount": 2202061,
+  "femaleCount": 2167107,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Lisbon",
+      "state": "Lisbon District",
+      "stateSlug": "lisbon-district",
+      "citySlug": "lisbon",
+      "distance": 624.1246181872834
+    },
+    {
+      "city": "Porto",
+      "state": "Porto District",
+      "stateSlug": "porto-district",
+      "citySlug": "porto",
+      "distance": 637.1766204077484
+    },
+    {
+      "city": "Marrakech",
+      "state": "Marrakesh-Safi",
+      "stateSlug": "marrakesh-safi",
+      "citySlug": "marrakech",
+      "distance": 708.7095456172816
+    },
+    {
+      "city": "Casablanca",
+      "state": "Casablanca-Settat",
+      "stateSlug": "casablanca-settat",
+      "citySlug": "casablanca",
+      "distance": 712.0726390766106
+    },
+    {
+      "city": "Rabat",
+      "state": "Rabat-Salé-Kénitra",
+      "stateSlug": "rabat-sale-kenitra",
+      "citySlug": "rabat",
+      "distance": 713.4627332720796
+    }
+  ],
+  "geohash": "ewpmy9e",
+  "geohashUrl": "https://geohash.softeng.co/ewpmy9e"
+}

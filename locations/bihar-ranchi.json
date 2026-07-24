@@ -1,0 +1,82 @@
+{
+  "id": "bihar-ranchi",
+  "city": "Ranchi",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "ranchi",
+  "country": "India",
+  "pincode": "834001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.7261,
+  "longitude": 83.4407,
+  "landmark": "Ranchi Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ranchi, India",
+  "population": 2094504,
+  "mobileUsers": 1577161,
+  "internetUsers": 1262985,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹7.18L per annum",
+  "activeMobileDevices": 2220174,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 60.3,
+  "maleCount": 1080764,
+  "femaleCount": 1013740,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Singjamai bazar",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "singjamai-bazar",
+      "distance": 52.57224917520494
+    },
+    {
+      "city": "Madhobewala",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "madhobewala",
+      "distance": 65.58668804617818
+    },
+    {
+      "city": "Sumer",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "sumer",
+      "distance": 80.09339779439235
+    },
+    {
+      "city": "Hemlauk",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "hemlauk",
+      "distance": 82.55130064631146
+    },
+    {
+      "city": "Markapur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "markapur",
+      "distance": 101.17490637854323
+    }
+  ],
+  "geohash": "tce3dsx",
+  "geohashUrl": "https://geohash.softeng.co/tce3dsx"
+}

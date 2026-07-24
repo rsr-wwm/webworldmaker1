@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-trimulgherry",
+  "city": "Trimulgherry",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "trimulgherry",
+  "country": "India",
+  "pincode": "500015",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.9242,
+  "longitude": 84.3362,
+  "landmark": "Trimulgherry Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Trimulgherry, India",
+  "population": 6280151,
+  "mobileUsers": 4659872,
+  "internetUsers": 3573405,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹10.77L per annum",
+  "activeMobileDevices": 7096570,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 56.9,
+  "maleCount": 3234278,
+  "femaleCount": 3045873,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mailuri",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mailuri",
+      "distance": 21.32858704860912
+    },
+    {
+      "city": "Bhanjanagar",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhanjanagar",
+      "distance": 27.96120371615024
+    },
+    {
+      "city": "Malda",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "malda",
+      "distance": 28.673540055791314
+    },
+    {
+      "city": "Motihari",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "motihari",
+      "distance": 64.53378440257289
+    },
+    {
+      "city": "Atur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "atur",
+      "distance": 74.6781468091205
+    }
+  ],
+  "geohash": "tv7zzje",
+  "geohashUrl": "https://geohash.softeng.co/tv7zzje"
+}

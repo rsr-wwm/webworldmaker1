@@ -1,0 +1,82 @@
+{
+  "id": "kerala-vadakara",
+  "city": "Vadakara",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "vadakara",
+  "country": "India",
+  "pincode": "673101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.5618,
+  "longitude": 84.1141,
+  "landmark": "Vadakara Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vadakara, India",
+  "population": 5941357,
+  "mobileUsers": 4360956,
+  "internetUsers": 3463811,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹10.36L per annum",
+  "activeMobileDevices": 6832560,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 58.3,
+  "maleCount": 3119212,
+  "femaleCount": 2822145,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sidhi",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sidhi",
+      "distance": 38.27907686054535
+    },
+    {
+      "city": "Amritsar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "amritsar",
+      "distance": 66.3365625005503
+    },
+    {
+      "city": "Wokha",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "wokha",
+      "distance": 112.3528287627809
+    },
+    {
+      "city": "Ramachandrapuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "ramachandrapuram",
+      "distance": 119.03951083237918
+    },
+    {
+      "city": "Madikeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "madikeri",
+      "distance": 120.86476536890851
+    }
+  ],
+  "geohash": "tu5b656",
+  "geohashUrl": "https://geohash.softeng.co/tu5b656"
+}

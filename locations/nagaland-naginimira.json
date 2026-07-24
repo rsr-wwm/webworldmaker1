@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-naginimira",
+  "city": "Naginimira",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "naginimira",
+  "country": "India",
+  "pincode": "798622",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.772,
+  "longitude": 82.0328,
+  "landmark": "Naginimira Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Naginimira, India",
+  "population": 9842718,
+  "mobileUsers": 7234397,
+  "internetUsers": 5502079,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹11.54L per annum",
+  "activeMobileDevices": 10531708,
+  "mobilePenetration": 73.5,
+  "internetPenetration": 55.9,
+  "maleCount": 5147742,
+  "femaleCount": 4694976,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hardoi",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "hardoi",
+      "distance": 30.18111074750775
+    },
+    {
+      "city": "Panna",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "panna",
+      "distance": 47.44416207748048
+    },
+    {
+      "city": "Bankura",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "bankura",
+      "distance": 117.96050190659399
+    },
+    {
+      "city": "Ratlam",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "ratlam",
+      "distance": 134.63658014058672
+    },
+    {
+      "city": "Union Christian College",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "union-christian-college",
+      "distance": 142.92272435699712
+    }
+  ],
+  "geohash": "tf46fxn",
+  "geohashUrl": "https://geohash.softeng.co/tf46fxn"
+}

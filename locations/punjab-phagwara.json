@@ -1,0 +1,82 @@
+{
+  "id": "punjab-phagwara",
+  "city": "Phagwara",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "phagwara",
+  "country": "India",
+  "pincode": "144401",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.4528,
+  "longitude": 84.0229,
+  "landmark": "Phagwara Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Phagwara, India",
+  "population": 7779143,
+  "mobileUsers": 6021056,
+  "internetUsers": 4745277,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹6.58L per annum",
+  "activeMobileDevices": 8790431,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 61,
+  "maleCount": 4060713,
+  "femaleCount": 3718430,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kothgudem Collieries",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kothgudem-collieries",
+      "distance": 35.24819885392144
+    },
+    {
+      "city": "Morena",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "morena",
+      "distance": 40.25526401949114
+    },
+    {
+      "city": "Kayamkulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kayamkulam",
+      "distance": 41.537769997119554
+    },
+    {
+      "city": "Valsad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "valsad",
+      "distance": 68.12064822176256
+    },
+    {
+      "city": "Phutmouri",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "phutmouri",
+      "distance": 69.54275352534857
+    }
+  ],
+  "geohash": "tf59puz",
+  "geohashUrl": "https://geohash.softeng.co/tf59puz"
+}

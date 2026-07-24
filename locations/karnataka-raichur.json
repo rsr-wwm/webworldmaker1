@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-raichur",
+  "city": "Raichur",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "raichur",
+  "country": "India",
+  "pincode": "584101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.6759,
+  "longitude": 82.7415,
+  "landmark": "Raichur Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Raichur, India",
+  "population": 2343132,
+  "mobileUsers": 1787809,
+  "internetUsers": 1431653,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹6.84L per annum",
+  "activeMobileDevices": 2460288,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 61.1,
+  "maleCount": 1204370,
+  "femaleCount": 1138762,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Koppal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "koppal",
+      "distance": 61.9686862843737
+    },
+    {
+      "city": "Tiruvannamalai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruvannamalai",
+      "distance": 65.838373421035
+    },
+    {
+      "city": "Chinsurah",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "chinsurah",
+      "distance": 72.58661035910677
+    },
+    {
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "mangalore",
+      "distance": 85.13831165917787
+    },
+    {
+      "city": "Bhagalpur",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bhagalpur",
+      "distance": 96.33512619875565
+    }
+  ],
+  "geohash": "tg4udcf",
+  "geohashUrl": "https://geohash.softeng.co/tg4udcf"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-manipal",
+  "city": "Manipal",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "manipal",
+  "country": "India",
+  "pincode": "576119",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.2864,
+  "longitude": 84.0607,
+  "landmark": "Manipal District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Manipal, India",
+  "population": 9014172,
+  "mobileUsers": 6571331,
+  "internetUsers": 4975822,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹8.94L per annum",
+  "activeMobileDevices": 10726864,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 55.2,
+  "maleCount": 4633284,
+  "femaleCount": 4380888,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gorakhpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gorakhpur",
+      "distance": 50.99689862181757
+    },
+    {
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mathura",
+      "distance": 57.68840584250179
+    },
+    {
+      "city": "Kanhangad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanhangad",
+      "distance": 71.66993909261136
+    },
+    {
+      "city": "Park Town",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "park-town",
+      "distance": 72.09809901558894
+    },
+    {
+      "city": "Chitradurga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chitradurga",
+      "distance": 75.89025757177092
+    }
+  ],
+  "geohash": "tuev8c7",
+  "geohashUrl": "https://geohash.softeng.co/tuev8c7"
+}

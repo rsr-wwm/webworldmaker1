@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-madhobewala",
+  "city": "Madhobewala",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "madhobewala",
+  "country": "India",
+  "pincode": "248110",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.1496,
+  "longitude": 83.0251,
+  "landmark": "Madhobewala Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Madhobewala, India",
+  "population": 1885010,
+  "mobileUsers": 1442032,
+  "internetUsers": 1057490,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹11.15L per annum",
+  "activeMobileDevices": 2243161,
+  "mobilePenetration": 76.5,
+  "internetPenetration": 56.1,
+  "maleCount": 989630,
+  "femaleCount": 895380,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sumer",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "sumer",
+      "distance": 18.84835812630605
+    },
+    {
+      "city": "Hemlauk",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "hemlauk",
+      "distance": 22.40961624446947
+    },
+    {
+      "city": "Markapur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "markapur",
+      "distance": 54.54467395863816
+    },
+    {
+      "city": "Ranchi",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "ranchi",
+      "distance": 65.58668804617818
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 94.22913139320296
+    }
+  ],
+  "geohash": "tceh139",
+  "geohashUrl": "https://geohash.softeng.co/tceh139"
+}

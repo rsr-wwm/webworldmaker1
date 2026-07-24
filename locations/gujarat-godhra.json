@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-godhra",
+  "city": "Godhra",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "godhra",
+  "country": "India",
+  "pincode": "389001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.7292,
+  "longitude": 73.0034,
+  "landmark": "Godhra Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Godhra, India",
+  "population": 1844307,
+  "mobileUsers": 1429337,
+  "internetUsers": 1003303,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.87L per annum",
+  "activeMobileDevices": 1973408,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 54.4,
+  "maleCount": 946129,
+  "femaleCount": 898178,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kalpeni",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kalpeni",
+      "distance": 32.52908651270219
+    },
+    {
+      "city": "Rayagada",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rayagada",
+      "distance": 53.0992601159823
+    },
+    {
+      "city": "Tumkur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tumkur",
+      "distance": 58.345756531075146
+    },
+    {
+      "city": "Mohanpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mohanpur",
+      "distance": 81.75307683879406
+    },
+    {
+      "city": "Khairatabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "khairatabad",
+      "distance": 86.05596688510884
+    }
+  ],
+  "geohash": "tsgbj1z",
+  "geohashUrl": "https://geohash.softeng.co/tsgbj1z"
+}

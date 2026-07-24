@@ -1,0 +1,82 @@
+{
+  "id": "orissa-chandnichowk",
+  "city": "Chandnichowk",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "chandnichowk",
+  "country": "India",
+  "pincode": "753002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.4923,
+  "longitude": 68.978,
+  "landmark": "Chandnichowk Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chandnichowk, India",
+  "population": 2629090,
+  "mobileUsers": 2021770,
+  "internetUsers": 1506468,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹11.44L per annum",
+  "activeMobileDevices": 2655380,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 57.3,
+  "maleCount": 1338207,
+  "femaleCount": 1290883,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kollegal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kollegal",
+      "distance": 10.552137128022544
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur",
+      "distance": 56.6210117897462
+    },
+    {
+      "city": "Chandrapur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "chandrapur",
+      "distance": 119.98194856469664
+    },
+    {
+      "city": "Proddatur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "proddatur",
+      "distance": 132.6415036176007
+    },
+    {
+      "city": "Dholpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "dholpur",
+      "distance": 167.57401509437648
+    }
+  ],
+  "geohash": "ttc0ceh",
+  "geohashUrl": "https://geohash.softeng.co/ttc0ceh"
+}

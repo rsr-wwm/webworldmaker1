@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-karimnagar",
+  "city": "Karimnagar",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "karimnagar",
+  "country": "India",
+  "pincode": "505001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.5907,
+  "longitude": 70.0474,
+  "landmark": "Karimnagar Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Karimnagar, India",
+  "population": 2274884,
+  "mobileUsers": 1763035,
+  "internetUsers": 1333082,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹8.28L per annum",
+  "activeMobileDevices": 2411377,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 58.6,
+  "maleCount": 1157916,
+  "femaleCount": 1116968,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nuvem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "nuvem",
+      "distance": 14.015932932693671
+    },
+    {
+      "city": "Kathihar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "kathihar",
+      "distance": 37.938722430368706
+    },
+    {
+      "city": "Gwalior (Lashkar)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "gwalior-lashkar",
+      "distance": 40.51190657608872
+    },
+    {
+      "city": "Thiruvallur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thiruvallur",
+      "distance": 62.15654806251695
+    },
+    {
+      "city": "Chengalpattu",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "chengalpattu",
+      "distance": 63.83904608047199
+    }
+  ],
+  "geohash": "ts9c9fw",
+  "geohashUrl": "https://geohash.softeng.co/ts9c9fw"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-koppal",
+  "city": "Koppal",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "koppal",
+  "country": "India",
+  "pincode": "583231",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.8908,
+  "longitude": 83.2815,
+  "landmark": "Koppal District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Koppal, India",
+  "population": 6653912,
+  "mobileUsers": 4970472,
+  "internetUsers": 3626382,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹11.76L per annum",
+  "activeMobileDevices": 6786990,
+  "mobilePenetration": 74.7,
+  "internetPenetration": 54.5,
+  "maleCount": 3400149,
+  "femaleCount": 3253763,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Raichur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "raichur",
+      "distance": 61.9686862843737
+    },
+    {
+      "city": "Pulivendla",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "pulivendla",
+      "distance": 74.1258717806292
+    },
+    {
+      "city": "Mon",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mon",
+      "distance": 109.63693605419753
+    },
+    {
+      "city": "Dargamitta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "dargamitta",
+      "distance": 110.59252884744429
+    },
+    {
+      "city": "Bhagalpur",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bhagalpur",
+      "distance": 112.1742463344124
+    }
+  ],
+  "geohash": "tg5jz0g",
+  "geohashUrl": "https://geohash.softeng.co/tg5jz0g"
+}

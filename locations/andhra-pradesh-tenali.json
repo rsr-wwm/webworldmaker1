@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-tenali",
+  "city": "Tenali",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "tenali",
+  "country": "India",
+  "pincode": "522201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.5966,
+  "longitude": 82.8351,
+  "landmark": "Tenali State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tenali, India",
+  "population": 8972613,
+  "mobileUsers": 6630761,
+  "internetUsers": 4845211,
+  "genderRatioText": "907 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹9.33L per annum",
+  "activeMobileDevices": 9062339,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 54,
+  "maleCount": 4701649,
+  "femaleCount": 4270964,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kangra",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "kangra",
+      "distance": 18.768087891028962
+    },
+    {
+      "city": "Light core peak",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "light-core-peak",
+      "distance": 36.48937332146735
+    },
+    {
+      "city": "Ampati",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "ampati",
+      "distance": 47.88902344344056
+    },
+    {
+      "city": "Mohripur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mohripur",
+      "distance": 54.991001399756
+    },
+    {
+      "city": "Periyakulam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "periyakulam",
+      "distance": 56.30624475462903
+    }
+  ],
+  "geohash": "tu4yhzw",
+  "geohashUrl": "https://geohash.softeng.co/tu4yhzw"
+}

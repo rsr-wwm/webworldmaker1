@@ -1,0 +1,81 @@
+{
+  "id": "littoral-region-douala",
+  "city": "Douala",
+  "state": "Littoral Region",
+  "stateSlug": "littoral-region",
+  "citySlug": "douala",
+  "country": "Cameroon",
+  "pincode": "00000",
+  "currency": "XAF",
+  "symbol": "FCFA",
+  "compliance": "ART Guidelines",
+  "carriers": [
+    "MTN",
+    "Orange",
+    "Nexttel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+237",
+  "timezone": "Africa/Douala",
+  "latitude": 6.1914,
+  "longitude": 12.0041,
+  "landmark": "Douala Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Orange, Nexttel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Douala, Cameroon",
+  "population": 1088232,
+  "mobileUsers": 853173,
+  "internetUsers": 708439,
+  "genderRatioText": "1,009 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "FCFA26,093 XAF per annum",
+  "activeMobileDevices": 1436466,
+  "mobilePenetration": 78.4,
+  "internetPenetration": 65.1,
+  "maleCount": 541940,
+  "femaleCount": 546292,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Yaounde",
+      "state": "Centre Region",
+      "stateSlug": "centre-region",
+      "citySlug": "yaounde",
+      "distance": 30.526941443799533
+    },
+    {
+      "city": "Malabo",
+      "state": "Bioko Norte",
+      "stateSlug": "bioko-norte",
+      "citySlug": "malabo",
+      "distance": 501.7266661364534
+    },
+    {
+      "city": "Ibadan",
+      "state": "Oyo State",
+      "stateSlug": "oyo-state",
+      "citySlug": "ibadan",
+      "distance": 615.746557292654
+    },
+    {
+      "city": "Lagos",
+      "state": "Lagos State",
+      "stateSlug": "lagos-state",
+      "citySlug": "lagos",
+      "distance": 618.3951744774357
+    },
+    {
+      "city": "Port Harcourt",
+      "state": "Rivers State",
+      "stateSlug": "rivers-state",
+      "citySlug": "port-harcourt",
+      "distance": 621.0982540590007
+    }
+  ],
+  "geohash": "s30e1pj",
+  "geohashUrl": "https://geohash.softeng.co/s30e1pj"
+}

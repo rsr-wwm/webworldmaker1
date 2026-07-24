@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-recong-peo",
+  "city": "Recong Peo",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "recong-peo",
+  "country": "India",
+  "pincode": "172107",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.7131,
+  "longitude": 89.1754,
+  "landmark": "Recong Peo Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Recong Peo, India",
+  "population": 754678,
+  "mobileUsers": 581856,
+  "internetUsers": 426393,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹11.35L per annum",
+  "activeMobileDevices": 837692,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 56.5,
+  "maleCount": 384131,
+  "femaleCount": 370547,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mumbai G.P.O.",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai-gpo",
+      "distance": 18.94487920602398
+    },
+    {
+      "city": "Erode",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "erode",
+      "distance": 83.41876464684604
+    },
+    {
+      "city": "Senapati",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "senapati",
+      "distance": 89.6650223461993
+    },
+    {
+      "city": "Mahim",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mahim",
+      "distance": 93.12214050942953
+    },
+    {
+      "city": "Ranikhet",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ranikhet",
+      "distance": 96.97584953349589
+    }
+  ],
+  "geohash": "tvp7m5p",
+  "geohashUrl": "https://geohash.softeng.co/tvp7m5p"
+}

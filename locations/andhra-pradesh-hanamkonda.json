@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-hanamkonda",
+  "city": "Hanamkonda",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "hanamkonda",
+  "country": "India",
+  "pincode": "506001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.2047,
+  "longitude": 83.493,
+  "landmark": "Hanamkonda Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hanamkonda, India",
+  "population": 3022144,
+  "mobileUsers": 2317984,
+  "internetUsers": 1767954,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹10.66L per annum",
+  "activeMobileDevices": 3445244,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 58.5,
+  "maleCount": 1559426,
+  "femaleCount": 1462718,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Raigarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raigarh",
+      "distance": 33.79538493395656
+    },
+    {
+      "city": "Phutmouri",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "phutmouri",
+      "distance": 44.27927445563738
+    },
+    {
+      "city": "Morena",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "morena",
+      "distance": 61.40478618126142
+    },
+    {
+      "city": "Aurangabad",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "aurangabad",
+      "distance": 66.15347959745688
+    },
+    {
+      "city": "Hindaun",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "hindaun",
+      "distance": 88.95084591650328
+    }
+  ],
+  "geohash": "tf5m7vv",
+  "geohashUrl": "https://geohash.softeng.co/tf5m7vv"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "hokkaido-sapporo",
+  "city": "Sapporo",
+  "state": "Hokkaido",
+  "stateSlug": "hokkaido",
+  "citySlug": "sapporo",
+  "country": "Japan",
+  "pincode": "060-0808",
+  "currency": "JPY",
+  "symbol": "¥",
+  "compliance": "MIC Telecommunications Act",
+  "carriers": [
+    "NTT Docomo",
+    "KDDI",
+    "SoftBank"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+81 3",
+  "timezone": "Asia/Tokyo",
+  "latitude": 43.061936,
+  "longitude": 141.3542924,
+  "landmark": "Sapporo GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Sapporo, Japan",
+  "population": 4758946,
+  "mobileUsers": 4392507,
+  "internetUsers": 4206908,
+  "genderRatioText": "983 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "¥19,309 JPY per annum",
+  "activeMobileDevices": 5901093,
+  "mobilePenetration": 92.3,
+  "internetPenetration": 88.4,
+  "maleCount": 2398509,
+  "femaleCount": 2360437,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Sendai",
+      "state": "Miyagi Prefecture",
+      "stateSlug": "miyagi-prefecture",
+      "citySlug": "sendai",
+      "distance": 534.6537828005986
+    },
+    {
+      "city": "Niigata",
+      "state": "Niigata Prefecture",
+      "stateSlug": "niigata-prefecture",
+      "citySlug": "niigata",
+      "distance": 604.7329483685518
+    },
+    {
+      "city": "Saitama",
+      "state": "Saitama Prefecture",
+      "stateSlug": "saitama-prefecture",
+      "citySlug": "saitama",
+      "distance": 813.9132166385089
+    },
+    {
+      "city": "Tokyo",
+      "state": "Tokyo Metropolis",
+      "stateSlug": "tokyo-metropolis",
+      "citySlug": "tokyo",
+      "distance": 832.4381731398765
+    },
+    {
+      "city": "Yokohama",
+      "state": "Kanagawa Prefecture",
+      "stateSlug": "kanagawa-prefecture",
+      "citySlug": "yokohama",
+      "distance": 859.1716154099761
+    }
+  ],
+  "geohash": "xpssbx5",
+  "geohashUrl": "https://geohash.softeng.co/xpssbx5"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-naya-bangla",
+  "city": "Naya bangla",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "naya-bangla",
+  "country": "India",
+  "pincode": "793105",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.761,
+  "longitude": 74.5292,
+  "landmark": "Naya bangla Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Naya bangla, India",
+  "population": 879095,
+  "mobileUsers": 647013,
+  "internetUsers": 519545,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹10.14L per annum",
+  "activeMobileDevices": 1010959,
+  "mobilePenetration": 73.6,
+  "internetPenetration": 59.1,
+  "maleCount": 450976,
+  "femaleCount": 428119,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tallakulam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tallakulam",
+      "distance": 11.998728669033378
+    },
+    {
+      "city": "Lilong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lilong",
+      "distance": 25.600794392502387
+    },
+    {
+      "city": "Barpeta",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "barpeta",
+      "distance": 74.15815647331254
+    },
+    {
+      "city": "Gopalganj",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gopalganj",
+      "distance": 74.6095822080986
+    },
+    {
+      "city": "Labarchandmari",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labarchandmari",
+      "distance": 124.45369220363479
+    }
+  ],
+  "geohash": "t9uvpyy",
+  "geohashUrl": "https://geohash.softeng.co/t9uvpyy"
+}

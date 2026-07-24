@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-gwalior-lashkar",
+  "city": "Gwalior (Lashkar)",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "gwalior-lashkar",
+  "country": "India",
+  "pincode": "474001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.2502,
+  "longitude": 70.1909,
+  "landmark": "Gwalior (Lashkar) Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gwalior (Lashkar), India",
+  "population": 8710260,
+  "mobileUsers": 6280097,
+  "internetUsers": 5304548,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹6.14L per annum",
+  "activeMobileDevices": 9407080,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 60.9,
+  "maleCount": 4468363,
+  "femaleCount": 4241897,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nuvem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "nuvem",
+      "distance": 32.4153403738502
+    },
+    {
+      "city": "Karimnagar",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "karimnagar",
+      "distance": 40.51190657608872
+    },
+    {
+      "city": "Kathihar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "kathihar",
+      "distance": 41.69032438713
+    },
+    {
+      "city": "Chengalpattu",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "chengalpattu",
+      "distance": 56.17864489579713
+    },
+    {
+      "city": "Nongpoh",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nongpoh",
+      "distance": 66.56763285678305
+    }
+  ],
+  "geohash": "ts3zthx",
+  "geohashUrl": "https://geohash.softeng.co/ts3zthx"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-tandur",
+  "city": "Tandur",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "tandur",
+  "country": "India",
+  "pincode": "501141",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.5075,
+  "longitude": 76.3455,
+  "landmark": "Tandur GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tandur, India",
+  "population": 9878686,
+  "mobileUsers": 7300348,
+  "internetUsers": 5601214,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹9.06L per annum",
+  "activeMobileDevices": 10273833,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 56.7,
+  "maleCount": 5057887,
+  "femaleCount": 4820799,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dhar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "dhar",
+      "distance": 5.4894479209669536
+    },
+    {
+      "city": "Gumla",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gumla",
+      "distance": 15.347900961668149
+    },
+    {
+      "city": "Karwar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "karwar",
+      "distance": 19.46411055291553
+    },
+    {
+      "city": "Puttur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "puttur",
+      "distance": 29.035633474579942
+    },
+    {
+      "city": "Purnea",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "purnea",
+      "distance": 32.49133143615147
+    }
+  ],
+  "geohash": "ttqm939",
+  "geohashUrl": "https://geohash.softeng.co/ttqm939"
+}

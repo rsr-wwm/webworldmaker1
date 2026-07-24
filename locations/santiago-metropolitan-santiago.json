@@ -1,0 +1,82 @@
+{
+  "id": "santiago-metropolitan-santiago",
+  "city": "Santiago",
+  "state": "Santiago Metropolitan",
+  "stateSlug": "santiago-metropolitan",
+  "citySlug": "santiago",
+  "country": "Chile",
+  "pincode": "8320000",
+  "currency": "CLP",
+  "symbol": "$",
+  "compliance": "SUBTEL Guidelines",
+  "carriers": [
+    "Entel",
+    "Movistar",
+    "WOM",
+    "Claro"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+56",
+  "timezone": "America/Punta_Arenas",
+  "latitude": -30.0946,
+  "longitude": -70.873,
+  "landmark": "Santiago GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over Entel networks. Failovers route over Movistar, WOM, Claro with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Santiago, Chile",
+  "population": 4396022,
+  "mobileUsers": 3560777,
+  "internetUsers": 2918958,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "$19,990 CLP per annum",
+  "activeMobileDevices": 6110470,
+  "mobilePenetration": 81,
+  "internetPenetration": 66.4,
+  "maleCount": 2241971,
+  "femaleCount": 2154051,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Valparaiso",
+      "state": "Valparaiso Province",
+      "stateSlug": "valparaiso-province",
+      "citySlug": "valparaiso",
+      "distance": 16.418108952589808
+    },
+    {
+      "city": "Concepcion",
+      "state": "Concepcion Province",
+      "stateSlug": "concepcion-province",
+      "citySlug": "concepcion",
+      "distance": 31.695520812494728
+    },
+    {
+      "city": "San Miguel de Tucuman",
+      "state": "Tucuman Province",
+      "stateSlug": "tucuman-province",
+      "citySlug": "san-miguel-de-tucuman",
+      "distance": 779.8218127853822
+    },
+    {
+      "city": "Rosario",
+      "state": "Santa Fe Province",
+      "stateSlug": "santa-fe-province",
+      "citySlug": "rosario",
+      "distance": 781.2213884242063
+    },
+    {
+      "city": "Cordoba",
+      "state": "Cordoba Province",
+      "stateSlug": "cordoba-province",
+      "citySlug": "cordoba",
+      "distance": 781.4914585317315
+    }
+  ],
+  "geohash": "66tsg1r",
+  "geohashUrl": "https://geohash.softeng.co/66tsg1r"
+}

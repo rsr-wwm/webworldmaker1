@@ -1,0 +1,82 @@
+{
+  "id": "delhi-new-delhi",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "stateSlug": "delhi",
+  "citySlug": "new-delhi",
+  "country": "India",
+  "pincode": "110001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 11",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.1005,
+  "longitude": 84.1435,
+  "landmark": "New Delhi Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for New Delhi, India",
+  "population": 1135851,
+  "mobileUsers": 846208,
+  "internetUsers": 664472,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹6.17L per annum",
+  "activeMobileDevices": 1283511,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 58.5,
+  "maleCount": 581556,
+  "femaleCount": 554295,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nalbari",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nalbari",
+      "distance": 26.67223411125453
+    },
+    {
+      "city": "Rairangpur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rairangpur",
+      "distance": 34.502769846322764
+    },
+    {
+      "city": "Hindaun",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "hindaun",
+      "distance": 42.71621788523165
+    },
+    {
+      "city": "Taran Taran",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "taran-taran",
+      "distance": 48.768277086099474
+    },
+    {
+      "city": "Aurangabad",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "aurangabad",
+      "distance": 57.35661573273573
+    }
+  ],
+  "geohash": "tf7fd8z",
+  "geohashUrl": "https://geohash.softeng.co/tf7fd8z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-nadiad",
+  "city": "Nadiad",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "nadiad",
+  "country": "India",
+  "pincode": "387001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.2787,
+  "longitude": 69.5464,
+  "landmark": "Nadiad Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nadiad, India",
+  "population": 4799200,
+  "mobileUsers": 3680986,
+  "internetUsers": 2802732,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹11.99L per annum",
+  "activeMobileDevices": 5471087,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 58.4,
+  "maleCount": 2505182,
+  "femaleCount": 2294018,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Karnal",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "karnal",
+      "distance": 3.9599489328175945
+    },
+    {
+      "city": "Arambagh",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "arambagh",
+      "distance": 5.448484168117282
+    },
+    {
+      "city": "Hamirpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "hamirpur",
+      "distance": 23.291812867238104
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad",
+      "distance": 28.70940892283129
+    },
+    {
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi",
+      "distance": 36.772313891852484
+    }
+  ],
+  "geohash": "tt3kq84",
+  "geohashUrl": "https://geohash.softeng.co/tt3kq84"
+}

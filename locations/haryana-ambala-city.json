@@ -1,0 +1,82 @@
+{
+  "id": "haryana-ambala-city",
+  "city": "Ambala City",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "ambala-city",
+  "country": "India",
+  "pincode": "133003",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.9458,
+  "longitude": 83.0437,
+  "landmark": "Ambala City Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ambala City, India",
+  "population": 2833944,
+  "mobileUsers": 2068779,
+  "internetUsers": 1598344,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹9.05L per annum",
+  "activeMobileDevices": 3117338,
+  "mobilePenetration": 73,
+  "internetPenetration": 56.4,
+  "maleCount": 1445311,
+  "femaleCount": 1388633,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Olavakkot",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "olavakkot",
+      "distance": 7.729499287089702
+    },
+    {
+      "city": "Pani Sagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "pani-sagar",
+      "distance": 22.66428484245528
+    },
+    {
+      "city": "Dhenkanal",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "dhenkanal",
+      "distance": 24.907752500334492
+    },
+    {
+      "city": "Fatehgarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "fatehgarh",
+      "distance": 57.802833748549475
+    },
+    {
+      "city": "Adilabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "adilabad",
+      "distance": 58.0976186580865
+    }
+  ],
+  "geohash": "tu7jctn",
+  "geohashUrl": "https://geohash.softeng.co/tu7jctn"
+}

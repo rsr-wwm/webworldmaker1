@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-deomali",
+  "city": "Deomali",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "deomali",
+  "country": "India",
+  "pincode": "786629",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.574,
+  "longitude": 79.7531,
+  "landmark": "Deomali Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Deomali, India",
+  "population": 974785,
+  "mobileUsers": 749609,
+  "internetUsers": 573173,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹10.12L per annum",
+  "activeMobileDevices": 1150246,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 58.8,
+  "maleCount": 501039,
+  "femaleCount": 473746,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Port Blair",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "port-blair",
+      "distance": 61.14427626368735
+    },
+    {
+      "city": "Kozhikode Civil Station",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kozhikode-civil-station",
+      "distance": 89.09282176639319
+    },
+    {
+      "city": "Kalkalang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "kalkalang",
+      "distance": 92.16245866365713
+    },
+    {
+      "city": "Parleshwar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "parleshwar",
+      "distance": 95.49803513964967
+    },
+    {
+      "city": "Kakching bazar",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "kakching-bazar",
+      "distance": 112.10804979446628
+    }
+  ],
+  "geohash": "tcbsnuf",
+  "geohashUrl": "https://geohash.softeng.co/tcbsnuf"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-ghatkoper-east",
+  "city": "Ghatkoper East",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "ghatkoper-east",
+  "country": "India",
+  "pincode": "400086",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.0132,
+  "longitude": 82.5538,
+  "landmark": "Ghatkoper East Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ghatkoper East, India",
+  "population": 8139810,
+  "mobileUsers": 6218814,
+  "internetUsers": 4680390,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹10.21L per annum",
+  "activeMobileDevices": 8872392,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 57.5,
+  "maleCount": 4200142,
+  "femaleCount": 3939668,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mohripur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mohripur",
+      "distance": 45.95446230198232
+    },
+    {
+      "city": "Ampati",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "ampati",
+      "distance": 69.41020288362995
+    },
+    {
+      "city": "Tenali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tenali",
+      "distance": 70.94716288243977
+    },
+    {
+      "city": "Kangra",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "kangra",
+      "distance": 73.06586533347019
+    },
+    {
+      "city": "Bharatpur City",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bharatpur-city",
+      "distance": 87.19330761401567
+    }
+  ],
+  "geohash": "tu4dyt3",
+  "geohashUrl": "https://geohash.softeng.co/tu4dyt3"
+}

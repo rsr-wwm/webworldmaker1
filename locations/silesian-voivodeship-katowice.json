@@ -1,0 +1,82 @@
+{
+  "id": "silesian-voivodeship-katowice",
+  "city": "Katowice",
+  "state": "Silesian Voivodeship",
+  "stateSlug": "silesian-voivodeship",
+  "citySlug": "katowice",
+  "country": "Poland",
+  "pincode": "40-001",
+  "currency": "PLN",
+  "symbol": "zł",
+  "compliance": "GDPR / UKE",
+  "carriers": [
+    "Orange",
+    "Play",
+    "Plus",
+    "T-Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+48",
+  "timezone": "Europe/Warsaw",
+  "latitude": 52.1729,
+  "longitude": 19.8949,
+  "landmark": "Katowice Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Play, Plus, T-Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Katowice, Poland",
+  "population": 4603608,
+  "mobileUsers": 3770354,
+  "internetUsers": 3153471,
+  "genderRatioText": "979 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "zł21,402 PLN per annum",
+  "activeMobileDevices": 6399015,
+  "mobilePenetration": 81.9,
+  "internetPenetration": 68.5,
+  "maleCount": 2324822,
+  "femaleCount": 2278786,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Lublin",
+      "state": "Lublin Voivodeship",
+      "stateSlug": "lublin-voivodeship",
+      "citySlug": "lublin",
+      "distance": 14.783817316928062
+    },
+    {
+      "city": "Poznan",
+      "state": "Greater Poland",
+      "stateSlug": "greater-poland",
+      "citySlug": "poznan",
+      "distance": 15.065838764955371
+    },
+    {
+      "city": "Krakow",
+      "state": "Lesser Poland",
+      "stateSlug": "lesser-poland",
+      "citySlug": "krakow",
+      "distance": 18.459742906110037
+    },
+    {
+      "city": "Wroclaw",
+      "state": "Lower Silesia",
+      "stateSlug": "lower-silesia",
+      "citySlug": "wroclaw",
+      "distance": 18.49005301725877
+    },
+    {
+      "city": "Gdansk",
+      "state": "Pomerania",
+      "stateSlug": "pomerania",
+      "citySlug": "gdansk",
+      "distance": 20.000063152836038
+    }
+  ],
+  "geohash": "u3q0u9z",
+  "geohashUrl": "https://geohash.softeng.co/u3q0u9z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-kumta",
+  "city": "Kumta",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "kumta",
+  "country": "India",
+  "pincode": "581343",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.0674,
+  "longitude": 85.366,
+  "landmark": "Kumta Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kumta, India",
+  "population": 3148138,
+  "mobileUsers": 2455547,
+  "internetUsers": 1898327,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹9.43L per annum",
+  "activeMobileDevices": 3651840,
+  "mobilePenetration": 78,
+  "internetPenetration": 60.3,
+  "maleCount": 1646476,
+  "femaleCount": 1501662,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bansi",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bansi",
+      "distance": 8.722976144083866
+    },
+    {
+      "city": "Ramanathapuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ramanathapuram",
+      "distance": 67.90751880560538
+    },
+    {
+      "city": "Haveri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "haveri",
+      "distance": 73.60151518523635
+    },
+    {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "madurai",
+      "distance": 87.92595294062404
+    },
+    {
+      "city": "Chingkompong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "chingkompong",
+      "distance": 88.26022485612935
+    }
+  ],
+  "geohash": "tfstwwc",
+  "geohashUrl": "https://geohash.softeng.co/tfstwwc"
+}

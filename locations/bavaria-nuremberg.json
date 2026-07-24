@@ -1,0 +1,81 @@
+{
+  "id": "bavaria-nuremberg",
+  "city": "Nuremberg",
+  "state": "Bavaria",
+  "stateSlug": "bavaria",
+  "citySlug": "nuremberg",
+  "country": "Germany",
+  "pincode": "90402",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / BNetzA",
+  "carriers": [
+    "Telekom",
+    "Vodafone",
+    "O2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+49 30",
+  "timezone": "Europe/Berlin",
+  "latitude": 52.8732,
+  "longitude": 7.3035,
+  "landmark": "Nuremberg Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Nuremberg, Germany",
+  "population": 4810529,
+  "mobileUsers": 4550760,
+  "internetUsers": 4247697,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "€67,631 per annum",
+  "activeMobileDevices": 5965055,
+  "mobilePenetration": 94.6,
+  "internetPenetration": 88.3,
+  "maleCount": 2458180,
+  "femaleCount": 2352349,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Groningen",
+      "state": "Groningen Province",
+      "stateSlug": "groningen-province",
+      "citySlug": "groningen",
+      "distance": 102.10944337099824
+    },
+    {
+      "city": "The Hague",
+      "state": "South Holland",
+      "stateSlug": "south-holland",
+      "citySlug": "the-hague",
+      "distance": 108.58451620137464
+    },
+    {
+      "city": "Eindhoven",
+      "state": "North Brabant",
+      "stateSlug": "north-brabant",
+      "citySlug": "eindhoven",
+      "distance": 112.60854869920509
+    },
+    {
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "stateSlug": "north-holland",
+      "citySlug": "amsterdam",
+      "distance": 114.66088393354067
+    },
+    {
+      "city": "Utrecht",
+      "state": "Utrecht Province",
+      "stateSlug": "utrecht-province",
+      "citySlug": "utrecht",
+      "distance": 117.95801527746947
+    }
+  ],
+  "geohash": "u1mhy1q",
+  "geohashUrl": "https://geohash.softeng.co/u1mhy1q"
+}

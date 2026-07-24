@@ -1,0 +1,80 @@
+{
+  "id": "shefa-province-port-vila",
+  "city": "Port Vila",
+  "state": "Shefa Province",
+  "stateSlug": "shefa-province",
+  "citySlug": "port-vila",
+  "country": "Vanuatu",
+  "pincode": "0000",
+  "currency": "VUV",
+  "symbol": "VT",
+  "compliance": "TRBR Rules",
+  "carriers": [
+    "Vodafone",
+    "Digicel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+678",
+  "timezone": "Pacific/Efate",
+  "latitude": -15.8475,
+  "longitude": 167.1685,
+  "landmark": "Port Vila Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Vodafone networks. Failovers route over Digicel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Port Vila, Vanuatu",
+  "population": 1201318,
+  "mobileUsers": 963457,
+  "internetUsers": 762836,
+  "genderRatioText": "971 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "VT30,713 VUV per annum",
+  "activeMobileDevices": 1561713,
+  "mobilePenetration": 80.2,
+  "internetPenetration": 63.5,
+  "maleCount": 609068,
+  "femaleCount": 592250,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Noumea",
+      "state": "South Province",
+      "stateSlug": "south-province",
+      "citySlug": "noumea",
+      "distance": 644.8095627119028
+    },
+    {
+      "city": "Suva",
+      "state": "Rewa Province",
+      "stateSlug": "rewa-province",
+      "citySlug": "suva",
+      "distance": 863.0671768195307
+    },
+    {
+      "city": "Honiara",
+      "state": "Guadalcanal Province",
+      "stateSlug": "guadalcanal-province",
+      "citySlug": "honiara",
+      "distance": 1257.4505680045627
+    },
+    {
+      "city": "Funafuti",
+      "state": "Funafuti Atoll",
+      "stateSlug": "funafuti-atoll",
+      "citySlug": "funafuti",
+      "distance": 1442.8645429176709
+    },
+    {
+      "city": "Yaren",
+      "state": "Yaren District",
+      "stateSlug": "yaren-district",
+      "citySlug": "yaren",
+      "distance": 1725.208519686669
+    }
+  ],
+  "geohash": "rtnvu50",
+  "geohashUrl": "https://geohash.softeng.co/rtnvu50"
+}

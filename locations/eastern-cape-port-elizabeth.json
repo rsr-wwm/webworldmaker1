@@ -1,0 +1,81 @@
+{
+  "id": "eastern-cape-port-elizabeth",
+  "city": "Port Elizabeth",
+  "state": "Eastern Cape",
+  "stateSlug": "eastern-cape",
+  "citySlug": "port-elizabeth",
+  "country": "South Africa",
+  "pincode": "6001",
+  "currency": "ZAR",
+  "symbol": "R",
+  "compliance": "ICASA Guidelines",
+  "carriers": [
+    "Vodacom",
+    "MTN",
+    "Telkom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+27",
+  "timezone": "Africa/Johannesburg",
+  "latitude": -29.0935,
+  "longitude": 23.9026,
+  "landmark": "Port Elizabeth Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over MTN, Telkom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Port Elizabeth, South Africa",
+  "population": 2797052,
+  "mobileUsers": 2201279,
+  "internetUsers": 1899198,
+  "genderRatioText": "991 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "R33,514 ZAR per annum",
+  "activeMobileDevices": 3803990,
+  "mobilePenetration": 78.7,
+  "internetPenetration": 67.9,
+  "maleCount": 1404120,
+  "femaleCount": 1392932,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Johannesburg",
+      "state": "Gauteng",
+      "stateSlug": "gauteng",
+      "citySlug": "johannesburg",
+      "distance": 6.3321585977391885
+    },
+    {
+      "city": "Pretoria",
+      "state": "Gauteng",
+      "stateSlug": "gauteng",
+      "citySlug": "pretoria",
+      "distance": 12.777104730405748
+    },
+    {
+      "city": "Cape Town",
+      "state": "Western Cape",
+      "stateSlug": "western-cape",
+      "citySlug": "cape-town",
+      "distance": 18.214134046120304
+    },
+    {
+      "city": "Durban",
+      "state": "KwaZulu-Natal",
+      "stateSlug": "kwazulu-natal",
+      "citySlug": "durban",
+      "distance": 19.996492446825282
+    },
+    {
+      "city": "Maseru",
+      "state": "Maseru District",
+      "stateSlug": "maseru-district",
+      "citySlug": "maseru",
+      "distance": 442.0970442562635
+    }
+  ],
+  "geohash": "kdbfrzt",
+  "geohashUrl": "https://geohash.softeng.co/kdbfrzt"
+}

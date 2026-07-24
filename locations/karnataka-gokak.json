@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-gokak",
+  "city": "Gokak",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "gokak",
+  "country": "India",
+  "pincode": "591307",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.2118,
+  "longitude": 85.2888,
+  "landmark": "Gokak Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gokak, India",
+  "population": 1785830,
+  "mobileUsers": 1328657,
+  "internetUsers": 976849,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.85L per annum",
+  "activeMobileDevices": 2107279,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 54.7,
+  "maleCount": 919702,
+  "femaleCount": 866128,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Radhanagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "radhanagar",
+      "distance": 78.75401174241188
+    },
+    {
+      "city": "Howrah",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "howrah",
+      "distance": 86.51754145354138
+    },
+    {
+      "city": "Bada bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bada-bazar",
+      "distance": 117.46834787716736
+    },
+    {
+      "city": "Baghmara",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "baghmara",
+      "distance": 122.47535353734008
+    },
+    {
+      "city": "Shahjahanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "shahjahanpur",
+      "distance": 136.20321076185724
+    }
+  ],
+  "geohash": "tcudhg1",
+  "geohashUrl": "https://geohash.softeng.co/tcudhg1"
+}

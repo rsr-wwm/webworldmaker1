@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-hukeri",
+  "city": "Hukeri",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "hukeri",
+  "country": "India",
+  "pincode": "591309",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.2672,
+  "longitude": 76.8807,
+  "landmark": "Hukeri State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hukeri, India",
+  "population": 8294806,
+  "mobileUsers": 6428474,
+  "internetUsers": 4951999,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹7.37L per annum",
+  "activeMobileDevices": 8709546,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 59.7,
+  "maleCount": 4305004,
+  "femaleCount": 3989802,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ramgarh Cantt.",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "ramgarh-cantt",
+      "distance": 10.546771810335903
+    },
+    {
+      "city": "Bharuch",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bharuch",
+      "distance": 19.56101555302024
+    },
+    {
+      "city": "Saitul",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saitul",
+      "distance": 44.09213934265158
+    },
+    {
+      "city": "Dabki",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "dabki",
+      "distance": 51.2447699730117
+    },
+    {
+      "city": "Itanagar G.P.O",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "itanagar-gpo",
+      "distance": 67.35404254081358
+    }
+  ],
+  "geohash": "tendjrq",
+  "geohashUrl": "https://geohash.softeng.co/tendjrq"
+}

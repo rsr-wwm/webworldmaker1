@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-navsari",
+  "city": "Navsari",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "navsari",
+  "country": "India",
+  "pincode": "396445",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.0406,
+  "longitude": 81.1961,
+  "landmark": "Navsari Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Navsari, India",
+  "population": 3528653,
+  "mobileUsers": 2741763,
+  "internetUsers": 1997217,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹6.63L per annum",
+  "activeMobileDevices": 4163810,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 56.6,
+  "maleCount": 1803142,
+  "femaleCount": 1725511,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nongstoin",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nongstoin",
+      "distance": 24.16773379316069
+    },
+    {
+      "city": "Kanjeri",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanjeri",
+      "distance": 42.746267908245116
+    },
+    {
+      "city": "Gangtok G.P.O",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "gangtok-gpo",
+      "distance": 50.53829972060023
+    },
+    {
+      "city": "Raisen",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raisen",
+      "distance": 63.12979736145573
+    },
+    {
+      "city": "Chamba",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "chamba",
+      "distance": 67.33334179969626
+    }
+  ],
+  "geohash": "tucxx8t",
+  "geohashUrl": "https://geohash.softeng.co/tucxx8t"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-kiphir",
+  "city": "Kiphir",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "kiphir",
+  "country": "India",
+  "pincode": "798611",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.8152,
+  "longitude": 80.6966,
+  "landmark": "Kiphir Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kiphir, India",
+  "population": 9826212,
+  "mobileUsers": 7369659,
+  "internetUsers": 5885900,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.12L per annum",
+  "activeMobileDevices": 11496668,
+  "mobilePenetration": 75,
+  "internetPenetration": 59.9,
+  "maleCount": 5119456,
+  "femaleCount": 4706756,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bolganj bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bolganj-bazar",
+      "distance": 14.338888015779583
+    },
+    {
+      "city": "Palai",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palai",
+      "distance": 68.642033952712
+    },
+    {
+      "city": "Barasat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barasat",
+      "distance": 68.73986841885073
+    },
+    {
+      "city": "Thodupuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thodupuzha",
+      "distance": 74.19150039022891
+    },
+    {
+      "city": "Yonghong",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "yonghong",
+      "distance": 79.01172288014575
+    }
+  ],
+  "geohash": "tg9qkm3",
+  "geohashUrl": "https://geohash.softeng.co/tg9qkm3"
+}

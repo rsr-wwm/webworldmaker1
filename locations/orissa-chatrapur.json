@@ -1,0 +1,82 @@
+{
+  "id": "orissa-chatrapur",
+  "city": "Chatrapur",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "chatrapur",
+  "country": "India",
+  "pincode": "761020",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.6628,
+  "longitude": 85.7714,
+  "landmark": "Chatrapur Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chatrapur, India",
+  "population": 6107558,
+  "mobileUsers": 4623421,
+  "internetUsers": 3566813,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.15L per annum",
+  "activeMobileDevices": 6718313,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 58.4,
+  "maleCount": 3139285,
+  "femaleCount": 2968273,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Saiha",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saiha",
+      "distance": 36.90483484510413
+    },
+    {
+      "city": "Agartala G.P.O",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "agartala-gpo",
+      "distance": 47.292519940081576
+    },
+    {
+      "city": "Guntur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntur",
+      "distance": 63.86219442529285
+    },
+    {
+      "city": "Sirsa",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "sirsa",
+      "distance": 86.80940695942995
+    },
+    {
+      "city": "Gondal",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gondal",
+      "distance": 89.153958994196
+    }
+  ],
+  "geohash": "tgkzzg8",
+  "geohashUrl": "https://geohash.softeng.co/tgkzzg8"
+}

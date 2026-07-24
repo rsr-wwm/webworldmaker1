@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-bada-pani",
+  "city": "Bada pani",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "bada-pani",
+  "country": "India",
+  "pincode": "793103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.7092,
+  "longitude": 69.6674,
+  "landmark": "Bada pani State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bada pani, India",
+  "population": 9659161,
+  "mobileUsers": 7389258,
+  "internetUsers": 5273901,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.68L per annum",
+  "activeMobileDevices": 11494401,
+  "mobilePenetration": 76.5,
+  "internetPenetration": 54.6,
+  "maleCount": 4964809,
+  "femaleCount": 4694352,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mettupalayam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mettupalayam",
+      "distance": 32.77955991760345
+    },
+    {
+      "city": "Churu",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "churu",
+      "distance": 47.17547455442701
+    },
+    {
+      "city": "Thyagaraynagar",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thyagaraynagar",
+      "distance": 48.781872878130656
+    },
+    {
+      "city": "Mandla",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "mandla",
+      "distance": 59.8019688971468
+    },
+    {
+      "city": "Simra",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "simra",
+      "distance": 93.35713780995161
+    }
+  ],
+  "geohash": "td9e9md",
+  "geohashUrl": "https://geohash.softeng.co/td9e9md"
+}

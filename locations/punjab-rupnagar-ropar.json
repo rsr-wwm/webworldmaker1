@@ -1,0 +1,82 @@
+{
+  "id": "punjab-rupnagar-ropar",
+  "city": "Rupnagar (Ropar)",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "rupnagar-ropar",
+  "country": "India",
+  "pincode": "140001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.2211,
+  "longitude": 75.891,
+  "landmark": "Rupnagar (Ropar) Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rupnagar (Ropar), India",
+  "population": 945816,
+  "mobileUsers": 710307,
+  "internetUsers": 573164,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.02L per annum",
+  "activeMobileDevices": 1125521,
+  "mobilePenetration": 75.1,
+  "internetPenetration": 60.6,
+  "maleCount": 482366,
+  "femaleCount": 463450,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sandila",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "sandila",
+      "distance": 1.0154680380560164
+    },
+    {
+      "city": "Nargarpattinam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "nargarpattinam",
+      "distance": 30.970074312270945
+    },
+    {
+      "city": "Suramangalam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "suramangalam",
+      "distance": 44.27318159970544
+    },
+    {
+      "city": "Nargund",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "nargund",
+      "distance": 81.32455076745221
+    },
+    {
+      "city": "Barpeta",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "barpeta",
+      "distance": 92.73913651316744
+    }
+  ],
+  "geohash": "t9vzyfw",
+  "geohashUrl": "https://geohash.softeng.co/t9vzyfw"
+}

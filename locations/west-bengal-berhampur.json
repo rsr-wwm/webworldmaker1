@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-berhampur",
+  "city": "Berhampur",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "berhampur",
+  "country": "India",
+  "pincode": "742101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.4062,
+  "longitude": 88.2162,
+  "landmark": "Berhampur Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Berhampur, India",
+  "population": 1764208,
+  "mobileUsers": 1305513,
+  "internetUsers": 984428,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹7.79L per annum",
+  "activeMobileDevices": 1887702,
+  "mobilePenetration": 74,
+  "internetPenetration": 55.8,
+  "maleCount": 915624,
+  "femaleCount": 848584,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sundernagar Township",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "sundernagar-township",
+      "distance": 38.55191144503949
+    },
+    {
+      "city": "Panipat",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "panipat",
+      "distance": 85.95035332346137
+    },
+    {
+      "city": "Mavelikara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "mavelikara",
+      "distance": 103.22575276062717
+    },
+    {
+      "city": "Ambattur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ambattur",
+      "distance": 109.76880827422025
+    },
+    {
+      "city": "Manubazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "manubazar",
+      "distance": 117.47344437056093
+    }
+  ],
+  "geohash": "tcqxz6m",
+  "geohashUrl": "https://geohash.softeng.co/tcqxz6m"
+}

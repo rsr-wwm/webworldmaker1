@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-chhaindwara",
+  "city": "Chhaindwara",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "chhaindwara",
+  "country": "India",
+  "pincode": "480001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.1529,
+  "longitude": 72.9424,
+  "landmark": "Chhaindwara State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chhaindwara, India",
+  "population": 9667932,
+  "mobileUsers": 7192941,
+  "internetUsers": 5220683,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹6.02L per annum",
+  "activeMobileDevices": 11214801,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 54,
+  "maleCount": 4988653,
+  "femaleCount": 4679279,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kathali",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kathali",
+      "distance": 56.23269162903907
+    },
+    {
+      "city": "Tiruchendur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchendur",
+      "distance": 83.64400592465859
+    },
+    {
+      "city": "Tikamgarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "tikamgarh",
+      "distance": 91.14748829031042
+    },
+    {
+      "city": "Agra",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "agra",
+      "distance": 100.38434705747594
+    },
+    {
+      "city": "Mayabandar",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "mayabandar",
+      "distance": 104.3416010627425
+    }
+  ],
+  "geohash": "tdgggue",
+  "geohashUrl": "https://geohash.softeng.co/tdgggue"
+}

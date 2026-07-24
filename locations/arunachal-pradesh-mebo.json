@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-mebo",
+  "city": "Mebo",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "mebo",
+  "country": "India",
+  "pincode": "791104",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.1569,
+  "longitude": 80.4099,
+  "landmark": "Mebo Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mebo, India",
+  "population": 5265898,
+  "mobileUsers": 4060007,
+  "internetUsers": 3043689,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹9.04L per annum",
+  "activeMobileDevices": 6055782,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 57.8,
+  "maleCount": 2696140,
+  "femaleCount": 2569758,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Amroha",
+      "state": "Utter Pradesh",
+      "stateSlug": "utter-pradesh",
+      "citySlug": "amroha",
+      "distance": 11.722415323360572
+    },
+    {
+      "city": "Nagaur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "nagaur",
+      "distance": 47.85762523690221
+    },
+    {
+      "city": "Akola",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "akola",
+      "distance": 87.99669153072114
+    },
+    {
+      "city": "Azamgarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "azamgarh",
+      "distance": 88.8963971605472
+    },
+    {
+      "city": "Etah",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "etah",
+      "distance": 92.60504842074667
+    }
+  ],
+  "geohash": "tu31mv8",
+  "geohashUrl": "https://geohash.softeng.co/tu31mv8"
+}

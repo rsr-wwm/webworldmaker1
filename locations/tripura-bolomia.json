@@ -1,0 +1,82 @@
+{
+  "id": "tripura-bolomia",
+  "city": "Bolomia",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "bolomia",
+  "country": "India",
+  "pincode": "799155",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.1848,
+  "longitude": 85.9237,
+  "landmark": "Bolomia District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bolomia, India",
+  "population": 1953675,
+  "mobileUsers": 1463302,
+  "internetUsers": 1189788,
+  "genderRatioText": "943 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹8.31L per annum",
+  "activeMobileDevices": 2149042,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 60.9,
+  "maleCount": 1006143,
+  "femaleCount": 947532,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhavnagar",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhavnagar",
+      "distance": 17.938277104406723
+    },
+    {
+      "city": "Kankroli",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "kankroli",
+      "distance": 91.90784020932482
+    },
+    {
+      "city": "Shalima",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shalima",
+      "distance": 98.7134108909313
+    },
+    {
+      "city": "Rangpo",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "rangpo",
+      "distance": 99.19642851802638
+    },
+    {
+      "city": "Marhowrah",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "marhowrah",
+      "distance": 103.8634924709104
+    }
+  ],
+  "geohash": "tump70z",
+  "geohashUrl": "https://geohash.softeng.co/tump70z"
+}

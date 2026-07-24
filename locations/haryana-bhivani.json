@@ -1,0 +1,82 @@
+{
+  "id": "haryana-bhivani",
+  "city": "Bhivani",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "bhivani",
+  "country": "India",
+  "pincode": "125021",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.2968,
+  "longitude": 73.4682,
+  "landmark": "Bhivani GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhivani, India",
+  "population": 5012306,
+  "mobileUsers": 3789303,
+  "internetUsers": 3047482,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹11.34L per annum",
+  "activeMobileDevices": 5413290,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 60.8,
+  "maleCount": 2571313,
+  "femaleCount": 2440993,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chirala",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chirala",
+      "distance": 64.98697504944307
+    },
+    {
+      "city": "Tezpur",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tezpur",
+      "distance": 107.32265850979776
+    },
+    {
+      "city": "Tumkur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tumkur",
+      "distance": 108.01673850154228
+    },
+    {
+      "city": "St.Thomas Mount",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "stthomas-mount",
+      "distance": 108.09699850331216
+    },
+    {
+      "city": "Davangere",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "davangere",
+      "distance": 110.45848872943631
+    }
+  ],
+  "geohash": "tskpzv1",
+  "geohashUrl": "https://geohash.softeng.co/tskpzv1"
+}

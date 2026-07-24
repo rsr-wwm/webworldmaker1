@@ -1,0 +1,82 @@
+{
+  "id": "lakshadweep-minicoy",
+  "city": "Minicoy",
+  "state": "Lakshadweep",
+  "stateSlug": "lakshadweep",
+  "citySlug": "minicoy",
+  "country": "India",
+  "pincode": "682529",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.7918,
+  "longitude": 87.3475,
+  "landmark": "Minicoy Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Minicoy, India",
+  "population": 3520844,
+  "mobileUsers": 2700487,
+  "internetUsers": 1961110,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹11.13L per annum",
+  "activeMobileDevices": 3908136,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 55.7,
+  "maleCount": 1809714,
+  "femaleCount": 1711130,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mokokchung",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mokokchung",
+      "distance": 44.513176264694096
+    },
+    {
+      "city": "Mayang Imphal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mayang-imphal",
+      "distance": 65.88755733280153
+    },
+    {
+      "city": "Shorapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shorapur",
+      "distance": 71.99711894077355
+    },
+    {
+      "city": "Silchar",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "silchar",
+      "distance": 88.98146004274604
+    },
+    {
+      "city": "Tripuradam Chera",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "tripuradam-chera",
+      "distance": 105.48836312033278
+    }
+  ],
+  "geohash": "tfype8u",
+  "geohashUrl": "https://geohash.softeng.co/tfype8u"
+}

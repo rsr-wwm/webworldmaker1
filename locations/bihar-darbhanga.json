@@ -1,0 +1,82 @@
+{
+  "id": "bihar-darbhanga",
+  "city": "Darbhanga",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "darbhanga",
+  "country": "India",
+  "pincode": "846004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.0692,
+  "longitude": 74.3977,
+  "landmark": "Darbhanga Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Darbhanga, India",
+  "population": 9886096,
+  "mobileUsers": 7612293,
+  "internetUsers": 5496669,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹6.40L per annum",
+  "activeMobileDevices": 9984956,
+  "mobilePenetration": 77,
+  "internetPenetration": 55.6,
+  "maleCount": 5081453,
+  "femaleCount": 4804643,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shastrinagar (Jodhpur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shastrinagar-jodhpur",
+      "distance": 44.4682592391148
+    },
+    {
+      "city": "Dumka",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "dumka",
+      "distance": 45.31301193177925
+    },
+    {
+      "city": "Raipur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raipur",
+      "distance": 54.50204565313999
+    },
+    {
+      "city": "Durgapur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "durgapur",
+      "distance": 69.28949575006034
+    },
+    {
+      "city": "Hissar",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "hissar",
+      "distance": 83.67099400466454
+    }
+  ],
+  "geohash": "ttkghcy",
+  "geohashUrl": "https://geohash.softeng.co/ttkghcy"
+}

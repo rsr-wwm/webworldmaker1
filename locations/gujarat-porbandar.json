@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-porbandar",
+  "city": "Porbandar",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "porbandar",
+  "country": "India",
+  "pincode": "360575",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.8754,
+  "longitude": 76.0581,
+  "landmark": "Porbandar State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Porbandar, India",
+  "population": 9954463,
+  "mobileUsers": 7645027,
+  "internetUsers": 5873133,
+  "genderRatioText": "925 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹9.82L per annum",
+  "activeMobileDevices": 10153552,
+  "mobilePenetration": 76.8,
+  "internetPenetration": 59,
+  "maleCount": 5166366,
+  "femaleCount": 4788097,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mandya",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "mandya",
+      "distance": 78.40500092586335
+    },
+    {
+      "city": "Sitapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "sitapur",
+      "distance": 84.38640397188753
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar",
+      "distance": 86.05766735461712
+    },
+    {
+      "city": "Rampurhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "rampurhat",
+      "distance": 89.49444114199423
+    },
+    {
+      "city": "Cherrapunji",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "cherrapunji",
+      "distance": 95.05158772521258
+    }
+  ],
+  "geohash": "tew14dp",
+  "geohashUrl": "https://geohash.softeng.co/tew14dp"
+}

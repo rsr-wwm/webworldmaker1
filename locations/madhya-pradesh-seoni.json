@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-seoni",
+  "city": "Seoni",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "seoni",
+  "country": "India",
+  "pincode": "480661",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.3772,
+  "longitude": 78.3064,
+  "landmark": "Seoni Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Seoni, India",
+  "population": 9848468,
+  "mobileUsers": 7287866,
+  "internetUsers": 5505293,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹9.48L per annum",
+  "activeMobileDevices": 11818161,
+  "mobilePenetration": 74,
+  "internetPenetration": 55.9,
+  "maleCount": 5012870,
+  "femaleCount": 4835598,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Waltair R.S.",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "waltair-rs",
+      "distance": 39.07834860554723
+    },
+    {
+      "city": "Ahmedabad",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "ahmedabad",
+      "distance": 75.61073328057996
+    },
+    {
+      "city": "Bobbili",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bobbili",
+      "distance": 94.43575485678727
+    },
+    {
+      "city": "Wardha",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "wardha",
+      "distance": 102.04634601868018
+    },
+    {
+      "city": "Bhilwara",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bhilwara",
+      "distance": 108.10314258181302
+    }
+  ],
+  "geohash": "ttxdtbh",
+  "geohashUrl": "https://geohash.softeng.co/ttxdtbh"
+}

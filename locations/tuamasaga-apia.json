@@ -1,0 +1,80 @@
+{
+  "id": "tuamasaga-apia",
+  "city": "Apia",
+  "state": "Tuamasaga",
+  "stateSlug": "tuamasaga",
+  "citySlug": "apia",
+  "country": "Samoa",
+  "pincode": "0000",
+  "currency": "WST",
+  "symbol": "WS$",
+  "compliance": "OOTR Rules",
+  "carriers": [
+    "Vodafone Samoa",
+    "Digicel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+685",
+  "timezone": "Pacific/Apia",
+  "latitude": -13.7383,
+  "longitude": -172.4101,
+  "landmark": "Apia Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Vodafone Samoa networks. Failovers route over Digicel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Apia, Samoa",
+  "population": 1812199,
+  "mobileUsers": 1453383,
+  "internetUsers": 1192426,
+  "genderRatioText": "993 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "WS$38,544 WST per annum",
+  "activeMobileDevices": 2247126,
+  "mobilePenetration": 80.2,
+  "internetPenetration": 65.8,
+  "maleCount": 909724,
+  "femaleCount": 902475,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Alofi",
+      "state": "Alofi Village",
+      "stateSlug": "alofi-village",
+      "citySlug": "alofi",
+      "distance": 646.5275365874867
+    },
+    {
+      "city": "Avarua",
+      "state": "Rarotonga Island",
+      "stateSlug": "rarotonga-island",
+      "citySlug": "avarua",
+      "distance": 1564.6639645518158
+    },
+    {
+      "city": "Papeete",
+      "state": "Tahiti Island",
+      "stateSlug": "tahiti-island",
+      "citySlug": "papeete",
+      "distance": 3496.9961698302513
+    },
+    {
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "citySlug": "honolulu",
+      "distance": 7380.971945675059
+    },
+    {
+      "city": "Hartford",
+      "state": "Connecticut",
+      "stateSlug": "connecticut",
+      "citySlug": "hartford",
+      "distance": 7672.81024305556
+    }
+  ],
+  "geohash": "2jt3uen",
+  "geohashUrl": "https://geohash.softeng.co/2jt3uen"
+}

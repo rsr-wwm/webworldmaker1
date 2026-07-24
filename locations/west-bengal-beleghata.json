@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-beleghata",
+  "city": "Beleghata",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "beleghata",
+  "country": "India",
+  "pincode": "700010",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.6791,
+  "longitude": 71.9537,
+  "landmark": "Beleghata Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Beleghata, India",
+  "population": 1446937,
+  "mobileUsers": 1063498,
+  "internetUsers": 869609,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.48L per annum",
+  "activeMobileDevices": 1461406,
+  "mobilePenetration": 73.5,
+  "internetPenetration": 60.1,
+  "maleCount": 753854,
+  "femaleCount": 693083,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kenndrapara",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "kenndrapara",
+      "distance": 66.64450203295723
+    },
+    {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "kanpur",
+      "distance": 97.24394518458003
+    },
+    {
+      "city": "Cuddalore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "cuddalore",
+      "distance": 112.0092436195464
+    },
+    {
+      "city": "Majorda",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "majorda",
+      "distance": 120.354410013265
+    },
+    {
+      "city": "Deeg",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "deeg",
+      "distance": 123.27503451426679
+    }
+  ],
+  "geohash": "t9ghv25",
+  "geohashUrl": "https://geohash.softeng.co/t9ghv25"
+}

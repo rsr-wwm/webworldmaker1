@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-koppa",
+  "city": "Koppa",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "koppa",
+  "country": "India",
+  "pincode": "577126",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.2546,
+  "longitude": 73.8015,
+  "landmark": "Koppa Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Koppa, India",
+  "population": 1126202,
+  "mobileUsers": 813117,
+  "internetUsers": 610401,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹6.65L per annum",
+  "activeMobileDevices": 1261346,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 54.2,
+  "maleCount": 578868,
+  "femaleCount": 547334,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lamphelpat",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lamphelpat",
+      "distance": 82.688372724345
+    },
+    {
+      "city": "Papanasam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "papanasam",
+      "distance": 99.24180280942412
+    },
+    {
+      "city": "Narasipatnam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "narasipatnam",
+      "distance": 117.30986609360453
+    },
+    {
+      "city": "Belgharia",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "belgharia",
+      "distance": 120.86588565014948
+    },
+    {
+      "city": "Athgarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "athgarh",
+      "distance": 121.71861141820679
+    }
+  ],
+  "geohash": "tdk7rku",
+  "geohashUrl": "https://geohash.softeng.co/tdk7rku"
+}

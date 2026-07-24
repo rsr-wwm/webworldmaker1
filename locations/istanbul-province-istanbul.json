@@ -1,0 +1,81 @@
+{
+  "id": "istanbul-province-istanbul",
+  "city": "Istanbul",
+  "state": "Istanbul Province",
+  "stateSlug": "istanbul-province",
+  "citySlug": "istanbul",
+  "country": "Türkiye",
+  "pincode": "34000",
+  "currency": "TRY",
+  "symbol": "₺",
+  "compliance": "BTK Regulations",
+  "carriers": [
+    "Turkcell",
+    "Vodafone",
+    "Türk Telekom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+90",
+  "timezone": "Europe/Istanbul",
+  "latitude": 39.0976,
+  "longitude": 34.989,
+  "landmark": "Istanbul GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over Turkcell networks. Failovers route over Vodafone, Türk Telekom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Istanbul, Türkiye",
+  "population": 967341,
+  "mobileUsers": 760330,
+  "internetUsers": 633608,
+  "genderRatioText": "975 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "₺29,081 TRY per annum",
+  "activeMobileDevices": 1344603,
+  "mobilePenetration": 78.6,
+  "internetPenetration": 65.5,
+  "maleCount": 489475,
+  "femaleCount": 477866,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Izmir",
+      "state": "Izmir Province",
+      "stateSlug": "izmir-province",
+      "citySlug": "izmir",
+      "distance": 3.494250892485062
+    },
+    {
+      "city": "Antalya",
+      "state": "Antalya Province",
+      "stateSlug": "antalya-province",
+      "citySlug": "antalya",
+      "distance": 3.5280827610893963
+    },
+    {
+      "city": "Konya",
+      "state": "Konya Province",
+      "stateSlug": "konya-province",
+      "citySlug": "konya",
+      "distance": 8.897193381597583
+    },
+    {
+      "city": "Gaziantep",
+      "state": "Gaziantep Province",
+      "stateSlug": "gaziantep-province",
+      "citySlug": "gaziantep",
+      "distance": 9.58543747464329
+    },
+    {
+      "city": "Mersin",
+      "state": "Mersin Province",
+      "stateSlug": "mersin-province",
+      "citySlug": "mersin",
+      "distance": 11.529116031585227
+    }
+  ],
+  "geohash": "sybykjw",
+  "geohashUrl": "https://geohash.softeng.co/sybykjw"
+}

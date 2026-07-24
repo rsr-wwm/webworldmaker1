@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-paratwada",
+  "city": "Paratwada",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "paratwada",
+  "country": "India",
+  "pincode": "444805",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.4369,
+  "longitude": 69.3368,
+  "landmark": "Paratwada Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Paratwada, India",
+  "population": 8656742,
+  "mobileUsers": 6397332,
+  "internetUsers": 5116134,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹9.33L per annum",
+  "activeMobileDevices": 9522416,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 59.1,
+  "maleCount": 4544790,
+  "femaleCount": 4111952,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kovvur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kovvur",
+      "distance": 11.771307611788568
+    },
+    {
+      "city": "Melakaveri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "melakaveri",
+      "distance": 47.30188493717007
+    },
+    {
+      "city": "Balat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "balat",
+      "distance": 59.189493517621365
+    },
+    {
+      "city": "Srirangapatna",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "srirangapatna",
+      "distance": 60.70117556371668
+    },
+    {
+      "city": "Thane",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "thane",
+      "distance": 68.56179118032499
+    }
+  ],
+  "geohash": "te171y3",
+  "geohashUrl": "https://geohash.softeng.co/te171y3"
+}

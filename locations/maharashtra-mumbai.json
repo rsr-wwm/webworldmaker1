@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-mumbai",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "mumbai",
+  "country": "India",
+  "pincode": "400001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.8532,
+  "longitude": 69.0409,
+  "landmark": "Mumbai GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mumbai, India",
+  "population": 4926945,
+  "mobileUsers": 3759259,
+  "internetUsers": 2798504,
+  "genderRatioText": "905 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹9.26L per annum",
+  "activeMobileDevices": 4976214,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 56.8,
+  "maleCount": 2586646,
+  "femaleCount": 2340299,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Manamadurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "manamadurai",
+      "distance": 16.183930448120336
+    },
+    {
+      "city": "Krishnagiri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "krishnagiri",
+      "distance": 37.30512559446498
+    },
+    {
+      "city": "Kovvur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kovvur",
+      "distance": 66.92127358139689
+    },
+    {
+      "city": "Paratwada",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "paratwada",
+      "distance": 72.11852282633049
+    },
+    {
+      "city": "Melakaveri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "melakaveri",
+      "distance": 76.09200418590827
+    }
+  ],
+  "geohash": "tdcpgh4",
+  "geohashUrl": "https://geohash.softeng.co/tdcpgh4"
+}

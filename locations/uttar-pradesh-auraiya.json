@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-auraiya",
+  "city": "Auraiya",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "auraiya",
+  "country": "India",
+  "pincode": "206122",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.5232,
+  "longitude": 81.4181,
+  "landmark": "Auraiya Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Auraiya, India",
+  "population": 6692482,
+  "mobileUsers": 5106363,
+  "internetUsers": 4015489,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹8.99L per annum",
+  "activeMobileDevices": 7027106,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 60,
+  "maleCount": 3460013,
+  "femaleCount": 3232469,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mantri Pokhri",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mantri-pokhri",
+      "distance": 15.5665904055879
+    },
+    {
+      "city": "Panagi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "panagi",
+      "distance": 30.36095313780304
+    },
+    {
+      "city": "Demgiri",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "demgiri",
+      "distance": 38.38375475573428
+    },
+    {
+      "city": "Sagar Cantt.",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sagar-cantt",
+      "distance": 59.24972091397695
+    },
+    {
+      "city": "Basti",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "basti",
+      "distance": 68.88979089910454
+    }
+  ],
+  "geohash": "tg1gswn",
+  "geohashUrl": "https://geohash.softeng.co/tg1gswn"
+}

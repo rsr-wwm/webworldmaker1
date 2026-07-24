@@ -1,0 +1,82 @@
+{
+  "id": "emilia-romagna-bologna",
+  "city": "Bologna",
+  "state": "Emilia-Romagna",
+  "stateSlug": "emilia-romagna",
+  "citySlug": "bologna",
+  "country": "Italy",
+  "pincode": "40121",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / AGCOM",
+  "carriers": [
+    "WindTre",
+    "TIM",
+    "Vodafone",
+    "iliad"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+39",
+  "timezone": "Europe/Rome",
+  "latitude": 42.7135,
+  "longitude": 12.6395,
+  "landmark": "Bologna Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over WindTre networks. Failovers route over TIM, Vodafone, iliad with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bologna, Italy",
+  "population": 2642945,
+  "mobileUsers": 2066782,
+  "internetUsers": 1702056,
+  "genderRatioText": "987 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "€60,147 per annum",
+  "activeMobileDevices": 3620834,
+  "mobilePenetration": 78.2,
+  "internetPenetration": 64.4,
+  "maleCount": 1329401,
+  "femaleCount": 1313544,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Bari",
+      "state": "Apulia",
+      "stateSlug": "apulia",
+      "citySlug": "bari",
+      "distance": 8.661281760352876
+    },
+    {
+      "city": "Florence",
+      "state": "Tuscany",
+      "stateSlug": "tuscany",
+      "citySlug": "florence",
+      "distance": 22.27578470013478
+    },
+    {
+      "city": "Naples",
+      "state": "Campania",
+      "stateSlug": "campania",
+      "citySlug": "naples",
+      "distance": 27.918079973306003
+    },
+    {
+      "city": "Turin",
+      "state": "Piedmont",
+      "stateSlug": "piedmont",
+      "citySlug": "turin",
+      "distance": 31.78825522382847
+    },
+    {
+      "city": "Milan",
+      "state": "Lombardy",
+      "stateSlug": "lombardy",
+      "citySlug": "milan",
+      "distance": 34.97389368600359
+    }
+  ],
+  "geohash": "sr8fzxg",
+  "geohashUrl": "https://geohash.softeng.co/sr8fzxg"
+}

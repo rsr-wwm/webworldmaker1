@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-pulivendla",
+  "city": "Pulivendla",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "pulivendla",
+  "country": "India",
+  "pincode": "516115",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.2621,
+  "longitude": 83.8639,
+  "landmark": "Pulivendla Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pulivendla, India",
+  "population": 2596433,
+  "mobileUsers": 1905781,
+  "internetUsers": 1518913,
+  "genderRatioText": "931 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹11.65L per annum",
+  "activeMobileDevices": 2674325,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 58.5,
+  "maleCount": 1344952,
+  "femaleCount": 1251481,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Koppal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "koppal",
+      "distance": 74.1258717806292
+    },
+    {
+      "city": "Mon",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mon",
+      "distance": 98.69005416758448
+    },
+    {
+      "city": "Dargamitta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "dargamitta",
+      "distance": 108.03298934644249
+    },
+    {
+      "city": "Shajapur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shajapur",
+      "distance": 110.62845797685078
+    },
+    {
+      "city": "Bhubaneswar G.P.O",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhubaneswar-gpo",
+      "distance": 117.39983501382746
+    }
+  ],
+  "geohash": "tg5xuke",
+  "geohashUrl": "https://geohash.softeng.co/tg5xuke"
+}

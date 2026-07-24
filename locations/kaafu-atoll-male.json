@@ -1,0 +1,80 @@
+{
+  "id": "kaafu-atoll-male",
+  "city": "Male",
+  "state": "Kaafu Atoll",
+  "stateSlug": "kaafu-atoll",
+  "citySlug": "male",
+  "country": "Maldives",
+  "pincode": "20002",
+  "currency": "MVR",
+  "symbol": "Rf.",
+  "compliance": "CAM Rules",
+  "carriers": [
+    "Dhiraagu",
+    "Ooredoo"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+960",
+  "timezone": "Indian/Maldives",
+  "latitude": 3.1637,
+  "longitude": 73.0369,
+  "landmark": "Male Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Dhiraagu networks. Failovers route over Ooredoo with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Male, Maldives",
+  "population": 2387277,
+  "mobileUsers": 1945630,
+  "internetUsers": 1623348,
+  "genderRatioText": "997 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "Rf.37,073 MVR per annum",
+  "activeMobileDevices": 3007969,
+  "mobilePenetration": 81.5,
+  "internetPenetration": 68,
+  "maleCount": 1196026,
+  "femaleCount": 1191251,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Rasra",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "rasra",
+      "distance": 588.1330066736642
+    },
+    {
+      "city": "Kanigiri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kanigiri",
+      "distance": 592.2258802996118
+    },
+    {
+      "city": "Parvathipuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "parvathipuram",
+      "distance": 614.2458421894976
+    },
+    {
+      "city": "Ratangarh",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "ratangarh",
+      "distance": 624.9440656021078
+    },
+    {
+      "city": "Guna",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "guna",
+      "distance": 625.8355402198217
+    }
+  ],
+  "geohash": "t8ecvzz",
+  "geohashUrl": "https://geohash.softeng.co/t8ecvzz"
+}

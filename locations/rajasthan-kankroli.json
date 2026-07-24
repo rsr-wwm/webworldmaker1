@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-kankroli",
+  "city": "Kankroli",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "kankroli",
+  "country": "India",
+  "pincode": "313324",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.8715,
+  "longitude": 86.4335,
+  "landmark": "Kankroli Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kankroli, India",
+  "population": 2723240,
+  "mobileUsers": 2072385,
+  "internetUsers": 1563139,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹10.34L per annum",
+  "activeMobileDevices": 3240655,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 57.4,
+  "maleCount": 1424255,
+  "femaleCount": 1298985,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Saraswathipuram",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "saraswathipuram",
+      "distance": 42.171745118154575
+    },
+    {
+      "city": "Chochuba",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chochuba",
+      "distance": 54.298126236440275
+    },
+    {
+      "city": "Bhavnagar",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhavnagar",
+      "distance": 91.88418079456494
+    },
+    {
+      "city": "Bolomia",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "bolomia",
+      "distance": 91.90784020932482
+    },
+    {
+      "city": "Shalima",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shalima",
+      "distance": 95.45777209979059
+    }
+  ],
+  "geohash": "tut7nvf",
+  "geohashUrl": "https://geohash.softeng.co/tut7nvf"
+}

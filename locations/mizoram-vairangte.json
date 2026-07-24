@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-vairangte",
+  "city": "Vairangte",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "vairangte",
+  "country": "India",
+  "pincode": "796101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.9397,
+  "longitude": 82.3513,
+  "landmark": "Vairangte Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vairangte, India",
+  "population": 5781777,
+  "mobileUsers": 4342114,
+  "internetUsers": 3324521,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹11.93L per annum",
+  "activeMobileDevices": 6475590,
+  "mobilePenetration": 75.1,
+  "internetPenetration": 57.5,
+  "maleCount": 2994960,
+  "femaleCount": 2786817,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhagalpur",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bhagalpur",
+      "distance": 50.756156123284335
+    },
+    {
+      "city": "Meerut",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "meerut",
+      "distance": 78.61200237288041
+    },
+    {
+      "city": "Hospet",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hospet",
+      "distance": 80.4977833688079
+    },
+    {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "chennai",
+      "distance": 103.26572684739965
+    },
+    {
+      "city": "Kavlem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kavlem",
+      "distance": 111.40550902247297
+    }
+  ],
+  "geohash": "tg6e9zy",
+  "geohashUrl": "https://geohash.softeng.co/tg6e9zy"
+}

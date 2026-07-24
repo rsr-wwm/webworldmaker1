@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-sullia",
+  "city": "Sullia",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "sullia",
+  "country": "India",
+  "pincode": "574239",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.8789,
+  "longitude": 79.6543,
+  "landmark": "Sullia GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sullia, India",
+  "population": 6892123,
+  "mobileUsers": 5238013,
+  "internetUsers": 3894049,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.18L per annum",
+  "activeMobileDevices": 7167807,
+  "mobilePenetration": 76,
+  "internetPenetration": 56.5,
+  "maleCount": 3597688,
+  "femaleCount": 3294435,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Doimukh",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "doimukh",
+      "distance": 26.540269340079647
+    },
+    {
+      "city": "Kathua",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "kathua",
+      "distance": 41.07410119545676
+    },
+    {
+      "city": "Revdi Bazaar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "revdi-bazaar",
+      "distance": 54.95432499272128
+    },
+    {
+      "city": "Darlawn",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "darlawn",
+      "distance": 56.77021679063377
+    },
+    {
+      "city": "Mamit",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "mamit",
+      "distance": 80.66067198242821
+    }
+  ],
+  "geohash": "tv0sk94",
+  "geohashUrl": "https://geohash.softeng.co/tv0sk94"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-nahan",
+  "city": "Nahan",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "nahan",
+  "country": "India",
+  "pincode": "173001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.9138,
+  "longitude": 77.135,
+  "landmark": "Nahan GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nahan, India",
+  "population": 5776791,
+  "mobileUsers": 4355700,
+  "internetUsers": 3390976,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.52L per annum",
+  "activeMobileDevices": 6354470,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 58.7,
+  "maleCount": 2975047,
+  "femaleCount": 2801744,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shahabad",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shahabad",
+      "distance": 35.56102753945999
+    },
+    {
+      "city": "Chalisgaon",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chalisgaon",
+      "distance": 58.3675070615406
+    },
+    {
+      "city": "Laheriasarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "laheriasarai",
+      "distance": 60.91089823207075
+    },
+    {
+      "city": "Anna Road",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "anna-road",
+      "distance": 78.21693114721
+    },
+    {
+      "city": "Kolar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kolar",
+      "distance": 81.40671000807407
+    }
+  ],
+  "geohash": "ttnu7px",
+  "geohashUrl": "https://geohash.softeng.co/ttnu7px"
+}

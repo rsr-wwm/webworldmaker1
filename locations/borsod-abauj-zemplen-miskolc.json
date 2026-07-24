@@ -1,0 +1,81 @@
+{
+  "id": "borsod-abauj-zemplen-miskolc",
+  "city": "Miskolc",
+  "state": "Borsod-Abauj-Zemplen",
+  "stateSlug": "borsod-abauj-zemplen",
+  "citySlug": "miskolc",
+  "country": "Hungary",
+  "pincode": "3500",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / NMHH",
+  "carriers": [
+    "Yettel",
+    "Telekom",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+36",
+  "timezone": "Europe/Budapest",
+  "latitude": 47.0443,
+  "longitude": 20.1694,
+  "landmark": "Miskolc Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over Yettel networks. Failovers route over Telekom, Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Miskolc, Hungary",
+  "population": 4065895,
+  "mobileUsers": 3163266,
+  "internetUsers": 2618436,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "€48,002 per annum",
+  "activeMobileDevices": 5326322,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 64.4,
+  "maleCount": 2077672,
+  "femaleCount": 1988223,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Budapest",
+      "state": "Central Hungary",
+      "stateSlug": "central-hungary",
+      "citySlug": "budapest",
+      "distance": 16.207339849929483
+    },
+    {
+      "city": "Debrecen",
+      "state": "Hajdu-Bihar",
+      "stateSlug": "hajdu-bihar",
+      "citySlug": "debrecen",
+      "distance": 27.75659649767226
+    },
+    {
+      "city": "Kosice",
+      "state": "Kosice Region",
+      "stateSlug": "kosice-region",
+      "citySlug": "kosice",
+      "distance": 185.73008665755364
+    },
+    {
+      "city": "Bratislava",
+      "state": "Bratislava Region",
+      "stateSlug": "bratislava-region",
+      "citySlug": "bratislava",
+      "distance": 197.9868572365615
+    },
+    {
+      "city": "Nis",
+      "state": "Nisava District",
+      "stateSlug": "nisava-district",
+      "citySlug": "nis",
+      "distance": 337.56480338010795
+    }
+  ],
+  "geohash": "u2q7dun",
+  "geohashUrl": "https://geohash.softeng.co/u2q7dun"
+}

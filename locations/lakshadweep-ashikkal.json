@@ -1,0 +1,82 @@
+{
+  "id": "lakshadweep-ashikkal",
+  "city": "Ashikkal",
+  "state": "Lakshadweep",
+  "stateSlug": "lakshadweep",
+  "citySlug": "ashikkal",
+  "country": "India",
+  "pincode": "682510",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.2528,
+  "longitude": 74.1231,
+  "landmark": "Ashikkal GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ashikkal, India",
+  "population": 3310098,
+  "mobileUsers": 2509054,
+  "internetUsers": 1843724,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹9.30L per annum",
+  "activeMobileDevices": 3442501,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 55.7,
+  "maleCount": 1708011,
+  "femaleCount": 1602087,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhopal BHEL (SB)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal-bhel-sb",
+      "distance": 34.57092065276298
+    },
+    {
+      "city": "Ambasa",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ambasa",
+      "distance": 78.16109436515922
+    },
+    {
+      "city": "Mahesana",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "mahesana",
+      "distance": 89.76584500429283
+    },
+    {
+      "city": "Raghunathganj",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "raghunathganj",
+      "distance": 123.15702598241366
+    },
+    {
+      "city": "Tadpatri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tadpatri",
+      "distance": 123.42359560727408
+    }
+  ],
+  "geohash": "teuwwdy",
+  "geohashUrl": "https://geohash.softeng.co/teuwwdy"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-barabanki",
+  "city": "Barabanki",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "barabanki",
+  "country": "India",
+  "pincode": "225001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.3602,
+  "longitude": 83.955,
+  "landmark": "Barabanki GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Barabanki, India",
+  "population": 6623264,
+  "mobileUsers": 4881345,
+  "internetUsers": 4026944,
+  "genderRatioText": "919 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.19L per annum",
+  "activeMobileDevices": 7616753,
+  "mobilePenetration": 73.7,
+  "internetPenetration": 60.8,
+  "maleCount": 3450721,
+  "femaleCount": 3172543,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mathura",
+      "distance": 49.49555926528297
+    },
+    {
+      "city": "Orai",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "orai",
+      "distance": 51.36410088201061
+    },
+    {
+      "city": "Yeotamal",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "yeotamal",
+      "distance": 53.50940248406408
+    },
+    {
+      "city": "Adilabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "adilabad",
+      "distance": 53.65341252889151
+    },
+    {
+      "city": "Aldona",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "aldona",
+      "distance": 56.917017230025955
+    }
+  ],
+  "geohash": "tue8q2w",
+  "geohashUrl": "https://geohash.softeng.co/tue8q2w"
+}

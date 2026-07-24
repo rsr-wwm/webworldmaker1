@@ -1,0 +1,81 @@
+{
+  "id": "illinois-chicago",
+  "city": "Chicago",
+  "state": "Illinois",
+  "stateSlug": "illinois",
+  "citySlug": "chicago",
+  "country": "United States",
+  "pincode": "60601",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 312",
+  "timezone": "America/Chicago",
+  "latitude": 32.1428,
+  "longitude": -87.0326,
+  "landmark": "Chicago Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Chicago, United States",
+  "population": 3366654,
+  "mobileUsers": 3258921,
+  "internetUsers": 3104054,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "$94,637 per annum",
+  "activeMobileDevices": 4342983,
+  "mobilePenetration": 96.8,
+  "internetPenetration": 92.2,
+  "maleCount": 1727094,
+  "femaleCount": 1639560,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "St. Louis",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "citySlug": "st-louis",
+      "distance": 117.71220775895665
+    },
+    {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "stateSlug": "maryland",
+      "citySlug": "baltimore",
+      "distance": 243.44096758197998
+    },
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "detroit",
+      "distance": 428.24351332217225
+    },
+    {
+      "city": "Providence",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "citySlug": "providence",
+      "distance": 432.85397903546203
+    },
+    {
+      "city": "San Diego",
+      "state": "California",
+      "stateSlug": "california",
+      "citySlug": "san-diego",
+      "distance": 445.5675642429199
+    }
+  ],
+  "geohash": "djdnge2",
+  "geohashUrl": "https://geohash.softeng.co/djdnge2"
+}

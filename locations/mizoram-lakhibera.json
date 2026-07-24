@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-lakhibera",
+  "city": "Lakhibera",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "lakhibera",
+  "country": "India",
+  "pincode": "796471",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.8774,
+  "longitude": 87.1762,
+  "landmark": "Lakhibera Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lakhibera, India",
+  "population": 7972735,
+  "mobileUsers": 5931714,
+  "internetUsers": 4616213,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹10.70L per annum",
+  "activeMobileDevices": 9248372,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 57.9,
+  "maleCount": 4137849,
+  "femaleCount": 3834886,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Singghat",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "singghat",
+      "distance": 59.010296269362286
+    },
+    {
+      "city": "Karong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "karong",
+      "distance": 77.06645689493638
+    },
+    {
+      "city": "Udaipur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "udaipur",
+      "distance": 78.0974597120742
+    },
+    {
+      "city": "Chaichima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chaichima",
+      "distance": 79.85836853389318
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "stateSlug": "telangana",
+      "citySlug": "hyderabad",
+      "distance": 91.37844934864219
+    }
+  ],
+  "geohash": "tgtyz8x",
+  "geohashUrl": "https://geohash.softeng.co/tgtyz8x"
+}

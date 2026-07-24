@@ -1,0 +1,82 @@
+{
+  "id": "ile-de-france-paris",
+  "city": "Paris",
+  "state": "Île-de-France",
+  "stateSlug": "ile-de-france",
+  "citySlug": "paris",
+  "country": "France",
+  "pincode": "75001",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ARCEP",
+  "carriers": [
+    "Orange",
+    "SFR",
+    "Bouygues",
+    "Free Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+33 1",
+  "timezone": "Europe/Paris",
+  "latitude": 48.8566,
+  "longitude": 2.3522,
+  "landmark": "Paris Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Paris, France",
+  "population": 4778291,
+  "mobileUsers": 4639720,
+  "internetUsers": 4496371,
+  "genderRatioText": "971 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "€62,794 per annum",
+  "activeMobileDevices": 6211778,
+  "mobilePenetration": 97.1,
+  "internetPenetration": 94.1,
+  "maleCount": 2422594,
+  "femaleCount": 2355697,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Liege",
+      "state": "Liege Province",
+      "stateSlug": "liege-province",
+      "citySlug": "liege",
+      "distance": 262.5272787176268
+    },
+    {
+      "city": "Ghent",
+      "state": "East Flanders",
+      "stateSlug": "east-flanders",
+      "citySlug": "ghent",
+      "distance": 264.7562821785361
+    },
+    {
+      "city": "Antwerp",
+      "state": "Antwerp Province",
+      "stateSlug": "antwerp-province",
+      "citySlug": "antwerp",
+      "distance": 269.3921175193231
+    },
+    {
+      "city": "Brussels",
+      "state": "Brussels-Capital",
+      "stateSlug": "brussels-capital",
+      "citySlug": "brussels",
+      "distance": 270.7251347858257
+    },
+    {
+      "city": "Luxembourg City",
+      "state": "Luxembourg Canton",
+      "stateSlug": "luxembourg-canton",
+      "citySlug": "luxembourg-city",
+      "distance": 278.04268152076514
+    }
+  ],
+  "geohash": "u09tvw0",
+  "geohashUrl": "https://geohash.softeng.co/u09tvw0"
+}

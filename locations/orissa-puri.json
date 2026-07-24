@@ -1,0 +1,82 @@
+{
+  "id": "orissa-puri",
+  "city": "Puri",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "puri",
+  "country": "India",
+  "pincode": "752001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.1849,
+  "longitude": 87.6142,
+  "landmark": "Puri Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Puri, India",
+  "population": 1188559,
+  "mobileUsers": 927076,
+  "internetUsers": 730963,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹7.20L per annum",
+  "activeMobileDevices": 1414385,
+  "mobilePenetration": 78,
+  "internetPenetration": 61.5,
+  "maleCount": 620428,
+  "femaleCount": 568131,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bundi",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bundi",
+      "distance": 79.68942968477037
+    },
+    {
+      "city": "Ingkiyong",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "ingkiyong",
+      "distance": 103.1126297076279
+    },
+    {
+      "city": "Ranikhet",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ranikhet",
+      "distance": 104.0839220751022
+    },
+    {
+      "city": "Shivajinagar Pune",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "shivajinagar-pune",
+      "distance": 118.1150664959881
+    },
+    {
+      "city": "Taliparamba",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "taliparamba",
+      "distance": 119.89933885941126
+    }
+  ],
+  "geohash": "tvn23dy",
+  "geohashUrl": "https://geohash.softeng.co/tvn23dy"
+}

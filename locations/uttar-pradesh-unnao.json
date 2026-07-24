@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-unnao",
+  "city": "Unnao",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "unnao",
+  "country": "India",
+  "pincode": "209801",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.1376,
+  "longitude": 81.7509,
+  "landmark": "Unnao State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Unnao, India",
+  "population": 3094609,
+  "mobileUsers": 2404511,
+  "internetUsers": 1754643,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹9.96L per annum",
+  "activeMobileDevices": 3496908,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 56.7,
+  "maleCount": 1603007,
+  "femaleCount": 1491602,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rongjing",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "rongjing",
+      "distance": 11.535846490901072
+    },
+    {
+      "city": "Imphal G.P.O",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "imphal-gpo",
+      "distance": 96.0028161977407
+    },
+    {
+      "city": "Demgiri",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "demgiri",
+      "distance": 119.74739244826921
+    },
+    {
+      "city": "Kuli bazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kuli-bazar",
+      "distance": 122.50495843612043
+    },
+    {
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "mangalore",
+      "distance": 129.0432498143232
+    }
+  ],
+  "geohash": "tff5u3c",
+  "geohashUrl": "https://geohash.softeng.co/tff5u3c"
+}

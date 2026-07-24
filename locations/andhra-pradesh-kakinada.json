@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-kakinada",
+  "city": "Kakinada",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "kakinada",
+  "country": "India",
+  "pincode": "533001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.7186,
+  "longitude": 83.51,
+  "landmark": "Kakinada Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kakinada, India",
+  "population": 9499488,
+  "mobileUsers": 7191112,
+  "internetUsers": 5319713,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹9.42L per annum",
+  "activeMobileDevices": 10069457,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 56,
+  "maleCount": 4844739,
+  "femaleCount": 4654749,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mandvi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mandvi",
+      "distance": 17.178869611684203
+    },
+    {
+      "city": "Sawantwadi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "sawantwadi",
+      "distance": 17.588728163855492
+    },
+    {
+      "city": "Kalyanpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kalyanpur",
+      "distance": 47.88278062233932
+    },
+    {
+      "city": "Bhawani Patana",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhawani-patana",
+      "distance": 52.19203680117917
+    },
+    {
+      "city": "Shrikakulam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "shrikakulam",
+      "distance": 70.67341887522593
+    }
+  ],
+  "geohash": "tfg3km6",
+  "geohashUrl": "https://geohash.softeng.co/tfg3km6"
+}

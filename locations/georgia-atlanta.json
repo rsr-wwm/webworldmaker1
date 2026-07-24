@@ -1,0 +1,81 @@
+{
+  "id": "georgia-atlanta",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "stateSlug": "georgia",
+  "citySlug": "atlanta",
+  "country": "United States",
+  "pincode": "30301",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 404",
+  "timezone": "America/New_York",
+  "latitude": 32.5263,
+  "longitude": -95.5053,
+  "landmark": "Atlanta Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Atlanta, United States",
+  "population": 3463946,
+  "mobileUsers": 3280356,
+  "internetUsers": 3148726,
+  "genderRatioText": "1,010 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "$82,796 per annum",
+  "activeMobileDevices": 4260653,
+  "mobilePenetration": 94.7,
+  "internetPenetration": 90.9,
+  "maleCount": 1725045,
+  "femaleCount": 1738901,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Des Moines",
+      "state": "Iowa",
+      "stateSlug": "iowa",
+      "citySlug": "des-moines",
+      "distance": 309.3968786071673
+    },
+    {
+      "city": "Providence",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "citySlug": "providence",
+      "distance": 443.06045345126034
+    },
+    {
+      "city": "San Diego",
+      "state": "California",
+      "stateSlug": "california",
+      "citySlug": "san-diego",
+      "distance": 459.55156481404026
+    },
+    {
+      "city": "Spokane",
+      "state": "Washington",
+      "stateSlug": "washington",
+      "citySlug": "spokane",
+      "distance": 462.2801510567656
+    },
+    {
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham",
+      "distance": 486.21176222993563
+    }
+  ],
+  "geohash": "9vu149p",
+  "geohashUrl": "https://geohash.softeng.co/9vu149p"
+}

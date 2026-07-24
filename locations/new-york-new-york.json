@@ -1,0 +1,81 @@
+{
+  "id": "new-york-new-york",
+  "city": "New York",
+  "state": "New York",
+  "stateSlug": "new-york",
+  "citySlug": "new-york",
+  "country": "United States",
+  "pincode": "10001",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / HIPAA",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 212",
+  "timezone": "America/New_York",
+  "latitude": 30.6231,
+  "longitude": -78.9833,
+  "landmark": "New York Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for New York, United States",
+  "population": 1923075,
+  "mobileUsers": 1878844,
+  "internetUsers": 1840382,
+  "genderRatioText": "980 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "$97,103 per annum",
+  "activeMobileDevices": 2634612,
+  "mobilePenetration": 97.7,
+  "internetPenetration": 95.7,
+  "maleCount": 971153,
+  "femaleCount": 951922,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "houston",
+      "distance": 244.47764484765784
+    },
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "detroit",
+      "distance": 356.4570045697089
+    },
+    {
+      "city": "Chattanooga",
+      "state": "Tennessee",
+      "stateSlug": "tennessee",
+      "citySlug": "chattanooga",
+      "distance": 459.07378035633224
+    },
+    {
+      "city": "Nassau",
+      "state": "New Providence",
+      "stateSlug": "new-providence",
+      "citySlug": "nassau",
+      "distance": 761.0336395942809
+    },
+    {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "stateSlug": "maryland",
+      "citySlug": "baltimore",
+      "distance": 768.8202788996394
+    }
+  ],
+  "geohash": "djry4wy",
+  "geohashUrl": "https://geohash.softeng.co/djry4wy"
+}

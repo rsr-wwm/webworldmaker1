@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-saraswathipuram",
+  "city": "Saraswathipuram",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "saraswathipuram",
+  "country": "India",
+  "pincode": "570009",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.0398,
+  "longitude": 86.8115,
+  "landmark": "Saraswathipuram Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Saraswathipuram, India",
+  "population": 3361535,
+  "mobileUsers": 2544681,
+  "internetUsers": 1852205,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹8.56L per annum",
+  "activeMobileDevices": 3764919,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 55.1,
+  "maleCount": 1711021,
+  "femaleCount": 1650514,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kankroli",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "kankroli",
+      "distance": 42.171745118154575
+    },
+    {
+      "city": "Chochuba",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chochuba",
+      "distance": 67.60073416280987
+    },
+    {
+      "city": "Unjha",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "unjha",
+      "distance": 69.28408128519726
+    },
+    {
+      "city": "Shalima",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shalima",
+      "distance": 102.1824183528513
+    },
+    {
+      "city": "Allahabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "allahabad",
+      "distance": 117.337801659442
+    }
+  ],
+  "geohash": "tutspkq",
+  "geohashUrl": "https://geohash.softeng.co/tutspkq"
+}

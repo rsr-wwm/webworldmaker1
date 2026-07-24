@@ -1,0 +1,81 @@
+{
+  "id": "missouri-kansas-city",
+  "city": "Kansas City",
+  "state": "Missouri",
+  "stateSlug": "missouri",
+  "citySlug": "kansas-city",
+  "country": "United States",
+  "pincode": "64101",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/Chicago",
+  "latitude": 44.0618,
+  "longitude": -103.2587,
+  "landmark": "Kansas City Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kansas City, United States",
+  "population": 1385172,
+  "mobileUsers": 1289595,
+  "internetUsers": 1304832,
+  "genderRatioText": "967 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "$101,235 per annum",
+  "activeMobileDevices": 1939240,
+  "mobilePenetration": 93.1,
+  "internetPenetration": 94.2,
+  "maleCount": 703667,
+  "femaleCount": 681505,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids",
+      "distance": 282.081694340963
+    },
+    {
+      "city": "San Antonio",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "san-antonio",
+      "distance": 307.92863911720434
+    },
+    {
+      "city": "El Paso",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "el-paso",
+      "distance": 309.9400022900931
+    },
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa",
+      "distance": 445.7772723698801
+    },
+    {
+      "city": "Tampa",
+      "state": "Florida",
+      "stateSlug": "florida",
+      "citySlug": "tampa",
+      "distance": 488.25037840538
+    }
+  ],
+  "geohash": "9xyddm1",
+  "geohashUrl": "https://geohash.softeng.co/9xyddm1"
+}

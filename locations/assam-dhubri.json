@@ -1,0 +1,82 @@
+{
+  "id": "assam-dhubri",
+  "city": "Dhubri",
+  "state": "Assam",
+  "stateSlug": "assam",
+  "citySlug": "dhubri",
+  "country": "India",
+  "pincode": "783301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.9745,
+  "longitude": 81.9805,
+  "landmark": "Dhubri Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dhubri, India",
+  "population": 4961328,
+  "mobileUsers": 3830145,
+  "internetUsers": 2708885,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹8.89L per annum",
+  "activeMobileDevices": 5060554,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 54.6,
+  "maleCount": 2569968,
+  "femaleCount": 2391360,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khayerpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "khayerpur",
+      "distance": 17.496306308343534
+    },
+    {
+      "city": "Kochi",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kochi",
+      "distance": 33.66591899954979
+    },
+    {
+      "city": "Cuttack",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "cuttack",
+      "distance": 34.1172930578558
+    },
+    {
+      "city": "Repalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "repalle",
+      "distance": 60.99783982998246
+    },
+    {
+      "city": "Chandrapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chandrapur",
+      "distance": 83.38226090341784
+    }
+  ],
+  "geohash": "tvd21w8",
+  "geohashUrl": "https://geohash.softeng.co/tvd21w8"
+}

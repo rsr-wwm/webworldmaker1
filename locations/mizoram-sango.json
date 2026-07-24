@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-sango",
+  "city": "Sango",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "sango",
+  "country": "India",
+  "pincode": "796810",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.9574,
+  "longitude": 78.386,
+  "landmark": "Sango Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sango, India",
+  "population": 564655,
+  "mobileUsers": 429702,
+  "internetUsers": 337663,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.29L per annum",
+  "activeMobileDevices": 632413,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 59.8,
+  "maleCount": 294185,
+  "femaleCount": 270470,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kalpett",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kalpett",
+      "distance": 28.98752139633085
+    },
+    {
+      "city": "Siwan",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "siwan",
+      "distance": 44.50215000416284
+    },
+    {
+      "city": "Pauri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pauri",
+      "distance": 48.186085523127836
+    },
+    {
+      "city": "Kulokon",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kulokon",
+      "distance": 68.5417848708921
+    },
+    {
+      "city": "Muzaffarnagar",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "muzaffarnagar",
+      "distance": 71.23687167476615
+    }
+  ],
+  "geohash": "t9zwrdw",
+  "geohashUrl": "https://geohash.softeng.co/t9zwrdw"
+}

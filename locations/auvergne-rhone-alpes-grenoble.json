@@ -1,0 +1,82 @@
+{
+  "id": "auvergne-rhone-alpes-grenoble",
+  "city": "Grenoble",
+  "state": "Auvergne-Rhône-Alpes",
+  "stateSlug": "auvergne-rhone-alpes",
+  "citySlug": "grenoble",
+  "country": "France",
+  "pincode": "38000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ARCEP",
+  "carriers": [
+    "Orange",
+    "SFR",
+    "Bouygues",
+    "Free Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+33 1",
+  "timezone": "Europe/Paris",
+  "latitude": 11.857,
+  "longitude": -22.1435,
+  "landmark": "Grenoble Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Grenoble, France",
+  "population": 1028662,
+  "mobileUsers": 986486,
+  "internetUsers": 948426,
+  "genderRatioText": "968 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "€55,241 per annum",
+  "activeMobileDevices": 1388693,
+  "mobilePenetration": 95.9,
+  "internetPenetration": 92.2,
+  "maleCount": 522560,
+  "femaleCount": 506102,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Praia",
+      "state": "Santiago Island",
+      "stateSlug": "santiago-island",
+      "citySlug": "praia",
+      "distance": 488.27135795311784
+    },
+    {
+      "city": "Banjul",
+      "state": "Greater Banjul Area",
+      "stateSlug": "greater-banjul-area",
+      "citySlug": "banjul",
+      "distance": 620.2662251178875
+    },
+    {
+      "city": "Bissau",
+      "state": "Bissau Sector",
+      "stateSlug": "bissau-sector",
+      "citySlug": "bissau",
+      "distance": 761.2799279660273
+    },
+    {
+      "city": "Saint-Louis",
+      "state": "Saint-Louis Region",
+      "stateSlug": "saint-louis-region",
+      "citySlug": "saint-louis",
+      "distance": 911.8132882479472
+    },
+    {
+      "city": "Dakar",
+      "state": "Dakar Region",
+      "stateSlug": "dakar-region",
+      "citySlug": "dakar",
+      "distance": 913.3731814237981
+    }
+  ],
+  "geohash": "ed072ne",
+  "geohashUrl": "https://geohash.softeng.co/ed072ne"
+}

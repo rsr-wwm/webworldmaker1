@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-chaichima",
+  "city": "Chaichima",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "chaichima",
+  "country": "India",
+  "pincode": "797105",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.5309,
+  "longitude": 87.8487,
+  "landmark": "Chaichima Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chaichima, India",
+  "population": 6663945,
+  "mobileUsers": 5064598,
+  "internetUsers": 4045014,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹9.56L per annum",
+  "activeMobileDevices": 7063781,
+  "mobilePenetration": 76,
+  "internetPenetration": 60.7,
+  "maleCount": 3398612,
+  "femaleCount": 3265333,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Longlai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "longlai",
+      "distance": 47.78907634002818
+    },
+    {
+      "city": "Budaun",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "budaun",
+      "distance": 52.08177623609887
+    },
+    {
+      "city": "Meerut City",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "meerut-city",
+      "distance": 53.315744372815814
+    },
+    {
+      "city": "Lakhibera",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lakhibera",
+      "distance": 79.85836853389318
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "stateSlug": "telangana",
+      "citySlug": "hyderabad",
+      "distance": 86.75924289706265
+    }
+  ],
+  "geohash": "tgwkz19",
+  "geohashUrl": "https://geohash.softeng.co/tgwkz19"
+}

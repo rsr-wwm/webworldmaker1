@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-park-town",
+  "city": "Park Town",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "park-town",
+  "country": "India",
+  "pincode": "600003",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.0796,
+  "longitude": 84.7455,
+  "landmark": "Park GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Park Town, India",
+  "population": 137117,
+  "mobileUsers": 103934,
+  "internetUsers": 84738,
+  "genderRatioText": "965 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹4.36L per annum",
+  "activeMobileDevices": 154942,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 61.8,
+  "maleCount": 69793,
+  "femaleCount": 67324,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sundargargh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "sundargargh",
+      "distance": 17.285021941435154
+    },
+    {
+      "city": "Gorakhpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gorakhpur",
+      "distance": 26.52946688290214
+    },
+    {
+      "city": "Gulbarga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "gulbarga",
+      "distance": 43.64053588852779
+    },
+    {
+      "city": "Banka",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "banka",
+      "distance": 47.35128200841242
+    },
+    {
+      "city": "Kanchipuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kanchipuram",
+      "distance": 60.02250061429712
+    }
+  ],
+  "geohash": "tusk27t",
+  "geohashUrl": "https://geohash.softeng.co/tusk27t"
+}

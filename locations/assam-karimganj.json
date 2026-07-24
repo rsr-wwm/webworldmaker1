@@ -1,0 +1,82 @@
+{
+  "id": "assam-karimganj",
+  "city": "Karimganj",
+  "state": "Assam",
+  "stateSlug": "assam",
+  "citySlug": "karimganj",
+  "country": "India",
+  "pincode": "788710",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.4695,
+  "longitude": 69.5198,
+  "landmark": "Karimganj GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Karimganj, India",
+  "population": 5330639,
+  "mobileUsers": 3960664,
+  "internetUsers": 3139746,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹9.94L per annum",
+  "activeMobileDevices": 6183541,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 58.9,
+  "maleCount": 2739948,
+  "femaleCount": 2590691,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Palanpur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "palanpur",
+      "distance": 47.74380678167643
+    },
+    {
+      "city": "Labaan",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labaan",
+      "distance": 56.71620252976656
+    },
+    {
+      "city": "Darjeeling",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "darjeeling",
+      "distance": 59.92482506757972
+    },
+    {
+      "city": "Bahraich",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bahraich",
+      "distance": 62.085530507606414
+    },
+    {
+      "city": "Monkolemba",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "monkolemba",
+      "distance": 84.90656983003666
+    }
+  ],
+  "geohash": "te3qvbq",
+  "geohashUrl": "https://geohash.softeng.co/te3qvbq"
+}

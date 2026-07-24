@@ -1,0 +1,82 @@
+{
+  "id": "bihar-aurangabad",
+  "city": "Aurangabad",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "aurangabad",
+  "country": "India",
+  "pincode": "824101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.7341,
+  "longitude": 83.771,
+  "landmark": "Aurangabad GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Aurangabad, India",
+  "population": 4504847,
+  "mobileUsers": 3257004,
+  "internetUsers": 2513704,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.02L per annum",
+  "activeMobileDevices": 4955331,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 55.8,
+  "maleCount": 2333511,
+  "femaleCount": 2171336,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Taran Taran",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "taran-taran",
+      "distance": 35.380527883385206
+    },
+    {
+      "city": "Raigarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raigarh",
+      "distance": 35.63228616517826
+    },
+    {
+      "city": "Hindaun",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "hindaun",
+      "distance": 38.151229228059705
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi",
+      "distance": 57.35661573273573
+    },
+    {
+      "city": "Nalbari",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nalbari",
+      "distance": 60.621114782534725
+    }
+  ],
+  "geohash": "tf786q0",
+  "geohashUrl": "https://geohash.softeng.co/tf786q0"
+}

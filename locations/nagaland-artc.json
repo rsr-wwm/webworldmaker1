@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-artc",
+  "city": "A.R.T.C",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "artc",
+  "country": "India",
+  "pincode": "797115",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.6051,
+  "longitude": 87.0391,
+  "landmark": "A.R.T.C Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for A.R.T.C, India",
+  "population": 6611561,
+  "mobileUsers": 4813216,
+  "internetUsers": 3616523,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹6.43L per annum",
+  "activeMobileDevices": 7537179,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 54.7,
+  "maleCount": 3424789,
+  "femaleCount": 3186772,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bokaro Steel City",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bokaro-steel-city",
+      "distance": 24.040503688370727
+    },
+    {
+      "city": "Mirzapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mirzapur",
+      "distance": 65.29787928631762
+    },
+    {
+      "city": "Firozabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "firozabad",
+      "distance": 73.93669235481934
+    },
+    {
+      "city": "Nabadwip",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "nabadwip",
+      "distance": 107.09848820938757
+    },
+    {
+      "city": "Arni",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arni",
+      "distance": 114.96981432853077
+    }
+  ],
+  "geohash": "tvtgu9e",
+  "geohashUrl": "https://geohash.softeng.co/tvtgu9e"
+}

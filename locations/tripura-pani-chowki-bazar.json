@@ -1,0 +1,82 @@
+{
+  "id": "tripura-pani-chowki-bazar",
+  "city": "Pani Chowki Bazar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "pani-chowki-bazar",
+  "country": "India",
+  "pincode": "799277",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.5834,
+  "longitude": 89.1218,
+  "landmark": "Pani Chowki Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pani Chowki Bazar, India",
+  "population": 148164,
+  "mobileUsers": 108604,
+  "internetUsers": 89935,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹6.63L per annum",
+  "activeMobileDevices": 151127,
+  "mobilePenetration": 73.3,
+  "internetPenetration": 60.7,
+  "maleCount": 77193,
+  "femaleCount": 70971,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shivali",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "shivali",
+      "distance": 48.094012784430525
+    },
+    {
+      "city": "Fatehpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "fatehpur",
+      "distance": 101.10737814805438
+    },
+    {
+      "city": "Anakpalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "anakpalle",
+      "distance": 154.99317064534978
+    },
+    {
+      "city": "Kollam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kollam",
+      "distance": 162.5374617221204
+    },
+    {
+      "city": "Sangareddy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "sangareddy",
+      "distance": 172.07976874458862
+    }
+  ],
+  "geohash": "tfp3uh8",
+  "geohashUrl": "https://geohash.softeng.co/tfp3uh8"
+}

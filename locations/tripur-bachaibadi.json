@@ -1,0 +1,82 @@
+{
+  "id": "tripur-bachaibadi",
+  "city": "Bachaibadi",
+  "state": "Tripur",
+  "stateSlug": "tripur",
+  "citySlug": "bachaibadi",
+  "country": "India",
+  "pincode": "799206",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.5428,
+  "longitude": 86.8665,
+  "landmark": "Bachaibadi Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bachaibadi, India",
+  "population": 6788957,
+  "mobileUsers": 5159607,
+  "internetUsers": 3896861,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.20L per annum",
+  "activeMobileDevices": 6788957,
+  "mobilePenetration": 76,
+  "internetPenetration": 57.4,
+  "maleCount": 3530258,
+  "femaleCount": 3258699,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Likabili",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "likabili",
+      "distance": 67.08014705183115
+    },
+    {
+      "city": "Sunamura",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "sunamura",
+      "distance": 76.69458911395593
+    },
+    {
+      "city": "Ichalkaranji",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ichalkaranji",
+      "distance": 108.55117726545022
+    },
+    {
+      "city": "Indi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "indi",
+      "distance": 110.4905363591432
+    },
+    {
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "aligarh",
+      "distance": 129.3889771609619
+    }
+  ],
+  "geohash": "tgmc2xw",
+  "geohashUrl": "https://geohash.softeng.co/tgmc2xw"
+}

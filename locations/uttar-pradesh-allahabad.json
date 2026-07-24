@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-allahabad",
+  "city": "Allahabad",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "allahabad",
+  "country": "India",
+  "pincode": "211001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.3333,
+  "longitude": 87.6813,
+  "landmark": "Allahabad Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Allahabad, India",
+  "population": 6714721,
+  "mobileUsers": 4895031,
+  "internetUsers": 4122838,
+  "genderRatioText": "925 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹10.58L per annum",
+  "activeMobileDevices": 7319045,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 61.4,
+  "maleCount": 3484940,
+  "femaleCount": 3229781,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Meeo",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "meeo",
+      "distance": 49.250640527509056
+    },
+    {
+      "city": "Unjha",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "unjha",
+      "distance": 50.850286548434816
+    },
+    {
+      "city": "Shalima",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shalima",
+      "distance": 81.73505572955375
+    },
+    {
+      "city": "Lucknow GPO",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lucknow-gpo",
+      "distance": 87.25736004171762
+    },
+    {
+      "city": "Patna G.P.O",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "patna-gpo",
+      "distance": 94.28893062166553
+    }
+  ],
+  "geohash": "tuw255z",
+  "geohashUrl": "https://geohash.softeng.co/tuw255z"
+}

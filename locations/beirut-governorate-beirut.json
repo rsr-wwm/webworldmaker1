@@ -1,0 +1,80 @@
+{
+  "id": "beirut-governorate-beirut",
+  "city": "Beirut",
+  "state": "Beirut Governorate",
+  "stateSlug": "beirut-governorate",
+  "citySlug": "beirut",
+  "country": "Lebanon",
+  "pincode": "1107",
+  "currency": "LBP",
+  "symbol": "L.L.",
+  "compliance": "TRA Guidelines",
+  "carriers": [
+    "Touch",
+    "Alfa"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+961",
+  "timezone": "Asia/Beirut",
+  "latitude": 33.6722,
+  "longitude": 35.7195,
+  "landmark": "Beirut Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Touch networks. Failovers route over Alfa with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Beirut, Lebanon",
+  "population": 2846859,
+  "mobileUsers": 2257559,
+  "internetUsers": 1796368,
+  "genderRatioText": "966 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "L.L.43,759 LBP per annum",
+  "activeMobileDevices": 3786322,
+  "mobilePenetration": 79.3,
+  "internetPenetration": 63.1,
+  "maleCount": 1449051,
+  "femaleCount": 1397808,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Ramallah",
+      "state": "West Bank",
+      "stateSlug": "west-bank",
+      "citySlug": "ramallah",
+      "distance": 200.8144521009579
+    },
+    {
+      "city": "Ashdod",
+      "state": "Southern District",
+      "stateSlug": "southern-district",
+      "citySlug": "ashdod",
+      "distance": 239.31452521434207
+    },
+    {
+      "city": "Jerusalem",
+      "state": "Jerusalem District",
+      "stateSlug": "jerusalem-district",
+      "citySlug": "jerusalem",
+      "distance": 251.37467619309558
+    },
+    {
+      "city": "Tel Aviv",
+      "state": "Tel Aviv District",
+      "stateSlug": "tel-aviv-district",
+      "citySlug": "tel-aviv",
+      "distance": 252.31374982641796
+    },
+    {
+      "city": "Haifa",
+      "state": "Haifa District",
+      "stateSlug": "haifa-district",
+      "citySlug": "haifa",
+      "distance": 265.89688594027
+    }
+  ],
+  "geohash": "svcrscf",
+  "geohashUrl": "https://geohash.softeng.co/svcrscf"
+}

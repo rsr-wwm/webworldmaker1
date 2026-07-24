@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-parbhani",
+  "city": "Parbhani",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "parbhani",
+  "country": "India",
+  "pincode": "431401",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.5987,
+  "longitude": 74.8256,
+  "landmark": "Parbhani Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Parbhani, India",
+  "population": 2009337,
+  "mobileUsers": 1486909,
+  "internetUsers": 1169434,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹10.37L per annum",
+  "activeMobileDevices": 2049523,
+  "mobilePenetration": 74,
+  "internetPenetration": 58.2,
+  "maleCount": 1026771,
+  "femaleCount": 982566,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Banswara",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "banswara",
+      "distance": 57.54766220647285
+    },
+    {
+      "city": "Sairang",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "sairang",
+      "distance": 68.84104630218978
+    },
+    {
+      "city": "Dharwad",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "dharwad",
+      "distance": 90.64515129405326
+    },
+    {
+      "city": "Vela",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vela",
+      "distance": 98.07662559342187
+    },
+    {
+      "city": "Palakol",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "palakol",
+      "distance": 110.48991323044392
+    }
+  ],
+  "geohash": "tdv0wxw",
+  "geohashUrl": "https://geohash.softeng.co/tdv0wxw"
+}

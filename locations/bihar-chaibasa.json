@@ -1,0 +1,82 @@
+{
+  "id": "bihar-chaibasa",
+  "city": "Chaibasa",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "chaibasa",
+  "country": "India",
+  "pincode": "833201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.8001,
+  "longitude": 83.0335,
+  "landmark": "Chaibasa Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chaibasa, India",
+  "population": 2860980,
+  "mobileUsers": 2142874,
+  "internetUsers": 1596426,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹11.60L per annum",
+  "activeMobileDevices": 3261517,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 55.8,
+  "maleCount": 1470544,
+  "femaleCount": 1390436,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Attungal",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "attungal",
+      "distance": 45.47275599387704
+    },
+    {
+      "city": "Kulashekar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kulashekar",
+      "distance": 53.465752700040674
+    },
+    {
+      "city": "Channapatna",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "channapatna",
+      "distance": 101.12557645533322
+    },
+    {
+      "city": "Warangal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "warangal",
+      "distance": 101.93939736976378
+    },
+    {
+      "city": "Ambala Cantt.",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "ambala-cantt",
+      "distance": 107.61125842915827
+    }
+  ],
+  "geohash": "tf7n92p",
+  "geohashUrl": "https://geohash.softeng.co/tf7n92p"
+}

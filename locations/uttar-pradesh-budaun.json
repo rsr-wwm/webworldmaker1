@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-budaun",
+  "city": "Budaun",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "budaun",
+  "country": "India",
+  "pincode": "243601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.0821,
+  "longitude": 87.7058,
+  "landmark": "Budaun Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Budaun, India",
+  "population": 1276003,
+  "mobileUsers": 931482,
+  "internetUsers": 755393,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.90L per annum",
+  "activeMobileDevices": 1288763,
+  "mobilePenetration": 73,
+  "internetPenetration": 59.2,
+  "maleCount": 659694,
+  "femaleCount": 616309,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hassan",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hassan",
+      "distance": 43.12412836759042
+    },
+    {
+      "city": "Chaichima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chaichima",
+      "distance": 52.08177623609887
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "stateSlug": "telangana",
+      "citySlug": "hyderabad",
+      "distance": 54.066441933340705
+    },
+    {
+      "city": "Meerut City",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "meerut-city",
+      "distance": 83.74531955437713
+    },
+    {
+      "city": "Indi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "indi",
+      "distance": 96.96499838205385
+    }
+  ],
+  "geohash": "tgw65zc",
+  "geohashUrl": "https://geohash.softeng.co/tgw65zc"
+}

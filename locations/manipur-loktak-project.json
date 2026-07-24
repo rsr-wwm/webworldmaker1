@@ -1,0 +1,82 @@
+{
+  "id": "manipur-loktak-project",
+  "city": "Loktak Project",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "loktak-project",
+  "country": "India",
+  "pincode": "795124",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.0351,
+  "longitude": 72.0587,
+  "landmark": "Loktak Project District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Loktak Project, India",
+  "population": 4543279,
+  "mobileUsers": 3498324,
+  "internetUsers": 2712337,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹7.32L per annum",
+  "activeMobileDevices": 4679577,
+  "mobilePenetration": 77,
+  "internetPenetration": 59.7,
+  "maleCount": 2353419,
+  "femaleCount": 2189860,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khairatabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "khairatabad",
+      "distance": 38.56382985682801
+    },
+    {
+      "city": "Rayagada",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rayagada",
+      "distance": 56.44877076959034
+    },
+    {
+      "city": "Kalpeni",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kalpeni",
+      "distance": 67.37186122604587
+    },
+    {
+      "city": "Peddapalli",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "peddapalli",
+      "distance": 75.52117604628292
+    },
+    {
+      "city": "Bhandara",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "bhandara",
+      "distance": 86.40120591632358
+    }
+  ],
+  "geohash": "tsg1z9x",
+  "geohashUrl": "https://geohash.softeng.co/tsg1z9x"
+}

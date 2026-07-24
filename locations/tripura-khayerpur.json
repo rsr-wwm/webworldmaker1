@@ -1,0 +1,82 @@
+{
+  "id": "tripura-khayerpur",
+  "city": "Khayerpur",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "khayerpur",
+  "country": "India",
+  "pincode": "799008",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.9558,
+  "longitude": 81.7983,
+  "landmark": "Khayerpur Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Khayerpur, India",
+  "population": 3018004,
+  "mobileUsers": 2242376,
+  "internetUsers": 1780622,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹10.92L per annum",
+  "activeMobileDevices": 3380164,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 59,
+  "maleCount": 1578416,
+  "femaleCount": 1439588,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dhubri",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "dhubri",
+      "distance": 17.496306308343534
+    },
+    {
+      "city": "Kochi",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kochi",
+      "distance": 37.68495266270581
+    },
+    {
+      "city": "Cuttack",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "cuttack",
+      "distance": 51.069814364385344
+    },
+    {
+      "city": "Repalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "repalle",
+      "distance": 69.81040763661812
+    },
+    {
+      "city": "Chandrapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chandrapur",
+      "distance": 81.76896182687906
+    }
+  ],
+  "geohash": "tvd0j77",
+  "geohashUrl": "https://geohash.softeng.co/tvd0j77"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "jiangxi-province-nanchang",
+  "city": "Nanchang",
+  "state": "Jiangxi Province",
+  "stateSlug": "jiangxi-province",
+  "citySlug": "nanchang",
+  "country": "China",
+  "pincode": "330000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.0923,
+  "longitude": 105.0703,
+  "landmark": "Nanchang Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Nanchang, China",
+  "population": 7410461,
+  "mobileUsers": 6765750,
+  "internetUsers": 5357763,
+  "genderRatioText": "978 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "¥38,047 CNY per annum",
+  "activeMobileDevices": 8596134,
+  "mobilePenetration": 91.3,
+  "internetPenetration": 72.3,
+  "maleCount": 3749693,
+  "femaleCount": 3660768,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Changsha",
+      "state": "Hunan Province",
+      "stateSlug": "hunan-province",
+      "citySlug": "changsha",
+      "distance": 0.44212547547909964
+    },
+    {
+      "city": "Xian",
+      "state": "Shaanxi Province",
+      "stateSlug": "shaanxi-province",
+      "citySlug": "xian",
+      "distance": 4.7667415616515205
+    },
+    {
+      "city": "Zhengzhou",
+      "state": "Henan Province",
+      "stateSlug": "henan-province",
+      "citySlug": "zhengzhou",
+      "distance": 7.719120049018168
+    },
+    {
+      "city": "Wuxi",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "wuxi",
+      "distance": 8.687849955142722
+    },
+    {
+      "city": "Nantong",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "nantong",
+      "distance": 9.170778503037345
+    }
+  ],
+  "geohash": "wq4xwum",
+  "geohashUrl": "https://geohash.softeng.co/wq4xwum"
+}

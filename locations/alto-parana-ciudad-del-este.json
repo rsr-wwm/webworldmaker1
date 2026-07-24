@@ -1,0 +1,81 @@
+{
+  "id": "alto-parana-ciudad-del-este",
+  "city": "Ciudad del Este",
+  "state": "Alto Parana",
+  "stateSlug": "alto-parana",
+  "citySlug": "ciudad-del-este",
+  "country": "Paraguay",
+  "pincode": "7000",
+  "currency": "PYG",
+  "symbol": "₲",
+  "compliance": "CONATEL Guidelines",
+  "carriers": [
+    "Tigo",
+    "Personal",
+    "Claro"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+595",
+  "timezone": "America/Asuncion",
+  "latitude": -22.9265,
+  "longitude": -58.1034,
+  "landmark": "Ciudad del Este Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Tigo networks. Failovers route over Personal, Claro with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Ciudad del Este, Paraguay",
+  "population": 3468514,
+  "mobileUsers": 2837244,
+  "internetUsers": 2178226,
+  "genderRatioText": "970 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "₲23,946 PYG per annum",
+  "activeMobileDevices": 4578438,
+  "mobilePenetration": 81.8,
+  "internetPenetration": 62.8,
+  "maleCount": 1762005,
+  "femaleCount": 1706509,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Asuncion",
+      "state": "Capital District",
+      "stateSlug": "capital-district",
+      "citySlug": "asuncion",
+      "distance": 5.434999980974307
+    },
+    {
+      "city": "Santa Cruz de la Sierra",
+      "state": "Andres Ibanez",
+      "stateSlug": "andres-ibanez",
+      "citySlug": "santa-cruz-de-la-sierra",
+      "distance": 969.1774998474418
+    },
+    {
+      "city": "Cochabamba",
+      "state": "Cercado",
+      "stateSlug": "cercado",
+      "citySlug": "cochabamba",
+      "distance": 980.684089058325
+    },
+    {
+      "city": "Sucre",
+      "state": "Chuquisaca",
+      "stateSlug": "chuquisaca",
+      "citySlug": "sucre",
+      "distance": 987.2924446856117
+    },
+    {
+      "city": "Montevideo",
+      "state": "Montevideo Department",
+      "stateSlug": "montevideo-department",
+      "citySlug": "montevideo",
+      "distance": 1116.0979753185795
+    }
+  ],
+  "geohash": "6eyttf6",
+  "geohashUrl": "https://geohash.softeng.co/6eyttf6"
+}

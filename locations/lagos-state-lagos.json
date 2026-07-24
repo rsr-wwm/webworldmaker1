@@ -1,0 +1,82 @@
+{
+  "id": "lagos-state-lagos",
+  "city": "Lagos",
+  "state": "Lagos State",
+  "stateSlug": "lagos-state",
+  "citySlug": "lagos",
+  "country": "Nigeria",
+  "pincode": "100001",
+  "currency": "NGN",
+  "symbol": "₦",
+  "compliance": "NCC Guidelines",
+  "carriers": [
+    "MTN",
+    "Airtel",
+    "Globacom",
+    "9mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+234",
+  "timezone": "Africa/Lagos",
+  "latitude": 10.1228,
+  "longitude": 8.0295,
+  "landmark": "Lagos Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Airtel, Globacom, 9mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Lagos, Nigeria",
+  "population": 2829810,
+  "mobileUsers": 2289316,
+  "internetUsers": 1893142,
+  "genderRatioText": "978 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "₦43,659 NGN per annum",
+  "activeMobileDevices": 3848541,
+  "mobilePenetration": 80.9,
+  "internetPenetration": 66.9,
+  "maleCount": 1431884,
+  "femaleCount": 1397926,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Ibadan",
+      "state": "Oyo State",
+      "stateSlug": "oyo-state",
+      "citySlug": "ibadan",
+      "distance": 15.622011068710943
+    },
+    {
+      "city": "Kano",
+      "state": "Kano State",
+      "stateSlug": "kano-state",
+      "citySlug": "kano",
+      "distance": 20.878223289971817
+    },
+    {
+      "city": "Port Harcourt",
+      "state": "Rivers State",
+      "stateSlug": "rivers-state",
+      "citySlug": "port-harcourt",
+      "distance": 23.888201586453164
+    },
+    {
+      "city": "Douala",
+      "state": "Littoral Region",
+      "stateSlug": "littoral-region",
+      "citySlug": "douala",
+      "distance": 618.3951744774357
+    },
+    {
+      "city": "Porto-Novo",
+      "state": "Oueme Department",
+      "stateSlug": "oueme-department",
+      "citySlug": "porto-novo",
+      "distance": 624.7598002324816
+    }
+  ],
+  "geohash": "s1v9wdy",
+  "geohashUrl": "https://geohash.softeng.co/s1v9wdy"
+}

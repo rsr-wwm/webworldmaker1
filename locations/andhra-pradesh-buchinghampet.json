@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-buchinghampet",
+  "city": "Buchinghampet",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "buchinghampet",
+  "country": "India",
+  "pincode": "520002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.4651,
+  "longitude": 73.7903,
+  "landmark": "Buchinghampet GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Buchinghampet, India",
+  "population": 8858395,
+  "mobileUsers": 6785530,
+  "internetUsers": 5129010,
+  "genderRatioText": "949 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.04L per annum",
+  "activeMobileDevices": 9744234,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 57.9,
+  "maleCount": 4544357,
+  "femaleCount": 4314038,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bordoli",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bordoli",
+      "distance": 45.7543119997016
+    },
+    {
+      "city": "Amalapuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "amalapuram",
+      "distance": 48.10471531687134
+    },
+    {
+      "city": "Morar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "morar",
+      "distance": 103.38316336378868
+    },
+    {
+      "city": "Papanasam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "papanasam",
+      "distance": 106.752719152838
+    },
+    {
+      "city": "Lamphelpat",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lamphelpat",
+      "distance": 107.11748041896021
+    }
+  ],
+  "geohash": "tds6r1k",
+  "geohashUrl": "https://geohash.softeng.co/tds6r1k"
+}

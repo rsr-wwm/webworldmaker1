@@ -1,0 +1,82 @@
+{
+  "id": "jammu-and-kashmir-gandhinagar-jammu",
+  "city": "Gandhinagar (Jammu)",
+  "state": "Jammu & Kashmir",
+  "stateSlug": "jammu-and-kashmir",
+  "citySlug": "gandhinagar-jammu",
+  "country": "India",
+  "pincode": "180004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.8474,
+  "longitude": 72.8773,
+  "landmark": "Gandhinagar (Jammu) District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gandhinagar (Jammu), India",
+  "population": 9112524,
+  "mobileUsers": 6606579,
+  "internetUsers": 5385501,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹8.25L per annum",
+  "activeMobileDevices": 9568150,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 59.1,
+  "maleCount": 4692950,
+  "femaleCount": 4419574,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thrissur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thrissur",
+      "distance": 54.79452359268018
+    },
+    {
+      "city": "Loleim",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "loleim",
+      "distance": 61.15595216232642
+    },
+    {
+      "city": "Champhai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "champhai",
+      "distance": 72.01730346369273
+    },
+    {
+      "city": "Mangan",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "mangan",
+      "distance": 82.97275623674932
+    },
+    {
+      "city": "Gudiyattam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "gudiyattam",
+      "distance": 85.23950795748497
+    }
+  ],
+  "geohash": "teeyd75",
+  "geohashUrl": "https://geohash.softeng.co/teeyd75"
+}

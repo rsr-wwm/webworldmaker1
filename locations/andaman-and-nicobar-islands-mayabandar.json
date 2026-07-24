@@ -1,0 +1,82 @@
+{
+  "id": "andaman-and-nicobar-islands-mayabandar",
+  "city": "Mayabandar",
+  "state": "Andaman & Nicobar Islands",
+  "stateSlug": "andaman-and-nicobar-islands",
+  "citySlug": "mayabandar",
+  "country": "India",
+  "pincode": "744204",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.0855,
+  "longitude": 72.834,
+  "landmark": "Mayabandar Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mayabandar, India",
+  "population": 2667431,
+  "mobileUsers": 2016577,
+  "internetUsers": 1587121,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹7.09L per annum",
+  "activeMobileDevices": 2667431,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 59.5,
+  "maleCount": 1363057,
+  "femaleCount": 1304374,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bilimora",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bilimora",
+      "distance": 34.449244931998585
+    },
+    {
+      "city": "Tikamgarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "tikamgarh",
+      "distance": 47.036429057400674
+    },
+    {
+      "city": "Virudhunagar",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "virudhunagar",
+      "distance": 58.15794085146953
+    },
+    {
+      "city": "Dadar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "dadar",
+      "distance": 73.90824758096855
+    },
+    {
+      "city": "Beawar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "beawar",
+      "distance": 94.23799830628813
+    }
+  ],
+  "geohash": "te5c1qk",
+  "geohashUrl": "https://geohash.softeng.co/te5c1qk"
+}

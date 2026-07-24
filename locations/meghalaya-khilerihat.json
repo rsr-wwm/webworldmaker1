@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-khilerihat",
+  "city": "Khilerihat",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "khilerihat",
+  "country": "India",
+  "pincode": "793200",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.7894,
+  "longitude": 79.9487,
+  "landmark": "Khilerihat Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Khilerihat, India",
+  "population": 1928856,
+  "mobileUsers": 1460143,
+  "internetUsers": 1068586,
+  "genderRatioText": "931 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹7.18L per annum",
+  "activeMobileDevices": 2198895,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 55.4,
+  "maleCount": 999147,
+  "femaleCount": 929709,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kalkalang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "kalkalang",
+      "distance": 118.39219586415854
+    },
+    {
+      "city": "Pathanamthitta",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "pathanamthitta",
+      "distance": 150.9731441779054
+    },
+    {
+      "city": "Ambikapur",
+      "state": "Mashya Pradesh",
+      "stateSlug": "mashya-pradesh",
+      "citySlug": "ambikapur",
+      "distance": 152.01887899757847
+    },
+    {
+      "city": "Koraput",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "koraput",
+      "distance": 154.0312830480122
+    },
+    {
+      "city": "Port Blair",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "port-blair",
+      "distance": 159.24411462502457
+    }
+  ],
+  "geohash": "tc8f520",
+  "geohashUrl": "https://geohash.softeng.co/tc8f520"
+}

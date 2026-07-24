@@ -1,0 +1,79 @@
+{
+  "id": "maekel-region-asmara",
+  "city": "Asmara",
+  "state": "Maekel Region",
+  "stateSlug": "maekel-region",
+  "citySlug": "asmara",
+  "country": "Eritrea",
+  "pincode": "00000",
+  "currency": "ERN",
+  "symbol": "Nkf",
+  "compliance": "Eritel Regulations",
+  "carriers": [
+    "Eritel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+291",
+  "timezone": "Africa/Asmara",
+  "latitude": 15.1761,
+  "longitude": 38.9572,
+  "landmark": "Asmara State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Eritel networks. Failovers route over local regional carriers with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Asmara, Eritrea",
+  "population": 1845276,
+  "mobileUsers": 1428243,
+  "internetUsers": 1145916,
+  "genderRatioText": "966 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "Nkf18,005 ERN per annum",
+  "activeMobileDevices": 2564933,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 62.1,
+  "maleCount": 939245,
+  "femaleCount": 906031,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Djibouti City",
+      "state": "Djibouti Region",
+      "stateSlug": "djibouti-region",
+      "citySlug": "djibouti-city",
+      "distance": 606.2199778487245
+    },
+    {
+      "city": "Dire Dawa",
+      "state": "Dire Dawa Charter City",
+      "stateSlug": "dire-dawa-charter-city",
+      "citySlug": "dire-dawa",
+      "distance": 793.2328009907511
+    },
+    {
+      "city": "Addis Ababa",
+      "state": "Addis Ababa Area",
+      "stateSlug": "addis-ababa-area",
+      "citySlug": "addis-ababa",
+      "distance": 817.1440815782807
+    },
+    {
+      "city": "Port Sudan",
+      "state": "Red Sea State",
+      "stateSlug": "red-sea-state",
+      "citySlug": "port-sudan",
+      "distance": 940.6028116105842
+    },
+    {
+      "city": "Khartoum",
+      "state": "Khartoum State",
+      "stateSlug": "khartoum-state",
+      "citySlug": "khartoum",
+      "distance": 977.5540285579186
+    }
+  ],
+  "geohash": "sfewq6x",
+  "geohashUrl": "https://geohash.softeng.co/sfewq6x"
+}

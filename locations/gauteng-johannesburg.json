@@ -1,0 +1,81 @@
+{
+  "id": "gauteng-johannesburg",
+  "city": "Johannesburg",
+  "state": "Gauteng",
+  "stateSlug": "gauteng",
+  "citySlug": "johannesburg",
+  "country": "South Africa",
+  "pincode": "2000",
+  "currency": "ZAR",
+  "symbol": "R",
+  "compliance": "ICASA Guidelines",
+  "carriers": [
+    "Vodacom",
+    "MTN",
+    "Telkom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+27",
+  "timezone": "Africa/Johannesburg",
+  "latitude": -29.1462,
+  "longitude": 23.9273,
+  "landmark": "Johannesburg State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over MTN, Telkom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Johannesburg, South Africa",
+  "population": 1081388,
+  "mobileUsers": 839157,
+  "internetUsers": 723448,
+  "genderRatioText": "990 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "R29,304 ZAR per annum",
+  "activeMobileDevices": 1405804,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 66.9,
+  "maleCount": 543938,
+  "femaleCount": 537450,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Port Elizabeth",
+      "state": "Eastern Cape",
+      "stateSlug": "eastern-cape",
+      "citySlug": "port-elizabeth",
+      "distance": 6.3321585977391885
+    },
+    {
+      "city": "Cape Town",
+      "state": "Western Cape",
+      "stateSlug": "western-cape",
+      "citySlug": "cape-town",
+      "distance": 14.81991609873595
+    },
+    {
+      "city": "Pretoria",
+      "state": "Gauteng",
+      "stateSlug": "gauteng",
+      "citySlug": "pretoria",
+      "distance": 19.038872897527007
+    },
+    {
+      "city": "Durban",
+      "state": "KwaZulu-Natal",
+      "stateSlug": "kwazulu-natal",
+      "citySlug": "durban",
+      "distance": 26.035349830224938
+    },
+    {
+      "city": "Maseru",
+      "state": "Maseru District",
+      "stateSlug": "maseru-district",
+      "citySlug": "maseru",
+      "distance": 438.9133082179401
+    }
+  ],
+  "geohash": "kdc40qp",
+  "geohashUrl": "https://geohash.softeng.co/kdc40qp"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "ontario-hamilton",
+  "city": "Hamilton",
+  "state": "Ontario",
+  "stateSlug": "ontario",
+  "citySlug": "hamilton",
+  "country": "Canada",
+  "pincode": "L8P",
+  "currency": "CAD",
+  "symbol": "C$",
+  "compliance": "CRTC / CASL Guidelines",
+  "carriers": [
+    "Rogers",
+    "Bell",
+    "Telus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 416",
+  "timezone": "America/Toronto",
+  "latitude": 43.2557,
+  "longitude": -79.8711,
+  "landmark": "Hamilton Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Hamilton, Canada",
+  "population": 4091987,
+  "mobileUsers": 3801455,
+  "internetUsers": 3862835,
+  "genderRatioText": "1,007 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "C$42,900 CAD per annum",
+  "activeMobileDevices": 5278663,
+  "mobilePenetration": 92.9,
+  "internetPenetration": 94.4,
+  "maleCount": 2037810,
+  "femaleCount": 2054177,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Toronto",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "toronto",
+      "distance": 59.18363511119452
+    },
+    {
+      "city": "London",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "london",
+      "distance": 115.52640097355668
+    },
+    {
+      "city": "Phoenix",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "phoenix",
+      "distance": 231.11961501819616
+    },
+    {
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor",
+      "distance": 275.56166986018405
+    },
+    {
+      "city": "Kingston",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "kingston",
+      "distance": 299.9937387579024
+    }
+  ],
+  "geohash": "dpxnn6r",
+  "geohashUrl": "https://geohash.softeng.co/dpxnn6r"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "montevideo-department-montevideo",
+  "city": "Montevideo",
+  "state": "Montevideo Department",
+  "stateSlug": "montevideo-department",
+  "citySlug": "montevideo",
+  "country": "Uruguay",
+  "pincode": "11000",
+  "currency": "UYU",
+  "symbol": "$U",
+  "compliance": "URSEC Guidelines",
+  "carriers": [
+    "Antel",
+    "Movistar",
+    "Claro"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+598",
+  "timezone": "America/Montevideo",
+  "latitude": -32.8051,
+  "longitude": -56.0877,
+  "landmark": "Montevideo Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Antel networks. Failovers route over Movistar, Claro with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Montevideo, Uruguay",
+  "population": 1431034,
+  "mobileUsers": 1140534,
+  "internetUsers": 877223,
+  "genderRatioText": "972 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "$U37,471 UYU per annum",
+  "activeMobileDevices": 1803102,
+  "mobilePenetration": 79.7,
+  "internetPenetration": 61.3,
+  "maleCount": 725534,
+  "femaleCount": 705500,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Mendoza",
+      "state": "Mendoza Province",
+      "stateSlug": "mendoza-province",
+      "citySlug": "mendoza",
+      "distance": 735.9431864990293
+    },
+    {
+      "city": "Rosario",
+      "state": "Santa Fe Province",
+      "stateSlug": "santa-fe-province",
+      "citySlug": "rosario",
+      "distance": 737.894163492161
+    },
+    {
+      "city": "Cordoba",
+      "state": "Cordoba Province",
+      "stateSlug": "cordoba-province",
+      "citySlug": "cordoba",
+      "distance": 744.0928961932375
+    },
+    {
+      "city": "San Miguel de Tucuman",
+      "state": "Tucuman Province",
+      "stateSlug": "tucuman-province",
+      "citySlug": "san-miguel-de-tucuman",
+      "distance": 751.6593648443001
+    },
+    {
+      "city": "Buenos Aires",
+      "state": "Capital Federal",
+      "stateSlug": "capital-federal",
+      "citySlug": "buenos-aires",
+      "distance": 754.7735453447515
+    }
+  ],
+  "geohash": "6f0j7sn",
+  "geohashUrl": "https://geohash.softeng.co/6f0j7sn"
+}

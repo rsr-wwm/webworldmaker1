@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-tirupati",
+  "city": "Tirupati",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "tirupati",
+  "country": "India",
+  "pincode": "517501",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.9455,
+  "longitude": 80.6324,
+  "landmark": "Tirupati Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tirupati, India",
+  "population": 840685,
+  "mobileUsers": 624628,
+  "internetUsers": 489278,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹8.12L per annum",
+  "activeMobileDevices": 907939,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 58.2,
+  "maleCount": 429590,
+  "femaleCount": 411095,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Phenk",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "phenk",
+      "distance": 28.285694587059762
+    },
+    {
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ernakulam",
+      "distance": 51.86046047016596
+    },
+    {
+      "city": "Landsdowne",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "landsdowne",
+      "distance": 100.72606971619139
+    },
+    {
+      "city": "Bahadurgarh",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "bahadurgarh",
+      "distance": 104.54559229095342
+    },
+    {
+      "city": "Tiruthuraipundi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruthuraipundi",
+      "distance": 105.07883692559827
+    }
+  ],
+  "geohash": "tf17fyd",
+  "geohashUrl": "https://geohash.softeng.co/tf17fyd"
+}

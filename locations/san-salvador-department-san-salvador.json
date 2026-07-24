@@ -1,0 +1,81 @@
+{
+  "id": "san-salvador-department-san-salvador",
+  "city": "San Salvador",
+  "state": "San Salvador Department",
+  "stateSlug": "san-salvador-department",
+  "citySlug": "san-salvador",
+  "country": "El Salvador",
+  "pincode": "01101",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "SIGET Guidelines",
+  "carriers": [
+    "Tigo",
+    "Claro",
+    "Movistar"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+503",
+  "timezone": "America/El_Salvador",
+  "latitude": 13.7437,
+  "longitude": -89.1062,
+  "landmark": "San Salvador District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Tigo networks. Failovers route over Claro, Movistar with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for San Salvador, El Salvador",
+  "population": 3669999,
+  "mobileUsers": 3005729,
+  "internetUsers": 2385499,
+  "genderRatioText": "974 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "$43,056 USD per annum",
+  "activeMobileDevices": 4954498,
+  "mobilePenetration": 81.9,
+  "internetPenetration": 65,
+  "maleCount": 1860689,
+  "femaleCount": 1809310,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Guatemala City",
+      "state": "Guatemala Department",
+      "stateSlug": "guatemala-department",
+      "citySlug": "guatemala-city",
+      "distance": 248.61813189079305
+    },
+    {
+      "city": "Tegucigalpa",
+      "state": "Francisco Morazan Department",
+      "stateSlug": "francisco-morazan-department",
+      "citySlug": "tegucigalpa",
+      "distance": 313.3774220690229
+    },
+    {
+      "city": "Belmopan",
+      "state": "Cayo District",
+      "stateSlug": "cayo-district",
+      "citySlug": "belmopan",
+      "distance": 382.3143864993643
+    },
+    {
+      "city": "Managua",
+      "state": "Managua Department",
+      "stateSlug": "managua-department",
+      "citySlug": "managua",
+      "distance": 467.1861579571386
+    },
+    {
+      "city": "San Jose",
+      "state": "San Jose Province",
+      "stateSlug": "san-jose-province",
+      "citySlug": "san-jose",
+      "distance": 693.780582467896
+    }
+  ],
+  "geohash": "d42whmf",
+  "geohashUrl": "https://geohash.softeng.co/d42whmf"
+}

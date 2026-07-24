@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-kanpur",
+  "city": "Kanpur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "kanpur",
+  "country": "India",
+  "pincode": "208001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.8126,
+  "longitude": 72.0739,
+  "landmark": "Kanpur Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kanpur, India",
+  "population": 9911840,
+  "mobileUsers": 7384320,
+  "internetUsers": 5709219,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹6.75L per annum",
+  "activeMobileDevices": 11101260,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 57.6,
+  "maleCount": 5183892,
+  "femaleCount": 4727948,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Devakottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "devakottai",
+      "distance": 69.20941241740422
+    },
+    {
+      "city": "Latur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "latur",
+      "distance": 92.42638909679052
+    },
+    {
+      "city": "Beleghata",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "beleghata",
+      "distance": 97.24394518458003
+    },
+    {
+      "city": "Deeg",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "deeg",
+      "distance": 101.0373349280114
+    },
+    {
+      "city": "Dholka",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dholka",
+      "distance": 103.96304401654164
+    }
+  ],
+  "geohash": "t9erb46",
+  "geohashUrl": "https://geohash.softeng.co/t9erb46"
+}

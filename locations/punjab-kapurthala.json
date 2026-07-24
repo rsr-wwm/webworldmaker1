@@ -1,0 +1,82 @@
+{
+  "id": "punjab-kapurthala",
+  "city": "Kapurthala",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "kapurthala",
+  "country": "India",
+  "pincode": "144601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.5262,
+  "longitude": 70.4754,
+  "landmark": "Kapurthala State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kapurthala, India",
+  "population": 2935737,
+  "mobileUsers": 2266388,
+  "internetUsers": 1667498,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹9.60L per annum",
+  "activeMobileDevices": 3023809,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 56.8,
+  "maleCount": 1497226,
+  "femaleCount": 1438511,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dholka",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dholka",
+      "distance": 77.35869451379197
+    },
+    {
+      "city": "Turiyur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "turiyur",
+      "distance": 100.64059056610748
+    },
+    {
+      "city": "Latur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "latur",
+      "distance": 107.9565740948232
+    },
+    {
+      "city": "Devakottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "devakottai",
+      "distance": 109.727314230982
+    },
+    {
+      "city": "Sibsagar",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "sibsagar",
+      "distance": 114.54529849780614
+    }
+  ],
+  "geohash": "t9dn5wn",
+  "geohashUrl": "https://geohash.softeng.co/t9dn5wn"
+}

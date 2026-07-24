@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-durgapur",
+  "city": "Durgapur",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "durgapur",
+  "country": "India",
+  "pincode": "713201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.6923,
+  "longitude": 74.39,
+  "landmark": "Durgapur Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Durgapur, India",
+  "population": 9239359,
+  "mobileUsers": 6781689,
+  "internetUsers": 5229477,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹10.53L per annum",
+  "activeMobileDevices": 9608933,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 56.6,
+  "maleCount": 4721312,
+  "femaleCount": 4518047,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Raipur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raipur",
+      "distance": 37.737521412679946
+    },
+    {
+      "city": "Shastrinagar (Jodhpur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shastrinagar-jodhpur",
+      "distance": 65.17058243733602
+    },
+    {
+      "city": "Darbhanga",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "darbhanga",
+      "distance": 69.28949575006034
+    },
+    {
+      "city": "Dumka",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "dumka",
+      "distance": 74.59010902084201
+    },
+    {
+      "city": "Thingdol",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thingdol",
+      "distance": 74.79080459294231
+    }
+  ],
+  "geohash": "ttkysg3",
+  "geohashUrl": "https://geohash.softeng.co/ttkysg3"
+}

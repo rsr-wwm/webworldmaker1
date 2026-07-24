@@ -1,0 +1,81 @@
+{
+  "id": "xinjiang-region-urumqi",
+  "city": "Urumqi",
+  "state": "Xinjiang Region",
+  "stateSlug": "xinjiang-region",
+  "citySlug": "urumqi",
+  "country": "China",
+  "pincode": "830000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.0629,
+  "longitude": 104.8663,
+  "landmark": "Urumqi Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Urumqi, China",
+  "population": 5778861,
+  "mobileUsers": 5449465,
+  "internetUsers": 4079875,
+  "genderRatioText": "965 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "¥44,645 CNY per annum",
+  "activeMobileDevices": 6414535,
+  "mobilePenetration": 94.3,
+  "internetPenetration": 70.6,
+  "maleCount": 2941440,
+  "femaleCount": 2837421,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Fuzhou",
+      "state": "Fujian Province",
+      "stateSlug": "fujian-province",
+      "citySlug": "fuzhou",
+      "distance": 1.5516298493346878
+    },
+    {
+      "city": "Foshan",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "foshan",
+      "distance": 1.6569700471095368
+    },
+    {
+      "city": "Suzhou",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "suzhou",
+      "distance": 4.271073369311807
+    },
+    {
+      "city": "Wuhan",
+      "state": "Hubei Province",
+      "stateSlug": "hubei-province",
+      "citySlug": "wuhan",
+      "distance": 4.7063991302388475
+    },
+    {
+      "city": "Guiyang",
+      "state": "Guizhou Province",
+      "stateSlug": "guizhou-province",
+      "citySlug": "guiyang",
+      "distance": 5.242334710462864
+    }
+  ],
+  "geohash": "wq4x6r1",
+  "geohashUrl": "https://geohash.softeng.co/wq4x6r1"
+}

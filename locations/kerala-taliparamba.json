@@ -1,0 +1,82 @@
+{
+  "id": "kerala-taliparamba",
+  "city": "Taliparamba",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "taliparamba",
+  "country": "India",
+  "pincode": "670141",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.3906,
+  "longitude": 88.4385,
+  "landmark": "Taliparamba Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Taliparamba, India",
+  "population": 1415890,
+  "mobileUsers": 1067581,
+  "internetUsers": 859445,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹7.63L per annum",
+  "activeMobileDevices": 1515002,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 60.7,
+  "maleCount": 737679,
+  "femaleCount": 678211,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bundi",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bundi",
+      "distance": 40.885485660245436
+    },
+    {
+      "city": "Nevare",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "nevare",
+      "distance": 56.862450935626995
+    },
+    {
+      "city": "Mahim",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mahim",
+      "distance": 73.27714199960141
+    },
+    {
+      "city": "Anandpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "anandpur",
+      "distance": 77.80939373464342
+    },
+    {
+      "city": "Erode",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "erode",
+      "distance": 86.07306192500978
+    }
+  ],
+  "geohash": "tuygu6q",
+  "geohashUrl": "https://geohash.softeng.co/tuygu6q"
+}

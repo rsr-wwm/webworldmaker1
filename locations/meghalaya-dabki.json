@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-dabki",
+  "city": "Dabki",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "dabki",
+  "country": "India",
+  "pincode": "793109",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.2654,
+  "longitude": 76.3981,
+  "landmark": "Dabki Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dabki, India",
+  "population": 5007108,
+  "mobileUsers": 3655188,
+  "internetUsers": 2904122,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹9.89L per annum",
+  "activeMobileDevices": 5958458,
+  "mobilePenetration": 73,
+  "internetPenetration": 58,
+  "maleCount": 2573654,
+  "femaleCount": 2433454,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bharuch",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bharuch",
+      "distance": 44.597394184404294
+    },
+    {
+      "city": "Hukeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hukeri",
+      "distance": 51.2447699730117
+    },
+    {
+      "city": "Ramgarh Cantt.",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "ramgarh-cantt",
+      "distance": 51.5927004938135
+    },
+    {
+      "city": "Itanagar G.P.O",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "itanagar-gpo",
+      "distance": 56.151604899234094
+    },
+    {
+      "city": "Udupi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "udupi",
+      "distance": 77.85641002538712
+    }
+  ],
+  "geohash": "ten64rp",
+  "geohashUrl": "https://geohash.softeng.co/ten64rp"
+}

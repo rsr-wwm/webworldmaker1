@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-borivali",
+  "city": "Borivali",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "borivali",
+  "country": "India",
+  "pincode": "400091",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.1033,
+  "longitude": 77.4081,
+  "landmark": "Borivali District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Borivali, India",
+  "population": 818512,
+  "mobileUsers": 616339,
+  "internetUsers": 497655,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹10.22L per annum",
+  "activeMobileDevices": 826697,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 60.8,
+  "maleCount": 416623,
+  "femaleCount": 401889,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chiplun",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chiplun",
+      "distance": 21.93452600155792
+    },
+    {
+      "city": "Anand",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "anand",
+      "distance": 34.82976276992447
+    },
+    {
+      "city": "Peren",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "peren",
+      "distance": 38.74163916381621
+    },
+    {
+      "city": "Damoh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "damoh",
+      "distance": 39.473092280164295
+    },
+    {
+      "city": "Nandyal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nandyal",
+      "distance": 71.56014579060673
+    }
+  ],
+  "geohash": "tsxh3ry",
+  "geohashUrl": "https://geohash.softeng.co/tsxh3ry"
+}

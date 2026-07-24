@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-mailuri",
+  "city": "Mailuri",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "mailuri",
+  "country": "India",
+  "pincode": "797114",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.8634,
+  "longitude": 84.1242,
+  "landmark": "Mailuri Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mailuri, India",
+  "population": 2443572,
+  "mobileUsers": 1871776,
+  "internetUsers": 1497909,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹9.13L per annum",
+  "activeMobileDevices": 2516879,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 61.3,
+  "maleCount": 1260883,
+  "femaleCount": 1182689,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Trimulgherry",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "trimulgherry",
+      "distance": 21.32858704860912
+    },
+    {
+      "city": "Malda",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "malda",
+      "distance": 40.79451533617213
+    },
+    {
+      "city": "Bhanjanagar",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhanjanagar",
+      "distance": 48.61898196704907
+    },
+    {
+      "city": "Perumbavoor",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "perumbavoor",
+      "distance": 58.979079190140226
+    },
+    {
+      "city": "Atur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "atur",
+      "distance": 70.06405973759485
+    }
+  ],
+  "geohash": "tv7zd69",
+  "geohashUrl": "https://geohash.softeng.co/tv7zd69"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-barega-pada",
+  "city": "Barega pada",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "barega-pada",
+  "country": "India",
+  "pincode": "794103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.4121,
+  "longitude": 88.331,
+  "landmark": "Barega pada Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Barega pada, India",
+  "population": 8437830,
+  "mobileUsers": 6227118,
+  "internetUsers": 4733622,
+  "genderRatioText": "914 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.17L per annum",
+  "activeMobileDevices": 8522208,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 56.1,
+  "maleCount": 4404547,
+  "femaleCount": 4033283,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rourkela",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rourkela",
+      "distance": 67.40871715679015
+    },
+    {
+      "city": "Resubelpada",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "resubelpada",
+      "distance": 67.56764796448736
+    },
+    {
+      "city": "Nagaon (Nowgong)",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nagaon-nowgong",
+      "distance": 83.53247126926566
+    },
+    {
+      "city": "Nabadwip",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "nabadwip",
+      "distance": 83.64783844245719
+    },
+    {
+      "city": "Bokaro Steel City",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bokaro-steel-city",
+      "distance": 120.84551578177438
+    }
+  ],
+  "geohash": "tvwfdn2",
+  "geohashUrl": "https://geohash.softeng.co/tvwfdn2"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-gondia",
+  "city": "Gondia",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "gondia",
+  "country": "India",
+  "pincode": "441601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.9394,
+  "longitude": 86.0842,
+  "landmark": "Gondia Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gondia, India",
+  "population": 617562,
+  "mobileUsers": 478610,
+  "internetUsers": 368066,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹10.17L per annum",
+  "activeMobileDevices": 685493,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 59.6,
+  "maleCount": 318044,
+  "femaleCount": 299518,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mavli Jn.",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "mavli-jn",
+      "distance": 63.49354278978693
+    },
+    {
+      "city": "Santacruz",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "santacruz",
+      "distance": 69.19136798724728
+    },
+    {
+      "city": "Kallakurichi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kallakurichi",
+      "distance": 72.07727353324103
+    },
+    {
+      "city": "Ingkiyong",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "ingkiyong",
+      "distance": 85.11098461738943
+    },
+    {
+      "city": "Marwar Jn.",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "marwar-jn",
+      "distance": 94.89596868265029
+    }
+  ],
+  "geohash": "tuvnyyh",
+  "geohashUrl": "https://geohash.softeng.co/tuvnyyh"
+}

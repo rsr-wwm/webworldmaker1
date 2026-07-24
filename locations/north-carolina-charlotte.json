@@ -1,0 +1,81 @@
+{
+  "id": "north-carolina-charlotte",
+  "city": "Charlotte",
+  "state": "North Carolina",
+  "stateSlug": "north-carolina",
+  "citySlug": "charlotte",
+  "country": "United States",
+  "pincode": "28201",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/New_York",
+  "latitude": 41.6027,
+  "longitude": -84.4465,
+  "landmark": "Charlotte State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Charlotte, United States",
+  "population": 637650,
+  "mobileUsers": 610868,
+  "internetUsers": 574522,
+  "genderRatioText": "983 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "$69,631 per annum",
+  "activeMobileDevices": 771556,
+  "mobilePenetration": 95.8,
+  "internetPenetration": 90.1,
+  "maleCount": 321376,
+  "femaleCount": 316274,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Memphis",
+      "state": "Tennessee",
+      "stateSlug": "tennessee",
+      "citySlug": "memphis",
+      "distance": 57.998133358375604
+    },
+    {
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor",
+      "distance": 143.2451139851566
+    },
+    {
+      "city": "Columbus",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "citySlug": "columbus",
+      "distance": 169.49433778707615
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque",
+      "distance": 205.2997822881681
+    },
+    {
+      "city": "New York City",
+      "state": "New York",
+      "stateSlug": "new-york",
+      "citySlug": "new-york-city",
+      "distance": 302.7260121149751
+    }
+  ],
+  "geohash": "dp7uwme",
+  "geohashUrl": "https://geohash.softeng.co/dp7uwme"
+}

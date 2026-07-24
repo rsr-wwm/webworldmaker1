@@ -1,0 +1,82 @@
+{
+  "id": "tripura-vimangad",
+  "city": "Vimangad",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "vimangad",
+  "country": "India",
+  "pincode": "799015",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.3081,
+  "longitude": 86.1976,
+  "landmark": "Vimangad Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vimangad, India",
+  "population": 4472857,
+  "mobileUsers": 3426208,
+  "internetUsers": 2773171,
+  "genderRatioText": "907 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹9.27L per annum",
+  "activeMobileDevices": 5099056,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 62,
+  "maleCount": 2343777,
+  "femaleCount": 2129080,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Karong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "karong",
+      "distance": 43.55862902753577
+    },
+    {
+      "city": "Gular thal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "gular-thal",
+      "distance": 49.25592261172319
+    },
+    {
+      "city": "Gopeshwar",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gopeshwar",
+      "distance": 52.55956598223066
+    },
+    {
+      "city": "Malvan",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "malvan",
+      "distance": 55.44370933323733
+    },
+    {
+      "city": "Dobasipada",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "dobasipada",
+      "distance": 61.86589477347982
+    }
+  ],
+  "geohash": "tgv31rp",
+  "geohashUrl": "https://geohash.softeng.co/tgv31rp"
+}

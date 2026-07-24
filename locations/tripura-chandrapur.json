@@ -1,0 +1,82 @@
+{
+  "id": "tripura-chandrapur",
+  "city": "Chandrapur",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "chandrapur",
+  "country": "India",
+  "pincode": "799251",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.427,
+  "longitude": 68.7758,
+  "landmark": "Chandrapur Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chandrapur, India",
+  "population": 4483968,
+  "mobileUsers": 3434719,
+  "internetUsers": 2663476,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹6.62L per annum",
+  "activeMobileDevices": 5246242,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 59.4,
+  "maleCount": 2345115,
+  "femaleCount": 2138853,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mumbai central",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai-central",
+      "distance": 63.11715422247129
+    },
+    {
+      "city": "Kollegal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kollegal",
+      "distance": 109.67413946908479
+    },
+    {
+      "city": "Chandnichowk",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "chandnichowk",
+      "distance": 119.98194856469664
+    },
+    {
+      "city": "Visnagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "visnagar",
+      "distance": 132.38852638692364
+    },
+    {
+      "city": "Hamirpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "hamirpur",
+      "distance": 133.50249137233254
+    }
+  ],
+  "geohash": "tt8fv11",
+  "geohashUrl": "https://geohash.softeng.co/tt8fv11"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-gorakhpur",
+  "city": "Gorakhpur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "gorakhpur",
+  "country": "India",
+  "pincode": "273001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.0314,
+  "longitude": 84.4854,
+  "landmark": "Gorakhpur State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gorakhpur, India",
+  "population": 9687512,
+  "mobileUsers": 7401259,
+  "internetUsers": 5899694,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹8.55L per annum",
+  "activeMobileDevices": 10850013,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 60.9,
+  "maleCount": 5018131,
+  "femaleCount": 4669381,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Park Town",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "park-town",
+      "distance": 26.52946688290214
+    },
+    {
+      "city": "Sundargargh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "sundargargh",
+      "distance": 42.856105637571495
+    },
+    {
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mathura",
+      "distance": 44.909804649879426
+    },
+    {
+      "city": "Manipal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "manipal",
+      "distance": 50.99689862181757
+    },
+    {
+      "city": "Gulbarga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "gulbarga",
+      "distance": 53.59652738808182
+    }
+  ],
+  "geohash": "tush4db",
+  "geohashUrl": "https://geohash.softeng.co/tush4db"
+}

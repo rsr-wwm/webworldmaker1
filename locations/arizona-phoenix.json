@@ -1,0 +1,81 @@
+{
+  "id": "arizona-phoenix",
+  "city": "Phoenix",
+  "state": "Arizona",
+  "stateSlug": "arizona",
+  "citySlug": "phoenix",
+  "country": "United States",
+  "pincode": "85001",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 602",
+  "timezone": "America/Denver",
+  "latitude": 44.9636,
+  "longitude": -78.221,
+  "landmark": "Phoenix Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Phoenix, United States",
+  "population": 2099313,
+  "mobileUsers": 1931367,
+  "internetUsers": 1910374,
+  "genderRatioText": "991 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "$85,375 per annum",
+  "activeMobileDevices": 2834072,
+  "mobilePenetration": 92,
+  "internetPenetration": 91,
+  "maleCount": 1053855,
+  "femaleCount": 1045458,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Kingston",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "kingston",
+      "distance": 159.6070114549973
+    },
+    {
+      "city": "Toronto",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "toronto",
+      "distance": 172.57833025232293
+    },
+    {
+      "city": "Ottawa",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "ottawa",
+      "distance": 204.73107753223192
+    },
+    {
+      "city": "Hamilton",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "hamilton",
+      "distance": 231.11961501819616
+    },
+    {
+      "city": "Austin",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "austin",
+      "distance": 242.8495054257553
+    }
+  ],
+  "geohash": "drbru13",
+  "geohashUrl": "https://geohash.softeng.co/drbru13"
+}

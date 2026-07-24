@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-darjeeling",
+  "city": "Darjeeling",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "darjeeling",
+  "country": "India",
+  "pincode": "734101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.9126,
+  "longitude": 69.194,
+  "landmark": "Darjeeling Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Darjeeling, India",
+  "population": 2031333,
+  "mobileUsers": 1521468,
+  "internetUsers": 1218799,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹7.05L per annum",
+  "activeMobileDevices": 2295406,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 60,
+  "maleCount": 1050199,
+  "femaleCount": 981134,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Karimganj",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "karimganj",
+      "distance": 59.92482506757972
+    },
+    {
+      "city": "Labaan",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labaan",
+      "distance": 69.50707560841565
+    },
+    {
+      "city": "Gudur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gudur",
+      "distance": 80.02232727964292
+    },
+    {
+      "city": "Palanpur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "palanpur",
+      "distance": 89.95177174043215
+    },
+    {
+      "city": "A.I.O. Donna Paula",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "aio-donna-paula",
+      "distance": 115.25042970808707
+    }
+  ],
+  "geohash": "te91q8c",
+  "geohashUrl": "https://geohash.softeng.co/te91q8c"
+}

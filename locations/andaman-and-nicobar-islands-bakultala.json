@@ -1,0 +1,82 @@
+{
+  "id": "andaman-and-nicobar-islands-bakultala",
+  "city": "Bakultala",
+  "state": "Andaman & Nicobar Islands",
+  "stateSlug": "andaman-and-nicobar-islands",
+  "citySlug": "bakultala",
+  "country": "India",
+  "pincode": "744208",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.4424,
+  "longitude": 83.8274,
+  "landmark": "Bakultala GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bakultala, India",
+  "population": 603071,
+  "mobileUsers": 436020,
+  "internetUsers": 369682,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.67L per annum",
+  "activeMobileDevices": 657347,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 61.3,
+  "maleCount": 312391,
+  "femaleCount": 290680,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Manughat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "manughat",
+      "distance": 41.69817151317123
+    },
+    {
+      "city": "Tinsukia",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tinsukia",
+      "distance": 64.20618132414229
+    },
+    {
+      "city": "Ramachandrapuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "ramachandrapuram",
+      "distance": 66.83484866034662
+    },
+    {
+      "city": "Ramdurg",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "ramdurg",
+      "distance": 78.35835340562318
+    },
+    {
+      "city": "Kumar ghat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kumar-ghat",
+      "distance": 105.8820441727301
+    }
+  ],
+  "geohash": "tgg9gx3",
+  "geohashUrl": "https://geohash.softeng.co/tgg9gx3"
+}

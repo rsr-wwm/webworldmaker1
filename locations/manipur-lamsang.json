@@ -1,0 +1,82 @@
+{
+  "id": "manipur-lamsang",
+  "city": "Lamsang",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "lamsang",
+  "country": "India",
+  "pincode": "795140",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.5503,
+  "longitude": 83.9115,
+  "landmark": "Lamsang Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lamsang, India",
+  "population": 588168,
+  "mobileUsers": 424069,
+  "internetUsers": 323492,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹11.02L per annum",
+  "activeMobileDevices": 611694,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 55,
+  "maleCount": 302907,
+  "femaleCount": 285261,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Channapatna",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "channapatna",
+      "distance": 34.62149515290715
+    },
+    {
+      "city": "Harapanhalli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "harapanhalli",
+      "distance": 45.76572450965237
+    },
+    {
+      "city": "Amaravati",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "amaravati",
+      "distance": 69.14412759785205
+    },
+    {
+      "city": "Warangal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "warangal",
+      "distance": 80.89361744920255
+    },
+    {
+      "city": "Malegaon town",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "malegaon-town",
+      "distance": 86.62637471060681
+    }
+  ],
+  "geohash": "tfedv2y",
+  "geohashUrl": "https://geohash.softeng.co/tfedv2y"
+}

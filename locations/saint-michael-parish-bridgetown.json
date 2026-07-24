@@ -1,0 +1,80 @@
+{
+  "id": "saint-michael-parish-bridgetown",
+  "city": "Bridgetown",
+  "state": "Saint Michael Parish",
+  "stateSlug": "saint-michael-parish",
+  "citySlug": "bridgetown",
+  "country": "Barbados",
+  "pincode": "BB11000",
+  "currency": "BBD",
+  "symbol": "Bds$",
+  "compliance": "Telecommunications Unit",
+  "carriers": [
+    "Flow",
+    "Digicel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1",
+  "timezone": "America/Barbados",
+  "latitude": 13.1218,
+  "longitude": -59.5016,
+  "landmark": "Bridgetown Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bridgetown, Barbados",
+  "population": 4545816,
+  "mobileUsers": 3509369,
+  "internetUsers": 3018421,
+  "genderRatioText": "971 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "Bds$25,029 BBD per annum",
+  "activeMobileDevices": 5454979,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 66.4,
+  "maleCount": 2304729,
+  "femaleCount": 2241087,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Castries",
+      "state": "Castries District",
+      "stateSlug": "castries-district",
+      "citySlug": "castries",
+      "distance": 175.1256451374988
+    },
+    {
+      "city": "Kingstown",
+      "state": "Saint George Parish",
+      "stateSlug": "saint-george-parish",
+      "citySlug": "kingstown",
+      "distance": 188.26510748719645
+    },
+    {
+      "city": "Saint George's",
+      "state": "Saint George Parish",
+      "stateSlug": "saint-george-parish",
+      "citySlug": "saint-georges",
+      "distance": 270.81523475508845
+    },
+    {
+      "city": "Plymouth",
+      "state": "Saint Anthony Parish",
+      "stateSlug": "saint-anthony-parish",
+      "citySlug": "plymouth",
+      "distance": 506.06156442153923
+    },
+    {
+      "city": "Saint John's",
+      "state": "Saint John Parish",
+      "stateSlug": "saint-john-parish",
+      "citySlug": "saint-johns",
+      "distance": 519.3469561005113
+    }
+  ],
+  "geohash": "ddmdwhb",
+  "geohashUrl": "https://geohash.softeng.co/ddmdwhb"
+}

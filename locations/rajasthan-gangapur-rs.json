@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-gangapur-rs",
+  "city": "Gangapur R.S",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "gangapur-rs",
+  "country": "India",
+  "pincode": "322201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.6021,
+  "longitude": 75.5435,
+  "landmark": "Gangapur R.S Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gangapur R.S, India",
+  "population": 2830990,
+  "mobileUsers": 2094932,
+  "internetUsers": 1627819,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹10.81L per annum",
+  "activeMobileDevices": 3227328,
+  "mobilePenetration": 74,
+  "internetPenetration": 57.5,
+  "maleCount": 1457960,
+  "femaleCount": 1373030,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Villupuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "villupuram",
+      "distance": 55.46015516119443
+    },
+    {
+      "city": "Cherrapunji",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "cherrapunji",
+      "distance": 61.9279372470848
+    },
+    {
+      "city": "Miraj",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "miraj",
+      "distance": 78.73064771652211
+    },
+    {
+      "city": "Dabhoi",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dabhoi",
+      "distance": 93.76232485034751
+    },
+    {
+      "city": "Udupi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "udupi",
+      "distance": 104.1559836247302
+    }
+  ],
+  "geohash": "tem9z43",
+  "geohashUrl": "https://geohash.softeng.co/tem9z43"
+}

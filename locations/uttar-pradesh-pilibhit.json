@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-pilibhit",
+  "city": "Pilibhit",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "pilibhit",
+  "country": "India",
+  "pincode": "262001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.1436,
+  "longitude": 84.6728,
+  "landmark": "Pilibhit GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pilibhit, India",
+  "population": 7467904,
+  "mobileUsers": 5571056,
+  "internetUsers": 4055071,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹6.45L per annum",
+  "activeMobileDevices": 7766620,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 54.3,
+  "maleCount": 3905714,
+  "femaleCount": 3562190,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Amaravati",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "amaravati",
+      "distance": 35.387907644306296
+    },
+    {
+      "city": "Malegaon town",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "malegaon-town",
+      "distance": 37.141609800091686
+    },
+    {
+      "city": "Harapanhalli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "harapanhalli",
+      "distance": 47.88989240411542
+    },
+    {
+      "city": "Warangal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "warangal",
+      "distance": 82.96693189074163
+    },
+    {
+      "city": "Ramanathapuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ramanathapuram",
+      "distance": 91.67717636797914
+    }
+  ],
+  "geohash": "tfs0qyb",
+  "geohashUrl": "https://geohash.softeng.co/tfs0qyb"
+}

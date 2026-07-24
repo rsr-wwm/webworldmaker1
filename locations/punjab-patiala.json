@@ -1,0 +1,82 @@
+{
+  "id": "punjab-patiala",
+  "city": "Patiala",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "patiala",
+  "country": "India",
+  "pincode": "147001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.5288,
+  "longitude": 80.9909,
+  "landmark": "Patiala Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Patiala, India",
+  "population": 4155347,
+  "mobileUsers": 3016781,
+  "internetUsers": 2426722,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹9.98L per annum",
+  "activeMobileDevices": 4695542,
+  "mobilePenetration": 72.6,
+  "internetPenetration": 58.4,
+  "maleCount": 2119227,
+  "femaleCount": 2036120,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mahbubabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mahbubabad",
+      "distance": 21.430524173618267
+    },
+    {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "chennai",
+      "distance": 67.0654243721289
+    },
+    {
+      "city": "Mall",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "mall",
+      "distance": 71.59859758388615
+    },
+    {
+      "city": "Panagi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "panagi",
+      "distance": 91.11685036622909
+    },
+    {
+      "city": "Rongra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "rongra",
+      "distance": 107.48042912485451
+    }
+  ],
+  "geohash": "tg396vp",
+  "geohashUrl": "https://geohash.softeng.co/tg396vp"
+}

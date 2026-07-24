@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-bhandara",
+  "city": "Bhandara",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "bhandara",
+  "country": "India",
+  "pincode": "441904",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.2675,
+  "longitude": 71.9237,
+  "landmark": "Bhandara Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhandara, India",
+  "population": 2433563,
+  "mobileUsers": 1895745,
+  "internetUsers": 1348193,
+  "genderRatioText": "909 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹6.40L per annum",
+  "activeMobileDevices": 2701254,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 55.4,
+  "maleCount": 1275187,
+  "femaleCount": 1158376,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mohanpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mohanpur",
+      "distance": 41.594602399989384
+    },
+    {
+      "city": "Rayagada",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rayagada",
+      "distance": 71.60146051570051
+    },
+    {
+      "city": "Loktak Project",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "loktak-project",
+      "distance": 86.40120591632358
+    },
+    {
+      "city": "Kalol",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "kalol",
+      "distance": 90.53980609509327
+    },
+    {
+      "city": "Kalpeni",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kalpeni",
+      "distance": 101.7889489932064
+    }
+  ],
+  "geohash": "tsejktv",
+  "geohashUrl": "https://geohash.softeng.co/tsejktv"
+}

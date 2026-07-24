@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-nandyal",
+  "city": "Nandyal",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "nandyal",
+  "country": "India",
+  "pincode": "518501",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.4838,
+  "longitude": 77.6017,
+  "landmark": "Nandyal Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nandyal, India",
+  "population": 2502190,
+  "mobileUsers": 1809083,
+  "internetUsers": 1531340,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹9.37L per annum",
+  "activeMobileDevices": 2827474,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 61.2,
+  "maleCount": 1311148,
+  "femaleCount": 1191042,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tonk",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "tonk",
+      "distance": 34.33042264418284
+    },
+    {
+      "city": "Nanded",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nanded",
+      "distance": 37.62212270907432
+    },
+    {
+      "city": "Anand",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "anand",
+      "distance": 41.59032200318999
+    },
+    {
+      "city": "Damoh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "damoh",
+      "distance": 41.812051618848756
+    },
+    {
+      "city": "Peren",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "peren",
+      "distance": 51.027702955334114
+    }
+  ],
+  "geohash": "tsx0vz5",
+  "geohashUrl": "https://geohash.softeng.co/tsx0vz5"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-nagercoil",
+  "city": "Nagercoil",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "nagercoil",
+  "country": "India",
+  "pincode": "629001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.679,
+  "longitude": 86.2206,
+  "landmark": "Nagercoil Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nagercoil, India",
+  "population": 7288028,
+  "mobileUsers": 5560765,
+  "internetUsers": 4482137,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹6.44L per annum",
+  "activeMobileDevices": 7433788,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 61.5,
+  "maleCount": 3746046,
+  "femaleCount": 3541982,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Buldhana",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "buldhana",
+      "distance": 51.32643885054732
+    },
+    {
+      "city": "Yeshwant Road (Indore)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "yeshwant-road-indore",
+      "distance": 74.83328692288907
+    },
+    {
+      "city": "Baghmara",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "baghmara",
+      "distance": 85.65976137411536
+    },
+    {
+      "city": "Satara",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "satara",
+      "distance": 85.82401641972137
+    },
+    {
+      "city": "Bada bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bada-bazar",
+      "distance": 106.09512231103943
+    }
+  ],
+  "geohash": "tfj63yp",
+  "geohashUrl": "https://geohash.softeng.co/tfj63yp"
+}

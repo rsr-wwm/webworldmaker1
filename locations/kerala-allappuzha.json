@@ -1,0 +1,82 @@
+{
+  "id": "kerala-allappuzha",
+  "city": "Allappuzha",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "allappuzha",
+  "country": "India",
+  "pincode": "688001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.0784,
+  "longitude": 85.5096,
+  "landmark": "Allappuzha Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Allappuzha, India",
+  "population": 9167119,
+  "mobileUsers": 6618659,
+  "internetUsers": 5463602,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹7.11L per annum",
+  "activeMobileDevices": 10542186,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 59.6,
+  "maleCount": 4684398,
+  "femaleCount": 4482721,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Arundatinagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "arundatinagar",
+      "distance": 33.191928278267305
+    },
+    {
+      "city": "Samalkot",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "samalkot",
+      "distance": 45.5347882526703
+    },
+    {
+      "city": "Chirawa",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "chirawa",
+      "distance": 57.57603717648761
+    },
+    {
+      "city": "Churachandpur",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "churachandpur",
+      "distance": 69.18650162259354
+    },
+    {
+      "city": "Nuzuid",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nuzuid",
+      "distance": 70.61829179173871
+    }
+  ],
+  "geohash": "tfkf3uf",
+  "geohashUrl": "https://geohash.softeng.co/tfkf3uf"
+}

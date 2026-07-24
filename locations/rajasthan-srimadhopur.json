@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-srimadhopur",
+  "city": "Srimadhopur",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "srimadhopur",
+  "country": "India",
+  "pincode": "332715",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.3309,
+  "longitude": 81.3731,
+  "landmark": "Srimadhopur State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Srimadhopur, India",
+  "population": 6943153,
+  "mobileUsers": 5255966,
+  "internetUsers": 4165891,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹11.04L per annum",
+  "activeMobileDevices": 7220879,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 60,
+  "maleCount": 3624326,
+  "femaleCount": 3318827,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Etah",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "etah",
+      "distance": 71.24346457541613
+    },
+    {
+      "city": "Akola",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "akola",
+      "distance": 75.35505516545011
+    },
+    {
+      "city": "Chikodi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chikodi",
+      "distance": 76.59486215002686
+    },
+    {
+      "city": "Vidisha",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "vidisha",
+      "distance": 101.47165800518675
+    },
+    {
+      "city": "Khowai",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "khowai",
+      "distance": 105.52029138878208
+    }
+  ],
+  "geohash": "tu9b5eq",
+  "geohashUrl": "https://geohash.softeng.co/tu9b5eq"
+}

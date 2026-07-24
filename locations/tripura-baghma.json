@@ -1,0 +1,82 @@
+{
+  "id": "tripura-baghma",
+  "city": "Baghma",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "baghma",
+  "country": "India",
+  "pincode": "799119",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.0827,
+  "longitude": 72.2494,
+  "landmark": "Baghma GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Baghma, India",
+  "population": 3520637,
+  "mobileUsers": 2598230,
+  "internetUsers": 2087737,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹9.60L per annum",
+  "activeMobileDevices": 4119145,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 59.3,
+  "maleCount": 1820169,
+  "femaleCount": 1700468,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dhampur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dhampur",
+      "distance": 47.489978932805265
+    },
+    {
+      "city": "Khammam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "khammam",
+      "distance": 73.73946510905589
+    },
+    {
+      "city": "Mandi",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "mandi",
+      "distance": 74.22352784351418
+    },
+    {
+      "city": "Kuvep",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kuvep",
+      "distance": 86.68084325661682
+    },
+    {
+      "city": "Malappuram",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "malappuram",
+      "distance": 88.97744976588774
+    }
+  ],
+  "geohash": "tte2u46",
+  "geohashUrl": "https://geohash.softeng.co/tte2u46"
+}

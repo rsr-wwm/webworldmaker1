@@ -1,0 +1,81 @@
+{
+  "id": "chihuahua-juarez",
+  "city": "Juarez",
+  "state": "Chihuahua",
+  "stateSlug": "chihuahua",
+  "citySlug": "juarez",
+  "country": "Mexico",
+  "pincode": "32000",
+  "currency": "MXN",
+  "symbol": "$",
+  "compliance": "IFT Rules",
+  "carriers": [
+    "Telcel",
+    "Movistar",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+52",
+  "timezone": "America/Bahia_Banderas",
+  "latitude": 22.8526,
+  "longitude": -101.8811,
+  "landmark": "Juarez Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Juarez, Mexico",
+  "population": 3045530,
+  "mobileUsers": 2713567,
+  "internetUsers": 2363331,
+  "genderRatioText": "994 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "$29,951 MXN per annum",
+  "activeMobileDevices": 3624180,
+  "mobilePenetration": 89.1,
+  "internetPenetration": 77.6,
+  "maleCount": 1528856,
+  "femaleCount": 1516674,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Tijuana",
+      "state": "Baja California",
+      "stateSlug": "baja-california",
+      "citySlug": "tijuana",
+      "distance": 4.19752170890013
+    },
+    {
+      "city": "Monterrey",
+      "state": "Nuevo Leon",
+      "stateSlug": "nuevo-leon",
+      "citySlug": "monterrey",
+      "distance": 10.351102231132797
+    },
+    {
+      "city": "Leon",
+      "state": "Guanajuato",
+      "stateSlug": "guanajuato",
+      "citySlug": "leon",
+      "distance": 11.514688985320399
+    },
+    {
+      "city": "Torreon",
+      "state": "Coahuila",
+      "stateSlug": "coahuila",
+      "citySlug": "torreon",
+      "distance": 19.673884936243702
+    },
+    {
+      "city": "Puebla",
+      "state": "Puebla State",
+      "stateSlug": "puebla-state",
+      "citySlug": "puebla",
+      "distance": 19.732377794890102
+    }
+  ],
+  "geohash": "9spd18h",
+  "geohashUrl": "https://geohash.softeng.co/9spd18h"
+}

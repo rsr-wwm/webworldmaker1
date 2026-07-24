@@ -1,0 +1,81 @@
+{
+  "id": "region-of-republican-subordination-dushanbe",
+  "city": "Dushanbe",
+  "state": "Region of Republican Subordination",
+  "stateSlug": "region-of-republican-subordination",
+  "citySlug": "dushanbe",
+  "country": "Tajikistan",
+  "pincode": "734000",
+  "currency": "TJS",
+  "symbol": "ЅM",
+  "compliance": "Communications Service",
+  "carriers": [
+    "Babilon-M",
+    "Tcell",
+    "Megafon"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+992",
+  "timezone": "Asia/Dushanbe",
+  "latitude": 38.8929,
+  "longitude": 70.9124,
+  "landmark": "Dushanbe Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Babilon-M networks. Failovers route over Tcell, Megafon with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Dushanbe, Tajikistan",
+  "population": 1028503,
+  "mobileUsers": 797089,
+  "internetUsers": 698353,
+  "genderRatioText": "965 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "ЅM23,446 TJS per annum",
+  "activeMobileDevices": 1326768,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 67.9,
+  "maleCount": 523508,
+  "femaleCount": 504995,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bishkek",
+      "state": "Chuy Region",
+      "stateSlug": "chuy-region",
+      "citySlug": "bishkek",
+      "distance": 435.8088062104142
+    },
+    {
+      "city": "Tashkent",
+      "state": "Tashkent City",
+      "stateSlug": "tashkent-city",
+      "citySlug": "tashkent",
+      "distance": 627.5680890230857
+    },
+    {
+      "city": "Samarkand",
+      "state": "Samarkand Region",
+      "stateSlug": "samarkand-region",
+      "citySlug": "samarkand",
+      "distance": 630.9833587921745
+    },
+    {
+      "city": "Tiptur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tiptur",
+      "distance": 708.0018682858482
+    },
+    {
+      "city": "Pune City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "pune-city",
+      "distance": 721.9972053344566
+    }
+  ],
+  "geohash": "twfmm8h",
+  "geohashUrl": "https://geohash.softeng.co/twfmm8h"
+}

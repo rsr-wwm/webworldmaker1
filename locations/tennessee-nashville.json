@@ -1,0 +1,81 @@
+{
+  "id": "tennessee-nashville",
+  "city": "Nashville",
+  "state": "Tennessee",
+  "stateSlug": "tennessee",
+  "citySlug": "nashville",
+  "country": "United States",
+  "pincode": "37201",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/Chicago",
+  "latitude": 41.9849,
+  "longitude": -110.9711,
+  "landmark": "Nashville State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Nashville, United States",
+  "population": 4619025,
+  "mobileUsers": 4489692,
+  "internetUsers": 4401930,
+  "genderRatioText": "1,002 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "$90,796 per annum",
+  "activeMobileDevices": 5958542,
+  "mobilePenetration": 97.2,
+  "internetPenetration": 95.3,
+  "maleCount": 2309513,
+  "femaleCount": 2309513,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Dallas",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "dallas",
+      "distance": 214.89629264555396
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "stateSlug": "pennsylvania",
+      "citySlug": "pittsburgh",
+      "distance": 263.31946563002424
+    },
+    {
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "citySlug": "cincinnati",
+      "distance": 340.1986322193368
+    },
+    {
+      "city": "San Antonio",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "san-antonio",
+      "distance": 360.2731583282035
+    },
+    {
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson",
+      "distance": 405.65231242556945
+    }
+  ],
+  "geohash": "9x3nfg1",
+  "geohashUrl": "https://geohash.softeng.co/9x3nfg1"
+}

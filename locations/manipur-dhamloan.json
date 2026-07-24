@@ -1,0 +1,82 @@
+{
+  "id": "manipur-dhamloan",
+  "city": "Dhamloan",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "dhamloan",
+  "country": "India",
+  "pincode": "795143",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.3738,
+  "longitude": 78.532,
+  "landmark": "Dhamloan Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dhamloan, India",
+  "population": 6862455,
+  "mobileUsers": 5146841,
+  "internetUsers": 3918461,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹9.51L per annum",
+  "activeMobileDevices": 8097696,
+  "mobilePenetration": 75,
+  "internetPenetration": 57.1,
+  "maleCount": 3492990,
+  "femaleCount": 3369465,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ujjain",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "ujjain",
+      "distance": 29.44071018418307
+    },
+    {
+      "city": "Ghazipur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ghazipur",
+      "distance": 31.90267701959447
+    },
+    {
+      "city": "Kattappana",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kattappana",
+      "distance": 50.0620541475085
+    },
+    {
+      "city": "Williamnagar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "williamnagar",
+      "distance": 69.333759723552
+    },
+    {
+      "city": "Diamond Harbour",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "diamond-harbour",
+      "distance": 73.029358766695
+    }
+  ],
+  "geohash": "tsxb751",
+  "geohashUrl": "https://geohash.softeng.co/tsxb751"
+}

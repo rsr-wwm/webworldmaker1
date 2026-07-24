@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-rongjing",
+  "city": "Rongjing",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "rongjing",
+  "country": "India",
+  "pincode": "794110",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.0926,
+  "longitude": 81.6536,
+  "landmark": "Rongjing Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rongjing, India",
+  "population": 5542971,
+  "mobileUsers": 4312431,
+  "internetUsers": 3420013,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹11.28L per annum",
+  "activeMobileDevices": 5764689,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 61.7,
+  "maleCount": 2898974,
+  "femaleCount": 2643997,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Unnao",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "unnao",
+      "distance": 11.535846490901072
+    },
+    {
+      "city": "Imphal G.P.O",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "imphal-gpo",
+      "distance": 107.34746763563938
+    },
+    {
+      "city": "Kuli bazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kuli-bazar",
+      "distance": 110.99919255630613
+    },
+    {
+      "city": "Demgiri",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "demgiri",
+      "distance": 122.67711320686186
+    },
+    {
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "mangalore",
+      "distance": 136.87249848675563
+    }
+  ],
+  "geohash": "tff5d1d",
+  "geohashUrl": "https://geohash.softeng.co/tff5d1d"
+}

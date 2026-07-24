@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-athni",
+  "city": "Athni",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "athni",
+  "country": "India",
+  "pincode": "591304",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.6955,
+  "longitude": 79.7564,
+  "landmark": "Athni Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Athni, India",
+  "population": 7274405,
+  "mobileUsers": 5346687,
+  "internetUsers": 4262801,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹11.28L per annum",
+  "activeMobileDevices": 8365565,
+  "mobilePenetration": 73.5,
+  "internetPenetration": 58.6,
+  "maleCount": 3702672,
+  "femaleCount": 3571733,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chembur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chembur",
+      "distance": 16.266314426210297
+    },
+    {
+      "city": "Williamnagar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "williamnagar",
+      "distance": 61.23910884383527
+    },
+    {
+      "city": "Vidisha",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "vidisha",
+      "distance": 66.3750113499252
+    },
+    {
+      "city": "Impur",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "impur",
+      "distance": 77.42240873263755
+    },
+    {
+      "city": "Bhopal G.P.O",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal-gpo",
+      "distance": 90.5919516021066
+    }
+  ],
+  "geohash": "tu8dnvs",
+  "geohashUrl": "https://geohash.softeng.co/tu8dnvs"
+}

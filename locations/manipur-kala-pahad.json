@@ -1,0 +1,82 @@
+{
+  "id": "manipur-kala-pahad",
+  "city": "Kala pahad",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "kala-pahad",
+  "country": "India",
+  "pincode": "795122",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.6483,
+  "longitude": 78.143,
+  "landmark": "Kala pahad Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kala pahad, India",
+  "population": 4477833,
+  "mobileUsers": 3479276,
+  "internetUsers": 2749389,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹11.50L per annum",
+  "activeMobileDevices": 5149507,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 61.4,
+  "maleCount": 2346384,
+  "femaleCount": 2131449,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Moga",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "moga",
+      "distance": 88.03669355123503
+    },
+    {
+      "city": "Parlakhemudi",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "parlakhemudi",
+      "distance": 98.66818447341868
+    },
+    {
+      "city": "Saitul",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saitul",
+      "distance": 104.33732295686592
+    },
+    {
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "khandwa",
+      "distance": 108.7411163487766
+    },
+    {
+      "city": "Chinchbunder",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chinchbunder",
+      "distance": 124.9339724472735
+    }
+  ],
+  "geohash": "teps6hv",
+  "geohashUrl": "https://geohash.softeng.co/teps6hv"
+}

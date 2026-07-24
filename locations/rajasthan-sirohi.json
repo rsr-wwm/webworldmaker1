@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-sirohi",
+  "city": "Sirohi",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "sirohi",
+  "country": "India",
+  "pincode": "307001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.9108,
+  "longitude": 84.0359,
+  "landmark": "Sirohi Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sirohi, India",
+  "population": 5258092,
+  "mobileUsers": 3990891,
+  "internetUsers": 3112790,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.03L per annum",
+  "activeMobileDevices": 5258092,
+  "mobilePenetration": 75.9,
+  "internetPenetration": 59.2,
+  "maleCount": 2718434,
+  "femaleCount": 2539658,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kurukshetra",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "kurukshetra",
+      "distance": 20.399304706026594
+    },
+    {
+      "city": "Shajapur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shajapur",
+      "distance": 75.4881308971724
+    },
+    {
+      "city": "Kumar ghat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kumar-ghat",
+      "distance": 80.49824886816188
+    },
+    {
+      "city": "Allahabad Kacheri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "allahabad-kacheri",
+      "distance": 86.33218176926559
+    },
+    {
+      "city": "Ramdurg",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "ramdurg",
+      "distance": 93.46720935136402
+    }
+  ],
+  "geohash": "tgec229",
+  "geohashUrl": "https://geohash.softeng.co/tgec229"
+}

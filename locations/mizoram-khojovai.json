@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-khojovai",
+  "city": "Khojovai",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "khojovai",
+  "country": "India",
+  "pincode": "796310",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.8234,
+  "longitude": 79.963,
+  "landmark": "Khojovai Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Khojovai, India",
+  "population": 698878,
+  "mobileUsers": 521362,
+  "internetUsers": 402553,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.67L per annum",
+  "activeMobileDevices": 817687,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 57.6,
+  "maleCount": 356428,
+  "femaleCount": 342450,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chandragiri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chandragiri",
+      "distance": 12.455747247510857
+    },
+    {
+      "city": "Cossipore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "cossipore",
+      "distance": 41.842349207083615
+    },
+    {
+      "city": "New Grain Mandi (Kota)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "new-grain-mandi-kota",
+      "distance": 49.19885176326265
+    },
+    {
+      "city": "Serampore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "serampore",
+      "distance": 64.9072639074143
+    },
+    {
+      "city": "Sugumu",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "sugumu",
+      "distance": 65.05209081667464
+    }
+  ],
+  "geohash": "tg0v7se",
+  "geohashUrl": "https://geohash.softeng.co/tg0v7se"
+}

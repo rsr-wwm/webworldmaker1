@@ -1,0 +1,82 @@
+{
+  "id": "kerala-vaikom",
+  "city": "Vaikom",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "vaikom",
+  "country": "India",
+  "pincode": "686141",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.9167,
+  "longitude": 78.7108,
+  "landmark": "Vaikom Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vaikom, India",
+  "population": 9762273,
+  "mobileUsers": 7458376,
+  "internetUsers": 5662118,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹6.03L per annum",
+  "activeMobileDevices": 11031368,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 58,
+  "maleCount": 5017808,
+  "femaleCount": 4744465,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Amini",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "amini",
+      "distance": 80.70180743267574
+    },
+    {
+      "city": "Mahabubnagar",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mahabubnagar",
+      "distance": 94.59685877521635
+    },
+    {
+      "city": "Kullu",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "kullu",
+      "distance": 113.47149347956605
+    },
+    {
+      "city": "Garobandha",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "garobandha",
+      "distance": 120.97018545097671
+    },
+    {
+      "city": "Pupterow",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "pupterow",
+      "distance": 130.33245358865315
+    }
+  ],
+  "geohash": "tdrcrp7",
+  "geohashUrl": "https://geohash.softeng.co/tdrcrp7"
+}

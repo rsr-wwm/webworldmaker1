@@ -1,0 +1,81 @@
+{
+  "id": "saitama-prefecture-saitama",
+  "city": "Saitama",
+  "state": "Saitama Prefecture",
+  "stateSlug": "saitama-prefecture",
+  "citySlug": "saitama",
+  "country": "Japan",
+  "pincode": "330-0853",
+  "currency": "JPY",
+  "symbol": "¥",
+  "compliance": "MIC Telecommunications Act",
+  "carriers": [
+    "NTT Docomo",
+    "KDDI",
+    "SoftBank"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+81 3",
+  "timezone": "Asia/Tokyo",
+  "latitude": 35.8616141,
+  "longitude": 139.6455666,
+  "landmark": "Saitama Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Saitama, Japan",
+  "population": 4759459,
+  "mobileUsers": 4602396,
+  "internetUsers": 4293032,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "¥38,474 JPY per annum",
+  "activeMobileDevices": 6330080,
+  "mobilePenetration": 96.7,
+  "internetPenetration": 90.2,
+  "maleCount": 2441602,
+  "femaleCount": 2317857,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Tokyo",
+      "state": "Tokyo Metropolis",
+      "stateSlug": "tokyo-metropolis",
+      "citySlug": "tokyo",
+      "distance": 23.151976506258134
+    },
+    {
+      "city": "Yokohama",
+      "state": "Kanagawa Prefecture",
+      "stateSlug": "kanagawa-prefecture",
+      "citySlug": "yokohama",
+      "distance": 45.742971357577815
+    },
+    {
+      "city": "Shizuoka",
+      "state": "Shizuoka Prefecture",
+      "stateSlug": "shizuoka-prefecture",
+      "citySlug": "shizuoka",
+      "distance": 150.9982472413665
+    },
+    {
+      "city": "Hamamatsu",
+      "state": "Shizuoka Prefecture",
+      "stateSlug": "shizuoka-prefecture",
+      "citySlug": "hamamatsu",
+      "distance": 216.1586656336869
+    },
+    {
+      "city": "Niigata",
+      "state": "Niigata Prefecture",
+      "stateSlug": "niigata-prefecture",
+      "citySlug": "niigata",
+      "distance": 234.81009862184843
+    }
+  ],
+  "geohash": "xn7k18q",
+  "geohashUrl": "https://geohash.softeng.co/xn7k18q"
+}

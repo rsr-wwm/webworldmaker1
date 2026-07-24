@@ -1,0 +1,80 @@
+{
+  "id": "saint-john-parish-saint-johns",
+  "city": "Saint John's",
+  "state": "Saint John Parish",
+  "stateSlug": "saint-john-parish",
+  "citySlug": "saint-johns",
+  "country": "Antigua and Barbuda",
+  "pincode": "00000",
+  "currency": "XCD",
+  "symbol": "EC$",
+  "compliance": "Telecom Division",
+  "carriers": [
+    "Flow",
+    "Digicel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1",
+  "timezone": "America/Antigua",
+  "latitude": 17.2133,
+  "longitude": -61.8361,
+  "landmark": "Saint John's Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Saint John's, Antigua and Barbuda",
+  "population": 4594774,
+  "mobileUsers": 3625276,
+  "internetUsers": 2812001,
+  "genderRatioText": "997 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "EC$32,534 XCD per annum",
+  "activeMobileDevices": 6386735,
+  "mobilePenetration": 78.9,
+  "internetPenetration": 61.2,
+  "maleCount": 2301982,
+  "femaleCount": 2292792,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Plymouth",
+      "state": "Saint Anthony Parish",
+      "stateSlug": "saint-anthony-parish",
+      "citySlug": "plymouth",
+      "distance": 61.10310485732176
+    },
+    {
+      "city": "Basseterre",
+      "state": "Saint George Basseterre",
+      "stateSlug": "saint-george-basseterre",
+      "citySlug": "basseterre",
+      "distance": 111.3177423399423
+    },
+    {
+      "city": "Gustavia",
+      "state": "Saint Barthelemy",
+      "stateSlug": "saint-barthelemy",
+      "citySlug": "gustavia",
+      "distance": 131.64649173205666
+    },
+    {
+      "city": "Road Town",
+      "state": "Tortola Island",
+      "stateSlug": "tortola-island",
+      "citySlug": "road-town",
+      "distance": 307.0281256071174
+    },
+    {
+      "city": "Charlotte Amalie",
+      "state": "Saint Thomas Island",
+      "stateSlug": "saint-thomas-island",
+      "citySlug": "charlotte-amalie",
+      "distance": 351.14796837901736
+    }
+  ],
+  "geohash": "deh1bvs",
+  "geohashUrl": "https://geohash.softeng.co/deh1bvs"
+}

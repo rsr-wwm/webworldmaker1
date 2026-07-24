@@ -1,0 +1,81 @@
+{
+  "id": "beijing-municipality-beijing",
+  "city": "Beijing",
+  "state": "Beijing Municipality",
+  "stateSlug": "beijing-municipality",
+  "citySlug": "beijing",
+  "country": "China",
+  "pincode": "100000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.1609,
+  "longitude": 104.9445,
+  "landmark": "Beijing Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Beijing, China",
+  "population": 9923092,
+  "mobileUsers": 9218552,
+  "internetUsers": 7134703,
+  "genderRatioText": "1,002 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "¥34,602 CNY per annum",
+  "activeMobileDevices": 10716939,
+  "mobilePenetration": 92.9,
+  "internetPenetration": 71.9,
+  "maleCount": 4961546,
+  "femaleCount": 4961546,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Kunming",
+      "state": "Yunnan Province",
+      "stateSlug": "yunnan-province",
+      "citySlug": "kunming",
+      "distance": 2.547007511344027
+    },
+    {
+      "city": "Dalian",
+      "state": "Liaoning Province",
+      "stateSlug": "liaoning-province",
+      "citySlug": "dalian",
+      "distance": 5.701689797953766
+    },
+    {
+      "city": "Zhengzhou",
+      "state": "Henan Province",
+      "stateSlug": "henan-province",
+      "citySlug": "zhengzhou",
+      "distance": 6.419324761802251
+    },
+    {
+      "city": "Wuxi",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "wuxi",
+      "distance": 6.554885528761234
+    },
+    {
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang",
+      "distance": 7.9841689398370885
+    }
+  ],
+  "geohash": "wq68h0f",
+  "geohashUrl": "https://geohash.softeng.co/wq68h0f"
+}

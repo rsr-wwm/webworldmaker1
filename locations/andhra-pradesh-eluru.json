@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-eluru",
+  "city": "Eluru",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "eluru",
+  "country": "India",
+  "pincode": "534001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.9373,
+  "longitude": 78.8263,
+  "landmark": "Eluru Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Eluru, India",
+  "population": 9877232,
+  "mobileUsers": 7319028,
+  "internetUsers": 5432477,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹7.30L per annum",
+  "activeMobileDevices": 10864955,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 55,
+  "maleCount": 5155915,
+  "femaleCount": 4721317,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Surendra Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "surendra-nagar",
+      "distance": 35.840489013459845
+    },
+    {
+      "city": "Shastrinagar (Jaipur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shastrinagar-jaipur",
+      "distance": 38.34830174285331
+    },
+    {
+      "city": "Sehore",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sehore",
+      "distance": 86.66930933207995
+    },
+    {
+      "city": "Giribam",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "giribam",
+      "distance": 100.398518232094
+    },
+    {
+      "city": "Muvattupuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "muvattupuzha",
+      "distance": 111.17750466843555
+    }
+  ],
+  "geohash": "tg813tr",
+  "geohashUrl": "https://geohash.softeng.co/tg813tr"
+}

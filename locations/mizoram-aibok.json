@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-aibok",
+  "city": "Aibok",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "aibok",
+  "country": "India",
+  "pincode": "796190",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.4929,
+  "longitude": 88.8883,
+  "landmark": "Aibok Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Aibok, India",
+  "population": 8651330,
+  "mobileUsers": 6324122,
+  "internetUsers": 4957212,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹6.04L per annum",
+  "activeMobileDevices": 8737843,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 57.3,
+  "maleCount": 4481389,
+  "femaleCount": 4169941,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khambhalia",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "khambhalia",
+      "distance": 47.45472700761074
+    },
+    {
+      "city": "Avanigadda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "avanigadda",
+      "distance": 86.29042977114246
+    },
+    {
+      "city": "Chalakudi",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chalakudi",
+      "distance": 90.46502662694905
+    },
+    {
+      "city": "Arrah",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "arrah",
+      "distance": 96.70973364502086
+    },
+    {
+      "city": "Bahror",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bahror",
+      "distance": 110.59038522859687
+    }
+  ],
+  "geohash": "tfx4qwq",
+  "geohashUrl": "https://geohash.softeng.co/tfx4qwq"
+}

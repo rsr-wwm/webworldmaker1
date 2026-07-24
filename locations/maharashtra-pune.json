@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-pune",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "pune",
+  "country": "India",
+  "pincode": "411001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 20",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.1699,
+  "longitude": 72.8695,
+  "landmark": "Pune Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pune, India",
+  "population": 6689077,
+  "mobileUsers": 4849580,
+  "internetUsers": 3719126,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.48L per annum",
+  "activeMobileDevices": 7090421,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 55.6,
+  "maleCount": 3505076,
+  "femaleCount": 3184001,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "North Lakhimpur",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "north-lakhimpur",
+      "distance": 23.145257810468678
+    },
+    {
+      "city": "Peddapalli",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "peddapalli",
+      "distance": 80.62962182024872
+    },
+    {
+      "city": "Ranipet",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ranipet",
+      "distance": 94.83795963138708
+    },
+    {
+      "city": "Quilandy",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "quilandy",
+      "distance": 100.39543168536423
+    },
+    {
+      "city": "Aizawal G.P.O",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "aizawal-gpo",
+      "distance": 104.73513658887471
+    }
+  ],
+  "geohash": "tt5b60j",
+  "geohashUrl": "https://geohash.softeng.co/tt5b60j"
+}

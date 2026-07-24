@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-calcutta-gpo",
+  "city": "Calcutta G.P.O",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "calcutta-gpo",
+  "country": "India",
+  "pincode": "700001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "post_office",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.5919,
+  "longitude": 84.5159,
+  "landmark": "Calcutta Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Calcutta G.P.O, India",
+  "population": 9269,
+  "mobileUsers": 6784,
+  "internetUsers": 5135,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹2.82L per annum",
+  "activeMobileDevices": 11122,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 55.4,
+  "maleCount": 4727,
+  "femaleCount": 4542,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mainpuri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mainpuri",
+      "distance": 30.148874720238748
+    },
+    {
+      "city": "Chaokham",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "chaokham",
+      "distance": 58.90152733334413
+    },
+    {
+      "city": "Bikaner",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bikaner",
+      "distance": 62.65849210157567
+    },
+    {
+      "city": "Saharsa",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "saharsa",
+      "distance": 63.52331573403628
+    },
+    {
+      "city": "Atur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "atur",
+      "distance": 76.24897594086774
+    }
+  ],
+  "geohash": "tvk075n",
+  "geohashUrl": "https://geohash.softeng.co/tvk075n"
+}

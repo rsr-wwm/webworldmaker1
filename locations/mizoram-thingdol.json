@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-thingdol",
+  "city": "Thingdol",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "thingdol",
+  "country": "India",
+  "pincode": "796075",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.3537,
+  "longitude": 74.2473,
+  "landmark": "Thingdol Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Thingdol, India",
+  "population": 8883399,
+  "mobileUsers": 6769150,
+  "internetUsers": 4814802,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹6.56L per annum",
+  "activeMobileDevices": 10571244,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 54.2,
+  "maleCount": 4646018,
+  "femaleCount": 4237381,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Durgapur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "durgapur",
+      "distance": 74.79080459294231
+    },
+    {
+      "city": "Lungdar",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lungdar",
+      "distance": 79.14195687508418
+    },
+    {
+      "city": "Melaghar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "melaghar",
+      "distance": 92.62311431878507
+    },
+    {
+      "city": "Raipur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raipur",
+      "distance": 98.616579610779
+    },
+    {
+      "city": "Kandoli",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kandoli",
+      "distance": 101.07197469993643
+    }
+  ],
+  "geohash": "ttsf3ec",
+  "geohashUrl": "https://geohash.softeng.co/ttsf3ec"
+}

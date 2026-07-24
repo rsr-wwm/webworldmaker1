@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-likabili",
+  "city": "Likabili",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "likabili",
+  "country": "India",
+  "pincode": "791125",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.5443,
+  "longitude": 87.5028,
+  "landmark": "Likabili Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Likabili, India",
+  "population": 3289645,
+  "mobileUsers": 2562633,
+  "internetUsers": 2013262,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.61L per annum",
+  "activeMobileDevices": 3552816,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 61.2,
+  "maleCount": 1690878,
+  "femaleCount": 1598767,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "aligarh",
+      "distance": 63.33556436583281
+    },
+    {
+      "city": "Bachaibadi",
+      "state": "Tripur",
+      "stateSlug": "tripur",
+      "citySlug": "bachaibadi",
+      "distance": 67.08014705183115
+    },
+    {
+      "city": "Indi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "indi",
+      "distance": 75.70076772248693
+    },
+    {
+      "city": "Sunamura",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "sunamura",
+      "distance": 84.2347423432546
+    },
+    {
+      "city": "Tekkali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tekkali",
+      "distance": 93.84854527755155
+    }
+  ],
+  "geohash": "tgq1rpv",
+  "geohashUrl": "https://geohash.softeng.co/tgq1rpv"
+}

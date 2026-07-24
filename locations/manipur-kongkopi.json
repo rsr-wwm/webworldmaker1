@@ -1,0 +1,82 @@
+{
+  "id": "manipur-kongkopi",
+  "city": "Kongkopi",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "kongkopi",
+  "country": "India",
+  "pincode": "795129",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.4509,
+  "longitude": 75.349,
+  "landmark": "Kongkopi Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kongkopi, India",
+  "population": 3121843,
+  "mobileUsers": 2381966,
+  "internetUsers": 1779450,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.16L per annum",
+  "activeMobileDevices": 3121843,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 57,
+  "maleCount": 1632724,
+  "femaleCount": 1489119,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ratangarh",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "ratangarh",
+      "distance": 34.71899458730389
+    },
+    {
+      "city": "Rajaji Nagar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "rajaji-nagar",
+      "distance": 63.496499126667295
+    },
+    {
+      "city": "Guna",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "guna",
+      "distance": 69.63470007806264
+    },
+    {
+      "city": "Gandhinagar (Jaipur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "gandhinagar-jaipur",
+      "distance": 80.32872831551342
+    },
+    {
+      "city": "Chittoor",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chittoor",
+      "distance": 126.51729473718518
+    }
+  ],
+  "geohash": "t9t84d7",
+  "geohashUrl": "https://geohash.softeng.co/t9t84d7"
+}

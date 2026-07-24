@@ -1,0 +1,82 @@
+{
+  "id": "orissa-angul",
+  "city": "Angul",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "angul",
+  "country": "India",
+  "pincode": "759122",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.3204,
+  "longitude": 71.0128,
+  "landmark": "Angul Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Angul, India",
+  "population": 8301802,
+  "mobileUsers": 5993901,
+  "internetUsers": 4856554,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.76L per annum",
+  "activeMobileDevices": 9131982,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 58.5,
+  "maleCount": 4292032,
+  "femaleCount": 4009770,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Udagamandalam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "udagamandalam",
+      "distance": 49.16884018465952
+    },
+    {
+      "city": "Sriganganagar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sriganganagar",
+      "distance": 61.87972803117663
+    },
+    {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "coimbatore",
+      "distance": 74.01203075897041
+    },
+    {
+      "city": "Serchhip",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "serchhip",
+      "distance": 87.29268731949688
+    },
+    {
+      "city": "Nizamabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nizamabad",
+      "distance": 95.28255717595584
+    }
+  ],
+  "geohash": "te46xcj",
+  "geohashUrl": "https://geohash.softeng.co/te46xcj"
+}

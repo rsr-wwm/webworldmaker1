@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-happy-valley",
+  "city": "Happy valley",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "happy-valley",
+  "country": "India",
+  "pincode": "793007",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.5137,
+  "longitude": 70.1557,
+  "landmark": "Happy valley Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Happy valley, India",
+  "population": 1223112,
+  "mobileUsers": 905102,
+  "internetUsers": 732644,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹6.06L per annum",
+  "activeMobileDevices": 1272036,
+  "mobilePenetration": 74,
+  "internetPenetration": 59.9,
+  "maleCount": 634795,
+  "femaleCount": 588317,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhongir",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhongir",
+      "distance": 26.19118579958716
+    },
+    {
+      "city": "Borholla",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "borholla",
+      "distance": 29.630803517066376
+    },
+    {
+      "city": "Purulai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "purulai",
+      "distance": 35.602426472695626
+    },
+    {
+      "city": "HAL II Stage",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hal-ii-stage",
+      "distance": 46.63393094333165
+    },
+    {
+      "city": "Neemuch",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "neemuch",
+      "distance": 51.954243451688725
+    }
+  ],
+  "geohash": "td1zhqj",
+  "geohashUrl": "https://geohash.softeng.co/td1zhqj"
+}

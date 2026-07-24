@@ -1,0 +1,82 @@
+{
+  "id": "kerala-olavakkot",
+  "city": "Olavakkot",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "olavakkot",
+  "country": "India",
+  "pincode": "678002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.0148,
+  "longitude": 83.053,
+  "landmark": "Olavakkot District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Olavakkot, India",
+  "population": 6945516,
+  "mobileUsers": 5132736,
+  "internetUsers": 4257601,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹9.81L per annum",
+  "activeMobileDevices": 7709522,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 61.3,
+  "maleCount": 3569995,
+  "femaleCount": 3375521,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ambala City",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "ambala-city",
+      "distance": 7.729499287089702
+    },
+    {
+      "city": "Pani Sagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "pani-sagar",
+      "distance": 15.37173546212656
+    },
+    {
+      "city": "Dhenkanal",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "dhenkanal",
+      "distance": 22.512437945197547
+    },
+    {
+      "city": "Adilabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "adilabad",
+      "distance": 51.856753105840724
+    },
+    {
+      "city": "Fatehgarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "fatehgarh",
+      "distance": 61.27135949100568
+    }
+  ],
+  "geohash": "tu7n3cv",
+  "geohashUrl": "https://geohash.softeng.co/tu7n3cv"
+}

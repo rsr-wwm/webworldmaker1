@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-beed",
+  "city": "Beed",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "beed",
+  "country": "India",
+  "pincode": "431122",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 2442",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.0684,
+  "longitude": 84.0198,
+  "landmark": "Beed Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Beed, India",
+  "population": 5602634,
+  "mobileUsers": 4258001,
+  "internetUsers": 3103859,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹9.29L per annum",
+  "activeMobileDevices": 6330976,
+  "mobilePenetration": 76,
+  "internetPenetration": 55.4,
+  "maleCount": 2930178,
+  "femaleCount": 2672456,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kanker",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "kanker",
+      "distance": 18.642082672873393
+    },
+    {
+      "city": "Chitradurga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chitradurga",
+      "distance": 22.03526719785011
+    },
+    {
+      "city": "Kanhangad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanhangad",
+      "distance": 26.96991287629009
+    },
+    {
+      "city": "Arsikere",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "arsikere",
+      "distance": 32.772834117840226
+    },
+    {
+      "city": "Manipal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "manipal",
+      "distance": 87.04933616541301
+    }
+  ],
+  "geohash": "tug9zzt",
+  "geohashUrl": "https://geohash.softeng.co/tug9zzt"
+}

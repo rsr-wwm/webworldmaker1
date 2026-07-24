@@ -1,0 +1,82 @@
+{
+  "id": "assam-nalbari",
+  "city": "Nalbari",
+  "state": "Assam",
+  "stateSlug": "assam",
+  "citySlug": "nalbari",
+  "country": "India",
+  "pincode": "781335",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.9143,
+  "longitude": 84.2987,
+  "landmark": "Nalbari Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nalbari, India",
+  "population": 760733,
+  "mobileUsers": 591850,
+  "internetUsers": 416120,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹6.80L per annum",
+  "activeMobileDevices": 874842,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 54.7,
+  "maleCount": 397863,
+  "femaleCount": 362870,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi",
+      "distance": 26.67223411125453
+    },
+    {
+      "city": "Hindaun",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "hindaun",
+      "distance": 29.113687034488873
+    },
+    {
+      "city": "Rairangpur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rairangpur",
+      "distance": 51.75580694049293
+    },
+    {
+      "city": "Aurangabad",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "aurangabad",
+      "distance": 60.621114782534725
+    },
+    {
+      "city": "Taran Taran",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "taran-taran",
+      "distance": 66.77270749245538
+    }
+  ],
+  "geohash": "tf7cqqb",
+  "geohashUrl": "https://geohash.softeng.co/tf7cqqb"
+}

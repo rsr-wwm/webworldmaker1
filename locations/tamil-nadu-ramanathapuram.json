@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-ramanathapuram",
+  "city": "Ramanathapuram",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "ramanathapuram",
+  "country": "India",
+  "pincode": "623501",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.9653,
+  "longitude": 84.7426,
+  "landmark": "Ramanathapuram Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ramanathapuram, India",
+  "population": 3487854,
+  "mobileUsers": 2539157,
+  "internetUsers": 2092712,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹11.60L per annum",
+  "activeMobileDevices": 3906396,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 60,
+  "maleCount": 1824148,
+  "femaleCount": 1663706,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Malegaon town",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "malegaon-town",
+      "distance": 54.57049090774899
+    },
+    {
+      "city": "Kumta",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kumta",
+      "distance": 67.90751880560538
+    },
+    {
+      "city": "Bansi",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bansi",
+      "distance": 73.28629852851813
+    },
+    {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "madurai",
+      "distance": 73.4934805591082
+    },
+    {
+      "city": "Harapanhalli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "harapanhalli",
+      "distance": 84.42548662447535
+    }
+  ],
+  "geohash": "tfsm0k7",
+  "geohashUrl": "https://geohash.softeng.co/tfsm0k7"
+}

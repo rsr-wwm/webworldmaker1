@@ -1,0 +1,82 @@
+{
+  "id": "republic-of-bashkortostan-ufa",
+  "city": "Ufa",
+  "state": "Republic of Bashkortostan",
+  "stateSlug": "republic-of-bashkortostan",
+  "citySlug": "ufa",
+  "country": "Russia",
+  "pincode": "450000",
+  "currency": "RUB",
+  "symbol": "₽",
+  "compliance": "Roskomnadzor Rules",
+  "carriers": [
+    "MTS",
+    "MegaFon",
+    "Beeline",
+    "Tele2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+7",
+  "timezone": "Asia/Anadyr",
+  "latitude": 59.8245,
+  "longitude": 99.8822,
+  "landmark": "Ufa Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over MTS networks. Failovers route over MegaFon, Beeline, Tele2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Ufa, Russia",
+  "population": 2984746,
+  "mobileUsers": 2656423,
+  "internetUsers": 2348995,
+  "genderRatioText": "971 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "₽25,153 RUB per annum",
+  "activeMobileDevices": 3044440,
+  "mobilePenetration": 89,
+  "internetPenetration": 78.7,
+  "maleCount": 1513266,
+  "femaleCount": 1471480,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Nizhny Novgorod",
+      "state": "Nizhny Novgorod Oblast",
+      "stateSlug": "nizhny-novgorod-oblast",
+      "citySlug": "nizhny-novgorod",
+      "distance": 7.9883695240205865
+    },
+    {
+      "city": "Krasnoyarsk",
+      "state": "Krasnoyarsk Krai",
+      "stateSlug": "krasnoyarsk-krai",
+      "citySlug": "krasnoyarsk",
+      "distance": 9.893372196459339
+    },
+    {
+      "city": "Kazan",
+      "state": "Republic of Tatarstan",
+      "stateSlug": "republic-of-tatarstan",
+      "citySlug": "kazan",
+      "distance": 14.16877714313252
+    },
+    {
+      "city": "Moscow",
+      "state": "Central Federal District",
+      "stateSlug": "central-federal-district",
+      "citySlug": "moscow",
+      "distance": 16.18923073488036
+    },
+    {
+      "city": "Vladivostok",
+      "state": "Primorsky Krai",
+      "stateSlug": "primorsky-krai",
+      "citySlug": "vladivostok",
+      "distance": 23.056498428690094
+    }
+  ],
+  "geohash": "y4xh2fe",
+  "geohashUrl": "https://geohash.softeng.co/y4xh2fe"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-ambasamudram",
+  "city": "Ambasamudram",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "ambasamudram",
+  "country": "India",
+  "pincode": "627401",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.2368,
+  "longitude": 81.6917,
+  "landmark": "Ambasamudram Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ambasamudram, India",
+  "population": 7140844,
+  "mobileUsers": 5555576,
+  "internetUsers": 4105985,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹6.25L per annum",
+  "activeMobileDevices": 8569012,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 57.5,
+  "maleCount": 3741802,
+  "femaleCount": 3399042,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Aluva",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "aluva",
+      "distance": 59.4634196153015
+    },
+    {
+      "city": "Daporizo",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "daporizo",
+      "distance": 63.78784111667456
+    },
+    {
+      "city": "Amadalavalasa",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "amadalavalasa",
+      "distance": 68.434361174761
+    },
+    {
+      "city": "Pagaiyangdong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "pagaiyangdong",
+      "distance": 69.96585782361014
+    },
+    {
+      "city": "Bharatpur City",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bharatpur-city",
+      "distance": 90.93135560811004
+    }
+  ],
+  "geohash": "tgfndbn",
+  "geohashUrl": "https://geohash.softeng.co/tgfndbn"
+}

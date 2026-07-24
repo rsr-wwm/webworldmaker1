@@ -1,0 +1,82 @@
+{
+  "id": "tripura-ramnagar",
+  "city": "Ramnagar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "ramnagar",
+  "country": "India",
+  "pincode": "799002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.1363,
+  "longitude": 85.1965,
+  "landmark": "Ramnagar Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ramnagar, India",
+  "population": 4866826,
+  "mobileUsers": 3528448,
+  "internetUsers": 2963897,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹11.82L per annum",
+  "activeMobileDevices": 5061499,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 60.9,
+  "maleCount": 2535616,
+  "femaleCount": 2331210,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Motihari",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "motihari",
+      "distance": 44.209748655476155
+    },
+    {
+      "city": "Bhanjanagar",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhanjanagar",
+      "distance": 59.11455048642632
+    },
+    {
+      "city": "Chickballapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chickballapur",
+      "distance": 60.25828400470041
+    },
+    {
+      "city": "Malda",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "malda",
+      "distance": 79.85155672569886
+    },
+    {
+      "city": "Trimulgherry",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "trimulgherry",
+      "distance": 85.29651603580011
+    }
+  ],
+  "geohash": "tvs94sn",
+  "geohashUrl": "https://geohash.softeng.co/tvs94sn"
+}

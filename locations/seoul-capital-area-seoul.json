@@ -1,0 +1,81 @@
+{
+  "id": "seoul-capital-area-seoul",
+  "city": "Seoul",
+  "state": "Seoul Capital Area",
+  "stateSlug": "seoul-capital-area",
+  "citySlug": "seoul",
+  "country": "South Korea",
+  "pincode": "03000",
+  "currency": "KRW",
+  "symbol": "₩",
+  "compliance": "KCC Regulations",
+  "carriers": [
+    "SK Telecom",
+    "KT",
+    "LG Uplus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+82",
+  "timezone": "Asia/Seoul",
+  "latitude": 37.1074,
+  "longitude": 127.5263,
+  "landmark": "Seoul Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over SK Telecom networks. Failovers route over KT, LG Uplus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Seoul, South Korea",
+  "population": 2112963,
+  "mobileUsers": 1717838,
+  "internetUsers": 1320601,
+  "genderRatioText": "987 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "₩23,988 KRW per annum",
+  "activeMobileDevices": 2831370,
+  "mobilePenetration": 81.3,
+  "internetPenetration": 62.5,
+  "maleCount": 1062820,
+  "femaleCount": 1050143,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Incheon",
+      "state": "Incheon Metropolitan",
+      "stateSlug": "incheon-metropolitan",
+      "citySlug": "incheon",
+      "distance": 8.690508705807911
+    },
+    {
+      "city": "Seongnam",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "seongnam",
+      "distance": 9.012246470132903
+    },
+    {
+      "city": "Ulsan",
+      "state": "Yeongnam",
+      "stateSlug": "yeongnam",
+      "citySlug": "ulsan",
+      "distance": 11.220093468690303
+    },
+    {
+      "city": "Changwon",
+      "state": "Gyeongnam",
+      "stateSlug": "gyeongnam",
+      "citySlug": "changwon",
+      "distance": 15.559846078357852
+    },
+    {
+      "city": "Daegu",
+      "state": "Yeongnam",
+      "stateSlug": "yeongnam",
+      "citySlug": "daegu",
+      "distance": 21.158978826466484
+    }
+  ],
+  "geohash": "wydejgj",
+  "geohashUrl": "https://geohash.softeng.co/wydejgj"
+}

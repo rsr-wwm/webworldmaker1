@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-arni",
+  "city": "Arni",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "arni",
+  "country": "India",
+  "pincode": "632601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.9044,
+  "longitude": 86.1497,
+  "landmark": "Arni Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Arni, India",
+  "population": 7357237,
+  "mobileUsers": 5488498,
+  "internetUsers": 4289269,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹11.67L per annum",
+  "activeMobileDevices": 7577954,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 58.3,
+  "maleCount": 3788977,
+  "femaleCount": 3568260,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Firozabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "firozabad",
+      "distance": 51.36418063541535
+    },
+    {
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "aurangabad",
+      "distance": 70.72691740754537
+    },
+    {
+      "city": "Somdal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "somdal",
+      "distance": 71.9775845031331
+    },
+    {
+      "city": "Ramnagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ramnagar",
+      "distance": 94.42147790064976
+    },
+    {
+      "city": "Korba",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "korba",
+      "distance": 95.53633045163815
+    }
+  ],
+  "geohash": "tvmrb3u",
+  "geohashUrl": "https://geohash.softeng.co/tvmrb3u"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "orissa-parlakhemudi",
+  "city": "Parlakhemudi",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "parlakhemudi",
+  "country": "India",
+  "pincode": "761200",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.8364,
+  "longitude": 78.5179,
+  "landmark": "Parlakhemudi Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Parlakhemudi, India",
+  "population": 2370875,
+  "mobileUsers": 1773414,
+  "internetUsers": 1330060,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹9.40L per annum",
+  "activeMobileDevices": 2773923,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 56.1,
+  "maleCount": 1232855,
+  "femaleCount": 1138020,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "khandwa",
+      "distance": 25.50657046475736
+    },
+    {
+      "city": "Gandhi Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gandhi-nagar",
+      "distance": 41.59529325129577
+    },
+    {
+      "city": "Kala pahad",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "kala-pahad",
+      "distance": 98.66818447341868
+    },
+    {
+      "city": "Tuipang",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "tuipang",
+      "distance": 107.91251104259165
+    },
+    {
+      "city": "Bhadravathi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bhadravathi",
+      "distance": 134.7707879170578
+    }
+  ],
+  "geohash": "tdzzf8y",
+  "geohashUrl": "https://geohash.softeng.co/tdzzf8y"
+}

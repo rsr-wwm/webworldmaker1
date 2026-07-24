@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-fatehpur",
+  "city": "Fatehpur",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "fatehpur",
+  "country": "India",
+  "pincode": "332310",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.994,
+  "longitude": 85.5996,
+  "landmark": "Fatehpur Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Fatehpur, India",
+  "population": 702260,
+  "mobileUsers": 527397,
+  "internetUsers": 428378,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹10.23L per annum",
+  "activeMobileDevices": 709282,
+  "mobilePenetration": 75.1,
+  "internetPenetration": 61,
+  "maleCount": 368687,
+  "femaleCount": 333574,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pratapgarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pratapgarh",
+      "distance": 39.20521764184016
+    },
+    {
+      "city": "Katni",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "katni",
+      "distance": 61.36796585762595
+    },
+    {
+      "city": "Gondal",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gondal",
+      "distance": 62.94625508966726
+    },
+    {
+      "city": "Ongole",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "ongole",
+      "distance": 65.90105024247123
+    },
+    {
+      "city": "Sirsa",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "sirsa",
+      "distance": 69.7385029505247
+    }
+  ],
+  "geohash": "tgsz7vg",
+  "geohashUrl": "https://geohash.softeng.co/tgsz7vg"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tirukkoyilur",
+  "city": "Tirukkoyilur",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tirukkoyilur",
+  "country": "India",
+  "pincode": "605757",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.1927,
+  "longitude": 75.3795,
+  "landmark": "Tirukkoyilur Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tirukkoyilur, India",
+  "population": 5518152,
+  "mobileUsers": 4116541,
+  "internetUsers": 3156382,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹8.29L per annum",
+  "activeMobileDevices": 6069967,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 57.2,
+  "maleCount": 2819776,
+  "femaleCount": 2698376,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Barrackpore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barrackpore",
+      "distance": 61.932698528460946
+    },
+    {
+      "city": "Attili",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "attili",
+      "distance": 80.38419717814047
+    },
+    {
+      "city": "Secunderabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "secunderabad",
+      "distance": 95.9370250161039
+    },
+    {
+      "city": "Banda",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "banda",
+      "distance": 100.44958439052826
+    },
+    {
+      "city": "Sonepat",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "sonepat",
+      "distance": 102.74679187015437
+    }
+  ],
+  "geohash": "tstt521",
+  "geohashUrl": "https://geohash.softeng.co/tstt521"
+}

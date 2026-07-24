@@ -1,0 +1,82 @@
+{
+  "id": "manipur-karong",
+  "city": "Karong",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "karong",
+  "country": "India",
+  "pincode": "795106",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.3339,
+  "longitude": 86.6172,
+  "landmark": "Karong State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Karong, India",
+  "population": 4946035,
+  "mobileUsers": 3566091,
+  "internetUsers": 2774725,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.28L per annum",
+  "activeMobileDevices": 5193336,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 56.1,
+  "maleCount": 2586776,
+  "femaleCount": 2359259,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vimangad",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "vimangad",
+      "distance": 43.55862902753577
+    },
+    {
+      "city": "Gopeshwar",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gopeshwar",
+      "distance": 65.43731431349484
+    },
+    {
+      "city": "Gular thal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "gular-thal",
+      "distance": 66.38516304826305
+    },
+    {
+      "city": "Lakhibera",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lakhibera",
+      "distance": 77.06645689493638
+    },
+    {
+      "city": "Malvan",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "malvan",
+      "distance": 81.94445031035272
+    }
+  ],
+  "geohash": "tgv9758",
+  "geohashUrl": "https://geohash.softeng.co/tgv9758"
+}

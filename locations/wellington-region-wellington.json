@@ -1,0 +1,81 @@
+{
+  "id": "wellington-region-wellington",
+  "city": "Wellington",
+  "state": "Wellington Region",
+  "stateSlug": "wellington-region",
+  "citySlug": "wellington",
+  "country": "New Zealand",
+  "pincode": "6011",
+  "currency": "NZD",
+  "symbol": "NZ$",
+  "compliance": "RSM Guidelines",
+  "carriers": [
+    "One NZ",
+    "Spark",
+    "2degrees"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+64",
+  "timezone": "Pacific/Auckland",
+  "latitude": -40.8218,
+  "longitude": 174.0335,
+  "landmark": "Wellington State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over One NZ networks. Failovers route over Spark, 2degrees with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Wellington, New Zealand",
+  "population": 1916182,
+  "mobileUsers": 1536777,
+  "internetUsers": 1314500,
+  "genderRatioText": "991 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "NZ$18,385 NZD per annum",
+  "activeMobileDevices": 2414389,
+  "mobilePenetration": 80.2,
+  "internetPenetration": 68.6,
+  "maleCount": 961923,
+  "femaleCount": 954259,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Christchurch",
+      "state": "Canterbury Region",
+      "stateSlug": "canterbury-region",
+      "citySlug": "christchurch",
+      "distance": 16.085690783180034
+    },
+    {
+      "city": "Auckland",
+      "state": "Auckland Region",
+      "stateSlug": "auckland-region",
+      "citySlug": "auckland",
+      "distance": 21.11652063417547
+    },
+    {
+      "city": "Hamilton",
+      "state": "Waikato Region",
+      "stateSlug": "waikato-region",
+      "citySlug": "hamilton",
+      "distance": 30.373357636341183
+    },
+    {
+      "city": "Dunedin",
+      "state": "Otago Region",
+      "stateSlug": "otago-region",
+      "citySlug": "dunedin",
+      "distance": 33.103705736080336
+    },
+    {
+      "city": "Sydney",
+      "state": "New South Wales",
+      "stateSlug": "new-south-wales",
+      "citySlug": "sydney",
+      "distance": 2152.884077948199
+    }
+  ],
+  "geohash": "rbezb0x",
+  "geohashUrl": "https://geohash.softeng.co/rbezb0x"
+}

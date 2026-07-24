@@ -1,0 +1,82 @@
+{
+  "id": "assam-guwahati-university",
+  "city": "Guwahati University",
+  "state": "Assam",
+  "stateSlug": "assam",
+  "citySlug": "guwahati-university",
+  "country": "India",
+  "pincode": "781014",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.3816,
+  "longitude": 77.5103,
+  "landmark": "Guwahati University Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Guwahati University, India",
+  "population": 6978776,
+  "mobileUsers": 5408551,
+  "internetUsers": 3852284,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹9.32L per annum",
+  "activeMobileDevices": 6978776,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 55.2,
+  "maleCount": 3601048,
+  "femaleCount": 3377728,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kailashahar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kailashahar",
+      "distance": 23.895523285482245
+    },
+    {
+      "city": "Rathinasabapathipuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "rathinasabapathipuram",
+      "distance": 39.64467159543554
+    },
+    {
+      "city": "Hindupur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hindupur",
+      "distance": 46.494502571014316
+    },
+    {
+      "city": "Agra Fort",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "agra-fort",
+      "distance": 46.75340820985873
+    },
+    {
+      "city": "Balangir",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "balangir",
+      "distance": 53.30285701104867
+    }
+  ],
+  "geohash": "tez1eu3",
+  "geohashUrl": "https://geohash.softeng.co/tez1eu3"
+}

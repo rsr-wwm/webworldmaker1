@@ -1,0 +1,80 @@
+{
+  "id": "castries-district-castries",
+  "city": "Castries",
+  "state": "Castries District",
+  "stateSlug": "castries-district",
+  "citySlug": "castries",
+  "country": "Saint Lucia",
+  "pincode": "00000",
+  "currency": "XCD",
+  "symbol": "EC$",
+  "compliance": "ECTEL / NTRC",
+  "carriers": [
+    "Flow",
+    "Digicel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1",
+  "timezone": "America/St_Lucia",
+  "latitude": 14.0239,
+  "longitude": -60.8297,
+  "landmark": "Castries Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Castries, Saint Lucia",
+  "population": 4726488,
+  "mobileUsers": 3904079,
+  "internetUsers": 2911516,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "EC$27,445 XCD per annum",
+  "activeMobileDevices": 5955374,
+  "mobilePenetration": 82.6,
+  "internetPenetration": 61.6,
+  "maleCount": 2410509,
+  "femaleCount": 2315979,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Kingstown",
+      "state": "Saint George Parish",
+      "stateSlug": "saint-george-parish",
+      "citySlug": "kingstown",
+      "distance": 113.27101775948096
+    },
+    {
+      "city": "Bridgetown",
+      "state": "Saint Michael Parish",
+      "stateSlug": "saint-michael-parish",
+      "citySlug": "bridgetown",
+      "distance": 175.1256451374988
+    },
+    {
+      "city": "Saint George's",
+      "state": "Saint George Parish",
+      "stateSlug": "saint-george-parish",
+      "citySlug": "saint-georges",
+      "distance": 242.22397736590563
+    },
+    {
+      "city": "Plymouth",
+      "state": "Saint Anthony Parish",
+      "stateSlug": "saint-anthony-parish",
+      "citySlug": "plymouth",
+      "distance": 346.21574588449266
+    },
+    {
+      "city": "Saint John's",
+      "state": "Saint John Parish",
+      "stateSlug": "saint-john-parish",
+      "citySlug": "saint-johns",
+      "distance": 370.6544933110648
+    }
+  ],
+  "geohash": "ddkxzbc",
+  "geohashUrl": "https://geohash.softeng.co/ddkxzbc"
+}

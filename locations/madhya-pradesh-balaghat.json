@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-balaghat",
+  "city": "Balaghat",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "balaghat",
+  "country": "India",
+  "pincode": "481001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.6645,
+  "longitude": 72.8951,
+  "landmark": "Balaghat Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Balaghat, India",
+  "population": 4829981,
+  "mobileUsers": 3627315,
+  "internetUsers": 2791729,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹8.54L per annum",
+  "activeMobileDevices": 5071480,
+  "mobilePenetration": 75.1,
+  "internetPenetration": 57.8,
+  "maleCount": 2530910,
+  "femaleCount": 2299071,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chongtai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "chongtai",
+      "distance": 4.457063778759638
+    },
+    {
+      "city": "Chittorgarh",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "chittorgarh",
+      "distance": 54.48989568023575
+    },
+    {
+      "city": "Nilakottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "nilakottai",
+      "distance": 57.05415307991067
+    },
+    {
+      "city": "Udhampur",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "udhampur",
+      "distance": 85.45063058400362
+    },
+    {
+      "city": "Dausa",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "dausa",
+      "distance": 119.51969051535193
+    }
+  ],
+  "geohash": "ts5bfvb",
+  "geohashUrl": "https://geohash.softeng.co/ts5bfvb"
+}

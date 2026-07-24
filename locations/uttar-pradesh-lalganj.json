@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-lalganj",
+  "city": "Lalganj",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "lalganj",
+  "country": "India",
+  "pincode": "229206",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.086,
+  "longitude": 77.656,
+  "landmark": "Lalganj Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lalganj, India",
+  "population": 9107126,
+  "mobileUsers": 6675523,
+  "internetUsers": 5427847,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹7.57L per annum",
+  "activeMobileDevices": 10746408,
+  "mobilePenetration": 73.3,
+  "internetPenetration": 59.6,
+  "maleCount": 4644634,
+  "femaleCount": 4462492,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hindupur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hindupur",
+      "distance": 36.06475946973862
+    },
+    {
+      "city": "Balangir",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "balangir",
+      "distance": 59.96118995229178
+    },
+    {
+      "city": "Guwahati University",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati-university",
+      "distance": 79.75836951167938
+    },
+    {
+      "city": "Kailashahar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kailashahar",
+      "distance": 95.71433134427912
+    },
+    {
+      "city": "Maidjiphema",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "maidjiphema",
+      "distance": 99.83942283209558
+    }
+  ],
+  "geohash": "tezjxhe",
+  "geohashUrl": "https://geohash.softeng.co/tezjxhe"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "kerala-ernakulam",
+  "city": "Ernakulam",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "ernakulam",
+  "country": "India",
+  "pincode": "682011",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.3731,
+  "longitude": 80.8229,
+  "landmark": "Ernakulam Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ernakulam, India",
+  "population": 3254386,
+  "mobileUsers": 2518894,
+  "internetUsers": 1845236,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹10.80L per annum",
+  "activeMobileDevices": 3384561,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 56.7,
+  "maleCount": 1695535,
+  "femaleCount": 1558851,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tirupati",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tirupati",
+      "distance": 51.86046047016596
+    },
+    {
+      "city": "Tiruthuraipundi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruthuraipundi",
+      "distance": 54.412311871915435
+    },
+    {
+      "city": "Ratlam",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "ratlam",
+      "distance": 59.10701147567129
+    },
+    {
+      "city": "Phenk",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "phenk",
+      "distance": 73.43004725878832
+    },
+    {
+      "city": "Panna",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "panna",
+      "distance": 101.26844016443573
+    }
+  ],
+  "geohash": "tf1qrhm",
+  "geohashUrl": "https://geohash.softeng.co/tf1qrhm"
+}

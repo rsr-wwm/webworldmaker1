@@ -1,0 +1,80 @@
+{
+  "id": "dire-dawa-charter-city-dire-dawa",
+  "city": "Dire Dawa",
+  "state": "Dire Dawa Charter City",
+  "stateSlug": "dire-dawa-charter-city",
+  "citySlug": "dire-dawa",
+  "country": "Ethiopia",
+  "pincode": "3000",
+  "currency": "ETB",
+  "symbol": "Br",
+  "compliance": "ECA Regulations",
+  "carriers": [
+    "Ethio Telecom",
+    "Safaricom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+251",
+  "timezone": "Africa/Addis_Ababa",
+  "latitude": 8.0967,
+  "longitude": 38.0595,
+  "landmark": "Dire Dawa Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Ethio Telecom networks. Failovers route over Safaricom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Dire Dawa, Ethiopia",
+  "population": 2661948,
+  "mobileUsers": 2190783,
+  "internetUsers": 1810124,
+  "genderRatioText": "981 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "Br33,070 ETB per annum",
+  "activeMobileDevices": 3354054,
+  "mobilePenetration": 82.3,
+  "internetPenetration": 68,
+  "maleCount": 1344284,
+  "femaleCount": 1317664,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Addis Ababa",
+      "state": "Addis Ababa Area",
+      "stateSlug": "addis-ababa-area",
+      "citySlug": "addis-ababa",
+      "distance": 25.483001120931203
+    },
+    {
+      "city": "Djibouti City",
+      "state": "Djibouti Region",
+      "stateSlug": "djibouti-region",
+      "citySlug": "djibouti-city",
+      "distance": 681.5770126141468
+    },
+    {
+      "city": "Kisumu",
+      "state": "Kisumu County",
+      "stateSlug": "kisumu-county",
+      "citySlug": "kisumu",
+      "distance": 772.0024867789392
+    },
+    {
+      "city": "Nairobi",
+      "state": "Nairobi County",
+      "stateSlug": "nairobi-county",
+      "citySlug": "nairobi",
+      "distance": 782.3355226811403
+    },
+    {
+      "city": "Mombasa",
+      "state": "Mombasa County",
+      "stateSlug": "mombasa-county",
+      "citySlug": "mombasa",
+      "distance": 786.0749113844037
+    }
+  ],
+  "geohash": "sc7n41f",
+  "geohashUrl": "https://geohash.softeng.co/sc7n41f"
+}

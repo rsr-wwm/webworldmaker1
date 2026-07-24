@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kollam",
+  "city": "Kollam",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kollam",
+  "country": "India",
+  "pincode": "691001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.157,
+  "longitude": 88.7965,
+  "landmark": "Kollam District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kollam, India",
+  "population": 3975131,
+  "mobileUsers": 2957497,
+  "internetUsers": 2305575,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.05L per annum",
+  "activeMobileDevices": 4690654,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 58,
+  "maleCount": 2047192,
+  "femaleCount": 1927939,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sangareddy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "sangareddy",
+      "distance": 38.69474792566388
+    },
+    {
+      "city": "Anakpalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "anakpalle",
+      "distance": 53.31674491687888
+    },
+    {
+      "city": "Pandharpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "pandharpur",
+      "distance": 63.90892704741978
+    },
+    {
+      "city": "Thycaud",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thycaud",
+      "distance": 107.60981646438621
+    },
+    {
+      "city": "Ambattur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ambattur",
+      "distance": 109.7350955412201
+    }
+  ],
+  "geohash": "tcz1u95",
+  "geohashUrl": "https://geohash.softeng.co/tcz1u95"
+}

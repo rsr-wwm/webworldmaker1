@@ -1,0 +1,82 @@
+{
+  "id": "lakshadweep-kalpeni",
+  "city": "Kalpeni",
+  "state": "Lakshadweep",
+  "stateSlug": "lakshadweep",
+  "citySlug": "kalpeni",
+  "country": "India",
+  "pincode": "682557",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.8557,
+  "longitude": 72.7079,
+  "landmark": "Kalpeni Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kalpeni, India",
+  "population": 961372,
+  "mobileUsers": 709492,
+  "internetUsers": 566248,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹6.75L per annum",
+  "activeMobileDevices": 961372,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 58.9,
+  "maleCount": 493184,
+  "femaleCount": 468188,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rayagada",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rayagada",
+      "distance": 30.19391608900067
+    },
+    {
+      "city": "Godhra",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "godhra",
+      "distance": 32.52908651270219
+    },
+    {
+      "city": "Khairatabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "khairatabad",
+      "distance": 55.75029091323863
+    },
+    {
+      "city": "Loktak Project",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "loktak-project",
+      "distance": 67.37186122604587
+    },
+    {
+      "city": "Peddapalli",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "peddapalli",
+      "distance": 68.95502253752777
+    }
+  ],
+  "geohash": "tsg8y8b",
+  "geohashUrl": "https://geohash.softeng.co/tsg8y8b"
+}

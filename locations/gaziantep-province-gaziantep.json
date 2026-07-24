@@ -1,0 +1,81 @@
+{
+  "id": "gaziantep-province-gaziantep",
+  "city": "Gaziantep",
+  "state": "Gaziantep Province",
+  "stateSlug": "gaziantep-province",
+  "citySlug": "gaziantep",
+  "country": "Türkiye",
+  "pincode": "27000",
+  "currency": "TRY",
+  "symbol": "₺",
+  "compliance": "BTK Regulations",
+  "carriers": [
+    "Turkcell",
+    "Vodafone",
+    "Türk Telekom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+90",
+  "timezone": "Europe/Istanbul",
+  "latitude": 39.1833,
+  "longitude": 34.977,
+  "landmark": "Gaziantep Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Turkcell networks. Failovers route over Vodafone, Türk Telekom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Gaziantep, Türkiye",
+  "population": 4381614,
+  "mobileUsers": 3465856,
+  "internetUsers": 2821759,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₺40,149 TRY per annum",
+  "activeMobileDevices": 5608465,
+  "mobilePenetration": 79.1,
+  "internetPenetration": 64.4,
+  "maleCount": 2234623,
+  "femaleCount": 2146991,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Istanbul",
+      "state": "Istanbul Province",
+      "stateSlug": "istanbul-province",
+      "citySlug": "istanbul",
+      "distance": 9.58543747464329
+    },
+    {
+      "city": "Konya",
+      "state": "Konya Province",
+      "stateSlug": "konya-province",
+      "citySlug": "konya",
+      "distance": 12.30775051765979
+    },
+    {
+      "city": "Antalya",
+      "state": "Antalya Province",
+      "stateSlug": "antalya-province",
+      "citySlug": "antalya",
+      "distance": 13.046429246351444
+    },
+    {
+      "city": "Izmir",
+      "state": "Izmir Province",
+      "stateSlug": "izmir-province",
+      "citySlug": "izmir",
+      "distance": 13.07366918332653
+    },
+    {
+      "city": "Mersin",
+      "state": "Mersin Province",
+      "stateSlug": "mersin-province",
+      "citySlug": "mersin",
+      "distance": 13.553594863761289
+    }
+  ],
+  "geohash": "sybygvj",
+  "geohashUrl": "https://geohash.softeng.co/sybygvj"
+}

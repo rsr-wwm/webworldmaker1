@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-baraut",
+  "city": "Baraut",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "baraut",
+  "country": "India",
+  "pincode": "250611",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.0295,
+  "longitude": 89.0164,
+  "landmark": "Baraut GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Baraut, India",
+  "population": 4872822,
+  "mobileUsers": 3644870,
+  "internetUsers": 2728780,
+  "genderRatioText": "909 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.54L per annum",
+  "activeMobileDevices": 5506288,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 56,
+  "maleCount": 2553359,
+  "femaleCount": 2319463,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhilai SB",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhilai-sb",
+      "distance": 35.87885921091851
+    },
+    {
+      "city": "Rae Bareli",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "rae-bareli",
+      "distance": 79.84202609037379
+    },
+    {
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "aligarh",
+      "distance": 105.2019552523274
+    },
+    {
+      "city": "Tekkali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tekkali",
+      "distance": 113.5012566245908
+    },
+    {
+      "city": "Indi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "indi",
+      "distance": 145.74217092435515
+    }
+  ],
+  "geohash": "tgrk385",
+  "geohashUrl": "https://geohash.softeng.co/tgrk385"
+}

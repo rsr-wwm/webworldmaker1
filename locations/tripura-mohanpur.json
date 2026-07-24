@@ -1,0 +1,82 @@
+{
+  "id": "tripura-mohanpur",
+  "city": "Mohanpur",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "mohanpur",
+  "country": "India",
+  "pincode": "799211",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.2958,
+  "longitude": 72.3397,
+  "landmark": "Mohanpur Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mohanpur, India",
+  "population": 6416017,
+  "mobileUsers": 4914669,
+  "internetUsers": 3791866,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹8.62L per annum",
+  "activeMobileDevices": 7057618,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 59.1,
+  "maleCount": 3355577,
+  "femaleCount": 3060440,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhandara",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "bhandara",
+      "distance": 41.594602399989384
+    },
+    {
+      "city": "Rayagada",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rayagada",
+      "distance": 45.2415614186842
+    },
+    {
+      "city": "Kalpeni",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kalpeni",
+      "distance": 72.22734584927096
+    },
+    {
+      "city": "Tumkur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tumkur",
+      "distance": 77.46060498868948
+    },
+    {
+      "city": "Godhra",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "godhra",
+      "distance": 81.75307683879406
+    }
+  ],
+  "geohash": "tsemw5h",
+  "geohashUrl": "https://geohash.softeng.co/tsemw5h"
+}

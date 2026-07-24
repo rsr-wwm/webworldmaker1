@@ -1,0 +1,81 @@
+{
+  "id": "courland-liepaja",
+  "city": "Liepaja",
+  "state": "Courland",
+  "stateSlug": "courland",
+  "citySlug": "liepaja",
+  "country": "Latvia",
+  "pincode": "LV-3401",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / SPRK",
+  "carriers": [
+    "LMT",
+    "Tele2",
+    "Bite"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+371",
+  "timezone": "Europe/Riga",
+  "latitude": 56.9074,
+  "longitude": 24.8267,
+  "landmark": "Liepaja Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over LMT networks. Failovers route over Tele2, Bite with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Liepaja, Latvia",
+  "population": 4984269,
+  "mobileUsers": 3837887,
+  "internetUsers": 3414224,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "€58,556 per annum",
+  "activeMobileDevices": 6230336,
+  "mobilePenetration": 77,
+  "internetPenetration": 68.5,
+  "maleCount": 2541977,
+  "femaleCount": 2442292,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Riga",
+      "state": "Riga Municipality",
+      "stateSlug": "riga-municipality",
+      "citySlug": "riga",
+      "distance": 14.206149752594285
+    },
+    {
+      "city": "Vilnius",
+      "state": "Vilnius District",
+      "stateSlug": "vilnius-district",
+      "citySlug": "vilnius",
+      "distance": 107.09966529289312
+    },
+    {
+      "city": "Klaipeda",
+      "state": "Klaipeda County",
+      "stateSlug": "klaipeda-county",
+      "citySlug": "klaipeda",
+      "distance": 115.15926398238325
+    },
+    {
+      "city": "Kaunas",
+      "state": "Kaunas County",
+      "stateSlug": "kaunas-county",
+      "citySlug": "kaunas",
+      "distance": 120.20756635157689
+    },
+    {
+      "city": "Siauliai",
+      "state": "Siauliai County",
+      "stateSlug": "siauliai-county",
+      "citySlug": "siauliai",
+      "distance": 122.95565289387454
+    }
+  ],
+  "geohash": "ud1eszw",
+  "geohashUrl": "https://geohash.softeng.co/ud1eszw"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-panvel",
+  "city": "Panvel",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "panvel",
+  "country": "India",
+  "pincode": "410206",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.1618,
+  "longitude": 70.4275,
+  "landmark": "Panvel Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Panvel, India",
+  "population": 1126067,
+  "mobileUsers": 849054,
+  "internetUsers": 610328,
+  "genderRatioText": "907 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹8.92L per annum",
+  "activeMobileDevices": 1227413,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 54.2,
+  "maleCount": 590059,
+  "femaleCount": 536008,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dehra Gopipur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "dehra-gopipur",
+      "distance": 47.18477218404105
+    },
+    {
+      "city": "Sangli",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "sangli",
+      "distance": 52.37169471864577
+    },
+    {
+      "city": "Alathur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "alathur",
+      "distance": 59.885756841963506
+    },
+    {
+      "city": "Dikchu",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "dikchu",
+      "distance": 62.18421340249835
+    },
+    {
+      "city": "Barmer",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "barmer",
+      "distance": 64.73156512355622
+    }
+  ],
+  "geohash": "tsf4d8e",
+  "geohashUrl": "https://geohash.softeng.co/tsf4d8e"
+}

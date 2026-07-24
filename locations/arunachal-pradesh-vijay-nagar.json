@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-vijay-nagar",
+  "city": "Vijay nagar",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "vijay-nagar",
+  "country": "India",
+  "pincode": "792055",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.6283,
+  "longitude": 73.4457,
+  "landmark": "Vijay Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vijay nagar, India",
+  "population": 54030,
+  "mobileUsers": 41927,
+  "internetUsers": 32580,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹7.14L per annum",
+  "activeMobileDevices": 59433,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 60.3,
+  "maleCount": 28096,
+  "femaleCount": 25934,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Moirang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "moirang",
+      "distance": 77.38842901751616
+    },
+    {
+      "city": "Tezpur",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tezpur",
+      "distance": 91.68954054746709
+    },
+    {
+      "city": "Nilakottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "nilakottai",
+      "distance": 101.047708373576
+    },
+    {
+      "city": "Chongtai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "chongtai",
+      "distance": 116.99479775035763
+    },
+    {
+      "city": "St.Thomas Mount",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "stthomas-mount",
+      "distance": 119.74918333713707
+    }
+  ],
+  "geohash": "tshnrm3",
+  "geohashUrl": "https://geohash.softeng.co/tshnrm3"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-mowpat",
+  "city": "Mowpat",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "mowpat",
+  "country": "India",
+  "pincode": "793012",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.4096,
+  "longitude": 75.6838,
+  "landmark": "Mowpat Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mowpat, India",
+  "population": 501226,
+  "mobileUsers": 372410,
+  "internetUsers": 306249,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹11.30L per annum",
+  "activeMobileDevices": 516262,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 61.1,
+  "maleCount": 261139,
+  "femaleCount": 240087,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kovilpatti",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kovilpatti",
+      "distance": 89.52046647559789
+    },
+    {
+      "city": "Secunderabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "secunderabad",
+      "distance": 112.72697127756783
+    },
+    {
+      "city": "Nampong",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "nampong",
+      "distance": 113.74251966256418
+    },
+    {
+      "city": "Banda",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "banda",
+      "distance": 114.6785953104139
+    },
+    {
+      "city": "Ramkrishna Mission",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "ramkrishna-mission",
+      "distance": 127.02329588748566
+    }
+  ],
+  "geohash": "tsmff5x",
+  "geohashUrl": "https://geohash.softeng.co/tsmff5x"
+}

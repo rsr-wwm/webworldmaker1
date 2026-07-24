@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-ampati",
+  "city": "Ampati",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "ampati",
+  "country": "India",
+  "pincode": "794115",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.2885,
+  "longitude": 83.1631,
+  "landmark": "Ampati Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ampati, India",
+  "population": 2756599,
+  "mobileUsers": 2015073,
+  "internetUsers": 1513372,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹8.75L per annum",
+  "activeMobileDevices": 3087390,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 54.9,
+  "maleCount": 1405865,
+  "femaleCount": 1350734,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kangra",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "kangra",
+      "distance": 31.04143607936411
+    },
+    {
+      "city": "Tenali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tenali",
+      "distance": 47.88902344344056
+    },
+    {
+      "city": "Periyakulam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "periyakulam",
+      "distance": 53.37956247909144
+    },
+    {
+      "city": "Ghatkoper East",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ghatkoper-east",
+      "distance": 69.41020288362995
+    },
+    {
+      "city": "Kandukur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kandukur",
+      "distance": 76.33253970560459
+    }
+  ],
+  "geohash": "tu5hkrt",
+  "geohashUrl": "https://geohash.softeng.co/tu5hkrt"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "sofia-city-sofia",
+  "city": "Sofia",
+  "state": "Sofia City",
+  "stateSlug": "sofia-city",
+  "citySlug": "sofia",
+  "country": "Bulgaria",
+  "pincode": "1000",
+  "currency": "BGN",
+  "symbol": "лв",
+  "compliance": "GDPR / CRC",
+  "carriers": [
+    "A1",
+    "Yettel",
+    "Vivacom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+359",
+  "timezone": "Europe/Sofia",
+  "latitude": 43.1912,
+  "longitude": 25.1432,
+  "landmark": "Sofia Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over A1 networks. Failovers route over Yettel, Vivacom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Sofia, Bulgaria",
+  "population": 3886232,
+  "mobileUsers": 3198368,
+  "internetUsers": 2456098,
+  "genderRatioText": "969 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "лв39,370 BGN per annum",
+  "activeMobileDevices": 5207550,
+  "mobilePenetration": 82.3,
+  "internetPenetration": 63.2,
+  "maleCount": 1974206,
+  "femaleCount": 1912026,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Varna",
+      "state": "Varna Province",
+      "stateSlug": "varna-province",
+      "citySlug": "varna",
+      "distance": 23.13243792372071
+    },
+    {
+      "city": "Plovdiv",
+      "state": "Plovdiv Province",
+      "stateSlug": "plovdiv-province",
+      "citySlug": "plovdiv",
+      "distance": 30.601026112062197
+    },
+    {
+      "city": "Timisoara",
+      "state": "Timis County",
+      "stateSlug": "timis-county",
+      "citySlug": "timisoara",
+      "distance": 297.3859000896592
+    },
+    {
+      "city": "Bitola",
+      "state": "Pelagonia Region",
+      "stateSlug": "pelagonia-region",
+      "citySlug": "bitola",
+      "distance": 297.490493020237
+    },
+    {
+      "city": "Skopje",
+      "state": "Skopje Region",
+      "stateSlug": "skopje-region",
+      "citySlug": "skopje",
+      "distance": 312.12168374603596
+    }
+  ],
+  "geohash": "sx9vsns",
+  "geohashUrl": "https://geohash.softeng.co/sx9vsns"
+}

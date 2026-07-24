@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-hyderabad-jubilee",
+  "city": "Hyderabad Jubilee",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "hyderabad-jubilee",
+  "country": "India",
+  "pincode": "500002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.481,
+  "longitude": 77.0867,
+  "landmark": "Hyderabad Jubilee Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hyderabad Jubilee, India",
+  "population": 1354857,
+  "mobileUsers": 1018852,
+  "internetUsers": 764139,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹10.67L per annum",
+  "activeMobileDevices": 1598731,
+  "mobilePenetration": 75.2,
+  "internetPenetration": 56.4,
+  "maleCount": 696396,
+  "femaleCount": 658461,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mati",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mati",
+      "distance": 27.008820849229807
+    },
+    {
+      "city": "Rampurhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "rampurhat",
+      "distance": 37.23205339919688
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar",
+      "distance": 40.731462546534914
+    },
+    {
+      "city": "Phulbani",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "phulbani",
+      "distance": 44.01598272104521
+    },
+    {
+      "city": "Burdwan",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "burdwan",
+      "distance": 45.37794021311449
+    }
+  ],
+  "geohash": "tewud0k",
+  "geohashUrl": "https://geohash.softeng.co/tewud0k"
+}

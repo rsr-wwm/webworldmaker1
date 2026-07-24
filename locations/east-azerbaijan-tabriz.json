@@ -1,0 +1,81 @@
+{
+  "id": "east-azerbaijan-tabriz",
+  "city": "Tabriz",
+  "state": "East Azerbaijan",
+  "stateSlug": "east-azerbaijan",
+  "citySlug": "tabriz",
+  "country": "Iran",
+  "pincode": "51335",
+  "currency": "IRR",
+  "symbol": "﷼",
+  "compliance": "CRA Regulations",
+  "carriers": [
+    "MCI",
+    "Irancell",
+    "RighTel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+98",
+  "timezone": "Asia/Tehran",
+  "latitude": 31.9202,
+  "longitude": 53.0075,
+  "landmark": "Tabriz Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over MCI networks. Failovers route over Irancell, RighTel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Tabriz, Iran",
+  "population": 1009861,
+  "mobileUsers": 796780,
+  "internetUsers": 645301,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "﷼31,477 IRR per annum",
+  "activeMobileDevices": 1343115,
+  "mobilePenetration": 78.9,
+  "internetPenetration": 63.9,
+  "maleCount": 515029,
+  "femaleCount": 494832,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Mashhad",
+      "state": "Razavi Khorasan",
+      "stateSlug": "razavi-khorasan",
+      "citySlug": "mashhad",
+      "distance": 15.999327022359079
+    },
+    {
+      "city": "Tehran",
+      "state": "Tehran Province",
+      "stateSlug": "tehran-province",
+      "citySlug": "tehran",
+      "distance": 18.983075911502468
+    },
+    {
+      "city": "Isfahan",
+      "state": "Isfahan Province",
+      "stateSlug": "isfahan-province",
+      "citySlug": "isfahan",
+      "distance": 24.919077150997214
+    },
+    {
+      "city": "Kuwait City",
+      "state": "Capital Governorate",
+      "stateSlug": "capital-governorate",
+      "citySlug": "kuwait-city",
+      "distance": 558.2036298166929
+    },
+    {
+      "city": "Manama",
+      "state": "Capital Governorate",
+      "stateSlug": "capital-governorate",
+      "citySlug": "manama",
+      "distance": 703.6836453275716
+    }
+  ],
+  "geohash": "tjttw4y",
+  "geohashUrl": "https://geohash.softeng.co/tjttw4y"
+}

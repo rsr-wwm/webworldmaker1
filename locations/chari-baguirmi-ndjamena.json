@@ -1,0 +1,80 @@
+{
+  "id": "chari-baguirmi-ndjamena",
+  "city": "N'Djamena",
+  "state": "Chari-Baguirmi",
+  "stateSlug": "chari-baguirmi",
+  "citySlug": "ndjamena",
+  "country": "Chad",
+  "pincode": "00000",
+  "currency": "XAF",
+  "symbol": "FCFA",
+  "compliance": "ARCEP Rules",
+  "carriers": [
+    "Airtel",
+    "Moov"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+235",
+  "timezone": "Africa/Ndjamena",
+  "latitude": 15.139,
+  "longitude": 19.2,
+  "landmark": "N'Djamena Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over Airtel networks. Failovers route over Moov with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for N'Djamena, Chad",
+  "population": 3055664,
+  "mobileUsers": 2377306,
+  "internetUsers": 2010626,
+  "genderRatioText": "993 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "FCFA21,315 XAF per annum",
+  "activeMobileDevices": 3911249,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 65.8,
+  "maleCount": 1533943,
+  "femaleCount": 1521721,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bangui",
+      "state": "Bangui Commune",
+      "stateSlug": "bangui-commune",
+      "citySlug": "bangui",
+      "distance": 909.3195126051411
+    },
+    {
+      "city": "Tripoli",
+      "state": "Tripoli District",
+      "stateSlug": "tripoli-district",
+      "citySlug": "tripoli",
+      "distance": 1121.6755161080475
+    },
+    {
+      "city": "Khartoum",
+      "state": "Khartoum State",
+      "stateSlug": "khartoum-state",
+      "citySlug": "khartoum",
+      "distance": 1145.8951807980695
+    },
+    {
+      "city": "Port Sudan",
+      "state": "Red Sea State",
+      "stateSlug": "red-sea-state",
+      "citySlug": "port-sudan",
+      "distance": 1180.6713565458924
+    },
+    {
+      "city": "Niamey",
+      "state": "Niamey Capital District",
+      "stateSlug": "niamey-capital-district",
+      "citySlug": "niamey",
+      "distance": 1218.5986601391423
+    }
+  ],
+  "geohash": "s6twhgv",
+  "geohashUrl": "https://geohash.softeng.co/s6twhgv"
+}

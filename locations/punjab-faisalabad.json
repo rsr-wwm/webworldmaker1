@@ -1,0 +1,82 @@
+{
+  "id": "punjab-faisalabad",
+  "city": "Faisalabad",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "faisalabad",
+  "country": "Pakistan",
+  "pincode": "38000",
+  "currency": "PKR",
+  "symbol": "Rs.",
+  "compliance": "PTA Guidelines",
+  "carriers": [
+    "Jazz",
+    "Telenor",
+    "Zong",
+    "Ufone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+92",
+  "timezone": "Asia/Karachi",
+  "latitude": 30.1965,
+  "longitude": 69.8297,
+  "landmark": "Faisalabad Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Jazz networks. Failovers route over Telenor, Zong, Ufone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Faisalabad, Pakistan",
+  "population": 3837935,
+  "mobileUsers": 3043482,
+  "internetUsers": 2621309,
+  "genderRatioText": "989 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "Rs.19,118 PKR per annum",
+  "activeMobileDevices": 4682280,
+  "mobilePenetration": 79.3,
+  "internetPenetration": 68.3,
+  "maleCount": 1930481,
+  "femaleCount": 1907454,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi",
+      "distance": 17.727621215889418
+    },
+    {
+      "city": "Karnal",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "karnal",
+      "distance": 27.605468909096786
+    },
+    {
+      "city": "Nadiad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "nadiad",
+      "distance": 28.70940892283129
+    },
+    {
+      "city": "Arambagh",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "arambagh",
+      "distance": 34.068572606453294
+    },
+    {
+      "city": "Karachi",
+      "state": "Sindh",
+      "stateSlug": "sindh",
+      "citySlug": "karachi",
+      "distance": 37.005769079525436
+    }
+  ],
+  "geohash": "tt3ev10",
+  "geohashUrl": "https://geohash.softeng.co/tt3ev10"
+}

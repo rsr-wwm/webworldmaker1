@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-ratnagiri",
+  "city": "Ratnagiri",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "ratnagiri",
+  "country": "India",
+  "pincode": "415612",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.5576,
+  "longitude": 83.5335,
+  "landmark": "Ratnagiri Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ratnagiri, India",
+  "population": 8092092,
+  "mobileUsers": 6069069,
+  "internetUsers": 4960452,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹6.04L per annum",
+  "activeMobileDevices": 9548668,
+  "mobilePenetration": 75,
+  "internetPenetration": 61.3,
+  "maleCount": 4135059,
+  "femaleCount": 3957033,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Faizabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "faizabad",
+      "distance": 21.991152306250555
+    },
+    {
+      "city": "Senpura",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "senpura",
+      "distance": 38.382591081377385
+    },
+    {
+      "city": "Haldwani",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "haldwani",
+      "distance": 44.67321005343673
+    },
+    {
+      "city": "Faridabad",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "faridabad",
+      "distance": 58.16444541829815
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 88.93468716151494
+    }
+  ],
+  "geohash": "tcgkhcg",
+  "geohashUrl": "https://geohash.softeng.co/tcgkhcg"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "jammu-and-kashmir-kathua",
+  "city": "Kathua",
+  "state": "Jammu & Kashmir",
+  "stateSlug": "jammu-and-kashmir",
+  "citySlug": "kathua",
+  "country": "India",
+  "pincode": "184101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.2437,
+  "longitude": 79.5879,
+  "landmark": "Kathua Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kathua, India",
+  "population": 9359704,
+  "mobileUsers": 7206972,
+  "internetUsers": 5606462,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹9.82L per annum",
+  "activeMobileDevices": 9640495,
+  "mobilePenetration": 77,
+  "internetPenetration": 59.9,
+  "maleCount": 4792168,
+  "femaleCount": 4567536,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Revdi Bazaar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "revdi-bazaar",
+      "distance": 13.899099672540817
+    },
+    {
+      "city": "Sullia",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sullia",
+      "distance": 41.07410119545676
+    },
+    {
+      "city": "Doimukh",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "doimukh",
+      "distance": 67.09965304417406
+    },
+    {
+      "city": "Chenganacherry",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chenganacherry",
+      "distance": 73.75518994361215
+    },
+    {
+      "city": "Vizianagaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "vizianagaram",
+      "distance": 86.97769345360297
+    }
+  ],
+  "geohash": "tv0w75d",
+  "geohashUrl": "https://geohash.softeng.co/tv0w75d"
+}

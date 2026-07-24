@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-dindigul",
+  "city": "Dindigul",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "dindigul",
+  "country": "India",
+  "pincode": "624001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.7375,
+  "longitude": 79.1372,
+  "landmark": "Dindigul Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dindigul, India",
+  "population": 996390,
+  "mobileUsers": 741314,
+  "internetUsers": 565949,
+  "genderRatioText": "929 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹7.24L per annum",
+  "activeMobileDevices": 1155812,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 56.8,
+  "maleCount": 516130,
+  "femaleCount": 480260,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ballia",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ballia",
+      "distance": 32.220241855631144
+    },
+    {
+      "city": "Assam rifles",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "assam-rifles",
+      "distance": 92.34630497555511
+    },
+    {
+      "city": "Maidjiphema",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "maidjiphema",
+      "distance": 94.02614767416155
+    },
+    {
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "vellore",
+      "distance": 106.60817735913835
+    },
+    {
+      "city": "Azamgarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "azamgarh",
+      "distance": 132.37929946728738
+    }
+  ],
+  "geohash": "tu032g1",
+  "geohashUrl": "https://geohash.softeng.co/tu032g1"
+}

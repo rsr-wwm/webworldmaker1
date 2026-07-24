@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-chongtai",
+  "city": "Chongtai",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "chongtai",
+  "country": "India",
+  "pincode": "796770",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.7045,
+  "longitude": 72.8979,
+  "landmark": "Chongtai Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chongtai, India",
+  "population": 4527115,
+  "mobileUsers": 3427026,
+  "internetUsers": 2476331,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹10.52L per annum",
+  "activeMobileDevices": 4844013,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 54.7,
+  "maleCount": 2335991,
+  "femaleCount": 2191124,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Balaghat",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "balaghat",
+      "distance": 4.457063778759638
+    },
+    {
+      "city": "Chittorgarh",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "chittorgarh",
+      "distance": 53.13935248268287
+    },
+    {
+      "city": "Nilakottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "nilakottai",
+      "distance": 53.33633328863062
+    },
+    {
+      "city": "Udhampur",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "udhampur",
+      "distance": 88.22925248986083
+    },
+    {
+      "city": "Vijay nagar",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "vijay-nagar",
+      "distance": 116.99479775035763
+    }
+  ],
+  "geohash": "ts5c4v4",
+  "geohashUrl": "https://geohash.softeng.co/ts5c4v4"
+}

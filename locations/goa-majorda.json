@@ -1,0 +1,82 @@
+{
+  "id": "goa-majorda",
+  "city": "Majorda",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "majorda",
+  "country": "India",
+  "pincode": "403723",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.4774,
+  "longitude": 73.0355,
+  "landmark": "Majorda Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Majorda, India",
+  "population": 6295433,
+  "mobileUsers": 4860074,
+  "internetUsers": 3588396,
+  "genderRatioText": "935 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹8.10L per annum",
+  "activeMobileDevices": 7428610,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 57,
+  "maleCount": 3254739,
+  "femaleCount": 3040694,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Cuddalore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "cuddalore",
+      "distance": 30.761664888958435
+    },
+    {
+      "city": "Deeg",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "deeg",
+      "distance": 39.51782433324516
+    },
+    {
+      "city": "Sankarankoil",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sankarankoil",
+      "distance": 43.96164333025558
+    },
+    {
+      "city": "Kenndrapara",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "kenndrapara",
+      "distance": 64.54533894754894
+    },
+    {
+      "city": "Chumukidima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chumukidima",
+      "distance": 90.64551471039736
+    }
+  ],
+  "geohash": "t9ggtgq",
+  "geohashUrl": "https://geohash.softeng.co/t9ggtgq"
+}

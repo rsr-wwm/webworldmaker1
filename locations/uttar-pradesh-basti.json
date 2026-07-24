@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-basti",
+  "city": "Basti",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "basti",
+  "country": "India",
+  "pincode": "272001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.1738,
+  "longitude": 80.8821,
+  "landmark": "Basti Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Basti, India",
+  "population": 825369,
+  "mobileUsers": 624804,
+  "internetUsers": 456429,
+  "genderRatioText": "914 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹8.76L per annum",
+  "activeMobileDevices": 932666,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 55.3,
+  "maleCount": 430843,
+  "femaleCount": 394526,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sagar Cantt.",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sagar-cantt",
+      "distance": 25.09754587891068
+    },
+    {
+      "city": "Rongra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "rongra",
+      "distance": 52.491294314411384
+    },
+    {
+      "city": "Demgiri",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "demgiri",
+      "distance": 64.07986377782169
+    },
+    {
+      "city": "Auraiya",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "auraiya",
+      "distance": 68.88979089910454
+    },
+    {
+      "city": "Panagi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "panagi",
+      "distance": 75.44112104409788
+    }
+  ],
+  "geohash": "tg198w2",
+  "geohashUrl": "https://geohash.softeng.co/tg198w2"
+}

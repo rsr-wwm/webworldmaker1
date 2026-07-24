@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-thane",
+  "city": "Thane",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "thane",
+  "country": "India",
+  "pincode": "400601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.7732,
+  "longitude": 68.7946,
+  "landmark": "Thane GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Thane, India",
+  "population": 8583115,
+  "mobileUsers": 6677663,
+  "internetUsers": 5106953,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹8.52L per annum",
+  "activeMobileDevices": 9269764,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 59.5,
+  "maleCount": 4368806,
+  "femaleCount": 4214309,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Srirangapatna",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "srirangapatna",
+      "distance": 8.468926244511241
+    },
+    {
+      "city": "Melakaveri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "melakaveri",
+      "distance": 29.867072161440095
+    },
+    {
+      "city": "Karunagapally",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "karunagapally",
+      "distance": 49.65803602407198
+    },
+    {
+      "city": "Kovvur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kovvur",
+      "distance": 59.687171463099425
+    },
+    {
+      "city": "Paratwada",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "paratwada",
+      "distance": 68.56179118032499
+    }
+  ],
+  "geohash": "te0vj7w",
+  "geohashUrl": "https://geohash.softeng.co/te0vj7w"
+}

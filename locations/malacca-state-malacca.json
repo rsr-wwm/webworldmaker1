@@ -1,0 +1,81 @@
+{
+  "id": "malacca-state-malacca",
+  "city": "Malacca",
+  "state": "Malacca State",
+  "stateSlug": "malacca-state",
+  "citySlug": "malacca",
+  "country": "Malaysia",
+  "pincode": "75000",
+  "currency": "MYR",
+  "symbol": "RM",
+  "compliance": "MCMC Guidelines",
+  "carriers": [
+    "Maxis",
+    "CelcomDigi",
+    "U Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+60",
+  "timezone": "Asia/Kuala_Lumpur",
+  "latitude": 2.6147,
+  "longitude": 112.5878,
+  "landmark": "Malacca District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Maxis networks. Failovers route over CelcomDigi, U Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Malacca, Malaysia",
+  "population": 4367733,
+  "mobileUsers": 3516025,
+  "internetUsers": 2965690,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "RM38,806 MYR per annum",
+  "activeMobileDevices": 5896439,
+  "mobilePenetration": 80.5,
+  "internetPenetration": 67.9,
+  "maleCount": 2240647,
+  "femaleCount": 2127086,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Penang",
+      "state": "Penang State",
+      "stateSlug": "penang-state",
+      "citySlug": "penang",
+      "distance": 24.66149940694389
+    },
+    {
+      "city": "Johor Bahru",
+      "state": "Johor State",
+      "stateSlug": "johor-state",
+      "citySlug": "johor-bahru",
+      "distance": 33.54845501657162
+    },
+    {
+      "city": "Ipoh",
+      "state": "Perak",
+      "stateSlug": "perak",
+      "citySlug": "ipoh",
+      "distance": 33.557664354223476
+    },
+    {
+      "city": "Kuala Lumpur",
+      "state": "Federal Territory",
+      "stateSlug": "federal-territory",
+      "citySlug": "kuala-lumpur",
+      "distance": 37.36944737352214
+    },
+    {
+      "city": "Shah Alam",
+      "state": "Selangor",
+      "stateSlug": "selangor",
+      "citySlug": "shah-alam",
+      "distance": 40.4783712989545
+    }
+  ],
+  "geohash": "w82ncgz",
+  "geohashUrl": "https://geohash.softeng.co/w82ncgz"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-lungsein",
+  "city": "Lungsein",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "lungsein",
+  "country": "India",
+  "pincode": "796730",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.6882,
+  "longitude": 77.2135,
+  "landmark": "Lungsein Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lungsein, India",
+  "population": 7092578,
+  "mobileUsers": 5312340,
+  "internetUsers": 4227176,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹10.04L per annum",
+  "activeMobileDevices": 7659984,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 59.6,
+  "maleCount": 3624307,
+  "femaleCount": 3468271,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Madhubani",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "madhubani",
+      "distance": 24.20054302222109
+    },
+    {
+      "city": "Alibag",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "alibag",
+      "distance": 38.30043737531759
+    },
+    {
+      "city": "Burdwan",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "burdwan",
+      "distance": 45.24019825347048
+    },
+    {
+      "city": "Rampurhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "rampurhat",
+      "distance": 81.91416135307198
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar",
+      "distance": 83.87162562581923
+    }
+  ],
+  "geohash": "tewbj01",
+  "geohashUrl": "https://geohash.softeng.co/tewbj01"
+}

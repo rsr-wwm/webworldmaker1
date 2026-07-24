@@ -1,0 +1,80 @@
+{
+  "id": "francisco-morazan-department-tegucigalpa",
+  "city": "Tegucigalpa",
+  "state": "Francisco Morazan Department",
+  "stateSlug": "francisco-morazan-department",
+  "citySlug": "tegucigalpa",
+  "country": "Honduras",
+  "pincode": "11101",
+  "currency": "HNL",
+  "symbol": "L",
+  "compliance": "CONATEL Guidelines",
+  "carriers": [
+    "Tigo",
+    "Claro"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+504",
+  "timezone": "America/Tegucigalpa",
+  "latitude": 14.8867,
+  "longitude": -86.4475,
+  "landmark": "Tegucigalpa Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Tigo networks. Failovers route over Claro with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Tegucigalpa, Honduras",
+  "population": 1019253,
+  "mobileUsers": 823556,
+  "internetUsers": 683918,
+  "genderRatioText": "975 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "L36,254 HNL per annum",
+  "activeMobileDevices": 1263873,
+  "mobilePenetration": 80.8,
+  "internetPenetration": 67.1,
+  "maleCount": 515742,
+  "femaleCount": 503511,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Managua",
+      "state": "Managua Department",
+      "stateSlug": "managua-department",
+      "citySlug": "managua",
+      "distance": 275.01247035086215
+    },
+    {
+      "city": "San Salvador",
+      "state": "San Salvador Department",
+      "stateSlug": "san-salvador-department",
+      "citySlug": "san-salvador",
+      "distance": 313.3774220690229
+    },
+    {
+      "city": "Belmopan",
+      "state": "Cayo District",
+      "stateSlug": "cayo-district",
+      "citySlug": "belmopan",
+      "distance": 348.4457420087389
+    },
+    {
+      "city": "Guatemala City",
+      "state": "Guatemala Department",
+      "stateSlug": "guatemala-department",
+      "citySlug": "guatemala-city",
+      "distance": 431.9432974577406
+    },
+    {
+      "city": "San Jose",
+      "state": "San Jose Province",
+      "stateSlug": "san-jose-province",
+      "citySlug": "san-jose",
+      "distance": 614.7423079192981
+    }
+  ],
+  "geohash": "d4ds8y4",
+  "geohashUrl": "https://geohash.softeng.co/d4ds8y4"
+}

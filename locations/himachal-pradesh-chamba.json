@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-chamba",
+  "city": "Chamba",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "chamba",
+  "country": "India",
+  "pincode": "176310",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.5692,
+  "longitude": 80.7664,
+  "landmark": "Chamba Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chamba, India",
+  "population": 9626896,
+  "mobileUsers": 7066141,
+  "internetUsers": 5516211,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹6.35L per annum",
+  "activeMobileDevices": 10878392,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 57.3,
+  "maleCount": 4919344,
+  "femaleCount": 4707552,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Upling",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "upling",
+      "distance": 14.802095404071977
+    },
+    {
+      "city": "Raisen",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raisen",
+      "distance": 42.551820673332585
+    },
+    {
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "salem",
+      "distance": 52.266838938756095
+    },
+    {
+      "city": "Kandi",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kandi",
+      "distance": 54.415328891458906
+    },
+    {
+      "city": "Navsari",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "navsari",
+      "distance": 67.33334179969626
+    }
+  ],
+  "geohash": "tuckvfu",
+  "geohashUrl": "https://geohash.softeng.co/tuckvfu"
+}

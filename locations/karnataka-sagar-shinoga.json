@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-sagar-shinoga",
+  "city": "Sagar (Shinoga)",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "sagar-shinoga",
+  "country": "India",
+  "pincode": "577401",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.4076,
+  "longitude": 80.1379,
+  "landmark": "Sagar (Shinoga) District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sagar (Shinoga), India",
+  "population": 8222857,
+  "mobileUsers": 6109582,
+  "internetUsers": 4818594,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹7.23L per annum",
+  "activeMobileDevices": 8633999,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 58.6,
+  "maleCount": 4308777,
+  "femaleCount": 3914080,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Paicharthal",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "paicharthal",
+      "distance": 18.22606709287794
+    },
+    {
+      "city": "Kadamtala",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kadamtala",
+      "distance": 45.00310536778406
+    },
+    {
+      "city": "Kuli bazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kuli-bazar",
+      "distance": 69.35735205876576
+    },
+    {
+      "city": "Bhadravathi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bhadravathi",
+      "distance": 101.49108880056023
+    },
+    {
+      "city": "Drishnapur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "drishnapur",
+      "distance": 104.69209654181638
+    }
+  ],
+  "geohash": "tf8zxsf",
+  "geohashUrl": "https://geohash.softeng.co/tf8zxsf"
+}

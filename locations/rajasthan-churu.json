@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-churu",
+  "city": "Churu",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "churu",
+  "country": "India",
+  "pincode": "331001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.0944,
+  "longitude": 69.4834,
+  "landmark": "Churu Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Churu, India",
+  "population": 8999106,
+  "mobileUsers": 6488355,
+  "internetUsers": 5075495,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹6.63L per annum",
+  "activeMobileDevices": 9989007,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 56.4,
+  "maleCount": 4643539,
+  "femaleCount": 4355567,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thyagaraynagar",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thyagaraynagar",
+      "distance": 10.373154372902635
+    },
+    {
+      "city": "Mettupalayam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mettupalayam",
+      "distance": 33.6036550848638
+    },
+    {
+      "city": "Bada pani",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bada-pani",
+      "distance": 47.17547455442701
+    },
+    {
+      "city": "Simra",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "simra",
+      "distance": 82.27817564631589
+    },
+    {
+      "city": "Mandla",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "mandla",
+      "distance": 87.23623967919221
+    }
+  ],
+  "geohash": "td9mv5u",
+  "geohashUrl": "https://geohash.softeng.co/td9mv5u"
+}

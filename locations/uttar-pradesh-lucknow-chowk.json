@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-lucknow-chowk",
+  "city": "Lucknow Chowk",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "lucknow-chowk",
+  "country": "India",
+  "pincode": "226003",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.5346,
+  "longitude": 74.6568,
+  "landmark": "Lucknow Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lucknow Chowk, India",
+  "population": 135335,
+  "mobileUsers": 102177,
+  "internetUsers": 79982,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹8.67L per annum",
+  "activeMobileDevices": 161048,
+  "mobilePenetration": 75.5,
+  "internetPenetration": 59.1,
+  "maleCount": 69698,
+  "femaleCount": 65637,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dirang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "dirang",
+      "distance": 23.078585830560485
+    },
+    {
+      "city": "Mandya",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "mandya",
+      "distance": 92.23946303322445
+    },
+    {
+      "city": "Mandi pathar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mandi-pathar",
+      "distance": 93.97629327487088
+    },
+    {
+      "city": "Cherrapunji",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "cherrapunji",
+      "distance": 103.93366961561335
+    },
+    {
+      "city": "Shimla",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "shimla",
+      "distance": 125.88776368528869
+    }
+  ],
+  "geohash": "temp4u5",
+  "geohashUrl": "https://geohash.softeng.co/temp4u5"
+}

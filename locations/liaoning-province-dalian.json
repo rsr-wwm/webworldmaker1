@@ -1,0 +1,81 @@
+{
+  "id": "liaoning-province-dalian",
+  "city": "Dalian",
+  "state": "Liaoning Province",
+  "stateSlug": "liaoning-province",
+  "citySlug": "dalian",
+  "country": "China",
+  "pincode": "116000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.1596,
+  "longitude": 104.8818,
+  "landmark": "Dalian Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Dalian, China",
+  "population": 6003835,
+  "mobileUsers": 5679627,
+  "internetUsers": 4310753,
+  "genderRatioText": "987 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "¥30,014 CNY per annum",
+  "activeMobileDevices": 6063873,
+  "mobilePenetration": 94.6,
+  "internetPenetration": 71.8,
+  "maleCount": 3019929,
+  "femaleCount": 2983906,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Lanzhou",
+      "state": "Gansu Province",
+      "stateSlug": "gansu-province",
+      "citySlug": "lanzhou",
+      "distance": 4.213592136822653
+    },
+    {
+      "city": "Beijing",
+      "state": "Beijing Municipality",
+      "stateSlug": "beijing-municipality",
+      "citySlug": "beijing",
+      "distance": 5.701689797953766
+    },
+    {
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan",
+      "distance": 6.5042556303363295
+    },
+    {
+      "city": "Kunming",
+      "state": "Yunnan Province",
+      "stateSlug": "yunnan-province",
+      "citySlug": "kunming",
+      "distance": 7.977627608801226
+    },
+    {
+      "city": "Shenyang",
+      "state": "Liaoning Province",
+      "stateSlug": "liaoning-province",
+      "citySlug": "shenyang",
+      "distance": 7.985663059510409
+    }
+  ],
+  "geohash": "wq6848s",
+  "geohashUrl": "https://geohash.softeng.co/wq6848s"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kanjeri",
+  "city": "Kanjeri",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kanjeri",
+  "country": "India",
+  "pincode": "676121",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.3909,
+  "longitude": 81.3758,
+  "landmark": "Kanjeri Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kanjeri, India",
+  "population": 689109,
+  "mobileUsers": 510629,
+  "internetUsers": 418978,
+  "genderRatioText": "907 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹11.67L per annum",
+  "activeMobileDevices": 771802,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 60.8,
+  "maleCount": 361093,
+  "femaleCount": 328016,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nongstoin",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nongstoin",
+      "distance": 35.9627273443459
+    },
+    {
+      "city": "Gangtok G.P.O",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "gangtok-gpo",
+      "distance": 39.27716758591401
+    },
+    {
+      "city": "Navsari",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "navsari",
+      "distance": 42.746267908245116
+    },
+    {
+      "city": "Raisen",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raisen",
+      "distance": 95.3462085314085
+    },
+    {
+      "city": "Chamba",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "chamba",
+      "distance": 109.22068977979715
+    }
+  ],
+  "geohash": "tv1ceb2",
+  "geohashUrl": "https://geohash.softeng.co/tv1ceb2"
+}

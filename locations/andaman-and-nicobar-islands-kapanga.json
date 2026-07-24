@@ -1,0 +1,82 @@
+{
+  "id": "andaman-and-nicobar-islands-kapanga",
+  "city": "Kapanga",
+  "state": "Andaman & Nicobar Islands",
+  "stateSlug": "andaman-and-nicobar-islands",
+  "citySlug": "kapanga",
+  "country": "India",
+  "pincode": "744309",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.7343,
+  "longitude": 73.7839,
+  "landmark": "Kapanga Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kapanga, India",
+  "population": 4715285,
+  "mobileUsers": 3404435,
+  "internetUsers": 2593406,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹6.89L per annum",
+  "activeMobileDevices": 4951049,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 55,
+  "maleCount": 2414226,
+  "femaleCount": 2301059,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Beawar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "beawar",
+      "distance": 29.70668269925443
+    },
+    {
+      "city": "Masanapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "masanapalle",
+      "distance": 39.05468610057306
+    },
+    {
+      "city": "Kumbakonam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kumbakonam",
+      "distance": 39.824014547564424
+    },
+    {
+      "city": "Nungba",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "nungba",
+      "distance": 44.46094438398304
+    },
+    {
+      "city": "Virudhunagar",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "virudhunagar",
+      "distance": 71.25649753821388
+    }
+  ],
+  "geohash": "tehkyur",
+  "geohashUrl": "https://geohash.softeng.co/tehkyur"
+}

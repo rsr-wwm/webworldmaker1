@@ -1,0 +1,82 @@
+{
+  "id": "kerala-palakkad",
+  "city": "Palakkad",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "palakkad",
+  "country": "India",
+  "pincode": "678001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.0683,
+  "longitude": 69.8796,
+  "landmark": "Palakkad Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Palakkad, India",
+  "population": 7859367,
+  "mobileUsers": 6004556,
+  "internetUsers": 4613448,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.77L per annum",
+  "activeMobileDevices": 9116865,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 58.7,
+  "maleCount": 4008277,
+  "femaleCount": 3851090,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Karur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "karur",
+      "distance": 63.631005616663614
+    },
+    {
+      "city": "Siddipet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "siddipet",
+      "distance": 67.2191559184166
+    },
+    {
+      "city": "Raibag",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "raibag",
+      "distance": 75.27301327591226
+    },
+    {
+      "city": "Medak",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "medak",
+      "distance": 86.5439727303231
+    },
+    {
+      "city": "Zahirabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "zahirabad",
+      "distance": 89.9227193560359
+    }
+  ],
+  "geohash": "tdceqjh",
+  "geohashUrl": "https://geohash.softeng.co/tdceqjh"
+}

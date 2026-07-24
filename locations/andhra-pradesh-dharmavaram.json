@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-dharmavaram",
+  "city": "Dharmavaram",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "dharmavaram",
+  "country": "India",
+  "pincode": "516671",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.8693,
+  "longitude": 69.0985,
+  "landmark": "Dharmavaram Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dharmavaram, India",
+  "population": 3126313,
+  "mobileUsers": 2316597,
+  "internetUsers": 1928935,
+  "genderRatioText": "949 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹9.57L per annum",
+  "activeMobileDevices": 3626523,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 61.7,
+  "maleCount": 1603799,
+  "femaleCount": 1522514,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tisk",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "tisk",
+      "distance": 13.872989866533203
+    },
+    {
+      "city": "Nagpur City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur-city",
+      "distance": 25.46531499880658
+    },
+    {
+      "city": "Chijami",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chijami",
+      "distance": 35.02731944720262
+    },
+    {
+      "city": "Nongpoh",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nongpoh",
+      "distance": 53.54477596137673
+    },
+    {
+      "city": "Kathihar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "kathihar",
+      "distance": 87.13583386583723
+    }
+  ],
+  "geohash": "ts3jkr7",
+  "geohashUrl": "https://geohash.softeng.co/ts3jkr7"
+}

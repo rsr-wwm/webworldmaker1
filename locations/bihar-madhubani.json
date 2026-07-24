@@ -1,0 +1,82 @@
+{
+  "id": "bihar-madhubani",
+  "city": "Madhubani",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "madhubani",
+  "country": "India",
+  "pincode": "847211",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.5894,
+  "longitude": 77.4194,
+  "landmark": "Madhubani Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Madhubani, India",
+  "population": 6953883,
+  "mobileUsers": 5152827,
+  "internetUsers": 4074975,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹10.50L per annum",
+  "activeMobileDevices": 7162499,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 58.6,
+  "maleCount": 3616019,
+  "femaleCount": 3337864,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lungsein",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lungsein",
+      "distance": 24.20054302222109
+    },
+    {
+      "city": "Alibag",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "alibag",
+      "distance": 39.19707070050525
+    },
+    {
+      "city": "Burdwan",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "burdwan",
+      "distance": 64.8337708995127
+    },
+    {
+      "city": "Kolhapur City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kolhapur-city",
+      "distance": 96.90792275113091
+    },
+    {
+      "city": "Rampurhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "rampurhat",
+      "distance": 103.60894400044992
+    }
+  ],
+  "geohash": "terp3wp",
+  "geohashUrl": "https://geohash.softeng.co/terp3wp"
+}

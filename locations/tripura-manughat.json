@@ -1,0 +1,82 @@
+{
+  "id": "tripura-manughat",
+  "city": "Manughat",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "manughat",
+  "country": "India",
+  "pincode": "799275",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.2803,
+  "longitude": 84.1905,
+  "landmark": "Manughat Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Manughat, India",
+  "population": 9472465,
+  "mobileUsers": 7341160,
+  "internetUsers": 5266690,
+  "genderRatioText": "905 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹7.98L per annum",
+  "activeMobileDevices": 11082784,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 55.6,
+  "maleCount": 4973044,
+  "femaleCount": 4499421,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ramachandrapuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "ramachandrapuram",
+      "distance": 40.61290767824057
+    },
+    {
+      "city": "Bakultala",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "bakultala",
+      "distance": 41.69817151317123
+    },
+    {
+      "city": "Tinsukia",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tinsukia",
+      "distance": 63.90439293049299
+    },
+    {
+      "city": "Ramdurg",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "ramdurg",
+      "distance": 67.70276020104919
+    },
+    {
+      "city": "Kumar ghat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kumar-ghat",
+      "distance": 77.00967227764609
+    }
+  ],
+  "geohash": "tggc5cc",
+  "geohashUrl": "https://geohash.softeng.co/tggc5cc"
+}

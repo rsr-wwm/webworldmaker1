@@ -1,0 +1,81 @@
+{
+  "id": "north-kivu-goma",
+  "city": "Goma",
+  "state": "North Kivu",
+  "stateSlug": "north-kivu",
+  "citySlug": "goma",
+  "country": "Democratic Republic of the Congo",
+  "pincode": "00000",
+  "currency": "CDF",
+  "symbol": "FC",
+  "compliance": "ARPTC Guidelines",
+  "carriers": [
+    "Vodacom",
+    "Orange",
+    "Airtel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+243",
+  "timezone": "Africa/Kinshasa",
+  "latitude": -0.1958,
+  "longitude": 24.8006,
+  "landmark": "Goma State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over Orange, Airtel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Goma, Democratic Republic of the Congo",
+  "population": 4023216,
+  "mobileUsers": 3274897,
+  "internetUsers": 2494393,
+  "genderRatioText": "988 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "FC20,567 CDF per annum",
+  "activeMobileDevices": 5069252,
+  "mobilePenetration": 81.4,
+  "internetPenetration": 62,
+  "maleCount": 2023678,
+  "femaleCount": 1999538,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Lubumbashi",
+      "state": "Haut-Katanga",
+      "stateSlug": "haut-katanga",
+      "citySlug": "lubumbashi",
+      "distance": 23.633640132296847
+    },
+    {
+      "city": "Kinshasa",
+      "state": "Kinshasa Province",
+      "stateSlug": "kinshasa-province",
+      "citySlug": "kinshasa",
+      "distance": 36.659812811085686
+    },
+    {
+      "city": "Kigali",
+      "state": "Kigali Province",
+      "stateSlug": "kigali-province",
+      "citySlug": "kigali",
+      "distance": 594.0447906572817
+    },
+    {
+      "city": "Gitega",
+      "state": "Gitega Province",
+      "stateSlug": "gitega-province",
+      "citySlug": "gitega",
+      "distance": 673.0677496241082
+    },
+    {
+      "city": "Bujumbura",
+      "state": "Bujumbura Mairie",
+      "stateSlug": "bujumbura-mairie",
+      "citySlug": "bujumbura",
+      "distance": 692.8526636288238
+    }
+  ],
+  "geohash": "kxcwuk7",
+  "geohashUrl": "https://geohash.softeng.co/kxcwuk7"
+}

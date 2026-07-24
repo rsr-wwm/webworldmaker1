@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-hassan",
+  "city": "Hassan",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "hassan",
+  "country": "India",
+  "pincode": "573201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.8679,
+  "longitude": 87.3618,
+  "landmark": "Hassan GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hassan, India",
+  "population": 1008017,
+  "mobileUsers": 767100,
+  "internetUsers": 578601,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹8.86L per annum",
+  "activeMobileDevices": 1159219,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 57.4,
+  "maleCount": 527193,
+  "femaleCount": 480824,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "stateSlug": "telangana",
+      "citySlug": "hyderabad",
+      "distance": 27.61555369003401
+    },
+    {
+      "city": "Budaun",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "budaun",
+      "distance": 43.12412836759042
+    },
+    {
+      "city": "Indi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "indi",
+      "distance": 78.63852347356784
+    },
+    {
+      "city": "Sunamura",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "sunamura",
+      "distance": 79.58111518260591
+    },
+    {
+      "city": "Chaichima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chaichima",
+      "distance": 89.53591594410888
+    }
+  ],
+  "geohash": "tgw15by",
+  "geohashUrl": "https://geohash.softeng.co/tgw15by"
+}

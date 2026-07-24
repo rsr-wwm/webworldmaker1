@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-bodinayakanur",
+  "city": "Bodinayakanur",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "bodinayakanur",
+  "country": "India",
+  "pincode": "625513",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.9053,
+  "longitude": 68.8046,
+  "landmark": "Bodinayakanur Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bodinayakanur, India",
+  "population": 7905462,
+  "mobileUsers": 5857947,
+  "internetUsers": 4687938,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹6.17L per annum",
+  "activeMobileDevices": 8933172,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 59.3,
+  "maleCount": 4087124,
+  "femaleCount": 3818338,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nangthumai",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangthumai",
+      "distance": 24.93697750415842
+    },
+    {
+      "city": "Margo",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "margo",
+      "distance": 54.009075368438715
+    },
+    {
+      "city": "Asansol",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "asansol",
+      "distance": 56.11065998217268
+    },
+    {
+      "city": "Hubli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hubli",
+      "distance": 78.56442710557563
+    },
+    {
+      "city": "Shillong G.P.O",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "shillong-gpo",
+      "distance": 110.6042284767583
+    }
+  ],
+  "geohash": "tsbyv8j",
+  "geohashUrl": "https://geohash.softeng.co/tsbyv8j"
+}

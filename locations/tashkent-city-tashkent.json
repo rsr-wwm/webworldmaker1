@@ -1,0 +1,81 @@
+{
+  "id": "tashkent-city-tashkent",
+  "city": "Tashkent",
+  "state": "Tashkent City",
+  "stateSlug": "tashkent-city",
+  "citySlug": "tashkent",
+  "country": "Uzbekistan",
+  "pincode": "100000",
+  "currency": "UZS",
+  "symbol": "so'm",
+  "compliance": "MITC Rules",
+  "carriers": [
+    "Ucell",
+    "Beeline",
+    "UMS"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+998",
+  "timezone": "Asia/Samarkand",
+  "latitude": 41.16,
+  "longitude": 64.1598,
+  "landmark": "Tashkent Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Ucell networks. Failovers route over Beeline, UMS with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Tashkent, Uzbekistan",
+  "population": 1711461,
+  "mobileUsers": 1364034,
+  "internetUsers": 1083354,
+  "genderRatioText": "1,004 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "so'm40,656 UZS per annum",
+  "activeMobileDevices": 2139326,
+  "mobilePenetration": 79.7,
+  "internetPenetration": 63.3,
+  "maleCount": 854019,
+  "femaleCount": 857442,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Samarkand",
+      "state": "Samarkand Region",
+      "stateSlug": "samarkand-region",
+      "citySlug": "samarkand",
+      "distance": 13.17624693647512
+    },
+    {
+      "city": "Dushanbe",
+      "state": "Region of Republican Subordination",
+      "stateSlug": "region-of-republican-subordination",
+      "citySlug": "dushanbe",
+      "distance": 627.5680890230857
+    },
+    {
+      "city": "Shymkent",
+      "state": "Shymkent Region",
+      "stateSlug": "shymkent-region",
+      "citySlug": "shymkent",
+      "distance": 810.9521179199351
+    },
+    {
+      "city": "Astana",
+      "state": "Astana Region",
+      "stateSlug": "astana-region",
+      "citySlug": "astana",
+      "distance": 820.5733712030371
+    },
+    {
+      "city": "Almaty",
+      "state": "Almaty Region",
+      "stateSlug": "almaty-region",
+      "citySlug": "almaty",
+      "distance": 842.2155621782107
+    }
+  ],
+  "geohash": "trmd5uz",
+  "geohashUrl": "https://geohash.softeng.co/trmd5uz"
+}

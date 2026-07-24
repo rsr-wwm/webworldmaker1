@@ -1,0 +1,82 @@
+{
+  "id": "calcutta-amreli",
+  "city": "Amreli",
+  "state": "Calcutta",
+  "stateSlug": "calcutta",
+  "citySlug": "amreli",
+  "country": "India",
+  "pincode": "364601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.1591,
+  "longitude": 76.9881,
+  "landmark": "Amreli State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Amreli, India",
+  "population": 5082119,
+  "mobileUsers": 3831917,
+  "internetUsers": 2840904,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.98L per annum",
+  "activeMobileDevices": 5590330,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 55.9,
+  "maleCount": 2627456,
+  "femaleCount": 2454663,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Purnea",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "purnea",
+      "distance": 41.085736979313374
+    },
+    {
+      "city": "Kolar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kolar",
+      "distance": 57.9844984049547
+    },
+    {
+      "city": "Karwar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "karwar",
+      "distance": 65.09008276113839
+    },
+    {
+      "city": "Gumla",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gumla",
+      "distance": 66.50025078982964
+    },
+    {
+      "city": "Dhar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "dhar",
+      "distance": 72.27381598766571
+    }
+  ],
+  "geohash": "ttqexfm",
+  "geohashUrl": "https://geohash.softeng.co/ttqexfm"
+}

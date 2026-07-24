@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-union-christian-college",
+  "city": "Union Christian College",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "union-christian-college",
+  "country": "India",
+  "pincode": "793122",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.5645,
+  "longitude": 82.4818,
+  "landmark": "Union Christian College State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Union Christian College, India",
+  "population": 3061754,
+  "mobileUsers": 2284068,
+  "internetUsers": 1702335,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹6.58L per annum",
+  "activeMobileDevices": 3214841,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 55.6,
+  "maleCount": 1601297,
+  "femaleCount": 1460457,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Senpura",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "senpura",
+      "distance": 76.59376110679499
+    },
+    {
+      "city": "Nalgonda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nalgonda",
+      "distance": 110.95140471964568
+    },
+    {
+      "city": "Faizabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "faizabad",
+      "distance": 112.84271607783896
+    },
+    {
+      "city": "Hardoi",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "hardoi",
+      "distance": 113.01834608008444
+    },
+    {
+      "city": "Ratnagiri",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ratnagiri",
+      "distance": 114.96520417598788
+    }
+  ],
+  "geohash": "tcfshgj",
+  "geohashUrl": "https://geohash.softeng.co/tcfshgj"
+}

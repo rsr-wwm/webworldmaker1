@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-alipur",
+  "city": "Alipur",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "alipur",
+  "country": "India",
+  "pincode": "700027",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.8326,
+  "longitude": 68.7981,
+  "landmark": "Alipur Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Alipur, India",
+  "population": 7205464,
+  "mobileUsers": 5497769,
+  "internetUsers": 4107114,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹10.85L per annum",
+  "activeMobileDevices": 7781901,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 57,
+  "maleCount": 3718019,
+  "femaleCount": 3487445,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sri Rangam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sri-rangam",
+      "distance": 80.29915015241481
+    },
+    {
+      "city": "Balurghat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "balurghat",
+      "distance": 116.14568539513351
+    },
+    {
+      "city": "Tiruchirappalli",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchirappalli",
+      "distance": 117.44197219484445
+    },
+    {
+      "city": "Vikarabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "vikarabad",
+      "distance": 124.06629735859676
+    },
+    {
+      "city": "Midnapore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "midnapore",
+      "distance": 147.03505533146856
+    }
+  ],
+  "geohash": "ts0cvs9",
+  "geohashUrl": "https://geohash.softeng.co/ts0cvs9"
+}

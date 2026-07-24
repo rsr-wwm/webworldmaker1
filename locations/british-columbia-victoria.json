@@ -1,0 +1,81 @@
+{
+  "id": "british-columbia-victoria",
+  "city": "Victoria",
+  "state": "British Columbia",
+  "stateSlug": "british-columbia",
+  "citySlug": "victoria",
+  "country": "Canada",
+  "pincode": "V8W",
+  "currency": "CAD",
+  "symbol": "C$",
+  "compliance": "CRTC / CASL Guidelines",
+  "carriers": [
+    "Rogers",
+    "Bell",
+    "Telus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 416",
+  "timezone": "America/Toronto",
+  "latitude": 48.4283182,
+  "longitude": -123.364953,
+  "landmark": "Victoria State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Victoria, Canada",
+  "population": 4546769,
+  "mobileUsers": 4214854,
+  "internetUsers": 4246682,
+  "genderRatioText": "980 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "C$44,492 CAD per annum",
+  "activeMobileDevices": 5865332,
+  "mobilePenetration": 92.7,
+  "internetPenetration": 93.4,
+  "maleCount": 2296118,
+  "femaleCount": 2250651,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "vancouver",
+      "distance": 94.38019964134745
+    },
+    {
+      "city": "McAllen",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "mcallen",
+      "distance": 283.12985826408715
+    },
+    {
+      "city": "Kelowna",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "kelowna",
+      "distance": 324.74833972436073
+    },
+    {
+      "city": "Calgary",
+      "state": "Alberta",
+      "stateSlug": "alberta",
+      "citySlug": "calgary",
+      "distance": 728.7788548932356
+    },
+    {
+      "city": "Louisville",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "citySlug": "louisville",
+      "distance": 743.7787916083246
+    }
+  ],
+  "geohash": "c2878b0",
+  "geohashUrl": "https://geohash.softeng.co/c2878b0"
+}

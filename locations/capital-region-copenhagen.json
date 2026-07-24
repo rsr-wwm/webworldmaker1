@@ -1,0 +1,82 @@
+{
+  "id": "capital-region-copenhagen",
+  "city": "Copenhagen",
+  "state": "Capital Region",
+  "stateSlug": "capital-region",
+  "citySlug": "copenhagen",
+  "country": "Denmark",
+  "pincode": "1000",
+  "currency": "DKK",
+  "symbol": "kr.",
+  "compliance": "GDPR / SDFE",
+  "carriers": [
+    "TDC",
+    "Telenor",
+    "Telia",
+    "3"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+45",
+  "timezone": "Europe/Copenhagen",
+  "latitude": 55.9086,
+  "longitude": 9.9832,
+  "landmark": "Copenhagen Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over TDC networks. Failovers route over Telenor, Telia, 3 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Copenhagen, Denmark",
+  "population": 4554002,
+  "mobileUsers": 3620431,
+  "internetUsers": 2864467,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "kr.44,454 DKK per annum",
+  "activeMobileDevices": 5829122,
+  "mobilePenetration": 79.5,
+  "internetPenetration": 62.9,
+  "maleCount": 2327095,
+  "femaleCount": 2226907,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Aarhus",
+      "state": "Central Denmark Region",
+      "stateSlug": "central-denmark-region",
+      "citySlug": "aarhus",
+      "distance": 8.329647904188459
+    },
+    {
+      "city": "Odense",
+      "state": "Southern Denmark",
+      "stateSlug": "southern-denmark",
+      "citySlug": "odense",
+      "distance": 9.198595414217237
+    },
+    {
+      "city": "Aalborg",
+      "state": "North Denmark",
+      "stateSlug": "north-denmark",
+      "citySlug": "aalborg",
+      "distance": 22.04656318802344
+    },
+    {
+      "city": "Nuremberg",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "nuremberg",
+      "distance": 379.431793213033
+    },
+    {
+      "city": "Groningen",
+      "state": "Groningen Province",
+      "stateSlug": "groningen-province",
+      "citySlug": "groningen",
+      "distance": 451.23508116052824
+    }
+  ],
+  "geohash": "u1zn51v",
+  "geohashUrl": "https://geohash.softeng.co/u1zn51v"
+}

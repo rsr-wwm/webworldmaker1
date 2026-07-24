@@ -1,0 +1,82 @@
+{
+  "id": "sikkim-namchi",
+  "city": "Namchi",
+  "state": "Sikkim",
+  "stateSlug": "sikkim",
+  "citySlug": "namchi",
+  "country": "India",
+  "pincode": "737126",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.5719,
+  "longitude": 85.0804,
+  "landmark": "Namchi District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Namchi, India",
+  "population": 9661685,
+  "mobileUsers": 7352542,
+  "internetUsers": 5835657,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.17L per annum",
+  "activeMobileDevices": 11400788,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 60.4,
+  "maleCount": 5053061,
+  "femaleCount": 4608624,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bada bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bada-bazar",
+      "distance": 44.34271168365954
+    },
+    {
+      "city": "Valsad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "valsad",
+      "distance": 49.935306494628584
+    },
+    {
+      "city": "Saikot",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "saikot",
+      "distance": 65.47160536366705
+    },
+    {
+      "city": "Kayamkulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kayamkulam",
+      "distance": 92.28495613426925
+    },
+    {
+      "city": "Kothgudem Collieries",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kothgudem-collieries",
+      "distance": 110.35647504036253
+    }
+  ],
+  "geohash": "tfh9b49",
+  "geohashUrl": "https://geohash.softeng.co/tfh9b49"
+}

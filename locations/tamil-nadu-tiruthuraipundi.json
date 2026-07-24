@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tiruthuraipundi",
+  "city": "Tiruthuraipundi",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tiruthuraipundi",
+  "country": "India",
+  "pincode": "614713",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.7436,
+  "longitude": 81.1504,
+  "landmark": "Tiruthuraipundi GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tiruthuraipundi, India",
+  "population": 9407284,
+  "mobileUsers": 7271830,
+  "internetUsers": 5503261,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.30L per annum",
+  "activeMobileDevices": 10724303,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 58.5,
+  "maleCount": 4825937,
+  "femaleCount": 4581347,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ratlam",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "ratlam",
+      "distance": 11.139220890922253
+    },
+    {
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ernakulam",
+      "distance": 54.412311871915435
+    },
+    {
+      "city": "Tiruchengudo",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchengudo",
+      "distance": 76.53708952783244
+    },
+    {
+      "city": "Dibrugarh",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "dibrugarh",
+      "distance": 76.99026471648818
+    },
+    {
+      "city": "Bankura",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "bankura",
+      "distance": 98.70847447669418
+    }
+  ],
+  "geohash": "tf38qxg",
+  "geohashUrl": "https://geohash.softeng.co/tf38qxg"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tripura-bokshanagar",
+  "city": "Bokshanagar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "bokshanagar",
+  "country": "India",
+  "pincode": "799106",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.3298,
+  "longitude": 79.2249,
+  "landmark": "Bokshanagar GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bokshanagar, India",
+  "population": 7837881,
+  "mobileUsers": 5737328,
+  "internetUsers": 4702728,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹7.38L per annum",
+  "activeMobileDevices": 8700047,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 60,
+  "maleCount": 4060022,
+  "femaleCount": 3777859,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chinchbunder",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chinchbunder",
+      "distance": 24.169752844279913
+    },
+    {
+      "city": "Namakkal",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "namakkal",
+      "distance": 41.12702128787776
+    },
+    {
+      "city": "Sugumu",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "sugumu",
+      "distance": 43.13156013360037
+    },
+    {
+      "city": "Moga",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "moga",
+      "distance": 61.99113108455856
+    },
+    {
+      "city": "Leh",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "leh",
+      "distance": 65.06628827981704
+    }
+  ],
+  "geohash": "tg226bc",
+  "geohashUrl": "https://geohash.softeng.co/tg226bc"
+}

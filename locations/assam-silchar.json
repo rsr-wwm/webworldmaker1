@@ -1,0 +1,82 @@
+{
+  "id": "assam-silchar",
+  "city": "Silchar",
+  "state": "Assam",
+  "stateSlug": "assam",
+  "citySlug": "silchar",
+  "country": "India",
+  "pincode": "788001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.8714,
+  "longitude": 86.5156,
+  "landmark": "Silchar District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Silchar, India",
+  "population": 4779897,
+  "mobileUsers": 3713979,
+  "internetUsers": 2681522,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹11.97L per annum",
+  "activeMobileDevices": 4875494,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 56.1,
+  "maleCount": 2442527,
+  "femaleCount": 2337370,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Parkal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "parkal",
+      "distance": 75.77689685161751
+    },
+    {
+      "city": "Minicoy",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "minicoy",
+      "distance": 88.98146004274604
+    },
+    {
+      "city": "Dharmapuri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "dharmapuri",
+      "distance": 97.26007036732179
+    },
+    {
+      "city": "Mokokchung",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mokokchung",
+      "distance": 120.80166064589858
+    },
+    {
+      "city": "Changlang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "changlang",
+      "distance": 146.85026162630464
+    }
+  ],
+  "geohash": "tfvxbxq",
+  "geohashUrl": "https://geohash.softeng.co/tfvxbxq"
+}

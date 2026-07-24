@@ -1,0 +1,81 @@
+{
+  "id": "south-australia-adelaide",
+  "city": "Adelaide",
+  "state": "South Australia",
+  "stateSlug": "south-australia",
+  "citySlug": "adelaide",
+  "country": "Australia",
+  "pincode": "5000",
+  "currency": "AUD",
+  "symbol": "A$",
+  "compliance": "ACMA Rules",
+  "carriers": [
+    "Telstra",
+    "Optus",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+61 2",
+  "timezone": "Australia/Sydney",
+  "latitude": -34.9281805,
+  "longitude": 138.5999312,
+  "landmark": "Adelaide Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Telstra networks. Failovers route over Optus, Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Adelaide, Australia",
+  "population": 4916679,
+  "mobileUsers": 4779011,
+  "internetUsers": 4493844,
+  "genderRatioText": "973 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "A$30,367 AUD per annum",
+  "activeMobileDevices": 6440849,
+  "mobilePenetration": 97.2,
+  "internetPenetration": 91.4,
+  "maleCount": 2492756,
+  "femaleCount": 2423923,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Melbourne",
+      "state": "Victoria",
+      "stateSlug": "victoria",
+      "citySlug": "melbourne",
+      "distance": 653.6604832212761
+    },
+    {
+      "city": "Canberra",
+      "state": "Australian Capital Territory",
+      "stateSlug": "australian-capital-territory",
+      "citySlug": "canberra",
+      "distance": 958.2625810980637
+    },
+    {
+      "city": "Hobart",
+      "state": "Tasmania",
+      "stateSlug": "tasmania",
+      "citySlug": "hobart",
+      "distance": 1161.7085973726726
+    },
+    {
+      "city": "Sydney",
+      "state": "New South Wales",
+      "stateSlug": "new-south-wales",
+      "citySlug": "sydney",
+      "distance": 1162.1092798106592
+    },
+    {
+      "city": "Brisbane",
+      "state": "Queensland",
+      "stateSlug": "queensland",
+      "citySlug": "brisbane",
+      "distance": 1600.5395601776322
+    }
+  ],
+  "geohash": "r1f93ct",
+  "geohashUrl": "https://geohash.softeng.co/r1f93ct"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "goa-dicholi",
+  "city": "Dicholi",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "dicholi",
+  "country": "India",
+  "pincode": "403705",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.5542,
+  "longitude": 76.831,
+  "landmark": "Dicholi Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dicholi, India",
+  "population": 9182098,
+  "mobileUsers": 7088579,
+  "internetUsers": 5509258,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹8.81L per annum",
+  "activeMobileDevices": 9641202,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 60,
+  "maleCount": 4673688,
+  "femaleCount": 4508410,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chandigarh",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "chandigarh",
+      "distance": 13.392817633061954
+    },
+    {
+      "city": "Chittoor",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chittoor",
+      "distance": 125.84453660076001
+    },
+    {
+      "city": "Almora",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "almora",
+      "distance": 126.04278685659041
+    },
+    {
+      "city": "Rajaji Nagar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "rajaji-nagar",
+      "distance": 138.14947910196997
+    },
+    {
+      "city": "Hinoo",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "hinoo",
+      "distance": 141.1235506752503
+    }
+  ],
+  "geohash": "t9w8sm4",
+  "geohashUrl": "https://geohash.softeng.co/t9w8sm4"
+}

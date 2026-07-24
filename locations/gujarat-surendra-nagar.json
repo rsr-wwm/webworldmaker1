@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-surendra-nagar",
+  "city": "Surendra Nagar",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "surendra-nagar",
+  "country": "India",
+  "pincode": "363001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.0681,
+  "longitude": 79.1398,
+  "landmark": "Surendra Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Surendra Nagar, India",
+  "population": 144632,
+  "mobileUsers": 105436,
+  "internetUsers": 83308,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹3.83L per annum",
+  "activeMobileDevices": 153309,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 57.6,
+  "maleCount": 74052,
+  "femaleCount": 70580,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Eluru",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "eluru",
+      "distance": 35.840489013459845
+    },
+    {
+      "city": "Shastrinagar (Jaipur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shastrinagar-jaipur",
+      "distance": 73.56453761125914
+    },
+    {
+      "city": "Giribam",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "giribam",
+      "distance": 89.89663950187088
+    },
+    {
+      "city": "Sehore",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sehore",
+      "distance": 91.02858752997035
+    },
+    {
+      "city": "Kamalghat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kamalghat",
+      "distance": 94.9843012503559
+    }
+  ],
+  "geohash": "tg860v7",
+  "geohashUrl": "https://geohash.softeng.co/tg860v7"
+}

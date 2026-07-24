@@ -1,0 +1,82 @@
+{
+  "id": "bihar-monghyr",
+  "city": "Monghyr",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "monghyr",
+  "country": "India",
+  "pincode": "811201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.183,
+  "longitude": 84.5214,
+  "landmark": "Monghyr Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Monghyr, India",
+  "population": 7962869,
+  "mobileUsers": 5972151,
+  "internetUsers": 4554761,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.20L per annum",
+  "activeMobileDevices": 9316556,
+  "mobilePenetration": 75,
+  "internetPenetration": 57.2,
+  "maleCount": 4116803,
+  "femaleCount": 3846066,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kamareddy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kamareddy",
+      "distance": 18.34629742093344
+    },
+    {
+      "city": "Kota",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "kota",
+      "distance": 32.70160486788651
+    },
+    {
+      "city": "Rampur Bushahr",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "rampur-bushahr",
+      "distance": 46.31771198276347
+    },
+    {
+      "city": "Datia",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "datia",
+      "distance": 56.9444540458564
+    },
+    {
+      "city": "Shrikakulam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "shrikakulam",
+      "distance": 60.573777874528794
+    }
+  ],
+  "geohash": "tfuh564",
+  "geohashUrl": "https://geohash.softeng.co/tfuh564"
+}

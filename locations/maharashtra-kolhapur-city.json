@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-kolhapur-city",
+  "city": "Kolhapur City",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "kolhapur-city",
+  "country": "India",
+  "pincode": "416012",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.1059,
+  "longitude": 78.1879,
+  "landmark": "Kolhapur City District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kolhapur City, India",
+  "population": 6565685,
+  "mobileUsers": 4727293,
+  "internetUsers": 3624258,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹8.73L per annum",
+  "activeMobileDevices": 7484880,
+  "mobilePenetration": 72,
+  "internetPenetration": 55.2,
+  "maleCount": 3355065,
+  "femaleCount": 3210620,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shastrinagar (Jaipur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shastrinagar-jaipur",
+      "distance": 77.74290348054305
+    },
+    {
+      "city": "Madhubani",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "madhubani",
+      "distance": 96.90792275113091
+    },
+    {
+      "city": "Moga",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "moga",
+      "distance": 103.07746854152687
+    },
+    {
+      "city": "Sehore",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sehore",
+      "distance": 109.91521563400146
+    },
+    {
+      "city": "Eluru",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "eluru",
+      "distance": 114.11774627747539
+    }
+  ],
+  "geohash": "tersenn",
+  "geohashUrl": "https://geohash.softeng.co/tersenn"
+}

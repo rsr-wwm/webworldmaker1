@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-amaravati",
+  "city": "Amaravati",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "amaravati",
+  "country": "India",
+  "pincode": "444601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.0949,
+  "longitude": 84.3485,
+  "landmark": "Amaravati Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Amaravati, India",
+  "population": 5546371,
+  "mobileUsers": 4276252,
+  "internetUsers": 3006133,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.45L per annum",
+  "activeMobileDevices": 6433790,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 54.2,
+  "maleCount": 2867474,
+  "femaleCount": 2678897,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Harapanhalli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "harapanhalli",
+      "distance": 29.236430087926813
+    },
+    {
+      "city": "Pilibhit",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pilibhit",
+      "distance": 35.387907644306296
+    },
+    {
+      "city": "Warangal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "warangal",
+      "distance": 50.02067359422506
+    },
+    {
+      "city": "Malegaon town",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "malegaon-town",
+      "distance": 57.69385229772151
+    },
+    {
+      "city": "Lamsang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lamsang",
+      "distance": 69.14412759785205
+    }
+  ],
+  "geohash": "tfebpmu",
+  "geohashUrl": "https://geohash.softeng.co/tfebpmu"
+}

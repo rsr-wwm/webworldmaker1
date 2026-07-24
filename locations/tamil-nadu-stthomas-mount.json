@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-stthomas-mount",
+  "city": "St.Thomas Mount",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "stthomas-mount",
+  "country": "India",
+  "pincode": "600016",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.5182,
+  "longitude": 74.11,
+  "landmark": "St.Thomas Mount Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for St.Thomas Mount, India",
+  "population": 779989,
+  "mobileUsers": 567052,
+  "internetUsers": 448493,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.43L per annum",
+  "activeMobileDevices": 818988,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 57.5,
+  "maleCount": 397794,
+  "femaleCount": 382195,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ramkrishna Mission",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "ramkrishna-mission",
+      "distance": 38.193996361021966
+    },
+    {
+      "city": "Tezpur",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tezpur",
+      "distance": 103.02954255909476
+    },
+    {
+      "city": "Bhivani",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "bhivani",
+      "distance": 108.09699850331216
+    },
+    {
+      "city": "Vijay nagar",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "vijay-nagar",
+      "distance": 119.74918333713707
+    },
+    {
+      "city": "Moirang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "moirang",
+      "distance": 136.0550600441611
+    }
+  ],
+  "geohash": "tskeqrm",
+  "geohashUrl": "https://geohash.softeng.co/tskeqrm"
+}

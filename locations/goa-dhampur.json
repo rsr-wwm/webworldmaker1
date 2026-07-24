@@ -1,0 +1,82 @@
+{
+  "id": "goa-dhampur",
+  "city": "Dhampur",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "dhampur",
+  "country": "India",
+  "pincode": "403504",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.0088,
+  "longitude": 87.9624,
+  "landmark": "Dhampur Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dhampur, India",
+  "population": 5424167,
+  "mobileUsers": 3959641,
+  "internetUsers": 3227379,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹6.07L per annum",
+  "activeMobileDevices": 6075067,
+  "mobilePenetration": 73,
+  "internetPenetration": 59.5,
+  "maleCount": 2836839,
+  "femaleCount": 2587328,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nagpur G.P.O.",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur-gpo",
+      "distance": 71.061848866512
+    },
+    {
+      "city": "Kunjvan",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kunjvan",
+      "distance": 80.26425957866084
+    },
+    {
+      "city": "Basavanagudi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "basavanagudi",
+      "distance": 83.12184034426136
+    },
+    {
+      "city": "Avanigadda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "avanigadda",
+      "distance": 106.69350352228955
+    },
+    {
+      "city": "Fatehpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "fatehpur",
+      "distance": 111.17216039198998
+    }
+  ],
+  "geohash": "tfqd18h",
+  "geohashUrl": "https://geohash.softeng.co/tfqd18h"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kozhikode-civil-station",
+  "city": "Kozhikode Civil Station",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kozhikode-civil-station",
+  "country": "India",
+  "pincode": "673020",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.0147,
+  "longitude": 79.0719,
+  "landmark": "Kozhikode Civil Station Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kozhikode Civil Station, India",
+  "population": 1468043,
+  "mobileUsers": 1061395,
+  "internetUsers": 874953,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹6.04L per annum",
+  "activeMobileDevices": 1658888,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 59.6,
+  "maleCount": 761914,
+  "femaleCount": 706129,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kulokon",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kulokon",
+      "distance": 69.40065175135521
+    },
+    {
+      "city": "Sango",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "sango",
+      "distance": 75.14146770795911
+    },
+    {
+      "city": "Kalpett",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kalpett",
+      "distance": 78.21477772782053
+    },
+    {
+      "city": "Pauri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pauri",
+      "distance": 88.59085068312942
+    },
+    {
+      "city": "Deomali",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "deomali",
+      "distance": 89.09282176639319
+    }
+  ],
+  "geohash": "tcbnxm4",
+  "geohashUrl": "https://geohash.softeng.co/tcbnxm4"
+}

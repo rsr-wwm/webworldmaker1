@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-ranaghat",
+  "city": "Ranaghat",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "ranaghat",
+  "country": "India",
+  "pincode": "741201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.7331,
+  "longitude": 83.0625,
+  "landmark": "Ranaghat Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ranaghat, India",
+  "population": 2362899,
+  "mobileUsers": 1817069,
+  "internetUsers": 1389384,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹6.32L per annum",
+  "activeMobileDevices": 2811849,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 58.8,
+  "maleCount": 1205078,
+  "femaleCount": 1157821,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ukhrul",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "ukhrul",
+      "distance": 35.1549875120313
+    },
+    {
+      "city": "Samastipur",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "samastipur",
+      "distance": 61.50581099090453
+    },
+    {
+      "city": "Tinsukia",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tinsukia",
+      "distance": 74.15739085280177
+    },
+    {
+      "city": "Ramdurg",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "ramdurg",
+      "distance": 86.01479925516561
+    },
+    {
+      "city": "Hoshiarpur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "hoshiarpur",
+      "distance": 93.82739739514936
+    }
+  ],
+  "geohash": "tgejfnk",
+  "geohashUrl": "https://geohash.softeng.co/tgejfnk"
+}

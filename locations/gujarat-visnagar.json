@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-visnagar",
+  "city": "Visnagar",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "visnagar",
+  "country": "India",
+  "pincode": "384315",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.8356,
+  "longitude": 69.983,
+  "landmark": "Visnagar Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Visnagar, India",
+  "population": 5352014,
+  "mobileUsers": 4051474,
+  "internetUsers": 2943607,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.53L per annum",
+  "activeMobileDevices": 6101295,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 55,
+  "maleCount": 2745583,
+  "femaleCount": 2606431,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dharapuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "dharapuram",
+      "distance": 17.02294026986407
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad",
+      "distance": 72.56607263954686
+    },
+    {
+      "city": "Nadiad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "nadiad",
+      "distance": 74.7148531519366
+    },
+    {
+      "city": "Arambagh",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "arambagh",
+      "distance": 77.32019620497455
+    },
+    {
+      "city": "Karnal",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "karnal",
+      "distance": 77.97486065008998
+    }
+  ],
+  "geohash": "tt3z2t2",
+  "geohashUrl": "https://geohash.softeng.co/tt3z2t2"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-lucknow-gpo",
+  "city": "Lucknow GPO",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "lucknow-gpo",
+  "country": "India",
+  "pincode": "226001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "post_office",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.7252,
+  "longitude": 87.1339,
+  "landmark": "Lucknow District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lucknow GPO, India",
+  "population": 30923,
+  "mobileUsers": 22821,
+  "internetUsers": 18986,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹3.59L per annum",
+  "activeMobileDevices": 35870,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 61.4,
+  "maleCount": 15740,
+  "femaleCount": 15183,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Palel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "palel",
+      "distance": 21.727842079078645
+    },
+    {
+      "city": "Kundapura",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kundapura",
+      "distance": 30.423332565841864
+    },
+    {
+      "city": "Shalima",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shalima",
+      "distance": 50.172267479813726
+    },
+    {
+      "city": "Begusarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "begusarai",
+      "distance": 65.74726928405066
+    },
+    {
+      "city": "Bhavani",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "bhavani",
+      "distance": 69.60197084305027
+    }
+  ],
+  "geohash": "tumuwv0",
+  "geohashUrl": "https://geohash.softeng.co/tumuwv0"
+}

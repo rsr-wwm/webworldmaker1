@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-shimoga",
+  "city": "Shimoga",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "shimoga",
+  "country": "India",
+  "pincode": "577201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.9224,
+  "longitude": 71.7156,
+  "landmark": "Shimoga Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shimoga, India",
+  "population": 8221277,
+  "mobileUsers": 6149515,
+  "internetUsers": 4488817,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.25L per annum",
+  "activeMobileDevices": 9536681,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 54.6,
+  "maleCount": 4201073,
+  "femaleCount": 4020204,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nirjuli",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "nirjuli",
+      "distance": 34.571710376260484
+    },
+    {
+      "city": "Kalyan City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kalyan-city",
+      "distance": 44.50585192503301
+    },
+    {
+      "city": "Shamli",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "shamli",
+      "distance": 50.07628379725987
+    },
+    {
+      "city": "Chikhli",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "chikhli",
+      "distance": 68.6319370015633
+    },
+    {
+      "city": "Karaikudi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "karaikudi",
+      "distance": 82.59136528233186
+    }
+  ],
+  "geohash": "td6cxbm",
+  "geohashUrl": "https://geohash.softeng.co/td6cxbm"
+}

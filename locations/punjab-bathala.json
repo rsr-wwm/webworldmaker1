@@ -1,0 +1,82 @@
+{
+  "id": "punjab-bathala",
+  "city": "Bathala",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "bathala",
+  "country": "India",
+  "pincode": "151001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.6355,
+  "longitude": 88.6692,
+  "landmark": "Bathala Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bathala, India",
+  "population": 9834786,
+  "mobileUsers": 7484272,
+  "internetUsers": 5714010,
+  "genderRatioText": "924 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.06L per annum",
+  "activeMobileDevices": 11801743,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 58.1,
+  "maleCount": 5114089,
+  "femaleCount": 4720697,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Panaji G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "panaji-gpo",
+      "distance": 37.40942782881786
+    },
+    {
+      "city": "Udamalpet",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "udamalpet",
+      "distance": 42.33006607855569
+    },
+    {
+      "city": "Meeo",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "meeo",
+      "distance": 55.85144125393766
+    },
+    {
+      "city": "Patna G.P.O",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "patna-gpo",
+      "distance": 71.64916583612865
+    },
+    {
+      "city": "Dewas",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "dewas",
+      "distance": 81.91536951926304
+    }
+  ],
+  "geohash": "tux1cdy",
+  "geohashUrl": "https://geohash.softeng.co/tux1cdy"
+}

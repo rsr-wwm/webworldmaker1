@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-nashik",
+  "city": "Nashik",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "nashik",
+  "country": "India",
+  "pincode": "422001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.8697,
+  "longitude": 85.6448,
+  "landmark": "Nashik District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nashik, India",
+  "population": 8469665,
+  "mobileUsers": 6115098,
+  "internetUsers": 5225783,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹6.94L per annum",
+  "activeMobileDevices": 8723754,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 61.7,
+  "maleCount": 4311059,
+  "femaleCount": 4158606,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ottapalm",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ottapalm",
+      "distance": 27.86666558316437
+    },
+    {
+      "city": "Bathinda",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "bathinda",
+      "distance": 56.40866152458293
+    },
+    {
+      "city": "Chickballapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chickballapur",
+      "distance": 79.53440899028315
+    },
+    {
+      "city": "Firozabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "firozabad",
+      "distance": 87.02360027888457
+    },
+    {
+      "city": "Ramnagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ramnagar",
+      "distance": 91.96083115996042
+    }
+  ],
+  "geohash": "tvsvkcs",
+  "geohashUrl": "https://geohash.softeng.co/tvsvkcs"
+}

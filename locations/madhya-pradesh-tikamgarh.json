@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-tikamgarh",
+  "city": "Tikamgarh",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "tikamgarh",
+  "country": "India",
+  "pincode": "472001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.839,
+  "longitude": 72.4746,
+  "landmark": "Tikamgarh Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tikamgarh, India",
+  "population": 3122515,
+  "mobileUsers": 2260700,
+  "internetUsers": 1836038,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹7.67L per annum",
+  "activeMobileDevices": 3684567,
+  "mobilePenetration": 72.4,
+  "internetPenetration": 58.8,
+  "maleCount": 1636198,
+  "femaleCount": 1486317,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mayabandar",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "mayabandar",
+      "distance": 47.036429057400674
+    },
+    {
+      "city": "Dadar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "dadar",
+      "distance": 74.80064726364326
+    },
+    {
+      "city": "Bilimora",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bilimora",
+      "distance": 78.44034254552304
+    },
+    {
+      "city": "Bangalore (Bengaluru)",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bangalore-bengaluru",
+      "distance": 83.42674957015497
+    },
+    {
+      "city": "Bailhongal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bailhongal",
+      "distance": 89.23041983444668
+    }
+  ],
+  "geohash": "tdgxc1q",
+  "geohashUrl": "https://geohash.softeng.co/tdgxc1q"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-balat",
+  "city": "Balat",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "balat",
+  "country": "India",
+  "pincode": "793106",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.7098,
+  "longitude": 69.8162,
+  "landmark": "Balat Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Balat, India",
+  "population": 4090250,
+  "mobileUsers": 3067687,
+  "internetUsers": 2335532,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹7.42L per annum",
+  "activeMobileDevices": 4131152,
+  "mobilePenetration": 75,
+  "internetPenetration": 57.1,
+  "maleCount": 2106479,
+  "femaleCount": 1983771,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Madasa",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "madasa",
+      "distance": 42.646315242859316
+    },
+    {
+      "city": "Paratwada",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "paratwada",
+      "distance": 59.189493517621365
+    },
+    {
+      "city": "Kovvur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kovvur",
+      "distance": 69.93507474809292
+    },
+    {
+      "city": "Nizamabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nizamabad",
+      "distance": 88.87768485082096
+    },
+    {
+      "city": "Melakaveri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "melakaveri",
+      "distance": 99.23660958745928
+    }
+  ],
+  "geohash": "te1ssxy",
+  "geohashUrl": "https://geohash.softeng.co/te1ssxy"
+}

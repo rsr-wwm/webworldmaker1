@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-karwar",
+  "city": "Karwar",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "karwar",
+  "country": "India",
+  "pincode": "581301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.3325,
+  "longitude": 76.3409,
+  "landmark": "Karwar District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Karwar, India",
+  "population": 6042552,
+  "mobileUsers": 4495658,
+  "internetUsers": 3323403,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹6.17L per annum",
+  "activeMobileDevices": 6344679,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 55,
+  "maleCount": 3154212,
+  "femaleCount": 2888340,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dhar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "dhar",
+      "distance": 14.555143293596196
+    },
+    {
+      "city": "Tandur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tandur",
+      "distance": 19.46411055291553
+    },
+    {
+      "city": "Kaknad",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kaknad",
+      "distance": 20.18077345957005
+    },
+    {
+      "city": "Purnea",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "purnea",
+      "distance": 24.974518444047003
+    },
+    {
+      "city": "Gumla",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gumla",
+      "distance": 30.11849186575389
+    }
+  ],
+  "geohash": "ttqk91v",
+  "geohashUrl": "https://geohash.softeng.co/ttqk91v"
+}

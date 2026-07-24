@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-kovilpatti",
+  "city": "Kovilpatti",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "kovilpatti",
+  "country": "India",
+  "pincode": "628501",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.9205,
+  "longitude": 76.3847,
+  "landmark": "Kovilpatti Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kovilpatti, India",
+  "population": 8213117,
+  "mobileUsers": 6151624,
+  "internetUsers": 4623984,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.69L per annum",
+  "activeMobileDevices": 8870166,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 56.3,
+  "maleCount": 4287247,
+  "femaleCount": 3925870,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Abhaynagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "abhaynagar",
+      "distance": 60.83351874131515
+    },
+    {
+      "city": "Anantnag",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "anantnag",
+      "distance": 68.99021334661533
+    },
+    {
+      "city": "Mowpat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mowpat",
+      "distance": 89.52046647559789
+    },
+    {
+      "city": "Pudukottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "pudukottai",
+      "distance": 109.72638063398726
+    },
+    {
+      "city": "Shivpuri",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shivpuri",
+      "distance": 119.5690572276862
+    }
+  ],
+  "geohash": "tsq244t",
+  "geohashUrl": "https://geohash.softeng.co/tsq244t"
+}

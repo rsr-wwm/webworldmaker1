@@ -1,0 +1,81 @@
+{
+  "id": "luxembourg-canton-luxembourg-city",
+  "city": "Luxembourg City",
+  "state": "Luxembourg Canton",
+  "stateSlug": "luxembourg-canton",
+  "citySlug": "luxembourg-city",
+  "country": "Luxembourg",
+  "pincode": "1009",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ILR",
+  "carriers": [
+    "POST",
+    "Tango",
+    "Orange"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+352",
+  "timezone": "Europe/Luxembourg",
+  "latitude": 49.6626,
+  "longitude": 5.9796,
+  "landmark": "Luxembourg City Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over POST networks. Failovers route over Tango, Orange with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Luxembourg City, Luxembourg",
+  "population": 2047703,
+  "mobileUsers": 1605399,
+  "internetUsers": 1361722,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "€51,338 per annum",
+  "activeMobileDevices": 2846307,
+  "mobilePenetration": 78.4,
+  "internetPenetration": 66.5,
+  "maleCount": 1044329,
+  "femaleCount": 1003374,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Munich",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "munich",
+      "distance": 105.52969499070983
+    },
+    {
+      "city": "Cologne",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "cologne",
+      "distance": 156.81336417350505
+    },
+    {
+      "city": "Bremen",
+      "state": "Bremen State",
+      "stateSlug": "bremen-state",
+      "citySlug": "bremen",
+      "distance": 178.70456903113805
+    },
+    {
+      "city": "Antwerp",
+      "state": "Antwerp Province",
+      "stateSlug": "antwerp-province",
+      "citySlug": "antwerp",
+      "distance": 196.16908835176756
+    },
+    {
+      "city": "Brussels",
+      "state": "Brussels-Capital",
+      "stateSlug": "brussels-capital",
+      "citySlug": "brussels",
+      "distance": 202.6249747797405
+    }
+  ],
+  "geohash": "u0u680f",
+  "geohashUrl": "https://geohash.softeng.co/u0u680f"
+}

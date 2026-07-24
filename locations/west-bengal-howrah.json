@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-howrah",
+  "city": "Howrah",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "howrah",
+  "country": "India",
+  "pincode": "711101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.6171,
+  "longitude": 84.6135,
+  "landmark": "Howrah Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Howrah, India",
+  "population": 5437197,
+  "mobileUsers": 4202953,
+  "internetUsers": 3246006,
+  "genderRatioText": "943 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.85L per annum",
+  "activeMobileDevices": 6144032,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 59.7,
+  "maleCount": 2800156,
+  "femaleCount": 2637041,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kayamkulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kayamkulam",
+      "distance": 73.92968759579887
+    },
+    {
+      "city": "Haldwani",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "haldwani",
+      "distance": 78.52730358964236
+    },
+    {
+      "city": "Kothgudem Collieries",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kothgudem-collieries",
+      "distance": 78.6529563466229
+    },
+    {
+      "city": "Gokak",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "gokak",
+      "distance": 86.51754145354138
+    },
+    {
+      "city": "Valsad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "valsad",
+      "distance": 89.92120440780272
+    }
+  ],
+  "geohash": "tcuhmkv",
+  "geohashUrl": "https://geohash.softeng.co/tcuhmkv"
+}

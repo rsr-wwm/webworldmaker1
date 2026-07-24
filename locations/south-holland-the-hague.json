@@ -1,0 +1,81 @@
+{
+  "id": "south-holland-the-hague",
+  "city": "The Hague",
+  "state": "South Holland",
+  "stateSlug": "south-holland",
+  "citySlug": "the-hague",
+  "country": "Netherlands",
+  "pincode": "2500",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ACM",
+  "carriers": [
+    "KPN",
+    "VodafoneZiggo",
+    "Odido"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+31",
+  "timezone": "Europe/Amsterdam",
+  "latitude": 52.3879,
+  "longitude": 5.9073,
+  "landmark": "The Hague Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over KPN networks. Failovers route over VodafoneZiggo, Odido with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for The Hague, Netherlands",
+  "population": 1915125,
+  "mobileUsers": 1507203,
+  "internetUsers": 1296539,
+  "genderRatioText": "1,010 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "€53,376 per annum",
+  "activeMobileDevices": 2527965,
+  "mobilePenetration": 78.7,
+  "internetPenetration": 67.7,
+  "maleCount": 953732,
+  "femaleCount": 961393,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Eindhoven",
+      "state": "North Brabant",
+      "stateSlug": "north-brabant",
+      "citySlug": "eindhoven",
+      "distance": 5.715331581152947
+    },
+    {
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "stateSlug": "north-holland",
+      "citySlug": "amsterdam",
+      "distance": 7.024262786500908
+    },
+    {
+      "city": "Utrecht",
+      "state": "Utrecht Province",
+      "stateSlug": "utrecht-province",
+      "citySlug": "utrecht",
+      "distance": 21.836694805016524
+    },
+    {
+      "city": "Rotterdam",
+      "state": "South Holland",
+      "stateSlug": "south-holland",
+      "citySlug": "rotterdam",
+      "distance": 29.617560901476566
+    },
+    {
+      "city": "Groningen",
+      "state": "Groningen Province",
+      "stateSlug": "groningen-province",
+      "citySlug": "groningen",
+      "distance": 29.87868923420708
+    }
+  ],
+  "geohash": "u1k4n2v",
+  "geohashUrl": "https://geohash.softeng.co/u1k4n2v"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-chumukidima",
+  "city": "Chumukidima",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "chumukidima",
+  "country": "India",
+  "pincode": "797103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.2909,
+  "longitude": 73.089,
+  "landmark": "Chumukidima Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chumukidima, India",
+  "population": 3633610,
+  "mobileUsers": 2739741,
+  "internetUsers": 2183799,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹8.54L per annum",
+  "activeMobileDevices": 3742618,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 60.1,
+  "maleCount": 1860408,
+  "femaleCount": 1773202,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kasaragod",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kasaragod",
+      "distance": 42.525073806444055
+    },
+    {
+      "city": "Cuddalore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "cuddalore",
+      "distance": 61.61470841434787
+    },
+    {
+      "city": "Kavali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kavali",
+      "distance": 75.22309348982101
+    },
+    {
+      "city": "Kenndrapara",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "kenndrapara",
+      "distance": 79.72265027889893
+    },
+    {
+      "city": "Majorda",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "majorda",
+      "distance": 90.64551471039736
+    }
+  ],
+  "geohash": "td5bppm",
+  "geohashUrl": "https://geohash.softeng.co/td5bppm"
+}

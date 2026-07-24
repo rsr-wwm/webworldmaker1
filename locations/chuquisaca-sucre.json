@@ -1,0 +1,81 @@
+{
+  "id": "chuquisaca-sucre",
+  "city": "Sucre",
+  "state": "Chuquisaca",
+  "stateSlug": "chuquisaca",
+  "citySlug": "sucre",
+  "country": "Bolivia",
+  "pincode": "0000",
+  "currency": "BOB",
+  "symbol": "Bs.",
+  "compliance": "ATT Rules",
+  "carriers": [
+    "Entel",
+    "Tigo",
+    "Viva"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+591",
+  "timezone": "America/La_Paz",
+  "latitude": -16.9755,
+  "longitude": -65.1185,
+  "landmark": "Sucre State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Entel networks. Failovers route over Tigo, Viva with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Sucre, Bolivia",
+  "population": 3350579,
+  "mobileUsers": 2774279,
+  "internetUsers": 2161123,
+  "genderRatioText": "1,008 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "Bs.24,355 BOB per annum",
+  "activeMobileDevices": 4188223,
+  "mobilePenetration": 82.8,
+  "internetPenetration": 64.5,
+  "maleCount": 1668588,
+  "femaleCount": 1681991,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Cochabamba",
+      "state": "Cercado",
+      "stateSlug": "cercado",
+      "citySlug": "cochabamba",
+      "distance": 7.871767546038445
+    },
+    {
+      "city": "Santa Cruz de la Sierra",
+      "state": "Andres Ibanez",
+      "stateSlug": "andres-ibanez",
+      "citySlug": "santa-cruz-de-la-sierra",
+      "distance": 19.41923427156425
+    },
+    {
+      "city": "Ciudad del Este",
+      "state": "Alto Parana",
+      "stateSlug": "alto-parana",
+      "citySlug": "ciudad-del-este",
+      "distance": 987.2924446856117
+    },
+    {
+      "city": "Asuncion",
+      "state": "Capital District",
+      "stateSlug": "capital-district",
+      "citySlug": "asuncion",
+      "distance": 991.0794128728008
+    },
+    {
+      "city": "Belo Horizonte",
+      "state": "Minas Gerais",
+      "stateSlug": "minas-gerais",
+      "citySlug": "belo-horizonte",
+      "distance": 1315.4508567075013
+    }
+  ],
+  "geohash": "6scxqjw",
+  "geohashUrl": "https://geohash.softeng.co/6scxqjw"
+}

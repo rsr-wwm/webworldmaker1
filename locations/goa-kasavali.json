@@ -1,0 +1,82 @@
+{
+  "id": "goa-kasavali",
+  "city": "Kasavali",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "kasavali",
+  "country": "India",
+  "pincode": "403712",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.8779,
+  "longitude": 72.4719,
+  "landmark": "Kasavali Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kasavali, India",
+  "population": 8777706,
+  "mobileUsers": 6539390,
+  "internetUsers": 4941848,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.94L per annum",
+  "activeMobileDevices": 9743253,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 56.3,
+  "maleCount": 4502963,
+  "femaleCount": 4274743,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Campwell Bay",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "campwell-bay",
+      "distance": 42.26128462108438
+    },
+    {
+      "city": "Lamphelpat",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lamphelpat",
+      "distance": 79.88374232578728
+    },
+    {
+      "city": "Karaikudi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "karaikudi",
+      "distance": 84.82509603697034
+    },
+    {
+      "city": "Shamli",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "shamli",
+      "distance": 131.45657688072447
+    },
+    {
+      "city": "Shimoga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shimoga",
+      "distance": 134.09178085615352
+    }
+  ],
+  "geohash": "td7wcnk",
+  "geohashUrl": "https://geohash.softeng.co/td7wcnk"
+}

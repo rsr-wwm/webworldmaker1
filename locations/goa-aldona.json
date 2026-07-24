@@ -1,0 +1,82 @@
+{
+  "id": "goa-aldona",
+  "city": "Aldona",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "aldona",
+  "country": "India",
+  "pincode": "403508",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.52,
+  "longitude": 83.4165,
+  "landmark": "Aldona Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Aldona, India",
+  "population": 1985852,
+  "mobileUsers": 1527120,
+  "internetUsers": 1183567,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹8.33L per annum",
+  "activeMobileDevices": 2343305,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 59.6,
+  "maleCount": 1022714,
+  "femaleCount": 963138,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Adilabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "adilabad",
+      "distance": 19.93245594077094
+    },
+    {
+      "city": "Kanchanpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kanchanpur",
+      "distance": 37.93371659033265
+    },
+    {
+      "city": "Barabanki",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "barabanki",
+      "distance": 56.917017230025955
+    },
+    {
+      "city": "Pani Sagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "pani-sagar",
+      "distance": 58.26504756405184
+    },
+    {
+      "city": "Olavakkot",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "olavakkot",
+      "distance": 67.02058553052262
+    }
+  ],
+  "geohash": "tue34jy",
+  "geohashUrl": "https://geohash.softeng.co/tue34jy"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "san-jose-province-san-jose",
+  "city": "San Jose",
+  "state": "San Jose Province",
+  "stateSlug": "san-jose-province",
+  "citySlug": "san-jose",
+  "country": "Costa Rica",
+  "pincode": "10101",
+  "currency": "CRC",
+  "symbol": "₡",
+  "compliance": "SUTEL Regulations",
+  "carriers": [
+    "kölbi",
+    "Liberty",
+    "Claro"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+506",
+  "timezone": "America/Costa_Rica",
+  "latitude": 9.842,
+  "longitude": -84.1312,
+  "landmark": "San Jose Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over kölbi networks. Failovers route over Liberty, Claro with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for San Jose, Costa Rica",
+  "population": 4761231,
+  "mobileUsers": 3723282,
+  "internetUsers": 3161457,
+  "genderRatioText": "1,001 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "₡27,976 CRC per annum",
+  "activeMobileDevices": 5713477,
+  "mobilePenetration": 78.2,
+  "internetPenetration": 66.4,
+  "maleCount": 2380616,
+  "femaleCount": 2380616,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Managua",
+      "state": "Managua Department",
+      "stateSlug": "managua-department",
+      "citySlug": "managua",
+      "distance": 354.45559901100444
+    },
+    {
+      "city": "Panama City",
+      "state": "Panama Province",
+      "stateSlug": "panama-province",
+      "citySlug": "panama-city",
+      "distance": 483.254980211451
+    },
+    {
+      "city": "Tegucigalpa",
+      "state": "Francisco Morazan Department",
+      "stateSlug": "francisco-morazan-department",
+      "citySlug": "tegucigalpa",
+      "distance": 614.7423079192981
+    },
+    {
+      "city": "San Salvador",
+      "state": "San Salvador Department",
+      "stateSlug": "san-salvador-department",
+      "citySlug": "san-salvador",
+      "distance": 693.780582467896
+    },
+    {
+      "city": "Guatemala City",
+      "state": "Guatemala Department",
+      "stateSlug": "guatemala-department",
+      "citySlug": "guatemala-city",
+      "distance": 933.6339936516407
+    }
+  ],
+  "geohash": "d1spvx9",
+  "geohashUrl": "https://geohash.softeng.co/d1spvx9"
+}

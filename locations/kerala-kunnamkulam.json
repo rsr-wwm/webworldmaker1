@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kunnamkulam",
+  "city": "Kunnamkulam",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kunnamkulam",
+  "country": "India",
+  "pincode": "680503",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.2265,
+  "longitude": 84.719,
+  "landmark": "Kunnamkulam Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kunnamkulam, India",
+  "population": 1043621,
+  "mobileUsers": 811937,
+  "internetUsers": 621998,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹10.55L per annum",
+  "activeMobileDevices": 1085365,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 59.6,
+  "maleCount": 538508,
+  "femaleCount": 505113,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bayana",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bayana",
+      "distance": 47.82635927356512
+    },
+    {
+      "city": "Tehri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "tehri",
+      "distance": 69.83543775288537
+    },
+    {
+      "city": "Marhowrah",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "marhowrah",
+      "distance": 89.32841019357409
+    },
+    {
+      "city": "Chandmari",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "chandmari",
+      "distance": 109.61765200293036
+    },
+    {
+      "city": "Faridkot",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faridkot",
+      "distance": 119.02068533070076
+    }
+  ],
+  "geohash": "tuk1zf6",
+  "geohashUrl": "https://geohash.softeng.co/tuk1zf6"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "lacs-district-yamoussoukro",
+  "city": "Yamoussoukro",
+  "state": "Lacs District",
+  "stateSlug": "lacs-district",
+  "citySlug": "yamoussoukro",
+  "country": "Ivory Coast",
+  "pincode": "00000",
+  "currency": "XOF",
+  "symbol": "CFA",
+  "compliance": "ARTCI Guidelines",
+  "carriers": [
+    "Orange",
+    "MTN",
+    "Moov"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+225",
+  "timezone": "Africa/Abidjan",
+  "latitude": 7.9256,
+  "longitude": -5.0167,
+  "landmark": "Yamoussoukro Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over MTN, Moov with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Yamoussoukro, Ivory Coast",
+  "population": 600269,
+  "mobileUsers": 490419,
+  "internetUsers": 370365,
+  "genderRatioText": "971 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "CFA32,652 XOF per annum",
+  "activeMobileDevices": 810363,
+  "mobilePenetration": 81.7,
+  "internetPenetration": 61.7,
+  "maleCount": 304336,
+  "femaleCount": 295933,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bouake",
+      "state": "Vallee du Bandama",
+      "stateSlug": "vallee-du-bandama",
+      "citySlug": "bouake",
+      "distance": 0.57376059835874
+    },
+    {
+      "city": "Abidjan",
+      "state": "Lagunes District",
+      "stateSlug": "lagunes-district",
+      "citySlug": "abidjan",
+      "distance": 24.06421067475589
+    },
+    {
+      "city": "Kumasi",
+      "state": "Ashanti Region",
+      "stateSlug": "ashanti-region",
+      "citySlug": "kumasi",
+      "distance": 311.49725969926806
+    },
+    {
+      "city": "Accra",
+      "state": "Greater Accra",
+      "stateSlug": "greater-accra",
+      "citySlug": "accra",
+      "distance": 348.5468064724306
+    },
+    {
+      "city": "Monrovia",
+      "state": "Montserrado County",
+      "stateSlug": "montserrado-county",
+      "citySlug": "monrovia",
+      "distance": 515.2585864327468
+    }
+  ],
+  "geohash": "eckmjff",
+  "geohashUrl": "https://geohash.softeng.co/eckmjff"
+}

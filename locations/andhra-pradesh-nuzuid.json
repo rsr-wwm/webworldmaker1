@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-nuzuid",
+  "city": "Nuzuid",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "nuzuid",
+  "country": "India",
+  "pincode": "521201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.6158,
+  "longitude": 85.0633,
+  "landmark": "Nuzuid Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nuzuid, India",
+  "population": 5030991,
+  "mobileUsers": 3637406,
+  "internetUsers": 3003501,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹11.17L per annum",
+  "activeMobileDevices": 5081300,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 59.7,
+  "maleCount": 2595991,
+  "femaleCount": 2435000,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chirawa",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "chirawa",
+      "distance": 28.25836949947044
+    },
+    {
+      "city": "Samalkot",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "samalkot",
+      "distance": 48.98639994464976
+    },
+    {
+      "city": "Saikot",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "saikot",
+      "distance": 50.63652972965924
+    },
+    {
+      "city": "Allappuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "allappuzha",
+      "distance": 70.61829179173871
+    },
+    {
+      "city": "Arundatinagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "arundatinagar",
+      "distance": 76.5866732425285
+    }
+  ],
+  "geohash": "tfhrz8t",
+  "geohashUrl": "https://geohash.softeng.co/tfhrz8t"
+}

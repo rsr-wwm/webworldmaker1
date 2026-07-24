@@ -1,0 +1,82 @@
+{
+  "id": "mashya-pradesh-ambikapur",
+  "city": "Ambikapur",
+  "state": "Mashya Pradesh",
+  "stateSlug": "mashya-pradesh",
+  "citySlug": "ambikapur",
+  "country": "India",
+  "pincode": "497001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.9795,
+  "longitude": 78.5784,
+  "landmark": "Ambikapur Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ambikapur, India",
+  "population": 9298530,
+  "mobileUsers": 6825121,
+  "internetUsers": 5355953,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹11.96L per annum",
+  "activeMobileDevices": 10321368,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 57.6,
+  "maleCount": 4760847,
+  "femaleCount": 4537683,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Koraput",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "koraput",
+      "distance": 50.047398548428305
+    },
+    {
+      "city": "Yadagiri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "yadagiri",
+      "distance": 91.43006729528578
+    },
+    {
+      "city": "Hinoo",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "hinoo",
+      "distance": 103.8930192458056
+    },
+    {
+      "city": "Bijapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bijapur",
+      "distance": 104.273086459566
+    },
+    {
+      "city": "Aberdeen",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "aberdeen",
+      "distance": 107.10618445204463
+    }
+  ],
+  "geohash": "t9xgh4e",
+  "geohashUrl": "https://geohash.softeng.co/t9xgh4e"
+}

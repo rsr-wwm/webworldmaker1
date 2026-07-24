@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-maidjiphema",
+  "city": "Maidjiphema",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "maidjiphema",
+  "country": "India",
+  "pincode": "797106",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.8145,
+  "longitude": 78.2239,
+  "landmark": "Maidjiphema Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Maidjiphema, India",
+  "population": 2849733,
+  "mobileUsers": 2077455,
+  "internetUsers": 1712689,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹7.90L per annum",
+  "activeMobileDevices": 3248695,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 60.1,
+  "maleCount": 1459063,
+  "femaleCount": 1390670,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Assam rifles",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "assam-rifles",
+      "distance": 54.82634575751867
+    },
+    {
+      "city": "Ballia",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ballia",
+      "distance": 66.0315548029679
+    },
+    {
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "vellore",
+      "distance": 93.90269464315143
+    },
+    {
+      "city": "Dindigul",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "dindigul",
+      "distance": 94.02614767416155
+    },
+    {
+      "city": "Lalganj",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lalganj",
+      "distance": 99.83942283209558
+    }
+  ],
+  "geohash": "tsp9u12",
+  "geohashUrl": "https://geohash.softeng.co/tsp9u12"
+}

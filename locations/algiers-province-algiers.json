@@ -1,0 +1,81 @@
+{
+  "id": "algiers-province-algiers",
+  "city": "Algiers",
+  "state": "Algiers Province",
+  "stateSlug": "algiers-province",
+  "citySlug": "algiers",
+  "country": "Algeria",
+  "pincode": "16000",
+  "currency": "DZD",
+  "symbol": "DA",
+  "compliance": "ARPCE Rules",
+  "carriers": [
+    "Djezzy",
+    "Mobilis",
+    "Ooredoo"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+213",
+  "timezone": "Africa/Algiers",
+  "latitude": 36.6888198,
+  "longitude": 2.8052655,
+  "landmark": "Algiers Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Djezzy networks. Failovers route over Mobilis, Ooredoo with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Algiers, Algeria",
+  "population": 2386002,
+  "mobileUsers": 1882555,
+  "internetUsers": 1586691,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "DA22,962 DZD per annum",
+  "activeMobileDevices": 2958642,
+  "mobilePenetration": 78.9,
+  "internetPenetration": 66.5,
+  "maleCount": 1216861,
+  "femaleCount": 1169141,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Oran",
+      "state": "Oran Province",
+      "stateSlug": "oran-province",
+      "citySlug": "oran",
+      "distance": 328.808047685198
+    },
+    {
+      "city": "Tunis",
+      "state": "Tunis Governorate",
+      "stateSlug": "tunis-governorate",
+      "citySlug": "tunis",
+      "distance": 620.7583949709187
+    },
+    {
+      "city": "Sfax",
+      "state": "Sfax Governorate",
+      "stateSlug": "sfax-governorate",
+      "citySlug": "sfax",
+      "distance": 640.4585135430507
+    },
+    {
+      "city": "Andorra la Vella",
+      "state": "Andorra Parish",
+      "stateSlug": "andorra-parish",
+      "citySlug": "andorra-la-vella",
+      "distance": 665.8162778211566
+    },
+    {
+      "city": "Barcelona",
+      "state": "Catalonia",
+      "stateSlug": "catalonia",
+      "citySlug": "barcelona",
+      "distance": 675.5851474731616
+    }
+  ],
+  "geohash": "sn9bxyf",
+  "geohashUrl": "https://geohash.softeng.co/sn9bxyf"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "bihar-baidyanadh-deoghar",
+  "city": "Baidyanadh Deoghar",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "baidyanadh-deoghar",
+  "country": "India",
+  "pincode": "814112",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.1922,
+  "longitude": 72.0634,
+  "landmark": "Baidyanadh Deoghar State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Baidyanadh Deoghar, India",
+  "population": 9652964,
+  "mobileUsers": 7519658,
+  "internetUsers": 5724207,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹8.75L per annum",
+  "activeMobileDevices": 9652964,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 59.3,
+  "maleCount": 5038847,
+  "femaleCount": 4614117,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Serchhip",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "serchhip",
+      "distance": 73.40098705672368
+    },
+    {
+      "city": "Pondicherry",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "pondicherry",
+      "distance": 78.74268694639467
+    },
+    {
+      "city": "Dadar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "dadar",
+      "distance": 81.85874967297056
+    },
+    {
+      "city": "Kimin",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "kimin",
+      "distance": 87.56694633889178
+    },
+    {
+      "city": "Tilakwadi East",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tilakwadi-east",
+      "distance": 103.93841595441755
+    }
+  ],
+  "geohash": "te5przf",
+  "geohashUrl": "https://geohash.softeng.co/te5przf"
+}

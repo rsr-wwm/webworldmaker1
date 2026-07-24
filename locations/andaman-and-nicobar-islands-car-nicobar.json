@@ -1,0 +1,82 @@
+{
+  "id": "andaman-and-nicobar-islands-car-nicobar",
+  "city": "Car Nicobar",
+  "state": "Andaman & Nicobar Islands",
+  "stateSlug": "andaman-and-nicobar-islands",
+  "citySlug": "car-nicobar",
+  "country": "India",
+  "pincode": "744301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.9835,
+  "longitude": 79.1788,
+  "landmark": "Car Nicobar Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Car Nicobar, India",
+  "population": 8916431,
+  "mobileUsers": 6749738,
+  "internetUsers": 4912953,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹7.06L per annum",
+  "activeMobileDevices": 9629745,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 55.1,
+  "maleCount": 4600878,
+  "femaleCount": 4315553,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Suryapet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "suryapet",
+      "distance": 23.35733042447065
+    },
+    {
+      "city": "Chandel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "chandel",
+      "distance": 45.25042465414265
+    },
+    {
+      "city": "Deoria",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "deoria",
+      "distance": 72.59970737970308
+    },
+    {
+      "city": "Chakpirang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "chakpirang",
+      "distance": 72.62782010524091
+    },
+    {
+      "city": "Tiruvalla",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "tiruvalla",
+      "distance": 98.35874562958585
+    }
+  ],
+  "geohash": "tub39b0",
+  "geohashUrl": "https://geohash.softeng.co/tub39b0"
+}

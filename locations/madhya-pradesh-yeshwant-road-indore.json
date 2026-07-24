@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-yeshwant-road-indore",
+  "city": "Yeshwant Road (Indore)",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "yeshwant-road-indore",
+  "country": "India",
+  "pincode": "452004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.303,
+  "longitude": 86.4783,
+  "landmark": "Yeshwant Road (Indore) Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Yeshwant Road (Indore), India",
+  "population": 6524898,
+  "mobileUsers": 4854524,
+  "internetUsers": 4006287,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹7.33L per annum",
+  "activeMobileDevices": 6524898,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 61.4,
+  "maleCount": 3327698,
+  "femaleCount": 3197200,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Satara",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "satara",
+      "distance": 23.791238664519764
+    },
+    {
+      "city": "Buldhana",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "buldhana",
+      "distance": 41.902045858805025
+    },
+    {
+      "city": "Churachandpur",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "churachandpur",
+      "distance": 67.36755938500721
+    },
+    {
+      "city": "Nagercoil",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "nagercoil",
+      "distance": 74.83328692288907
+    },
+    {
+      "city": "Arundatinagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "arundatinagar",
+      "distance": 103.04048317689124
+    }
+  ],
+  "geohash": "tfjmzze",
+  "geohashUrl": "https://geohash.softeng.co/tfjmzze"
+}

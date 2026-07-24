@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-tehri",
+  "city": "Tehri",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "tehri",
+  "country": "India",
+  "pincode": "249001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.8112,
+  "longitude": 84.971,
+  "landmark": "Tehri Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tehri, India",
+  "population": 4080458,
+  "mobileUsers": 2950171,
+  "internetUsers": 2411550,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.22L per annum",
+  "activeMobileDevices": 4896549,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 59.1,
+  "maleCount": 2134080,
+  "femaleCount": 1946378,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Marhowrah",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "marhowrah",
+      "distance": 23.023244734856675
+    },
+    {
+      "city": "Kunnamkulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kunnamkulam",
+      "distance": 69.83543775288537
+    },
+    {
+      "city": "Orai",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "orai",
+      "distance": 82.31277330548963
+    },
+    {
+      "city": "Bhavnagar",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhavnagar",
+      "distance": 97.65927955447539
+    },
+    {
+      "city": "Gulbarga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "gulbarga",
+      "distance": 99.97262898904
+    }
+  ],
+  "geohash": "tukmjs9",
+  "geohashUrl": "https://geohash.softeng.co/tukmjs9"
+}

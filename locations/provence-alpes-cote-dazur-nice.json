@@ -1,0 +1,82 @@
+{
+  "id": "provence-alpes-cote-dazur-nice",
+  "city": "Nice",
+  "state": "Provence-Alpes-Côte d'Azur",
+  "stateSlug": "provence-alpes-cote-dazur",
+  "citySlug": "nice",
+  "country": "France",
+  "pincode": "06000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ARCEP",
+  "carriers": [
+    "Orange",
+    "SFR",
+    "Bouygues",
+    "Free Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+33 1",
+  "timezone": "Europe/Paris",
+  "latitude": 38.7774,
+  "longitude": -47.3263,
+  "landmark": "Nice Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Nice, France",
+  "population": 809599,
+  "mobileUsers": 767499,
+  "internetUsers": 746450,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "€49,863 per annum",
+  "activeMobileDevices": 1060574,
+  "mobilePenetration": 94.8,
+  "internetPenetration": 92.2,
+  "maleCount": 413705,
+  "femaleCount": 395894,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "St. John's",
+      "state": "Newfoundland and Labrador",
+      "stateSlug": "newfoundland-and-labrador",
+      "citySlug": "st-johns",
+      "distance": 1069.431263998637
+    },
+    {
+      "city": "Halifax",
+      "state": "Nova Scotia",
+      "stateSlug": "nova-scotia",
+      "citySlug": "halifax",
+      "distance": 1495.633164387329
+    },
+    {
+      "city": "Quebec City",
+      "state": "Quebec",
+      "stateSlug": "quebec",
+      "citySlug": "quebec-city",
+      "distance": 2132.559891794548
+    },
+    {
+      "city": "Montreal",
+      "state": "Quebec",
+      "stateSlug": "quebec",
+      "citySlug": "montreal",
+      "distance": 2277.2063599813177
+    },
+    {
+      "city": "Buffalo",
+      "state": "New York",
+      "stateSlug": "new-york",
+      "citySlug": "buffalo",
+      "distance": 2421.136644197932
+    }
+  ],
+  "geohash": "dyyke54",
+  "geohashUrl": "https://geohash.softeng.co/dyyke54"
+}

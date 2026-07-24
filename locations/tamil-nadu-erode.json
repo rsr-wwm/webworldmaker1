@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-erode",
+  "city": "Erode",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "erode",
+  "country": "India",
+  "pincode": "638001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.9774,
+  "longitude": 89.0086,
+  "landmark": "Erode Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Erode, India",
+  "population": 1597667,
+  "mobileUsers": 1244582,
+  "internetUsers": 864337,
+  "genderRatioText": "909 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹6.78L per annum",
+  "activeMobileDevices": 1629620,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 54.1,
+  "maleCount": 837178,
+  "femaleCount": 760489,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mahim",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mahim",
+      "distance": 13.577522613060381
+    },
+    {
+      "city": "Anandpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "anandpur",
+      "distance": 15.523970902276773
+    },
+    {
+      "city": "Nevare",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "nevare",
+      "distance": 37.40019531880576
+    },
+    {
+      "city": "Recong Peo",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "recong-peo",
+      "distance": 83.41876464684604
+    },
+    {
+      "city": "Taliparamba",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "taliparamba",
+      "distance": 86.07306192500978
+    }
+  ],
+  "geohash": "tuzr1mn",
+  "geohashUrl": "https://geohash.softeng.co/tuzr1mn"
+}

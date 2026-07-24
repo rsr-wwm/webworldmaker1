@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-navrangpura",
+  "city": "Navrangpura",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "navrangpura",
+  "country": "India",
+  "pincode": "380009",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.298,
+  "longitude": 74.5112,
+  "landmark": "Navrangpura Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Navrangpura, India",
+  "population": 6153262,
+  "mobileUsers": 4756471,
+  "internetUsers": 3550432,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹9.98L per annum",
+  "activeMobileDevices": 6953186,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 57.7,
+  "maleCount": 3218156,
+  "femaleCount": 2935106,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shimla",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "shimla",
+      "distance": 24.53493934647148
+    },
+    {
+      "city": "Miraj",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "miraj",
+      "distance": 64.60617507768106
+    },
+    {
+      "city": "Villupuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "villupuram",
+      "distance": 81.46869222030931
+    },
+    {
+      "city": "Mandi pathar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mandi-pathar",
+      "distance": 82.15672730786945
+    },
+    {
+      "city": "Kumbakonam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kumbakonam",
+      "distance": 87.27289891931521
+    }
+  ],
+  "geohash": "tekbpe1",
+  "geohashUrl": "https://geohash.softeng.co/tekbpe1"
+}

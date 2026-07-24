@@ -1,0 +1,82 @@
+{
+  "id": "orissa-bargarh",
+  "city": "Bargarh",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "bargarh",
+  "country": "India",
+  "pincode": "768028",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.9981,
+  "longitude": 69.1164,
+  "landmark": "Bargarh Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bargarh, India",
+  "population": 4120946,
+  "mobileUsers": 3016532,
+  "internetUsers": 2390148,
+  "genderRatioText": "949 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.22L per annum",
+  "activeMobileDevices": 4780297,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 58,
+  "maleCount": 2114045,
+  "femaleCount": 2006901,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ferozepur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "ferozepur",
+      "distance": 19.793551729834224
+    },
+    {
+      "city": "Roorkee",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "roorkee",
+      "distance": 73.71319928535988
+    },
+    {
+      "city": "Chapra",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "chapra",
+      "distance": 88.24039014331795
+    },
+    {
+      "city": "Purulai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "purulai",
+      "distance": 91.68309920783112
+    },
+    {
+      "city": "Bhongir",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhongir",
+      "distance": 106.8139600391769
+    }
+  ],
+  "geohash": "td1hkb1",
+  "geohashUrl": "https://geohash.softeng.co/td1hkb1"
+}

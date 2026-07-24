@@ -1,0 +1,82 @@
+{
+  "id": "bihar-bokaro-steel-city",
+  "city": "Bokaro Steel City",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "bokaro-steel-city",
+  "country": "India",
+  "pincode": "827001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.3895,
+  "longitude": 87.058,
+  "landmark": "Bokaro Steel City Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bokaro Steel City, India",
+  "population": 2719866,
+  "mobileUsers": 2039899,
+  "internetUsers": 1667277,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹11.13L per annum",
+  "activeMobileDevices": 2964653,
+  "mobilePenetration": 75,
+  "internetPenetration": 61.3,
+  "maleCount": 1384412,
+  "femaleCount": 1335454,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "A.R.T.C",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "artc",
+      "distance": 24.040503688370727
+    },
+    {
+      "city": "Firozabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "firozabad",
+      "distance": 69.96695413471838
+    },
+    {
+      "city": "Mirzapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mirzapur",
+      "distance": 89.3293732845236
+    },
+    {
+      "city": "Arni",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arni",
+      "distance": 101.88779642695368
+    },
+    {
+      "city": "Somdal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "somdal",
+      "distance": 105.4853060463594
+    }
+  ],
+  "geohash": "tvtft43",
+  "geohashUrl": "https://geohash.softeng.co/tvtft43"
+}

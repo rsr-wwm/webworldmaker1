@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-saiha",
+  "city": "Saiha",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "saiha",
+  "country": "India",
+  "pincode": "796901",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.3699,
+  "longitude": 85.6058,
+  "landmark": "Saiha Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Saiha, India",
+  "population": 6586538,
+  "mobileUsers": 5018941,
+  "internetUsers": 3695047,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹7.40L per annum",
+  "activeMobileDevices": 7376922,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 56.1,
+  "maleCount": 3372307,
+  "femaleCount": 3214231,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chatrapur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "chatrapur",
+      "distance": 36.90483484510413
+    },
+    {
+      "city": "Agartala G.P.O",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "agartala-gpo",
+      "distance": 41.9210004246714
+    },
+    {
+      "city": "Rajnandgaon",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "rajnandgaon",
+      "distance": 70.29289618222762
+    },
+    {
+      "city": "Guntur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntur",
+      "distance": 98.6530847544614
+    },
+    {
+      "city": "Bhubaneswar G.P.O",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhubaneswar-gpo",
+      "distance": 107.60183322191504
+    }
+  ],
+  "geohash": "tgkyhn0",
+  "geohashUrl": "https://geohash.softeng.co/tgkyhn0"
+}

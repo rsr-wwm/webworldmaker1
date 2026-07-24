@@ -1,0 +1,82 @@
+{
+  "id": "scotland-edinburgh",
+  "city": "Edinburgh",
+  "state": "Scotland",
+  "stateSlug": "scotland",
+  "citySlug": "edinburgh",
+  "country": "United Kingdom",
+  "pincode": "EH1",
+  "currency": "GBP",
+  "symbol": "£",
+  "compliance": "Ofcom Guidelines",
+  "carriers": [
+    "EE",
+    "Vodafone",
+    "O2",
+    "Three"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+44 20",
+  "timezone": "Europe/London",
+  "latitude": 53.515,
+  "longitude": -4.0794,
+  "landmark": "Edinburgh Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over EE networks. Failovers route over Vodafone, O2, Three with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Edinburgh, United Kingdom",
+  "population": 2203484,
+  "mobileUsers": 2044833,
+  "internetUsers": 2040426,
+  "genderRatioText": "980 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "£57,179 per annum",
+  "activeMobileDevices": 3018773,
+  "mobilePenetration": 92.8,
+  "internetPenetration": 92.6,
+  "maleCount": 1112759,
+  "femaleCount": 1090725,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Nottingham",
+      "state": "Nottinghamshire",
+      "stateSlug": "nottinghamshire",
+      "citySlug": "nottingham",
+      "distance": 37.46139941220171
+    },
+    {
+      "city": "Cardiff",
+      "state": "Wales",
+      "stateSlug": "wales",
+      "citySlug": "cardiff",
+      "distance": 61.314807478424854
+    },
+    {
+      "city": "Leeds",
+      "state": "West Yorkshire",
+      "stateSlug": "west-yorkshire",
+      "citySlug": "leeds",
+      "distance": 78.82714271528397
+    },
+    {
+      "city": "Sheffield",
+      "state": "South Yorkshire",
+      "stateSlug": "south-yorkshire",
+      "citySlug": "sheffield",
+      "distance": 123.32384736771814
+    },
+    {
+      "city": "Southampton",
+      "state": "Hampshire",
+      "stateSlug": "hampshire",
+      "citySlug": "southampton",
+      "distance": 205.54398576269597
+    }
+  ],
+  "geohash": "gct07nj",
+  "geohashUrl": "https://geohash.softeng.co/gct07nj"
+}

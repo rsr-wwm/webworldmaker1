@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-kavali",
+  "city": "Kavali",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "kavali",
+  "country": "India",
+  "pincode": "524201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.9385,
+  "longitude": 72.8893,
+  "landmark": "Kavali Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kavali, India",
+  "population": 6720634,
+  "mobileUsers": 4939665,
+  "internetUsers": 4119748,
+  "genderRatioText": "919 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹11.09L per annum",
+  "activeMobileDevices": 7056665,
+  "mobilePenetration": 73.5,
+  "internetPenetration": 61.3,
+  "maleCount": 3501450,
+  "femaleCount": 3219184,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bijnor",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bijnor",
+      "distance": 35.133463130530984
+    },
+    {
+      "city": "Kasaragod",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kasaragod",
+      "distance": 51.32663732318526
+    },
+    {
+      "city": "Athgarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "athgarh",
+      "distance": 54.959365555028675
+    },
+    {
+      "city": "Belgharia",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "belgharia",
+      "distance": 57.29731737538841
+    },
+    {
+      "city": "Chumukidima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chumukidima",
+      "distance": 75.22309348982101
+    }
+  ],
+  "geohash": "td5gftk",
+  "geohashUrl": "https://geohash.softeng.co/td5gftk"
+}

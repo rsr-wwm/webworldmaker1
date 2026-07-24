@@ -1,0 +1,82 @@
+{
+  "id": "calcutta-ahmedabad",
+  "city": "Ahmedabad",
+  "state": "Calcutta",
+  "stateSlug": "calcutta",
+  "citySlug": "ahmedabad",
+  "country": "India",
+  "pincode": "380001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.0903,
+  "longitude": 79.0274,
+  "landmark": "Ahmedabad Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ahmedabad, India",
+  "population": 1944945,
+  "mobileUsers": 1503442,
+  "internetUsers": 1159187,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.40L per annum",
+  "activeMobileDevices": 2061641,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 59.6,
+  "maleCount": 1005537,
+  "femaleCount": 939408,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Guntakal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntakal",
+      "distance": 52.155839610104074
+    },
+    {
+      "city": "Mayiladuthurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mayiladuthurai",
+      "distance": 55.20069085103051
+    },
+    {
+      "city": "Akbarpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "akbarpur",
+      "distance": 68.35269895421072
+    },
+    {
+      "city": "Waltair R.S.",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "waltair-rs",
+      "distance": 75.40115359809138
+    },
+    {
+      "city": "Seoni",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "seoni",
+      "distance": 75.61073328057996
+    }
+  ],
+  "geohash": "tv80y7c",
+  "geohashUrl": "https://geohash.softeng.co/tv80y7c"
+}

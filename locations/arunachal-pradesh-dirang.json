@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-dirang",
+  "city": "Dirang",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "dirang",
+  "country": "India",
+  "pincode": "790101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.3303,
+  "longitude": 74.618,
+  "landmark": "Dirang Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dirang, India",
+  "population": 1568268,
+  "mobileUsers": 1136994,
+  "internetUsers": 850001,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹11.24L per annum",
+  "activeMobileDevices": 1756460,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 54.2,
+  "maleCount": 806090,
+  "femaleCount": 762178,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lucknow Chowk",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lucknow-chowk",
+      "distance": 23.078585830560485
+    },
+    {
+      "city": "Mandi pathar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mandi-pathar",
+      "distance": 75.27531680827838
+    },
+    {
+      "city": "Cherrapunji",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "cherrapunji",
+      "distance": 101.10806616904455
+    },
+    {
+      "city": "Shimla",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "shimla",
+      "distance": 102.93468857419239
+    },
+    {
+      "city": "Betul",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "betul",
+      "distance": 109.30544417369312
+    }
+  ],
+  "geohash": "temjcyz",
+  "geohashUrl": "https://geohash.softeng.co/temjcyz"
+}

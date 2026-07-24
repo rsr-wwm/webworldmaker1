@@ -1,0 +1,81 @@
+{
+  "id": "anhui-province-hefei",
+  "city": "Hefei",
+  "state": "Anhui Province",
+  "stateSlug": "anhui-province",
+  "citySlug": "hefei",
+  "country": "China",
+  "pincode": "230000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 34.9234,
+  "longitude": 104.9106,
+  "landmark": "Hefei Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Hefei, China",
+  "population": 1892889,
+  "mobileUsers": 1731993,
+  "internetUsers": 1438595,
+  "genderRatioText": "1,005 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "¥36,773 CNY per annum",
+  "activeMobileDevices": 1930746,
+  "mobilePenetration": 91.5,
+  "internetPenetration": 76,
+  "maleCount": 944552,
+  "femaleCount": 948337,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning",
+      "distance": 1.9673275268154289
+    },
+    {
+      "city": "Chengdu",
+      "state": "Sichuan Province",
+      "stateSlug": "sichuan-province",
+      "citySlug": "chengdu",
+      "distance": 8.637623690490363
+    },
+    {
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou",
+      "distance": 9.864390435913418
+    },
+    {
+      "city": "Shanghai",
+      "state": "Shanghai Municipality",
+      "stateSlug": "shanghai-municipality",
+      "citySlug": "shanghai",
+      "distance": 9.921980740411863
+    },
+    {
+      "city": "Shenzhen",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "shenzhen",
+      "distance": 10.452323104588654
+    }
+  ],
+  "geohash": "wq4wem9",
+  "geohashUrl": "https://geohash.softeng.co/wq4wem9"
+}

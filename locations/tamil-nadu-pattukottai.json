@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-pattukottai",
+  "city": "Pattukottai",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "pattukottai",
+  "country": "India",
+  "pincode": "614601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.2103,
+  "longitude": 85.0605,
+  "landmark": "Pattukottai Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pattukottai, India",
+  "population": 1196084,
+  "mobileUsers": 868356,
+  "internetUsers": 698513,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹10.55L per annum",
+  "activeMobileDevices": 1351574,
+  "mobilePenetration": 72.6,
+  "internetPenetration": 58.4,
+  "maleCount": 625552,
+  "femaleCount": 570532,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Allahabad Kacheri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "allahabad-kacheri",
+      "distance": 25.80466936481169
+    },
+    {
+      "city": "Agartala G.P.O",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "agartala-gpo",
+      "distance": 69.57898990055307
+    },
+    {
+      "city": "Gondal",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gondal",
+      "distance": 83.2073723827489
+    },
+    {
+      "city": "Kumar ghat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kumar-ghat",
+      "distance": 90.86328438953082
+    },
+    {
+      "city": "Sirsa",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "sirsa",
+      "distance": 91.13037706609167
+    }
+  ],
+  "geohash": "tgs6zx5",
+  "geohashUrl": "https://geohash.softeng.co/tgs6zx5"
+}

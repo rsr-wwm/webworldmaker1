@@ -1,0 +1,81 @@
+{
+  "id": "wisconsin-milwaukee",
+  "city": "Milwaukee",
+  "state": "Wisconsin",
+  "stateSlug": "wisconsin",
+  "citySlug": "milwaukee",
+  "country": "United States",
+  "pincode": "53201",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/Chicago",
+  "latitude": 26.0662,
+  "longitude": -88.1471,
+  "landmark": "Milwaukee Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Milwaukee, United States",
+  "population": 3780988,
+  "mobileUsers": 3576814,
+  "internetUsers": 3452042,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "$106,369 per annum",
+  "activeMobileDevices": 5179953,
+  "mobilePenetration": 94.6,
+  "internetPenetration": 91.3,
+  "maleCount": 1935866,
+  "femaleCount": 1845122,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "citySlug": "raleigh",
+      "distance": 351.17100525111283
+    },
+    {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "stateSlug": "maryland",
+      "citySlug": "baltimore",
+      "distance": 447.9142633807756
+    },
+    {
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham",
+      "distance": 578.786971752746
+    },
+    {
+      "city": "Providence",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "citySlug": "providence",
+      "distance": 607.2365894092366
+    },
+    {
+      "city": "Chicago",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "citySlug": "chicago",
+      "distance": 684.2923964975062
+    }
+  ],
+  "geohash": "dh9k61j",
+  "geohashUrl": "https://geohash.softeng.co/dh9k61j"
+}

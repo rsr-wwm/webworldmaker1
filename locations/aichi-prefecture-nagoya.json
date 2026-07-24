@@ -1,0 +1,81 @@
+{
+  "id": "aichi-prefecture-nagoya",
+  "city": "Nagoya",
+  "state": "Aichi Prefecture",
+  "stateSlug": "aichi-prefecture",
+  "citySlug": "nagoya",
+  "country": "Japan",
+  "pincode": "450-0001",
+  "currency": "JPY",
+  "symbol": "¥",
+  "compliance": "MIC Telecommunications Act",
+  "carriers": [
+    "NTT Docomo",
+    "KDDI",
+    "SoftBank"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+81 3",
+  "timezone": "Asia/Tokyo",
+  "latitude": 35.1851045,
+  "longitude": 136.8998438,
+  "landmark": "Nagoya District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Nagoya, Japan",
+  "population": 4955735,
+  "mobileUsers": 4668302,
+  "internetUsers": 4420515,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "¥30,923 JPY per annum",
+  "activeMobileDevices": 6244226,
+  "mobilePenetration": 94.2,
+  "internetPenetration": 89.2,
+  "maleCount": 2542292,
+  "femaleCount": 2413443,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Hamamatsu",
+      "state": "Shizuoka Prefecture",
+      "stateSlug": "shizuoka-prefecture",
+      "citySlug": "hamamatsu",
+      "distance": 91.91535776951115
+    },
+    {
+      "city": "Kyoto",
+      "state": "Kyoto Prefecture",
+      "stateSlug": "kyoto-prefecture",
+      "citySlug": "kyoto",
+      "distance": 104.7493297595334
+    },
+    {
+      "city": "Shizuoka",
+      "state": "Shizuoka Prefecture",
+      "stateSlug": "shizuoka-prefecture",
+      "citySlug": "shizuoka",
+      "distance": 136.97886746382827
+    },
+    {
+      "city": "Osaka",
+      "state": "Osaka Prefecture",
+      "stateSlug": "osaka-prefecture",
+      "citySlug": "osaka",
+      "distance": 138.6810447961194
+    },
+    {
+      "city": "Kobe",
+      "state": "Hyogo Prefecture",
+      "stateSlug": "hyogo-prefecture",
+      "citySlug": "kobe",
+      "distance": 164.7963259149254
+    }
+  ],
+  "geohash": "xn325jr",
+  "geohashUrl": "https://geohash.softeng.co/xn325jr"
+}

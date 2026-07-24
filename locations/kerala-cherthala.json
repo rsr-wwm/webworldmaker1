@@ -1,0 +1,82 @@
+{
+  "id": "kerala-cherthala",
+  "city": "Cherthala",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "cherthala",
+  "country": "India",
+  "pincode": "688524",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.3977,
+  "longitude": 81.4525,
+  "landmark": "Cherthala Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Cherthala, India",
+  "population": 7791745,
+  "mobileUsers": 5906142,
+  "internetUsers": 4706213,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹9.21L per annum",
+  "activeMobileDevices": 8804671,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 60.4,
+  "maleCount": 4043916,
+  "femaleCount": 3747829,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "visakhapatnam",
+      "distance": 9.528568212372564
+    },
+    {
+      "city": "Anantapur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "anantapur",
+      "distance": 38.96668365764804
+    },
+    {
+      "city": "Kheda",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "kheda",
+      "distance": 78.48862629324984
+    },
+    {
+      "city": "Kandi",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kandi",
+      "distance": 95.50347853302036
+    },
+    {
+      "city": "Irinjalakuda",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "irinjalakuda",
+      "distance": 95.80968545976705
+    }
+  ],
+  "geohash": "tu9yjmx",
+  "geohashUrl": "https://geohash.softeng.co/tu9yjmx"
+}

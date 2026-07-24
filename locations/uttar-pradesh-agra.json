@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-agra",
+  "city": "Agra",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "agra",
+  "country": "India",
+  "pincode": "282001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.6295,
+  "longitude": 72.1776,
+  "landmark": "Agra Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Agra, India",
+  "population": 1753064,
+  "mobileUsers": 1327069,
+  "internetUsers": 957172,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.89L per annum",
+  "activeMobileDevices": 2068615,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 54.6,
+  "maleCount": 915099,
+  "femaleCount": 837965,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sirsi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sirsi",
+      "distance": 42.9753387984147
+    },
+    {
+      "city": "Kowpoi",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kowpoi",
+      "distance": 54.354129795301894
+    },
+    {
+      "city": "Lalitpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lalitpur",
+      "distance": 60.57421756342497
+    },
+    {
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "gurgaon",
+      "distance": 71.22816251562404
+    },
+    {
+      "city": "Mangaldoi",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "mangaldoi",
+      "distance": 90.28447454818597
+    }
+  ],
+  "geohash": "tdg2fmq",
+  "geohashUrl": "https://geohash.softeng.co/tdg2fmq"
+}

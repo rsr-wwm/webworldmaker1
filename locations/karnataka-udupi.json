@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-udupi",
+  "city": "Udupi",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "udupi",
+  "country": "India",
+  "pincode": "576101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.9519,
+  "longitude": 76.2536,
+  "landmark": "Udupi Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Udupi, India",
+  "population": 6527018,
+  "mobileUsers": 4986641,
+  "internetUsers": 3844413,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹11.98L per annum",
+  "activeMobileDevices": 6592288,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 58.9,
+  "maleCount": 3407103,
+  "femaleCount": 3119915,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dabhoi",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dabhoi",
+      "distance": 12.92950163111936
+    },
+    {
+      "city": "Itanagar G.P.O",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "itanagar-gpo",
+      "distance": 34.58220905136459
+    },
+    {
+      "city": "Dabki",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "dabki",
+      "distance": 77.85641002538712
+    },
+    {
+      "city": "Bharuch",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bharuch",
+      "distance": 81.89221011526719
+    },
+    {
+      "city": "Ramgarh Cantt.",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "ramgarh-cantt",
+      "distance": 92.84184931516991
+    }
+  ],
+  "geohash": "tennphn",
+  "geohashUrl": "https://geohash.softeng.co/tennphn"
+}

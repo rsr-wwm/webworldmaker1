@@ -1,0 +1,82 @@
+{
+  "id": "tripura-kathali",
+  "city": "Kathali",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "kathali",
+  "country": "India",
+  "pincode": "799132",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.7132,
+  "longitude": 73.2022,
+  "landmark": "Kathali GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kathali, India",
+  "population": 3092568,
+  "mobileUsers": 2279222,
+  "internetUsers": 1874096,
+  "genderRatioText": "929 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.99L per annum",
+  "activeMobileDevices": 3711081,
+  "mobilePenetration": 73.7,
+  "internetPenetration": 60.6,
+  "maleCount": 1601950,
+  "femaleCount": 1490618,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tiruchendur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchendur",
+      "distance": 34.50446898685165
+    },
+    {
+      "city": "Chhaindwara",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "chhaindwara",
+      "distance": 56.23269162903907
+    },
+    {
+      "city": "Vela",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vela",
+      "distance": 78.10163168940757
+    },
+    {
+      "city": "Palakol",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "palakol",
+      "distance": 94.92273471003585
+    },
+    {
+      "city": "Amalapuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "amalapuram",
+      "distance": 106.34571904399212
+    }
+  ],
+  "geohash": "tdu13u8",
+  "geohashUrl": "https://geohash.softeng.co/tdu13u8"
+}

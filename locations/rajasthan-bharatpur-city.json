@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-bharatpur-city",
+  "city": "Bharatpur City",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "bharatpur-city",
+  "country": "India",
+  "pincode": "321001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.0545,
+  "longitude": 81.7029,
+  "landmark": "Bharatpur City State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bharatpur City, India",
+  "population": 6139392,
+  "mobileUsers": 4426501,
+  "internetUsers": 3800283,
+  "genderRatioText": "905 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹10.13L per annum",
+  "activeMobileDevices": 6446361,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 61.9,
+  "maleCount": 3223181,
+  "femaleCount": 2916211,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Balrampur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "balrampur",
+      "distance": 61.56340566209653
+    },
+    {
+      "city": "Mohripur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mohripur",
+      "distance": 75.4229313093557
+    },
+    {
+      "city": "Kanpur Cantt.",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "kanpur-cantt",
+      "distance": 75.71487273542871
+    },
+    {
+      "city": "Ghatkoper East",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ghatkoper-east",
+      "distance": 87.19330761401567
+    },
+    {
+      "city": "Padrauna",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "padrauna",
+      "distance": 87.4669327174854
+    }
+  ],
+  "geohash": "tu455hy",
+  "geohashUrl": "https://geohash.softeng.co/tu455hy"
+}

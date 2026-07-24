@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-phenk",
+  "city": "Phenk",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "phenk",
+  "country": "India",
+  "pincode": "797108",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.8714,
+  "longitude": 80.3837,
+  "landmark": "Phenk Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Phenk, India",
+  "population": 3760780,
+  "mobileUsers": 2933408,
+  "internetUsers": 2279032,
+  "genderRatioText": "949 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.31L per annum",
+  "activeMobileDevices": 4174465,
+  "mobilePenetration": 78,
+  "internetPenetration": 60.6,
+  "maleCount": 1929280,
+  "femaleCount": 1831500,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tirupati",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tirupati",
+      "distance": 28.285694587059762
+    },
+    {
+      "city": "Landsdowne",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "landsdowne",
+      "distance": 72.55671033725379
+    },
+    {
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ernakulam",
+      "distance": 73.43004725878832
+    },
+    {
+      "city": "Bahadurgarh",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "bahadurgarh",
+      "distance": 76.31938943311754
+    },
+    {
+      "city": "Pupterow",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "pupterow",
+      "distance": 121.90041409290505
+    }
+  ],
+  "geohash": "tf15t1j",
+  "geohashUrl": "https://geohash.softeng.co/tf15t1j"
+}

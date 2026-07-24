@@ -1,0 +1,81 @@
+{
+  "id": "rabat-sale-kenitra-rabat",
+  "city": "Rabat",
+  "state": "Rabat-Salé-Kénitra",
+  "stateSlug": "rabat-sale-kenitra",
+  "citySlug": "rabat",
+  "country": "Morocco",
+  "pincode": "10000",
+  "currency": "MAD",
+  "symbol": "DH",
+  "compliance": "ANRT Guidelines",
+  "carriers": [
+    "Maroc Telecom",
+    "Orange",
+    "inwi"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+212",
+  "timezone": "Africa/Casablanca",
+  "latitude": 31.8834,
+  "longitude": -5.1528,
+  "landmark": "Rabat Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Maroc Telecom networks. Failovers route over Orange, inwi with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Rabat, Morocco",
+  "population": 724854,
+  "mobileUsers": 598004,
+  "internetUsers": 474779,
+  "genderRatioText": "995 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "DH31,282 MAD per annum",
+  "activeMobileDevices": 927813,
+  "mobilePenetration": 82.5,
+  "internetPenetration": 65.5,
+  "maleCount": 363152,
+  "femaleCount": 361702,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Marrakech",
+      "state": "Marrakesh-Safi",
+      "stateSlug": "marrakesh-safi",
+      "citySlug": "marrakech",
+      "distance": 5.953198441428835
+    },
+    {
+      "city": "Casablanca",
+      "state": "Casablanca-Settat",
+      "stateSlug": "casablanca-settat",
+      "citySlug": "casablanca",
+      "distance": 30.175449468106812
+    },
+    {
+      "city": "Tangier",
+      "state": "Tangier-Tetouan-Al Hoceima",
+      "stateSlug": "tangier-tetouan-al-hoceima",
+      "citySlug": "tangier",
+      "distance": 32.96917860682176
+    },
+    {
+      "city": "Fez",
+      "state": "Fes-Meknes",
+      "stateSlug": "fes-meknes",
+      "citySlug": "fez",
+      "distance": 35.11046536271453
+    },
+    {
+      "city": "Oran",
+      "state": "Oran Province",
+      "stateSlug": "oran-province",
+      "citySlug": "oran",
+      "distance": 594.5221756345102
+    }
+  ],
+  "geohash": "evsm6sp",
+  "geohashUrl": "https://geohash.softeng.co/evsm6sp"
+}

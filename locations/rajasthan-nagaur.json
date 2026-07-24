@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-nagaur",
+  "city": "Nagaur",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "nagaur",
+  "country": "India",
+  "pincode": "341001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.382,
+  "longitude": 80.8123,
+  "landmark": "Nagaur Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nagaur, India",
+  "population": 2300291,
+  "mobileUsers": 1736719,
+  "internetUsers": 1327267,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.36L per annum",
+  "activeMobileDevices": 2438308,
+  "mobilePenetration": 75.5,
+  "internetPenetration": 57.7,
+  "maleCount": 1182350,
+  "femaleCount": 1117941,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mebo",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "mebo",
+      "distance": 47.85762523690221
+    },
+    {
+      "city": "Akola",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "akola",
+      "distance": 49.81064807556351
+    },
+    {
+      "city": "Amroha",
+      "state": "Utter Pradesh",
+      "stateSlug": "utter-pradesh",
+      "citySlug": "amroha",
+      "distance": 53.66063369716766
+    },
+    {
+      "city": "Etah",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "etah",
+      "distance": 54.86691744772829
+    },
+    {
+      "city": "Chikodi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chikodi",
+      "distance": 81.25941509799848
+    }
+  ],
+  "geohash": "tu36wyt",
+  "geohashUrl": "https://geohash.softeng.co/tu36wyt"
+}

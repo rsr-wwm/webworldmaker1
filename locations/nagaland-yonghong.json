@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-yonghong",
+  "city": "Yonghong",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "yonghong",
+  "country": "India",
+  "pincode": "798617",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.2104,
+  "longitude": 80.064,
+  "landmark": "Yonghong GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Yonghong, India",
+  "population": 8707417,
+  "mobileUsers": 6626344,
+  "internetUsers": 5198327,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.04L per annum",
+  "activeMobileDevices": 9404010,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 59.7,
+  "maleCount": 4440783,
+  "femaleCount": 4266634,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Palai",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palai",
+      "distance": 10.458658763069016
+    },
+    {
+      "city": "Thodupuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thodupuzha",
+      "distance": 49.783555154237746
+    },
+    {
+      "city": "Vijaywada",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "vijaywada",
+      "distance": 57.96731995707893
+    },
+    {
+      "city": "Mau Nath Bhanjan",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mau-nath-bhanjan",
+      "distance": 61.97175529366816
+    },
+    {
+      "city": "Kiphir",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "kiphir",
+      "distance": 79.01172288014575
+    }
+  ],
+  "geohash": "tgbbtvh",
+  "geohashUrl": "https://geohash.softeng.co/tgbbtvh"
+}

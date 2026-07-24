@@ -1,0 +1,82 @@
+{
+  "id": "lakshadweep-ambalmukal",
+  "city": "Ambalmukal",
+  "state": "Lakshadweep",
+  "stateSlug": "lakshadweep",
+  "citySlug": "ambalmukal",
+  "country": "India",
+  "pincode": "682302",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.1057,
+  "longitude": 75.8395,
+  "landmark": "Ambalmukal Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ambalmukal, India",
+  "population": 9946872,
+  "mobileUsers": 7539728,
+  "internetUsers": 6117326,
+  "genderRatioText": "935 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹6.21L per annum",
+  "activeMobileDevices": 10941559,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 61.5,
+  "maleCount": 5142533,
+  "femaleCount": 4804339,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Phulbari",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "phulbari",
+      "distance": 44.862017042421584
+    },
+    {
+      "city": "Thuckalay",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thuckalay",
+      "distance": 53.40785961624182
+    },
+    {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "indore",
+      "distance": 73.83129055239995
+    },
+    {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lucknow",
+      "distance": 85.81986452373394
+    },
+    {
+      "city": "Chidambaram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "chidambaram",
+      "distance": 92.9986455018219
+    }
+  ],
+  "geohash": "tdtbjzb",
+  "geohashUrl": "https://geohash.softeng.co/tdtbjzb"
+}

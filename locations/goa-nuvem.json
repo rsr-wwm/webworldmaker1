@@ -1,0 +1,82 @@
+{
+  "id": "goa-nuvem",
+  "city": "Nuvem",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "nuvem",
+  "country": "India",
+  "pincode": "403604",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.4767,
+  "longitude": 69.9878,
+  "landmark": "Nuvem Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nuvem, India",
+  "population": 7766937,
+  "mobileUsers": 5926172,
+  "internetUsers": 4333950,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹8.44L per annum",
+  "activeMobileDevices": 8854308,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 55.8,
+  "maleCount": 4069875,
+  "femaleCount": 3697062,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Karimnagar",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "karimnagar",
+      "distance": 14.015932932693671
+    },
+    {
+      "city": "Kathihar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "kathihar",
+      "distance": 24.983256554927006
+    },
+    {
+      "city": "Gwalior (Lashkar)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "gwalior-lashkar",
+      "distance": 32.4153403738502
+    },
+    {
+      "city": "Nongpoh",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nongpoh",
+      "distance": 58.78318092966576
+    },
+    {
+      "city": "Chengalpattu",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "chengalpattu",
+      "distance": 69.13096212788862
+    }
+  ],
+  "geohash": "ts9bbtg",
+  "geohashUrl": "https://geohash.softeng.co/ts9bbtg"
+}

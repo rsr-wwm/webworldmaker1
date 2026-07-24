@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kayamkulam",
+  "city": "Kayamkulam",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kayamkulam",
+  "country": "India",
+  "pincode": "690502",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.2145,
+  "longitude": 84.3163,
+  "landmark": "Kayamkulam GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kayamkulam, India",
+  "population": 5265815,
+  "mobileUsers": 3801918,
+  "internetUsers": 2885666,
+  "genderRatioText": "925 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹11.03L per annum",
+  "activeMobileDevices": 5581763,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 54.8,
+  "maleCount": 2732958,
+  "femaleCount": 2532857,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kothgudem Collieries",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kothgudem-collieries",
+      "distance": 18.213235637821363
+    },
+    {
+      "city": "Phagwara",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "phagwara",
+      "distance": 41.537769997119554
+    },
+    {
+      "city": "Valsad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "valsad",
+      "distance": 43.021383372112126
+    },
+    {
+      "city": "Howrah",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "howrah",
+      "distance": 73.92968759579887
+    },
+    {
+      "city": "Morena",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "morena",
+      "distance": 80.68821202240596
+    }
+  ],
+  "geohash": "tcgzy9t",
+  "geohashUrl": "https://geohash.softeng.co/tcgzy9t"
+}

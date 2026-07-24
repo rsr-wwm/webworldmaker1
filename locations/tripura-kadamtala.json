@@ -1,0 +1,82 @@
+{
+  "id": "tripura-kadamtala",
+  "city": "Kadamtala",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "kadamtala",
+  "country": "India",
+  "pincode": "799261",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.0937,
+  "longitude": 80.4027,
+  "landmark": "Kadamtala Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kadamtala, India",
+  "population": 2620315,
+  "mobileUsers": 1975717,
+  "internetUsers": 1585290,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹11.35L per annum",
+  "activeMobileDevices": 2960955,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 60.5,
+  "maleCount": 1349462,
+  "femaleCount": 1270853,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Paicharthal",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "paicharthal",
+      "distance": 35.47662186971096
+    },
+    {
+      "city": "Sagar (Shinoga)",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sagar-shinoga",
+      "distance": 45.00310536778406
+    },
+    {
+      "city": "Kuli bazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kuli-bazar",
+      "distance": 67.0360705804941
+    },
+    {
+      "city": "Drishnapur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "drishnapur",
+      "distance": 85.94409726779749
+    },
+    {
+      "city": "Basirhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "basirhat",
+      "distance": 128.1502355837641
+    }
+  ],
+  "geohash": "tf9jvee",
+  "geohashUrl": "https://geohash.softeng.co/tf9jvee"
+}

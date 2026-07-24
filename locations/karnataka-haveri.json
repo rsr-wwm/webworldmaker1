@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-haveri",
+  "city": "Haveri",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "haveri",
+  "country": "India",
+  "pincode": "581110",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.6135,
+  "longitude": 85.8644,
+  "landmark": "Haveri State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Haveri, India",
+  "population": 1559255,
+  "mobileUsers": 1135137,
+  "internetUsers": 915282,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹6.18L per annum",
+  "activeMobileDevices": 1683995,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 58.7,
+  "maleCount": 798339,
+  "femaleCount": 760916,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chingkompong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "chingkompong",
+      "distance": 63.9746376019624
+    },
+    {
+      "city": "Bansi",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bansi",
+      "distance": 64.88456848684046
+    },
+    {
+      "city": "Neyyattinkara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "neyyattinkara",
+      "distance": 66.43993505305832
+    },
+    {
+      "city": "Kumta",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kumta",
+      "distance": 73.60151518523635
+    },
+    {
+      "city": "Rajgarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "rajgarh",
+      "distance": 123.88543352697961
+    }
+  ],
+  "geohash": "tft51uk",
+  "geohashUrl": "https://geohash.softeng.co/tft51uk"
+}

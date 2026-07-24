@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-pondicherry",
+  "city": "Pondicherry",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "pondicherry",
+  "country": "India",
+  "pincode": "605001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.6945,
+  "longitude": 72.5896,
+  "landmark": "Pondicherry Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pondicherry, India",
+  "population": 1401790,
+  "mobileUsers": 1091994,
+  "internetUsers": 852288,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹10.40L per annum",
+  "activeMobileDevices": 1499915,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 60.8,
+  "maleCount": 721922,
+  "femaleCount": 679868,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kimin",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "kimin",
+      "distance": 15.976543474829679
+    },
+    {
+      "city": "Baidyanadh Deoghar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "baidyanadh-deoghar",
+      "distance": 78.74268694639467
+    },
+    {
+      "city": "Tirunelveli",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirunelveli",
+      "distance": 83.43832136864553
+    },
+    {
+      "city": "Hazaribagh",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "hazaribagh",
+      "distance": 84.46161343434662
+    },
+    {
+      "city": "Tilakwadi East",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tilakwadi-east",
+      "distance": 98.70798258180584
+    }
+  ],
+  "geohash": "te7d7g4",
+  "geohashUrl": "https://geohash.softeng.co/te7d7g4"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "shanghai-municipality-shanghai",
+  "city": "Shanghai",
+  "state": "Shanghai Municipality",
+  "stateSlug": "shanghai-municipality",
+  "citySlug": "shanghai",
+  "country": "China",
+  "pincode": "200000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.0006,
+  "longitude": 104.9652,
+  "landmark": "Shanghai Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Shanghai, China",
+  "population": 2446114,
+  "mobileUsers": 2203948,
+  "internetUsers": 1753863,
+  "genderRatioText": "971 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "¥23,973 CNY per annum",
+  "activeMobileDevices": 2666264,
+  "mobilePenetration": 90.1,
+  "internetPenetration": 71.7,
+  "maleCount": 1240180,
+  "femaleCount": 1205934,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Shenzhen",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "shenzhen",
+      "distance": 5.312032260328828
+    },
+    {
+      "city": "Chongqing",
+      "state": "Chongqing Municipality",
+      "stateSlug": "chongqing-municipality",
+      "citySlug": "chongqing",
+      "distance": 7.661417004344944
+    },
+    {
+      "city": "Nantong",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "nantong",
+      "distance": 7.8270027047212585
+    },
+    {
+      "city": "Wuhan",
+      "state": "Hubei Province",
+      "stateSlug": "hubei-province",
+      "citySlug": "wuhan",
+      "distance": 9.118606515936772
+    },
+    {
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning",
+      "distance": 9.579149406582761
+    }
+  ],
+  "geohash": "wq4xhe9",
+  "geohashUrl": "https://geohash.softeng.co/wq4xhe9"
+}

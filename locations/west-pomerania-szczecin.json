@@ -1,0 +1,82 @@
+{
+  "id": "west-pomerania-szczecin",
+  "city": "Szczecin",
+  "state": "West Pomerania",
+  "stateSlug": "west-pomerania",
+  "citySlug": "szczecin",
+  "country": "Poland",
+  "pincode": "70-001",
+  "currency": "PLN",
+  "symbol": "zł",
+  "compliance": "GDPR / UKE",
+  "carriers": [
+    "Orange",
+    "Play",
+    "Plus",
+    "T-Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+48",
+  "timezone": "Europe/Warsaw",
+  "latitude": 51.904,
+  "longitude": 20.0454,
+  "landmark": "Szczecin Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Play, Plus, T-Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Szczecin, Poland",
+  "population": 2894599,
+  "mobileUsers": 2370676,
+  "internetUsers": 1924908,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "zł36,348 PLN per annum",
+  "activeMobileDevices": 3936654,
+  "mobilePenetration": 81.9,
+  "internetPenetration": 66.5,
+  "maleCount": 1479140,
+  "femaleCount": 1415459,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Warsaw",
+      "state": "Mazovia",
+      "stateSlug": "mazovia",
+      "citySlug": "warsaw",
+      "distance": 4.148769794029511
+    },
+    {
+      "city": "Lublin",
+      "state": "Lublin Voivodeship",
+      "stateSlug": "lublin-voivodeship",
+      "citySlug": "lublin",
+      "distance": 17.107974124583446
+    },
+    {
+      "city": "Gdansk",
+      "state": "Pomerania",
+      "stateSlug": "pomerania",
+      "citySlug": "gdansk",
+      "distance": 19.585042250636334
+    },
+    {
+      "city": "Poznan",
+      "state": "Greater Poland",
+      "stateSlug": "greater-poland",
+      "citySlug": "poznan",
+      "distance": 19.869789771082004
+    },
+    {
+      "city": "Wroclaw",
+      "state": "Lower Silesia",
+      "stateSlug": "lower-silesia",
+      "citySlug": "wroclaw",
+      "distance": 23.49300154709735
+    }
+  ],
+  "geohash": "u3nr20u",
+  "geohashUrl": "https://geohash.softeng.co/u3nr20u"
+}

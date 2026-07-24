@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-firozabad",
+  "city": "Firozabad",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "firozabad",
+  "country": "India",
+  "pincode": "283203",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.3418,
+  "longitude": 86.3232,
+  "landmark": "Firozabad Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Firozabad, India",
+  "population": 5176379,
+  "mobileUsers": 4022046,
+  "internetUsers": 3131709,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹6.20L per annum",
+  "activeMobileDevices": 5849308,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 60.5,
+  "maleCount": 2650306,
+  "femaleCount": 2526073,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Arni",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arni",
+      "distance": 51.36418063541535
+    },
+    {
+      "city": "Bokaro Steel City",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bokaro-steel-city",
+      "distance": 69.96695413471838
+    },
+    {
+      "city": "A.R.T.C",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "artc",
+      "distance": 73.93669235481934
+    },
+    {
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nashik",
+      "distance": 87.02360027888457
+    },
+    {
+      "city": "Somdal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "somdal",
+      "distance": 102.60563153076592
+    }
+  ],
+  "geohash": "tvt6k3d",
+  "geohashUrl": "https://geohash.softeng.co/tvt6k3d"
+}

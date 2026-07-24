@@ -1,0 +1,82 @@
+{
+  "id": "kerala-malappuram",
+  "city": "Malappuram",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "malappuram",
+  "country": "India",
+  "pincode": "676505",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.4327,
+  "longitude": 71.7063,
+  "landmark": "Malappuram Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Malappuram, India",
+  "population": 9358100,
+  "mobileUsers": 6981142,
+  "internetUsers": 5137596,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹9.09L per annum",
+  "activeMobileDevices": 10293910,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 54.9,
+  "maleCount": 4866212,
+  "femaleCount": 4491888,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kuvep",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kuvep",
+      "distance": 49.50640062334974
+    },
+    {
+      "city": "Alwar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "alwar",
+      "distance": 60.54111202210182
+    },
+    {
+      "city": "Langding",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "langding",
+      "distance": 83.96632677537129
+    },
+    {
+      "city": "Mao",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mao",
+      "distance": 87.1486575213199
+    },
+    {
+      "city": "Baghma",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "baghma",
+      "distance": 88.97744976588774
+    }
+  ],
+  "geohash": "tt6vpsn",
+  "geohashUrl": "https://geohash.softeng.co/tt6vpsn"
+}

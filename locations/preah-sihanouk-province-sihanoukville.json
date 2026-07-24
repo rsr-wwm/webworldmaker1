@@ -1,0 +1,81 @@
+{
+  "id": "preah-sihanouk-province-sihanoukville",
+  "city": "Sihanoukville",
+  "state": "Preah Sihanouk Province",
+  "stateSlug": "preah-sihanouk-province",
+  "citySlug": "sihanoukville",
+  "country": "Cambodia",
+  "pincode": "18000",
+  "currency": "KHR",
+  "symbol": "៛",
+  "compliance": "TRC Guidelines",
+  "carriers": [
+    "Smart",
+    "Cellcard",
+    "Metfone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+855",
+  "timezone": "Asia/Phnom_Penh",
+  "latitude": 12.9334,
+  "longitude": 104.9149,
+  "landmark": "Sihanoukville Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Smart networks. Failovers route over Cellcard, Metfone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Sihanoukville, Cambodia",
+  "population": 1170841,
+  "mobileUsers": 947210,
+  "internetUsers": 737629,
+  "genderRatioText": "977 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "៛39,910 KHR per annum",
+  "activeMobileDevices": 1557218,
+  "mobilePenetration": 80.9,
+  "internetPenetration": 63,
+  "maleCount": 592446,
+  "femaleCount": 578395,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Siem Reap",
+      "state": "Siem Reap Province",
+      "stateSlug": "siem-reap-province",
+      "citySlug": "siem-reap",
+      "distance": 27.17213795304311
+    },
+    {
+      "city": "Phnom Penh",
+      "state": "Phnom Penh Municipality",
+      "stateSlug": "phnom-penh-municipality",
+      "citySlug": "phnom-penh",
+      "distance": 30.601543936832712
+    },
+    {
+      "city": "Danang",
+      "state": "South Central Coast",
+      "stateSlug": "south-central-coast",
+      "citySlug": "danang",
+      "distance": 448.61794982909436
+    },
+    {
+      "city": "Haiphong",
+      "state": "Red River Delta",
+      "stateSlug": "red-river-delta",
+      "citySlug": "haiphong",
+      "distance": 461.61050100486113
+    },
+    {
+      "city": "Hanoi",
+      "state": "Hanoi Capital",
+      "stateSlug": "hanoi-capital",
+      "citySlug": "hanoi",
+      "distance": 462.1276187360189
+    }
+  ],
+  "geohash": "w669e6k",
+  "geohashUrl": "https://geohash.softeng.co/w669e6k"
+}

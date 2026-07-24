@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-namsai",
+  "city": "Namsai",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "namsai",
+  "country": "India",
+  "pincode": "792103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.2602,
+  "longitude": 88.8744,
+  "landmark": "Namsai Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Namsai, India",
+  "population": 7635962,
+  "mobileUsers": 5665883,
+  "internetUsers": 4398314,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹10.54L per annum",
+  "activeMobileDevices": 8781356,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 57.6,
+  "maleCount": 3963064,
+  "femaleCount": 3672898,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nawabganj",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "nawabganj",
+      "distance": 14.894566008753179
+    },
+    {
+      "city": "Keonjargarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "keonjargarh",
+      "distance": 46.91336475977043
+    },
+    {
+      "city": "Longlai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "longlai",
+      "distance": 87.4659187281196
+    },
+    {
+      "city": "Meerut City",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "meerut-city",
+      "distance": 98.27244604767526
+    },
+    {
+      "city": "Contai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "contai",
+      "distance": 113.7782030878346
+    }
+  ],
+  "geohash": "tgz0yqk",
+  "geohashUrl": "https://geohash.softeng.co/tgz0yqk"
+}

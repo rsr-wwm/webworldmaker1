@@ -1,0 +1,82 @@
+{
+  "id": "bihar-saharsa",
+  "city": "Saharsa",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "saharsa",
+  "country": "India",
+  "pincode": "852201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.1503,
+  "longitude": 84.3768,
+  "landmark": "Saharsa Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Saharsa, India",
+  "population": 6764657,
+  "mobileUsers": 4931434,
+  "internetUsers": 3882913,
+  "genderRatioText": "929 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹9.63L per annum",
+  "activeMobileDevices": 6899950,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 57.4,
+  "maleCount": 3504092,
+  "femaleCount": 3260565,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Atur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "atur",
+      "distance": 13.292739041947602
+    },
+    {
+      "city": "Calcutta G.P.O",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "calcutta-gpo",
+      "distance": 63.52331573403628
+    },
+    {
+      "city": "Malda",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "malda",
+      "distance": 64.50285680550635
+    },
+    {
+      "city": "Mainpuri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mainpuri",
+      "distance": 65.19957665190249
+    },
+    {
+      "city": "Solapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "solapur",
+      "distance": 73.77505128607787
+    }
+  ],
+  "geohash": "tvk5809",
+  "geohashUrl": "https://geohash.softeng.co/tvk5809"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-anini",
+  "city": "Anini",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "anini",
+  "country": "India",
+  "pincode": "792101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.5795,
+  "longitude": 76.9446,
+  "landmark": "Anini Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Anini, India",
+  "population": 8120339,
+  "mobileUsers": 5984689,
+  "internetUsers": 4449945,
+  "genderRatioText": "965 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹11.52L per annum",
+  "activeMobileDevices": 8932372,
+  "mobilePenetration": 73.7,
+  "internetPenetration": 54.8,
+  "maleCount": 4133253,
+  "femaleCount": 3987086,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajouri",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "rajouri",
+      "distance": 19.303079258217032
+    },
+    {
+      "city": "Shrirampur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "shrirampur",
+      "distance": 70.4015020869223
+    },
+    {
+      "city": "Palani",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "palani",
+      "distance": 87.35818977491489
+    },
+    {
+      "city": "Karad",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "karad",
+      "distance": 87.92754329385386
+    },
+    {
+      "city": "Bobbili",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bobbili",
+      "distance": 91.16792720920523
+    }
+  ],
+  "geohash": "tty9qfv",
+  "geohashUrl": "https://geohash.softeng.co/tty9qfv"
+}

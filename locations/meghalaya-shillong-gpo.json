@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-shillong-gpo",
+  "city": "Shillong G.P.O",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "shillong-gpo",
+  "country": "India",
+  "pincode": "793001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "post_office",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.7299,
+  "longitude": 69.4365,
+  "landmark": "Shillong Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shillong G.P.O, India",
+  "population": 39387,
+  "mobileUsers": 29658,
+  "internetUsers": 21702,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹2.85L per annum",
+  "activeMobileDevices": 45688,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 55.1,
+  "maleCount": 20166,
+  "femaleCount": 19221,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hayuliyang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "hayuliyang",
+      "distance": 35.32333483753859
+    },
+    {
+      "city": "Margo",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "margo",
+      "distance": 56.88682534738932
+    },
+    {
+      "city": "Nangthumai",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangthumai",
+      "distance": 97.4654464109554
+    },
+    {
+      "city": "Hubli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hubli",
+      "distance": 98.49308156712995
+    },
+    {
+      "city": "Srivaikuntam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "srivaikuntam",
+      "distance": 110.50731928028901
+    }
+  ],
+  "geohash": "tt17kn4",
+  "geohashUrl": "https://geohash.softeng.co/tt17kn4"
+}

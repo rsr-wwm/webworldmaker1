@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-dhule",
+  "city": "Dhule",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "dhule",
+  "country": "India",
+  "pincode": "424001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.0379,
+  "longitude": 76.4648,
+  "landmark": "Dhule Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dhule, India",
+  "population": 6205698,
+  "mobileUsers": 4623245,
+  "internetUsers": 3413133,
+  "genderRatioText": "949 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹6.43L per annum",
+  "activeMobileDevices": 7074495,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 55,
+  "maleCount": 3183523,
+  "femaleCount": 3022175,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sonepat",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "sonepat",
+      "distance": 30.70853762983076
+    },
+    {
+      "city": "Peren",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "peren",
+      "distance": 80.92922496223328
+    },
+    {
+      "city": "Nampong",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "nampong",
+      "distance": 87.24805609738551
+    },
+    {
+      "city": "Borivali",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "borivali",
+      "distance": 94.49795246209429
+    },
+    {
+      "city": "Secunderabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "secunderabad",
+      "distance": 95.79706058761694
+    }
+  ],
+  "geohash": "tswk5up",
+  "geohashUrl": "https://geohash.softeng.co/tswk5up"
+}

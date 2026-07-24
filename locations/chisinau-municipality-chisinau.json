@@ -1,0 +1,80 @@
+{
+  "id": "chisinau-municipality-chisinau",
+  "city": "Chisinau",
+  "state": "Chisinau Municipality",
+  "stateSlug": "chisinau-municipality",
+  "citySlug": "chisinau",
+  "country": "Moldova",
+  "pincode": "MD-2000",
+  "currency": "MDL",
+  "symbol": "L",
+  "compliance": "ANRCETI Rules",
+  "carriers": [
+    "Orange",
+    "Moldcell"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+373",
+  "timezone": "Europe/Chisinau",
+  "latitude": 47.0908,
+  "longitude": 28.9408,
+  "landmark": "Chisinau Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Moldcell with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Chisinau, Moldova",
+  "population": 4532116,
+  "mobileUsers": 3557711,
+  "internetUsers": 3118095,
+  "genderRatioText": "977 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "L39,874 MDL per annum",
+  "activeMobileDevices": 6073035,
+  "mobilePenetration": 78.5,
+  "internetPenetration": 68.8,
+  "maleCount": 2293251,
+  "femaleCount": 2238865,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Kyiv",
+      "state": "Kyiv City",
+      "stateSlug": "kyiv-city",
+      "citySlug": "kyiv",
+      "distance": 310.71957077451106
+    },
+    {
+      "city": "Brasov",
+      "state": "Brasov County",
+      "stateSlug": "brasov-county",
+      "citySlug": "brasov",
+      "distance": 311.04407723284845
+    },
+    {
+      "city": "Constanta",
+      "state": "Constanta County",
+      "stateSlug": "constanta-county",
+      "citySlug": "constanta",
+      "distance": 312.0245263461556
+    },
+    {
+      "city": "Bucharest",
+      "state": "Bucharest Municipality",
+      "stateSlug": "bucharest-municipality",
+      "citySlug": "bucharest",
+      "distance": 316.32297004146443
+    },
+    {
+      "city": "Cluj-Napoca",
+      "state": "Cluj County",
+      "stateSlug": "cluj-county",
+      "citySlug": "cluj-napoca",
+      "distance": 322.84407435101315
+    }
+  ],
+  "geohash": "u8kefsd",
+  "geohashUrl": "https://geohash.softeng.co/u8kefsd"
+}

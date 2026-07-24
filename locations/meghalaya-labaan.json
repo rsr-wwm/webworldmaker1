@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-labaan",
+  "city": "Labaan",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "labaan",
+  "country": "India",
+  "pincode": "793004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.8686,
+  "longitude": 69.8571,
+  "landmark": "Labaan Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Labaan, India",
+  "population": 3763445,
+  "mobileUsers": 2796239,
+  "internetUsers": 2160217,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹8.89L per annum",
+  "activeMobileDevices": 4290327,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 57.4,
+  "maleCount": 1926884,
+  "femaleCount": 1836561,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Karimganj",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "karimganj",
+      "distance": 56.71620252976656
+    },
+    {
+      "city": "Darjeeling",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "darjeeling",
+      "distance": 69.50707560841565
+    },
+    {
+      "city": "Gudur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gudur",
+      "distance": 77.81218878331985
+    },
+    {
+      "city": "Bahraich",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bahraich",
+      "distance": 78.06077481086052
+    },
+    {
+      "city": "Palanpur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "palanpur",
+      "distance": 104.32096182227609
+    }
+  ],
+  "geohash": "te99j8u",
+  "geohashUrl": "https://geohash.softeng.co/te99j8u"
+}

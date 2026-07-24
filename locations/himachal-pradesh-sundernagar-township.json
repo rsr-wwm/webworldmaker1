@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-sundernagar-township",
+  "city": "Sundernagar Township",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "sundernagar-township",
+  "country": "India",
+  "pincode": "174402",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.5625,
+  "longitude": 87.9033,
+  "landmark": "Sundernagar Township Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sundernagar Township, India",
+  "population": 4002250,
+  "mobileUsers": 2941653,
+  "internetUsers": 2325307,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹8.88L per annum",
+  "activeMobileDevices": 4362452,
+  "mobilePenetration": 73.5,
+  "internetPenetration": 58.1,
+  "maleCount": 2057157,
+  "femaleCount": 1945094,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Berhampur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "berhampur",
+      "distance": 38.55191144503949
+    },
+    {
+      "city": "Mavelikara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "mavelikara",
+      "distance": 65.44303979836799
+    },
+    {
+      "city": "Manubazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "manubazar",
+      "distance": 80.7057912919251
+    },
+    {
+      "city": "Hyderabad G.P.O",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hyderabad-gpo",
+      "distance": 97.4711608975073
+    },
+    {
+      "city": "Panipat",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "panipat",
+      "distance": 105.63226419848318
+    }
+  ],
+  "geohash": "tcw88qc",
+  "geohashUrl": "https://geohash.softeng.co/tcw88qc"
+}

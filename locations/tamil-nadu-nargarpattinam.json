@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-nargarpattinam",
+  "city": "Nargarpattinam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "nargarpattinam",
+  "country": "India",
+  "pincode": "611001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.1341,
+  "longitude": 76.1607,
+  "landmark": "Nargarpattinam Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nargarpattinam, India",
+  "population": 7517658,
+  "mobileUsers": 5630725,
+  "internetUsers": 4112158,
+  "genderRatioText": "935 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.28L per annum",
+  "activeMobileDevices": 7743187,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 54.7,
+  "maleCount": 3886629,
+  "femaleCount": 3631029,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Suramangalam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "suramangalam",
+      "distance": 16.38633303483164
+    },
+    {
+      "city": "Sandila",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "sandila",
+      "distance": 30.82173263802352
+    },
+    {
+      "city": "Rupnagar (Ropar)",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rupnagar-ropar",
+      "distance": 30.970074312270945
+    },
+    {
+      "city": "Nargund",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "nargund",
+      "distance": 109.3460074260958
+    },
+    {
+      "city": "Sirkali",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sirkali",
+      "distance": 111.38034989505122
+    }
+  ],
+  "geohash": "t9ypm4f",
+  "geohashUrl": "https://geohash.softeng.co/t9ypm4f"
+}

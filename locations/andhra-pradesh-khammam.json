@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-khammam",
+  "city": "Khammam",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "khammam",
+  "country": "India",
+  "pincode": "507001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.0785,
+  "longitude": 73.0237,
+  "landmark": "Khammam Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Khammam, India",
+  "population": 6194156,
+  "mobileUsers": 4763305,
+  "internetUsers": 3419174,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.57L per annum",
+  "activeMobileDevices": 6379980,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 55.2,
+  "maleCount": 3245738,
+  "femaleCount": 2948418,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dhampur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dhampur",
+      "distance": 27.22947388293937
+    },
+    {
+      "city": "Vasco Da Gama",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vasco-da-gama",
+      "distance": 48.65714124312892
+    },
+    {
+      "city": "Baghma",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "baghma",
+      "distance": 73.73946510905589
+    },
+    {
+      "city": "Kuvep",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kuvep",
+      "distance": 116.65416345713331
+    },
+    {
+      "city": "Thingdol",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thingdol",
+      "distance": 120.31515788685648
+    }
+  ],
+  "geohash": "ttebv9w",
+  "geohashUrl": "https://geohash.softeng.co/ttebv9w"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-devakottai",
+  "city": "Devakottai",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "devakottai",
+  "country": "India",
+  "pincode": "630302",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.6281,
+  "longitude": 71.4708,
+  "landmark": "Devakottai Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Devakottai, India",
+  "population": 6819530,
+  "mobileUsers": 5312413,
+  "internetUsers": 3948507,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹10.69L per annum",
+  "activeMobileDevices": 7774264,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 57.9,
+  "maleCount": 3552975,
+  "femaleCount": 3266555,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Latur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "latur",
+      "distance": 39.05643694968087
+    },
+    {
+      "city": "Dholka",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dholka",
+      "distance": 42.308154310892064
+    },
+    {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "kanpur",
+      "distance": 69.20941241740422
+    },
+    {
+      "city": "Kapurthala",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "kapurthala",
+      "distance": 109.727314230982
+    },
+    {
+      "city": "Beleghata",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "beleghata",
+      "distance": 128.26224771919593
+    }
+  ],
+  "geohash": "t9dyf2e",
+  "geohashUrl": "https://geohash.softeng.co/t9dyf2e"
+}

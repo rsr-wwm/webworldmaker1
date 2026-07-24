@@ -1,0 +1,81 @@
+{
+  "id": "western-australia-perth",
+  "city": "Perth",
+  "state": "Western Australia",
+  "stateSlug": "western-australia",
+  "citySlug": "perth",
+  "country": "Australia",
+  "pincode": "6000",
+  "currency": "AUD",
+  "symbol": "A$",
+  "compliance": "ACMA Rules",
+  "carriers": [
+    "Telstra",
+    "Optus",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+61 2",
+  "timezone": "Australia/Sydney",
+  "latitude": -31.9558967,
+  "longitude": 115.8605784,
+  "landmark": "Perth Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Telstra networks. Failovers route over Optus, Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Perth, Australia",
+  "population": 3376078,
+  "mobileUsers": 3244410,
+  "internetUsers": 2984452,
+  "genderRatioText": "989 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "A$40,466 AUD per annum",
+  "activeMobileDevices": 4118815,
+  "mobilePenetration": 96.1,
+  "internetPenetration": 88.4,
+  "maleCount": 1698167,
+  "femaleCount": 1677911,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Lyon",
+      "state": "Auvergne-Rhône-Alpes",
+      "stateSlug": "auvergne-rhone-alpes",
+      "citySlug": "lyon",
+      "distance": 1980.6219161712388
+    },
+    {
+      "city": "Adelaide",
+      "state": "South Australia",
+      "stateSlug": "south-australia",
+      "citySlug": "adelaide",
+      "distance": 2130.8804655082463
+    },
+    {
+      "city": "Flying Fish Cove",
+      "state": "Christmas Island",
+      "stateSlug": "christmas-island",
+      "citySlug": "flying-fish-cove",
+      "distance": 2620.706194628432
+    },
+    {
+      "city": "Darwin",
+      "state": "Northern Territory",
+      "stateSlug": "northern-territory",
+      "citySlug": "darwin",
+      "distance": 2653.5049677466404
+    },
+    {
+      "city": "Melbourne",
+      "state": "Victoria",
+      "stateSlug": "victoria",
+      "citySlug": "melbourne",
+      "distance": 2721.3089912925875
+    }
+  ],
+  "geohash": "qd66hqx",
+  "geohashUrl": "https://geohash.softeng.co/qd66hqx"
+}

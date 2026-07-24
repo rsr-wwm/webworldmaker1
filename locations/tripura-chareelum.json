@@ -1,0 +1,82 @@
+{
+  "id": "tripura-chareelum",
+  "city": "Chareelum",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "chareelum",
+  "country": "India",
+  "pincode": "799107",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.0397,
+  "longitude": 76.3403,
+  "landmark": "Chareelum Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chareelum, India",
+  "population": 922967,
+  "mobileUsers": 697763,
+  "internetUsers": 536243,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹11.62L per annum",
+  "activeMobileDevices": 1098330,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 58.1,
+  "maleCount": 475328,
+  "femaleCount": 447639,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mowkarvat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mowkarvat",
+      "distance": 66.6497308268824
+    },
+    {
+      "city": "Sonepat",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "sonepat",
+      "distance": 81.56755406568986
+    },
+    {
+      "city": "Attili",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "attili",
+      "distance": 84.05667186037276
+    },
+    {
+      "city": "Mepusa",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "mepusa",
+      "distance": 96.45019733450401
+    },
+    {
+      "city": "Dhanbad",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "dhanbad",
+      "distance": 100.35992704342075
+    }
+  ],
+  "geohash": "tsy3c4m",
+  "geohashUrl": "https://geohash.softeng.co/tsy3c4m"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-kumbakonam",
+  "city": "Kumbakonam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "kumbakonam",
+  "country": "India",
+  "pincode": "612001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.0865,
+  "longitude": 73.7156,
+  "landmark": "Kumbakonam Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kumbakonam, India",
+  "population": 8813075,
+  "mobileUsers": 6363040,
+  "internetUsers": 5076331,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹11.29L per annum",
+  "activeMobileDevices": 9694382,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 57.6,
+  "maleCount": 4626864,
+  "femaleCount": 4186211,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kapanga",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "kapanga",
+      "distance": 39.824014547564424
+    },
+    {
+      "city": "Beawar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "beawar",
+      "distance": 58.80412091016912
+    },
+    {
+      "city": "Tirunelveli",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirunelveli",
+      "distance": 60.460646619731655
+    },
+    {
+      "city": "Betul",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "betul",
+      "distance": 72.59228124352141
+    },
+    {
+      "city": "Shimla",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "shimla",
+      "distance": 76.66405300857319
+    }
+  ],
+  "geohash": "tehqvkw",
+  "geohashUrl": "https://geohash.softeng.co/tehqvkw"
+}

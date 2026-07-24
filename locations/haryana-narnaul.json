@@ -1,0 +1,82 @@
+{
+  "id": "haryana-narnaul",
+  "city": "Narnaul",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "narnaul",
+  "country": "India",
+  "pincode": "123001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.8216,
+  "longitude": 71.1074,
+  "landmark": "Narnaul Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Narnaul, India",
+  "population": 9837707,
+  "mobileUsers": 7092986,
+  "internetUsers": 5656681,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.34L per annum",
+  "activeMobileDevices": 10821477,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 57.5,
+  "maleCount": 5066419,
+  "femaleCount": 4771288,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Baruipur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "baruipur",
+      "distance": 27.800038634429868
+    },
+    {
+      "city": "Langding",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "langding",
+      "distance": 30.859060518357026
+    },
+    {
+      "city": "Alwar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "alwar",
+      "distance": 69.71998214817032
+    },
+    {
+      "city": "Mao",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mao",
+      "distance": 75.58636863681473
+    },
+    {
+      "city": "Gudivada",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gudivada",
+      "distance": 78.39006312871766
+    }
+  ],
+  "geohash": "tt69dhf",
+  "geohashUrl": "https://geohash.softeng.co/tt69dhf"
+}

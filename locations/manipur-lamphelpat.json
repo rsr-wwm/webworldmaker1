@@ -1,0 +1,82 @@
+{
+  "id": "manipur-lamphelpat",
+  "city": "Lamphelpat",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "lamphelpat",
+  "country": "India",
+  "pincode": "795004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.6989,
+  "longitude": 73.1883,
+  "landmark": "Lamphelpat Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lamphelpat, India",
+  "population": 5995633,
+  "mobileUsers": 4490729,
+  "internetUsers": 3345563,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹10.68L per annum",
+  "activeMobileDevices": 6655152,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 55.8,
+  "maleCount": 3051777,
+  "femaleCount": 2943856,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kasavali",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kasavali",
+      "distance": 79.88374232578728
+    },
+    {
+      "city": "Koppa",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "koppa",
+      "distance": 82.688372724345
+    },
+    {
+      "city": "Karaikudi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "karaikudi",
+      "distance": 102.74873703438725
+    },
+    {
+      "city": "Buchinghampet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "buchinghampet",
+      "distance": 107.11748041896021
+    },
+    {
+      "city": "Campwell Bay",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "campwell-bay",
+      "distance": 120.53623569196225
+    }
+  ],
+  "geohash": "tdkjcmy",
+  "geohashUrl": "https://geohash.softeng.co/tdkjcmy"
+}

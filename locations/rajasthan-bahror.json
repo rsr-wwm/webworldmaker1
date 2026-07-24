@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-bahror",
+  "city": "Bahror",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "bahror",
+  "country": "India",
+  "pincode": "301701",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.772,
+  "longitude": 87.9017,
+  "landmark": "Bahror Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bahror, India",
+  "population": 6817238,
+  "mobileUsers": 5235638,
+  "internetUsers": 3981266,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹7.04L per annum",
+  "activeMobileDevices": 7567134,
+  "mobilePenetration": 76.8,
+  "internetPenetration": 58.4,
+  "maleCount": 3531329,
+  "femaleCount": 3285909,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Arrah",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "arrah",
+      "distance": 31.572343982966746
+    },
+    {
+      "city": "Madanganj",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "madanganj",
+      "distance": 52.48793170099706
+    },
+    {
+      "city": "Chalakudi",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chalakudi",
+      "distance": 94.06479398897655
+    },
+    {
+      "city": "Gonda",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gonda",
+      "distance": 105.25254505440864
+    },
+    {
+      "city": "Aibok",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "aibok",
+      "distance": 110.59038522859687
+    }
+  ],
+  "geohash": "tfws030",
+  "geohashUrl": "https://geohash.softeng.co/tfws030"
+}

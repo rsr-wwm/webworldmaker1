@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-kanigiri",
+  "city": "Kanigiri",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "kanigiri",
+  "country": "India",
+  "pincode": "523230",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.4591,
+  "longitude": 73.6103,
+  "landmark": "Kanigiri Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kanigiri, India",
+  "population": 9011193,
+  "mobileUsers": 6722349,
+  "internetUsers": 5487816,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹8.20L per annum",
+  "activeMobileDevices": 10362871,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 60.9,
+  "maleCount": 4649776,
+  "femaleCount": 4361417,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thingshul Theleha",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thingshul-theleha",
+      "distance": 82.8809596518184
+    },
+    {
+      "city": "Rasra",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "rasra",
+      "distance": 105.63446039487448
+    },
+    {
+      "city": "Buzar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "buzar",
+      "distance": 113.6452450583016
+    },
+    {
+      "city": "Guna",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "guna",
+      "distance": 122.54115699274081
+    },
+    {
+      "city": "Parvathipuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "parvathipuram",
+      "distance": 123.58641613554646
+    }
+  ],
+  "geohash": "t9s255c",
+  "geohashUrl": "https://geohash.softeng.co/t9s255c"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-ramkrishna-mission",
+  "city": "Ramkrishna Mission",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "ramkrishna-mission",
+  "country": "India",
+  "pincode": "791113",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.6537,
+  "longitude": 74.4571,
+  "landmark": "Ramkrishna Mission State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ramkrishna Mission, India",
+  "population": 6857072,
+  "mobileUsers": 5252517,
+  "internetUsers": 3915388,
+  "genderRatioText": "926 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹11.84L per annum",
+  "activeMobileDevices": 7885632,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 57.1,
+  "maleCount": 3558820,
+  "femaleCount": 3298252,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "St.Thomas Mount",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "stthomas-mount",
+      "distance": 38.193996361021966
+    },
+    {
+      "city": "Banda",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "banda",
+      "distance": 100.77297801903252
+    },
+    {
+      "city": "Bhivani",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "bhivani",
+      "distance": 122.67495188750168
+    },
+    {
+      "city": "Mowpat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mowpat",
+      "distance": 127.02329588748566
+    },
+    {
+      "city": "Tezpur",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tezpur",
+      "distance": 140.1925636856524
+    }
+  ],
+  "geohash": "tskuq24",
+  "geohashUrl": "https://geohash.softeng.co/tskuq24"
+}

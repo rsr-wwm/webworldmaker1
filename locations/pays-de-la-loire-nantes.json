@@ -1,0 +1,82 @@
+{
+  "id": "pays-de-la-loire-nantes",
+  "city": "Nantes",
+  "state": "Pays de la Loire",
+  "stateSlug": "pays-de-la-loire",
+  "citySlug": "nantes",
+  "country": "France",
+  "pincode": "44000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ARCEP",
+  "carriers": [
+    "Orange",
+    "SFR",
+    "Bouygues",
+    "Free Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+33 1",
+  "timezone": "Europe/Paris",
+  "latitude": 47.2184,
+  "longitude": -1.5536,
+  "landmark": "Nantes Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Nantes, France",
+  "population": 1226270,
+  "mobileUsers": 1141657,
+  "internetUsers": 1135526,
+  "genderRatioText": "1,001 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "€40,212 per annum",
+  "activeMobileDevices": 1704515,
+  "mobilePenetration": 93.1,
+  "internetPenetration": 92.6,
+  "maleCount": 613135,
+  "femaleCount": 613135,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Paris",
+      "state": "Île-de-France",
+      "stateSlug": "ile-de-france",
+      "citySlug": "paris",
+      "distance": 342.7339472016822
+    },
+    {
+      "city": "Leicester",
+      "state": "Leicestershire",
+      "stateSlug": "leicestershire",
+      "citySlug": "leicester",
+      "distance": 385.9392250308331
+    },
+    {
+      "city": "Andorra la Vella",
+      "state": "Andorra Parish",
+      "stateSlug": "andorra-parish",
+      "citySlug": "andorra-la-vella",
+      "distance": 571.154831629698
+    },
+    {
+      "city": "Liege",
+      "state": "Liege Province",
+      "stateSlug": "liege-province",
+      "citySlug": "liege",
+      "distance": 575.6787285316869
+    },
+    {
+      "city": "Ghent",
+      "state": "East Flanders",
+      "stateSlug": "east-flanders",
+      "citySlug": "ghent",
+      "distance": 578.6799389891646
+    }
+  ],
+  "geohash": "gbquseu",
+  "geohashUrl": "https://geohash.softeng.co/gbquseu"
+}

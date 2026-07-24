@@ -1,0 +1,80 @@
+{
+  "id": "tahiti-island-papeete",
+  "city": "Papeete",
+  "state": "Tahiti Island",
+  "stateSlug": "tahiti-island",
+  "citySlug": "papeete",
+  "country": "French Polynesia",
+  "pincode": "98714",
+  "currency": "XPF",
+  "symbol": "F",
+  "compliance": "DGEN Rules",
+  "carriers": [
+    "Vini",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+689",
+  "timezone": "Pacific/Gambier",
+  "latitude": -14.8423,
+  "longitude": -139.9488,
+  "landmark": "Papeete Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Vini networks. Failovers route over Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Papeete, French Polynesia",
+  "population": 4066471,
+  "mobileUsers": 3273509,
+  "internetUsers": 2720469,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "F43,591 XPF per annum",
+  "activeMobileDevices": 5164418,
+  "mobilePenetration": 80.5,
+  "internetPenetration": 66.9,
+  "maleCount": 2077967,
+  "femaleCount": 1988504,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Avarua",
+      "state": "Rarotonga Island",
+      "stateSlug": "rarotonga-island",
+      "citySlug": "avarua",
+      "distance": 2230.6528834591218
+    },
+    {
+      "city": "Alofi",
+      "state": "Alofi Village",
+      "stateSlug": "alofi-village",
+      "citySlug": "alofi",
+      "distance": 3233.763275879992
+    },
+    {
+      "city": "Apia",
+      "state": "Tuamasaga",
+      "stateSlug": "tuamasaga",
+      "citySlug": "apia",
+      "distance": 3496.9961698302513
+    },
+    {
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "citySlug": "honolulu",
+      "distance": 5214.528855408052
+    },
+    {
+      "city": "Strasbourg",
+      "state": "Grand Est",
+      "stateSlug": "grand-est",
+      "citySlug": "strasbourg",
+      "distance": 5643.520155259222
+    }
+  ],
+  "geohash": "2vk7x6h",
+  "geohashUrl": "https://geohash.softeng.co/2vk7x6h"
+}

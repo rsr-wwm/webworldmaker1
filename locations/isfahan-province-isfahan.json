@@ -1,0 +1,81 @@
+{
+  "id": "isfahan-province-isfahan",
+  "city": "Isfahan",
+  "state": "Isfahan Province",
+  "stateSlug": "isfahan-province",
+  "citySlug": "isfahan",
+  "country": "Iran",
+  "pincode": "81331",
+  "currency": "IRR",
+  "symbol": "﷼",
+  "compliance": "CRA Regulations",
+  "carriers": [
+    "MCI",
+    "Irancell",
+    "RighTel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+98",
+  "timezone": "Asia/Tehran",
+  "latitude": 32.1442,
+  "longitude": 53.0155,
+  "landmark": "Isfahan State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over MCI networks. Failovers route over Irancell, RighTel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Isfahan, Iran",
+  "population": 2591296,
+  "mobileUsers": 2135227,
+  "internetUsers": 1583281,
+  "genderRatioText": "967 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "﷼36,412 IRR per annum",
+  "activeMobileDevices": 3601901,
+  "mobilePenetration": 82.4,
+  "internetPenetration": 61.1,
+  "maleCount": 1316378,
+  "femaleCount": 1274918,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Tabriz",
+      "state": "East Azerbaijan",
+      "stateSlug": "east-azerbaijan",
+      "citySlug": "tabriz",
+      "distance": 24.919077150997214
+    },
+    {
+      "city": "Tehran",
+      "state": "Tehran Province",
+      "stateSlug": "tehran-province",
+      "citySlug": "tehran",
+      "distance": 34.146428356940774
+    },
+    {
+      "city": "Mashhad",
+      "state": "Razavi Khorasan",
+      "stateSlug": "razavi-khorasan",
+      "citySlug": "mashhad",
+      "distance": 35.77459323565087
+    },
+    {
+      "city": "Kuwait City",
+      "state": "Capital Governorate",
+      "stateSlug": "capital-governorate",
+      "citySlug": "kuwait-city",
+      "distance": 571.3730328793781
+    },
+    {
+      "city": "Marseille",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "stateSlug": "provence-alpes-cote-dazur",
+      "citySlug": "marseille",
+      "distance": 710.9873390743719
+    }
+  ],
+  "geohash": "tjtwy7s",
+  "geohashUrl": "https://geohash.softeng.co/tjtwy7s"
+}

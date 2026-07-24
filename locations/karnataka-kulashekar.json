@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-kulashekar",
+  "city": "Kulashekar",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "kulashekar",
+  "country": "India",
+  "pincode": "575005",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.2744,
+  "longitude": 83.1149,
+  "landmark": "Kulashekar District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kulashekar, India",
+  "population": 5185649,
+  "mobileUsers": 3759595,
+  "internetUsers": 2909149,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹9.87L per annum",
+  "activeMobileDevices": 5911639,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 56.1,
+  "maleCount": 2717280,
+  "femaleCount": 2468369,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chaibasa",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "chaibasa",
+      "distance": 53.465752700040674
+    },
+    {
+      "city": "Channapatna",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "channapatna",
+      "distance": 58.67220747765293
+    },
+    {
+      "city": "Narsinghpur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "narsinghpur",
+      "distance": 74.74876465317315
+    },
+    {
+      "city": "Ambala Cantt.",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "ambala-cantt",
+      "distance": 76.41996637172075
+    },
+    {
+      "city": "Lamsang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lamsang",
+      "distance": 91.11054354379823
+    }
+  ],
+  "geohash": "tfe15qd",
+  "geohashUrl": "https://geohash.softeng.co/tfe15qd"
+}

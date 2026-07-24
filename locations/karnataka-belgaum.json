@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-belgaum",
+  "city": "Belgaum",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "belgaum",
+  "country": "India",
+  "pincode": "590001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.801,
+  "longitude": 71.6349,
+  "landmark": "Belgaum Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Belgaum, India",
+  "population": 6266406,
+  "mobileUsers": 4856464,
+  "internetUsers": 3715978,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.53L per annum",
+  "activeMobileDevices": 7206366,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 59.3,
+  "maleCount": 3214666,
+  "femaleCount": 3051740,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kolkata",
+      "distance": 45.87658021060134
+    },
+    {
+      "city": "Gohana",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "gohana",
+      "distance": 92.64613755322772
+    },
+    {
+      "city": "Mangan",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "mangan",
+      "distance": 109.31129802967004
+    },
+    {
+      "city": "Bhimavaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhimavaram",
+      "distance": 117.06019177680848
+    },
+    {
+      "city": "Ajmer",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "ajmer",
+      "distance": 127.42490034488561
+    }
+  ],
+  "geohash": "tedyq4d",
+  "geohashUrl": "https://geohash.softeng.co/tedyq4d"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "south-moravian-brno",
+  "city": "Brno",
+  "state": "South Moravian",
+  "stateSlug": "south-moravian",
+  "citySlug": "brno",
+  "country": "Czechia",
+  "pincode": "602 00",
+  "currency": "CZK",
+  "symbol": "Kč",
+  "compliance": "GDPR / CTU",
+  "carriers": [
+    "T-Mobile",
+    "O2",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+420",
+  "timezone": "Europe/Prague",
+  "latitude": 49.5754,
+  "longitude": 15.3676,
+  "landmark": "Brno Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over T-Mobile networks. Failovers route over O2, Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Brno, Czechia",
+  "population": 2941925,
+  "mobileUsers": 2347656,
+  "internetUsers": 1944612,
+  "genderRatioText": "976 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "Kč20,766 CZK per annum",
+  "activeMobileDevices": 3883341,
+  "mobilePenetration": 79.8,
+  "internetPenetration": 66.1,
+  "maleCount": 1488614,
+  "femaleCount": 1453311,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Ostrava",
+      "state": "Moravian-Silesian",
+      "stateSlug": "moravian-silesian",
+      "citySlug": "ostrava",
+      "distance": 32.78726300751617
+    },
+    {
+      "city": "Prague",
+      "state": "Prague City",
+      "stateSlug": "prague-city",
+      "citySlug": "prague",
+      "distance": 33.51356802793805
+    },
+    {
+      "city": "Pilsen",
+      "state": "Plzen Region",
+      "stateSlug": "plzen-region",
+      "citySlug": "pilsen",
+      "distance": 37.11238081641783
+    },
+    {
+      "city": "Leipzig",
+      "state": "Saxony",
+      "stateSlug": "saxony",
+      "citySlug": "leipzig",
+      "distance": 167.15464897112895
+    },
+    {
+      "city": "Hanover",
+      "state": "Lower Saxony",
+      "stateSlug": "lower-saxony",
+      "citySlug": "hanover",
+      "distance": 172.93944701895165
+    }
+  ],
+  "geohash": "u2ffj8y",
+  "geohashUrl": "https://geohash.softeng.co/u2ffj8y"
+}

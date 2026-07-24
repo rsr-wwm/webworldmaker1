@@ -1,0 +1,82 @@
+{
+  "id": "assam-sibsagar",
+  "city": "Sibsagar",
+  "state": "Assam",
+  "stateSlug": "assam",
+  "citySlug": "sibsagar",
+  "country": "India",
+  "pincode": "785640",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.5435,
+  "longitude": 70.64,
+  "landmark": "Sibsagar Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sibsagar, India",
+  "population": 9120222,
+  "mobileUsers": 6566559,
+  "internetUsers": 5408291,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹9.43L per annum",
+  "activeMobileDevices": 10397053,
+  "mobilePenetration": 72,
+  "internetPenetration": 59.3,
+  "maleCount": 4651313,
+  "femaleCount": 4468909,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Turiyur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "turiyur",
+      "distance": 60.593603339713475
+    },
+    {
+      "city": "Srinagar GPO",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "srinagar-gpo",
+      "distance": 94.71314466174552
+    },
+    {
+      "city": "Dholka",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dholka",
+      "distance": 98.48392780717907
+    },
+    {
+      "city": "Kapurthala",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "kapurthala",
+      "distance": 114.54529849780614
+    },
+    {
+      "city": "Chickmagalur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chickmagalur",
+      "distance": 118.14844641753746
+    }
+  ],
+  "geohash": "t9f5zrq",
+  "geohashUrl": "https://geohash.softeng.co/t9f5zrq"
+}

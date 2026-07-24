@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-sitapur",
+  "city": "Sitapur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "sitapur",
+  "country": "India",
+  "pincode": "261001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.5743,
+  "longitude": 76.3733,
+  "landmark": "Sitapur GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sitapur, India",
+  "population": 6608035,
+  "mobileUsers": 5048538,
+  "internetUsers": 4024293,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹9.69L per annum",
+  "activeMobileDevices": 6806276,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 60.9,
+  "maleCount": 3370098,
+  "femaleCount": 3237937,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar",
+      "distance": 49.29177653901498
+    },
+    {
+      "city": "Rampurhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "rampurhat",
+      "distance": 52.2355622144982
+    },
+    {
+      "city": "Hyderabad Jubilee",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hyderabad-jubilee",
+      "distance": 75.01030250669827
+    },
+    {
+      "city": "Phulbani",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "phulbani",
+      "distance": 77.11756324102663
+    },
+    {
+      "city": "Porbandar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "porbandar",
+      "distance": 84.38640397188753
+    }
+  ],
+  "geohash": "tewm1cm",
+  "geohashUrl": "https://geohash.softeng.co/tewm1cm"
+}

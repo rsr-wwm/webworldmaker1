@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-kundapura",
+  "city": "Kundapura",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "kundapura",
+  "country": "India",
+  "pincode": "576201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.5449,
+  "longitude": 86.9075,
+  "landmark": "Kundapura District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kundapura, India",
+  "population": 8967345,
+  "mobileUsers": 6833116,
+  "internetUsers": 5461113,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.24L per annum",
+  "activeMobileDevices": 10133099,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 60.9,
+  "maleCount": 4573346,
+  "femaleCount": 4393999,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Palel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "palel",
+      "distance": 23.94969193914132
+    },
+    {
+      "city": "Lucknow GPO",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lucknow-gpo",
+      "distance": 30.423332565841864
+    },
+    {
+      "city": "Tenkasi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tenkasi",
+      "distance": 45.615617157674876
+    },
+    {
+      "city": "Rangpo",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "rangpo",
+      "distance": 49.58658315812201
+    },
+    {
+      "city": "Begusarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "begusarai",
+      "distance": 61.875877839434224
+    }
+  ],
+  "geohash": "tumg9sk",
+  "geohashUrl": "https://geohash.softeng.co/tumg9sk"
+}

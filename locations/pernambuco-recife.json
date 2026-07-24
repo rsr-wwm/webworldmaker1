@@ -1,0 +1,81 @@
+{
+  "id": "pernambuco-recife",
+  "city": "Recife",
+  "state": "Pernambuco",
+  "stateSlug": "pernambuco",
+  "citySlug": "recife",
+  "country": "Brazil",
+  "pincode": "50000-000",
+  "currency": "BRL",
+  "symbol": "R$",
+  "compliance": "ANATEL Rules",
+  "carriers": [
+    "Vivo",
+    "Claro",
+    "TIM"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+55",
+  "timezone": "America/Araguaina",
+  "latitude": -10.0221,
+  "longitude": -54.8237,
+  "landmark": "Recife Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Vivo networks. Failovers route over Claro, TIM with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Recife, Brazil",
+  "population": 2768449,
+  "mobileUsers": 2488835,
+  "internetUsers": 2087410,
+  "genderRatioText": "995 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "R$27,991 BRL per annum",
+  "activeMobileDevices": 3128347,
+  "mobilePenetration": 89.9,
+  "internetPenetration": 75.4,
+  "maleCount": 1386993,
+  "femaleCount": 1381456,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Porto Alegre",
+      "state": "Rio Grande do Sul",
+      "stateSlug": "rio-grande-do-sul",
+      "citySlug": "porto-alegre",
+      "distance": 11.04429646142484
+    },
+    {
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro State",
+      "stateSlug": "rio-de-janeiro-state",
+      "citySlug": "rio-de-janeiro",
+      "distance": 14.114254718392386
+    },
+    {
+      "city": "Curitiba",
+      "state": "Parana",
+      "stateSlug": "parana",
+      "citySlug": "curitiba",
+      "distance": 20.48871435540427
+    },
+    {
+      "city": "Goiania",
+      "state": "Goias",
+      "stateSlug": "goias",
+      "citySlug": "goiania",
+      "distance": 23.615634186289775
+    },
+    {
+      "city": "Brasilia",
+      "state": "Federal District",
+      "stateSlug": "federal-district",
+      "citySlug": "brasilia",
+      "distance": 27.970569607310836
+    }
+  ],
+  "geohash": "6y1nbrw",
+  "geohashUrl": "https://geohash.softeng.co/6y1nbrw"
+}

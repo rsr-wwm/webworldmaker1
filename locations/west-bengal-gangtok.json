@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-gangtok",
+  "city": "Gangtok",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "gangtok",
+  "country": "India",
+  "pincode": "737101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.741,
+  "longitude": 83.0968,
+  "landmark": "Gangtok Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gangtok, India",
+  "population": 1338755,
+  "mobileUsers": 1022808,
+  "internetUsers": 792542,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.09L per annum",
+  "activeMobileDevices": 1579730,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 59.2,
+  "maleCount": 682765,
+  "femaleCount": 655990,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kavlem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kavlem",
+      "distance": 32.77008295999942
+    },
+    {
+      "city": "Hoshiarpur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "hoshiarpur",
+      "distance": 38.74885933729
+    },
+    {
+      "city": "Hospet",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hospet",
+      "distance": 43.36231921527013
+    },
+    {
+      "city": "Ukhrul",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "ukhrul",
+      "distance": 95.26133540789628
+    },
+    {
+      "city": "Sirohi",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sirohi",
+      "distance": 100.03160100554514
+    }
+  ],
+  "geohash": "tge06ct",
+  "geohashUrl": "https://geohash.softeng.co/tge06ct"
+}

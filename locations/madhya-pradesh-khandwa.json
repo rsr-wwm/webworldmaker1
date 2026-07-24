@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-khandwa",
+  "city": "Khandwa",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "khandwa",
+  "country": "India",
+  "pincode": "450001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.6878,
+  "longitude": 78.3354,
+  "landmark": "Khandwa Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Khandwa, India",
+  "population": 3846550,
+  "mobileUsers": 3000309,
+  "internetUsers": 2311776,
+  "genderRatioText": "949 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.80L per annum",
+  "activeMobileDevices": 4231205,
+  "mobilePenetration": 78,
+  "internetPenetration": 60.1,
+  "maleCount": 1973280,
+  "femaleCount": 1873270,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Parlakhemudi",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "parlakhemudi",
+      "distance": 25.50657046475736
+    },
+    {
+      "city": "Gandhi Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gandhi-nagar",
+      "distance": 28.276195754228546
+    },
+    {
+      "city": "Kala pahad",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "kala-pahad",
+      "distance": 108.7411163487766
+    },
+    {
+      "city": "Saitul",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saitul",
+      "distance": 124.5215103432645
+    },
+    {
+      "city": "Tuipang",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "tuipang",
+      "distance": 128.12126590144226
+    }
+  ],
+  "geohash": "tdzwytf",
+  "geohashUrl": "https://geohash.softeng.co/tdzwytf"
+}

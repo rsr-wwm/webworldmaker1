@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-monkolemba",
+  "city": "Monkolemba",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "monkolemba",
+  "country": "India",
+  "pincode": "798604",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.8881,
+  "longitude": 70.0439,
+  "landmark": "Monkolemba Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Monkolemba, India",
+  "population": 3463720,
+  "mobileUsers": 2518124,
+  "internetUsers": 1970856,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.32L per annum",
+  "activeMobileDevices": 3983277,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 56.9,
+  "maleCount": 1776888,
+  "femaleCount": 1686832,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bahraich",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bahraich",
+      "distance": 33.11606908291011
+    },
+    {
+      "city": "Palanpur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "palanpur",
+      "distance": 84.38491828655432
+    },
+    {
+      "city": "Karimganj",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "karimganj",
+      "distance": 84.90656983003666
+    },
+    {
+      "city": "Madasa",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "madasa",
+      "distance": 103.47214843024793
+    },
+    {
+      "city": "Nizamabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nizamabad",
+      "distance": 106.90333251856856
+    }
+  ],
+  "geohash": "te3g3yk",
+  "geohashUrl": "https://geohash.softeng.co/te3g3yk"
+}

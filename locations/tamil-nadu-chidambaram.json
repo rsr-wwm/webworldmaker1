@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-chidambaram",
+  "city": "Chidambaram",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "chidambaram",
+  "country": "India",
+  "pincode": "608001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.9412,
+  "longitude": 75.8786,
+  "landmark": "Chidambaram GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chidambaram, India",
+  "population": 5306578,
+  "mobileUsers": 4080758,
+  "internetUsers": 2961070,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹8.97L per annum",
+  "activeMobileDevices": 5306578,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 55.8,
+  "maleCount": 2732888,
+  "femaleCount": 2573690,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lucknow",
+      "distance": 13.66092362639347
+    },
+    {
+      "city": "Gurdaspur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "gurdaspur",
+      "distance": 45.02871805870353
+    },
+    {
+      "city": "Phulbari",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "phulbari",
+      "distance": 48.797282183664855
+    },
+    {
+      "city": "Ambalmukal",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "ambalmukal",
+      "distance": 92.9986455018219
+    },
+    {
+      "city": "Palampur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "palampur",
+      "distance": 124.2566603256499
+    }
+  ],
+  "geohash": "tdtuyxv",
+  "geohashUrl": "https://geohash.softeng.co/tdtuyxv"
+}

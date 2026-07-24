@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-medak",
+  "city": "Medak",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "medak",
+  "country": "India",
+  "pincode": "502110",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.4752,
+  "longitude": 70.4033,
+  "landmark": "Medak Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Medak, India",
+  "population": 6347559,
+  "mobileUsers": 4932053,
+  "internetUsers": 3427681,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹10.34L per annum",
+  "activeMobileDevices": 7045790,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 54,
+  "maleCount": 3307078,
+  "femaleCount": 3040481,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chera bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "chera-bazar",
+      "distance": 11.633186839334899
+    },
+    {
+      "city": "Siddipet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "siddipet",
+      "distance": 30.09012390408198
+    },
+    {
+      "city": "Ponani",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ponani",
+      "distance": 63.92594423556298
+    },
+    {
+      "city": "Palakkad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palakkad",
+      "distance": 86.5439727303231
+    },
+    {
+      "city": "Mettupalayam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mettupalayam",
+      "distance": 86.68176286093542
+    }
+  ],
+  "geohash": "tdf0414",
+  "geohashUrl": "https://geohash.softeng.co/tdf0414"
+}

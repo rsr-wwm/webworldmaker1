@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-shrirampur",
+  "city": "Shrirampur",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "shrirampur",
+  "country": "India",
+  "pincode": "413709",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.557,
+  "longitude": 77.6954,
+  "landmark": "Shrirampur Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shrirampur, India",
+  "population": 1413166,
+  "mobileUsers": 1083898,
+  "internetUsers": 770175,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹11.51L per annum",
+  "activeMobileDevices": 1568614,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 54.5,
+  "maleCount": 727780,
+  "femaleCount": 685386,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajouri",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "rajouri",
+      "distance": 55.55310731227299
+    },
+    {
+      "city": "Bobbili",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bobbili",
+      "distance": 66.8642529288285
+    },
+    {
+      "city": "Anini",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "anini",
+      "distance": 70.4015020869223
+    },
+    {
+      "city": "Palani",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "palani",
+      "distance": 125.18815825560095
+    },
+    {
+      "city": "Waltair R.S.",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "waltair-rs",
+      "distance": 130.70104922720265
+    }
+  ],
+  "geohash": "ttz30nb",
+  "geohashUrl": "https://geohash.softeng.co/ttz30nb"
+}

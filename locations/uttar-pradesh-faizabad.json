@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-faizabad",
+  "city": "Faizabad",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "faizabad",
+  "country": "India",
+  "pincode": "224001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.3638,
+  "longitude": 83.4934,
+  "landmark": "Faizabad Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Faizabad, India",
+  "population": 4192589,
+  "mobileUsers": 3035434,
+  "internetUsers": 2293346,
+  "genderRatioText": "931 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.75L per annum",
+  "activeMobileDevices": 4695699,
+  "mobilePenetration": 72.4,
+  "internetPenetration": 54.7,
+  "maleCount": 2171761,
+  "femaleCount": 2020828,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ratnagiri",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ratnagiri",
+      "distance": 21.991152306250555
+    },
+    {
+      "city": "Senpura",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "senpura",
+      "distance": 40.01779700616866
+    },
+    {
+      "city": "Haldwani",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "haldwani",
+      "distance": 47.329539161964476
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 68.28700884554983
+    },
+    {
+      "city": "Faridabad",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "faridabad",
+      "distance": 78.7653549670155
+    }
+  ],
+  "geohash": "tcg6gyw",
+  "geohashUrl": "https://geohash.softeng.co/tcg6gyw"
+}

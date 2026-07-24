@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-burdwan",
+  "city": "Burdwan",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "burdwan",
+  "country": "India",
+  "pincode": "713101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.0731,
+  "longitude": 77.0733,
+  "landmark": "Burdwan Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Burdwan, India",
+  "population": 2680204,
+  "mobileUsers": 1937787,
+  "internetUsers": 1578640,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.52L per annum",
+  "activeMobileDevices": 3109036,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 58.9,
+  "maleCount": 1366904,
+  "femaleCount": 1313300,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rampurhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "rampurhat",
+      "distance": 39.68791113179276
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar",
+      "distance": 42.550206582638396
+    },
+    {
+      "city": "Alibag",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "alibag",
+      "distance": 43.44508042037287
+    },
+    {
+      "city": "Lungsein",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lungsein",
+      "distance": 45.24019825347048
+    },
+    {
+      "city": "Hyderabad Jubilee",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hyderabad-jubilee",
+      "distance": 45.37794021311449
+    }
+  ],
+  "geohash": "tewf1y5",
+  "geohashUrl": "https://geohash.softeng.co/tewf1y5"
+}

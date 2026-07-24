@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-nashik-road",
+  "city": "Nashik road",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "nashik-road",
+  "country": "India",
+  "pincode": "422001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.2993,
+  "longitude": 86.3776,
+  "landmark": "Nashik road Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nashik road, India",
+  "population": 9263284,
+  "mobileUsers": 7021569,
+  "internetUsers": 5048489,
+  "genderRatioText": "943 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.42L per annum",
+  "activeMobileDevices": 10282245,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 54.5,
+  "maleCount": 4770591,
+  "femaleCount": 4492693,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Guntur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntur",
+      "distance": 34.38476654473871
+    },
+    {
+      "city": "Singghat",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "singghat",
+      "distance": 48.43246399792476
+    },
+    {
+      "city": "Sirsa",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "sirsa",
+      "distance": 51.85794248657906
+    },
+    {
+      "city": "Gopeshwar",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gopeshwar",
+      "distance": 61.17601152796136
+    },
+    {
+      "city": "Gondal",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gondal",
+      "distance": 61.78329753122099
+    }
+  ],
+  "geohash": "tgt7mx6",
+  "geohashUrl": "https://geohash.softeng.co/tgt7mx6"
+}

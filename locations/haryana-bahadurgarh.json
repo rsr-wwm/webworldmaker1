@@ -1,0 +1,82 @@
+{
+  "id": "haryana-bahadurgarh",
+  "city": "Bahadurgarh",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "bahadurgarh",
+  "country": "India",
+  "pincode": "125417",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.6212,
+  "longitude": 79.7309,
+  "landmark": "Bahadurgarh Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bahadurgarh, India",
+  "population": 690503,
+  "mobileUsers": 522020,
+  "internetUsers": 394967,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.70L per annum",
+  "activeMobileDevices": 787173,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 57.2,
+  "maleCount": 355609,
+  "femaleCount": 334894,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Landsdowne",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "landsdowne",
+      "distance": 14.100878992741343
+    },
+    {
+      "city": "Phenk",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "phenk",
+      "distance": 76.31938943311754
+    },
+    {
+      "city": "Mahabubnagar",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mahabubnagar",
+      "distance": 95.13716672270563
+    },
+    {
+      "city": "Kozhikode Civil Station",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kozhikode-civil-station",
+      "distance": 98.54356440964408
+    },
+    {
+      "city": "Tirupati",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tirupati",
+      "distance": 104.54559229095342
+    }
+  ],
+  "geohash": "tf0dn7d",
+  "geohashUrl": "https://geohash.softeng.co/tf0dn7d"
+}

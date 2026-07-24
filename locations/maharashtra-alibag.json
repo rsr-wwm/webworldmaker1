@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-alibag",
+  "city": "Alibag",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "alibag",
+  "country": "India",
+  "pincode": "402201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.9394,
+  "longitude": 77.464,
+  "landmark": "Alibag Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Alibag, India",
+  "population": 5094964,
+  "mobileUsers": 3887457,
+  "internetUsers": 3067168,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹7.03L per annum",
+  "activeMobileDevices": 5400661,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 60.2,
+  "maleCount": 2644286,
+  "femaleCount": 2450678,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lungsein",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lungsein",
+      "distance": 38.30043737531759
+    },
+    {
+      "city": "Madhubani",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "madhubani",
+      "distance": 39.19707070050525
+    },
+    {
+      "city": "Burdwan",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "burdwan",
+      "distance": 43.44508042037287
+    },
+    {
+      "city": "Hyderabad Jubilee",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hyderabad-jubilee",
+      "distance": 71.95049974266661
+    },
+    {
+      "city": "Rampurhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "rampurhat",
+      "distance": 81.81707489069082
+    }
+  ],
+  "geohash": "tex16tz",
+  "geohashUrl": "https://geohash.softeng.co/tex16tz"
+}

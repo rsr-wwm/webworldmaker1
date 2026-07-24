@@ -1,0 +1,82 @@
+{
+  "id": "tripura-abhaynagar",
+  "city": "Abhaynagar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "abhaynagar",
+  "country": "India",
+  "pincode": "799005",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.7464,
+  "longitude": 76.9517,
+  "landmark": "Abhaynagar Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Abhaynagar, India",
+  "population": 4472758,
+  "mobileUsers": 3327731,
+  "internetUsers": 2764164,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.54L per annum",
+  "activeMobileDevices": 4785851,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 61.8,
+  "maleCount": 2298998,
+  "femaleCount": 2173760,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Anantnag",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "anantnag",
+      "distance": 57.01875503675368
+    },
+    {
+      "city": "Kovilpatti",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kovilpatti",
+      "distance": 60.83351874131515
+    },
+    {
+      "city": "Pudukottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "pudukottai",
+      "distance": 69.57001460004848
+    },
+    {
+      "city": "Shivpuri",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shivpuri",
+      "distance": 73.07052544811398
+    },
+    {
+      "city": "Machilipatnam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "machilipatnam",
+      "distance": 82.0318750011386
+    }
+  ],
+  "geohash": "tsnxp4f",
+  "geohashUrl": "https://geohash.softeng.co/tsnxp4f"
+}

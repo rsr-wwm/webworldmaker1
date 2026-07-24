@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-tadepalligudam",
+  "city": "Tadepalligudam",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "tadepalligudam",
+  "country": "India",
+  "pincode": "534101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.2203,
+  "longitude": 86.9504,
+  "landmark": "Tadepalligudam Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tadepalligudam, India",
+  "population": 3635706,
+  "mobileUsers": 2657701,
+  "internetUsers": 2228687,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹11.80L per annum",
+  "activeMobileDevices": 4217418,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 61.3,
+  "maleCount": 1883296,
+  "femaleCount": 1752410,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bangalore City",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bangalore-city",
+      "distance": 34.238947900350325
+    },
+    {
+      "city": "Chengannur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chengannur",
+      "distance": 37.54975118121817
+    },
+    {
+      "city": "Saharnpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "saharnpur",
+      "distance": 51.95452049262697
+    },
+    {
+      "city": "Shahjahanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "shahjahanpur",
+      "distance": 60.437067871211646
+    },
+    {
+      "city": "Thycaud",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thycaud",
+      "distance": 95.14357580015081
+    }
+  ],
+  "geohash": "tcvf4se",
+  "geohashUrl": "https://geohash.softeng.co/tcvf4se"
+}

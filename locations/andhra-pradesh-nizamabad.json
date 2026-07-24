@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-nizamabad",
+  "city": "Nizamabad",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "nizamabad",
+  "country": "India",
+  "pincode": "503001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.0654,
+  "longitude": 70.5684,
+  "landmark": "Nizamabad State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nizamabad, India",
+  "population": 555259,
+  "mobileUsers": 427549,
+  "internetUsers": 306502,
+  "genderRatioText": "965 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹11.76L per annum",
+  "activeMobileDevices": 644100,
+  "mobilePenetration": 77,
+  "internetPenetration": 55.2,
+  "maleCount": 282627,
+  "femaleCount": 272632,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Balat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "balat",
+      "distance": 88.87768485082096
+    },
+    {
+      "city": "Angul",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "angul",
+      "distance": 95.28255717595584
+    },
+    {
+      "city": "Madasa",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "madasa",
+      "distance": 99.8406466817347
+    },
+    {
+      "city": "Monkolemba",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "monkolemba",
+      "distance": 106.90333251856856
+    },
+    {
+      "city": "Sriganganagar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sriganganagar",
+      "distance": 131.02583224208044
+    }
+  ],
+  "geohash": "te4nvbd",
+  "geohashUrl": "https://geohash.softeng.co/te4nvbd"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "bihar-ramgarh-cantt",
+  "city": "Ramgarh Cantt.",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "ramgarh-cantt",
+  "country": "India",
+  "pincode": "829112",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.3618,
+  "longitude": 76.8735,
+  "landmark": "Ramgarh Cantt. Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ramgarh Cantt., India",
+  "population": 573895,
+  "mobileUsers": 443046,
+  "internetUsers": 344910,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹9.97L per annum",
+  "activeMobileDevices": 625545,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 60.1,
+  "maleCount": 297278,
+  "femaleCount": 276617,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hukeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hukeri",
+      "distance": 10.546771810335903
+    },
+    {
+      "city": "Bharuch",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bharuch",
+      "distance": 11.17298472100551
+    },
+    {
+      "city": "Saitul",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saitul",
+      "distance": 48.06098508710288
+    },
+    {
+      "city": "Dabki",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "dabki",
+      "distance": 51.5927004938135
+    },
+    {
+      "city": "Itanagar G.P.O",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "itanagar-gpo",
+      "distance": 58.62172707002598
+    }
+  ],
+  "geohash": "tendv29",
+  "geohashUrl": "https://geohash.softeng.co/tendv29"
+}

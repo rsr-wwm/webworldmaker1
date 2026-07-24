@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-narasipatnam",
+  "city": "Narasipatnam",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "narasipatnam",
+  "country": "India",
+  "pincode": "531116",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.5678,
+  "longitude": 74.6231,
+  "landmark": "Narasipatnam Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Narasipatnam, India",
+  "population": 8197749,
+  "mobileUsers": 6066334,
+  "internetUsers": 4967835,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.45L per annum",
+  "activeMobileDevices": 9263456,
+  "mobilePenetration": 74,
+  "internetPenetration": 60.6,
+  "maleCount": 4287423,
+  "femaleCount": 3910326,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajpura",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rajpura",
+      "distance": 67.71979843219886
+    },
+    {
+      "city": "Labarchandmari",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labarchandmari",
+      "distance": 89.67094524461861
+    },
+    {
+      "city": "Thiruvananthapuram",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thiruvananthapuram",
+      "distance": 94.97599118457886
+    },
+    {
+      "city": "Sekmai",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "sekmai",
+      "distance": 113.51261072831892
+    },
+    {
+      "city": "Koppa",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "koppa",
+      "distance": 117.30986609360453
+    }
+  ],
+  "geohash": "tdjp6pf",
+  "geohashUrl": "https://geohash.softeng.co/tdjp6pf"
+}

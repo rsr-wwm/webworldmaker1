@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-marwar-jn",
+  "city": "Marwar Jn.",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "marwar-jn",
+  "country": "India",
+  "pincode": "306001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.7844,
+  "longitude": 86.2201,
+  "landmark": "Marwar Jn. GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Marwar Jn., India",
+  "population": 6093723,
+  "mobileUsers": 4606854,
+  "internetUsers": 3613577,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.56L per annum",
+  "activeMobileDevices": 6337471,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 59.3,
+  "maleCount": 3138267,
+  "femaleCount": 2955456,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mavli Jn.",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "mavli-jn",
+      "distance": 37.01890190265299
+    },
+    {
+      "city": "Ingkiyong",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "ingkiyong",
+      "distance": 49.46596215126609
+    },
+    {
+      "city": "Naharlagon",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "naharlagon",
+      "distance": 79.05802711005627
+    },
+    {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "jaipur",
+      "distance": 91.6994435226109
+    },
+    {
+      "city": "Gondia",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "gondia",
+      "distance": 94.89596868265029
+    }
+  ],
+  "geohash": "tvj7cbp",
+  "geohashUrl": "https://geohash.softeng.co/tvj7cbp"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "orissa-rayagada",
+  "city": "Rayagada",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "rayagada",
+  "country": "India",
+  "pincode": "765001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.6853,
+  "longitude": 72.4711,
+  "landmark": "Rayagada Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rayagada, India",
+  "population": 1519397,
+  "mobileUsers": 1163858,
+  "internetUsers": 841745,
+  "genderRatioText": "943 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.35L per annum",
+  "activeMobileDevices": 1671336,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 55.4,
+  "maleCount": 782489,
+  "femaleCount": 736908,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kalpeni",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kalpeni",
+      "distance": 30.19391608900067
+    },
+    {
+      "city": "Mohanpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mohanpur",
+      "distance": 45.2415614186842
+    },
+    {
+      "city": "Godhra",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "godhra",
+      "distance": 53.0992601159823
+    },
+    {
+      "city": "Loktak Project",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "loktak-project",
+      "distance": 56.44877076959034
+    },
+    {
+      "city": "Khairatabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "khairatabad",
+      "distance": 63.90902700424459
+    }
+  ],
+  "geohash": "tsexc1g",
+  "geohashUrl": "https://geohash.softeng.co/tsexc1g"
+}

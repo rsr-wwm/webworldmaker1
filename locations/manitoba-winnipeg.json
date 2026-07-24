@@ -1,0 +1,81 @@
+{
+  "id": "manitoba-winnipeg",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "stateSlug": "manitoba",
+  "citySlug": "winnipeg",
+  "country": "Canada",
+  "pincode": "R3C 1A5",
+  "currency": "CAD",
+  "symbol": "C$",
+  "compliance": "CRTC / CASL Guidelines",
+  "carriers": [
+    "Rogers",
+    "Bell",
+    "Telus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 416",
+  "timezone": "America/Toronto",
+  "latitude": 49.8955367,
+  "longitude": -97.1384584,
+  "landmark": "Winnipeg Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Winnipeg, Canada",
+  "population": 4009391,
+  "mobileUsers": 3716705,
+  "internetUsers": 3692649,
+  "genderRatioText": "973 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "C$31,125 CAD per annum",
+  "activeMobileDevices": 4811269,
+  "mobilePenetration": 92.7,
+  "internetPenetration": 92.1,
+  "maleCount": 2032761,
+  "femaleCount": 1976630,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "stateSlug": "arkansas",
+      "citySlug": "little-rock",
+      "distance": 344.2176910111498
+    },
+    {
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids",
+      "distance": 535.5078306461722
+    },
+    {
+      "city": "Regina",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "regina",
+      "distance": 535.8333989653039
+    },
+    {
+      "city": "El Paso",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "el-paso",
+      "distance": 549.1258508143334
+    },
+    {
+      "city": "Saskatoon",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "saskatoon",
+      "distance": 710.3905120685546
+    }
+  ],
+  "geohash": "cbfgve1",
+  "geohashUrl": "https://geohash.softeng.co/cbfgve1"
+}

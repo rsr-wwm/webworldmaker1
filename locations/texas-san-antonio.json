@@ -1,0 +1,81 @@
+{
+  "id": "texas-san-antonio",
+  "city": "San Antonio",
+  "state": "Texas",
+  "stateSlug": "texas",
+  "citySlug": "san-antonio",
+  "country": "United States",
+  "pincode": "78201",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 214",
+  "timezone": "America/Chicago",
+  "latitude": 43.2652,
+  "longitude": -106.9254,
+  "landmark": "San Antonio District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for San Antonio, United States",
+  "population": 3278879,
+  "mobileUsers": 3023126,
+  "internetUsers": 2905086,
+  "genderRatioText": "972 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "$107,976 per annum",
+  "activeMobileDevices": 4295331,
+  "mobilePenetration": 92.2,
+  "internetPenetration": 88.6,
+  "maleCount": 1662392,
+  "femaleCount": 1616487,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Kansas City",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "citySlug": "kansas-city",
+      "distance": 307.92863911720434
+    },
+    {
+      "city": "Nashville",
+      "state": "Tennessee",
+      "stateSlug": "tennessee",
+      "citySlug": "nashville",
+      "distance": 360.2731583282035
+    },
+    {
+      "city": "Tampa",
+      "state": "Florida",
+      "stateSlug": "florida",
+      "citySlug": "tampa",
+      "distance": 375.3027863634778
+    },
+    {
+      "city": "Dallas",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "dallas",
+      "distance": 403.8431873347588
+    },
+    {
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "citySlug": "cincinnati",
+      "distance": 433.52115527795263
+    }
+  ],
+  "geohash": "9xeynu5",
+  "geohashUrl": "https://geohash.softeng.co/9xeynu5"
+}

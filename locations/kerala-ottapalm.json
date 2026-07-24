@@ -1,0 +1,82 @@
+{
+  "id": "kerala-ottapalm",
+  "city": "Ottapalm",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "ottapalm",
+  "country": "India",
+  "pincode": "679101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.0673,
+  "longitude": 85.4631,
+  "landmark": "Ottapalm Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ottapalm, India",
+  "population": 4557364,
+  "mobileUsers": 3367891,
+  "internetUsers": 2761762,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹7.61L per annum",
+  "activeMobileDevices": 4876379,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 60.6,
+  "maleCount": 2319698,
+  "femaleCount": 2237666,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nashik",
+      "distance": 27.86666558316437
+    },
+    {
+      "city": "Bathinda",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "bathinda",
+      "distance": 52.93414843485613
+    },
+    {
+      "city": "Chickballapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chickballapur",
+      "distance": 76.7398576864582
+    },
+    {
+      "city": "Ramnagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ramnagar",
+      "distance": 106.55685869759945
+    },
+    {
+      "city": "Firozabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "firozabad",
+      "distance": 114.57855791746722
+    }
+  ],
+  "geohash": "tvsy2v8",
+  "geohashUrl": "https://geohash.softeng.co/tvsy2v8"
+}

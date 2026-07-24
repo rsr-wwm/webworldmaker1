@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-virudhunagar",
+  "city": "Virudhunagar",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "virudhunagar",
+  "country": "India",
+  "pincode": "626001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.2393,
+  "longitude": 73.3572,
+  "landmark": "Virudhunagar Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Virudhunagar, India",
+  "population": 1116243,
+  "mobileUsers": 843879,
+  "internetUsers": 618398,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹11.39L per annum",
+  "activeMobileDevices": 1261354,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 55.4,
+  "maleCount": 571516,
+  "femaleCount": 544727,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Masanapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "masanapalle",
+      "distance": 39.87228394327746
+    },
+    {
+      "city": "Beawar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "beawar",
+      "distance": 43.32767440430805
+    },
+    {
+      "city": "Bilimora",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bilimora",
+      "distance": 44.78647909697937
+    },
+    {
+      "city": "Mayabandar",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "mayabandar",
+      "distance": 58.15794085146953
+    },
+    {
+      "city": "Kapanga",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "kapanga",
+      "distance": 71.25649753821388
+    }
+  ],
+  "geohash": "teh4j63",
+  "geohashUrl": "https://geohash.softeng.co/teh4j63"
+}

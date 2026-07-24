@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-chengalpattu",
+  "city": "Chengalpattu",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "chengalpattu",
+  "country": "India",
+  "pincode": "603001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.5015,
+  "longitude": 70.676,
+  "landmark": "Chengalpattu Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chengalpattu, India",
+  "population": 7275460,
+  "mobileUsers": 5427493,
+  "internetUsers": 4052431,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹6.80L per annum",
+  "activeMobileDevices": 8439533,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 55.7,
+  "maleCount": 3754137,
+  "femaleCount": 3521323,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gwalior (Lashkar)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "gwalior-lashkar",
+      "distance": 56.17864489579713
+    },
+    {
+      "city": "Karimnagar",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "karimnagar",
+      "distance": 63.83904608047199
+    },
+    {
+      "city": "Nuvem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "nuvem",
+      "distance": 69.13096212788862
+    },
+    {
+      "city": "Thiruvallur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thiruvallur",
+      "distance": 69.78648179270985
+    },
+    {
+      "city": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "hamirpur",
+      "distance": 75.13249011177199
+    }
+  ],
+  "geohash": "tsd3062",
+  "geohashUrl": "https://geohash.softeng.co/tsd3062"
+}

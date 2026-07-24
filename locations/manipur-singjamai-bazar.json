@@ -1,0 +1,82 @@
+{
+  "id": "manipur-singjamai-bazar",
+  "city": "Singjamai bazar",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "singjamai-bazar",
+  "country": "India",
+  "pincode": "795137",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.6232,
+  "longitude": 83.9075,
+  "landmark": "Singjamai Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Singjamai bazar, India",
+  "population": 18995,
+  "mobileUsers": 14607,
+  "internetUsers": 11378,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹8.55L per annum",
+  "activeMobileDevices": 22794,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 59.9,
+  "maleCount": 9820,
+  "femaleCount": 9175,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ranchi",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "ranchi",
+      "distance": 52.57224917520494
+    },
+    {
+      "city": "Khamgaon",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "khamgaon",
+      "distance": 56.88036005092107
+    },
+    {
+      "city": "Huzurabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "huzurabad",
+      "distance": 96.97022159897874
+    },
+    {
+      "city": "Madhobewala",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "madhobewala",
+      "distance": 113.24101047356038
+    },
+    {
+      "city": "Sumer",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "sumer",
+      "distance": 123.88183936425843
+    }
+  ],
+  "geohash": "tce9j3g",
+  "geohashUrl": "https://geohash.softeng.co/tce9j3g"
+}

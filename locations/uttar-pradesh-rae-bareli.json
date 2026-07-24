@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-rae-bareli",
+  "city": "Rae Bareli",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "rae-bareli",
+  "country": "India",
+  "pincode": "229001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.3587,
+  "longitude": 88.746,
+  "landmark": "Rae Bareli Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rae Bareli, India",
+  "population": 1988636,
+  "mobileUsers": 1501420,
+  "internetUsers": 1199147,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.93L per annum",
+  "activeMobileDevices": 2207385,
+  "mobilePenetration": 75.5,
+  "internetPenetration": 60.3,
+  "maleCount": 1016193,
+  "femaleCount": 972443,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tekkali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tekkali",
+      "distance": 45.562822661818686
+    },
+    {
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "aligarh",
+      "distance": 78.58278073925783
+    },
+    {
+      "city": "Baraut",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "baraut",
+      "distance": 79.84202609037379
+    },
+    {
+      "city": "Bhilai SB",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhilai-sb",
+      "distance": 89.27471857819485
+    },
+    {
+      "city": "Paitur Bazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "paitur-bazar",
+      "distance": 107.97266796382341
+    }
+  ],
+  "geohash": "tgr07qn",
+  "geohashUrl": "https://geohash.softeng.co/tgr07qn"
+}

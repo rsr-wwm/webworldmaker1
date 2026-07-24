@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-wardha",
+  "city": "Wardha",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "wardha",
+  "country": "India",
+  "pincode": "442001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.9623,
+  "longitude": 77.3497,
+  "landmark": "Wardha State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Wardha, India",
+  "population": 6466055,
+  "mobileUsers": 4868939,
+  "internetUsers": 3730913,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹7.86L per annum",
+  "activeMobileDevices": 6983339,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 57.7,
+  "maleCount": 3297688,
+  "femaleCount": 3168367,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhilwara",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bhilwara",
+      "distance": 37.999956015108275
+    },
+    {
+      "city": "Paramakudi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "paramakudi",
+      "distance": 63.94621500623144
+    },
+    {
+      "city": "Allagada",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "allagada",
+      "distance": 80.14730946323151
+    },
+    {
+      "city": "Gumla",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gumla",
+      "distance": 93.13755300667836
+    },
+    {
+      "city": "Amreli",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "amreli",
+      "distance": 95.78773325948323
+    }
+  ],
+  "geohash": "ttx00hs",
+  "geohashUrl": "https://geohash.softeng.co/ttx00hs"
+}

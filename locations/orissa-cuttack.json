@@ -1,0 +1,82 @@
+{
+  "id": "orissa-cuttack",
+  "city": "Cuttack",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "cuttack",
+  "country": "India",
+  "pincode": "753001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.1007,
+  "longitude": 82.3069,
+  "landmark": "Cuttack Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Cuttack, India",
+  "population": 2828636,
+  "mobileUsers": 2093190,
+  "internetUsers": 1646266,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹6.17L per annum",
+  "activeMobileDevices": 3026640,
+  "mobilePenetration": 74,
+  "internetPenetration": 58.2,
+  "maleCount": 1462405,
+  "femaleCount": 1366231,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dhubri",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "dhubri",
+      "distance": 34.1172930578558
+    },
+    {
+      "city": "Repalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "repalle",
+      "distance": 46.434679254147404
+    },
+    {
+      "city": "Khayerpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "khayerpur",
+      "distance": 51.069814364385344
+    },
+    {
+      "city": "Kochi",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kochi",
+      "distance": 55.02343169163993
+    },
+    {
+      "city": "Razole",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "razole",
+      "distance": 69.69442060927437
+    }
+  ],
+  "geohash": "tvd8bvw",
+  "geohashUrl": "https://geohash.softeng.co/tvd8bvw"
+}

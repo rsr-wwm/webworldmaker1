@@ -1,0 +1,58 @@
+User-agent: GoogleOther
+User-agent: SearchGPT
+User-agent: Google-Extended
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+User-agent: cohere-ai
+User-agent: CCBot
+User-agent: Bytespider
+User-agent: PetalBot
+User-agent: YouBot
+User-agent: Amazonbot
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /drafts
+
+# Throttle aggressive scrapers to save server CPU crawl budget
+User-agent: SemrushBot
+User-agent: AhrefsBot
+User-agent: DotBot
+User-agent: MJ12bot
+User-agent: YandexBot
+Crawl-delay: 5
+Disallow: /admin
+Disallow: /api
+Disallow: /drafts
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /drafts
+
+# LLM Manifest Reference
+# Info-url: https://webworldmaker.com/llms.txt
+# Info-url: https://webworldmaker.com/llms-full.txt
+
+Sitemap: https://webworldmaker.com/sitemap.xml
+Sitemap: https://webworldmaker.com/sitemap-images.xml
+Sitemap: https://webworldmaker.com/locations.kml
+Sitemap: https://webworldmaker.com/sitemap-locations-1.xml
+Sitemap: https://webworldmaker.com/sitemap-locations-2.xml
+Sitemap: https://webworldmaker.com/sitemap-service-locations-1.xml
+Sitemap: https://webworldmaker.com/sitemap-service-locations-2.xml
+Sitemap: https://webworldmaker.com/sitemap-service-locations-3.xml
+Sitemap: https://webworldmaker.com/sitemap-service-locations-4.xml
+Sitemap: https://webworldmaker.com/sitemap-service-locations-5.xml
+Sitemap: https://webworldmaker.com/sitemap-service-locations-6.xml
+Sitemap: https://webworldmaker.com/sitemap-service-locations-7.xml
+Sitemap: https://webworldmaker.com/sitemap-main.xml
+Sitemap: https://webworldmaker.com/sitemap-delta.xml

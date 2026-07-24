@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-una",
+  "city": "Una",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "una",
+  "country": "India",
+  "pincode": "174303",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.143,
+  "longitude": 70.7033,
+  "landmark": "Una District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Una, India",
+  "population": 3474490,
+  "mobileUsers": 2525954,
+  "internetUsers": 1897071,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹6.24L per annum",
+  "activeMobileDevices": 4099898,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 54.6,
+  "maleCount": 1792837,
+  "femaleCount": 1681653,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hill top",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "hill-top",
+      "distance": 53.42280183328289
+    },
+    {
+      "city": "Shatchand",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shatchand",
+      "distance": 66.4526251847785
+    },
+    {
+      "city": "Kanjirapally",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanjirapally",
+      "distance": 90.49018904999814
+    },
+    {
+      "city": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "hamirpur",
+      "distance": 118.51926594737279
+    },
+    {
+      "city": "Palghar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "palghar",
+      "distance": 133.2193359415826
+    }
+  ],
+  "geohash": "ts632gh",
+  "geohashUrl": "https://geohash.softeng.co/ts632gh"
+}

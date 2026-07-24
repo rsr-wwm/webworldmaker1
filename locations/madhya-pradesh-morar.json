@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-morar",
+  "city": "Morar",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "morar",
+  "country": "India",
+  "pincode": "474006",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.2617,
+  "longitude": 74.7268,
+  "landmark": "Morar District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Morar, India",
+  "population": 1258177,
+  "mobileUsers": 912178,
+  "internetUsers": 707095,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.94L per annum",
+  "activeMobileDevices": 1371412,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 56.2,
+  "maleCount": 651736,
+  "femaleCount": 606441,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Papanasam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "papanasam",
+      "distance": 54.73237901614369
+    },
+    {
+      "city": "Moradabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "moradabad",
+      "distance": 84.74979252257477
+    },
+    {
+      "city": "Buchinghampet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "buchinghampet",
+      "distance": 103.38316336378868
+    },
+    {
+      "city": "Sekmai",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "sekmai",
+      "distance": 116.30611442292407
+    },
+    {
+      "city": "Phulbari",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "phulbari",
+      "distance": 119.49284441557724
+    }
+  ],
+  "geohash": "tdt1hkq",
+  "geohashUrl": "https://geohash.softeng.co/tdt1hkq"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-rajapalayam",
+  "city": "Rajapalayam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "rajapalayam",
+  "country": "India",
+  "pincode": "626117",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.3811,
+  "longitude": 74.2414,
+  "landmark": "Rajapalayam Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rajapalayam, India",
+  "population": 9719480,
+  "mobileUsers": 7571474,
+  "internetUsers": 5617859,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹9.43L per annum",
+  "activeMobileDevices": 10302648,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 57.8,
+  "maleCount": 5102727,
+  "femaleCount": 4616753,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ranipet",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ranipet",
+      "distance": 43.29445099426772
+    },
+    {
+      "city": "Pasighat",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "pasighat",
+      "distance": 64.64021871947244
+    },
+    {
+      "city": "Thalassery",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thalassery",
+      "distance": 94.04753371855588
+    },
+    {
+      "city": "Rohtak",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "rohtak",
+      "distance": 102.77512673871574
+    },
+    {
+      "city": "Mawphlang",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mawphlang",
+      "distance": 103.43776211256989
+    }
+  ],
+  "geohash": "tthc3qs",
+  "geohashUrl": "https://geohash.softeng.co/tthc3qs"
+}

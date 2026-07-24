@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-kaikalur",
+  "city": "Kaikalur",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "kaikalur",
+  "country": "India",
+  "pincode": "521333",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.329,
+  "longitude": 72.4312,
+  "landmark": "Kaikalur Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kaikalur, India",
+  "population": 9415086,
+  "mobileUsers": 7136635,
+  "internetUsers": 5696127,
+  "genderRatioText": "935 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹9.04L per annum",
+  "activeMobileDevices": 10827348,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 60.5,
+  "maleCount": 4867599,
+  "femaleCount": 4547487,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pune City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "pune-city",
+      "distance": 27.244755289469236
+    },
+    {
+      "city": "Gadwal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gadwal",
+      "distance": 60.937508337855895
+    },
+    {
+      "city": "Tiptur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tiptur",
+      "distance": 65.99423315677538
+    },
+    {
+      "city": "Mandi",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "mandi",
+      "distance": 83.81879326419762
+    },
+    {
+      "city": "Cuddapah",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "cuddapah",
+      "distance": 84.30418913570398
+    }
+  ],
+  "geohash": "ttexbjq",
+  "geohashUrl": "https://geohash.softeng.co/ttexbjq"
+}

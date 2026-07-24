@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-wokha",
+  "city": "Wokha",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "wokha",
+  "country": "India",
+  "pincode": "797111",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.9854,
+  "longitude": 85.0109,
+  "landmark": "Wokha Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Wokha, India",
+  "population": 9597753,
+  "mobileUsers": 7121532,
+  "internetUsers": 5806640,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.51L per annum",
+  "activeMobileDevices": 10461550,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 60.5,
+  "maleCount": 5000429,
+  "femaleCount": 4597324,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Katni",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "katni",
+      "distance": 64.73367883570423
+    },
+    {
+      "city": "Amritsar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "amritsar",
+      "distance": 68.70151745617564
+    },
+    {
+      "city": "Ramachandrapuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "ramachandrapuram",
+      "distance": 74.95368825277981
+    },
+    {
+      "city": "Pratapgarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pratapgarh",
+      "distance": 87.95656755539379
+    },
+    {
+      "city": "Ongole",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "ongole",
+      "distance": 93.18300271036752
+    }
+  ],
+  "geohash": "tgumn6r",
+  "geohashUrl": "https://geohash.softeng.co/tgumn6r"
+}

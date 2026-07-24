@@ -1,0 +1,81 @@
+{
+  "id": "ashanti-region-kumasi",
+  "city": "Kumasi",
+  "state": "Ashanti Region",
+  "stateSlug": "ashanti-region",
+  "citySlug": "kumasi",
+  "country": "Ghana",
+  "pincode": "00233",
+  "currency": "GHS",
+  "symbol": "GH₵",
+  "compliance": "NCA Guidelines",
+  "carriers": [
+    "MTN",
+    "Telecel",
+    "AT"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+233",
+  "timezone": "Africa/Accra",
+  "latitude": 7.933,
+  "longitude": -2.1883,
+  "landmark": "Kumasi Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Telecel, AT with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kumasi, Ghana",
+  "population": 1404054,
+  "mobileUsers": 1083929,
+  "internetUsers": 939312,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "GH₵43,525 GHS per annum",
+  "activeMobileDevices": 1839310,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 66.9,
+  "maleCount": 716068,
+  "femaleCount": 687986,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Accra",
+      "state": "Greater Accra",
+      "stateSlug": "greater-accra",
+      "citySlug": "accra",
+      "distance": 37.08485320129237
+    },
+    {
+      "city": "Abidjan",
+      "state": "Lagunes District",
+      "stateSlug": "lagunes-district",
+      "citySlug": "abidjan",
+      "distance": 290.1223236748255
+    },
+    {
+      "city": "Bouake",
+      "state": "Vallee du Bandama",
+      "stateSlug": "vallee-du-bandama",
+      "citySlug": "bouake",
+      "distance": 311.0035532541076
+    },
+    {
+      "city": "Yamoussoukro",
+      "state": "Lacs District",
+      "stateSlug": "lacs-district",
+      "citySlug": "yamoussoukro",
+      "distance": 311.49725969926806
+    },
+    {
+      "city": "Lome",
+      "state": "Maritime Region",
+      "stateSlug": "maritime-region",
+      "citySlug": "lome",
+      "distance": 368.83214536076014
+    }
+  ],
+  "geohash": "ecqmnhn",
+  "geohashUrl": "https://geohash.softeng.co/ecqmnhn"
+}

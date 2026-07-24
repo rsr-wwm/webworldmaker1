@@ -1,0 +1,82 @@
+{
+  "id": "manipur-senapati",
+  "city": "Senapati",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "senapati",
+  "country": "India",
+  "pincode": "795106",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.3849,
+  "longitude": 88.6652,
+  "landmark": "Senapati Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Senapati, India",
+  "population": 7982446,
+  "mobileUsers": 5811220,
+  "internetUsers": 4949116,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹8.19L per annum",
+  "activeMobileDevices": 8301743,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 62,
+  "maleCount": 4063065,
+  "femaleCount": 3919381,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lightmukhra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "lightmukhra",
+      "distance": 40.871898511121096
+    },
+    {
+      "city": "Ranikhet",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ranikhet",
+      "distance": 64.45714716243565
+    },
+    {
+      "city": "Mumbai G.P.O.",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai-gpo",
+      "distance": 70.76530707819576
+    },
+    {
+      "city": "Recong Peo",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "recong-peo",
+      "distance": 89.6650223461993
+    },
+    {
+      "city": "Station Kachiguda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "station-kachiguda",
+      "distance": 95.8121016570267
+    }
+  ],
+  "geohash": "tvpp1tk",
+  "geohashUrl": "https://geohash.softeng.co/tvpp1tk"
+}

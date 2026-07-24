@@ -1,0 +1,82 @@
+{
+  "id": "jammu-and-kashmir-anantnag",
+  "city": "Anantnag",
+  "state": "Jammu & Kashmir",
+  "stateSlug": "jammu-and-kashmir",
+  "citySlug": "anantnag",
+  "country": "India",
+  "pincode": "192101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.337,
+  "longitude": 76.6149,
+  "landmark": "Anantnag Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Anantnag, India",
+  "population": 6380804,
+  "mobileUsers": 4683510,
+  "internetUsers": 3617915,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹6.26L per annum",
+  "activeMobileDevices": 7337924,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 56.7,
+  "maleCount": 3305256,
+  "femaleCount": 3075548,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Abhaynagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "abhaynagar",
+      "distance": 57.01875503675368
+    },
+    {
+      "city": "Shivpuri",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shivpuri",
+      "distance": 61.413654433487615
+    },
+    {
+      "city": "Kovilpatti",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kovilpatti",
+      "distance": 68.99021334661533
+    },
+    {
+      "city": "Umsao",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "umsao",
+      "distance": 75.01306994324088
+    },
+    {
+      "city": "Betul",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "betul",
+      "distance": 110.47593551474566
+    }
+  ],
+  "geohash": "tsnkz2m",
+  "geohashUrl": "https://geohash.softeng.co/tsnkz2m"
+}

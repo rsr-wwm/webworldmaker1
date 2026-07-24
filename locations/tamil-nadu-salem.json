@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-salem",
+  "city": "Salem",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "salem",
+  "country": "India",
+  "pincode": "636001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.8204,
+  "longitude": 80.3177,
+  "landmark": "Salem Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Salem, India",
+  "population": 4953267,
+  "mobileUsers": 3774389,
+  "internetUsers": 2991773,
+  "genderRatioText": "914 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹10.39L per annum",
+  "activeMobileDevices": 5200930,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 60.4,
+  "maleCount": 2585605,
+  "femaleCount": 2367662,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Raisen",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raisen",
+      "distance": 26.776769522741954
+    },
+    {
+      "city": "Upling",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "upling",
+      "distance": 51.574389624070584
+    },
+    {
+      "city": "Chamba",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "chamba",
+      "distance": 52.266838938756095
+    },
+    {
+      "city": "Santa",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "santa",
+      "distance": 53.558038688797296
+    },
+    {
+      "city": "Tiruvalla",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "tiruvalla",
+      "distance": 55.87913205890312
+    }
+  ],
+  "geohash": "tucn78t",
+  "geohashUrl": "https://geohash.softeng.co/tucn78t"
+}

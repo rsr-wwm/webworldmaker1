@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-nasirabad",
+  "city": "Nasirabad",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "nasirabad",
+  "country": "India",
+  "pincode": "305601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.7339,
+  "longitude": 77.8164,
+  "landmark": "Nasirabad Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nasirabad, India",
+  "population": 1929085,
+  "mobileUsers": 1489253,
+  "internetUsers": 1060996,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹7.30L per annum",
+  "activeMobileDevices": 1929085,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 55,
+  "maleCount": 985762,
+  "femaleCount": 943323,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Raniganj",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "raniganj",
+      "distance": 85.77893478315423
+    },
+    {
+      "city": "Laheriasarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "laheriasarai",
+      "distance": 94.84901517751322
+    },
+    {
+      "city": "Chalisgaon",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chalisgaon",
+      "distance": 96.71959455797433
+    },
+    {
+      "city": "Kolosib",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kolosib",
+      "distance": 135.37652952885094
+    },
+    {
+      "city": "Nahan",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "nahan",
+      "distance": 147.17800924051923
+    }
+  ],
+  "geohash": "tszmfbb",
+  "geohashUrl": "https://geohash.softeng.co/tszmfbb"
+}

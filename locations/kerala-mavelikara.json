@@ -1,0 +1,82 @@
+{
+  "id": "kerala-mavelikara",
+  "city": "Mavelikara",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "mavelikara",
+  "country": "India",
+  "pincode": "690101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.95,
+  "longitude": 87.4551,
+  "landmark": "Mavelikara State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mavelikara, India",
+  "population": 7625870,
+  "mobileUsers": 5818538,
+  "internetUsers": 4201854,
+  "genderRatioText": "925 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹7.44L per annum",
+  "activeMobileDevices": 8693491,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 55.1,
+  "maleCount": 3957827,
+  "femaleCount": 3668043,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Manubazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "manubazar",
+      "distance": 17.52395854003825
+    },
+    {
+      "city": "Hyderabad G.P.O",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hyderabad-gpo",
+      "distance": 59.83106404902729
+    },
+    {
+      "city": "Zamania",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "zamania",
+      "distance": 60.12608425439977
+    },
+    {
+      "city": "Sundernagar Township",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "sundernagar-township",
+      "distance": 65.44303979836799
+    },
+    {
+      "city": "Berhampur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "berhampur",
+      "distance": 103.22575276062717
+    }
+  ],
+  "geohash": "tcw4yj6",
+  "geohashUrl": "https://geohash.softeng.co/tcw4yj6"
+}

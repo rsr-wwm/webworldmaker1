@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-sultanpur",
+  "city": "Sultanpur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "sultanpur",
+  "country": "India",
+  "pincode": "228001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.5831,
+  "longitude": 81.5712,
+  "landmark": "Sultanpur Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sultanpur, India",
+  "population": 7505208,
+  "mobileUsers": 5561359,
+  "internetUsers": 4608197,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹7.42L per annum",
+  "activeMobileDevices": 7880468,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 61.4,
+  "maleCount": 3902708,
+  "femaleCount": 3602500,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Seppa",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "seppa",
+      "distance": 24.19559744030421
+    },
+    {
+      "city": "Hapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "hapur",
+      "distance": 98.24290398824158
+    },
+    {
+      "city": "Pathanamthitta",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "pathanamthitta",
+      "distance": 143.3222313452007
+    },
+    {
+      "city": "Nalgonda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nalgonda",
+      "distance": 145.49983495972415
+    },
+    {
+      "city": "Hemlauk",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "hemlauk",
+      "distance": 150.90843322955695
+    }
+  ],
+  "geohash": "tcd0b4w",
+  "geohashUrl": "https://geohash.softeng.co/tcd0b4w"
+}

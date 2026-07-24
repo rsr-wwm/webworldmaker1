@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-bhopal",
+  "city": "Bhopal",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "bhopal",
+  "country": "India",
+  "pincode": "462001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.9745,
+  "longitude": 69.2528,
+  "landmark": "Bhopal Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhopal, India",
+  "population": 852033,
+  "mobileUsers": 662029,
+  "internetUsers": 461801,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.80L per annum",
+  "activeMobileDevices": 962797,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 54.2,
+  "maleCount": 435389,
+  "femaleCount": 416644,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rayak",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "rayak",
+      "distance": 53.681178290626455
+    },
+    {
+      "city": "Shiroda",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "shiroda",
+      "distance": 78.97157033019008
+    },
+    {
+      "city": "Kathihar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "kathihar",
+      "distance": 88.51068612347008
+    },
+    {
+      "city": "Karimnagar",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "karimnagar",
+      "distance": 90.28284664131579
+    },
+    {
+      "city": "Nuvem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "nuvem",
+      "distance": 92.11347046864803
+    }
+  ],
+  "geohash": "ts95zbs",
+  "geohashUrl": "https://geohash.softeng.co/ts95zbs"
+}

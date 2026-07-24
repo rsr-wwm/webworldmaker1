@@ -1,0 +1,82 @@
+{
+  "id": "tripura-tripuradam-chera",
+  "city": "Tripuradam Chera",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "tripuradam-chera",
+  "country": "India",
+  "pincode": "799256",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.1617,
+  "longitude": 88.2609,
+  "landmark": "Tripuradam Chera Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tripuradam Chera, India",
+  "population": 936302,
+  "mobileUsers": 675073,
+  "internetUsers": 537437,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹7.62L per annum",
+  "activeMobileDevices": 1020569,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 57.4,
+  "maleCount": 478450,
+  "femaleCount": 457852,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shrikalahasti",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "shrikalahasti",
+      "distance": 52.35306755088583
+    },
+    {
+      "city": "Mayang Imphal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mayang-imphal",
+      "distance": 57.015763578210596
+    },
+    {
+      "city": "Muddebihal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "muddebihal",
+      "distance": 94.86587656842428
+    },
+    {
+      "city": "Paitur Bazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "paitur-bazar",
+      "distance": 96.24074288807219
+    },
+    {
+      "city": "Shorapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shorapur",
+      "distance": 101.05672198552519
+    }
+  ],
+  "geohash": "tgnc8kj",
+  "geohashUrl": "https://geohash.softeng.co/tgnc8kj"
+}

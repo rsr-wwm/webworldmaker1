@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-adoni",
+  "city": "Adoni",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "adoni",
+  "country": "India",
+  "pincode": "518301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.0652,
+  "longitude": 76.7411,
+  "landmark": "Adoni District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Adoni, India",
+  "population": 9603088,
+  "mobileUsers": 7432790,
+  "internetUsers": 5617806,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.62L per annum",
+  "activeMobileDevices": 10275304,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 58.5,
+  "maleCount": 4897575,
+  "femaleCount": 4705513,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Salkia",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "salkia",
+      "distance": 64.09608158003768
+    },
+    {
+      "city": "Tonk",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "tonk",
+      "distance": 82.7094002620425
+    },
+    {
+      "city": "Nampong",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "nampong",
+      "distance": 87.69595444874862
+    },
+    {
+      "city": "Peren",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "peren",
+      "distance": 94.72105950478164
+    },
+    {
+      "city": "Nanded",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nanded",
+      "distance": 97.6452147025504
+    }
+  ],
+  "geohash": "tsqwd6c",
+  "geohashUrl": "https://geohash.softeng.co/tsqwd6c"
+}

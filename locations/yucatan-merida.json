@@ -1,0 +1,81 @@
+{
+  "id": "yucatan-merida",
+  "city": "Merida",
+  "state": "Yucatan",
+  "stateSlug": "yucatan",
+  "citySlug": "merida",
+  "country": "Mexico",
+  "pincode": "97000",
+  "currency": "MXN",
+  "symbol": "$",
+  "compliance": "IFT Rules",
+  "carriers": [
+    "Telcel",
+    "Movistar",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+52",
+  "timezone": "America/Bahia_Banderas",
+  "latitude": 23.0888,
+  "longitude": -101.9703,
+  "landmark": "Merida State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Merida, Mexico",
+  "population": 1275647,
+  "mobileUsers": 1145531,
+  "internetUsers": 921017,
+  "genderRatioText": "988 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "$27,111 MXN per annum",
+  "activeMobileDevices": 1492506,
+  "mobilePenetration": 89.8,
+  "internetPenetration": 72.2,
+  "maleCount": 641650,
+  "femaleCount": 633997,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Queretaro",
+      "state": "Queretaro State",
+      "stateSlug": "queretaro-state",
+      "citySlug": "queretaro",
+      "distance": 3.312208090587176
+    },
+    {
+      "city": "Puebla",
+      "state": "Puebla State",
+      "stateSlug": "puebla-state",
+      "citySlug": "puebla",
+      "distance": 9.514379857085826
+    },
+    {
+      "city": "Veracruz",
+      "state": "Veracruz State",
+      "stateSlug": "veracruz-state",
+      "citySlug": "veracruz",
+      "distance": 17.85283136355278
+    },
+    {
+      "city": "San Luis Potosi",
+      "state": "San Luis Potosi",
+      "stateSlug": "san-luis-potosi",
+      "citySlug": "san-luis-potosi",
+      "distance": 18.464880297382383
+    },
+    {
+      "city": "Mexico City",
+      "state": "Federal District",
+      "stateSlug": "federal-district",
+      "citySlug": "mexico-city",
+      "distance": 18.924062101789204
+    }
+  ],
+  "geohash": "9sp7re5",
+  "geohashUrl": "https://geohash.softeng.co/9sp7re5"
+}

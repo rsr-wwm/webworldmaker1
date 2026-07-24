@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-mangalagiri",
+  "city": "Mangalagiri",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "mangalagiri",
+  "country": "India",
+  "pincode": "522203",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.6164,
+  "longitude": 80.7962,
+  "landmark": "Mangalagiri District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mangalagiri, India",
+  "population": 7941853,
+  "mobileUsers": 5726076,
+  "internetUsers": 4717460,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.46L per annum",
+  "activeMobileDevices": 9053712,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 59.4,
+  "maleCount": 4105938,
+  "femaleCount": 3835915,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rampur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "rampur",
+      "distance": 14.978927138219392
+    },
+    {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "varanasi",
+      "distance": 34.78702644559693
+    },
+    {
+      "city": "Vadakancherry",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "vadakancherry",
+      "distance": 88.46791346518508
+    },
+    {
+      "city": "Khayerpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "khayerpur",
+      "distance": 102.89655382950838
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 104.92224415041576
+    }
+  ],
+  "geohash": "tv3qnt9",
+  "geohashUrl": "https://geohash.softeng.co/tv3qnt9"
+}

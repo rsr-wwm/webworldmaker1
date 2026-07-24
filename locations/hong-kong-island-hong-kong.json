@@ -1,0 +1,82 @@
+{
+  "id": "hong-kong-island-hong-kong",
+  "city": "Hong Kong",
+  "state": "Hong Kong Island",
+  "stateSlug": "hong-kong-island",
+  "citySlug": "hong-kong",
+  "country": "Hong Kong",
+  "pincode": "999077",
+  "currency": "HKD",
+  "symbol": "HK$",
+  "compliance": "OFCA Regulations",
+  "carriers": [
+    "HKT",
+    "3 Hong Kong",
+    "SmarTone",
+    "China Mobile HK"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+852",
+  "timezone": "Asia/Hong_Kong",
+  "latitude": 22.4399,
+  "longitude": 114.088,
+  "landmark": "Hong Kong Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over HKT networks. Failovers route over 3 Hong Kong, SmarTone, China Mobile HK with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Hong Kong, Hong Kong",
+  "population": 1149239,
+  "mobileUsers": 909048,
+  "internetUsers": 712528,
+  "genderRatioText": "1,003 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "HK$41,120 HKD per annum",
+  "activeMobileDevices": 1471025,
+  "mobilePenetration": 79.1,
+  "internetPenetration": 62,
+  "maleCount": 573470,
+  "femaleCount": 575769,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Taichung",
+      "state": "Taichung City",
+      "stateSlug": "taichung-city",
+      "citySlug": "taichung",
+      "distance": 704.5730856871148
+    },
+    {
+      "city": "Hsinchu",
+      "state": "Hsinchu County",
+      "stateSlug": "hsinchu-county",
+      "citySlug": "hsinchu",
+      "distance": 711.5735098540417
+    },
+    {
+      "city": "Tainan",
+      "state": "Tainan City",
+      "stateSlug": "tainan-city",
+      "citySlug": "tainan",
+      "distance": 715.270644868782
+    },
+    {
+      "city": "Keelung",
+      "state": "Keelung City",
+      "stateSlug": "keelung-city",
+      "citySlug": "keelung",
+      "distance": 722.3328516098009
+    },
+    {
+      "city": "Kaohsiung",
+      "state": "Kaohsiung Municipality",
+      "stateSlug": "kaohsiung-municipality",
+      "citySlug": "kaohsiung",
+      "distance": 732.1707232549
+    }
+  ],
+  "geohash": "wecpsjh",
+  "geohashUrl": "https://geohash.softeng.co/wecpsjh"
+}

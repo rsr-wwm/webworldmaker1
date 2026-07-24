@@ -1,0 +1,81 @@
+{
+  "id": "cordoba-province-cordoba",
+  "city": "Cordoba",
+  "state": "Cordoba Province",
+  "stateSlug": "cordoba-province",
+  "citySlug": "cordoba",
+  "country": "Argentina",
+  "pincode": "X5000",
+  "currency": "ARS",
+  "symbol": "$",
+  "compliance": "ENACOM Guidelines",
+  "carriers": [
+    "Personal",
+    "Movistar",
+    "Claro"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+54",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "latitude": -34.0018,
+  "longitude": -63.9766,
+  "landmark": "Cordoba Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Personal networks. Failovers route over Movistar, Claro with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Cordoba, Argentina",
+  "population": 3317312,
+  "mobileUsers": 2687022,
+  "internetUsers": 2272358,
+  "genderRatioText": "1,005 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "$41,338 ARS per annum",
+  "activeMobileDevices": 4312505,
+  "mobilePenetration": 81,
+  "internetPenetration": 68.5,
+  "maleCount": 1655339,
+  "femaleCount": 1661973,
+  "industryFocus": "Agriculture Exports, Tourism, Viticulture, & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "ENACOM Regulations & Data Privacy compliance",
+  "nearbyLocations": [
+    {
+      "city": "Mendoza",
+      "state": "Mendoza Province",
+      "stateSlug": "mendoza-province",
+      "citySlug": "mendoza",
+      "distance": 8.307589289031839
+    },
+    {
+      "city": "San Miguel de Tucuman",
+      "state": "Tucuman Province",
+      "stateSlug": "tucuman-province",
+      "citySlug": "san-miguel-de-tucuman",
+      "distance": 9.823207132223482
+    },
+    {
+      "city": "Rosario",
+      "state": "Santa Fe Province",
+      "stateSlug": "santa-fe-province",
+      "citySlug": "rosario",
+      "distance": 10.115233987006503
+    },
+    {
+      "city": "Buenos Aires",
+      "state": "Capital Federal",
+      "stateSlug": "capital-federal",
+      "citySlug": "buenos-aires",
+      "distance": 18.103969253021226
+    },
+    {
+      "city": "Montevideo",
+      "state": "Montevideo Department",
+      "stateSlug": "montevideo-department",
+      "citySlug": "montevideo",
+      "distance": 744.0928961932375
+    }
+  ],
+  "geohash": "69fw84j",
+  "geohashUrl": "https://geohash.softeng.co/69fw84j"
+}

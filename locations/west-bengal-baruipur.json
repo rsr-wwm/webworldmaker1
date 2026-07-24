@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-baruipur",
+  "city": "Baruipur",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "baruipur",
+  "country": "India",
+  "pincode": "743302",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.7398,
+  "longitude": 70.8352,
+  "landmark": "Baruipur Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Baruipur, India",
+  "population": 9093046,
+  "mobileUsers": 6937994,
+  "internetUsers": 5346711,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹6.61L per annum",
+  "activeMobileDevices": 9365837,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 58.8,
+  "maleCount": 4673826,
+  "femaleCount": 4419220,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Narnaul",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "narnaul",
+      "distance": 27.800038634429868
+    },
+    {
+      "city": "Langding",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "langding",
+      "distance": 37.26202974218875
+    },
+    {
+      "city": "Gudivada",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gudivada",
+      "distance": 51.41666340631472
+    },
+    {
+      "city": "Bhadrachalam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhadrachalam",
+      "distance": 60.68882658145784
+    },
+    {
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan",
+      "distance": 66.85918666248924
+    }
+  ],
+  "geohash": "tt635vu",
+  "geohashUrl": "https://geohash.softeng.co/tt635vu"
+}

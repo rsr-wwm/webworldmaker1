@@ -1,0 +1,82 @@
+{
+  "id": "goa-nevare",
+  "city": "Nevare",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "nevare",
+  "country": "India",
+  "pincode": "403104",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.647,
+  "longitude": 88.9374,
+  "landmark": "Nevare Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nevare, India",
+  "population": 9543429,
+  "mobileUsers": 7348440,
+  "internetUsers": 5516101,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹7.21L per annum",
+  "activeMobileDevices": 9829731,
+  "mobilePenetration": 77,
+  "internetPenetration": 57.8,
+  "maleCount": 4981670,
+  "femaleCount": 4561759,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Anandpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "anandpur",
+      "distance": 23.94604720399152
+    },
+    {
+      "city": "Mahim",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mahim",
+      "distance": 30.0579300754423
+    },
+    {
+      "city": "Erode",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "erode",
+      "distance": 37.40019531880576
+    },
+    {
+      "city": "Taliparamba",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "taliparamba",
+      "distance": 56.862450935626995
+    },
+    {
+      "city": "Bundi",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bundi",
+      "distance": 80.89337079735922
+    }
+  ],
+  "geohash": "tuzjrbf",
+  "geohashUrl": "https://geohash.softeng.co/tuzjrbf"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "harju-county-tallinn",
+  "city": "Tallinn",
+  "state": "Harju County",
+  "stateSlug": "harju-county",
+  "citySlug": "tallinn",
+  "country": "Estonia",
+  "pincode": "10111",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / TTJA",
+  "carriers": [
+    "Telia",
+    "Elisa",
+    "Tele2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+372",
+  "timezone": "Europe/Tallinn",
+  "latitude": 58.8192,
+  "longitude": 25.8847,
+  "landmark": "Tallinn State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Elisa, Tele2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Tallinn, Estonia",
+  "population": 2706492,
+  "mobileUsers": 2127302,
+  "internetUsers": 1688851,
+  "genderRatioText": "976 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "€50,219 per annum",
+  "activeMobileDevices": 3328985,
+  "mobilePenetration": 78.6,
+  "internetPenetration": 62.4,
+  "maleCount": 1369485,
+  "femaleCount": 1337007,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Tartu",
+      "state": "Tartu County",
+      "stateSlug": "tartu-county",
+      "citySlug": "tartu",
+      "distance": 16.473697390521412
+    },
+    {
+      "city": "Narva",
+      "state": "Ida-Viru County",
+      "stateSlug": "ida-viru-county",
+      "citySlug": "narva",
+      "distance": 41.02034230461111
+    },
+    {
+      "city": "Riga",
+      "state": "Riga Municipality",
+      "stateSlug": "riga-municipality",
+      "citySlug": "riga",
+      "distance": 207.54569438935343
+    },
+    {
+      "city": "Liepaja",
+      "state": "Courland",
+      "stateSlug": "courland",
+      "citySlug": "liepaja",
+      "distance": 221.59496477079134
+    },
+    {
+      "city": "Vilnius",
+      "state": "Vilnius District",
+      "stateSlug": "vilnius-district",
+      "citySlug": "vilnius",
+      "distance": 327.98864743803153
+    }
+  ],
+  "geohash": "ud6qt58",
+  "geohashUrl": "https://geohash.softeng.co/ud6qt58"
+}

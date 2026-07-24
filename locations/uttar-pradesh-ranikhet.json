@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-ranikhet",
+  "city": "Ranikhet",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "ranikhet",
+  "country": "India",
+  "pincode": "263645",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.9556,
+  "longitude": 88.2191,
+  "landmark": "Ranikhet Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ranikhet, India",
+  "population": 2172584,
+  "mobileUsers": 1633783,
+  "internetUsers": 1268789,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.04L per annum",
+  "activeMobileDevices": 2346390,
+  "mobilePenetration": 75.2,
+  "internetPenetration": 58.4,
+  "maleCount": 1138434,
+  "femaleCount": 1034150,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Senapati",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "senapati",
+      "distance": 64.45714716243565
+    },
+    {
+      "city": "Lightmukhra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "lightmukhra",
+      "distance": 78.11316329917327
+    },
+    {
+      "city": "Mumbai G.P.O.",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai-gpo",
+      "distance": 84.29704463945455
+    },
+    {
+      "city": "Recong Peo",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "recong-peo",
+      "distance": 96.97584953349589
+    },
+    {
+      "city": "Puri",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "puri",
+      "distance": 104.0839220751022
+    }
+  ],
+  "geohash": "tvnsxrp",
+  "geohashUrl": "https://geohash.softeng.co/tvnsxrp"
+}

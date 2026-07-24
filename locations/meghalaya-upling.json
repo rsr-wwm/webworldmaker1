@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-upling",
+  "city": "Upling",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "upling",
+  "country": "India",
+  "pincode": "793006",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.4722,
+  "longitude": 80.6636,
+  "landmark": "Upling Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Upling, India",
+  "population": 5534079,
+  "mobileUsers": 4034343,
+  "internetUsers": 3016073,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹9.11L per annum",
+  "activeMobileDevices": 5921464,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 54.5,
+  "maleCount": 2855585,
+  "femaleCount": 2678494,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chamba",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "chamba",
+      "distance": 14.802095404071977
+    },
+    {
+      "city": "Raisen",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raisen",
+      "distance": 49.57123885555661
+    },
+    {
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "salem",
+      "distance": 51.574389624070584
+    },
+    {
+      "city": "Kandi",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kandi",
+      "distance": 55.43295957932984
+    },
+    {
+      "city": "Tiruvalla",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "tiruvalla",
+      "distance": 59.25356098119566
+    }
+  ],
+  "geohash": "tuck791",
+  "geohashUrl": "https://geohash.softeng.co/tuck791"
+}

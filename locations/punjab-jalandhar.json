@@ -1,0 +1,82 @@
+{
+  "id": "punjab-jalandhar",
+  "city": "Jalandhar",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "jalandhar",
+  "country": "India",
+  "pincode": "144001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.3014,
+  "longitude": 76.7461,
+  "landmark": "Jalandhar Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Jalandhar, India",
+  "population": 8479148,
+  "mobileUsers": 6452631,
+  "internetUsers": 4960301,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹11.66L per annum",
+  "activeMobileDevices": 9411854,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 58.5,
+  "maleCount": 4400678,
+  "femaleCount": 4078470,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rampurhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "rampurhat",
+      "distance": 3.9014603498767175
+    },
+    {
+      "city": "Hyderabad Jubilee",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hyderabad-jubilee",
+      "distance": 40.731462546534914
+    },
+    {
+      "city": "Burdwan",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "burdwan",
+      "distance": 42.550206582638396
+    },
+    {
+      "city": "Sitapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "sitapur",
+      "distance": 49.29177653901498
+    },
+    {
+      "city": "Mati",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mati",
+      "distance": 66.6224130516462
+    }
+  ],
+  "geohash": "tewe6ru",
+  "geohashUrl": "https://geohash.softeng.co/tewe6ru"
+}

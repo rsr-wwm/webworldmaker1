@@ -1,0 +1,82 @@
+{
+  "id": "telangana-hyderabad",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "stateSlug": "telangana",
+  "citySlug": "hyderabad",
+  "country": "India",
+  "pincode": "500001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 40",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.0557,
+  "longitude": 87.1889,
+  "landmark": "Hyderabad Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hyderabad, India",
+  "population": 8875451,
+  "mobileUsers": 6745342,
+  "internetUsers": 5112259,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹11.08L per annum",
+  "activeMobileDevices": 9940505,
+  "mobilePenetration": 76,
+  "internetPenetration": 57.6,
+  "maleCount": 4615235,
+  "femaleCount": 4260216,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hassan",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hassan",
+      "distance": 27.61555369003401
+    },
+    {
+      "city": "Budaun",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "budaun",
+      "distance": 54.066441933340705
+    },
+    {
+      "city": "Singghat",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "singghat",
+      "distance": 62.17100825878564
+    },
+    {
+      "city": "Chaichima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chaichima",
+      "distance": 86.75924289706265
+    },
+    {
+      "city": "Nashik road",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nashik-road",
+      "distance": 88.90276430980688
+    }
+  ],
+  "geohash": "tgw4051",
+  "geohashUrl": "https://geohash.softeng.co/tgw4051"
+}

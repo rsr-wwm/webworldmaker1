@@ -1,0 +1,82 @@
+{
+  "id": "stockholm-county-stockholm",
+  "city": "Stockholm",
+  "state": "Stockholm County",
+  "stateSlug": "stockholm-county",
+  "citySlug": "stockholm",
+  "country": "Sweden",
+  "pincode": "103 16",
+  "currency": "SEK",
+  "symbol": "kr",
+  "compliance": "GDPR / PTS",
+  "carriers": [
+    "Telia",
+    "Tele2",
+    "Telenor",
+    "3"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+46",
+  "timezone": "Europe/Stockholm",
+  "latitude": 62.1825,
+  "longitude": 15.0802,
+  "landmark": "Stockholm Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Tele2, Telenor, 3 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Stockholm, Sweden",
+  "population": 2884821,
+  "mobileUsers": 2339589,
+  "internetUsers": 1990526,
+  "genderRatioText": "1,000 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "kr28,268 SEK per annum",
+  "activeMobileDevices": 3519481,
+  "mobilePenetration": 81.1,
+  "internetPenetration": 69,
+  "maleCount": 1442411,
+  "femaleCount": 1442411,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Linköping",
+      "state": "Östergötland",
+      "stateSlug": "ostergotland",
+      "citySlug": "linkoping",
+      "distance": 14.193168109563977
+    },
+    {
+      "city": "Malmo",
+      "state": "Skåne County",
+      "stateSlug": "skane-county",
+      "citySlug": "malmo",
+      "distance": 16.294137542605682
+    },
+    {
+      "city": "Uppsala",
+      "state": "Uppsala County",
+      "stateSlug": "uppsala-county",
+      "citySlug": "uppsala",
+      "distance": 22.255496558074157
+    },
+    {
+      "city": "Gothenburg",
+      "state": "Västra Götaland County",
+      "stateSlug": "vastra-gotaland-county",
+      "citySlug": "gothenburg",
+      "distance": 40.95293131668217
+    },
+    {
+      "city": "Stavanger",
+      "state": "Rogaland",
+      "stateSlug": "rogaland",
+      "citySlug": "stavanger",
+      "distance": 255.61586837638717
+    }
+  ],
+  "geohash": "u749xpv",
+  "geohashUrl": "https://geohash.softeng.co/u749xpv"
+}

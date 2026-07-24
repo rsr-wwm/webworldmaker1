@@ -1,0 +1,82 @@
+{
+  "id": "goa-vasco-da-gama",
+  "city": "Vasco Da Gama",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "vasco-da-gama",
+  "country": "India",
+  "pincode": "403802",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.5147,
+  "longitude": 73.0644,
+  "landmark": "Vasco Da Gama Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vasco Da Gama, India",
+  "population": 9676579,
+  "mobileUsers": 6986490,
+  "internetUsers": 5893036,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹7.31L per annum",
+  "activeMobileDevices": 10257173,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 60.9,
+  "maleCount": 4944732,
+  "femaleCount": 4731847,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khammam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "khammam",
+      "distance": 48.65714124312892
+    },
+    {
+      "city": "Dhampur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dhampur",
+      "distance": 62.06310773206727
+    },
+    {
+      "city": "Gadwal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gadwal",
+      "distance": 88.71149129698306
+    },
+    {
+      "city": "Baghma",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "baghma",
+      "distance": 91.12428844281277
+    },
+    {
+      "city": "Morai",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "morai",
+      "distance": 95.23870369199193
+    }
+  ],
+  "geohash": "ttegq95",
+  "geohashUrl": "https://geohash.softeng.co/ttegq95"
+}

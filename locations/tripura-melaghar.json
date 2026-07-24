@@ -1,0 +1,82 @@
+{
+  "id": "tripura-melaghar",
+  "city": "Melaghar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "melaghar",
+  "country": "India",
+  "pincode": "799115",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.4811,
+  "longitude": 75.2119,
+  "landmark": "Melaghar Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Melaghar, India",
+  "population": 8378260,
+  "mobileUsers": 6040725,
+  "internetUsers": 4867769,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹9.40L per annum",
+  "activeMobileDevices": 8713390,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 58.1,
+  "maleCount": 4339939,
+  "femaleCount": 4038321,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lungdar",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lungdar",
+      "distance": 29.369276312338958
+    },
+    {
+      "city": "Daltonganj",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "daltonganj",
+      "distance": 77.65912350604417
+    },
+    {
+      "city": "Thingdol",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thingdol",
+      "distance": 92.62311431878507
+    },
+    {
+      "city": "Dharamnagar G.P.O",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "dharamnagar-gpo",
+      "distance": 107.34673697316666
+    },
+    {
+      "city": "Karad",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "karad",
+      "distance": 116.47923825041858
+    }
+  ],
+  "geohash": "ttt7p6z",
+  "geohashUrl": "https://geohash.softeng.co/ttt7p6z"
+}

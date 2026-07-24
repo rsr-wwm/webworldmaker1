@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-ongole",
+  "city": "Ongole",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "ongole",
+  "country": "India",
+  "pincode": "523001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.1477,
+  "longitude": 84.9862,
+  "landmark": "Ongole Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ongole, India",
+  "population": 2023841,
+  "mobileUsers": 1509785,
+  "internetUsers": 1230495,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹9.26L per annum",
+  "activeMobileDevices": 2205986,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 60.8,
+  "maleCount": 1040254,
+  "femaleCount": 983587,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Katni",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "katni",
+      "distance": 52.904996656097694
+    },
+    {
+      "city": "Pratapgarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pratapgarh",
+      "distance": 56.015705565025364
+    },
+    {
+      "city": "Fatehpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "fatehpur",
+      "distance": 65.90105024247123
+    },
+    {
+      "city": "Ramachandrapuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "ramachandrapuram",
+      "distance": 69.56112557320573
+    },
+    {
+      "city": "Manughat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "manughat",
+      "distance": 83.78951976541197
+    }
+  ],
+  "geohash": "tgu2mcv",
+  "geohashUrl": "https://geohash.softeng.co/tgu2mcv"
+}

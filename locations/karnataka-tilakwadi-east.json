@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-tilakwadi-east",
+  "city": "Tilakwadi East",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "tilakwadi-east",
+  "country": "India",
+  "pincode": "590006",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.0761,
+  "longitude": 71.7425,
+  "landmark": "Tilakwadi East Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tilakwadi East, India",
+  "population": 4290018,
+  "mobileUsers": 3307603,
+  "internetUsers": 2346639,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.57L per annum",
+  "activeMobileDevices": 4976420,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 54.7,
+  "maleCount": 2230809,
+  "femaleCount": 2059209,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hazaribagh",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "hazaribagh",
+      "distance": 33.13712991247532
+    },
+    {
+      "city": "Pondicherry",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "pondicherry",
+      "distance": 98.70798258180584
+    },
+    {
+      "city": "Baidyanadh Deoghar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "baidyanadh-deoghar",
+      "distance": 103.93841595441755
+    },
+    {
+      "city": "Amarpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "amarpur",
+      "distance": 109.84701589200924
+    },
+    {
+      "city": "Kimin",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "kimin",
+      "distance": 114.49592160191531
+    }
+  ],
+  "geohash": "te7h889",
+  "geohashUrl": "https://geohash.softeng.co/te7h889"
+}

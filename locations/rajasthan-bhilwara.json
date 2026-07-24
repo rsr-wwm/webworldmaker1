@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-bhilwara",
+  "city": "Bhilwara",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "bhilwara",
+  "country": "India",
+  "pincode": "311001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.2697,
+  "longitude": 77.1753,
+  "landmark": "Bhilwara State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhilwara, India",
+  "population": 8933607,
+  "mobileUsers": 6700205,
+  "internetUsers": 5020687,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹11.43L per annum",
+  "activeMobileDevices": 10630992,
+  "mobilePenetration": 75,
+  "internetPenetration": 56.2,
+  "maleCount": 4618675,
+  "femaleCount": 4314932,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Paramakudi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "paramakudi",
+      "distance": 31.92744732432213
+    },
+    {
+      "city": "Wardha",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "wardha",
+      "distance": 37.999956015108275
+    },
+    {
+      "city": "Palani",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "palani",
+      "distance": 77.35499432995438
+    },
+    {
+      "city": "Dharamnagar G.P.O",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "dharamnagar-gpo",
+      "distance": 82.92356728097803
+    },
+    {
+      "city": "Bobbili",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bobbili",
+      "distance": 86.26976123390327
+    }
+  ],
+  "geohash": "ttwcuhm",
+  "geohashUrl": "https://geohash.softeng.co/ttwcuhm"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "calcutta-bilimora",
+  "city": "Bilimora",
+  "state": "Calcutta",
+  "stateSlug": "calcutta",
+  "citySlug": "bilimora",
+  "country": "India",
+  "pincode": "396321",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.3715,
+  "longitude": 72.9587,
+  "landmark": "Bilimora Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bilimora, India",
+  "population": 6645475,
+  "mobileUsers": 5050561,
+  "internetUsers": 4086967,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹11.85L per annum",
+  "activeMobileDevices": 7575841,
+  "mobilePenetration": 76,
+  "internetPenetration": 61.5,
+  "maleCount": 3468938,
+  "femaleCount": 3176537,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mayabandar",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "mayabandar",
+      "distance": 34.449244931998585
+    },
+    {
+      "city": "Virudhunagar",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "virudhunagar",
+      "distance": 44.78647909697937
+    },
+    {
+      "city": "Beawar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "beawar",
+      "distance": 67.35207841161797
+    },
+    {
+      "city": "Dadar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "dadar",
+      "distance": 73.35858284240436
+    },
+    {
+      "city": "Masanapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "masanapalle",
+      "distance": 78.32986895557266
+    }
+  ],
+  "geohash": "te5fu4q",
+  "geohashUrl": "https://geohash.softeng.co/te5fu4q"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kozhikode",
+  "city": "Kozhikode",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kozhikode",
+  "country": "India",
+  "pincode": "673001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.4099,
+  "longitude": 85.163,
+  "landmark": "Kozhikode Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kozhikode, India",
+  "population": 3560495,
+  "mobileUsers": 2656129,
+  "internetUsers": 2122055,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹10.49L per annum",
+  "activeMobileDevices": 3774124,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 59.6,
+  "maleCount": 1847897,
+  "femaleCount": 1712598,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pali",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "pali",
+      "distance": 31.28786262115499
+    },
+    {
+      "city": "Kheri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "kheri",
+      "distance": 51.1214286730784
+    },
+    {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "jaipur",
+      "distance": 67.09184468024235
+    },
+    {
+      "city": "Santacruz",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "santacruz",
+      "distance": 70.28627941691182
+    },
+    {
+      "city": "Mannargudi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mannargudi",
+      "distance": 73.55367787591692
+    }
+  ],
+  "geohash": "tvh99gv",
+  "geohashUrl": "https://geohash.softeng.co/tvh99gv"
+}

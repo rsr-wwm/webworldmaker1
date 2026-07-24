@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-neembathana-town",
+  "city": "Neembathana Town",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "neembathana-town",
+  "country": "India",
+  "pincode": "332713",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.4632,
+  "longitude": 79.4959,
+  "landmark": "Neembathana Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Neembathana Town, India",
+  "population": 36742,
+  "mobileUsers": 27483,
+  "internetUsers": 19877,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹8.98L per annum",
+  "activeMobileDevices": 43355,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 54.1,
+  "maleCount": 18775,
+  "femaleCount": 17967,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Aska",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "aska",
+      "distance": 18.494578030471327
+    },
+    {
+      "city": "Bharatpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bharatpur",
+      "distance": 26.35671246714899
+    },
+    {
+      "city": "Vajapur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "vajapur",
+      "distance": 100.36752926977395
+    },
+    {
+      "city": "Waltair R.S.",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "waltair-rs",
+      "distance": 125.85084384053145
+    },
+    {
+      "city": "Armoor",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "armoor",
+      "distance": 129.91244276799713
+    }
+  ],
+  "geohash": "tvb88vx",
+  "geohashUrl": "https://geohash.softeng.co/tvb88vx"
+}

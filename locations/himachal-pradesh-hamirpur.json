@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-hamirpur",
+  "city": "Hamirpur",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "hamirpur",
+  "country": "India",
+  "pincode": "177001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.0807,
+  "longitude": 71.2607,
+  "landmark": "Hamirpur Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hamirpur, India",
+  "population": 4142507,
+  "mobileUsers": 3028172,
+  "internetUsers": 2282521,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.90L per annum",
+  "activeMobileDevices": 4349632,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 55.1,
+  "maleCount": 2112679,
+  "femaleCount": 2029828,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hill top",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "hill-top",
+      "distance": 69.43213958008687
+    },
+    {
+      "city": "Sivakasi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sivakasi",
+      "distance": 74.07016136044125
+    },
+    {
+      "city": "Chengalpattu",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "chengalpattu",
+      "distance": 75.13249011177199
+    },
+    {
+      "city": "Ampinagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ampinagar",
+      "distance": 93.73669723608717
+    },
+    {
+      "city": "Hanumangarh Junction",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "hanumangarh-junction",
+      "distance": 95.81210029833885
+    }
+  ],
+  "geohash": "ts6wttf",
+  "geohashUrl": "https://geohash.softeng.co/ts6wttf"
+}

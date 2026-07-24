@@ -1,0 +1,82 @@
+{
+  "id": "andaman-and-nicobar-islands-kadamtala",
+  "city": "Kadamtala",
+  "state": "Andaman & Nicobar Islands",
+  "stateSlug": "andaman-and-nicobar-islands",
+  "citySlug": "kadamtala",
+  "country": "India",
+  "pincode": "744209",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.0563,
+  "longitude": 86.3715,
+  "landmark": "Kadamtala Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kadamtala, India",
+  "population": 5552184,
+  "mobileUsers": 4225212,
+  "internetUsers": 3142536,
+  "genderRatioText": "905 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹11.59L per annum",
+  "activeMobileDevices": 5774271,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 56.6,
+  "maleCount": 2914897,
+  "femaleCount": 2637287,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nanglayer",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nanglayer",
+      "distance": 22.32436663762198
+    },
+    {
+      "city": "Chuchaimalang",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chuchaimalang",
+      "distance": 57.45571740293996
+    },
+    {
+      "city": "Station Jadcheral",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "station-jadcheral",
+      "distance": 62.44832839831113
+    },
+    {
+      "city": "Baleshwar",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "baleshwar",
+      "distance": 62.513981364414676
+    },
+    {
+      "city": "Bhopal C.I.T. Nagar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal-cit-nagar",
+      "distance": 73.00263797604089
+    }
+  ],
+  "geohash": "tuj7jmm",
+  "geohashUrl": "https://geohash.softeng.co/tuj7jmm"
+}

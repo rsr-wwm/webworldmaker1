@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-markapur",
+  "city": "Markapur",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "markapur",
+  "country": "India",
+  "pincode": "523316",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.6062,
+  "longitude": 83.2068,
+  "landmark": "Markapur Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Markapur, India",
+  "population": 5824033,
+  "mobileUsers": 4513625,
+  "internetUsers": 3255634,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.63L per annum",
+  "activeMobileDevices": 6697637,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 55.9,
+  "maleCount": 3040145,
+  "femaleCount": 2783888,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sumer",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "sumer",
+      "distance": 37.541363413965584
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 48.366155464637096
+    },
+    {
+      "city": "Madhobewala",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "madhobewala",
+      "distance": 54.54467395863816
+    },
+    {
+      "city": "Hemlauk",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "hemlauk",
+      "distance": 66.39951109305682
+    },
+    {
+      "city": "Faizabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "faizabad",
+      "distance": 89.89795793121701
+    }
+  ],
+  "geohash": "tcentkv",
+  "geohashUrl": "https://geohash.softeng.co/tcentkv"
+}

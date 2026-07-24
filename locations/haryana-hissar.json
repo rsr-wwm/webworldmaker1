@@ -1,0 +1,82 @@
+{
+  "id": "haryana-hissar",
+  "city": "Hissar",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "hissar",
+  "country": "India",
+  "pincode": "125001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.9923,
+  "longitude": 73.5331,
+  "landmark": "Hissar Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hissar, India",
+  "population": 6079909,
+  "mobileUsers": 4645050,
+  "internetUsers": 3295310,
+  "genderRatioText": "907 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹8.79L per annum",
+  "activeMobileDevices": 6748698,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 54.2,
+  "maleCount": 3185872,
+  "femaleCount": 2894037,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dumka",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "dumka",
+      "distance": 42.41233299449282
+    },
+    {
+      "city": "Shastrinagar (Jodhpur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shastrinagar-jodhpur",
+      "distance": 49.88308344043364
+    },
+    {
+      "city": "Barabazar",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barabazar",
+      "distance": 52.7336750104672
+    },
+    {
+      "city": "Etawah",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "etawah",
+      "distance": 71.77568315094116
+    },
+    {
+      "city": "Makrana",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "makrana",
+      "distance": 72.54841735610682
+    }
+  ],
+  "geohash": "ttk697c",
+  "geohashUrl": "https://geohash.softeng.co/ttk697c"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-mangalore",
+  "city": "Mangalore",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "mangalore",
+  "country": "India",
+  "pincode": "575001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.2573,
+  "longitude": 82.0694,
+  "landmark": "Mangalore Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mangalore, India",
+  "population": 5203939,
+  "mobileUsers": 4017440,
+  "internetUsers": 3028692,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.34L per annum",
+  "activeMobileDevices": 6244726,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 58.2,
+  "maleCount": 2706048,
+  "femaleCount": 2497891,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chinsurah",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "chinsurah",
+      "distance": 32.36887097111433
+    },
+    {
+      "city": "Tiruvannamalai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruvannamalai",
+      "distance": 61.35624509732108
+    },
+    {
+      "city": "Demgiri",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "demgiri",
+      "distance": 62.581037498836075
+    },
+    {
+      "city": "Auraiya",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "auraiya",
+      "distance": 75.16981894114177
+    },
+    {
+      "city": "Mantri Pokhri",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mantri-pokhri",
+      "distance": 78.3324351213125
+    }
+  ],
+  "geohash": "tg465t9",
+  "geohashUrl": "https://geohash.softeng.co/tg465t9"
+}

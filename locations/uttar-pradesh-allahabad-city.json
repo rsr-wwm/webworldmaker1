@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-allahabad-city",
+  "city": "Allahabad City",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "allahabad-city",
+  "country": "India",
+  "pincode": "211003",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.5745,
+  "longitude": 70.6726,
+  "landmark": "Allahabad City GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Allahabad City, India",
+  "population": 5463425,
+  "mobileUsers": 4070251,
+  "internetUsers": 3239811,
+  "genderRatioText": "926 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹8.52L per annum",
+  "activeMobileDevices": 6173670,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 59.3,
+  "maleCount": 2835518,
+  "femaleCount": 2627907,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gohana",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "gohana",
+      "distance": 39.38936642673175
+    },
+    {
+      "city": "Chodavaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chodavaram",
+      "distance": 89.7690614564891
+    },
+    {
+      "city": "Shahpura",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shahpura",
+      "distance": 100.65882480585448
+    },
+    {
+      "city": "Midnapore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "midnapore",
+      "distance": 102.12525606944554
+    },
+    {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kolkata",
+      "distance": 102.8223488948515
+    }
+  ],
+  "geohash": "tef68pw",
+  "geohashUrl": "https://geohash.softeng.co/tef68pw"
+}

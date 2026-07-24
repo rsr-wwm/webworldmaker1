@@ -1,0 +1,81 @@
+{
+  "id": "jiangsu-province-wuxi",
+  "city": "Wuxi",
+  "state": "Jiangsu Province",
+  "stateSlug": "jiangsu-province",
+  "citySlug": "wuxi",
+  "country": "China",
+  "pincode": "214000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.1082,
+  "longitude": 104.9768,
+  "landmark": "Wuxi Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Wuxi, China",
+  "population": 8369223,
+  "mobileUsers": 7599254,
+  "internetUsers": 5942148,
+  "genderRatioText": "1,003 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "¥43,640 CNY per annum",
+  "activeMobileDevices": 8703991,
+  "mobilePenetration": 90.8,
+  "internetPenetration": 71,
+  "maleCount": 4176242,
+  "femaleCount": 4192981,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Chongqing",
+      "state": "Chongqing Municipality",
+      "stateSlug": "chongqing-municipality",
+      "citySlug": "chongqing",
+      "distance": 4.422258161474031
+    },
+    {
+      "city": "Zhengzhou",
+      "state": "Henan Province",
+      "stateSlug": "henan-province",
+      "citySlug": "zhengzhou",
+      "distance": 4.9130339390480415
+    },
+    {
+      "city": "Beijing",
+      "state": "Beijing Municipality",
+      "stateSlug": "beijing-municipality",
+      "citySlug": "beijing",
+      "distance": 6.554885528761234
+    },
+    {
+      "city": "Kunming",
+      "state": "Yunnan Province",
+      "stateSlug": "yunnan-province",
+      "citySlug": "kunming",
+      "distance": 7.3059869456146895
+    },
+    {
+      "city": "Changsha",
+      "state": "Hunan Province",
+      "stateSlug": "hunan-province",
+      "citySlug": "changsha",
+      "distance": 8.269585432038129
+    }
+  ],
+  "geohash": "wq4xsz3",
+  "geohashUrl": "https://geohash.softeng.co/wq4xsz3"
+}

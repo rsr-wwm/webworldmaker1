@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-parleshwar",
+  "city": "Parleshwar",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "parleshwar",
+  "country": "India",
+  "pincode": "400057",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.1194,
+  "longitude": 80.4938,
+  "landmark": "Parleshwar Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Parleshwar, India",
+  "population": 7902858,
+  "mobileUsers": 5911337,
+  "internetUsers": 4749617,
+  "genderRatioText": "926 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹11.56L per annum",
+  "activeMobileDevices": 9483429,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 60.1,
+  "maleCount": 4101583,
+  "femaleCount": 3801275,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kalkalang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "kalkalang",
+      "distance": 49.91271556606299
+    },
+    {
+      "city": "Pathanamthitta",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "pathanamthitta",
+      "distance": 67.18841676640992
+    },
+    {
+      "city": "Deomali",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "deomali",
+      "distance": 95.49803513964967
+    },
+    {
+      "city": "Ahmednagar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ahmednagar",
+      "distance": 105.74426516986722
+    },
+    {
+      "city": "Port Blair",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "port-blair",
+      "distance": 116.62544462820816
+    }
+  ],
+  "geohash": "tcc1xdj",
+  "geohashUrl": "https://geohash.softeng.co/tcc1xdj"
+}

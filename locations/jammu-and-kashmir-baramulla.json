@@ -1,0 +1,82 @@
+{
+  "id": "jammu-and-kashmir-baramulla",
+  "city": "Baramulla",
+  "state": "Jammu & Kashmir",
+  "stateSlug": "jammu-and-kashmir",
+  "citySlug": "baramulla",
+  "country": "India",
+  "pincode": "193101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.8294,
+  "longitude": 81.1256,
+  "landmark": "Baramulla Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Baramulla, India",
+  "population": 9259481,
+  "mobileUsers": 7185357,
+  "internetUsers": 5611245,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹11.56L per annum",
+  "activeMobileDevices": 10185429,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 60.6,
+  "maleCount": 4768633,
+  "femaleCount": 4490848,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chhatarpur City",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "chhatarpur-city",
+      "distance": 29.686680665318793
+    },
+    {
+      "city": "Sattenapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "sattenapalle",
+      "distance": 34.348044687074
+    },
+    {
+      "city": "Vadakancherry",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "vadakancherry",
+      "distance": 50.79245034365564
+    },
+    {
+      "city": "Chandrapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chandrapur",
+      "distance": 57.1861690877883
+    },
+    {
+      "city": "Lamlongbazar",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lamlongbazar",
+      "distance": 65.64901283010394
+    }
+  ],
+  "geohash": "tv9tn43",
+  "geohashUrl": "https://geohash.softeng.co/tv9tn43"
+}

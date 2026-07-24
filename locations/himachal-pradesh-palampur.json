@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-palampur",
+  "city": "Palampur",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "palampur",
+  "country": "India",
+  "pincode": "176061",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.4316,
+  "longitude": 76.9067,
+  "landmark": "Palampur Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Palampur, India",
+  "population": 7609185,
+  "mobileUsers": 5737325,
+  "internetUsers": 4649212,
+  "genderRatioText": "924 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹7.09L per annum",
+  "activeMobileDevices": 9131022,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 61.1,
+  "maleCount": 3956776,
+  "femaleCount": 3652409,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Solan",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "solan",
+      "distance": 29.070826032001328
+    },
+    {
+      "city": "Tirupur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirupur",
+      "distance": 35.83931228719425
+    },
+    {
+      "city": "Thinghai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thinghai",
+      "distance": 48.74738529284678
+    },
+    {
+      "city": "Thuckalay",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thuckalay",
+      "distance": 108.87260851157463
+    },
+    {
+      "city": "Nanjangud",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "nanjangud",
+      "distance": 113.7300738771716
+    }
+  ],
+  "geohash": "tdwdn51",
+  "geohashUrl": "https://geohash.softeng.co/tdwdn51"
+}

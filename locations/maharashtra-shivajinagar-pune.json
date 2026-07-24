@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-shivajinagar-pune",
+  "city": "Shivajinagar Pune",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "shivajinagar-pune",
+  "country": "India",
+  "pincode": "411005",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.2369,
+  "longitude": 87.0729,
+  "landmark": "Shivajinagar Pune Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shivajinagar Pune, India",
+  "population": 4340042,
+  "mobileUsers": 3220311,
+  "internetUsers": 2365322,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹6.85L per annum",
+  "activeMobileDevices": 5034448,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 54.5,
+  "maleCount": 2239462,
+  "femaleCount": 2100580,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nawada",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "nawada",
+      "distance": 28.344053661454126
+    },
+    {
+      "city": "Rajamundry",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "rajamundry",
+      "distance": 68.81939688841202
+    },
+    {
+      "city": "Kallakurichi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kallakurichi",
+      "distance": 104.75622447209985
+    },
+    {
+      "city": "Bundi",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bundi",
+      "distance": 111.5786936165209
+    },
+    {
+      "city": "Puri",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "puri",
+      "distance": 118.1150664959881
+    }
+  ],
+  "geohash": "tuvfvqk",
+  "geohashUrl": "https://geohash.softeng.co/tuvfvqk"
+}

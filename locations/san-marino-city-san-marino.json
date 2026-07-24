@@ -1,0 +1,80 @@
+{
+  "id": "san-marino-city-san-marino",
+  "city": "San Marino",
+  "state": "San Marino City",
+  "stateSlug": "san-marino-city",
+  "citySlug": "san-marino",
+  "country": "San Marino",
+  "pincode": "47890",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR Guidelines",
+  "carriers": [
+    "TMS",
+    "WindTre"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+378",
+  "timezone": "Europe/San_Marino",
+  "latitude": 43.8166,
+  "longitude": 12.4464,
+  "landmark": "San Marino State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over TMS networks. Failovers route over WindTre with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for San Marino, San Marino",
+  "population": 3208502,
+  "mobileUsers": 2576427,
+  "internetUsers": 2162530,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "€49,023 per annum",
+  "activeMobileDevices": 3946457,
+  "mobilePenetration": 80.3,
+  "internetPenetration": 67.4,
+  "maleCount": 1639545,
+  "femaleCount": 1568957,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Milan",
+      "state": "Lombardy",
+      "stateSlug": "lombardy",
+      "citySlug": "milan",
+      "distance": 91.99312863689272
+    },
+    {
+      "city": "Rome",
+      "state": "Lazio Region",
+      "stateSlug": "lazio-region",
+      "citySlug": "rome",
+      "distance": 93.67044788553615
+    },
+    {
+      "city": "Venice",
+      "state": "Veneto",
+      "stateSlug": "veneto",
+      "citySlug": "venice",
+      "distance": 99.47333026969766
+    },
+    {
+      "city": "Genoa",
+      "state": "Liguria",
+      "stateSlug": "liguria",
+      "citySlug": "genoa",
+      "distance": 100.6546085991566
+    },
+    {
+      "city": "Naples",
+      "state": "Campania",
+      "stateSlug": "campania",
+      "citySlug": "naples",
+      "distance": 102.04318949954929
+    }
+  ],
+  "geohash": "srbc70x",
+  "geohashUrl": "https://geohash.softeng.co/srbc70x"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "southern-denmark-odense",
+  "city": "Odense",
+  "state": "Southern Denmark",
+  "stateSlug": "southern-denmark",
+  "citySlug": "odense",
+  "country": "Denmark",
+  "pincode": "5000",
+  "currency": "DKK",
+  "symbol": "kr.",
+  "compliance": "GDPR / SDFE",
+  "carriers": [
+    "TDC",
+    "Telenor",
+    "Telia",
+    "3"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+45",
+  "timezone": "Europe/Copenhagen",
+  "latitude": 55.9598,
+  "longitude": 9.8672,
+  "landmark": "Odense Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over TDC networks. Failovers route over Telenor, Telia, 3 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Odense, Denmark",
+  "population": 644631,
+  "mobileUsers": 520217,
+  "internetUsers": 415786,
+  "genderRatioText": "975 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "kr.37,350 DKK per annum",
+  "activeMobileDevices": 805788,
+  "mobilePenetration": 80.7,
+  "internetPenetration": 64.5,
+  "maleCount": 326183,
+  "femaleCount": 318448,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Copenhagen",
+      "state": "Capital Region",
+      "stateSlug": "capital-region",
+      "citySlug": "copenhagen",
+      "distance": 9.198595414217237
+    },
+    {
+      "city": "Aarhus",
+      "state": "Central Denmark Region",
+      "stateSlug": "central-denmark-region",
+      "citySlug": "aarhus",
+      "distance": 13.389225329119185
+    },
+    {
+      "city": "Aalborg",
+      "state": "North Denmark",
+      "stateSlug": "north-denmark",
+      "citySlug": "aalborg",
+      "distance": 19.54262418245286
+    },
+    {
+      "city": "Nuremberg",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "nuremberg",
+      "distance": 381.1341924677962
+    },
+    {
+      "city": "Groningen",
+      "state": "Groningen Province",
+      "stateSlug": "groningen-province",
+      "citySlug": "groningen",
+      "distance": 451.3144843200914
+    }
+  ],
+  "geohash": "u1zn2e1",
+  "geohashUrl": "https://geohash.softeng.co/u1zn2e1"
+}

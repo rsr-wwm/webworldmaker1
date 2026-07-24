@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-chittorgarh",
+  "city": "Chittorgarh",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "chittorgarh",
+  "country": "India",
+  "pincode": "312001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.8598,
+  "longitude": 72.4077,
+  "landmark": "Chittorgarh Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chittorgarh, India",
+  "population": 9802459,
+  "mobileUsers": 7596905,
+  "internetUsers": 5842265,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹8.43L per annum",
+  "activeMobileDevices": 10684680,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 59.6,
+  "maleCount": 5038464,
+  "femaleCount": 4763995,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nilakottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "nilakottai",
+      "distance": 36.299664337881715
+    },
+    {
+      "city": "Chongtai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "chongtai",
+      "distance": 53.13935248268287
+    },
+    {
+      "city": "Balaghat",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "balaghat",
+      "distance": 54.48989568023575
+    },
+    {
+      "city": "Udhampur",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "udhampur",
+      "distance": 72.38108390609253
+    },
+    {
+      "city": "Bhind",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhind",
+      "distance": 85.60054871879107
+    }
+  ],
+  "geohash": "ts56p9m",
+  "geohashUrl": "https://geohash.softeng.co/ts56p9m"
+}

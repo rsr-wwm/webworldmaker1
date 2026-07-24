@@ -1,0 +1,82 @@
+{
+  "id": "auvergne-rhone-alpes-lyon",
+  "city": "Lyon",
+  "state": "Auvergne-Rhône-Alpes",
+  "stateSlug": "auvergne-rhone-alpes",
+  "citySlug": "lyon",
+  "country": "France",
+  "pincode": "69001",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ARCEP",
+  "carriers": [
+    "Orange",
+    "SFR",
+    "Bouygues",
+    "Free Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+33 1",
+  "timezone": "Europe/Paris",
+  "latitude": -22.3045,
+  "longitude": 98.9904,
+  "landmark": "Lyon Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Lyon, France",
+  "population": 4151074,
+  "mobileUsers": 3960124,
+  "internetUsers": 3955973,
+  "genderRatioText": "968 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "€53,471 per annum",
+  "activeMobileDevices": 5230353,
+  "mobilePenetration": 95.4,
+  "internetPenetration": 95.3,
+  "maleCount": 2108746,
+  "femaleCount": 2042328,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Flying Fish Cove",
+      "state": "Christmas Island",
+      "stateSlug": "christmas-island",
+      "citySlug": "flying-fish-cove",
+      "distance": 1517.401273340356
+    },
+    {
+      "city": "Perth",
+      "state": "Western Australia",
+      "stateSlug": "western-australia",
+      "citySlug": "perth",
+      "distance": 1980.6219161712388
+    },
+    {
+      "city": "Singapore",
+      "state": "Singapore Central",
+      "stateSlug": "singapore-central",
+      "citySlug": "singapore",
+      "distance": 2680.976463321261
+    },
+    {
+      "city": "Makassar",
+      "state": "South Sulawesi",
+      "stateSlug": "south-sulawesi",
+      "citySlug": "makassar",
+      "distance": 2953.753479152029
+    },
+    {
+      "city": "Jakarta",
+      "state": "Special Capital Region",
+      "stateSlug": "special-capital-region",
+      "citySlug": "jakarta",
+      "distance": 2956.2764874099857
+    }
+  ],
+  "geohash": "qhn3hed",
+  "geohashUrl": "https://geohash.softeng.co/qhn3hed"
+}

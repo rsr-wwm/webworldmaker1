@@ -1,0 +1,81 @@
+{
+  "id": "minnesota-minneapolis",
+  "city": "Minneapolis",
+  "state": "Minnesota",
+  "stateSlug": "minnesota",
+  "citySlug": "minneapolis",
+  "country": "United States",
+  "pincode": "55401",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/Chicago",
+  "latitude": 47.3198,
+  "longitude": -80.0618,
+  "landmark": "Minneapolis Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Minneapolis, United States",
+  "population": 4741160,
+  "mobileUsers": 4598925,
+  "internetUsers": 4243338,
+  "genderRatioText": "986 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "$108,676 per annum",
+  "activeMobileDevices": 6353154,
+  "mobilePenetration": 97,
+  "internetPenetration": 89.5,
+  "maleCount": 2389545,
+  "femaleCount": 2351615,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "citySlug": "salt-lake-city",
+      "distance": 70.12398315529863
+    },
+    {
+      "city": "Austin",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "austin",
+      "distance": 266.75475420972674
+    },
+    {
+      "city": "Phoenix",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "phoenix",
+      "distance": 297.8986606031508
+    },
+    {
+      "city": "Buffalo",
+      "state": "New York",
+      "stateSlug": "new-york",
+      "citySlug": "buffalo",
+      "distance": 385.5503274644607
+    },
+    {
+      "city": "Ottawa",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "ottawa",
+      "distance": 396.24927082710025
+    }
+  ],
+  "geohash": "f0rj4nk",
+  "geohashUrl": "https://geohash.softeng.co/f0rj4nk"
+}

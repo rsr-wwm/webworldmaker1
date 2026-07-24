@@ -1,0 +1,82 @@
+{
+  "id": "jammu-and-kashmir-srinagar-gpo",
+  "city": "Srinagar GPO",
+  "state": "Jammu & Kashmir",
+  "stateSlug": "jammu-and-kashmir",
+  "citySlug": "srinagar-gpo",
+  "country": "India",
+  "pincode": "190001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "post_office",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.9211,
+  "longitude": 69.8629,
+  "landmark": "Srinagar Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Srinagar GPO, India",
+  "population": 35334,
+  "mobileUsers": 27313,
+  "internetUsers": 20493,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹3.67L per annum",
+  "activeMobileDevices": 37807,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 58,
+  "maleCount": 18056,
+  "femaleCount": 17278,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Turiyur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "turiyur",
+      "distance": 68.3352576669517
+    },
+    {
+      "city": "Kannur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kannur",
+      "distance": 78.61472305526534
+    },
+    {
+      "city": "Chickmagalur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chickmagalur",
+      "distance": 88.55705512929045
+    },
+    {
+      "city": "Tong",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "tong",
+      "distance": 94.45086859444748
+    },
+    {
+      "city": "Sibsagar",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "sibsagar",
+      "distance": 94.71314466174552
+    }
+  ],
+  "geohash": "t9cwju0",
+  "geohashUrl": "https://geohash.softeng.co/t9cwju0"
+}

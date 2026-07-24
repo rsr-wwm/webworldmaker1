@@ -1,0 +1,82 @@
+{
+  "id": "goa-tisk",
+  "city": "Tisk",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "tisk",
+  "country": "India",
+  "pincode": "403406",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.9901,
+  "longitude": 69.1329,
+  "landmark": "Tisk Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tisk, India",
+  "population": 1179406,
+  "mobileUsers": 852710,
+  "internetUsers": 710002,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹7.27L per annum",
+  "activeMobileDevices": 1379905,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 60.2,
+  "maleCount": 614471,
+  "femaleCount": 564935,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dharmavaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "dharmavaram",
+      "distance": 13.872989866533203
+    },
+    {
+      "city": "Nagpur City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur-city",
+      "distance": 20.39984409249018
+    },
+    {
+      "city": "Nongpoh",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nongpoh",
+      "distance": 44.212572372541075
+    },
+    {
+      "city": "Chijami",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chijami",
+      "distance": 48.16214009413835
+    },
+    {
+      "city": "Kathihar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "kathihar",
+      "distance": 76.73023203860959
+    }
+  ],
+  "geohash": "ts3njjm",
+  "geohashUrl": "https://geohash.softeng.co/ts3njjm"
+}

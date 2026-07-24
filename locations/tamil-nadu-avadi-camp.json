@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-avadi-camp",
+  "city": "Avadi Camp",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "avadi-camp",
+  "country": "India",
+  "pincode": "600054",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.1339,
+  "longitude": 88.0275,
+  "landmark": "Avadi Camp Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Avadi Camp, India",
+  "population": 6865754,
+  "mobileUsers": 5142449,
+  "internetUsers": 3728104,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.45L per annum",
+  "activeMobileDevices": 7415014,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 54.3,
+  "maleCount": 3577058,
+  "femaleCount": 3288696,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Patna G.P.O",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "patna-gpo",
+      "distance": 13.396591491296284
+    },
+    {
+      "city": "Along",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "along",
+      "distance": 23.20937373581406
+    },
+    {
+      "city": "Bhattason",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bhattason",
+      "distance": 55.06266509871966
+    },
+    {
+      "city": "Panaji G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "panaji-gpo",
+      "distance": 60.70394893306973
+    },
+    {
+      "city": "Meeo",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "meeo",
+      "distance": 69.59297212910113
+    }
+  ],
+  "geohash": "tuwseje",
+  "geohashUrl": "https://geohash.softeng.co/tuwseje"
+}

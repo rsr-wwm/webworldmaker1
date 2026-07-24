@@ -1,0 +1,81 @@
+{
+  "id": "texas-houston",
+  "city": "Houston",
+  "state": "Texas",
+  "stateSlug": "texas",
+  "citySlug": "houston",
+  "country": "United States",
+  "pincode": "77001",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 214",
+  "timezone": "America/Chicago",
+  "latitude": 31.3789,
+  "longitude": -81.3921,
+  "landmark": "Houston District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Houston, United States",
+  "population": 858508,
+  "mobileUsers": 836186,
+  "internetUsers": 801846,
+  "genderRatioText": "1,004 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "$86,967 per annum",
+  "activeMobileDevices": 1133230,
+  "mobilePenetration": 97.4,
+  "internetPenetration": 93.4,
+  "maleCount": 428395,
+  "femaleCount": 430113,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "detroit",
+      "distance": 125.5516765666936
+    },
+    {
+      "city": "New York",
+      "state": "New York",
+      "stateSlug": "new-york",
+      "citySlug": "new-york",
+      "distance": 244.47764484765784
+    },
+    {
+      "city": "Chicago",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "citySlug": "chicago",
+      "distance": 539.929336255703
+    },
+    {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "stateSlug": "maryland",
+      "citySlug": "baltimore",
+      "distance": 555.0266775182384
+    },
+    {
+      "city": "St. Louis",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "citySlug": "st-louis",
+      "distance": 642.5621767267791
+    }
+  ],
+  "geohash": "djw4ebk",
+  "geohashUrl": "https://geohash.softeng.co/djw4ebk"
+}

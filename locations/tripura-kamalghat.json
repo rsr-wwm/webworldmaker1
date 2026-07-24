@@ -1,0 +1,82 @@
+{
+  "id": "tripura-kamalghat",
+  "city": "Kamalghat",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "kamalghat",
+  "country": "India",
+  "pincode": "799210",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.6799,
+  "longitude": 79.9489,
+  "landmark": "Kamalghat Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kamalghat, India",
+  "population": 4292531,
+  "mobileUsers": 3253738,
+  "internetUsers": 2468205,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.73L per annum",
+  "activeMobileDevices": 4421306,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 57.5,
+  "maleCount": 2236409,
+  "femaleCount": 2056122,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Giribam",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "giribam",
+      "distance": 52.516000688998815
+    },
+    {
+      "city": "Sehore",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sehore",
+      "distance": 89.69904591838382
+    },
+    {
+      "city": "Surendra Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "surendra-nagar",
+      "distance": 94.9843012503559
+    },
+    {
+      "city": "Khurja",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "khurja",
+      "distance": 98.91440938131622
+    },
+    {
+      "city": "Leh",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "leh",
+      "distance": 105.02996423220343
+    }
+  ],
+  "geohash": "tg2zgq9",
+  "geohashUrl": "https://geohash.softeng.co/tg2zgq9"
+}

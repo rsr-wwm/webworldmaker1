@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-surat",
+  "city": "Surat",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "surat",
+  "country": "India",
+  "pincode": "395003",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.2147,
+  "longitude": 70.6861,
+  "landmark": "Surat Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Surat, India",
+  "population": 4735058,
+  "mobileUsers": 3603379,
+  "internetUsers": 2722658,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹6.73L per annum",
+  "activeMobileDevices": 5255914,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 57.5,
+  "maleCount": 2424350,
+  "femaleCount": 2310708,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dholpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "dholpur",
+      "distance": 52.534242057452666
+    },
+    {
+      "city": "Dharapuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "dharapuram",
+      "distance": 62.13447280106119
+    },
+    {
+      "city": "Visnagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "visnagar",
+      "distance": 79.15466483513514
+    },
+    {
+      "city": "Proddatur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "proddatur",
+      "distance": 87.35955814323783
+    },
+    {
+      "city": "Punalur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "punalur",
+      "distance": 127.9138578668396
+    }
+  ],
+  "geohash": "ttd38d2",
+  "geohashUrl": "https://geohash.softeng.co/ttd38d2"
+}

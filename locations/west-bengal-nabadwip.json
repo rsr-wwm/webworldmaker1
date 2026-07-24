@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-nabadwip",
+  "city": "Nabadwip",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "nabadwip",
+  "country": "India",
+  "pincode": "741302",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.1111,
+  "longitude": 88.004,
+  "landmark": "Nabadwip Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nabadwip, India",
+  "population": 1725551,
+  "mobileUsers": 1326948,
+  "internetUsers": 1035330,
+  "genderRatioText": "943 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.34L per annum",
+  "activeMobileDevices": 1915361,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 60,
+  "maleCount": 888659,
+  "femaleCount": 836892,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Resubelpada",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "resubelpada",
+      "distance": 34.92985444727217
+    },
+    {
+      "city": "Barega pada",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "barega-pada",
+      "distance": 83.64783844245719
+    },
+    {
+      "city": "Rourkela",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rourkela",
+      "distance": 87.17847550976569
+    },
+    {
+      "city": "Mirzapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "mirzapur",
+      "distance": 94.05347400684812
+    },
+    {
+      "city": "A.R.T.C",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "artc",
+      "distance": 107.09848820938757
+    }
+  ],
+  "geohash": "tvwwdtd",
+  "geohashUrl": "https://geohash.softeng.co/tvwwdtd"
+}

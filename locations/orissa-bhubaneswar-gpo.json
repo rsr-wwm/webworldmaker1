@@ -1,0 +1,82 @@
+{
+  "id": "orissa-bhubaneswar-gpo",
+  "city": "Bhubaneswar G.P.O",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "bhubaneswar-gpo",
+  "country": "India",
+  "pincode": "751001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "post_office",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.003,
+  "longitude": 84.6577,
+  "landmark": "Bhubaneswar District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhubaneswar G.P.O, India",
+  "population": 28575,
+  "mobileUsers": 21459,
+  "internetUsers": 17230,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹3.04L per annum",
+  "activeMobileDevices": 30575,
+  "mobilePenetration": 75.1,
+  "internetPenetration": 60.3,
+  "maleCount": 14688,
+  "femaleCount": 13887,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajnandgaon",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "rajnandgaon",
+      "distance": 40.24725828872539
+    },
+    {
+      "city": "Shajapur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shajapur",
+      "distance": 64.9788339615909
+    },
+    {
+      "city": "Bagalkot",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bagalkot",
+      "distance": 72.02830564961373
+    },
+    {
+      "city": "Agartala G.P.O",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "agartala-gpo",
+      "distance": 98.84717389313974
+    },
+    {
+      "city": "Saiha",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saiha",
+      "distance": 107.60183322191504
+    }
+  ],
+  "geohash": "tgkhn7m",
+  "geohashUrl": "https://geohash.softeng.co/tgkhn7m"
+}

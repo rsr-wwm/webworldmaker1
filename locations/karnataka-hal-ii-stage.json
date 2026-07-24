@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-hal-ii-stage",
+  "city": "HAL II Stage",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "hal-ii-stage",
+  "country": "India",
+  "pincode": "560008",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.9271,
+  "longitude": 70.0833,
+  "landmark": "HAL II Stage State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for HAL II Stage, India",
+  "population": 3313047,
+  "mobileUsers": 2478159,
+  "internetUsers": 1994454,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹10.50L per annum",
+  "activeMobileDevices": 3578090,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 60.2,
+  "maleCount": 1709532,
+  "femaleCount": 1603515,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khousa",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "khousa",
+      "distance": 26.38937592744828
+    },
+    {
+      "city": "Bhongir",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhongir",
+      "distance": 45.17435750629336
+    },
+    {
+      "city": "Borholla",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "borholla",
+      "distance": 45.64620865747752
+    },
+    {
+      "city": "Happy valley",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "happy-valley",
+      "distance": 46.63393094333165
+    },
+    {
+      "city": "Purulai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "purulai",
+      "distance": 62.445787659770644
+    }
+  ],
+  "geohash": "td3cdc3",
+  "geohashUrl": "https://geohash.softeng.co/td3cdc3"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tirunelveli",
+  "city": "Tirunelveli",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tirunelveli",
+  "country": "India",
+  "pincode": "627001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.5106,
+  "longitude": 73.3572,
+  "landmark": "Tirunelveli Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tirunelveli, India",
+  "population": 4462923,
+  "mobileUsers": 3307025,
+  "internetUsers": 2704531,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹8.43L per annum",
+  "activeMobileDevices": 4953844,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 60.6,
+  "maleCount": 2276091,
+  "femaleCount": 2186832,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Betul",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "betul",
+      "distance": 52.02105244926194
+    },
+    {
+      "city": "Kumbakonam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kumbakonam",
+      "distance": 60.460646619731655
+    },
+    {
+      "city": "Kimin",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "kimin",
+      "distance": 67.4742504171136
+    },
+    {
+      "city": "Pondicherry",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "pondicherry",
+      "distance": 83.43832136864553
+    },
+    {
+      "city": "Mandi pathar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mandi-pathar",
+      "distance": 86.1429783051517
+    }
+  ],
+  "geohash": "tek1m3c",
+  "geohashUrl": "https://geohash.softeng.co/tek1m3c"
+}

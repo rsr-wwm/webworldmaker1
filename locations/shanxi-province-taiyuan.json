@@ -1,0 +1,81 @@
+{
+  "id": "shanxi-province-taiyuan",
+  "city": "Taiyuan",
+  "state": "Shanxi Province",
+  "stateSlug": "shanxi-province",
+  "citySlug": "taiyuan",
+  "country": "China",
+  "pincode": "030000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.1222,
+  "longitude": 104.8268,
+  "landmark": "Taiyuan Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Taiyuan, China",
+  "population": 9553815,
+  "mobileUsers": 8684417,
+  "internetUsers": 7155807,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "¥36,688 CNY per annum",
+  "activeMobileDevices": 10986887,
+  "mobilePenetration": 90.9,
+  "internetPenetration": 74.9,
+  "maleCount": 4891553,
+  "femaleCount": 4662262,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Shenyang",
+      "state": "Liaoning Province",
+      "stateSlug": "liaoning-province",
+      "citySlug": "shenyang",
+      "distance": 1.8099266834345717
+    },
+    {
+      "city": "Lanzhou",
+      "state": "Gansu Province",
+      "stateSlug": "gansu-province",
+      "citySlug": "lanzhou",
+      "distance": 2.699656753245548
+    },
+    {
+      "city": "Guiyang",
+      "state": "Guizhou Province",
+      "stateSlug": "guizhou-province",
+      "citySlug": "guiyang",
+      "distance": 2.7357732808673862
+    },
+    {
+      "city": "Foshan",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "foshan",
+      "distance": 6.210691823893674
+    },
+    {
+      "city": "Dalian",
+      "state": "Liaoning Province",
+      "stateSlug": "liaoning-province",
+      "citySlug": "dalian",
+      "distance": 6.5042556303363295
+    }
+  ],
+  "geohash": "wq4xc3u",
+  "geohashUrl": "https://geohash.softeng.co/wq4xc3u"
+}

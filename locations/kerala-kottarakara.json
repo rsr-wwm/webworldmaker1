@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kottarakara",
+  "city": "Kottarakara",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kottarakara",
+  "country": "India",
+  "pincode": "691506",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.6254,
+  "longitude": 72.2712,
+  "landmark": "Kottarakara Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kottarakara, India",
+  "population": 4373629,
+  "mobileUsers": 3258353,
+  "internetUsers": 2418616,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹10.13L per annum",
+  "activeMobileDevices": 4767255,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 55.3,
+  "maleCount": 2283034,
+  "femaleCount": 2090595,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sawaimadhopur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sawaimadhopur",
+      "distance": 35.99645267655239
+    },
+    {
+      "city": "Mao",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mao",
+      "distance": 39.14442952846199
+    },
+    {
+      "city": "Patan",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "patan",
+      "distance": 48.434567035909936
+    },
+    {
+      "city": "Alwar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "alwar",
+      "distance": 52.66770104474594
+    },
+    {
+      "city": "Etawah",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "etawah",
+      "distance": 62.81846572355508
+    }
+  ],
+  "geohash": "tt72s94",
+  "geohashUrl": "https://geohash.softeng.co/tt72s94"
+}

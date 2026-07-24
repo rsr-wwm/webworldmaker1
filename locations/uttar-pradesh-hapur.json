@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-hapur",
+  "city": "Hapur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "hapur",
+  "country": "India",
+  "pincode": "245101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.4509,
+  "longitude": 81.4032,
+  "landmark": "Hapur Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hapur, India",
+  "population": 7563880,
+  "mobileUsers": 5589707,
+  "internetUsers": 4296283,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹7.89L per annum",
+  "activeMobileDevices": 8849739,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 56.8,
+  "maleCount": 3902962,
+  "femaleCount": 3660918,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pathanamthitta",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "pathanamthitta",
+      "distance": 57.673250043961026
+    },
+    {
+      "city": "Nalgonda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nalgonda",
+      "distance": 60.61513608747747
+    },
+    {
+      "city": "Sultanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "sultanpur",
+      "distance": 98.24290398824158
+    },
+    {
+      "city": "Seppa",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "seppa",
+      "distance": 107.88520633884137
+    },
+    {
+      "city": "Ahmednagar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ahmednagar",
+      "distance": 119.2594385534236
+    }
+  ],
+  "geohash": "tc9vu2k",
+  "geohashUrl": "https://geohash.softeng.co/tc9vu2k"
+}

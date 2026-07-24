@@ -1,0 +1,82 @@
+{
+  "id": "hampshire-southampton",
+  "city": "Southampton",
+  "state": "Hampshire",
+  "stateSlug": "hampshire",
+  "citySlug": "southampton",
+  "country": "United Kingdom",
+  "pincode": "SO14",
+  "currency": "GBP",
+  "symbol": "£",
+  "compliance": "Ofcom Guidelines",
+  "carriers": [
+    "EE",
+    "Vodafone",
+    "O2",
+    "Three"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+44 20",
+  "timezone": "Europe/London",
+  "latitude": 52.805,
+  "longitude": -1.2326,
+  "landmark": "Southampton Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over EE networks. Failovers route over Vodafone, O2, Three with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Southampton, United Kingdom",
+  "population": 925795,
+  "mobileUsers": 870247,
+  "internetUsers": 883208,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "£57,125 per annum",
+  "activeMobileDevices": 1175759,
+  "mobilePenetration": 94,
+  "internetPenetration": 95.4,
+  "maleCount": 474007,
+  "femaleCount": 451788,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Nottingham",
+      "state": "Nottinghamshire",
+      "stateSlug": "nottinghamshire",
+      "citySlug": "nottingham",
+      "distance": 189.15114915477156
+    },
+    {
+      "city": "Sheffield",
+      "state": "South Yorkshire",
+      "stateSlug": "south-yorkshire",
+      "citySlug": "sheffield",
+      "distance": 205.38677320511295
+    },
+    {
+      "city": "Edinburgh",
+      "state": "Scotland",
+      "stateSlug": "scotland",
+      "citySlug": "edinburgh",
+      "distance": 205.54398576269597
+    },
+    {
+      "city": "Leeds",
+      "state": "West Yorkshire",
+      "stateSlug": "west-yorkshire",
+      "citySlug": "leeds",
+      "distance": 208.4220275860878
+    },
+    {
+      "city": "Cardiff",
+      "state": "Wales",
+      "stateSlug": "wales",
+      "citySlug": "cardiff",
+      "distance": 218.2659237664579
+    }
+  ],
+  "geohash": "gcrh7uy",
+  "geohashUrl": "https://geohash.softeng.co/gcrh7uy"
+}

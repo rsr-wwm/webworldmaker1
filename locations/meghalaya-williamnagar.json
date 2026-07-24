@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-williamnagar",
+  "city": "Williamnagar",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "williamnagar",
+  "country": "India",
+  "pincode": "794111",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.6585,
+  "longitude": 79.1467,
+  "landmark": "Williamnagar Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Williamnagar, India",
+  "population": 4804860,
+  "mobileUsers": 3603645,
+  "internetUsers": 2974208,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.64L per annum",
+  "activeMobileDevices": 4900957,
+  "mobilePenetration": 75,
+  "internetPenetration": 61.9,
+  "maleCount": 2464893,
+  "femaleCount": 2339967,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Diamond Harbour",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "diamond-harbour",
+      "distance": 58.975324660123434
+    },
+    {
+      "city": "Athni",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "athni",
+      "distance": 61.23910884383527
+    },
+    {
+      "city": "Chembur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chembur",
+      "distance": 65.48330682091634
+    },
+    {
+      "city": "Ghazipur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ghazipur",
+      "distance": 65.73088711743651
+    },
+    {
+      "city": "Kattappana",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kattappana",
+      "distance": 66.94992510706126
+    }
+  ],
+  "geohash": "tu83cnb",
+  "geohashUrl": "https://geohash.softeng.co/tu83cnb"
+}

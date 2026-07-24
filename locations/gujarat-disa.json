@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-disa",
+  "city": "Disa",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "disa",
+  "country": "India",
+  "pincode": "385535",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.2541,
+  "longitude": 74.8644,
+  "landmark": "Disa Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Disa, India",
+  "population": 684980,
+  "mobileUsers": 522639,
+  "internetUsers": 401398,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.80L per annum",
+  "activeMobileDevices": 712379,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 58.6,
+  "maleCount": 356875,
+  "femaleCount": 328105,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dehradun",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dehradun",
+      "distance": 19.217448740296422
+    },
+    {
+      "city": "Tanuku",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tanuku",
+      "distance": 51.05482509438881
+    },
+    {
+      "city": "Rohtak",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "rohtak",
+      "distance": 83.40926089997198
+    },
+    {
+      "city": "Darbhanga",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "darbhanga",
+      "distance": 101.23313801896884
+    },
+    {
+      "city": "Mawphlang",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mawphlang",
+      "distance": 101.92140182412825
+    }
+  ],
+  "geohash": "ttjnrtd",
+  "geohashUrl": "https://geohash.softeng.co/ttjnrtd"
+}

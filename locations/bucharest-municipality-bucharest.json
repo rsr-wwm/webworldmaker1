@@ -1,0 +1,81 @@
+{
+  "id": "bucharest-municipality-bucharest",
+  "city": "Bucharest",
+  "state": "Bucharest Municipality",
+  "stateSlug": "bucharest-municipality",
+  "citySlug": "bucharest",
+  "country": "Romania",
+  "pincode": "010011",
+  "currency": "RON",
+  "symbol": "lei",
+  "compliance": "GDPR / ANCOM",
+  "carriers": [
+    "Orange",
+    "Vodafone",
+    "Digi.Mobil"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+40",
+  "timezone": "Europe/Bucharest",
+  "latitude": 46.0218,
+  "longitude": 25.1064,
+  "landmark": "Bucharest Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Vodafone, Digi.Mobil with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bucharest, Romania",
+  "population": 4880071,
+  "mobileUsers": 3830855,
+  "internetUsers": 3289167,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "lei43,204 RON per annum",
+  "activeMobileDevices": 6783298,
+  "mobilePenetration": 78.5,
+  "internetPenetration": 67.4,
+  "maleCount": 2483956,
+  "femaleCount": 2396115,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Brasov",
+      "state": "Brasov County",
+      "stateSlug": "brasov-county",
+      "citySlug": "brasov",
+      "distance": 5.424404946424542
+    },
+    {
+      "city": "Constanta",
+      "state": "Constanta County",
+      "stateSlug": "constanta-county",
+      "citySlug": "constanta",
+      "distance": 7.574002003915542
+    },
+    {
+      "city": "Cluj-Napoca",
+      "state": "Cluj County",
+      "stateSlug": "cluj-county",
+      "citySlug": "cluj-napoca",
+      "distance": 11.85018537138067
+    },
+    {
+      "city": "Timisoara",
+      "state": "Timis County",
+      "stateSlug": "timis-county",
+      "citySlug": "timisoara",
+      "distance": 18.77110614485572
+    },
+    {
+      "city": "Sofia",
+      "state": "Sofia City",
+      "stateSlug": "sofia-city",
+      "citySlug": "sofia",
+      "distance": 314.761830707931
+    }
+  ],
+  "geohash": "u81vg61",
+  "geohashUrl": "https://geohash.softeng.co/u81vg61"
+}

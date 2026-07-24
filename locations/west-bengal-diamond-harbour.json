@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-diamond-harbour",
+  "city": "Diamond Harbour",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "diamond-harbour",
+  "country": "India",
+  "pincode": "743331",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.0114,
+  "longitude": 78.7068,
+  "landmark": "Diamond Harbour Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Diamond Harbour, India",
+  "population": 670290,
+  "mobileUsers": 485289,
+  "internetUsers": 392119,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.21L per annum",
+  "activeMobileDevices": 790942,
+  "mobilePenetration": 72.4,
+  "internetPenetration": 58.5,
+  "maleCount": 349221,
+  "femaleCount": 321069,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kattappana",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kattappana",
+      "distance": 29.148820376425366
+    },
+    {
+      "city": "Ghazipur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ghazipur",
+      "distance": 44.81587260249467
+    },
+    {
+      "city": "Williamnagar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "williamnagar",
+      "distance": 58.975324660123434
+    },
+    {
+      "city": "Dhamloan",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "dhamloan",
+      "distance": 73.029358766695
+    },
+    {
+      "city": "Kolosib",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kolosib",
+      "distance": 86.2028277700589
+    }
+  ],
+  "geohash": "tsxgzp0",
+  "geohashUrl": "https://geohash.softeng.co/tsxgzp0"
+}

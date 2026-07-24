@@ -1,0 +1,82 @@
+{
+  "id": "goa-shiroda",
+  "city": "Shiroda",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "shiroda",
+  "country": "India",
+  "pincode": "403103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.6831,
+  "longitude": 69.1995,
+  "landmark": "Shiroda Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shiroda, India",
+  "population": 9477742,
+  "mobileUsers": 6975618,
+  "internetUsers": 5241191,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹8.13L per annum",
+  "activeMobileDevices": 11183735,
+  "mobilePenetration": 73.6,
+  "internetPenetration": 55.3,
+  "maleCount": 4928426,
+  "femaleCount": 4549316,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal",
+      "distance": 78.97157033019008
+    },
+    {
+      "city": "Alathur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "alathur",
+      "distance": 82.76778786242707
+    },
+    {
+      "city": "Asansol",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "asansol",
+      "distance": 86.24101284546485
+    },
+    {
+      "city": "Rayak",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "rayak",
+      "distance": 91.97038204016141
+    },
+    {
+      "city": "Kadnat",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kadnat",
+      "distance": 92.07400186537386
+    }
+  ],
+  "geohash": "ts9py9t",
+  "geohashUrl": "https://geohash.softeng.co/ts9py9t"
+}

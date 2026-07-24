@@ -1,0 +1,82 @@
+{
+  "id": "goa-shivali",
+  "city": "Shivali",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "shivali",
+  "country": "India",
+  "pincode": "403517",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.3987,
+  "longitude": 88.7227,
+  "landmark": "Shivali Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shivali, India",
+  "population": 6785521,
+  "mobileUsers": 4960215,
+  "internetUsers": 3847390,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹8.66L per annum",
+  "activeMobileDevices": 7260507,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 56.7,
+  "maleCount": 3460616,
+  "femaleCount": 3324905,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pani Chowki Bazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "pani-chowki-bazar",
+      "distance": 48.094012784430525
+    },
+    {
+      "city": "Fatehpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "fatehpur",
+      "distance": 86.34102296770511
+    },
+    {
+      "city": "Anakpalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "anakpalle",
+      "distance": 117.58853020405738
+    },
+    {
+      "city": "Sangareddy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "sangareddy",
+      "distance": 138.21291476080154
+    },
+    {
+      "city": "Kollam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kollam",
+      "distance": 138.30586797618164
+    }
+  ],
+  "geohash": "tfp0fgj",
+  "geohashUrl": "https://geohash.softeng.co/tfp0fgj"
+}

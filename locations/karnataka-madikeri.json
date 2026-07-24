@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-madikeri",
+  "city": "Madikeri",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "madikeri",
+  "country": "India",
+  "pincode": "571201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.991,
+  "longitude": 85.1972,
+  "landmark": "Madikeri Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Madikeri, India",
+  "population": 7596100,
+  "mobileUsers": 5795824,
+  "internetUsers": 4193047,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.27L per annum",
+  "activeMobileDevices": 8887437,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 55.2,
+  "maleCount": 3896799,
+  "femaleCount": 3699301,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Faridkot",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faridkot",
+      "distance": 30.767646307499128
+    },
+    {
+      "city": "Amritsar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "amritsar",
+      "distance": 65.77574338034744
+    },
+    {
+      "city": "Sidhi",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sidhi",
+      "distance": 82.62388245534027
+    },
+    {
+      "city": "Station Jadcheral",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "station-jadcheral",
+      "distance": 89.00518868465495
+    },
+    {
+      "city": "Chandmari",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "chandmari",
+      "distance": 100.76589179817513
+    }
+  ],
+  "geohash": "tuhdf9q",
+  "geohashUrl": "https://geohash.softeng.co/tuhdf9q"
+}

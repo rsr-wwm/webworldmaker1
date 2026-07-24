@@ -1,0 +1,82 @@
+{
+  "id": "orissa-kenndrapara",
+  "city": "Kenndrapara",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "kenndrapara",
+  "country": "India",
+  "pincode": "754211",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.8074,
+  "longitude": 72.5496,
+  "landmark": "Kenndrapara Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kenndrapara, India",
+  "population": 9082701,
+  "mobileUsers": 6966431,
+  "internetUsers": 5295214,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹6.17L per annum",
+  "activeMobileDevices": 9900144,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 58.3,
+  "maleCount": 4732087,
+  "femaleCount": 4350614,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Cuddalore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "cuddalore",
+      "distance": 47.098772058074104
+    },
+    {
+      "city": "Majorda",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "majorda",
+      "distance": 64.54533894754894
+    },
+    {
+      "city": "Beleghata",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "beleghata",
+      "distance": 66.64450203295723
+    },
+    {
+      "city": "Chumukidima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chumukidima",
+      "distance": 79.72265027889893
+    },
+    {
+      "city": "Deeg",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "deeg",
+      "distance": 85.8221467110345
+    }
+  ],
+  "geohash": "t9gt6zm",
+  "geohashUrl": "https://geohash.softeng.co/t9gt6zm"
+}

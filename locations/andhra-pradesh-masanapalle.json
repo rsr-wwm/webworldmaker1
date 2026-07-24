@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-masanapalle",
+  "city": "Masanapalle",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "masanapalle",
+  "country": "India",
+  "pincode": "517325",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.3931,
+  "longitude": 73.6965,
+  "landmark": "Masanapalle Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Masanapalle, India",
+  "population": 3447056,
+  "mobileUsers": 2506009,
+  "internetUsers": 1971716,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹9.55L per annum",
+  "activeMobileDevices": 3619408,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 57.2,
+  "maleCount": 1778681,
+  "femaleCount": 1668375,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Beawar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "beawar",
+      "distance": 25.673694360231657
+    },
+    {
+      "city": "Nungba",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "nungba",
+      "distance": 38.30554692085515
+    },
+    {
+      "city": "Kapanga",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "kapanga",
+      "distance": 39.05468610057306
+    },
+    {
+      "city": "Virudhunagar",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "virudhunagar",
+      "distance": 39.87228394327746
+    },
+    {
+      "city": "Tiruvarur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruvarur",
+      "distance": 49.8806719625106
+    }
+  ],
+  "geohash": "teh6vn2",
+  "geohashUrl": "https://geohash.softeng.co/teh6vn2"
+}

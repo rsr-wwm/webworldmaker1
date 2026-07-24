@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-fatehgarh",
+  "city": "Fatehgarh",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "fatehgarh",
+  "country": "India",
+  "pincode": "209601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.6831,
+  "longitude": 83.5379,
+  "landmark": "Fatehgarh Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Fatehgarh, India",
+  "population": 9287545,
+  "mobileUsers": 7095684,
+  "internetUsers": 5377488,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹7.72L per annum",
+  "activeMobileDevices": 9473295,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 57.9,
+  "maleCount": 4745935,
+  "femaleCount": 4541610,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Yeotamal",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "yeotamal",
+      "distance": 32.740918923872606
+    },
+    {
+      "city": "Ambala City",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "ambala-city",
+      "distance": 57.802833748549475
+    },
+    {
+      "city": "Olavakkot",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "olavakkot",
+      "distance": 61.27135949100568
+    },
+    {
+      "city": "Adilabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "adilabad",
+      "distance": 74.06750354116828
+    },
+    {
+      "city": "Pani Sagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "pani-sagar",
+      "distance": 74.20869559790215
+    }
+  ],
+  "geohash": "tu7kkvq",
+  "geohashUrl": "https://geohash.softeng.co/tu7kkvq"
+}

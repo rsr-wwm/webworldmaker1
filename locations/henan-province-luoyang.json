@@ -1,0 +1,81 @@
+{
+  "id": "henan-province-luoyang",
+  "city": "Luoyang",
+  "state": "Henan Province",
+  "stateSlug": "henan-province",
+  "citySlug": "luoyang",
+  "country": "China",
+  "pincode": "471000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 34.9942,
+  "longitude": 104.8212,
+  "landmark": "Luoyang Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Luoyang, China",
+  "population": 1942952,
+  "mobileUsers": 1756428,
+  "internetUsers": 1410583,
+  "genderRatioText": "966 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "¥19,018 CNY per annum",
+  "activeMobileDevices": 2195535,
+  "mobilePenetration": 90.4,
+  "internetPenetration": 72.6,
+  "maleCount": 988963,
+  "femaleCount": 953989,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Suzhou",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "suzhou",
+      "distance": 4.537441731021401
+    },
+    {
+      "city": "Wuhan",
+      "state": "Hubei Province",
+      "stateSlug": "hubei-province",
+      "citySlug": "wuhan",
+      "distance": 5.18298793317777
+    },
+    {
+      "city": "Guangzhou",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "guangzhou",
+      "distance": 5.395436381687596
+    },
+    {
+      "city": "Fuzhou",
+      "state": "Fujian Province",
+      "stateSlug": "fujian-province",
+      "citySlug": "fuzhou",
+      "distance": 7.122954001166023
+    },
+    {
+      "city": "Shenzhen",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "shenzhen",
+      "distance": 8.541357947729857
+    }
+  ],
+  "geohash": "wq4x162",
+  "geohashUrl": "https://geohash.softeng.co/wq4x162"
+}

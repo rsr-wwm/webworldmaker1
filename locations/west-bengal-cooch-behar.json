@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-cooch-behar",
+  "city": "Cooch Behar",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "cooch-behar",
+  "country": "India",
+  "pincode": "736101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.2477,
+  "longitude": 72.0183,
+  "landmark": "Cooch Behar State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Cooch Behar, India",
+  "population": 7849716,
+  "mobileUsers": 5840188,
+  "internetUsers": 4458638,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹6.96L per annum",
+  "activeMobileDevices": 8242201,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 56.8,
+  "maleCount": 4089702,
+  "femaleCount": 3760014,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shabroom",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shabroom",
+      "distance": 14.469325199325478
+    },
+    {
+      "city": "Hanumangarh Junction",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "hanumangarh-junction",
+      "distance": 35.51884801329121
+    },
+    {
+      "city": "Phatikchara",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "phatikchara",
+      "distance": 51.06774425052645
+    },
+    {
+      "city": "Palghar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "palghar",
+      "distance": 60.34308801158444
+    },
+    {
+      "city": "Shatchand",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shatchand",
+      "distance": 67.49570813946895
+    }
+  ],
+  "geohash": "ts71yy4",
+  "geohashUrl": "https://geohash.softeng.co/ts71yy4"
+}

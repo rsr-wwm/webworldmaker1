@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-shahjahanpur",
+  "city": "Shahjahanpur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "shahjahanpur",
+  "country": "India",
+  "pincode": "242001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.5248,
+  "longitude": 86.4927,
+  "landmark": "Shahjahanpur Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shahjahanpur, India",
+  "population": 5736315,
+  "mobileUsers": 4371072,
+  "internetUsers": 3436052,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹6.79L per annum",
+  "activeMobileDevices": 6768851,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 59.9,
+  "maleCount": 2959939,
+  "femaleCount": 2776376,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chengannur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chengannur",
+      "distance": 38.26166172170711
+    },
+    {
+      "city": "Saharnpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "saharnpur",
+      "distance": 47.64734415078366
+    },
+    {
+      "city": "Baghmara",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "baghmara",
+      "distance": 56.707038864218234
+    },
+    {
+      "city": "Tadepalligudam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tadepalligudam",
+      "distance": 60.437067871211646
+    },
+    {
+      "city": "Radhanagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "radhanagar",
+      "distance": 60.70064456899463
+    }
+  ],
+  "geohash": "tcveb5y",
+  "geohashUrl": "https://geohash.softeng.co/tcveb5y"
+}

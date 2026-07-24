@@ -1,0 +1,81 @@
+{
+  "id": "uusimaa-helsinki",
+  "city": "Helsinki",
+  "state": "Uusimaa",
+  "stateSlug": "uusimaa",
+  "citySlug": "helsinki",
+  "country": "Finland",
+  "pincode": "00100",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / Traficom",
+  "carriers": [
+    "Elisa",
+    "Telia",
+    "DNA"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+358",
+  "timezone": "Europe/Helsinki",
+  "latitude": 64.1958,
+  "longitude": 26.1446,
+  "landmark": "Helsinki Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over Elisa networks. Failovers route over Telia, DNA with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Helsinki, Finland",
+  "population": 2830199,
+  "mobileUsers": 2213215,
+  "internetUsers": 1941516,
+  "genderRatioText": "984 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "€49,499 per annum",
+  "activeMobileDevices": 3481144,
+  "mobilePenetration": 78.2,
+  "internetPenetration": 68.6,
+  "maleCount": 1426420,
+  "femaleCount": 1403779,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Espoo",
+      "state": "Uusimaa",
+      "stateSlug": "uusimaa",
+      "citySlug": "espoo",
+      "distance": 12.992774646258349
+    },
+    {
+      "city": "Turku",
+      "state": "Southwest Finland",
+      "stateSlug": "southwest-finland",
+      "citySlug": "turku",
+      "distance": 31.14150747814098
+    },
+    {
+      "city": "Vantaa",
+      "state": "Uusimaa",
+      "stateSlug": "uusimaa",
+      "citySlug": "vantaa",
+      "distance": 40.44075890223263
+    },
+    {
+      "city": "Tampere",
+      "state": "Pirkanmaa",
+      "stateSlug": "pirkanmaa",
+      "citySlug": "tampere",
+      "distance": 42.21519444801048
+    },
+    {
+      "city": "Narva",
+      "state": "Ida-Viru County",
+      "stateSlug": "ida-viru-county",
+      "citySlug": "narva",
+      "distance": 557.3586216220065
+    }
+  ],
+  "geohash": "ue6t4ym",
+  "geohashUrl": "https://geohash.softeng.co/ue6t4ym"
+}

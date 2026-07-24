@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-lungdar",
+  "city": "Lungdar",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "lungdar",
+  "country": "India",
+  "pincode": "796370",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.2461,
+  "longitude": 75.0707,
+  "landmark": "Lungdar Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lungdar, India",
+  "population": 5554710,
+  "mobileUsers": 4138258,
+  "internetUsers": 3188403,
+  "genderRatioText": "931 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.14L per annum",
+  "activeMobileDevices": 5610257,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 57.4,
+  "maleCount": 2877340,
+  "femaleCount": 2677370,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Melaghar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "melaghar",
+      "distance": 29.369276312338958
+    },
+    {
+      "city": "Thingdol",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thingdol",
+      "distance": 79.14195687508418
+    },
+    {
+      "city": "Durgapur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "durgapur",
+      "distance": 89.46524176565389
+    },
+    {
+      "city": "Daltonganj",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "daltonganj",
+      "distance": 94.67452055795003
+    },
+    {
+      "city": "Dahod",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dahod",
+      "distance": 100.23935552442114
+    }
+  ],
+  "geohash": "ttt3u20",
+  "geohashUrl": "https://geohash.softeng.co/ttt3u20"
+}

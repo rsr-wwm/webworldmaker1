@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-hubli",
+  "city": "Hubli",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "hubli",
+  "country": "India",
+  "pincode": "580020",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.8562,
+  "longitude": 69.602,
+  "landmark": "Hubli Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hubli, India",
+  "population": 8200946,
+  "mobileUsers": 5962087,
+  "internetUsers": 4756548,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹11.15L per annum",
+  "activeMobileDevices": 9431087,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 58,
+  "maleCount": 4264492,
+  "femaleCount": 3936454,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Barmer",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "barmer",
+      "distance": 47.71470909942698
+    },
+    {
+      "city": "Nangthumai",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangthumai",
+      "distance": 53.93177147340844
+    },
+    {
+      "city": "Sangli",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "sangli",
+      "distance": 62.65559306388525
+    },
+    {
+      "city": "Margo",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "margo",
+      "distance": 65.60663362095454
+    },
+    {
+      "city": "Bodinayakanur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "bodinayakanur",
+      "distance": 78.56442710557563
+    }
+  ],
+  "geohash": "tscqrz4",
+  "geohashUrl": "https://geohash.softeng.co/tscqrz4"
+}

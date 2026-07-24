@@ -1,0 +1,81 @@
+{
+  "id": "bahia-salvador",
+  "city": "Salvador",
+  "state": "Bahia",
+  "stateSlug": "bahia",
+  "citySlug": "salvador",
+  "country": "Brazil",
+  "pincode": "40000-000",
+  "currency": "BRL",
+  "symbol": "R$",
+  "compliance": "ANATEL Rules",
+  "carriers": [
+    "Vivo",
+    "Claro",
+    "TIM"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+55",
+  "timezone": "America/Araguaina",
+  "latitude": -9.9435,
+  "longitude": -55.1063,
+  "landmark": "Salvador Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Vivo networks. Failovers route over Claro, TIM with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Salvador, Brazil",
+  "population": 1103104,
+  "mobileUsers": 978453,
+  "internetUsers": 857111,
+  "genderRatioText": "998 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "R$25,677 BRL per annum",
+  "activeMobileDevices": 1323724,
+  "mobilePenetration": 88.7,
+  "internetPenetration": 77.7,
+  "maleCount": 552655,
+  "femaleCount": 550449,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Brasilia",
+      "state": "Federal District",
+      "stateSlug": "federal-district",
+      "citySlug": "brasilia",
+      "distance": 7.5625297729747505
+    },
+    {
+      "city": "São Paulo",
+      "state": "São Paulo State",
+      "stateSlug": "sao-paulo-state",
+      "citySlug": "sao-paulo",
+      "distance": 10.460387779729334
+    },
+    {
+      "city": "Manaus",
+      "state": "Amazonas",
+      "stateSlug": "amazonas",
+      "citySlug": "manaus",
+      "distance": 13.55982596496919
+    },
+    {
+      "city": "Curitiba",
+      "state": "Parana",
+      "stateSlug": "parana",
+      "citySlug": "curitiba",
+      "distance": 19.385274959676963
+    },
+    {
+      "city": "Fortaleza",
+      "state": "Ceara",
+      "stateSlug": "ceara",
+      "citySlug": "fortaleza",
+      "distance": 21.418118690902755
+    }
+  ],
+  "geohash": "6y0z6jb",
+  "geohashUrl": "https://geohash.softeng.co/6y0z6jb"
+}

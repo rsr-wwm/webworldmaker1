@@ -1,0 +1,82 @@
+{
+  "id": "tripura-sunamura",
+  "city": "Sunamura",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "sunamura",
+  "country": "India",
+  "pincode": "799131",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.1972,
+  "longitude": 87.0968,
+  "landmark": "Sunamura District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sunamura, India",
+  "population": 7662907,
+  "mobileUsers": 5816146,
+  "internetUsers": 4229924,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹11.29L per annum",
+  "activeMobileDevices": 8275939,
+  "mobilePenetration": 75.9,
+  "internetPenetration": 55.2,
+  "maleCount": 4015363,
+  "femaleCount": 3647544,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Indi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "indi",
+      "distance": 57.34717742043541
+    },
+    {
+      "city": "Bachaibadi",
+      "state": "Tripur",
+      "stateSlug": "tripur",
+      "citySlug": "bachaibadi",
+      "distance": 76.69458911395593
+    },
+    {
+      "city": "Hassan",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hassan",
+      "distance": 79.58111518260591
+    },
+    {
+      "city": "Likabili",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "likabili",
+      "distance": 84.2347423432546
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "stateSlug": "telangana",
+      "citySlug": "hyderabad",
+      "distance": 95.94694970065424
+    }
+  ],
+  "geohash": "tgmvjyt",
+  "geohashUrl": "https://geohash.softeng.co/tgmvjyt"
+}

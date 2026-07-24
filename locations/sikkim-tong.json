@@ -1,0 +1,82 @@
+{
+  "id": "sikkim-tong",
+  "city": "Tong",
+  "state": "Sikkim",
+  "stateSlug": "sikkim",
+  "citySlug": "tong",
+  "country": "India",
+  "pincode": "734224",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.6102,
+  "longitude": 70.3693,
+  "landmark": "Tong Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tong, India",
+  "population": 6461785,
+  "mobileUsers": 4872185,
+  "internetUsers": 3560443,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹8.10L per annum",
+  "activeMobileDevices": 6978727,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 55.1,
+  "maleCount": 3379514,
+  "femaleCount": 3082271,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kohima G.P.O",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "kohima-gpo",
+      "distance": 52.68451923088188
+    },
+    {
+      "city": "Neemuch",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "neemuch",
+      "distance": 60.3261206766834
+    },
+    {
+      "city": "Srinagar GPO",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "srinagar-gpo",
+      "distance": 94.45086859444748
+    },
+    {
+      "city": "Happy valley",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "happy-valley",
+      "distance": 103.11456488496559
+    },
+    {
+      "city": "Purulai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "purulai",
+      "distance": 106.37743087267035
+    }
+  ],
+  "geohash": "td44139",
+  "geohashUrl": "https://geohash.softeng.co/td44139"
+}

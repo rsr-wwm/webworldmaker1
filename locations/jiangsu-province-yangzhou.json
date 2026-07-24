@@ -1,0 +1,81 @@
+{
+  "id": "jiangsu-province-yangzhou",
+  "city": "Yangzhou",
+  "state": "Jiangsu Province",
+  "stateSlug": "jiangsu-province",
+  "citySlug": "yangzhou",
+  "country": "China",
+  "pincode": "225000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.0062,
+  "longitude": 105.1349,
+  "landmark": "Yangzhou GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Yangzhou, China",
+  "population": 5038328,
+  "mobileUsers": 4499226,
+  "internetUsers": 3496599,
+  "genderRatioText": "1,001 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "¥43,314 CNY per annum",
+  "activeMobileDevices": 5391010,
+  "mobilePenetration": 89.3,
+  "internetPenetration": 69.4,
+  "maleCount": 2519164,
+  "femaleCount": 2519164,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Ningbo",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "ningbo",
+      "distance": 1.9223661267624903
+    },
+    {
+      "city": "Qingdao",
+      "state": "Shandong Province",
+      "stateSlug": "shandong-province",
+      "citySlug": "qingdao",
+      "distance": 6.677543942041923
+    },
+    {
+      "city": "Dongguan",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "dongguan",
+      "distance": 6.791296404693644
+    },
+    {
+      "city": "Nantong",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "nantong",
+      "distance": 7.745671424501403
+    },
+    {
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang",
+      "distance": 11.235678762810757
+    }
+  ],
+  "geohash": "wq4z0ks",
+  "geohashUrl": "https://geohash.softeng.co/wq4z0ks"
+}

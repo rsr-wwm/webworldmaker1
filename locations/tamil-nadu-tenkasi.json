@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tenkasi",
+  "city": "Tenkasi",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tenkasi",
+  "country": "India",
+  "pincode": "627811",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.1391,
+  "longitude": 86.8415,
+  "landmark": "Tenkasi Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tenkasi, India",
+  "population": 9902366,
+  "mobileUsers": 7238629,
+  "internetUsers": 5584934,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹11.36L per annum",
+  "activeMobileDevices": 10199436,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 56.4,
+  "maleCount": 5139328,
+  "femaleCount": 4763038,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Veraval",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "veraval",
+      "distance": 37.40512083531011
+    },
+    {
+      "city": "Kundapura",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kundapura",
+      "distance": 45.615617157674876
+    },
+    {
+      "city": "Rangpo",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "rangpo",
+      "distance": 51.85881737924963
+    },
+    {
+      "city": "Begusarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "begusarai",
+      "distance": 52.69401791721756
+    },
+    {
+      "city": "Palel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "palel",
+      "distance": 53.167048696934565
+    }
+  ],
+  "geohash": "tumc24k",
+  "geohashUrl": "https://geohash.softeng.co/tumc24k"
+}

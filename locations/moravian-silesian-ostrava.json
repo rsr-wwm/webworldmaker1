@@ -1,0 +1,81 @@
+{
+  "id": "moravian-silesian-ostrava",
+  "city": "Ostrava",
+  "state": "Moravian-Silesian",
+  "stateSlug": "moravian-silesian",
+  "citySlug": "ostrava",
+  "country": "Czechia",
+  "pincode": "702 00",
+  "currency": "CZK",
+  "symbol": "Kč",
+  "compliance": "GDPR / CTU",
+  "carriers": [
+    "T-Mobile",
+    "O2",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+420",
+  "timezone": "Europe/Prague",
+  "latitude": 49.8685,
+  "longitude": 15.3178,
+  "landmark": "Ostrava Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over T-Mobile networks. Failovers route over O2, Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Ostrava, Czechia",
+  "population": 4736405,
+  "mobileUsers": 3841224,
+  "internetUsers": 2950780,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "Kč42,707 CZK per annum",
+  "activeMobileDevices": 5778414,
+  "mobilePenetration": 81.1,
+  "internetPenetration": 62.3,
+  "maleCount": 2425039,
+  "femaleCount": 2311366,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Prague",
+      "state": "Prague City",
+      "stateSlug": "prague-city",
+      "citySlug": "prague",
+      "distance": 10.0376970667886
+    },
+    {
+      "city": "Pilsen",
+      "state": "Plzen Region",
+      "stateSlug": "plzen-region",
+      "citySlug": "pilsen",
+      "distance": 12.545237064476728
+    },
+    {
+      "city": "Brno",
+      "state": "South Moravian",
+      "stateSlug": "south-moravian",
+      "citySlug": "brno",
+      "distance": 32.78726300751617
+    },
+    {
+      "city": "Hanover",
+      "state": "Lower Saxony",
+      "stateSlug": "lower-saxony",
+      "citySlug": "hanover",
+      "distance": 144.4834339440929
+    },
+    {
+      "city": "Leipzig",
+      "state": "Saxony",
+      "stateSlug": "saxony",
+      "citySlug": "leipzig",
+      "distance": 163.1219551269143
+    }
+  ],
+  "geohash": "u2fgsw6",
+  "geohashUrl": "https://geohash.softeng.co/u2fgsw6"
+}

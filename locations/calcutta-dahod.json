@@ -1,0 +1,82 @@
+{
+  "id": "calcutta-dahod",
+  "city": "Dahod",
+  "state": "Calcutta",
+  "stateSlug": "calcutta",
+  "citySlug": "dahod",
+  "country": "India",
+  "pincode": "389151",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.4387,
+  "longitude": 75.5377,
+  "landmark": "Dahod Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dahod, India",
+  "population": 6125691,
+  "mobileUsers": 4563639,
+  "internetUsers": 3663163,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹6.53L per annum",
+  "activeMobileDevices": 6309461,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 59.8,
+  "maleCount": 3191485,
+  "femaleCount": 2934206,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Phalaing",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "phalaing",
+      "distance": 40.07395859285701
+    },
+    {
+      "city": "Puttur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "puttur",
+      "distance": 49.75572630853911
+    },
+    {
+      "city": "Kaknad",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kaknad",
+      "distance": 64.83048309202489
+    },
+    {
+      "city": "Dhar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "dhar",
+      "distance": 75.24619006185934
+    },
+    {
+      "city": "Tandur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tandur",
+      "distance": 77.79264114195027
+    }
+  ],
+  "geohash": "ttmtnvh",
+  "geohashUrl": "https://geohash.softeng.co/ttmtnvh"
+}

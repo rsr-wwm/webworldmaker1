@@ -1,0 +1,81 @@
+{
+  "id": "uusimaa-espoo",
+  "city": "Espoo",
+  "state": "Uusimaa",
+  "stateSlug": "uusimaa",
+  "citySlug": "espoo",
+  "country": "Finland",
+  "pincode": "02100",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / Traficom",
+  "carriers": [
+    "Elisa",
+    "Telia",
+    "DNA"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+358",
+  "timezone": "Europe/Helsinki",
+  "latitude": 64.1428,
+  "longitude": 25.9056,
+  "landmark": "Espoo Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Elisa networks. Failovers route over Telia, DNA with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Espoo, Finland",
+  "population": 1834183,
+  "mobileUsers": 1494859,
+  "internetUsers": 1188550,
+  "genderRatioText": "990 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "€52,298 per annum",
+  "activeMobileDevices": 2311070,
+  "mobilePenetration": 81.5,
+  "internetPenetration": 64.8,
+  "maleCount": 922594,
+  "femaleCount": 911589,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Helsinki",
+      "state": "Uusimaa",
+      "stateSlug": "uusimaa",
+      "citySlug": "helsinki",
+      "distance": 12.992774646258349
+    },
+    {
+      "city": "Turku",
+      "state": "Southwest Finland",
+      "stateSlug": "southwest-finland",
+      "citySlug": "turku",
+      "distance": 26.045590298761716
+    },
+    {
+      "city": "Tampere",
+      "state": "Pirkanmaa",
+      "stateSlug": "pirkanmaa",
+      "citySlug": "tampere",
+      "distance": 34.61580543193247
+    },
+    {
+      "city": "Vantaa",
+      "state": "Uusimaa",
+      "stateSlug": "uusimaa",
+      "citySlug": "vantaa",
+      "distance": 37.2622979335187
+    },
+    {
+      "city": "Narva",
+      "state": "Ida-Viru County",
+      "stateSlug": "ida-viru-county",
+      "citySlug": "narva",
+      "distance": 551.2067710188976
+    }
+  ],
+  "geohash": "ue6kvkz",
+  "geohashUrl": "https://geohash.softeng.co/ue6kvkz"
+}

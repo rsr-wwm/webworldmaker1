@@ -1,0 +1,81 @@
+{
+  "id": "lisbon-district-lisbon",
+  "city": "Lisbon",
+  "state": "Lisbon District",
+  "stateSlug": "lisbon-district",
+  "citySlug": "lisbon",
+  "country": "Portugal",
+  "pincode": "1000-001",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ANACOM",
+  "carriers": [
+    "MEO",
+    "NOS",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+351",
+  "timezone": "Atlantic/Azores",
+  "latitude": 39.3581,
+  "longitude": -7.9585,
+  "landmark": "Lisbon Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over MEO networks. Failovers route over NOS, Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Lisbon, Portugal",
+  "population": 3347179,
+  "mobileUsers": 2610799,
+  "internetUsers": 2055167,
+  "genderRatioText": "981 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "€54,136 per annum",
+  "activeMobileDevices": 4686050,
+  "mobilePenetration": 78,
+  "internetPenetration": 61.4,
+  "maleCount": 1690325,
+  "femaleCount": 1656854,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Porto",
+      "state": "Porto District",
+      "stateSlug": "porto-district",
+      "citySlug": "porto",
+      "distance": 14.851031360304697
+    },
+    {
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "stateSlug": "community-of-madrid",
+      "citySlug": "madrid",
+      "distance": 330.7507250411312
+    },
+    {
+      "city": "Bilbao",
+      "state": "Basque Country",
+      "stateSlug": "basque-country",
+      "citySlug": "bilbao",
+      "distance": 334.7705626735093
+    },
+    {
+      "city": "Malaga",
+      "state": "Andalusia",
+      "stateSlug": "andalusia",
+      "citySlug": "malaga",
+      "distance": 335.31768625027206
+    },
+    {
+      "city": "Seville",
+      "state": "Andalusia",
+      "stateSlug": "andalusia",
+      "citySlug": "seville",
+      "distance": 340.8912559125073
+    }
+  ],
+  "geohash": "eyfrfuu",
+  "geohashUrl": "https://geohash.softeng.co/eyfrfuu"
+}

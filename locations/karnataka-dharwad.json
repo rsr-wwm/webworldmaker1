@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-dharwad",
+  "city": "Dharwad",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "dharwad",
+  "country": "India",
+  "pincode": "580001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.0779,
+  "longitude": 75.5111,
+  "landmark": "Dharwad State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dharwad, India",
+  "population": 8096784,
+  "mobileUsers": 5902555,
+  "internetUsers": 4979522,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.78L per annum",
+  "activeMobileDevices": 8744526,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 61.5,
+  "maleCount": 4210328,
+  "femaleCount": 3886456,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Telimura",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "telimura",
+      "distance": 46.88773199446638
+    },
+    {
+      "city": "Parbhani",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "parbhani",
+      "distance": 90.64515129405326
+    },
+    {
+      "city": "Gurdaspur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "gurdaspur",
+      "distance": 100.54793850788613
+    },
+    {
+      "city": "Kolhapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kolhapur",
+      "distance": 117.5706516276259
+    },
+    {
+      "city": "Berhampur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "berhampur",
+      "distance": 117.65871462446549
+    }
+  ],
+  "geohash": "tdveqqc",
+  "geohashUrl": "https://geohash.softeng.co/tdveqqc"
+}

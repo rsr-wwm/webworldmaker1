@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-rathinasabapathipuram",
+  "city": "Rathinasabapathipuram",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "rathinasabapathipuram",
+  "country": "India",
+  "pincode": "641002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.0334,
+  "longitude": 77.5925,
+  "landmark": "Rathinasabapathipuram Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rathinasabapathipuram, India",
+  "population": 7368424,
+  "mobileUsers": 5740002,
+  "internetUsers": 4001054,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹9.96L per annum",
+  "activeMobileDevices": 8400003,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 54.3,
+  "maleCount": 3750528,
+  "femaleCount": 3617896,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Agra Fort",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "agra-fort",
+      "distance": 21.01169751674605
+    },
+    {
+      "city": "Kailashahar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kailashahar",
+      "distance": 22.75133298733264
+    },
+    {
+      "city": "Guwahati University",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati-university",
+      "distance": 39.64467159543554
+    },
+    {
+      "city": "Mati",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mati",
+      "distance": 53.861010905161024
+    },
+    {
+      "city": "Phulbani",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "phulbani",
+      "distance": 59.8594386017905
+    }
+  ],
+  "geohash": "texpttj",
+  "geohashUrl": "https://geohash.softeng.co/texpttj"
+}

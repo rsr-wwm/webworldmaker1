@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-chandmari",
+  "city": "Chandmari",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "chandmari",
+  "country": "India",
+  "pincode": "796007",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.7807,
+  "longitude": 85.6815,
+  "landmark": "Chandmari Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chandmari, India",
+  "population": 7871846,
+  "mobileUsers": 5848781,
+  "internetUsers": 4353130,
+  "genderRatioText": "925 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹10.65L per annum",
+  "activeMobileDevices": 8737749,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 55.3,
+  "maleCount": 4085488,
+  "femaleCount": 3786358,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bayana",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bayana",
+      "distance": 69.4346112081166
+    },
+    {
+      "city": "Faridkot",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faridkot",
+      "distance": 73.21422112783048
+    },
+    {
+      "city": "Madikeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "madikeri",
+      "distance": 100.76589179817513
+    },
+    {
+      "city": "Rangpo",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "rangpo",
+      "distance": 104.75487833387356
+    },
+    {
+      "city": "Kadamtala",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "kadamtala",
+      "distance": 106.98088059899901
+    }
+  ],
+  "geohash": "tuhzm9p",
+  "geohashUrl": "https://geohash.softeng.co/tuhzm9p"
+}

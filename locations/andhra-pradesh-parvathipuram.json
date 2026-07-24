@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-parvathipuram",
+  "city": "Parvathipuram",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "parvathipuram",
+  "country": "India",
+  "pincode": "532501",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.6624,
+  "longitude": 72.5053,
+  "landmark": "Parvathipuram Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Parvathipuram, India",
+  "population": 9303031,
+  "mobileUsers": 6772606,
+  "internetUsers": 5749273,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.82L per annum",
+  "activeMobileDevices": 10791515,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 61.8,
+  "maleCount": 4753849,
+  "femaleCount": 4549182,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rasra",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "rasra",
+      "distance": 29.515027032475967
+    },
+    {
+      "city": "Buzar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "buzar",
+      "distance": 77.23054988124082
+    },
+    {
+      "city": "Kanigiri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kanigiri",
+      "distance": 123.58641613554646
+    },
+    {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "kanpur",
+      "distance": 136.37882744140296
+    },
+    {
+      "city": "Latur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "latur",
+      "distance": 136.85732034022917
+    }
+  ],
+  "geohash": "t9e93bu",
+  "geohashUrl": "https://geohash.softeng.co/t9e93bu"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-bilaspur",
+  "city": "Bilaspur",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "bilaspur",
+  "country": "India",
+  "pincode": "495001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.7622,
+  "longitude": 83.6187,
+  "landmark": "Bilaspur Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bilaspur, India",
+  "population": 681671,
+  "mobileUsers": 511253,
+  "internetUsers": 406275,
+  "genderRatioText": "949 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹6.05L per annum",
+  "activeMobileDevices": 777104,
+  "mobilePenetration": 75,
+  "internetPenetration": 59.6,
+  "maleCount": 349697,
+  "femaleCount": 331974,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Markapur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "markapur",
+      "distance": 48.366155464637096
+    },
+    {
+      "city": "Faizabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "faizabad",
+      "distance": 68.28700884554983
+    },
+    {
+      "city": "Haldwani",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "haldwani",
+      "distance": 81.28194305980956
+    },
+    {
+      "city": "Sumer",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "sumer",
+      "distance": 81.49698189564555
+    },
+    {
+      "city": "Ratnagiri",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ratnagiri",
+      "distance": 88.93468716151494
+    }
+  ],
+  "geohash": "tcerwc1",
+  "geohashUrl": "https://geohash.softeng.co/tcerwc1"
+}

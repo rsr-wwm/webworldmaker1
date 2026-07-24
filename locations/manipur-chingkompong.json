@@ -1,0 +1,82 @@
+{
+  "id": "manipur-chingkompong",
+  "city": "Chingkompong",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "chingkompong",
+  "country": "India",
+  "pincode": "795158",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.0967,
+  "longitude": 86.1875,
+  "landmark": "Chingkompong District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chingkompong, India",
+  "population": 9507320,
+  "mobileUsers": 7282607,
+  "internetUsers": 5257547,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹11.11L per annum",
+  "activeMobileDevices": 10553125,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 55.3,
+  "maleCount": 4972328,
+  "femaleCount": 4534992,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Haveri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "haveri",
+      "distance": 63.9746376019624
+    },
+    {
+      "city": "Changlang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "changlang",
+      "distance": 78.34463924221141
+    },
+    {
+      "city": "Neyyattinkara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "neyyattinkara",
+      "distance": 81.28441760589385
+    },
+    {
+      "city": "Bansi",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bansi",
+      "distance": 82.61200446297575
+    },
+    {
+      "city": "Kumta",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kumta",
+      "distance": 88.26022485612935
+    }
+  ],
+  "geohash": "tftmchr",
+  "geohashUrl": "https://geohash.softeng.co/tftmchr"
+}

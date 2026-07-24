@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-sriganganagar",
+  "city": "Sriganganagar",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "sriganganagar",
+  "country": "India",
+  "pincode": "335001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.8893,
+  "longitude": 70.6446,
+  "landmark": "Sriganganagar District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sriganganagar, India",
+  "population": 6084397,
+  "mobileUsers": 4441609,
+  "internetUsers": 3644553,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹11.06L per annum",
+  "activeMobileDevices": 6631992,
+  "mobilePenetration": 73,
+  "internetPenetration": 59.9,
+  "maleCount": 3176055,
+  "femaleCount": 2908342,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Zahirabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "zahirabad",
+      "distance": 37.03473452084538
+    },
+    {
+      "city": "Udagamandalam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "udagamandalam",
+      "distance": 46.0988115780495
+    },
+    {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "coimbatore",
+      "distance": 47.34681467058483
+    },
+    {
+      "city": "Angul",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "angul",
+      "distance": 61.87972803117663
+    },
+    {
+      "city": "Ponani",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ponani",
+      "distance": 104.22167609864296
+    }
+  ],
+  "geohash": "te40pd9",
+  "geohashUrl": "https://geohash.softeng.co/te40pd9"
+}

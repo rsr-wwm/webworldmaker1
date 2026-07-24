@@ -1,0 +1,82 @@
+{
+  "id": "lazio-region-rome",
+  "city": "Rome",
+  "state": "Lazio Region",
+  "stateSlug": "lazio-region",
+  "citySlug": "rome",
+  "country": "Italy",
+  "pincode": "00187",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / AGCOM",
+  "carriers": [
+    "WindTre",
+    "TIM",
+    "Vodafone",
+    "iliad"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+39",
+  "timezone": "Europe/Rome",
+  "latitude": 43.0327,
+  "longitude": 12.8711,
+  "landmark": "Rome Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over WindTre networks. Failovers route over TIM, Vodafone, iliad with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Rome, Italy",
+  "population": 1518098,
+  "mobileUsers": 1208406,
+  "internetUsers": 1027752,
+  "genderRatioText": "1,009 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "€67,239 per annum",
+  "activeMobileDevices": 1973527,
+  "mobilePenetration": 79.6,
+  "internetPenetration": 67.7,
+  "maleCount": 756013,
+  "femaleCount": 762085,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Venice",
+      "state": "Veneto",
+      "stateSlug": "veneto",
+      "citySlug": "venice",
+      "distance": 5.803228768313298
+    },
+    {
+      "city": "Genoa",
+      "state": "Liguria",
+      "stateSlug": "liguria",
+      "citySlug": "genoa",
+      "distance": 8.333430852729084
+    },
+    {
+      "city": "Milan",
+      "state": "Lombardy",
+      "stateSlug": "lombardy",
+      "citySlug": "milan",
+      "distance": 10.342730969486029
+    },
+    {
+      "city": "Naples",
+      "state": "Campania",
+      "stateSlug": "campania",
+      "citySlug": "naples",
+      "distance": 12.281383133396993
+    },
+    {
+      "city": "Turin",
+      "state": "Piedmont",
+      "stateSlug": "piedmont",
+      "citySlug": "turin",
+      "distance": 16.646553297771806
+    }
+  ],
+  "geohash": "sr9hucu",
+  "geohashUrl": "https://geohash.softeng.co/sr9hucu"
+}

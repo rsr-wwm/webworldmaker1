@@ -1,0 +1,82 @@
+{
+  "id": "goa-aio-donna-paula",
+  "city": "A.I.O. Donna Paula",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "aio-donna-paula",
+  "country": "India",
+  "pincode": "403004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.8669,
+  "longitude": 69.6255,
+  "landmark": "A.I.O. Donna Paula Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for A.I.O. Donna Paula, India",
+  "population": 1184272,
+  "mobileUsers": 922547,
+  "internetUsers": 722405,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹8.96L per annum",
+  "activeMobileDevices": 1267171,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 61,
+  "maleCount": 608716,
+  "femaleCount": 575556,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gudur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gudur",
+      "distance": 38.17329590374953
+    },
+    {
+      "city": "Kantolim",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kantolim",
+      "distance": 88.12692982719244
+    },
+    {
+      "city": "Shahpura",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shahpura",
+      "distance": 94.17559364304933
+    },
+    {
+      "city": "Midnapore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "midnapore",
+      "distance": 106.73837265001282
+    },
+    {
+      "city": "Labaan",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labaan",
+      "distance": 113.6008563833503
+    }
+  ],
+  "geohash": "te9w8qe",
+  "geohashUrl": "https://geohash.softeng.co/te9w8qe"
+}

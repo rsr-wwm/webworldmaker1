@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-cuddalore",
+  "city": "Cuddalore",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "cuddalore",
+  "country": "India",
+  "pincode": "607001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.7479,
+  "longitude": 72.9765,
+  "landmark": "Cuddalore Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Cuddalore, India",
+  "population": 7164910,
+  "mobileUsers": 5445331,
+  "internetUsers": 4334770,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.57L per annum",
+  "activeMobileDevices": 8311295,
+  "mobilePenetration": 76,
+  "internetPenetration": 60.5,
+  "maleCount": 3675599,
+  "femaleCount": 3489311,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Majorda",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "majorda",
+      "distance": 30.761664888958435
+    },
+    {
+      "city": "Kenndrapara",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "kenndrapara",
+      "distance": 47.098772058074104
+    },
+    {
+      "city": "Chumukidima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chumukidima",
+      "distance": 61.61470841434787
+    },
+    {
+      "city": "Sankarankoil",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sankarankoil",
+      "distance": 67.296951960423
+    },
+    {
+      "city": "Deeg",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "deeg",
+      "distance": 68.21603189909784
+    }
+  ],
+  "geohash": "t9gvhse",
+  "geohashUrl": "https://geohash.softeng.co/t9gvhse"
+}

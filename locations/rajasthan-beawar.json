@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-beawar",
+  "city": "Beawar",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "beawar",
+  "country": "India",
+  "pincode": "305901",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.5803,
+  "longitude": 73.5548,
+  "landmark": "Beawar District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Beawar, India",
+  "population": 2087208,
+  "mobileUsers": 1602975,
+  "internetUsers": 1291981,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹7.27L per annum",
+  "activeMobileDevices": 2108080,
+  "mobilePenetration": 76.8,
+  "internetPenetration": 61.9,
+  "maleCount": 1087435,
+  "femaleCount": 999773,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Masanapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "masanapalle",
+      "distance": 25.673694360231657
+    },
+    {
+      "city": "Kapanga",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "kapanga",
+      "distance": 29.70668269925443
+    },
+    {
+      "city": "Virudhunagar",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "virudhunagar",
+      "distance": 43.32767440430805
+    },
+    {
+      "city": "Nungba",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "nungba",
+      "distance": 55.678456296960206
+    },
+    {
+      "city": "Kumbakonam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kumbakonam",
+      "distance": 58.80412091016912
+    }
+  ],
+  "geohash": "tehk1b2",
+  "geohashUrl": "https://geohash.softeng.co/tehk1b2"
+}

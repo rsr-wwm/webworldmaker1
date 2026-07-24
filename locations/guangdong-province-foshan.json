@@ -1,0 +1,81 @@
+{
+  "id": "guangdong-province-foshan",
+  "city": "Foshan",
+  "state": "Guangdong Province",
+  "stateSlug": "guangdong-province",
+  "citySlug": "foshan",
+  "country": "China",
+  "pincode": "528000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.0697,
+  "longitude": 104.8501,
+  "landmark": "Foshan State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Foshan, China",
+  "population": 9527470,
+  "mobileUsers": 8669997,
+  "internetUsers": 7117020,
+  "genderRatioText": "975 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "¥28,036 CNY per annum",
+  "activeMobileDevices": 10861315,
+  "mobilePenetration": 91,
+  "internetPenetration": 74.7,
+  "maleCount": 4820900,
+  "femaleCount": 4706570,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Urumqi",
+      "state": "Xinjiang Region",
+      "stateSlug": "xinjiang-region",
+      "citySlug": "urumqi",
+      "distance": 1.6569700471095368
+    },
+    {
+      "city": "Fuzhou",
+      "state": "Fujian Province",
+      "stateSlug": "fujian-province",
+      "citySlug": "fuzhou",
+      "distance": 2.1990990736197817
+    },
+    {
+      "city": "Guiyang",
+      "state": "Guizhou Province",
+      "stateSlug": "guizhou-province",
+      "citySlug": "guiyang",
+      "distance": 3.7321004740615216
+    },
+    {
+      "city": "Suzhou",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "suzhou",
+      "distance": 4.262186675838161
+    },
+    {
+      "city": "Guangzhou",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "guangzhou",
+      "distance": 4.521272715088265
+    }
+  ],
+  "geohash": "wq4x9bj",
+  "geohashUrl": "https://geohash.softeng.co/wq4x9bj"
+}

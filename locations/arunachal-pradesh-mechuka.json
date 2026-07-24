@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-mechuka",
+  "city": "Mechuka",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "mechuka",
+  "country": "India",
+  "pincode": "792051",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.0683,
+  "longitude": 77.6763,
+  "landmark": "Mechuka Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mechuka, India",
+  "population": 7867368,
+  "mobileUsers": 5869056,
+  "internetUsers": 4633879,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹10.86L per annum",
+  "activeMobileDevices": 8968799,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 58.9,
+  "maleCount": 4020225,
+  "femaleCount": 3847143,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hinoo",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "hinoo",
+      "distance": 70.62804739525963
+    },
+    {
+      "city": "Muzaffarnagar",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "muzaffarnagar",
+      "distance": 71.6740453975186
+    },
+    {
+      "city": "Almora",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "almora",
+      "distance": 73.99492870779841
+    },
+    {
+      "city": "Coonoor",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "coonoor",
+      "distance": 80.15944860274652
+    },
+    {
+      "city": "Bijapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bijapur",
+      "distance": 86.3693429985548
+    }
+  ],
+  "geohash": "t9z1r8f",
+  "geohashUrl": "https://geohash.softeng.co/t9z1r8f"
+}

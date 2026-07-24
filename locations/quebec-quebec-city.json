@@ -1,0 +1,81 @@
+{
+  "id": "quebec-quebec-city",
+  "city": "Quebec City",
+  "state": "Quebec",
+  "stateSlug": "quebec",
+  "citySlug": "quebec-city",
+  "country": "Canada",
+  "pincode": "G1R 4P5",
+  "currency": "CAD",
+  "symbol": "C$",
+  "compliance": "CRTC / CASL Guidelines",
+  "carriers": [
+    "Rogers",
+    "Bell",
+    "Telus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 416",
+  "timezone": "America/Toronto",
+  "latitude": 46.8137431,
+  "longitude": -71.2084061,
+  "landmark": "Quebec City Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Quebec City, Canada",
+  "population": 2898337,
+  "mobileUsers": 2767911,
+  "internetUsers": 2556333,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "C$23,932 CAD per annum",
+  "activeMobileDevices": 3738854,
+  "mobilePenetration": 95.5,
+  "internetPenetration": 88.2,
+  "maleCount": 1478152,
+  "femaleCount": 1420185,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Montreal",
+      "state": "Quebec",
+      "stateSlug": "quebec",
+      "citySlug": "montreal",
+      "distance": 233.03940621331603
+    },
+    {
+      "city": "Buffalo",
+      "state": "New York",
+      "stateSlug": "new-york",
+      "citySlug": "buffalo",
+      "distance": 320.8819407688709
+    },
+    {
+      "city": "Ottawa",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "ottawa",
+      "distance": 378.499944203623
+    },
+    {
+      "city": "Austin",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "austin",
+      "distance": 410.9193351515516
+    },
+    {
+      "city": "Kingston",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "kingston",
+      "distance": 492.7348335970429
+    }
+  ],
+  "geohash": "f2m67d5",
+  "geohashUrl": "https://geohash.softeng.co/f2m67d5"
+}

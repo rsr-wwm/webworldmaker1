@@ -1,0 +1,81 @@
+{
+  "id": "taichung-city-taichung",
+  "city": "Taichung",
+  "state": "Taichung City",
+  "stateSlug": "taichung-city",
+  "citySlug": "taichung",
+  "country": "Taiwan",
+  "pincode": "400",
+  "currency": "TWD",
+  "symbol": "NT$",
+  "compliance": "NCC Regulations",
+  "carriers": [
+    "Chunghwa Telecom",
+    "Taiwan Mobile",
+    "FarEasTone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+886",
+  "timezone": "Asia/Taipei",
+  "latitude": 23.4687,
+  "longitude": 120.8787,
+  "landmark": "Taichung Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Chunghwa Telecom networks. Failovers route over Taiwan Mobile, FarEasTone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Taichung, Taiwan",
+  "population": 554848,
+  "mobileUsers": 458859,
+  "internetUsers": 359541,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "NT$24,919 TWD per annum",
+  "activeMobileDevices": 754593,
+  "mobilePenetration": 82.7,
+  "internetPenetration": 64.8,
+  "maleCount": 282972,
+  "femaleCount": 271876,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Hsinchu",
+      "state": "Hsinchu County",
+      "stateSlug": "hsinchu-county",
+      "citySlug": "hsinchu",
+      "distance": 8.498971671393392
+    },
+    {
+      "city": "Tainan",
+      "state": "Tainan City",
+      "stateSlug": "tainan-city",
+      "citySlug": "tainan",
+      "distance": 16.487242885358864
+    },
+    {
+      "city": "Keelung",
+      "state": "Keelung City",
+      "stateSlug": "keelung-city",
+      "citySlug": "keelung",
+      "distance": 17.952283372879016
+    },
+    {
+      "city": "Taipei",
+      "state": "Taipei Municipality",
+      "stateSlug": "taipei-municipality",
+      "citySlug": "taipei",
+      "distance": 30.40198084692277
+    },
+    {
+      "city": "Kaohsiung",
+      "state": "Kaohsiung Municipality",
+      "stateSlug": "kaohsiung-municipality",
+      "citySlug": "kaohsiung",
+      "distance": 33.302911768967924
+    }
+  ],
+  "geohash": "wsjvw8m",
+  "geohashUrl": "https://geohash.softeng.co/wsjvw8m"
+}

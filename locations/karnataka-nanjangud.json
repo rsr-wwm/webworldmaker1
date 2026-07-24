@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-nanjangud",
+  "city": "Nanjangud",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "nanjangud",
+  "country": "India",
+  "pincode": "571301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.4313,
+  "longitude": 77.1304,
+  "landmark": "Nanjangud District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nanjangud, India",
+  "population": 9944980,
+  "mobileUsers": 7657634,
+  "internetUsers": 5738253,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹7.51L per annum",
+  "activeMobileDevices": 11038927,
+  "mobilePenetration": 77,
+  "internetPenetration": 57.7,
+  "maleCount": 5161445,
+  "femaleCount": 4783535,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhuj",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhuj",
+      "distance": 21.29469932731141
+    },
+    {
+      "city": "Tirur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "tirur",
+      "distance": 66.85501358680392
+    },
+    {
+      "city": "Thinghai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thinghai",
+      "distance": 69.5421189956134
+    },
+    {
+      "city": "Solan",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "solan",
+      "distance": 93.13452048319725
+    },
+    {
+      "city": "Berhampur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "berhampur",
+      "distance": 95.91032756987482
+    }
+  ],
+  "geohash": "tdwzg1h",
+  "geohashUrl": "https://geohash.softeng.co/tdwzg1h"
+}

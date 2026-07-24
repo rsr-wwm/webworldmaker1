@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-madras-gpo",
+  "city": "Madras GPO",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "madras-gpo",
+  "country": "India",
+  "pincode": "600001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "post_office",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.1733,
+  "longitude": 76.4931,
+  "landmark": "Madras State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Madras GPO, India",
+  "population": 40341,
+  "mobileUsers": 30699,
+  "internetUsers": 22308,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹2.69L per annum",
+  "activeMobileDevices": 45988,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 55.3,
+  "maleCount": 20897,
+  "femaleCount": 19444,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mandgaon G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "mandgaon-gpo",
+      "distance": 42.92835018504782
+    },
+    {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "indore",
+      "distance": 56.20281578290353
+    },
+    {
+      "city": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "mandsaur",
+      "distance": 59.13935301001749
+    },
+    {
+      "city": "Thuckalay",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thuckalay",
+      "distance": 73.1142039293964
+    },
+    {
+      "city": "Phatikarai",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "phatikarai",
+      "distance": 75.16872397026125
+    }
+  ],
+  "geohash": "tdq6uwh",
+  "geohashUrl": "https://geohash.softeng.co/tdq6uwh"
+}

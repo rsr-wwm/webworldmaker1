@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-khousa",
+  "city": "Khousa",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "khousa",
+  "country": "India",
+  "pincode": "786630",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.1295,
+  "longitude": 69.9561,
+  "landmark": "Khousa Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Khousa, India",
+  "population": 1483852,
+  "mobileUsers": 1129211,
+  "internetUsers": 912568,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹9.21L per annum",
+  "activeMobileDevices": 1587721,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 61.5,
+  "maleCount": 770119,
+  "femaleCount": 713733,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "HAL II Stage",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hal-ii-stage",
+      "distance": 26.38937592744828
+    },
+    {
+      "city": "Bhongir",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhongir",
+      "distance": 64.10365603382661
+    },
+    {
+      "city": "Borholla",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "borholla",
+      "distance": 71.41074863004427
+    },
+    {
+      "city": "Happy valley",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "happy-valley",
+      "distance": 71.81224376243823
+    },
+    {
+      "city": "Purulai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "purulai",
+      "distance": 80.19976084787486
+    }
+  ],
+  "geohash": "td3dxyh",
+  "geohashUrl": "https://geohash.softeng.co/td3dxyh"
+}

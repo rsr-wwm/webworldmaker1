@@ -1,0 +1,82 @@
+{
+  "id": "manipur-nungba",
+  "city": "Nungba",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "nungba",
+  "country": "India",
+  "pincode": "795147",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.4296,
+  "longitude": 74.0555,
+  "landmark": "Nungba GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nungba, India",
+  "population": 5899812,
+  "mobileUsers": 4536955,
+  "internetUsers": 3280295,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.54L per annum",
+  "activeMobileDevices": 6725785,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 55.6,
+  "maleCount": 3073802,
+  "femaleCount": 2826010,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tiruvarur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruvarur",
+      "distance": 36.67407909317375
+    },
+    {
+      "city": "Masanapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "masanapalle",
+      "distance": 38.30554692085515
+    },
+    {
+      "city": "Kapanga",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "kapanga",
+      "distance": 44.46094438398304
+    },
+    {
+      "city": "Khanna",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "khanna",
+      "distance": 47.181502462833144
+    },
+    {
+      "city": "Beawar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "beawar",
+      "distance": 55.678456296960206
+    }
+  ],
+  "geohash": "tehejhv",
+  "geohashUrl": "https://geohash.softeng.co/tehejhv"
+}

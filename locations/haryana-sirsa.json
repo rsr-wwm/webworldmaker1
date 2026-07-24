@@ -1,0 +1,82 @@
+{
+  "id": "haryana-sirsa",
+  "city": "Sirsa",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "sirsa",
+  "country": "India",
+  "pincode": "125055",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.4339,
+  "longitude": 85.9013,
+  "landmark": "Sirsa Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sirsa, India",
+  "population": 7280645,
+  "mobileUsers": 5358554,
+  "internetUsers": 4477596,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹10.59L per annum",
+  "activeMobileDevices": 7717483,
+  "mobilePenetration": 73.6,
+  "internetPenetration": 61.5,
+  "maleCount": 3756813,
+  "femaleCount": 3523832,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gondal",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gondal",
+      "distance": 9.935354163221204
+    },
+    {
+      "city": "Nashik road",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nashik-road",
+      "distance": 51.85794248657906
+    },
+    {
+      "city": "Gopeshwar",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gopeshwar",
+      "distance": 59.522934944119264
+    },
+    {
+      "city": "Guntur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntur",
+      "distance": 59.79082669295887
+    },
+    {
+      "city": "Fatehpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "fatehpur",
+      "distance": 69.7385029505247
+    }
+  ],
+  "geohash": "tgth4xz",
+  "geohashUrl": "https://geohash.softeng.co/tgth4xz"
+}

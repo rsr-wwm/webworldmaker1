@@ -1,0 +1,81 @@
+{
+  "id": "penang-state-penang",
+  "city": "Penang",
+  "state": "Penang State",
+  "stateSlug": "penang-state",
+  "citySlug": "penang",
+  "country": "Malaysia",
+  "pincode": "10000",
+  "currency": "MYR",
+  "symbol": "RM",
+  "compliance": "MCMC Guidelines",
+  "carriers": [
+    "Maxis",
+    "CelcomDigi",
+    "U Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+60",
+  "timezone": "Asia/Kuala_Lumpur",
+  "latitude": 2.459,
+  "longitude": 112.4297,
+  "landmark": "Penang State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Maxis networks. Failovers route over CelcomDigi, U Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Penang, Malaysia",
+  "population": 763002,
+  "mobileUsers": 595141,
+  "internetUsers": 468483,
+  "genderRatioText": "1,004 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "RM24,160 MYR per annum",
+  "activeMobileDevices": 953752,
+  "mobilePenetration": 78,
+  "internetPenetration": 61.4,
+  "maleCount": 380738,
+  "femaleCount": 382264,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Ipoh",
+      "state": "Perak",
+      "stateSlug": "perak",
+      "citySlug": "ipoh",
+      "distance": 9.223972531424474
+    },
+    {
+      "city": "Kuala Lumpur",
+      "state": "Federal Territory",
+      "stateSlug": "federal-territory",
+      "citySlug": "kuala-lumpur",
+      "distance": 13.022368296811822
+    },
+    {
+      "city": "Shah Alam",
+      "state": "Selangor",
+      "stateSlug": "selangor",
+      "citySlug": "shah-alam",
+      "distance": 16.013979714040786
+    },
+    {
+      "city": "Johor Bahru",
+      "state": "Johor State",
+      "stateSlug": "johor-state",
+      "citySlug": "johor-bahru",
+      "distance": 19.298458177403074
+    },
+    {
+      "city": "Malacca",
+      "state": "Malacca State",
+      "stateSlug": "malacca-state",
+      "citySlug": "malacca",
+      "distance": 24.66149940694389
+    }
+  ],
+  "geohash": "w2rvyrs",
+  "geohashUrl": "https://geohash.softeng.co/w2rvyrs"
+}

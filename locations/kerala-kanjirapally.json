@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kanjirapally",
+  "city": "Kanjirapally",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kanjirapally",
+  "country": "India",
+  "pincode": "686507",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.6735,
+  "longitude": 71.4304,
+  "landmark": "Kanjirapally State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kanjirapally, India",
+  "population": 9507825,
+  "mobileUsers": 7149884,
+  "internetUsers": 5143733,
+  "genderRatioText": "909 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.95L per annum",
+  "activeMobileDevices": 9888138,
+  "mobilePenetration": 75.2,
+  "internetPenetration": 54.1,
+  "maleCount": 4982100,
+  "femaleCount": 4525725,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Palghar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "palghar",
+      "distance": 50.65104322896149
+    },
+    {
+      "city": "Bhind",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhind",
+      "distance": 50.697443268939935
+    },
+    {
+      "city": "Shatchand",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shatchand",
+      "distance": 56.54496904499787
+    },
+    {
+      "city": "Phatikchara",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "phatikchara",
+      "distance": 76.2930841097137
+    },
+    {
+      "city": "Cooch Behar",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "cooch-behar",
+      "distance": 87.43667257811333
+    }
+  ],
+  "geohash": "ts4y9mw",
+  "geohashUrl": "https://geohash.softeng.co/ts4y9mw"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "manipur-lamlongbazar",
+  "city": "Lamlongbazar",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "lamlongbazar",
+  "country": "India",
+  "pincode": "795010",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.1266,
+  "longitude": 81.727,
+  "landmark": "Lamlongbazar Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lamlongbazar, India",
+  "population": 3264963,
+  "mobileUsers": 2380158,
+  "internetUsers": 1857763,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹11.42L per annum",
+  "activeMobileDevices": 3624108,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 56.9,
+  "maleCount": 1707576,
+  "femaleCount": 1557387,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Palayamkottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "palayamkottai",
+      "distance": 37.5352713596976
+    },
+    {
+      "city": "Chhatarpur City",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "chhatarpur-city",
+      "distance": 44.94064044401156
+    },
+    {
+      "city": "Chandrapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chandrapur",
+      "distance": 48.91846488758342
+    },
+    {
+      "city": "Mosunram",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mosunram",
+      "distance": 51.52751411681807
+    },
+    {
+      "city": "Pithoragarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pithoragarh",
+      "distance": 54.749827672959746
+    }
+  ],
+  "geohash": "tvdng8r",
+  "geohashUrl": "https://geohash.softeng.co/tvdng8r"
+}

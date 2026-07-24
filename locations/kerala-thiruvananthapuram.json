@@ -1,0 +1,82 @@
+{
+  "id": "kerala-thiruvananthapuram",
+  "city": "Thiruvananthapuram",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "thiruvananthapuram",
+  "country": "India",
+  "pincode": "695001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.5732,
+  "longitude": 75.4982,
+  "landmark": "Thiruvananthapuram GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Thiruvananthapuram, India",
+  "population": 4734856,
+  "mobileUsers": 3456444,
+  "internetUsers": 2807769,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹10.34L per annum",
+  "activeMobileDevices": 5303038,
+  "mobilePenetration": 73,
+  "internetPenetration": 59.3,
+  "maleCount": 2410042,
+  "femaleCount": 2324814,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajpura",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rajpura",
+      "distance": 47.461617156615986
+    },
+    {
+      "city": "Sirkali",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sirkali",
+      "distance": 64.31450391954183
+    },
+    {
+      "city": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "mandsaur",
+      "distance": 67.68220442002524
+    },
+    {
+      "city": "Mandgaon G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "mandgaon-gpo",
+      "distance": 84.25546870736243
+    },
+    {
+      "city": "Nargund",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "nargund",
+      "distance": 91.04686374786007
+    }
+  ],
+  "geohash": "tdjxw0b",
+  "geohashUrl": "https://geohash.softeng.co/tdjxw0b"
+}

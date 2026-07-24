@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-palanpur",
+  "city": "Palanpur",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "palanpur",
+  "country": "India",
+  "pincode": "385001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.1073,
+  "longitude": 69.2755,
+  "landmark": "Palanpur Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Palanpur, India",
+  "population": 9723656,
+  "mobileUsers": 7370531,
+  "internetUsers": 5980048,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹10.69L per annum",
+  "activeMobileDevices": 9918129,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 61.5,
+  "maleCount": 4988236,
+  "femaleCount": 4735420,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Karimganj",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "karimganj",
+      "distance": 47.74380678167643
+    },
+    {
+      "city": "Bahraich",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bahraich",
+      "distance": 79.65932424226222
+    },
+    {
+      "city": "Monkolemba",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "monkolemba",
+      "distance": 84.38491828655432
+    },
+    {
+      "city": "Darjeeling",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "darjeeling",
+      "distance": 89.95177174043215
+    },
+    {
+      "city": "Labaan",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labaan",
+      "distance": 104.32096182227609
+    }
+  ],
+  "geohash": "te3k8qk",
+  "geohashUrl": "https://geohash.softeng.co/te3k8qk"
+}

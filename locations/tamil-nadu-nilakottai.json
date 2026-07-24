@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-nilakottai",
+  "city": "Nilakottai",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "nilakottai",
+  "country": "India",
+  "pincode": "624208",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.1151,
+  "longitude": 72.6287,
+  "landmark": "Nilakottai Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nilakottai, India",
+  "population": 9395122,
+  "mobileUsers": 7281219,
+  "internetUsers": 5721629,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.38L per annum",
+  "activeMobileDevices": 9770926,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 60.9,
+  "maleCount": 4894859,
+  "femaleCount": 4500263,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chittorgarh",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "chittorgarh",
+      "distance": 36.299664337881715
+    },
+    {
+      "city": "Chongtai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "chongtai",
+      "distance": 53.33633328863062
+    },
+    {
+      "city": "Balaghat",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "balaghat",
+      "distance": 57.05415307991067
+    },
+    {
+      "city": "Bhind",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhind",
+      "distance": 86.6483701627037
+    },
+    {
+      "city": "Phatikchara",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "phatikchara",
+      "distance": 90.43780738795627
+    }
+  ],
+  "geohash": "ts5ekxy",
+  "geohashUrl": "https://geohash.softeng.co/ts5ekxy"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tripura-telimura",
+  "city": "Telimura",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "telimura",
+  "country": "India",
+  "pincode": "799205",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.4955,
+  "longitude": 75.4502,
+  "landmark": "Telimura Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Telimura, India",
+  "population": 3256147,
+  "mobileUsers": 2533282,
+  "internetUsers": 1882052,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹7.27L per annum",
+  "activeMobileDevices": 3646884,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 57.8,
+  "maleCount": 1683428,
+  "femaleCount": 1572719,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dharwad",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "dharwad",
+      "distance": 46.88773199446638
+    },
+    {
+      "city": "Kolhapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kolhapur",
+      "distance": 79.09141833199071
+    },
+    {
+      "city": "Mysore",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "mysore",
+      "distance": 90.41649143971907
+    },
+    {
+      "city": "Thanjavur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thanjavur",
+      "distance": 116.06591365633109
+    },
+    {
+      "city": "Parbhani",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "parbhani",
+      "distance": 119.99553742161257
+    }
+  ],
+  "geohash": "tdvtufv",
+  "geohashUrl": "https://geohash.softeng.co/tdvtufv"
+}

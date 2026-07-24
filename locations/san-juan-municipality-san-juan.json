@@ -1,0 +1,81 @@
+{
+  "id": "san-juan-municipality-san-juan",
+  "city": "San Juan",
+  "state": "San Juan Municipality",
+  "stateSlug": "san-juan-municipality",
+  "citySlug": "san-juan",
+  "country": "Puerto Rico",
+  "pincode": "00901",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "FCC / Telecommunications Board",
+  "carriers": [
+    "T-Mobile",
+    "Liberty",
+    "Claro"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1",
+  "timezone": "America/Puerto_Rico",
+  "latitude": 18.3786,
+  "longitude": -66.4824,
+  "landmark": "San Juan Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over T-Mobile networks. Failovers route over Liberty, Claro with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for San Juan, Puerto Rico",
+  "population": 1929457,
+  "mobileUsers": 1564789,
+  "internetUsers": 1198192,
+  "genderRatioText": "970 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "$29,501 USD per annum",
+  "activeMobileDevices": 2546883,
+  "mobilePenetration": 81.1,
+  "internetPenetration": 62.1,
+  "maleCount": 980164,
+  "femaleCount": 949293,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Charlotte Amalie",
+      "state": "Saint Thomas Island",
+      "stateSlug": "saint-thomas-island",
+      "citySlug": "charlotte-amalie",
+      "distance": 159.3879360360984
+    },
+    {
+      "city": "Road Town",
+      "state": "Tortola Island",
+      "stateSlug": "tortola-island",
+      "citySlug": "road-town",
+      "distance": 211.74984901044576
+    },
+    {
+      "city": "Gustavia",
+      "state": "Saint Barthelemy",
+      "stateSlug": "saint-barthelemy",
+      "citySlug": "gustavia",
+      "distance": 387.4784085743465
+    },
+    {
+      "city": "Basseterre",
+      "state": "Saint George Basseterre",
+      "stateSlug": "saint-george-basseterre",
+      "citySlug": "basseterre",
+      "distance": 397.4957814963446
+    },
+    {
+      "city": "Santiago de los Caballeros",
+      "state": "Santiago Province",
+      "stateSlug": "santiago-province",
+      "citySlug": "santiago-de-los-caballeros",
+      "distance": 428.86033363191325
+    }
+  ],
+  "geohash": "de28x1s",
+  "geohashUrl": "https://geohash.softeng.co/de28x1s"
+}

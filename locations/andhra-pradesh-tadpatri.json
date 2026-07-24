@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-tadpatri",
+  "city": "Tadpatri",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "tadpatri",
+  "country": "India",
+  "pincode": "515411",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.4176,
+  "longitude": 74.9107,
+  "landmark": "Tadpatri Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tadpatri, India",
+  "population": 5868109,
+  "mobileUsers": 4536048,
+  "internetUsers": 3608887,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹6.36L per annum",
+  "activeMobileDevices": 6161514,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 61.5,
+  "maleCount": 3004472,
+  "femaleCount": 2863637,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mylapore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mylapore",
+      "distance": 45.66566264574658
+    },
+    {
+      "city": "Bidar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bidar",
+      "distance": 56.9496475204458
+    },
+    {
+      "city": "Raghunathganj",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "raghunathganj",
+      "distance": 68.1685398299426
+    },
+    {
+      "city": "Ambasa",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ambasa",
+      "distance": 68.76530879732631
+    },
+    {
+      "city": "Kunraghat",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "kunraghat",
+      "distance": 72.2485556054912
+    }
+  ],
+  "geohash": "tev3bdu",
+  "geohashUrl": "https://geohash.softeng.co/tev3bdu"
+}

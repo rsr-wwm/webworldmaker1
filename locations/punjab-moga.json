@@ -1,0 +1,82 @@
+{
+  "id": "punjab-moga",
+  "city": "Moga",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "moga",
+  "country": "India",
+  "pincode": "142001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.2836,
+  "longitude": 78.6397,
+  "landmark": "Moga Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Moga, India",
+  "population": 8577855,
+  "mobileUsers": 6381924,
+  "internetUsers": 4889377,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.56L per annum",
+  "activeMobileDevices": 9092526,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 57,
+  "maleCount": 4417595,
+  "femaleCount": 4160260,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chinchbunder",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chinchbunder",
+      "distance": 41.71047362327343
+    },
+    {
+      "city": "Bokshanagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "bokshanagar",
+      "distance": 61.99113108455856
+    },
+    {
+      "city": "Sugumu",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "sugumu",
+      "distance": 84.56045925728895
+    },
+    {
+      "city": "Kala pahad",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "kala-pahad",
+      "distance": 88.03669355123503
+    },
+    {
+      "city": "Namakkal",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "namakkal",
+      "distance": 101.5358831741431
+    }
+  ],
+  "geohash": "terbj2r",
+  "geohashUrl": "https://geohash.softeng.co/terbj2r"
+}

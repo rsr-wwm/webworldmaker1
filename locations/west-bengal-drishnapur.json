@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-drishnapur",
+  "city": "Drishnapur",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "drishnapur",
+  "country": "India",
+  "pincode": "741101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.4954,
+  "longitude": 79.8966,
+  "landmark": "Drishnapur GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Drishnapur, India",
+  "population": 7300587,
+  "mobileUsers": 5271023,
+  "internetUsers": 4088328,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹7.74L per annum",
+  "activeMobileDevices": 8249663,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 56,
+  "maleCount": 3789005,
+  "femaleCount": 3511582,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Basirhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "basirhat",
+      "distance": 47.327889238844534
+    },
+    {
+      "city": "Bettaih",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bettaih",
+      "distance": 49.97674897824925
+    },
+    {
+      "city": "Kadamtala",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kadamtala",
+      "distance": 85.94409726779749
+    },
+    {
+      "city": "Gaya",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gaya",
+      "distance": 99.3955367959968
+    },
+    {
+      "city": "Dehradun Cantt.",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dehradun-cantt",
+      "distance": 101.86498342422887
+    }
+  ],
+  "geohash": "tf8f6nf",
+  "geohashUrl": "https://geohash.softeng.co/tf8f6nf"
+}

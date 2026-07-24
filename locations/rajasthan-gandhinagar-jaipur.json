@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-gandhinagar-jaipur",
+  "city": "Gandhinagar (Jaipur)",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "gandhinagar-jaipur",
+  "country": "India",
+  "pincode": "302020",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.1702,
+  "longitude": 75.4168,
+  "landmark": "Gandhinagar (Jaipur) Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gandhinagar (Jaipur), India",
+  "population": 3632412,
+  "mobileUsers": 2804222,
+  "internetUsers": 2066842,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.18L per annum",
+  "activeMobileDevices": 3959329,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 56.9,
+  "maleCount": 1892487,
+  "femaleCount": 1739925,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajaji Nagar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "rajaji-nagar",
+      "distance": 34.84654384425226
+    },
+    {
+      "city": "Mandvi",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "mandvi",
+      "distance": 65.12124867847258
+    },
+    {
+      "city": "Chittoor",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chittoor",
+      "distance": 71.05242162933988
+    },
+    {
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "ludhiana",
+      "distance": 77.64397551063463
+    },
+    {
+      "city": "Kongkopi",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "kongkopi",
+      "distance": 80.32872831551342
+    }
+  ],
+  "geohash": "t9tshjk",
+  "geohashUrl": "https://geohash.softeng.co/t9tshjk"
+}

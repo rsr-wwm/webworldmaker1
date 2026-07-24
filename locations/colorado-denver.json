@@ -1,0 +1,81 @@
+{
+  "id": "colorado-denver",
+  "city": "Denver",
+  "state": "Colorado",
+  "stateSlug": "colorado",
+  "citySlug": "denver",
+  "country": "United States",
+  "pincode": "80201",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/Denver",
+  "latitude": 28.206,
+  "longitude": -100.1084,
+  "landmark": "Denver Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Denver, United States",
+  "population": 2324524,
+  "mobileUsers": 2240841,
+  "internetUsers": 2080448,
+  "genderRatioText": "988 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "$93,445 per annum",
+  "activeMobileDevices": 2789428,
+  "mobilePenetration": 96.4,
+  "internetPenetration": 89.5,
+  "maleCount": 1169236,
+  "femaleCount": 1155288,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Miami",
+      "state": "Florida",
+      "stateSlug": "florida",
+      "citySlug": "miami",
+      "distance": 270.21376132540234
+    },
+    {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "stateSlug": "massachusetts",
+      "citySlug": "boston",
+      "distance": 349.6568545033675
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "citySlug": "portland",
+      "distance": 444.45665545206634
+    },
+    {
+      "city": "Spokane",
+      "state": "Washington",
+      "stateSlug": "washington",
+      "citySlug": "spokane",
+      "distance": 496.8551025041994
+    },
+    {
+      "city": "Veracruz",
+      "state": "Veracruz State",
+      "stateSlug": "veracruz-state",
+      "citySlug": "veracruz",
+      "distance": 583.305472941684
+    }
+  ],
+  "geohash": "9v0b3yx",
+  "geohashUrl": "https://geohash.softeng.co/9v0b3yx"
+}

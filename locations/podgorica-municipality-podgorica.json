@@ -1,0 +1,81 @@
+{
+  "id": "podgorica-municipality-podgorica",
+  "city": "Podgorica",
+  "state": "Podgorica Municipality",
+  "stateSlug": "podgorica-municipality",
+  "citySlug": "podgorica",
+  "country": "Montenegro",
+  "pincode": "81000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "EKIP Guidelines",
+  "carriers": [
+    "M:tel",
+    "Crnogorski Telekom",
+    "One"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+382",
+  "timezone": "Europe/Podgorica",
+  "latitude": 42.6991,
+  "longitude": 19.1512,
+  "landmark": "Podgorica Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over M:tel networks. Failovers route over Crnogorski Telekom, One with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Podgorica, Montenegro",
+  "population": 1722244,
+  "mobileUsers": 1345072,
+  "internetUsers": 1062624,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "€55,697 per annum",
+  "activeMobileDevices": 2411141,
+  "mobilePenetration": 78.1,
+  "internetPenetration": 61.7,
+  "maleCount": 883511,
+  "femaleCount": 838733,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Banja Luka",
+      "state": "Republika Srpska",
+      "stateSlug": "republika-srpska",
+      "citySlug": "banja-luka",
+      "distance": 161.18713775958116
+    },
+    {
+      "city": "Sarajevo",
+      "state": "Sarajevo Canton",
+      "stateSlug": "sarajevo-canton",
+      "citySlug": "sarajevo",
+      "distance": 189.65120319525872
+    },
+    {
+      "city": "Belgrade",
+      "state": "Belgrade City",
+      "stateSlug": "belgrade-city",
+      "citySlug": "belgrade",
+      "distance": 208.31315279992418
+    },
+    {
+      "city": "Tirana",
+      "state": "Tirana County",
+      "stateSlug": "tirana-county",
+      "citySlug": "tirana",
+      "distance": 211.30816401561887
+    },
+    {
+      "city": "Novi Sad",
+      "state": "Vojvodina",
+      "stateSlug": "vojvodina",
+      "citySlug": "novi-sad",
+      "distance": 221.59473932880888
+    }
+  ],
+  "geohash": "srtdgv1",
+  "geohashUrl": "https://geohash.softeng.co/srtdgv1"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "andaman-and-nicobar-islands-port-blair",
+  "city": "Port Blair",
+  "state": "Andaman & Nicobar Islands",
+  "stateSlug": "andaman-and-nicobar-islands",
+  "citySlug": "port-blair",
+  "country": "India",
+  "pincode": "744101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.1264,
+  "longitude": 79.4284,
+  "landmark": "Port Blair Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Port Blair, India",
+  "population": 8286778,
+  "mobileUsers": 6115642,
+  "internetUsers": 4839478,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.25L per annum",
+  "activeMobileDevices": 9198323,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 58.4,
+  "maleCount": 4226257,
+  "femaleCount": 4060521,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kakching bazar",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "kakching-bazar",
+      "distance": 57.94922893728467
+    },
+    {
+      "city": "Deomali",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "deomali",
+      "distance": 61.14427626368735
+    },
+    {
+      "city": "Yadagiri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "yadagiri",
+      "distance": 81.29567464475343
+    },
+    {
+      "city": "Kalkalang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "kalkalang",
+      "distance": 84.21326374332406
+    },
+    {
+      "city": "Aberdeen",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "aberdeen",
+      "distance": 87.65857293271499
+    }
+  ],
+  "geohash": "tcb3x7m",
+  "geohashUrl": "https://geohash.softeng.co/tcb3x7m"
+}

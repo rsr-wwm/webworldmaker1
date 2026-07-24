@@ -1,0 +1,82 @@
+{
+  "id": "aragon-zaragoza",
+  "city": "Zaragoza",
+  "state": "Aragon",
+  "stateSlug": "aragon",
+  "citySlug": "zaragoza",
+  "country": "Spain",
+  "pincode": "50001",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / CNMC",
+  "carriers": [
+    "Movistar",
+    "Orange",
+    "Vodafone",
+    "Yoigo"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+34",
+  "timezone": "Africa/Ceuta",
+  "latitude": 40.1676,
+  "longitude": -4.054,
+  "landmark": "Zaragoza Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Movistar networks. Failovers route over Orange, Vodafone, Yoigo with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Zaragoza, Spain",
+  "population": 1245405,
+  "mobileUsers": 972661,
+  "internetUsers": 783359,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "€67,980 per annum",
+  "activeMobileDevices": 1519394,
+  "mobilePenetration": 78.1,
+  "internetPenetration": 62.9,
+  "maleCount": 635157,
+  "femaleCount": 610248,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Valencia",
+      "state": "Valencian Community",
+      "stateSlug": "valencian-community",
+      "citySlug": "valencia",
+      "distance": 6.290677271414178
+    },
+    {
+      "city": "Seville",
+      "state": "Andalusia",
+      "stateSlug": "andalusia",
+      "citySlug": "seville",
+      "distance": 13.115530927786699
+    },
+    {
+      "city": "Malaga",
+      "state": "Andalusia",
+      "stateSlug": "andalusia",
+      "citySlug": "malaga",
+      "distance": 13.553446604233827
+    },
+    {
+      "city": "Las Palmas",
+      "state": "Canary Islands",
+      "stateSlug": "canary-islands",
+      "citySlug": "las-palmas",
+      "distance": 33.5170367729202
+    },
+    {
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "stateSlug": "community-of-madrid",
+      "citySlug": "madrid",
+      "distance": 35.1672607661321
+    }
+  ],
+  "geohash": "ezjhe8r",
+  "geohashUrl": "https://geohash.softeng.co/ezjhe8r"
+}

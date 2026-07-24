@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tallakulam",
+  "city": "Tallakulam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tallakulam",
+  "country": "India",
+  "pincode": "625002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.8615,
+  "longitude": 74.4892,
+  "landmark": "Tallakulam Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tallakulam, India",
+  "population": 1989125,
+  "mobileUsers": 1473941,
+  "internetUsers": 1167616,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹11.32L per annum",
+  "activeMobileDevices": 1989125,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 58.7,
+  "maleCount": 1036334,
+  "femaleCount": 952791,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Naya bangla",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "naya-bangla",
+      "distance": 11.998728669033378
+    },
+    {
+      "city": "Lilong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lilong",
+      "distance": 22.6502598283552
+    },
+    {
+      "city": "Gopalganj",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gopalganj",
+      "distance": 64.97444162166929
+    },
+    {
+      "city": "Barpeta",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "barpeta",
+      "distance": 79.84254497424773
+    },
+    {
+      "city": "Labarchandmari",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labarchandmari",
+      "distance": 112.5648267277865
+    }
+  ],
+  "geohash": "t9uvz13",
+  "geohashUrl": "https://geohash.softeng.co/t9uvz13"
+}

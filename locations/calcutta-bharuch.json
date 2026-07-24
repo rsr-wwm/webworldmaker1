@@ -1,0 +1,82 @@
+{
+  "id": "calcutta-bharuch",
+  "city": "Bharuch",
+  "state": "Calcutta",
+  "stateSlug": "calcutta",
+  "citySlug": "bharuch",
+  "country": "India",
+  "pincode": "392001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.4184,
+  "longitude": 76.7865,
+  "landmark": "Bharuch State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bharuch, India",
+  "population": 6747412,
+  "mobileUsers": 5047064,
+  "internetUsers": 3711076,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹7.62L per annum",
+  "activeMobileDevices": 7287204,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 55,
+  "maleCount": 3441180,
+  "femaleCount": 3306232,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ramgarh Cantt.",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "ramgarh-cantt",
+      "distance": 11.17298472100551
+    },
+    {
+      "city": "Hukeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hukeri",
+      "distance": 19.56101555302024
+    },
+    {
+      "city": "Dabki",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "dabki",
+      "distance": 44.597394184404294
+    },
+    {
+      "city": "Itanagar G.P.O",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "itanagar-gpo",
+      "distance": 47.895133363039044
+    },
+    {
+      "city": "Saitul",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saitul",
+      "distance": 59.08521221014035
+    }
+  ],
+  "geohash": "tene56f",
+  "geohashUrl": "https://geohash.softeng.co/tene56f"
+}

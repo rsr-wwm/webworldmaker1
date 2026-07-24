@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-hamirpur",
+  "city": "Hamirpur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "hamirpur",
+  "country": "India",
+  "pincode": "210301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.3166,
+  "longitude": 69.3078,
+  "landmark": "Hamirpur Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hamirpur, India",
+  "population": 9262344,
+  "mobileUsers": 6900446,
+  "internetUsers": 5390684,
+  "genderRatioText": "938 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹11.74L per annum",
+  "activeMobileDevices": 9910708,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 58.2,
+  "maleCount": 4779370,
+  "femaleCount": 4482974,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Arambagh",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "arambagh",
+      "distance": 17.85525256672045
+    },
+    {
+      "city": "Nadiad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "nadiad",
+      "distance": 23.291812867238104
+    },
+    {
+      "city": "Karnal",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "karnal",
+      "distance": 24.425092098926473
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad",
+      "distance": 51.87565383426053
+    },
+    {
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi",
+      "distance": 57.2559847040284
+    }
+  ],
+  "geohash": "tt3k3nu",
+  "geohashUrl": "https://geohash.softeng.co/tt3k3nu"
+}

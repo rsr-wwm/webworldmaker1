@@ -1,0 +1,81 @@
+{
+  "id": "bogota-capital-district-bogota",
+  "city": "Bogota",
+  "state": "Bogota Capital District",
+  "stateSlug": "bogota-capital-district",
+  "citySlug": "bogota",
+  "country": "Colombia",
+  "pincode": "110111",
+  "currency": "COP",
+  "symbol": "$",
+  "compliance": "CRC Guidelines",
+  "carriers": [
+    "Claro",
+    "Movistar",
+    "Tigo"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+57",
+  "timezone": "America/Bogota",
+  "latitude": 3.9024,
+  "longitude": -72.0969,
+  "landmark": "Bogota Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Claro networks. Failovers route over Movistar, Tigo with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bogota, Colombia",
+  "population": 3914508,
+  "mobileUsers": 3080717,
+  "internetUsers": 2481798,
+  "genderRatioText": "1,005 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "$33,514 COP per annum",
+  "activeMobileDevices": 5010570,
+  "mobilePenetration": 78.7,
+  "internetPenetration": 63.4,
+  "maleCount": 1953339,
+  "femaleCount": 1961169,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bucaramanga",
+      "state": "Santander Department",
+      "stateSlug": "santander-department",
+      "citySlug": "bucaramanga",
+      "distance": 4.875563459102683
+    },
+    {
+      "city": "Barranquilla",
+      "state": "Atlantico Department",
+      "stateSlug": "atlantico-department",
+      "citySlug": "barranquilla",
+      "distance": 15.585173161408864
+    },
+    {
+      "city": "Cali",
+      "state": "Valle del Cauca Department",
+      "stateSlug": "valle-del-cauca-department",
+      "citySlug": "cali",
+      "distance": 25.070855074808993
+    },
+    {
+      "city": "Cartagena",
+      "state": "Bolivar Department",
+      "stateSlug": "bolivar-department",
+      "citySlug": "cartagena",
+      "distance": 27.711352877389174
+    },
+    {
+      "city": "Medellin",
+      "state": "Antioquia Department",
+      "stateSlug": "antioquia-department",
+      "citySlug": "medellin",
+      "distance": 35.39496550348653
+    }
+  ],
+  "geohash": "d2swpqk",
+  "geohashUrl": "https://geohash.softeng.co/d2swpqk"
+}

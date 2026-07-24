@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-dewas",
+  "city": "Dewas",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "dewas",
+  "country": "India",
+  "pincode": "455001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.3059,
+  "longitude": 89.0089,
+  "landmark": "Dewas Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dewas, India",
+  "population": 2531086,
+  "mobileUsers": 1971715,
+  "internetUsers": 1518651,
+  "genderRatioText": "909 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹11.77L per annum",
+  "activeMobileDevices": 2682951,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 60,
+  "maleCount": 1326289,
+  "femaleCount": 1204797,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Panaji G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "panaji-gpo",
+      "distance": 55.10023474295896
+    },
+    {
+      "city": "Bhattason",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bhattason",
+      "distance": 71.41803060543464
+    },
+    {
+      "city": "Bathala",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "bathala",
+      "distance": 81.91536951926304
+    },
+    {
+      "city": "Patna G.P.O",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "patna-gpo",
+      "distance": 90.23841905981627
+    },
+    {
+      "city": "Along",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "along",
+      "distance": 92.03276926479255
+    }
+  ],
+  "geohash": "tuxm9ky",
+  "geohashUrl": "https://geohash.softeng.co/tuxm9ky"
+}

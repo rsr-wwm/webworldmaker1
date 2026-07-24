@@ -1,0 +1,82 @@
+{
+  "id": "tripura-mohripur",
+  "city": "Mohripur",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "mohripur",
+  "country": "India",
+  "pincode": "799142",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.3814,
+  "longitude": 82.3496,
+  "landmark": "Mohripur Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mohripur, India",
+  "population": 8328372,
+  "mobileUsers": 6371204,
+  "internetUsers": 4922067,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.16L per annum",
+  "activeMobileDevices": 8328372,
+  "mobilePenetration": 76.5,
+  "internetPenetration": 59.1,
+  "maleCount": 4255798,
+  "femaleCount": 4072574,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ghatkoper East",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ghatkoper-east",
+      "distance": 45.95446230198232
+    },
+    {
+      "city": "Light core peak",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "light-core-peak",
+      "distance": 54.397777506148906
+    },
+    {
+      "city": "Tenali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tenali",
+      "distance": 54.991001399756
+    },
+    {
+      "city": "Kangra",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "kangra",
+      "distance": 68.44681998353437
+    },
+    {
+      "city": "Balrampur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "balrampur",
+      "distance": 75.37413896525281
+    }
+  ],
+  "geohash": "tu4t1bm",
+  "geohashUrl": "https://geohash.softeng.co/tu4t1bm"
+}

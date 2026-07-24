@@ -1,0 +1,79 @@
+{
+  "id": "pohnpei-state-palikir",
+  "city": "Palikir",
+  "state": "Pohnpei State",
+  "stateSlug": "pohnpei-state",
+  "citySlug": "palikir",
+  "country": "Micronesia",
+  "pincode": "96941",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "TRA Rules",
+  "carriers": [
+    "FSMTC"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+691",
+  "timezone": "Pacific/Chuuk",
+  "latitude": 6.9385,
+  "longitude": 158.3214,
+  "landmark": "Palikir Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over FSMTC networks. Failovers route over local regional carriers with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Palikir, Micronesia",
+  "population": 2042105,
+  "mobileUsers": 1647978,
+  "internetUsers": 1276315,
+  "genderRatioText": "1,001 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "$37,149 USD per annum",
+  "activeMobileDevices": 2552631,
+  "mobilePenetration": 80.7,
+  "internetPenetration": 62.5,
+  "maleCount": 1021053,
+  "femaleCount": 1021053,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Majuro",
+      "state": "Majuro Atoll",
+      "stateSlug": "majuro-atoll",
+      "citySlug": "majuro",
+      "distance": 1092.9240167374453
+    },
+    {
+      "city": "Yaren",
+      "state": "Yaren District",
+      "stateSlug": "yaren-district",
+      "citySlug": "yaren",
+      "distance": 1249.8419386057687
+    },
+    {
+      "city": "Hagatna",
+      "state": "Guam Territory",
+      "stateSlug": "guam-territory",
+      "citySlug": "hagatna",
+      "distance": 1653.6483309473329
+    },
+    {
+      "city": "Honiara",
+      "state": "Guadalcanal Province",
+      "stateSlug": "guadalcanal-province",
+      "citySlug": "honiara",
+      "distance": 1658.5609080189283
+    },
+    {
+      "city": "Tarawa",
+      "state": "Gilbert Islands",
+      "stateSlug": "gilbert-islands",
+      "citySlug": "tarawa",
+      "distance": 1741.1550721384115
+    }
+  ],
+  "geohash": "x90x6xn",
+  "geohashUrl": "https://geohash.softeng.co/x90x6xn"
+}

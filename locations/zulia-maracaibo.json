@@ -1,0 +1,81 @@
+{
+  "id": "zulia-maracaibo",
+  "city": "Maracaibo",
+  "state": "Zulia",
+  "stateSlug": "zulia",
+  "citySlug": "maracaibo",
+  "country": "Venezuela",
+  "pincode": "4001",
+  "currency": "VES",
+  "symbol": "Bs.S",
+  "compliance": "CONATEL Rules",
+  "carriers": [
+    "Movilnet",
+    "Movistar",
+    "Digitel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+58",
+  "timezone": "America/Caracas",
+  "latitude": 8.0448,
+  "longitude": -65.9387,
+  "landmark": "Maracaibo Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Movilnet networks. Failovers route over Movistar, Digitel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Maracaibo, Venezuela",
+  "population": 4002390,
+  "mobileUsers": 3217921,
+  "internetUsers": 2737634,
+  "genderRatioText": "981 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "Bs.S22,209 VES per annum",
+  "activeMobileDevices": 5443250,
+  "mobilePenetration": 80.4,
+  "internetPenetration": 68.4,
+  "maleCount": 2021207,
+  "femaleCount": 1981183,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Maracay",
+      "state": "Aragua State",
+      "stateSlug": "aragua-state",
+      "citySlug": "maracay",
+      "distance": 15.99485903670726
+    },
+    {
+      "city": "Caracas",
+      "state": "Capital District",
+      "stateSlug": "capital-district",
+      "citySlug": "caracas",
+      "distance": 18.991458643007974
+    },
+    {
+      "city": "Valencia",
+      "state": "Carabobo State",
+      "stateSlug": "carabobo-state",
+      "citySlug": "valencia",
+      "distance": 19.987524976508112
+    },
+    {
+      "city": "Willemstad",
+      "state": "Curacao Island",
+      "stateSlug": "curacao-island",
+      "citySlug": "willemstad",
+      "distance": 543.367365354859
+    },
+    {
+      "city": "Saint George's",
+      "state": "Saint George Parish",
+      "stateSlug": "saint-george-parish",
+      "citySlug": "saint-georges",
+      "distance": 639.104450150104
+    }
+  ],
+  "geohash": "d93jg88",
+  "geohashUrl": "https://geohash.softeng.co/d93jg88"
+}

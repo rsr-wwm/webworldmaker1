@@ -1,0 +1,82 @@
+{
+  "id": "nizhny-novgorod-oblast-nizhny-novgorod",
+  "city": "Nizhny Novgorod",
+  "state": "Nizhny Novgorod Oblast",
+  "stateSlug": "nizhny-novgorod-oblast",
+  "citySlug": "nizhny-novgorod",
+  "country": "Russia",
+  "pincode": "603000",
+  "currency": "RUB",
+  "symbol": "₽",
+  "compliance": "Roskomnadzor Rules",
+  "carriers": [
+    "MTS",
+    "MegaFon",
+    "Beeline",
+    "Tele2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+7",
+  "timezone": "Asia/Anadyr",
+  "latitude": 59.8952,
+  "longitude": 99.9076,
+  "landmark": "Nizhny Novgorod State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over MTS networks. Failovers route over MegaFon, Beeline, Tele2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Nizhny Novgorod, Russia",
+  "population": 1177417,
+  "mobileUsers": 1021997,
+  "internetUsers": 906611,
+  "genderRatioText": "983 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "₽32,113 RUB per annum",
+  "activeMobileDevices": 1189191,
+  "mobilePenetration": 86.8,
+  "internetPenetration": 77,
+  "maleCount": 593418,
+  "femaleCount": 583999,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Krasnoyarsk",
+      "state": "Krasnoyarsk Krai",
+      "stateSlug": "krasnoyarsk-krai",
+      "citySlug": "krasnoyarsk",
+      "distance": 2.1398364014851086
+    },
+    {
+      "city": "Ufa",
+      "state": "Republic of Bashkortostan",
+      "stateSlug": "republic-of-bashkortostan",
+      "citySlug": "ufa",
+      "distance": 7.9883695240205865
+    },
+    {
+      "city": "Moscow",
+      "state": "Central Federal District",
+      "stateSlug": "central-federal-district",
+      "citySlug": "moscow",
+      "distance": 12.472555859039034
+    },
+    {
+      "city": "Kazan",
+      "state": "Republic of Tatarstan",
+      "stateSlug": "republic-of-tatarstan",
+      "citySlug": "kazan",
+      "distance": 13.369580554884797
+    },
+    {
+      "city": "Vladivostok",
+      "state": "Primorsky Krai",
+      "stateSlug": "primorsky-krai",
+      "citySlug": "vladivostok",
+      "distance": 16.021428816939526
+    }
+  ],
+  "geohash": "y4xh9rw",
+  "geohashUrl": "https://geohash.softeng.co/y4xh9rw"
+}

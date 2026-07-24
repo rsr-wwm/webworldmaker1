@@ -1,0 +1,81 @@
+{
+  "id": "hyogo-prefecture-kobe",
+  "city": "Kobe",
+  "state": "Hyogo Prefecture",
+  "stateSlug": "hyogo-prefecture",
+  "citySlug": "kobe",
+  "country": "Japan",
+  "pincode": "650-0017",
+  "currency": "JPY",
+  "symbol": "¥",
+  "compliance": "MIC Telecommunications Act",
+  "carriers": [
+    "NTT Docomo",
+    "KDDI",
+    "SoftBank"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+81 3",
+  "timezone": "Asia/Tokyo",
+  "latitude": 34.6932379,
+  "longitude": 135.1943764,
+  "landmark": "Kobe Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kobe, Japan",
+  "population": 1008673,
+  "mobileUsers": 944117,
+  "internetUsers": 887632,
+  "genderRatioText": "979 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "¥44,999 JPY per annum",
+  "activeMobileDevices": 1250754,
+  "mobilePenetration": 93.6,
+  "internetPenetration": 88,
+  "maleCount": 509380,
+  "femaleCount": 499293,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Osaka",
+      "state": "Osaka Prefecture",
+      "stateSlug": "osaka-prefecture",
+      "citySlug": "osaka",
+      "distance": 28.074740874441392
+    },
+    {
+      "city": "Kyoto",
+      "state": "Kyoto Prefecture",
+      "stateSlug": "kyoto-prefecture",
+      "citySlug": "kyoto",
+      "distance": 63.199004882072956
+    },
+    {
+      "city": "Okayama",
+      "state": "Okayama Prefecture",
+      "stateSlug": "okayama-prefecture",
+      "citySlug": "okayama",
+      "distance": 116.66196484663627
+    },
+    {
+      "city": "Nagoya",
+      "state": "Aichi Prefecture",
+      "stateSlug": "aichi-prefecture",
+      "citySlug": "nagoya",
+      "distance": 164.7963259149254
+    },
+    {
+      "city": "Hamamatsu",
+      "state": "Shizuoka Prefecture",
+      "stateSlug": "shizuoka-prefecture",
+      "citySlug": "hamamatsu",
+      "distance": 231.42779467098615
+    }
+  ],
+  "geohash": "xn0jk7t",
+  "geohashUrl": "https://geohash.softeng.co/xn0jk7t"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "bihar-bhattason",
+  "city": "Bhattason",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "bhattason",
+  "country": "India",
+  "pincode": "841460",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.5413,
+  "longitude": 88.3416,
+  "landmark": "Bhattason Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhattason, India",
+  "population": 731532,
+  "mobileUsers": 538407,
+  "internetUsers": 433066,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.15L per annum",
+  "activeMobileDevices": 877838,
+  "mobilePenetration": 73.6,
+  "internetPenetration": 59.2,
+  "maleCount": 373081,
+  "femaleCount": 358451,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Along",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "along",
+      "distance": 34.18738829650307
+    },
+    {
+      "city": "Avadi Camp",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "avadi-camp",
+      "distance": 55.06266509871966
+    },
+    {
+      "city": "Patna G.P.O",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "patna-gpo",
+      "distance": 55.78837566507542
+    },
+    {
+      "city": "Panaji G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "panaji-gpo",
+      "distance": 69.08198257866525
+    },
+    {
+      "city": "Dewas",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "dewas",
+      "distance": 71.41803060543464
+    }
+  ],
+  "geohash": "tuwyfr8",
+  "geohashUrl": "https://geohash.softeng.co/tuwyfr8"
+}

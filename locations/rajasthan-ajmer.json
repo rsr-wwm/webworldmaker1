@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-ajmer",
+  "city": "Ajmer",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "ajmer",
+  "country": "India",
+  "pincode": "305001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.8537,
+  "longitude": 70.9472,
+  "landmark": "Ajmer Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ajmer, India",
+  "population": 9474771,
+  "mobileUsers": 7342947,
+  "internetUsers": 5656438,
+  "genderRatioText": "926 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹11.85L per annum",
+  "activeMobileDevices": 9569518,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 59.7,
+  "maleCount": 4917406,
+  "femaleCount": 4557365,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kolkata",
+      "distance": 107.00273441378529
+    },
+    {
+      "city": "Labaan",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labaan",
+      "distance": 114.01548826583975
+    },
+    {
+      "city": "Tilakwadi East",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tilakwadi-east",
+      "distance": 120.11712344386815
+    },
+    {
+      "city": "Bahraich",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bahraich",
+      "distance": 121.5447967638633
+    },
+    {
+      "city": "Belgaum",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "belgaum",
+      "distance": 127.42490034488561
+    }
+  ],
+  "geohash": "ted2yqq",
+  "geohashUrl": "https://geohash.softeng.co/ted2yqq"
+}

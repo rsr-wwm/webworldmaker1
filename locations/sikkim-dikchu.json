@@ -1,0 +1,82 @@
+{
+  "id": "sikkim-dikchu",
+  "city": "Dikchu",
+  "state": "Sikkim",
+  "stateSlug": "sikkim",
+  "citySlug": "dikchu",
+  "country": "India",
+  "pincode": "737107",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.7858,
+  "longitude": 70.892,
+  "landmark": "Dikchu State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dikchu, India",
+  "population": 5008049,
+  "mobileUsers": 3851189,
+  "internetUsers": 2774459,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.00L per annum",
+  "activeMobileDevices": 5859417,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 55.4,
+  "maleCount": 2624218,
+  "femaleCount": 2383831,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dehra Gopipur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "dehra-gopipur",
+      "distance": 21.59069348331093
+    },
+    {
+      "city": "Kalol",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "kalol",
+      "distance": 28.701205425050087
+    },
+    {
+      "city": "Vaivakown",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "vaivakown",
+      "distance": 33.914162573990225
+    },
+    {
+      "city": "Panvel",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "panvel",
+      "distance": 62.18421340249835
+    },
+    {
+      "city": "Alathur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "alathur",
+      "distance": 85.76373518679767
+    }
+  ],
+  "geohash": "tsf2mhj",
+  "geohashUrl": "https://geohash.softeng.co/tsf2mhj"
+}

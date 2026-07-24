@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-mahesana",
+  "city": "Mahesana",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "mahesana",
+  "country": "India",
+  "pincode": "384001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.4671,
+  "longitude": 74.9647,
+  "landmark": "Mahesana Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mahesana, India",
+  "population": 1513748,
+  "mobileUsers": 1092926,
+  "internetUsers": 826506,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹7.60L per annum",
+  "activeMobileDevices": 1665122,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 54.6,
+  "maleCount": 775039,
+  "femaleCount": 738709,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ambasa",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ambasa",
+      "distance": 49.85576445508514
+    },
+    {
+      "city": "Bhopal BHEL (SB)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal-bhel-sb",
+      "distance": 55.19666155753467
+    },
+    {
+      "city": "Nangalbibra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangalbibra",
+      "distance": 76.87308404101995
+    },
+    {
+      "city": "Ashikkal",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "ashikkal",
+      "distance": 89.76584500429283
+    },
+    {
+      "city": "Betul",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "betul",
+      "distance": 92.73904462613301
+    }
+  ],
+  "geohash": "tevrcf5",
+  "geohashUrl": "https://geohash.softeng.co/tevrcf5"
+}

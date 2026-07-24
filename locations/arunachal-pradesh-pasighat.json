@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-pasighat",
+  "city": "Pasighat",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "pasighat",
+  "country": "India",
+  "pincode": "791102",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.1891,
+  "longitude": 74.8645,
+  "landmark": "Pasighat Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pasighat, India",
+  "population": 4190222,
+  "mobileUsers": 3197139,
+  "internetUsers": 2547654,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.04L per annum",
+  "activeMobileDevices": 4902559,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 60.8,
+  "maleCount": 2157964,
+  "femaleCount": 2032258,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thalassery",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thalassery",
+      "distance": 47.81120476995852
+    },
+    {
+      "city": "Rajapalayam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "rajapalayam",
+      "distance": 64.64021871947244
+    },
+    {
+      "city": "Mepusa",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "mepusa",
+      "distance": 97.31242336884551
+    },
+    {
+      "city": "Diglipur",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "diglipur",
+      "distance": 100.23283894023325
+    },
+    {
+      "city": "Ranipet",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ranipet",
+      "distance": 107.0267776503706
+    }
+  ],
+  "geohash": "ttj0red",
+  "geohashUrl": "https://geohash.softeng.co/ttj0red"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "basque-country-bilbao",
+  "city": "Bilbao",
+  "state": "Basque Country",
+  "stateSlug": "basque-country",
+  "citySlug": "bilbao",
+  "country": "Spain",
+  "pincode": "48001",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / CNMC",
+  "carriers": [
+    "Movistar",
+    "Orange",
+    "Vodafone",
+    "Yoigo"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+34",
+  "timezone": "Africa/Ceuta",
+  "latitude": 39.8457,
+  "longitude": -4.1023,
+  "landmark": "Bilbao Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Movistar networks. Failovers route over Orange, Vodafone, Yoigo with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bilbao, Spain",
+  "population": 3899102,
+  "mobileUsers": 3025703,
+  "internetUsers": 2561710,
+  "genderRatioText": "988 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "€50,772 per annum",
+  "activeMobileDevices": 5458742,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 65.7,
+  "maleCount": 1961248,
+  "femaleCount": 1937854,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "stateSlug": "community-of-madrid",
+      "citySlug": "madrid",
+      "distance": 4.606313190178585
+    },
+    {
+      "city": "Seville",
+      "state": "Andalusia",
+      "stateSlug": "andalusia",
+      "citySlug": "seville",
+      "distance": 22.92376715923588
+    },
+    {
+      "city": "Las Palmas",
+      "state": "Canary Islands",
+      "stateSlug": "canary-islands",
+      "citySlug": "las-palmas",
+      "distance": 23.479316564532294
+    },
+    {
+      "city": "Barcelona",
+      "state": "Catalonia",
+      "stateSlug": "catalonia",
+      "citySlug": "barcelona",
+      "distance": 23.88988988034458
+    },
+    {
+      "city": "Malaga",
+      "state": "Andalusia",
+      "stateSlug": "andalusia",
+      "citySlug": "malaga",
+      "distance": 25.196379277748033
+    }
+  ],
+  "geohash": "ezj4dts",
+  "geohashUrl": "https://geohash.softeng.co/ezj4dts"
+}

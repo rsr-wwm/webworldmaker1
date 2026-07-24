@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-kunraghat",
+  "city": "Kunraghat",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "kunraghat",
+  "country": "India",
+  "pincode": "273008",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.5856,
+  "longitude": 75.5853,
+  "landmark": "Kunraghat Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kunraghat, India",
+  "population": 5571984,
+  "mobileUsers": 4279283,
+  "internetUsers": 3109167,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹11.00L per annum",
+  "activeMobileDevices": 6463501,
+  "mobilePenetration": 76.8,
+  "internetPenetration": 55.8,
+  "maleCount": 2908576,
+  "femaleCount": 2663408,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mylapore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mylapore",
+      "distance": 33.1243375330693
+    },
+    {
+      "city": "Bidar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bidar",
+      "distance": 37.511156859490754
+    },
+    {
+      "city": "Nangalbibra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangalbibra",
+      "distance": 57.73262253099306
+    },
+    {
+      "city": "Tadpatri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tadpatri",
+      "distance": 72.2485556054912
+    },
+    {
+      "city": "Nayudupeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nayudupeta",
+      "distance": 89.2448852083608
+    }
+  ],
+  "geohash": "tevdzcx",
+  "geohashUrl": "https://geohash.softeng.co/tevdzcx"
+}

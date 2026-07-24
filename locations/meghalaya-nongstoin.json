@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-nongstoin",
+  "city": "Nongstoin",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "nongstoin",
+  "country": "India",
+  "pincode": "793119",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.2229,
+  "longitude": 81.0619,
+  "landmark": "Nongstoin Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nongstoin, India",
+  "population": 928800,
+  "mobileUsers": 691027,
+  "internetUsers": 547992,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.46L per annum",
+  "activeMobileDevices": 938088,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 59,
+  "maleCount": 485762,
+  "femaleCount": 443038,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Navsari",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "navsari",
+      "distance": 24.16773379316069
+    },
+    {
+      "city": "Kanjeri",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanjeri",
+      "distance": 35.9627273443459
+    },
+    {
+      "city": "Raisen",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raisen",
+      "distance": 59.44651043685383
+    },
+    {
+      "city": "Gangtok G.P.O",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "gangtok-gpo",
+      "distance": 61.79394043969997
+    },
+    {
+      "city": "Chamba",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "chamba",
+      "distance": 78.27428067622284
+    }
+  ],
+  "geohash": "tv18s9g",
+  "geohashUrl": "https://geohash.softeng.co/tv18s9g"
+}

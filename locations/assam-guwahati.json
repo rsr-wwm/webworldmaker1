@@ -1,0 +1,82 @@
+{
+  "id": "assam-guwahati",
+  "city": "Guwahati",
+  "state": "Assam",
+  "stateSlug": "assam",
+  "citySlug": "guwahati",
+  "country": "India",
+  "pincode": "781001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.1083,
+  "longitude": 71.2403,
+  "landmark": "Guwahati GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Guwahati, India",
+  "population": 6344997,
+  "mobileUsers": 4841232,
+  "internetUsers": 3768928,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹10.74L per annum",
+  "activeMobileDevices": 6916046,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 59.4,
+  "maleCount": 3242293,
+  "femaleCount": 3102704,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lalitpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lalitpur",
+      "distance": 53.00412311376782
+    },
+    {
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "gurgaon",
+      "distance": 53.348924322698245
+    },
+    {
+      "city": "Ponani",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ponani",
+      "distance": 56.99223646896172
+    },
+    {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "coimbatore",
+      "distance": 65.31725700378401
+    },
+    {
+      "city": "Bailhongal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bailhongal",
+      "distance": 67.59081272946719
+    }
+  ],
+  "geohash": "tdfeth7",
+  "geohashUrl": "https://geohash.softeng.co/tdfeth7"
+}

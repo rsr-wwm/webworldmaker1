@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-meerut",
+  "city": "Meerut",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "meerut",
+  "country": "India",
+  "pincode": "250001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.5344,
+  "longitude": 81.9464,
+  "landmark": "Meerut Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Meerut, India",
+  "population": 3110276,
+  "mobileUsers": 2273611,
+  "internetUsers": 1726203,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹7.50L per annum",
+  "activeMobileDevices": 3141378,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 55.5,
+  "maleCount": 1586241,
+  "femaleCount": 1524035,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vairangte",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "vairangte",
+      "distance": 78.61200237288041
+    },
+    {
+      "city": "Hospet",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hospet",
+      "distance": 81.50664717409336
+    },
+    {
+      "city": "Hoshiarpur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "hoshiarpur",
+      "distance": 98.25373781751969
+    },
+    {
+      "city": "Khurja",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "khurja",
+      "distance": 120.28413616515071
+    },
+    {
+      "city": "Gangtok",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "gangtok",
+      "distance": 122.64882039386787
+    }
+  ],
+  "geohash": "tg6r0sp",
+  "geohashUrl": "https://geohash.softeng.co/tg6r0sp"
+}

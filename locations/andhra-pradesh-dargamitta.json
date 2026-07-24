@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-dargamitta",
+  "city": "Dargamitta",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "dargamitta",
+  "country": "India",
+  "pincode": "524003",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.3271,
+  "longitude": 84.1412,
+  "landmark": "Dargamitta Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dargamitta, India",
+  "population": 4129988,
+  "mobileUsers": 3184220,
+  "internetUsers": 2453212,
+  "genderRatioText": "925 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹8.68L per annum",
+  "activeMobileDevices": 4460387,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 59.4,
+  "maleCount": 2143464,
+  "femaleCount": 1986524,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mon",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mon",
+      "distance": 13.302433281668053
+    },
+    {
+      "city": "Datia",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "datia",
+      "distance": 81.62340806367216
+    },
+    {
+      "city": "Adur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "adur",
+      "distance": 105.06238597787097
+    },
+    {
+      "city": "Pulivendla",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "pulivendla",
+      "distance": 108.03298934644249
+    },
+    {
+      "city": "Nellore",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nellore",
+      "distance": 109.70382261713125
+    }
+  ],
+  "geohash": "tg5fddm",
+  "geohashUrl": "https://geohash.softeng.co/tg5fddm"
+}

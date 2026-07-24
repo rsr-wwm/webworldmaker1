@@ -1,0 +1,81 @@
+{
+  "id": "riga-municipality-riga",
+  "city": "Riga",
+  "state": "Riga Municipality",
+  "stateSlug": "riga-municipality",
+  "citySlug": "riga",
+  "country": "Latvia",
+  "pincode": "LV-1050",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / SPRK",
+  "carriers": [
+    "LMT",
+    "Tele2",
+    "Bite"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+371",
+  "timezone": "Europe/Riga",
+  "latitude": 57.034,
+  "longitude": 24.8582,
+  "landmark": "Riga GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over LMT networks. Failovers route over Tele2, Bite with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Riga, Latvia",
+  "population": 4826259,
+  "mobileUsers": 3778960,
+  "internetUsers": 3127415,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "€53,508 per annum",
+  "activeMobileDevices": 6274136,
+  "mobilePenetration": 78.3,
+  "internetPenetration": 64.8,
+  "maleCount": 2461392,
+  "femaleCount": 2364867,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Liepaja",
+      "state": "Courland",
+      "stateSlug": "courland",
+      "citySlug": "liepaja",
+      "distance": 14.206149752594285
+    },
+    {
+      "city": "Vilnius",
+      "state": "Vilnius District",
+      "stateSlug": "vilnius-district",
+      "citySlug": "vilnius",
+      "distance": 120.80308000648698
+    },
+    {
+      "city": "Klaipeda",
+      "state": "Klaipeda County",
+      "stateSlug": "klaipeda-county",
+      "citySlug": "klaipeda",
+      "distance": 128.82164714275348
+    },
+    {
+      "city": "Kaunas",
+      "state": "Kaunas County",
+      "stateSlug": "kaunas-county",
+      "citySlug": "kaunas",
+      "distance": 134.08465609852504
+    },
+    {
+      "city": "Siauliai",
+      "state": "Siauliai County",
+      "stateSlug": "siauliai-county",
+      "citySlug": "siauliai",
+      "distance": 136.7650459986107
+    }
+  ],
+  "geohash": "ud1smwt",
+  "geohashUrl": "https://geohash.softeng.co/ud1smwt"
+}

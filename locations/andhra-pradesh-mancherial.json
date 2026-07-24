@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-mancherial",
+  "city": "Mancherial",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "mancherial",
+  "country": "India",
+  "pincode": "504208",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.2496,
+  "longitude": 76.994,
+  "landmark": "Mancherial Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mancherial, India",
+  "population": 7672911,
+  "mobileUsers": 5823739,
+  "internetUsers": 4388905,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.14L per annum",
+  "activeMobileDevices": 8210014,
+  "mobilePenetration": 75.9,
+  "internetPenetration": 57.2,
+  "maleCount": 3920858,
+  "femaleCount": 3752053,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Manipur vishwavidyalay",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "manipur-vishwavidyalay",
+      "distance": 88.18040315423004
+    },
+    {
+      "city": "Kullu",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "kullu",
+      "distance": 88.93814863739875
+    },
+    {
+      "city": "Phatikarai",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "phatikarai",
+      "distance": 92.28299901114713
+    },
+    {
+      "city": "Madras GPO",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "madras-gpo",
+      "distance": 116.1956829175052
+    },
+    {
+      "city": "Mandgaon G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "mandgaon-gpo",
+      "distance": 116.83794355926828
+    }
+  ],
+  "geohash": "tdnv8jc",
+  "geohashUrl": "https://geohash.softeng.co/tdnv8jc"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "saint-james-parish-montego-bay",
+  "city": "Montego Bay",
+  "state": "Saint James Parish",
+  "stateSlug": "saint-james-parish",
+  "citySlug": "montego-bay",
+  "country": "Jamaica",
+  "pincode": "0000",
+  "currency": "JMD",
+  "symbol": "J$",
+  "compliance": "OUR Regulations",
+  "carriers": [
+    "Flow",
+    "Digicel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1",
+  "timezone": "America/Jamaica",
+  "latitude": 18.4117,
+  "longitude": -77.6704,
+  "landmark": "Montego Bay Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Montego Bay, Jamaica",
+  "population": 2750942,
+  "mobileUsers": 2214508,
+  "internetUsers": 1832127,
+  "genderRatioText": "996 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "J$28,386 JMD per annum",
+  "activeMobileDevices": 3301130,
+  "mobilePenetration": 80.5,
+  "internetPenetration": 66.6,
+  "maleCount": 1378222,
+  "femaleCount": 1372720,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Kingston",
+      "state": "Surrey County",
+      "stateSlug": "surrey-county",
+      "citySlug": "kingston",
+      "distance": 12.778051028439547
+    },
+    {
+      "city": "George Town",
+      "state": "Grand Cayman",
+      "stateSlug": "grand-cayman",
+      "citySlug": "george-town",
+      "distance": 308.7746281757127
+    },
+    {
+      "city": "Havana",
+      "state": "La Habana Province",
+      "stateSlug": "la-habana-province",
+      "citySlug": "havana",
+      "distance": 406.88945193683384
+    },
+    {
+      "city": "Nassau",
+      "state": "New Providence",
+      "stateSlug": "new-providence",
+      "citySlug": "nassau",
+      "distance": 669.7147095717188
+    },
+    {
+      "city": "Santo Domingo",
+      "state": "National District",
+      "stateSlug": "national-district",
+      "citySlug": "santo-domingo",
+      "distance": 749.0737072304634
+    }
+  ],
+  "geohash": "d72b8xd",
+  "geohashUrl": "https://geohash.softeng.co/d72b8xd"
+}

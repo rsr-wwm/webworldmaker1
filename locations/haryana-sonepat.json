@@ -1,0 +1,82 @@
+{
+  "id": "haryana-sonepat",
+  "city": "Sonepat",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "sonepat",
+  "country": "India",
+  "pincode": "131001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.3082,
+  "longitude": 76.4017,
+  "landmark": "Sonepat GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sonepat, India",
+  "population": 8364145,
+  "mobileUsers": 6206195,
+  "internetUsers": 4901388,
+  "genderRatioText": "907 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹11.86L per annum",
+  "activeMobileDevices": 8447786,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 58.6,
+  "maleCount": 4382812,
+  "femaleCount": 3981333,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dhule",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "dhule",
+      "distance": 30.70853762983076
+    },
+    {
+      "city": "Chareelum",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "chareelum",
+      "distance": 81.56755406568986
+    },
+    {
+      "city": "Peren",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "peren",
+      "distance": 100.31679072609028
+    },
+    {
+      "city": "Tirukkoyilur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirukkoyilur",
+      "distance": 102.74679187015437
+    },
+    {
+      "city": "Borivali",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "borivali",
+      "distance": 102.95643698493735
+    }
+  ],
+  "geohash": "tswmdt6",
+  "geohashUrl": "https://geohash.softeng.co/tswmdt6"
+}

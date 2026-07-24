@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-shahdol",
+  "city": "Shahdol",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "shahdol",
+  "country": "India",
+  "pincode": "484001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.3535,
+  "longitude": 73.8986,
+  "landmark": "Shahdol Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shahdol, India",
+  "population": 3069275,
+  "mobileUsers": 2329579,
+  "internetUsers": 1823149,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹10.65L per annum",
+  "activeMobileDevices": 3560358,
+  "mobilePenetration": 75.9,
+  "internetPenetration": 59.4,
+  "maleCount": 1599092,
+  "femaleCount": 1470183,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kamptee",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kamptee",
+      "distance": 25.865914725277772
+    },
+    {
+      "city": "Chirala",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chirala",
+      "distance": 60.27168848252055
+    },
+    {
+      "city": "Zunhebato",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "zunhebato",
+      "distance": 61.687793846496426
+    },
+    {
+      "city": "Barmihat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "barmihat",
+      "distance": 63.177959969850654
+    },
+    {
+      "city": "Tumkur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tumkur",
+      "distance": 80.0531675509154
+    }
+  ],
+  "geohash": "tsstcte",
+  "geohashUrl": "https://geohash.softeng.co/tsstcte"
+}

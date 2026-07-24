@@ -1,0 +1,82 @@
+{
+  "id": "uppsala-county-uppsala",
+  "city": "Uppsala",
+  "state": "Uppsala County",
+  "stateSlug": "uppsala-county",
+  "citySlug": "uppsala",
+  "country": "Sweden",
+  "pincode": "753 09",
+  "currency": "SEK",
+  "symbol": "kr",
+  "compliance": "GDPR / PTS",
+  "carriers": [
+    "Telia",
+    "Tele2",
+    "Telenor",
+    "3"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+46",
+  "timezone": "Europe/Stockholm",
+  "latitude": 61.9834,
+  "longitude": 15.1239,
+  "landmark": "Uppsala Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Tele2, Telenor, 3 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Uppsala, Sweden",
+  "population": 1753430,
+  "mobileUsers": 1374689,
+  "internetUsers": 1101154,
+  "genderRatioText": "1,001 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "kr31,449 SEK per annum",
+  "activeMobileDevices": 2139184,
+  "mobilePenetration": 78.4,
+  "internetPenetration": 62.8,
+  "maleCount": 876715,
+  "femaleCount": 876715,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Malmo",
+      "state": "Skåne County",
+      "stateSlug": "skane-county",
+      "citySlug": "malmo",
+      "distance": 7.797538519635485
+    },
+    {
+      "city": "Linköping",
+      "state": "Östergötland",
+      "stateSlug": "ostergotland",
+      "citySlug": "linkoping",
+      "distance": 18.404144476117498
+    },
+    {
+      "city": "Gothenburg",
+      "state": "Västra Götaland County",
+      "stateSlug": "vastra-gotaland-county",
+      "citySlug": "gothenburg",
+      "distance": 20.08392187698972
+    },
+    {
+      "city": "Stockholm",
+      "state": "Stockholm County",
+      "stateSlug": "stockholm-county",
+      "citySlug": "stockholm",
+      "distance": 22.255496558074157
+    },
+    {
+      "city": "Stavanger",
+      "state": "Rogaland",
+      "stateSlug": "rogaland",
+      "citySlug": "stavanger",
+      "distance": 259.4580896732573
+    }
+  ],
+  "geohash": "u74b85s",
+  "geohashUrl": "https://geohash.softeng.co/u74b85s"
+}

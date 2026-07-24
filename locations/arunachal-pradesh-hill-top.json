@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-hill-top",
+  "city": "Hill top",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "hill-top",
+  "country": "India",
+  "pincode": "791103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.4779,
+  "longitude": 71.0813,
+  "landmark": "Hill top Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hill top, India",
+  "population": 6391677,
+  "mobileUsers": 4908807,
+  "internetUsers": 3470680,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹9.87L per annum",
+  "activeMobileDevices": 7030844,
+  "mobilePenetration": 76.8,
+  "internetPenetration": 54.3,
+  "maleCount": 3272539,
+  "femaleCount": 3119138,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shatchand",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shatchand",
+      "distance": 43.54844952018862
+    },
+    {
+      "city": "Una",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "una",
+      "distance": 53.42280183328289
+    },
+    {
+      "city": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "hamirpur",
+      "distance": 69.43213958008687
+    },
+    {
+      "city": "Hanumangarh Junction",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "hanumangarh-junction",
+      "distance": 95.78178227699544
+    },
+    {
+      "city": "Kanjirapally",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanjirapally",
+      "distance": 96.21066652172742
+    }
+  ],
+  "geohash": "ts6e32p",
+  "geohashUrl": "https://geohash.softeng.co/ts6e32p"
+}

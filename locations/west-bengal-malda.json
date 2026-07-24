@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-malda",
+  "city": "Malda",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "malda",
+  "country": "India",
+  "pincode": "732101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.7178,
+  "longitude": 84.5162,
+  "landmark": "Malda District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Malda, India",
+  "population": 4127082,
+  "mobileUsers": 3194361,
+  "internetUsers": 2331801,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹10.57L per annum",
+  "activeMobileDevices": 4581061,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 56.5,
+  "maleCount": 2158464,
+  "femaleCount": 1968618,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhanjanagar",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhanjanagar",
+      "distance": 25.0333325525752
+    },
+    {
+      "city": "Trimulgherry",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "trimulgherry",
+      "distance": 28.673540055791314
+    },
+    {
+      "city": "Mailuri",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mailuri",
+      "distance": 40.79451533617213
+    },
+    {
+      "city": "Motihari",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "motihari",
+      "distance": 45.895600006651414
+    },
+    {
+      "city": "Atur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "atur",
+      "distance": 55.45222651025953
+    }
+  ],
+  "geohash": "tvkng0n",
+  "geohashUrl": "https://geohash.softeng.co/tvkng0n"
+}

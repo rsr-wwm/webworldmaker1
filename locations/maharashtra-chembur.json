@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-chembur",
+  "city": "Chembur",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "chembur",
+  "country": "India",
+  "pincode": "400071",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.8414,
+  "longitude": 79.7682,
+  "landmark": "Chembur Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chembur, India",
+  "population": 2450583,
+  "mobileUsers": 1813431,
+  "internetUsers": 1418887,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹6.26L per annum",
+  "activeMobileDevices": 2744652,
+  "mobilePenetration": 74,
+  "internetPenetration": 57.9,
+  "maleCount": 1284105,
+  "femaleCount": 1166478,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Athni",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "athni",
+      "distance": 16.266314426210297
+    },
+    {
+      "city": "Williamnagar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "williamnagar",
+      "distance": 65.48330682091634
+    },
+    {
+      "city": "Vidisha",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "vidisha",
+      "distance": 72.46680993042646
+    },
+    {
+      "city": "Deoria",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "deoria",
+      "distance": 75.85149307130774
+    },
+    {
+      "city": "Chakpirang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "chakpirang",
+      "distance": 77.36969602413318
+    }
+  ],
+  "geohash": "tu8ep0m",
+  "geohashUrl": "https://geohash.softeng.co/tu8ep0m"
+}

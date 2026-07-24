@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-addanki",
+  "city": "Addanki",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "addanki",
+  "country": "India",
+  "pincode": "523201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.8243,
+  "longitude": 88.5385,
+  "landmark": "Addanki Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Addanki, India",
+  "population": 9536025,
+  "mobileUsers": 7142482,
+  "internetUsers": 5311565,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹7.88L per annum",
+  "activeMobileDevices": 10489627,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 55.7,
+  "maleCount": 4958733,
+  "femaleCount": 4577292,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhusaval",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "bhusaval",
+      "distance": 40.37779962416728
+    },
+    {
+      "city": "Saijussa",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "saijussa",
+      "distance": 40.4775849246259
+    },
+    {
+      "city": "Giridih",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "giridih",
+      "distance": 58.81937816645591
+    },
+    {
+      "city": "Mulund",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mulund",
+      "distance": 67.0386679119275
+    },
+    {
+      "city": "Contai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "contai",
+      "distance": 90.24586135659818
+    }
+  ],
+  "geohash": "tuncyep",
+  "geohashUrl": "https://geohash.softeng.co/tuncyep"
+}

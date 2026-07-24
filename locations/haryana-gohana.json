@@ -1,0 +1,82 @@
+{
+  "id": "haryana-gohana",
+  "city": "Gohana",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "gohana",
+  "country": "India",
+  "pincode": "124301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.3733,
+  "longitude": 70.9859,
+  "landmark": "Gohana Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gohana, India",
+  "population": 732799,
+  "mobileUsers": 568652,
+  "internetUsers": 425023,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹6.80L per annum",
+  "activeMobileDevices": 806078,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 58,
+  "maleCount": 378857,
+  "femaleCount": 353942,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Allahabad City",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "allahabad-city",
+      "distance": 39.38936642673175
+    },
+    {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kolkata",
+      "distance": 68.58487466804098
+    },
+    {
+      "city": "Belgaum",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "belgaum",
+      "distance": 92.64613755322772
+    },
+    {
+      "city": "Dausa",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "dausa",
+      "distance": 124.16828255513741
+    },
+    {
+      "city": "Chodavaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chodavaram",
+      "distance": 125.69273959457674
+    }
+  ],
+  "geohash": "tef3x6f",
+  "geohashUrl": "https://geohash.softeng.co/tef3x6f"
+}

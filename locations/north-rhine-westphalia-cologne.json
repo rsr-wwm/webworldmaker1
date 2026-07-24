@@ -1,0 +1,81 @@
+{
+  "id": "north-rhine-westphalia-cologne",
+  "city": "Cologne",
+  "state": "North Rhine-Westphalia",
+  "stateSlug": "north-rhine-westphalia",
+  "citySlug": "cologne",
+  "country": "Germany",
+  "pincode": "50667",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / BNetzA",
+  "carriers": [
+    "Telekom",
+    "Vodafone",
+    "O2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+49 30",
+  "timezone": "Europe/Berlin",
+  "latitude": 50.1182,
+  "longitude": 8.0513,
+  "landmark": "Cologne Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Cologne, Germany",
+  "population": 3716234,
+  "mobileUsers": 3463530,
+  "internetUsers": 3352043,
+  "genderRatioText": "965 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "€59,568 per annum",
+  "activeMobileDevices": 4905428,
+  "mobilePenetration": 93.2,
+  "internetPenetration": 90.2,
+  "maleCount": 1891563,
+  "femaleCount": 1824671,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Bremen",
+      "state": "Bremen State",
+      "stateSlug": "bremen-state",
+      "citySlug": "bremen",
+      "distance": 119.12166504997559
+    },
+    {
+      "city": "Dusseldorf",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "dusseldorf",
+      "distance": 122.99857622974932
+    },
+    {
+      "city": "Munich",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "munich",
+      "distance": 135.12446756181424
+    },
+    {
+      "city": "Luxembourg City",
+      "state": "Luxembourg Canton",
+      "stateSlug": "luxembourg-canton",
+      "citySlug": "luxembourg-city",
+      "distance": 156.81336417350505
+    },
+    {
+      "city": "Berlin",
+      "state": "Berlin",
+      "stateSlug": "berlin",
+      "citySlug": "berlin",
+      "distance": 164.75161356660968
+    }
+  ],
+  "geohash": "u0vtp5w",
+  "geohashUrl": "https://geohash.softeng.co/u0vtp5w"
+}

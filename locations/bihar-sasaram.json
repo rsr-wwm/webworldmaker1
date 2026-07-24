@@ -1,0 +1,82 @@
+{
+  "id": "bihar-sasaram",
+  "city": "Sasaram",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "sasaram",
+  "country": "India",
+  "pincode": "821115",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.0919,
+  "longitude": 86.0588,
+  "landmark": "Sasaram Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sasaram, India",
+  "population": 3233315,
+  "mobileUsers": 2353853,
+  "internetUsers": 1901189,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.92L per annum",
+  "activeMobileDevices": 3427313,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 58.8,
+  "maleCount": 1665157,
+  "femaleCount": 1568158,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "vadodara",
+      "distance": 33.82389262293112
+    },
+    {
+      "city": "Bapatla",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bapatla",
+      "distance": 56.03172493997722
+    },
+    {
+      "city": "Roing",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "roing",
+      "distance": 57.99451076208651
+    },
+    {
+      "city": "Zamania",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "zamania",
+      "distance": 100.68291312387134
+    },
+    {
+      "city": "Sanbhar Lake",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sanbhar-lake",
+      "distance": 119.21664869788876
+    }
+  ],
+  "geohash": "tct5wr4",
+  "geohashUrl": "https://geohash.softeng.co/tct5wr4"
+}

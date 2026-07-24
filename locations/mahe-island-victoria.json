@@ -1,0 +1,80 @@
+{
+  "id": "mahe-island-victoria",
+  "city": "Victoria",
+  "state": "Mahe Island",
+  "stateSlug": "mahe-island",
+  "citySlug": "victoria",
+  "country": "Seychelles",
+  "pincode": "0000",
+  "currency": "SCR",
+  "symbol": "SR",
+  "compliance": "DICT Guidelines",
+  "carriers": [
+    "Airtel",
+    "Cable & Wireless"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+248",
+  "timezone": "Indian/Mahe",
+  "latitude": -4.7937,
+  "longitude": 55.3684,
+  "landmark": "Victoria State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Airtel networks. Failovers route over Cable & Wireless with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Victoria, Seychelles",
+  "population": 2579405,
+  "mobileUsers": 2086738,
+  "internetUsers": 1735939,
+  "genderRatioText": "1,005 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "SR41,876 SCR per annum",
+  "activeMobileDevices": 3301638,
+  "mobilePenetration": 80.9,
+  "internetPenetration": 67.3,
+  "maleCount": 1287123,
+  "femaleCount": 1292282,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bordeaux",
+      "state": "Nouvelle-Aquitaine",
+      "stateSlug": "nouvelle-aquitaine",
+      "citySlug": "bordeaux",
+      "distance": 729.869077259712
+    },
+    {
+      "city": "Moroni",
+      "state": "Grande Comore",
+      "stateSlug": "grande-comore",
+      "citySlug": "moroni",
+      "distance": 1463.802105635359
+    },
+    {
+      "city": "Port Louis",
+      "state": "Port Louis District",
+      "stateSlug": "port-louis-district",
+      "citySlug": "port-louis",
+      "distance": 1752.4373495728391
+    },
+    {
+      "city": "Hargeisa",
+      "state": "Woqooyi Galbeed",
+      "stateSlug": "woqooyi-galbeed",
+      "citySlug": "hargeisa",
+      "distance": 1796.0773673838785
+    },
+    {
+      "city": "Mogadishu",
+      "state": "Banaadir",
+      "stateSlug": "banaadir",
+      "citySlug": "mogadishu",
+      "distance": 1808.4082777816282
+    }
+  ],
+  "geohash": "mppkezq",
+  "geohashUrl": "https://geohash.softeng.co/mppkezq"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-mau-nath-bhanjan",
+  "city": "Mau Nath Bhanjan",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "mau-nath-bhanjan",
+  "country": "India",
+  "pincode": "275101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.0595,
+  "longitude": 79.4888,
+  "landmark": "Mau Nath Bhanjan Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mau Nath Bhanjan, India",
+  "population": 7763696,
+  "mobileUsers": 5978045,
+  "internetUsers": 4200159,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹10.05L per annum",
+  "activeMobileDevices": 7996606,
+  "mobilePenetration": 77,
+  "internetPenetration": 54.1,
+  "maleCount": 4060413,
+  "femaleCount": 3703283,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Yonghong",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "yonghong",
+      "distance": 61.97175529366816
+    },
+    {
+      "city": "Palai",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palai",
+      "distance": 70.0600951952042
+    },
+    {
+      "city": "Muvattupuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "muvattupuzha",
+      "distance": 93.14288371653993
+    },
+    {
+      "city": "Vijaywada",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "vijaywada",
+      "distance": 109.05986192280562
+    },
+    {
+      "city": "Thodupuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thodupuzha",
+      "distance": 110.60133405347435
+    }
+  ],
+  "geohash": "tg8xbcc",
+  "geohashUrl": "https://geohash.softeng.co/tg8xbcc"
+}

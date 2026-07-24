@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-vikarabad",
+  "city": "Vikarabad",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "vikarabad",
+  "country": "India",
+  "pincode": "501101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.9305,
+  "longitude": 69.0147,
+  "landmark": "Vikarabad State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vikarabad, India",
+  "population": 6944518,
+  "mobileUsers": 5340334,
+  "internetUsers": 4229211,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.99L per annum",
+  "activeMobileDevices": 7638969,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 60.9,
+  "maleCount": 3541704,
+  "femaleCount": 3402814,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chijami",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chijami",
+      "distance": 70.91044784104733
+    },
+    {
+      "city": "Dharmavaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "dharmavaram",
+      "distance": 104.73412669781179
+    },
+    {
+      "city": "Tisk",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "tisk",
+      "distance": 118.42794900481353
+    },
+    {
+      "city": "Nagpur City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur-city",
+      "distance": 118.53975624626239
+    },
+    {
+      "city": "Alipur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "alipur",
+      "distance": 124.06629735859676
+    }
+  ],
+  "geohash": "ts304kq",
+  "geohashUrl": "https://geohash.softeng.co/ts304kq"
+}

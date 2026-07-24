@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-rajampet",
+  "city": "Rajampet",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "rajampet",
+  "country": "India",
+  "pincode": "516115",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.4976,
+  "longitude": 76.8349,
+  "landmark": "Rajampet Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rajampet, India",
+  "population": 9453722,
+  "mobileUsers": 7156467,
+  "internetUsers": 5426436,
+  "genderRatioText": "914 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹10.50L per annum",
+  "activeMobileDevices": 9926408,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 57.4,
+  "maleCount": 4934843,
+  "femaleCount": 4518879,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Durg",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "durg",
+      "distance": 18.58046810377853
+    },
+    {
+      "city": "Aruppukottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "aruppukottai",
+      "distance": 30.090656534157322
+    },
+    {
+      "city": "Berhampur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "berhampur",
+      "distance": 46.94945573204564
+    },
+    {
+      "city": "Hukeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hukeri",
+      "distance": 85.71425810281995
+    },
+    {
+      "city": "Saitul",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saitul",
+      "distance": 90.43685542592594
+    }
+  ],
+  "geohash": "tdytu7m",
+  "geohashUrl": "https://geohash.softeng.co/tdytu7m"
+}

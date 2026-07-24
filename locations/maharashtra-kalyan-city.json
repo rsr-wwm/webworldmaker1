@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-kalyan-city",
+  "city": "Kalyan City",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "kalyan-city",
+  "country": "India",
+  "pincode": "421301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.836,
+  "longitude": 71.3147,
+  "landmark": "Kalyan City Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kalyan City, India",
+  "population": 4345223,
+  "mobileUsers": 3345821,
+  "internetUsers": 2381182,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.31L per annum",
+  "activeMobileDevices": 5127363,
+  "mobilePenetration": 77,
+  "internetPenetration": 54.8,
+  "maleCount": 2216064,
+  "femaleCount": 2129159,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nirjuli",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "nirjuli",
+      "distance": 43.76907803020925
+    },
+    {
+      "city": "Shimoga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shimoga",
+      "distance": 44.50585192503301
+    },
+    {
+      "city": "Chikhli",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "chikhli",
+      "distance": 85.25460161324473
+    },
+    {
+      "city": "Shamli",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "shamli",
+      "distance": 89.94034684173698
+    },
+    {
+      "city": "Borholla",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "borholla",
+      "distance": 102.27159891171544
+    }
+  ],
+  "geohash": "td69nb9",
+  "geohashUrl": "https://geohash.softeng.co/td69nb9"
+}

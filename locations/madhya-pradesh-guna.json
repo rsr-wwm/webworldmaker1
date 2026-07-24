@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-guna",
+  "city": "Guna",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "guna",
+  "country": "India",
+  "pincode": "473001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.5368,
+  "longitude": 74.7218,
+  "landmark": "Guna Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Guna, India",
+  "population": 3127129,
+  "mobileUsers": 2351601,
+  "internetUsers": 1713666,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.02L per annum",
+  "activeMobileDevices": 3596198,
+  "mobilePenetration": 75.2,
+  "internetPenetration": 54.8,
+  "maleCount": 1610471,
+  "femaleCount": 1516658,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ratangarh",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "ratangarh",
+      "distance": 36.75303455761226
+    },
+    {
+      "city": "Kongkopi",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "kongkopi",
+      "distance": 69.63470007806264
+    },
+    {
+      "city": "Gandhinagar (Jaipur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "gandhinagar-jaipur",
+      "distance": 103.88090796509252
+    },
+    {
+      "city": "Rajaji Nagar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "rajaji-nagar",
+      "distance": 110.45899128526995
+    },
+    {
+      "city": "Kanigiri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kanigiri",
+      "distance": 122.54115699274081
+    }
+  ],
+  "geohash": "t9t0s64",
+  "geohashUrl": "https://geohash.softeng.co/t9t0s64"
+}

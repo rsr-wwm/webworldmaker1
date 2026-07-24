@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-labarchandmari",
+  "city": "Labarchandmari",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "labarchandmari",
+  "country": "India",
+  "pincode": "794002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.847,
+  "longitude": 74.2531,
+  "landmark": "Labarchandmari State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Labarchandmari, India",
+  "population": 1935604,
+  "mobileUsers": 1445896,
+  "internetUsers": 1132328,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹8.19L per annum",
+  "activeMobileDevices": 2225944,
+  "mobilePenetration": 74.7,
+  "internetPenetration": 58.5,
+  "maleCount": 994900,
+  "femaleCount": 940704,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thuraiyur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thuraiyur",
+      "distance": 41.381891977468634
+    },
+    {
+      "city": "Gopalganj",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gopalganj",
+      "distance": 84.04894054195209
+    },
+    {
+      "city": "Narasipatnam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "narasipatnam",
+      "distance": 89.67094524461861
+    },
+    {
+      "city": "Kasaragod",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kasaragod",
+      "distance": 111.7366308589031
+    },
+    {
+      "city": "Tallakulam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tallakulam",
+      "distance": 112.5648267277865
+    }
+  ],
+  "geohash": "tdhg3st",
+  "geohashUrl": "https://geohash.softeng.co/tdhg3st"
+}

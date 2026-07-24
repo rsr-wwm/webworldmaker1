@@ -1,0 +1,82 @@
+{
+  "id": "kerala-chenganacherry",
+  "city": "Chenganacherry",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "chenganacherry",
+  "country": "India",
+  "pincode": "686101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.9055,
+  "longitude": 79.6391,
+  "landmark": "Chenganacherry GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chenganacherry, India",
+  "population": 3859381,
+  "mobileUsers": 2921551,
+  "internetUsers": 2223003,
+  "genderRatioText": "909 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹9.24L per annum",
+  "activeMobileDevices": 4206725,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 57.6,
+  "maleCount": 2022316,
+  "femaleCount": 1837065,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vizianagaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "vizianagaram",
+      "distance": 52.34672196626811
+    },
+    {
+      "city": "Revdi Bazaar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "revdi-bazaar",
+      "distance": 60.087483624193055
+    },
+    {
+      "city": "Kathua",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "kathua",
+      "distance": 73.75518994361215
+    },
+    {
+      "city": "Akbarpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "akbarpur",
+      "distance": 86.73301110225552
+    },
+    {
+      "city": "Guntakal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntakal",
+      "distance": 93.32659546344182
+    }
+  ],
+  "geohash": "tv2dhhp",
+  "geohashUrl": "https://geohash.softeng.co/tv2dhhp"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-machilipatnam",
+  "city": "Machilipatnam",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "machilipatnam",
+  "country": "India",
+  "pincode": "521001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.1884,
+  "longitude": 77.5981,
+  "landmark": "Machilipatnam Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Machilipatnam, India",
+  "population": 3801491,
+  "mobileUsers": 2790294,
+  "internetUsers": 2349321,
+  "genderRatioText": "929 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹7.95L per annum",
+  "activeMobileDevices": 4485759,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 61.8,
+  "maleCount": 1969172,
+  "femaleCount": 1832319,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pudukottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "pudukottai",
+      "distance": 18.1026601958803
+    },
+    {
+      "city": "Mandapeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mandapeta",
+      "distance": 40.89126890029212
+    },
+    {
+      "city": "Salkia",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "salkia",
+      "distance": 68.53711126424827
+    },
+    {
+      "city": "Abhaynagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "abhaynagar",
+      "distance": 82.0318750011386
+    },
+    {
+      "city": "Rabindranath Tagore Nagar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "rabindranath-tagore-nagar",
+      "distance": 84.72888315474809
+    }
+  ],
+  "geohash": "tsr1tg3",
+  "geohashUrl": "https://geohash.softeng.co/tsr1tg3"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tripura-kuli-bazar",
+  "city": "Kuli bazar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "kuli-bazar",
+  "country": "India",
+  "pincode": "799204",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.5906,
+  "longitude": 80.7567,
+  "landmark": "Kuli Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kuli bazar, India",
+  "population": 43436,
+  "mobileUsers": 31621,
+  "internetUsers": 23455,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.75L per annum",
+  "activeMobileDevices": 51254,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 54,
+  "maleCount": 22587,
+  "femaleCount": 20849,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Paicharthal",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "paicharthal",
+      "distance": 52.60447949270684
+    },
+    {
+      "city": "Kadamtala",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kadamtala",
+      "distance": 67.0360705804941
+    },
+    {
+      "city": "Sagar (Shinoga)",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sagar-shinoga",
+      "distance": 69.35735205876576
+    },
+    {
+      "city": "Rongjing",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "rongjing",
+      "distance": 110.99919255630613
+    },
+    {
+      "city": "Upper Shillong",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "upper-shillong",
+      "distance": 121.84699879630233
+    }
+  ],
+  "geohash": "tfc2twj",
+  "geohashUrl": "https://geohash.softeng.co/tfc2twj"
+}

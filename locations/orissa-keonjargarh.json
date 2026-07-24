@@ -1,0 +1,82 @@
+{
+  "id": "orissa-keonjargarh",
+  "city": "Keonjargarh",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "keonjargarh",
+  "country": "India",
+  "pincode": "758001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.8914,
+  "longitude": 89.094,
+  "landmark": "Keonjargarh Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Keonjargarh, India",
+  "population": 3922688,
+  "mobileUsers": 2843948,
+  "internetUsers": 2408530,
+  "genderRatioText": "965 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹11.76L per annum",
+  "activeMobileDevices": 4550318,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 61.4,
+  "maleCount": 1996648,
+  "femaleCount": 1926040,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Namsai",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "namsai",
+      "distance": 46.91336475977043
+    },
+    {
+      "city": "Nawabganj",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "nawabganj",
+      "distance": 56.17004911965405
+    },
+    {
+      "city": "Meerut City",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "meerut-city",
+      "distance": 86.84918849413862
+    },
+    {
+      "city": "Longlai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "longlai",
+      "distance": 97.79210069918965
+    },
+    {
+      "city": "Chaichima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chaichima",
+      "distance": 135.58301835567073
+    }
+  ],
+  "geohash": "tgxqg7h",
+  "geohashUrl": "https://geohash.softeng.co/tgxqg7h"
+}

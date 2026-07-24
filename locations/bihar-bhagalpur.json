@@ -1,0 +1,82 @@
+{
+  "id": "bihar-bhagalpur",
+  "city": "Bhagalpur",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "bhagalpur",
+  "country": "India",
+  "pincode": "812001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.4888,
+  "longitude": 82.4263,
+  "landmark": "Bhagalpur Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhagalpur, India",
+  "population": 4802135,
+  "mobileUsers": 3524767,
+  "internetUsers": 2838061,
+  "genderRatioText": "929 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹9.32L per annum",
+  "activeMobileDevices": 5042241,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 59.1,
+  "maleCount": 2487506,
+  "femaleCount": 2314629,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vairangte",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "vairangte",
+      "distance": 50.756156123284335
+    },
+    {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "chennai",
+      "distance": 88.90584537774079
+    },
+    {
+      "city": "Raichur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "raichur",
+      "distance": 96.33512619875565
+    },
+    {
+      "city": "Chinsurah",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "chinsurah",
+      "distance": 111.15491616542985
+    },
+    {
+      "city": "Koppal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "koppal",
+      "distance": 112.1742463344124
+    }
+  ],
+  "geohash": "tg695tu",
+  "geohashUrl": "https://geohash.softeng.co/tg695tu"
+}

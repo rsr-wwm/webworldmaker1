@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-rayak",
+  "city": "Rayak",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "rayak",
+  "country": "India",
+  "pincode": "796501",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.9787,
+  "longitude": 68.7158,
+  "landmark": "Rayak Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rayak, India",
+  "population": 6241375,
+  "mobileUsers": 4618617,
+  "internetUsers": 3838445,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹11.25L per annum",
+  "activeMobileDevices": 7302408,
+  "mobilePenetration": 74,
+  "internetPenetration": 61.5,
+  "maleCount": 3270481,
+  "femaleCount": 2970895,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal",
+      "distance": 53.681178290626455
+    },
+    {
+      "city": "Shiroda",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "shiroda",
+      "distance": 91.97038204016141
+    },
+    {
+      "city": "Tisk",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "tisk",
+      "distance": 117.62978724268446
+    },
+    {
+      "city": "Nongpoh",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nongpoh",
+      "distance": 125.1692561646465
+    },
+    {
+      "city": "Kathihar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "kathihar",
+      "distance": 128.76188937901395
+    }
+  ],
+  "geohash": "ts8gg9m",
+  "geohashUrl": "https://geohash.softeng.co/ts8gg9m"
+}

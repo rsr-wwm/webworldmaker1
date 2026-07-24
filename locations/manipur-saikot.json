@@ -1,0 +1,82 @@
+{
+  "id": "manipur-saikot",
+  "city": "Saikot",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "saikot",
+  "country": "India",
+  "pincode": "795117",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.1607,
+  "longitude": 85.0798,
+  "landmark": "Saikot Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Saikot, India",
+  "population": 9257664,
+  "mobileUsers": 7035824,
+  "internetUsers": 5517567,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹10.06L per annum",
+  "activeMobileDevices": 10461160,
+  "mobilePenetration": 76,
+  "internetPenetration": 59.6,
+  "maleCount": 4823243,
+  "femaleCount": 4434421,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nuzuid",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nuzuid",
+      "distance": 50.63652972965924
+    },
+    {
+      "city": "Namchi",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "namchi",
+      "distance": 65.47160536366705
+    },
+    {
+      "city": "Samalkot",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "samalkot",
+      "distance": 73.42377342873147
+    },
+    {
+      "city": "Chirawa",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "chirawa",
+      "distance": 78.77714695607384
+    },
+    {
+      "city": "Valsad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "valsad",
+      "distance": 94.3747987875144
+    }
+  ],
+  "geohash": "tfht0jc",
+  "geohashUrl": "https://geohash.softeng.co/tfht0jc"
+}

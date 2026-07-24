@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-chilakaluripeta",
+  "city": "Chilakaluripeta",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "chilakaluripeta",
+  "country": "India",
+  "pincode": "522616",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.4331,
+  "longitude": 69.0925,
+  "landmark": "Chilakaluripeta Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chilakaluripeta, India",
+  "population": 9819048,
+  "mobileUsers": 7177724,
+  "internetUsers": 5803057,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹7.25L per annum",
+  "activeMobileDevices": 11782857,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 59.1,
+  "maleCount": 5096086,
+  "femaleCount": 4722962,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Murgaon",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "murgaon",
+      "distance": 57.222292630707884
+    },
+    {
+      "city": "Chickmagalur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chickmagalur",
+      "distance": 100.0038657702488
+    },
+    {
+      "city": "Kannur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kannur",
+      "distance": 121.55365946103818
+    },
+    {
+      "city": "Kapurthala",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "kapurthala",
+      "distance": 152.02435040559172
+    },
+    {
+      "city": "Turiyur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "turiyur",
+      "distance": 152.47443987371292
+    }
+  ],
+  "geohash": "t99jsjp",
+  "geohashUrl": "https://geohash.softeng.co/t99jsjp"
+}

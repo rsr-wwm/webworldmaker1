@@ -1,0 +1,81 @@
+{
+  "id": "ontario-windsor",
+  "city": "Windsor",
+  "state": "Ontario",
+  "stateSlug": "ontario",
+  "citySlug": "windsor",
+  "country": "Canada",
+  "pincode": "N9A",
+  "currency": "CAD",
+  "symbol": "C$",
+  "compliance": "CRTC / CASL Guidelines",
+  "carriers": [
+    "Rogers",
+    "Bell",
+    "Telus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 416",
+  "timezone": "America/Toronto",
+  "latitude": 42.2858536,
+  "longitude": -82.9780695,
+  "landmark": "Windsor Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Windsor, Canada",
+  "population": 754719,
+  "mobileUsers": 696605,
+  "internetUsers": 721511,
+  "genderRatioText": "1,007 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "C$22,833 CAD per annum",
+  "activeMobileDevices": 988681,
+  "mobilePenetration": 92.3,
+  "internetPenetration": 95.6,
+  "maleCount": 375850,
+  "femaleCount": 378869,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Memphis",
+      "state": "Tennessee",
+      "stateSlug": "tennessee",
+      "citySlug": "memphis",
+      "distance": 120.44387130663426
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "citySlug": "charlotte",
+      "distance": 143.2451139851566
+    },
+    {
+      "city": "London",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "london",
+      "distance": 161.65601613127657
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque",
+      "distance": 263.06421794834665
+    },
+    {
+      "city": "Hamilton",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "hamilton",
+      "distance": 275.56166986018405
+    }
+  ],
+  "geohash": "dpsbxcc",
+  "geohashUrl": "https://geohash.softeng.co/dpsbxcc"
+}

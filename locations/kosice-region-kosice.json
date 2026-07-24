@@ -1,0 +1,82 @@
+{
+  "id": "kosice-region-kosice",
+  "city": "Kosice",
+  "state": "Kosice Region",
+  "stateSlug": "kosice-region",
+  "citySlug": "kosice",
+  "country": "Slovakia",
+  "pincode": "040 01",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / RU",
+  "carriers": [
+    "Orange",
+    "Slovak Telekom",
+    "O2",
+    "4ka"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+421",
+  "timezone": "Europe/Bratislava",
+  "latitude": 48.674,
+  "longitude": 19.6237,
+  "landmark": "Kosice Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Slovak Telekom, O2, 4ka with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kosice, Slovakia",
+  "population": 577173,
+  "mobileUsers": 451349,
+  "internetUsers": 388437,
+  "genderRatioText": "973 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "€43,266 per annum",
+  "activeMobileDevices": 704151,
+  "mobilePenetration": 78.2,
+  "internetPenetration": 67.3,
+  "maleCount": 292627,
+  "femaleCount": 284546,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bratislava",
+      "state": "Bratislava Region",
+      "stateSlug": "bratislava-region",
+      "citySlug": "bratislava",
+      "distance": 13.299859733608395
+    },
+    {
+      "city": "Budapest",
+      "state": "Central Hungary",
+      "stateSlug": "central-hungary",
+      "citySlug": "budapest",
+      "distance": 170.37927728869738
+    },
+    {
+      "city": "Miskolc",
+      "state": "Borsod-Abauj-Zemplen",
+      "stateSlug": "borsod-abauj-zemplen",
+      "citySlug": "miskolc",
+      "distance": 185.73008665755364
+    },
+    {
+      "city": "Debrecen",
+      "state": "Hajdu-Bihar",
+      "stateSlug": "hajdu-bihar",
+      "citySlug": "debrecen",
+      "distance": 207.89080343379533
+    },
+    {
+      "city": "Brno",
+      "state": "South Moravian",
+      "stateSlug": "south-moravian",
+      "citySlug": "brno",
+      "distance": 325.4675389585999
+    }
+  ],
+  "geohash": "u2tuysc",
+  "geohashUrl": "https://geohash.softeng.co/u2tuysc"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "hesse-frankfurt",
+  "city": "Frankfurt",
+  "state": "Hesse",
+  "stateSlug": "hesse",
+  "citySlug": "frankfurt",
+  "country": "Germany",
+  "pincode": "60306",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / Bundesnetzagentur",
+  "carriers": [
+    "Deutsche Telekom",
+    "Vodafone",
+    "O2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+49 30",
+  "timezone": "Europe/Berlin",
+  "latitude": 49.3065,
+  "longitude": 12.2716,
+  "landmark": "Frankfurt State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Deutsche Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Frankfurt, Germany",
+  "population": 4266313,
+  "mobileUsers": 4001801,
+  "internetUsers": 3997535,
+  "genderRatioText": "986 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "€60,715 per annum",
+  "activeMobileDevices": 5418217,
+  "mobilePenetration": 93.8,
+  "internetPenetration": 93.7,
+  "maleCount": 2150222,
+  "femaleCount": 2116091,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Leipzig",
+      "state": "Saxony",
+      "stateSlug": "saxony",
+      "citySlug": "leipzig",
+      "distance": 73.0469391041143
+    },
+    {
+      "city": "Bonn",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "bonn",
+      "distance": 141.36248189791115
+    },
+    {
+      "city": "Berlin",
+      "state": "Berlin",
+      "stateSlug": "berlin",
+      "citySlug": "berlin",
+      "distance": 173.1789238171677
+    },
+    {
+      "city": "Munster",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "munster",
+      "distance": 184.97603211701914
+    },
+    {
+      "city": "Hanover",
+      "state": "Lower Saxony",
+      "stateSlug": "lower-saxony",
+      "citySlug": "hanover",
+      "distance": 213.7647898458015
+    }
+  ],
+  "geohash": "u2b8rpz",
+  "geohashUrl": "https://geohash.softeng.co/u2b8rpz"
+}

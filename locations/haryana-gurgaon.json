@@ -1,0 +1,82 @@
+{
+  "id": "haryana-gurgaon",
+  "city": "Gurgaon",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "gurgaon",
+  "country": "India",
+  "pincode": "122001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.7094,
+  "longitude": 71.5175,
+  "landmark": "Gurgaon Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gurgaon, India",
+  "population": 2603691,
+  "mobileUsers": 1970994,
+  "internetUsers": 1598666,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.40L per annum",
+  "activeMobileDevices": 2629727,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 61.4,
+  "maleCount": 1330486,
+  "femaleCount": 1273205,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lalitpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lalitpur",
+      "distance": 27.95583319190678
+    },
+    {
+      "city": "Mangaldoi",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "mangaldoi",
+      "distance": 40.69638005445739
+    },
+    {
+      "city": "Guwahati",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati",
+      "distance": 53.348924322698245
+    },
+    {
+      "city": "Sirsi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sirsi",
+      "distance": 60.62720751209276
+    },
+    {
+      "city": "Agra",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "agra",
+      "distance": 71.22816251562404
+    }
+  ],
+  "geohash": "tdfc77v",
+  "geohashUrl": "https://geohash.softeng.co/tdfc77v"
+}

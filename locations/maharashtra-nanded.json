@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-nanded",
+  "city": "Nanded",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "nanded",
+  "country": "India",
+  "pincode": "431601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.1587,
+  "longitude": 77.7054,
+  "landmark": "Nanded GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nanded, India",
+  "population": 6755991,
+  "mobileUsers": 4898093,
+  "internetUsers": 4073862,
+  "genderRatioText": "914 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹8.32L per annum",
+  "activeMobileDevices": 7499150,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 60.3,
+  "maleCount": 3526627,
+  "femaleCount": 3229364,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tonk",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "tonk",
+      "distance": 15.479814211782559
+    },
+    {
+      "city": "Nandyal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nandyal",
+      "distance": 37.62212270907432
+    },
+    {
+      "city": "Salkia",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "salkia",
+      "distance": 67.740763045129
+    },
+    {
+      "city": "Ujjain",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "ujjain",
+      "distance": 72.88721972869735
+    },
+    {
+      "city": "Rabindranath Tagore Nagar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "rabindranath-tagore-nagar",
+      "distance": 74.87468162430969
+    }
+  ],
+  "geohash": "tsrr0hp",
+  "geohashUrl": "https://geohash.softeng.co/tsrr0hp"
+}

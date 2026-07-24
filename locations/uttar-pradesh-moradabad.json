@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-moradabad",
+  "city": "Moradabad",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "moradabad",
+  "country": "India",
+  "pincode": "244001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.5638,
+  "longitude": 75.0424,
+  "landmark": "Moradabad Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Moradabad, India",
+  "population": 7115193,
+  "mobileUsers": 5286588,
+  "internetUsers": 4062775,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.89L per annum",
+  "activeMobileDevices": 7186344,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 57.1,
+  "maleCount": 3657209,
+  "femaleCount": 3457984,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sekmai",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "sekmai",
+      "distance": 33.915295283738345
+    },
+    {
+      "city": "Papanasam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "papanasam",
+      "distance": 63.155242228279384
+    },
+    {
+      "city": "Rajpura",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rajpura",
+      "distance": 79.74926736568808
+    },
+    {
+      "city": "Morar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "morar",
+      "distance": 84.74979252257477
+    },
+    {
+      "city": "Ambalmukal",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "ambalmukal",
+      "distance": 105.0593843388586
+    }
+  ],
+  "geohash": "tdmm5th",
+  "geohashUrl": "https://geohash.softeng.co/tdmm5th"
+}

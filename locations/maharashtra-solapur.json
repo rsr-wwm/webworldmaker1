@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-solapur",
+  "city": "Solapur",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "solapur",
+  "country": "India",
+  "pincode": "413001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.9404,
+  "longitude": 83.6497,
+  "landmark": "Solapur Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Solapur, India",
+  "population": 3512544,
+  "mobileUsers": 2711683,
+  "internetUsers": 1981074,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹8.67L per annum",
+  "activeMobileDevices": 3617920,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 56.4,
+  "maleCount": 1812473,
+  "femaleCount": 1700071,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pollachi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "pollachi",
+      "distance": 57.248909994107784
+    },
+    {
+      "city": "Perumbavoor",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "perumbavoor",
+      "distance": 61.34953128647216
+    },
+    {
+      "city": "Atur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "atur",
+      "distance": 72.09617825387316
+    },
+    {
+      "city": "Saharsa",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "saharsa",
+      "distance": 73.77505128607787
+    },
+    {
+      "city": "Calcutta G.P.O",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "calcutta-gpo",
+      "distance": 92.1522709248444
+    }
+  ],
+  "geohash": "tv76r6r",
+  "geohashUrl": "https://geohash.softeng.co/tv76r6r"
+}

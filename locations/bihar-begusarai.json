@@ -1,0 +1,82 @@
+{
+  "id": "bihar-begusarai",
+  "city": "Begusarai",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "begusarai",
+  "country": "India",
+  "pincode": "851101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.1708,
+  "longitude": 87.3597,
+  "landmark": "Begusarai Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Begusarai, India",
+  "population": 3683893,
+  "mobileUsers": 2799758,
+  "internetUsers": 2221387,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹6.94L per annum",
+  "activeMobileDevices": 4273315,
+  "mobilePenetration": 76,
+  "internetPenetration": 60.3,
+  "maleCount": 1926676,
+  "femaleCount": 1757217,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhavani",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "bhavani",
+      "distance": 19.24306345212153
+    },
+    {
+      "city": "Veraval",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "veraval",
+      "distance": 43.04523641962552
+    },
+    {
+      "city": "Palel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "palel",
+      "distance": 45.542257698709776
+    },
+    {
+      "city": "Nayagarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "nayagarh",
+      "distance": 48.43668791227361
+    },
+    {
+      "city": "Tenkasi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tenkasi",
+      "distance": 52.69401791721756
+    }
+  ],
+  "geohash": "tuq1ebj",
+  "geohashUrl": "https://geohash.softeng.co/tuq1ebj"
+}

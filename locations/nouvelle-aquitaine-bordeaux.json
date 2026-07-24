@@ -1,0 +1,82 @@
+{
+  "id": "nouvelle-aquitaine-bordeaux",
+  "city": "Bordeaux",
+  "state": "Nouvelle-Aquitaine",
+  "stateSlug": "nouvelle-aquitaine",
+  "citySlug": "bordeaux",
+  "country": "France",
+  "pincode": "33000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ARCEP",
+  "carriers": [
+    "Orange",
+    "SFR",
+    "Bouygues",
+    "Free Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+33 1",
+  "timezone": "Europe/Paris",
+  "latitude": 1.7339,
+  "longitude": 56.0581,
+  "landmark": "Bordeaux District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bordeaux, France",
+  "population": 1518564,
+  "mobileUsers": 1488192,
+  "internetUsers": 1354559,
+  "genderRatioText": "981 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "€53,732 per annum",
+  "activeMobileDevices": 2004504,
+  "mobilePenetration": 98,
+  "internetPenetration": 89.2,
+  "maleCount": 766875,
+  "femaleCount": 751689,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Victoria",
+      "state": "Mahe Island",
+      "stateSlug": "mahe-island",
+      "citySlug": "victoria",
+      "distance": 729.869077259712
+    },
+    {
+      "city": "Hargeisa",
+      "state": "Woqooyi Galbeed",
+      "stateSlug": "woqooyi-galbeed",
+      "citySlug": "hargeisa",
+      "distance": 1204.832300578339
+    },
+    {
+      "city": "Mogadishu",
+      "state": "Banaadir",
+      "stateSlug": "banaadir",
+      "citySlug": "mogadishu",
+      "distance": 1225.6836565565632
+    },
+    {
+      "city": "Murgaon",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "murgaon",
+      "distance": 1634.8757490800253
+    },
+    {
+      "city": "Chilakaluripeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chilakaluripeta",
+      "distance": 1676.4168982676067
+    }
+  ],
+  "geohash": "t0rcges",
+  "geohashUrl": "https://geohash.softeng.co/t0rcges"
+}

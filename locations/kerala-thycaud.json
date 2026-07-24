@@ -1,0 +1,82 @@
+{
+  "id": "kerala-thycaud",
+  "city": "Thycaud",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "thycaud",
+  "country": "India",
+  "pincode": "695014",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.2613,
+  "longitude": 87.8189,
+  "landmark": "Thycaud Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Thycaud, India",
+  "population": 1711794,
+  "mobileUsers": 1253033,
+  "internetUsers": 943198,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.04L per annum",
+  "activeMobileDevices": 1831619,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 55.1,
+  "maleCount": 879862,
+  "femaleCount": 831932,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Anakpalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "anakpalle",
+      "distance": 62.70881085136262
+    },
+    {
+      "city": "Sangareddy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "sangareddy",
+      "distance": 68.93385876567358
+    },
+    {
+      "city": "Hyderabad G.P.O",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hyderabad-gpo",
+      "distance": 94.1503491645605
+    },
+    {
+      "city": "Tadepalligudam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tadepalligudam",
+      "distance": 95.14357580015081
+    },
+    {
+      "city": "Pandharpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "pandharpur",
+      "distance": 103.26657030396069
+    }
+  ],
+  "geohash": "tcy6qk5",
+  "geohashUrl": "https://geohash.softeng.co/tcy6qk5"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tunis-governorate-tunis",
+  "city": "Tunis",
+  "state": "Tunis Governorate",
+  "stateSlug": "tunis-governorate",
+  "citySlug": "tunis",
+  "country": "Tunisia",
+  "pincode": "1000",
+  "currency": "TND",
+  "symbol": "DT",
+  "compliance": "INT Regulations",
+  "carriers": [
+    "Ooredoo",
+    "Tunisie Telecom",
+    "Orange"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+216",
+  "timezone": "Africa/Tunis",
+  "latitude": 33.9992,
+  "longitude": 8.8049,
+  "landmark": "Tunis Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Ooredoo networks. Failovers route over Tunisie Telecom, Orange with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Tunis, Tunisia",
+  "population": 937726,
+  "mobileUsers": 754869,
+  "internetUsers": 602020,
+  "genderRatioText": "1,004 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "DT34,311 TND per annum",
+  "activeMobileDevices": 1172157,
+  "mobilePenetration": 80.5,
+  "internetPenetration": 64.2,
+  "maleCount": 467925,
+  "femaleCount": 469801,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Sfax",
+      "state": "Sfax Governorate",
+      "stateSlug": "sfax-governorate",
+      "citySlug": "sfax",
+      "distance": 28.860611235438174
+    },
+    {
+      "city": "Valletta",
+      "state": "South Eastern Region",
+      "stateSlug": "south-eastern-region",
+      "citySlug": "valletta",
+      "distance": 581.7801502094356
+    },
+    {
+      "city": "Algiers",
+      "state": "Algiers Province",
+      "stateSlug": "algiers-province",
+      "citySlug": "algiers",
+      "distance": 620.7583949709187
+    },
+    {
+      "city": "Oran",
+      "state": "Oran Province",
+      "stateSlug": "oran-province",
+      "citySlug": "oran",
+      "distance": 882.9894289641073
+    },
+    {
+      "city": "Bologna",
+      "state": "Emilia-Romagna",
+      "stateSlug": "emilia-romagna",
+      "citySlug": "bologna",
+      "distance": 1024.7402181775315
+    }
+  ],
+  "geohash": "snn32m7",
+  "geohashUrl": "https://geohash.softeng.co/snn32m7"
+}

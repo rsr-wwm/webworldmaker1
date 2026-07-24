@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-mriyalguda",
+  "city": "Mriyalguda",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "mriyalguda",
+  "country": "India",
+  "pincode": "508207",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.6916,
+  "longitude": 70.0112,
+  "landmark": "Mriyalguda Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mriyalguda, India",
+  "population": 1619935,
+  "mobileUsers": 1184172,
+  "internetUsers": 899063,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.06L per annum",
+  "activeMobileDevices": 1879124,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 55.5,
+  "maleCount": 837506,
+  "femaleCount": 782429,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "rajkot",
+      "distance": 16.32058896793861
+    },
+    {
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan",
+      "distance": 18.523505374546286
+    },
+    {
+      "city": "Lahore",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "lahore",
+      "distance": 19.729615398356994
+    },
+    {
+      "city": "Karachi",
+      "state": "Sindh",
+      "stateSlug": "sindh",
+      "citySlug": "karachi",
+      "distance": 27.619221481834934
+    },
+    {
+      "city": "Gudivada",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gudivada",
+      "distance": 28.41415988775544
+    }
+  ],
+  "geohash": "tt3bcjh",
+  "geohashUrl": "https://geohash.softeng.co/tt3bcjh"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-lunglei",
+  "city": "Lunglei",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "lunglei",
+  "country": "India",
+  "pincode": "796701",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.9309,
+  "longitude": 76.6925,
+  "landmark": "Lunglei State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lunglei, India",
+  "population": 3229790,
+  "mobileUsers": 2506317,
+  "internetUsers": 1947563,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹10.10L per annum",
+  "activeMobileDevices": 3714258,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 60.3,
+  "maleCount": 1650423,
+  "femaleCount": 1579367,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nayudupeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nayudupeta",
+      "distance": 36.96679649464195
+    },
+    {
+      "city": "Balangir",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "balangir",
+      "distance": 55.08564076328652
+    },
+    {
+      "city": "Umsao",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "umsao",
+      "distance": 81.81890935019855
+    },
+    {
+      "city": "Hindupur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hindupur",
+      "distance": 83.8211819355347
+    },
+    {
+      "city": "Lalganj",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lalganj",
+      "distance": 100.81503922118945
+    }
+  ],
+  "geohash": "teysc0m",
+  "geohashUrl": "https://geohash.softeng.co/teysc0m"
+}

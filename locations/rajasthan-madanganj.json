@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-madanganj",
+  "city": "Madanganj",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "madanganj",
+  "country": "India",
+  "pincode": "305801",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.89,
+  "longitude": 87.4289,
+  "landmark": "Madanganj Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Madanganj, India",
+  "population": 5076270,
+  "mobileUsers": 3736134,
+  "internetUsers": 3142211,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹7.36L per annum",
+  "activeMobileDevices": 5431608,
+  "mobilePenetration": 73.6,
+  "internetPenetration": 61.9,
+  "maleCount": 2659965,
+  "femaleCount": 2416305,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bahror",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bahror",
+      "distance": 52.48793170099706
+    },
+    {
+      "city": "Arrah",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "arrah",
+      "distance": 75.28944037156822
+    },
+    {
+      "city": "Gonda",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gonda",
+      "distance": 76.97551962970846
+    },
+    {
+      "city": "Rajgarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "rajgarh",
+      "distance": 92.28047212569385
+    },
+    {
+      "city": "Rewa",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "rewa",
+      "distance": 93.08814044313542
+    }
+  ],
+  "geohash": "tfwhtqx",
+  "geohashUrl": "https://geohash.softeng.co/tfwhtqx"
+}

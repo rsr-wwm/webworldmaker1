@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-kalkalang",
+  "city": "Kalkalang",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "kalkalang",
+  "country": "India",
+  "pincode": "790002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.8374,
+  "longitude": 80.1392,
+  "landmark": "Kalkalang Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kalkalang, India",
+  "population": 2649022,
+  "mobileUsers": 1962925,
+  "internetUsers": 1533783,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.96L per annum",
+  "activeMobileDevices": 2675512,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 57.9,
+  "maleCount": 1385439,
+  "femaleCount": 1263583,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Parleshwar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "parleshwar",
+      "distance": 49.91271556606299
+    },
+    {
+      "city": "Port Blair",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "port-blair",
+      "distance": 84.21326374332406
+    },
+    {
+      "city": "Pathanamthitta",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "pathanamthitta",
+      "distance": 90.08297646328755
+    },
+    {
+      "city": "Deomali",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "deomali",
+      "distance": 92.16245866365713
+    },
+    {
+      "city": "Khilerihat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "khilerihat",
+      "distance": 118.39219586415854
+    }
+  ],
+  "geohash": "tc8zzwg",
+  "geohashUrl": "https://geohash.softeng.co/tc8zzwg"
+}

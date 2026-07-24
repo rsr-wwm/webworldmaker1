@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-aligarh",
+  "city": "Aligarh",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "aligarh",
+  "country": "India",
+  "pincode": "202001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.6854,
+  "longitude": 88.0851,
+  "landmark": "Aligarh District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Aligarh, India",
+  "population": 8017052,
+  "mobileUsers": 6149078,
+  "internetUsers": 4393344,
+  "genderRatioText": "935 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹8.09L per annum",
+  "activeMobileDevices": 9299780,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 54.8,
+  "maleCount": 4144816,
+  "femaleCount": 3872236,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tekkali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tekkali",
+      "distance": 55.92063983711291
+    },
+    {
+      "city": "Likabili",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "likabili",
+      "distance": 63.33556436583281
+    },
+    {
+      "city": "Indi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "indi",
+      "distance": 74.79803582188197
+    },
+    {
+      "city": "Rae Bareli",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "rae-bareli",
+      "distance": 78.58278073925783
+    },
+    {
+      "city": "Bhilai SB",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhilai-sb",
+      "distance": 83.877313137293
+    }
+  ],
+  "geohash": "tgqdk3t",
+  "geohashUrl": "https://geohash.softeng.co/tgqdk3t"
+}

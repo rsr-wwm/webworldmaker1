@@ -1,0 +1,82 @@
+{
+  "id": "kerala-perumbavoor",
+  "city": "Perumbavoor",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "perumbavoor",
+  "country": "India",
+  "pincode": "683542",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.4913,
+  "longitude": 83.6847,
+  "landmark": "Perumbavoor Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Perumbavoor, India",
+  "population": 3449081,
+  "mobileUsers": 2510930,
+  "internetUsers": 2124633,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.28L per annum",
+  "activeMobileDevices": 4000933,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 61.6,
+  "maleCount": 1807318,
+  "femaleCount": 1641763,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mailuri",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mailuri",
+      "distance": 58.979079190140226
+    },
+    {
+      "city": "Solapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "solapur",
+      "distance": 61.34953128647216
+    },
+    {
+      "city": "Atur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "atur",
+      "distance": 65.24150825744753
+    },
+    {
+      "city": "Saharsa",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "saharsa",
+      "distance": 76.4904297083566
+    },
+    {
+      "city": "Trimulgherry",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "trimulgherry",
+      "distance": 78.71824037646579
+    }
+  ],
+  "geohash": "tv7t2qc",
+  "geohashUrl": "https://geohash.softeng.co/tv7t2qc"
+}

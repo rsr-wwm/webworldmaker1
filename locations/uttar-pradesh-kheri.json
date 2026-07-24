@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-kheri",
+  "city": "Kheri",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "kheri",
+  "country": "India",
+  "pincode": "262701",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.8666,
+  "longitude": 85.1028,
+  "landmark": "Kheri Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kheri, India",
+  "population": 4747480,
+  "mobileUsers": 3655559,
+  "internetUsers": 2691821,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.89L per annum",
+  "activeMobileDevices": 5412127,
+  "mobilePenetration": 77,
+  "internetPenetration": 56.7,
+  "maleCount": 2478185,
+  "femaleCount": 2269295,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pali",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "pali",
+      "distance": 20.81963222517793
+    },
+    {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "jaipur",
+      "distance": 25.034672200979124
+    },
+    {
+      "city": "Bikaner",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bikaner",
+      "distance": 36.0802645964805
+    },
+    {
+      "city": "Chaokham",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "chaokham",
+      "distance": 50.404937791861514
+    },
+    {
+      "city": "Kozhikode",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kozhikode",
+      "distance": 51.1214286730784
+    }
+  ],
+  "geohash": "tvhs0x1",
+  "geohashUrl": "https://geohash.softeng.co/tvhs0x1"
+}

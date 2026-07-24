@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-huzurabad",
+  "city": "Huzurabad",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "huzurabad",
+  "country": "India",
+  "pincode": "505468",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.0308,
+  "longitude": 84.6877,
+  "landmark": "Huzurabad GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Huzurabad, India",
+  "population": 6020931,
+  "mobileUsers": 4479572,
+  "internetUsers": 3708893,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹6.97L per annum",
+  "activeMobileDevices": 7164907,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 61.6,
+  "maleCount": 3112821,
+  "femaleCount": 2908110,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khamgaon",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "khamgaon",
+      "distance": 43.20183932543005
+    },
+    {
+      "city": "Sanbhar Lake",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sanbhar-lake",
+      "distance": 87.48439049943372
+    },
+    {
+      "city": "Singjamai bazar",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "singjamai-bazar",
+      "distance": 96.97022159897874
+    },
+    {
+      "city": "Ranchi",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "ranchi",
+      "distance": 141.1258040187895
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 142.71246893587093
+    }
+  ],
+  "geohash": "tcs5rh5",
+  "geohashUrl": "https://geohash.softeng.co/tcs5rh5"
+}

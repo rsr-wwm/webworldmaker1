@@ -1,0 +1,82 @@
+{
+  "id": "tripura-mati",
+  "city": "Mati",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "mati",
+  "country": "India",
+  "pincode": "799159",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.6686,
+  "longitude": 77.2515,
+  "landmark": "Mati Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mati, India",
+  "population": 9289936,
+  "mobileUsers": 6865262,
+  "internetUsers": 5722600,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.11L per annum",
+  "activeMobileDevices": 11055023,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 61.6,
+  "maleCount": 4849347,
+  "femaleCount": 4440589,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hyderabad Jubilee",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hyderabad-jubilee",
+      "distance": 27.008820849229807
+    },
+    {
+      "city": "Phulbani",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "phulbani",
+      "distance": 31.630214907468353
+    },
+    {
+      "city": "Rathinasabapathipuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "rathinasabapathipuram",
+      "distance": 53.861010905161024
+    },
+    {
+      "city": "Rampurhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "rampurhat",
+      "distance": 63.40425220005306
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar",
+      "distance": 66.6224130516462
+    }
+  ],
+  "geohash": "tewvtfs",
+  "geohashUrl": "https://geohash.softeng.co/tewvtfs"
+}

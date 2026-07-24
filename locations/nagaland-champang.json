@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-champang",
+  "city": "Champang",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "champang",
+  "country": "India",
+  "pincode": "798603",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.8031,
+  "longitude": 71.6266,
+  "landmark": "Champang Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Champang, India",
+  "population": 4137239,
+  "mobileUsers": 3115340,
+  "internetUsers": 2316853,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹8.24L per annum",
+  "activeMobileDevices": 4633707,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 56,
+  "maleCount": 2159639,
+  "femaleCount": 1977600,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Girgaon",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "girgaon",
+      "distance": 22.03440294820824
+    },
+    {
+      "city": "Makshmara",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "makshmara",
+      "distance": 26.104867296969672
+    },
+    {
+      "city": "Cobichettipalayam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "cobichettipalayam",
+      "distance": 42.88275855676392
+    },
+    {
+      "city": "Sirsi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sirsi",
+      "distance": 66.73536750701084
+    },
+    {
+      "city": "Mangaldoi",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "mangaldoi",
+      "distance": 68.20472645663025
+    }
+  ],
+  "geohash": "tddujyu",
+  "geohashUrl": "https://geohash.softeng.co/tddujyu"
+}

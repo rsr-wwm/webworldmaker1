@@ -1,0 +1,81 @@
+{
+  "id": "bavaria-munich",
+  "city": "Munich",
+  "state": "Bavaria",
+  "stateSlug": "bavaria",
+  "citySlug": "munich",
+  "country": "Germany",
+  "pincode": "80331",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / BNetzA",
+  "carriers": [
+    "Telekom",
+    "Vodafone",
+    "O2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+49 30",
+  "timezone": "Europe/Berlin",
+  "latitude": 49.0661,
+  "longitude": 7.1131,
+  "landmark": "Munich District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Munich, Germany",
+  "population": 4567285,
+  "mobileUsers": 4325218,
+  "internetUsers": 4128825,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "€64,275 per annum",
+  "activeMobileDevices": 5617760,
+  "mobilePenetration": 94.7,
+  "internetPenetration": 90.4,
+  "maleCount": 2329315,
+  "femaleCount": 2237970,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Luxembourg City",
+      "state": "Luxembourg Canton",
+      "stateSlug": "luxembourg-canton",
+      "citySlug": "luxembourg-city",
+      "distance": 105.52969499070983
+    },
+    {
+      "city": "Cologne",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "cologne",
+      "distance": 135.12446756181424
+    },
+    {
+      "city": "Basel",
+      "state": "Canton of Basel-Stadt",
+      "stateSlug": "canton-of-basel-stadt",
+      "citySlug": "basel",
+      "distance": 219.7836444821326
+    },
+    {
+      "city": "Bremen",
+      "state": "Bremen State",
+      "stateSlug": "bremen-state",
+      "citySlug": "bremen",
+      "distance": 221.427463987387
+    },
+    {
+      "city": "Geneva",
+      "state": "Canton of Geneva",
+      "stateSlug": "canton-of-geneva",
+      "citySlug": "geneva",
+      "distance": 223.2807359496013
+    }
+  ],
+  "geohash": "u0tp1u5",
+  "geohashUrl": "https://geohash.softeng.co/u0tp1u5"
+}

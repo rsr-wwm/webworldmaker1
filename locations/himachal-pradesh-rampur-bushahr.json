@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-rampur-bushahr",
+  "city": "Rampur Bushahr",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "rampur-bushahr",
+  "country": "India",
+  "pincode": "172001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.8462,
+  "longitude": 84.2664,
+  "landmark": "Rampur Bushahr Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rampur Bushahr, India",
+  "population": 7041138,
+  "mobileUsers": 5485046,
+  "internetUsers": 4309176,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹9.48L per annum",
+  "activeMobileDevices": 7534017,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 61.2,
+  "maleCount": 3605063,
+  "femaleCount": 3436075,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kamareddy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kamareddy",
+      "distance": 31.3508338384666
+    },
+    {
+      "city": "Bhawani Patana",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhawani-patana",
+      "distance": 43.904278038934045
+    },
+    {
+      "city": "Kota",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "kota",
+      "distance": 44.57933584054722
+    },
+    {
+      "city": "Monghyr",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "monghyr",
+      "distance": 46.31771198276347
+    },
+    {
+      "city": "Shrikakulam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "shrikakulam",
+      "distance": 50.684008871479385
+    }
+  ],
+  "geohash": "tfgfjs8",
+  "geohashUrl": "https://geohash.softeng.co/tfgfjs8"
+}

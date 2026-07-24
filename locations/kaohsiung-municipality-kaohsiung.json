@@ -1,0 +1,81 @@
+{
+  "id": "kaohsiung-municipality-kaohsiung",
+  "city": "Kaohsiung",
+  "state": "Kaohsiung Municipality",
+  "stateSlug": "kaohsiung-municipality",
+  "citySlug": "kaohsiung",
+  "country": "Taiwan",
+  "pincode": "800",
+  "currency": "TWD",
+  "symbol": "NT$",
+  "compliance": "NCC Regulations",
+  "carriers": [
+    "Chunghwa Telecom",
+    "Taiwan Mobile",
+    "FarEasTone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+886",
+  "timezone": "Asia/Taipei",
+  "latitude": 23.3335,
+  "longitude": 121.1699,
+  "landmark": "Kaohsiung Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over Chunghwa Telecom networks. Failovers route over Taiwan Mobile, FarEasTone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kaohsiung, Taiwan",
+  "population": 2313841,
+  "mobileUsers": 1793226,
+  "internetUsers": 1487799,
+  "genderRatioText": "975 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "NT$40,473 TWD per annum",
+  "activeMobileDevices": 3100546,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 64.3,
+  "maleCount": 1170804,
+  "femaleCount": 1143037,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Keelung",
+      "state": "Keelung City",
+      "stateSlug": "keelung-city",
+      "citySlug": "keelung",
+      "distance": 18.953261977810953
+    },
+    {
+      "city": "Hsinchu",
+      "state": "Hsinchu County",
+      "stateSlug": "hsinchu-county",
+      "citySlug": "hsinchu",
+      "distance": 24.80394341321351
+    },
+    {
+      "city": "Taipei",
+      "state": "Taipei Municipality",
+      "stateSlug": "taipei-municipality",
+      "citySlug": "taipei",
+      "distance": 28.245474244876853
+    },
+    {
+      "city": "Taichung",
+      "state": "Taichung City",
+      "stateSlug": "taichung-city",
+      "citySlug": "taichung",
+      "distance": 33.302911768967924
+    },
+    {
+      "city": "Tainan",
+      "state": "Tainan City",
+      "stateSlug": "tainan-city",
+      "citySlug": "tainan",
+      "distance": 35.805886953359426
+    }
+  ],
+  "geohash": "wsnhtr9",
+  "geohashUrl": "https://geohash.softeng.co/wsnhtr9"
+}

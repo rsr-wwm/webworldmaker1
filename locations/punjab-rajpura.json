@@ -1,0 +1,82 @@
+{
+  "id": "punjab-rajpura",
+  "city": "Rajpura",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "rajpura",
+  "country": "India",
+  "pincode": "140401",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.8578,
+  "longitude": 75.1721,
+  "landmark": "Rajpura Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rajpura, India",
+  "population": 9782913,
+  "mobileUsers": 7464362,
+  "internetUsers": 5957794,
+  "genderRatioText": "914 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹8.14L per annum",
+  "activeMobileDevices": 11348179,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 60.9,
+  "maleCount": 5106681,
+  "femaleCount": 4676232,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thiruvananthapuram",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thiruvananthapuram",
+      "distance": 47.461617156615986
+    },
+    {
+      "city": "Sekmai",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "sekmai",
+      "distance": 57.43458909835817
+    },
+    {
+      "city": "Narasipatnam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "narasipatnam",
+      "distance": 67.71979843219886
+    },
+    {
+      "city": "Moradabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "moradabad",
+      "distance": 79.74926736568808
+    },
+    {
+      "city": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "mandsaur",
+      "distance": 93.03148284814392
+    }
+  ],
+  "geohash": "tdm3nsd",
+  "geohashUrl": "https://geohash.softeng.co/tdm3nsd"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "special-capital-region-jakarta",
+  "city": "Jakarta",
+  "state": "Special Capital Region",
+  "stateSlug": "special-capital-region",
+  "citySlug": "jakarta",
+  "country": "Indonesia",
+  "pincode": "10110",
+  "currency": "IDR",
+  "symbol": "Rp",
+  "compliance": "SDPPI Regulations",
+  "carriers": [
+    "Telkomsel",
+    "Indosat Ooredoo",
+    "XL Axiata"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+62",
+  "timezone": "Asia/Jakarta",
+  "latitude": -5.0368,
+  "longitude": 119.8957,
+  "landmark": "Jakarta Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Telkomsel networks. Failovers route over Indosat Ooredoo, XL Axiata with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Jakarta, Indonesia",
+  "population": 3029263,
+  "mobileUsers": 2374942,
+  "internetUsers": 1926611,
+  "genderRatioText": "973 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "Rp26,655 IDR per annum",
+  "activeMobileDevices": 4028919,
+  "mobilePenetration": 78.4,
+  "internetPenetration": 63.6,
+  "maleCount": 1535836,
+  "femaleCount": 1493427,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Makassar",
+      "state": "South Sulawesi",
+      "stateSlug": "south-sulawesi",
+      "citySlug": "makassar",
+      "distance": 9.991139813596241
+    },
+    {
+      "city": "Surabaya",
+      "state": "East Java",
+      "stateSlug": "east-java",
+      "citySlug": "surabaya",
+      "distance": 12.407066456528888
+    },
+    {
+      "city": "Semarang",
+      "state": "Central Java",
+      "stateSlug": "central-java",
+      "citySlug": "semarang",
+      "distance": 19.131554984296354
+    },
+    {
+      "city": "Bandung",
+      "state": "West Java",
+      "stateSlug": "west-java",
+      "citySlug": "bandung",
+      "distance": 22.60323568495514
+    },
+    {
+      "city": "Medan",
+      "state": "North Sumatra",
+      "stateSlug": "north-sumatra",
+      "citySlug": "medan",
+      "distance": 30.58536195981171
+    }
+  ],
+  "geohash": "qxj7271",
+  "geohashUrl": "https://geohash.softeng.co/qxj7271"
+}

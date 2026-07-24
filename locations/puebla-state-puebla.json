@@ -1,0 +1,81 @@
+{
+  "id": "puebla-state-puebla",
+  "city": "Puebla",
+  "state": "Puebla State",
+  "stateSlug": "puebla-state",
+  "citySlug": "puebla",
+  "country": "Mexico",
+  "pincode": "72000",
+  "currency": "MXN",
+  "symbol": "$",
+  "compliance": "IFT Rules",
+  "carriers": [
+    "Telcel",
+    "Movistar",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+52",
+  "timezone": "America/Bahia_Banderas",
+  "latitude": 23.0288,
+  "longitude": -101.904,
+  "landmark": "Puebla Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Puebla, Mexico",
+  "population": 2621242,
+  "mobileUsers": 2264753,
+  "internetUsers": 1895157,
+  "genderRatioText": "992 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "$29,653 MXN per annum",
+  "activeMobileDevices": 2857153,
+  "mobilePenetration": 86.4,
+  "internetPenetration": 72.3,
+  "maleCount": 1315863,
+  "femaleCount": 1305379,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Queretaro",
+      "state": "Queretaro State",
+      "stateSlug": "queretaro-state",
+      "citySlug": "queretaro",
+      "distance": 6.4025818415149764
+    },
+    {
+      "city": "Merida",
+      "state": "Yucatan",
+      "stateSlug": "yucatan",
+      "citySlug": "merida",
+      "distance": 9.514379857085826
+    },
+    {
+      "city": "Monterrey",
+      "state": "Nuevo Leon",
+      "stateSlug": "nuevo-leon",
+      "citySlug": "monterrey",
+      "distance": 11.893492450334465
+    },
+    {
+      "city": "Tijuana",
+      "state": "Baja California",
+      "stateSlug": "baja-california",
+      "citySlug": "tijuana",
+      "distance": 17.526638963782663
+    },
+    {
+      "city": "Leon",
+      "state": "Guanajuato",
+      "stateSlug": "guanajuato",
+      "citySlug": "leon",
+      "distance": 18.650479773355446
+    }
+  ],
+  "geohash": "9spe107",
+  "geohashUrl": "https://geohash.softeng.co/9spe107"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-borholla",
+  "city": "Borholla",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "borholla",
+  "country": "India",
+  "pincode": "798631",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.6477,
+  "longitude": 70.3917,
+  "landmark": "Borholla Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Borholla, India",
+  "population": 9353573,
+  "mobileUsers": 7192897,
+  "internetUsers": 5799215,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹6.37L per annum",
+  "activeMobileDevices": 10756608,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 62,
+  "maleCount": 4873212,
+  "femaleCount": 4480361,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Happy valley",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "happy-valley",
+      "distance": 29.630803517066376
+    },
+    {
+      "city": "HAL II Stage",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hal-ii-stage",
+      "distance": 45.64620865747752
+    },
+    {
+      "city": "Bhongir",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhongir",
+      "distance": 52.4451474543958
+    },
+    {
+      "city": "Neemuch",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "neemuch",
+      "distance": 56.08845020174522
+    },
+    {
+      "city": "Purulai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "purulai",
+      "distance": 64.84174648799332
+    }
+  ],
+  "geohash": "td4pcy3",
+  "geohashUrl": "https://geohash.softeng.co/td4pcy3"
+}

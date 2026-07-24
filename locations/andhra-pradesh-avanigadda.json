@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-avanigadda",
+  "city": "Avanigadda",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "avanigadda",
+  "country": "India",
+  "pincode": "521121",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.8226,
+  "longitude": 88.485,
+  "landmark": "Avanigadda Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Avanigadda, India",
+  "population": 835177,
+  "mobileUsers": 602162,
+  "internetUsers": 462688,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹11.90L per annum",
+  "activeMobileDevices": 860232,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 55.4,
+  "maleCount": 436798,
+  "femaleCount": 398379,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Khambhalia",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "khambhalia",
+      "distance": 39.63614166988922
+    },
+    {
+      "city": "Kunjvan",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kunjvan",
+      "distance": 73.17639092699287
+    },
+    {
+      "city": "Basavanagudi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "basavanagudi",
+      "distance": 78.30692465292492
+    },
+    {
+      "city": "Aibok",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "aibok",
+      "distance": 86.29042977114246
+    },
+    {
+      "city": "Dhampur",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "dhampur",
+      "distance": 106.69350352228955
+    }
+  ],
+  "geohash": "tfqyts2",
+  "geohashUrl": "https://geohash.softeng.co/tfqyts2"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "calcutta-bhavnagar",
+  "city": "Bhavnagar",
+  "state": "Calcutta",
+  "stateSlug": "calcutta",
+  "citySlug": "bhavnagar",
+  "country": "India",
+  "pincode": "364001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.2871,
+  "longitude": 85.7858,
+  "landmark": "Bhavnagar Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhavnagar, India",
+  "population": 4788324,
+  "mobileUsers": 3476323,
+  "internetUsers": 2968760,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹8.26L per annum",
+  "activeMobileDevices": 5650222,
+  "mobilePenetration": 72.6,
+  "internetPenetration": 62,
+  "maleCount": 2504293,
+  "femaleCount": 2284031,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bolomia",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "bolomia",
+      "distance": 17.938277104406723
+    },
+    {
+      "city": "Banka",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "banka",
+      "distance": 89.6783107548158
+    },
+    {
+      "city": "Kankroli",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "kankroli",
+      "distance": 91.88418079456494
+    },
+    {
+      "city": "Marhowrah",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "marhowrah",
+      "distance": 93.32469295109118
+    },
+    {
+      "city": "Tehri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "tehri",
+      "distance": 97.65927955447539
+    }
+  ],
+  "geohash": "tumpb57",
+  "geohashUrl": "https://geohash.softeng.co/tumpb57"
+}

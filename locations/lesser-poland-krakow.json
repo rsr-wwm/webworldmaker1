@@ -1,0 +1,82 @@
+{
+  "id": "lesser-poland-krakow",
+  "city": "Krakow",
+  "state": "Lesser Poland",
+  "stateSlug": "lesser-poland",
+  "citySlug": "krakow",
+  "country": "Poland",
+  "pincode": "30-001",
+  "currency": "PLN",
+  "symbol": "zł",
+  "compliance": "GDPR / UKE",
+  "carriers": [
+    "Orange",
+    "Play",
+    "Plus",
+    "T-Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+48",
+  "timezone": "Europe/Warsaw",
+  "latitude": 52.1069,
+  "longitude": 20.1431,
+  "landmark": "Krakow District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Play, Plus, T-Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Krakow, Poland",
+  "population": 2722965,
+  "mobileUsers": 2257337,
+  "internetUsers": 1764481,
+  "genderRatioText": "984 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "zł34,466 PLN per annum",
+  "activeMobileDevices": 3430935,
+  "mobilePenetration": 82.9,
+  "internetPenetration": 64.8,
+  "maleCount": 1372374,
+  "femaleCount": 1350591,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Wroclaw",
+      "state": "Lower Silesia",
+      "stateSlug": "lower-silesia",
+      "citySlug": "wroclaw",
+      "distance": 0.04652804426733445
+    },
+    {
+      "city": "Gdansk",
+      "state": "Pomerania",
+      "stateSlug": "pomerania",
+      "citySlug": "gdansk",
+      "distance": 4.018842375935535
+    },
+    {
+      "city": "Lublin",
+      "state": "Lublin Voivodeship",
+      "stateSlug": "lublin-voivodeship",
+      "citySlug": "lublin",
+      "distance": 15.8491809231678
+    },
+    {
+      "city": "Katowice",
+      "state": "Silesian Voivodeship",
+      "stateSlug": "silesian-voivodeship",
+      "citySlug": "katowice",
+      "distance": 18.459742906110037
+    },
+    {
+      "city": "Poznan",
+      "state": "Greater Poland",
+      "stateSlug": "greater-poland",
+      "citySlug": "poznan",
+      "distance": 20.985618851123604
+    }
+  ],
+  "geohash": "u3q26mg",
+  "geohashUrl": "https://geohash.softeng.co/u3q26mg"
+}

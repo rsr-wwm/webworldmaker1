@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-umsao",
+  "city": "Umsao",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "umsao",
+  "country": "India",
+  "pincode": "793123",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.6667,
+  "longitude": 76.6976,
+  "landmark": "Umsao District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Umsao, India",
+  "population": 5555221,
+  "mobileUsers": 4010869,
+  "internetUsers": 3294246,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹10.35L per annum",
+  "activeMobileDevices": 6666265,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 59.3,
+  "maleCount": 2855384,
+  "femaleCount": 2699837,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shivpuri",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shivpuri",
+      "distance": 69.68016803545915
+    },
+    {
+      "city": "Anantnag",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "anantnag",
+      "distance": 75.01306994324088
+    },
+    {
+      "city": "Lunglei",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lunglei",
+      "distance": 81.81890935019855
+    },
+    {
+      "city": "Nayudupeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nayudupeta",
+      "distance": 84.83475604416647
+    },
+    {
+      "city": "Betul",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "betul",
+      "distance": 87.16336428133374
+    }
+  ],
+  "geohash": "tsn8cq3",
+  "geohashUrl": "https://geohash.softeng.co/tsn8cq3"
+}

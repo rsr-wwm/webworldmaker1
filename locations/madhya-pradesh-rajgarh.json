@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-rajgarh",
+  "city": "Rajgarh",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "rajgarh",
+  "country": "India",
+  "pincode": "465661",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.2104,
+  "longitude": 86.9368,
+  "landmark": "Rajgarh GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rajgarh, India",
+  "population": 4190384,
+  "mobileUsers": 3146978,
+  "internetUsers": 2505849,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹7.13L per annum",
+  "activeMobileDevices": 4274191,
+  "mobilePenetration": 75.1,
+  "internetPenetration": 59.8,
+  "maleCount": 2199952,
+  "femaleCount": 1990432,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Neyyattinkara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "neyyattinkara",
+      "distance": 57.47465547772102
+    },
+    {
+      "city": "Madanganj",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "madanganj",
+      "distance": 92.28047212569385
+    },
+    {
+      "city": "Basavanagudi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "basavanagudi",
+      "distance": 104.12235056674022
+    },
+    {
+      "city": "Kunjvan",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kunjvan",
+      "distance": 109.65034583023983
+    },
+    {
+      "city": "Nagpur G.P.O.",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur-gpo",
+      "distance": 117.29077226908842
+    }
+  ],
+  "geohash": "tftbf6c",
+  "geohashUrl": "https://geohash.softeng.co/tftbf6c"
+}

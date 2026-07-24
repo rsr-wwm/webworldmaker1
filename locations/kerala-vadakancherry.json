@@ -1,0 +1,82 @@
+{
+  "id": "kerala-vadakancherry",
+  "city": "Vadakancherry",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "vadakancherry",
+  "country": "India",
+  "pincode": "680582",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.3744,
+  "longitude": 81.0782,
+  "landmark": "Vadakancherry State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vadakancherry, India",
+  "population": 6427816,
+  "mobileUsers": 4975129,
+  "internetUsers": 3830978,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹11.38L per annum",
+  "activeMobileDevices": 6427816,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 59.6,
+  "maleCount": 3361748,
+  "femaleCount": 3066068,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Baramulla",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "baramulla",
+      "distance": 50.79245034365564
+    },
+    {
+      "city": "Sattenapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "sattenapalle",
+      "distance": 62.33021145448413
+    },
+    {
+      "city": "Chandrapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chandrapur",
+      "distance": 68.97592398307859
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 75.02293487393925
+    },
+    {
+      "city": "Chhatarpur City",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "chhatarpur-city",
+      "distance": 79.45319387699057
+    }
+  ],
+  "geohash": "tv9dkzx",
+  "geohashUrl": "https://geohash.softeng.co/tv9dkzx"
+}

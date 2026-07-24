@@ -1,0 +1,81 @@
+{
+  "id": "south-east-district-gaborone",
+  "city": "Gaborone",
+  "state": "South-East District",
+  "stateSlug": "south-east-district",
+  "citySlug": "gaborone",
+  "country": "Botswana",
+  "pincode": "0000",
+  "currency": "BWP",
+  "symbol": "P",
+  "compliance": "BOCRA Guidelines",
+  "carriers": [
+    "Mascom",
+    "Orange",
+    "BTC"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+267",
+  "timezone": "Africa/Gaborone",
+  "latitude": -22.0535,
+  "longitude": 23.9536,
+  "landmark": "Gaborone Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Mascom networks. Failovers route over Orange, BTC with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Gaborone, Botswana",
+  "population": 3604849,
+  "mobileUsers": 2790153,
+  "internetUsers": 2213377,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "P31,494 BWP per annum",
+  "activeMobileDevices": 4542109,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 61.4,
+  "maleCount": 1845683,
+  "femaleCount": 1759166,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Rennes",
+      "state": "Brittany",
+      "stateSlug": "brittany",
+      "citySlug": "rennes",
+      "distance": 615.8360010337066
+    },
+    {
+      "city": "Bulawayo",
+      "state": "Matabeleland North",
+      "stateSlug": "matabeleland-north",
+      "citySlug": "bulawayo",
+      "distance": 669.6225434584837
+    },
+    {
+      "city": "Harare",
+      "state": "Harare Province",
+      "stateSlug": "harare-province",
+      "citySlug": "harare",
+      "distance": 683.3241819915571
+    },
+    {
+      "city": "Windhoek",
+      "state": "Khomas Region",
+      "stateSlug": "khomas-region",
+      "citySlug": "windhoek",
+      "distance": 717.4463900394156
+    },
+    {
+      "city": "Durban",
+      "state": "KwaZulu-Natal",
+      "stateSlug": "kwazulu-natal",
+      "citySlug": "durban",
+      "distance": 762.853419497906
+    }
+  ],
+  "geohash": "ks14916",
+  "geohashUrl": "https://geohash.softeng.co/ks14916"
+}

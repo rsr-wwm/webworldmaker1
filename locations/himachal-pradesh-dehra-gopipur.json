@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-dehra-gopipur",
+  "city": "Dehra Gopipur",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "dehra-gopipur",
+  "country": "India",
+  "pincode": "177101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.9774,
+  "longitude": 70.8567,
+  "landmark": "Dehra Gopipur State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dehra Gopipur, India",
+  "population": 4253504,
+  "mobileUsers": 3143339,
+  "internetUsers": 2445764,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹10.30L per annum",
+  "activeMobileDevices": 4338574,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 57.5,
+  "maleCount": 2165034,
+  "femaleCount": 2088470,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dikchu",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "dikchu",
+      "distance": 21.59069348331093
+    },
+    {
+      "city": "Panvel",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "panvel",
+      "distance": 47.18477218404105
+    },
+    {
+      "city": "Kalol",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "kalol",
+      "distance": 47.98308942832432
+    },
+    {
+      "city": "Vaivakown",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "vaivakown",
+      "distance": 55.00878374489578
+    },
+    {
+      "city": "Khargone",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "khargone",
+      "distance": 77.59640519450848
+    }
+  ],
+  "geohash": "tsf3krh",
+  "geohashUrl": "https://geohash.softeng.co/tsf3krh"
+}

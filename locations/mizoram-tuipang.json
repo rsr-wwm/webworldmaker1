@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-tuipang",
+  "city": "Tuipang",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "tuipang",
+  "country": "India",
+  "pincode": "796911",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.8135,
+  "longitude": 79.5315,
+  "landmark": "Tuipang Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tuipang, India",
+  "population": 6647111,
+  "mobileUsers": 4905567,
+  "internetUsers": 3961678,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹11.30L per annum",
+  "activeMobileDevices": 7577706,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 59.6,
+  "maleCount": 3383379,
+  "femaleCount": 3263732,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Serampore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "serampore",
+      "distance": 56.52295861847248
+    },
+    {
+      "city": "Upper Shillong",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "upper-shillong",
+      "distance": 70.43415380366164
+    },
+    {
+      "city": "Bhadravathi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bhadravathi",
+      "distance": 98.78330072927781
+    },
+    {
+      "city": "New Grain Mandi (Kota)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "new-grain-mandi-kota",
+      "distance": 99.04459320571074
+    },
+    {
+      "city": "Parlakhemudi",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "parlakhemudi",
+      "distance": 107.91251104259165
+    }
+  ],
+  "geohash": "tfbx9uc",
+  "geohashUrl": "https://geohash.softeng.co/tfbx9uc"
+}

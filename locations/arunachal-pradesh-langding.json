@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-langding",
+  "city": "Langding",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "langding",
+  "country": "India",
+  "pincode": "786631",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.061,
+  "longitude": 70.9454,
+  "landmark": "Langding Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Langding, India",
+  "population": 3173256,
+  "mobileUsers": 2376768,
+  "internetUsers": 1894433,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.44L per annum",
+  "activeMobileDevices": 3458849,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 59.7,
+  "maleCount": 1659613,
+  "femaleCount": 1513643,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Narnaul",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "narnaul",
+      "distance": 30.859060518357026
+    },
+    {
+      "city": "Baruipur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "baruipur",
+      "distance": 37.26202974218875
+    },
+    {
+      "city": "Gudivada",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gudivada",
+      "distance": 72.37151236074956
+    },
+    {
+      "city": "Islamabad",
+      "state": "Islamabad Capital Territory",
+      "stateSlug": "islamabad-capital-territory",
+      "citySlug": "islamabad",
+      "distance": 79.46379681600197
+    },
+    {
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan",
+      "distance": 81.86142139213995
+    }
+  ],
+  "geohash": "tt67n2k",
+  "geohashUrl": "https://geohash.softeng.co/tt67n2k"
+}

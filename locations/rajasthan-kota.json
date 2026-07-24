@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-kota",
+  "city": "Kota",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "kota",
+  "country": "India",
+  "pincode": "324001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.9283,
+  "longitude": 84.6744,
+  "landmark": "Kota Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kota, India",
+  "population": 9903213,
+  "mobileUsers": 7546248,
+  "internetUsers": 6070669,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹7.07L per annum",
+  "activeMobileDevices": 11586759,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 61.3,
+  "maleCount": 5189284,
+  "femaleCount": 4713929,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kamareddy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kamareddy",
+      "distance": 21.454158967091264
+    },
+    {
+      "city": "Monghyr",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "monghyr",
+      "distance": 32.70160486788651
+    },
+    {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "madurai",
+      "distance": 35.727532399343254
+    },
+    {
+      "city": "Rampur Bushahr",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "rampur-bushahr",
+      "distance": 44.57933584054722
+    },
+    {
+      "city": "Shrikakulam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "shrikakulam",
+      "distance": 82.24796139361106
+    }
+  ],
+  "geohash": "tfu4wgd",
+  "geohashUrl": "https://geohash.softeng.co/tfu4wgd"
+}

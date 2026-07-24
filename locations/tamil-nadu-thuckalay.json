@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-thuckalay",
+  "city": "Thuckalay",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "thuckalay",
+  "country": "India",
+  "pincode": "629175",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.7547,
+  "longitude": 76.1773,
+  "landmark": "Thuckalay Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Thuckalay, India",
+  "population": 9769532,
+  "mobileUsers": 7082910,
+  "internetUsers": 5558863,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.53L per annum",
+  "activeMobileDevices": 11625743,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 56.9,
+  "maleCount": 5021539,
+  "femaleCount": 4747993,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "indore",
+      "distance": 31.499097277791343
+    },
+    {
+      "city": "Ambalmukal",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "ambalmukal",
+      "distance": 53.40785961624182
+    },
+    {
+      "city": "Madras GPO",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "madras-gpo",
+      "distance": 73.1142039293964
+    },
+    {
+      "city": "Tirupur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirupur",
+      "distance": 82.2985652791001
+    },
+    {
+      "city": "Mandgaon G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "mandgaon-gpo",
+      "distance": 90.92446227881763
+    }
+  ],
+  "geohash": "tdqnjry",
+  "geohashUrl": "https://geohash.softeng.co/tdqnjry"
+}

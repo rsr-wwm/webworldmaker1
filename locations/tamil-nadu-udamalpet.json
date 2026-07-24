@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-udamalpet",
+  "city": "Udamalpet",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "udamalpet",
+  "country": "India",
+  "pincode": "642126",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.2681,
+  "longitude": 88.7796,
+  "landmark": "Udamalpet Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Udamalpet, India",
+  "population": 1028823,
+  "mobileUsers": 763386,
+  "internetUsers": 581284,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.63L per annum",
+  "activeMobileDevices": 1224299,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 56.5,
+  "maleCount": 529844,
+  "femaleCount": 498979,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bathala",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "bathala",
+      "distance": 42.33006607855569
+    },
+    {
+      "city": "Meeo",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "meeo",
+      "distance": 70.90199078240146
+    },
+    {
+      "city": "Panaji G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "panaji-gpo",
+      "distance": 79.64813446359503
+    },
+    {
+      "city": "Himat Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "himat-nagar",
+      "distance": 81.27480084895203
+    },
+    {
+      "city": "Penursala",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "penursala",
+      "distance": 109.40891414850749
+    }
+  ],
+  "geohash": "turpspz",
+  "geohashUrl": "https://geohash.softeng.co/turpspz"
+}

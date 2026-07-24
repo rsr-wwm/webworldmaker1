@@ -1,0 +1,82 @@
+{
+  "id": "tripura-shatchand",
+  "city": "Shatchand",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "shatchand",
+  "country": "India",
+  "pincode": "799213",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.1776,
+  "longitude": 71.3572,
+  "landmark": "Shatchand Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shatchand, India",
+  "population": 4455080,
+  "mobileUsers": 3368040,
+  "internetUsers": 2552760,
+  "genderRatioText": "926 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹8.64L per annum",
+  "activeMobileDevices": 5123342,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 57.3,
+  "maleCount": 2312187,
+  "femaleCount": 2142893,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hill top",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "hill-top",
+      "distance": 43.54844952018862
+    },
+    {
+      "city": "Kanjirapally",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanjirapally",
+      "distance": 56.54496904499787
+    },
+    {
+      "city": "Una",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "una",
+      "distance": 66.4526251847785
+    },
+    {
+      "city": "Cooch Behar",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "cooch-behar",
+      "distance": 67.49570813946895
+    },
+    {
+      "city": "Shabroom",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shabroom",
+      "distance": 75.69081453018315
+    }
+  ],
+  "geohash": "ts69xc2",
+  "geohashUrl": "https://geohash.softeng.co/ts69xc2"
+}

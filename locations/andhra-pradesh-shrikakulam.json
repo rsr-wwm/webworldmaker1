@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-shrikakulam",
+  "city": "Shrikakulam",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "shrikakulam",
+  "country": "India",
+  "pincode": "532001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.1893,
+  "longitude": 83.9542,
+  "landmark": "Shrikakulam GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shrikakulam, India",
+  "population": 9442085,
+  "mobileUsers": 6807743,
+  "internetUsers": 5098725,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.12L per annum",
+  "activeMobileDevices": 10763976,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 54,
+  "maleCount": 4862674,
+  "femaleCount": 4579411,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhawani Patana",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhawani-patana",
+      "distance": 21.013088818059707
+    },
+    {
+      "city": "Rampur Bushahr",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "rampur-bushahr",
+      "distance": 50.684008871479385
+    },
+    {
+      "city": "Datia",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "datia",
+      "distance": 52.51681659663303
+    },
+    {
+      "city": "Mandvi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mandvi",
+      "distance": 58.38408041216869
+    },
+    {
+      "city": "Monghyr",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "monghyr",
+      "distance": 60.573777874528794
+    }
+  ],
+  "geohash": "tfgsn7j",
+  "geohashUrl": "https://geohash.softeng.co/tfgsn7j"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-bailhongal",
+  "city": "Bailhongal",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "bailhongal",
+  "country": "India",
+  "pincode": "591102",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.5207,
+  "longitude": 71.7056,
+  "landmark": "Bailhongal Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bailhongal, India",
+  "population": 3657019,
+  "mobileUsers": 2691565,
+  "internetUsers": 2245409,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹8.05L per annum",
+  "activeMobileDevices": 3766729,
+  "mobilePenetration": 73.6,
+  "internetPenetration": 61.4,
+  "maleCount": 1868737,
+  "femaleCount": 1788282,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bangalore (Bengaluru)",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bangalore-bengaluru",
+      "distance": 6.297204139955977
+    },
+    {
+      "city": "Guwahati",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati",
+      "distance": 67.59081272946719
+    },
+    {
+      "city": "Lalitpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lalitpur",
+      "distance": 68.94784240241178
+    },
+    {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "coimbatore",
+      "distance": 75.0072317141232
+    },
+    {
+      "city": "Udagamandalam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "udagamandalam",
+      "distance": 78.03875396628702
+    }
+  ],
+  "geohash": "tdfvzxw",
+  "geohashUrl": "https://geohash.softeng.co/tdfvzxw"
+}

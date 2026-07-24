@@ -1,0 +1,82 @@
+{
+  "id": "tripura-kailashahar",
+  "city": "Kailashahar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "kailashahar",
+  "country": "India",
+  "pincode": "799277",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.2253,
+  "longitude": 77.6686,
+  "landmark": "Kailashahar Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kailashahar, India",
+  "population": 3516158,
+  "mobileUsers": 2647666,
+  "internetUsers": 2165953,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹6.96L per annum",
+  "activeMobileDevices": 4113904,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 61.6,
+  "maleCount": 1817854,
+  "femaleCount": 1698304,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rathinasabapathipuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "rathinasabapathipuram",
+      "distance": 22.75133298733264
+    },
+    {
+      "city": "Agra Fort",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "agra-fort",
+      "distance": 23.000719098565497
+    },
+    {
+      "city": "Guwahati University",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati-university",
+      "distance": 23.895523285482245
+    },
+    {
+      "city": "Hindupur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hindupur",
+      "distance": 66.39115686330392
+    },
+    {
+      "city": "Mati",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mati",
+      "distance": 75.55123003151498
+    }
+  ],
+  "geohash": "tez0xru",
+  "geohashUrl": "https://geohash.softeng.co/tez0xru"
+}

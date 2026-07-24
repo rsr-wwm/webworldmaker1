@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-station-kachiguda",
+  "city": "Station Kachiguda",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "station-kachiguda",
+  "country": "India",
+  "pincode": "500027",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.2155,
+  "longitude": 88.401,
+  "landmark": "Station Kachiguda Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Station Kachiguda, India",
+  "population": 2267962,
+  "mobileUsers": 1689631,
+  "internetUsers": 1363045,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹8.89L per annum",
+  "activeMobileDevices": 2267962,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 60.1,
+  "maleCount": 1161197,
+  "femaleCount": 1106765,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Katwa",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "katwa",
+      "distance": 39.40524332107168
+    },
+    {
+      "city": "Nagaon (Nowgong)",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nagaon-nowgong",
+      "distance": 52.402193411745365
+    },
+    {
+      "city": "Lightmukhra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "lightmukhra",
+      "distance": 63.405789628046584
+    },
+    {
+      "city": "Bareilly",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "bareilly",
+      "distance": 73.4677724508581
+    },
+    {
+      "city": "Arakkonam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arakkonam",
+      "distance": 93.12803971307788
+    }
+  ],
+  "geohash": "tvqggse",
+  "geohashUrl": "https://geohash.softeng.co/tvqggse"
+}

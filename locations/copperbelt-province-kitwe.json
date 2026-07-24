@@ -1,0 +1,81 @@
+{
+  "id": "copperbelt-province-kitwe",
+  "city": "Kitwe",
+  "state": "Copperbelt Province",
+  "stateSlug": "copperbelt-province",
+  "citySlug": "kitwe",
+  "country": "Zambia",
+  "pincode": "10101",
+  "currency": "ZMW",
+  "symbol": "ZK",
+  "compliance": "ZICTA Guidelines",
+  "carriers": [
+    "Airtel",
+    "MTN",
+    "Zamtel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+260",
+  "timezone": "Africa/Lusaka",
+  "latitude": -15.1209,
+  "longitude": 30.0807,
+  "landmark": "Kitwe State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Airtel networks. Failovers route over MTN, Zamtel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kitwe, Zambia",
+  "population": 4670707,
+  "mobileUsers": 3624468,
+  "internetUsers": 3007935,
+  "genderRatioText": "972 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "ZK30,883 ZMW per annum",
+  "activeMobileDevices": 6212040,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 64.4,
+  "maleCount": 2368048,
+  "femaleCount": 2302659,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Lusaka",
+      "state": "Lusaka Province",
+      "stateSlug": "lusaka-province",
+      "citySlug": "lusaka",
+      "distance": 20.975018996883946
+    },
+    {
+      "city": "Lilongwe",
+      "state": "Central Region",
+      "stateSlug": "central-region",
+      "citySlug": "lilongwe",
+      "distance": 450.57742302999355
+    },
+    {
+      "city": "Bulawayo",
+      "state": "Matabeleland North",
+      "stateSlug": "matabeleland-north",
+      "citySlug": "bulawayo",
+      "distance": 529.0563017735112
+    },
+    {
+      "city": "Harare",
+      "state": "Harare Province",
+      "stateSlug": "harare-province",
+      "citySlug": "harare",
+      "distance": 551.4162719674077
+    },
+    {
+      "city": "Maputo",
+      "state": "Maputo City",
+      "stateSlug": "maputo-city",
+      "citySlug": "maputo",
+      "distance": 613.2669741888867
+    }
+  ],
+  "geohash": "ktm3ux2",
+  "geohashUrl": "https://geohash.softeng.co/ktm3ux2"
+}

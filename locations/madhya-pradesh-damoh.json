@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-damoh",
+  "city": "Damoh",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "damoh",
+  "country": "India",
+  "pincode": "470661",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.8519,
+  "longitude": 77.6869,
+  "landmark": "Damoh Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Damoh, India",
+  "population": 8194536,
+  "mobileUsers": 6236041,
+  "internetUsers": 4851165,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.10L per annum",
+  "activeMobileDevices": 9505661,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 59.2,
+  "maleCount": 4179213,
+  "femaleCount": 4015323,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Anand",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "anand",
+      "distance": 6.342569969782813
+    },
+    {
+      "city": "Borivali",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "borivali",
+      "distance": 39.473092280164295
+    },
+    {
+      "city": "Nandyal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nandyal",
+      "distance": 41.812051618848756
+    },
+    {
+      "city": "Peren",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "peren",
+      "distance": 46.405141273409875
+    },
+    {
+      "city": "Chiplun",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chiplun",
+      "distance": 52.52839102699257
+    }
+  ],
+  "geohash": "tsx5pf1",
+  "geohashUrl": "https://geohash.softeng.co/tsx5pf1"
+}

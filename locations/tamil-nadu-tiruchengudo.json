@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tiruchengudo",
+  "city": "Tiruchengudo",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tiruchengudo",
+  "country": "India",
+  "pincode": "637211",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.4319,
+  "longitude": 81.1458,
+  "landmark": "Tiruchengudo Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tiruchengudo, India",
+  "population": 2474681,
+  "mobileUsers": 1873333,
+  "internetUsers": 1370973,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹6.83L per annum",
+  "activeMobileDevices": 2796389,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 55.4,
+  "maleCount": 1269511,
+  "femaleCount": 1205170,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dibrugarh",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "dibrugarh",
+      "distance": 70.59889536813687
+    },
+    {
+      "city": "Tiruthuraipundi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruthuraipundi",
+      "distance": 76.53708952783244
+    },
+    {
+      "city": "Ratlam",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "ratlam",
+      "distance": 81.28036514636011
+    },
+    {
+      "city": "Bankura",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "bankura",
+      "distance": 118.98496267488552
+    },
+    {
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ernakulam",
+      "distance": 122.82485049586063
+    }
+  ],
+  "geohash": "tf3sqt0",
+  "geohashUrl": "https://geohash.softeng.co/tf3sqt0"
+}

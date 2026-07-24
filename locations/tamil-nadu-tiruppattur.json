@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tiruppattur",
+  "city": "Tiruppattur",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tiruppattur",
+  "country": "India",
+  "pincode": "635601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.9518,
+  "longitude": 83.0896,
+  "landmark": "Tiruppattur Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tiruppattur, India",
+  "population": 9703048,
+  "mobileUsers": 7238473,
+  "internetUsers": 5841234,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹9.04L per annum",
+  "activeMobileDevices": 10479291,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 60.2,
+  "maleCount": 4938851,
+  "femaleCount": 4764197,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ramlun",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "ramlun",
+      "distance": 21.98427953025999
+    },
+    {
+      "city": "Osmanabad",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "osmanabad",
+      "distance": 54.36095203116047
+    },
+    {
+      "city": "Bhadrak",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhadrak",
+      "distance": 57.254805361329424
+    },
+    {
+      "city": "Razole",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "razole",
+      "distance": 70.1760152564561
+    },
+    {
+      "city": "Palayamkottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "palayamkottai",
+      "distance": 99.06747170757184
+    }
+  ],
+  "geohash": "tvejfb8",
+  "geohashUrl": "https://geohash.softeng.co/tvejfb8"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-vizianagaram",
+  "city": "Vizianagaram",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "vizianagaram",
+  "country": "India",
+  "pincode": "531202",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.8986,
+  "longitude": 79.0961,
+  "landmark": "Vizianagaram Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vizianagaram, India",
+  "population": 4535914,
+  "mobileUsers": 3329360,
+  "internetUsers": 2685261,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹8.45L per annum",
+  "activeMobileDevices": 4808068,
+  "mobilePenetration": 73.4,
+  "internetPenetration": 59.2,
+  "maleCount": 2308780,
+  "femaleCount": 2227134,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chenganacherry",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chenganacherry",
+      "distance": 52.34672196626811
+    },
+    {
+      "city": "Akbarpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "akbarpur",
+      "distance": 64.54093807166853
+    },
+    {
+      "city": "Revdi Bazaar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "revdi-bazaar",
+      "distance": 74.91499190334802
+    },
+    {
+      "city": "Kathua",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "kathua",
+      "distance": 86.97769345360297
+    },
+    {
+      "city": "Guntakal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntakal",
+      "distance": 92.32685021694041
+    }
+  ],
+  "geohash": "tv24pfu",
+  "geohashUrl": "https://geohash.softeng.co/tv24pfu"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "absheron-district-baku",
+  "city": "Baku",
+  "state": "Absheron District",
+  "stateSlug": "absheron-district",
+  "citySlug": "baku",
+  "country": "Azerbaijan",
+  "pincode": "AZ1000",
+  "currency": "AZN",
+  "symbol": "₼",
+  "compliance": "MINCOM Rules",
+  "carriers": [
+    "Azercell",
+    "Bakcell",
+    "Nar Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+994",
+  "timezone": "Asia/Baku",
+  "latitude": 40.5368,
+  "longitude": 47.6857,
+  "landmark": "Baku Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Azercell networks. Failovers route over Bakcell, Nar Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Baku, Azerbaijan",
+  "population": 1099929,
+  "mobileUsers": 899741,
+  "internetUsers": 727053,
+  "genderRatioText": "986 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "₼23,918 AZN per annum",
+  "activeMobileDevices": 1517902,
+  "mobilePenetration": 81.8,
+  "internetPenetration": 66.1,
+  "maleCount": 554364,
+  "femaleCount": 545565,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Ganja",
+      "state": "Ganja District",
+      "stateSlug": "ganja-district",
+      "citySlug": "ganja",
+      "distance": 25.9719963834554
+    },
+    {
+      "city": "Gyumri",
+      "state": "Shirak Province",
+      "stateSlug": "shirak-province",
+      "citySlug": "gyumri",
+      "distance": 217.99361965186884
+    },
+    {
+      "city": "Yerevan",
+      "state": "Yerevan Municipality",
+      "stateSlug": "yerevan-municipality",
+      "citySlug": "yerevan",
+      "distance": 219.9415317458867
+    },
+    {
+      "city": "Kutaisi",
+      "state": "Imereti Region",
+      "stateSlug": "imereti-region",
+      "citySlug": "kutaisi",
+      "distance": 393.0997009804878
+    },
+    {
+      "city": "Tbilisi",
+      "state": "Tbilisi Region",
+      "stateSlug": "tbilisi-region",
+      "citySlug": "tbilisi",
+      "distance": 401.3664379938733
+    }
+  ],
+  "geohash": "tp1yt57",
+  "geohashUrl": "https://geohash.softeng.co/tp1yt57"
+}

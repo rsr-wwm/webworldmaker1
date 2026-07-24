@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-aurangabad",
+  "city": "Aurangabad",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "aurangabad",
+  "country": "India",
+  "pincode": "431001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.4029,
+  "longitude": 85.6949,
+  "landmark": "Aurangabad Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Aurangabad, India",
+  "population": 5726860,
+  "mobileUsers": 4180607,
+  "internetUsers": 3247129,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹11.19L per annum",
+  "activeMobileDevices": 6471351,
+  "mobilePenetration": 73,
+  "internetPenetration": 56.7,
+  "maleCount": 2989421,
+  "femaleCount": 2737439,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Arni",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arni",
+      "distance": 70.72691740754537
+    },
+    {
+      "city": "Korba",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "korba",
+      "distance": 74.0122495940463
+    },
+    {
+      "city": "Motihari",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "motihari",
+      "distance": 79.35270437428309
+    },
+    {
+      "city": "Ramnagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ramnagar",
+      "distance": 94.43457264201737
+    },
+    {
+      "city": "Somdal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "somdal",
+      "distance": 99.02038532577188
+    }
+  ],
+  "geohash": "tvkuyn9",
+  "geohashUrl": "https://geohash.softeng.co/tvkuyn9"
+}

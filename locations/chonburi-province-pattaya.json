@@ -1,0 +1,80 @@
+{
+  "id": "chonburi-province-pattaya",
+  "city": "Pattaya",
+  "state": "Chonburi Province",
+  "stateSlug": "chonburi-province",
+  "citySlug": "pattaya",
+  "country": "Thailand",
+  "pincode": "20150",
+  "currency": "THB",
+  "symbol": "฿",
+  "compliance": "NBTC Guidelines",
+  "carriers": [
+    "AIS",
+    "TrueMove H"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+66",
+  "timezone": "Asia/Bangkok",
+  "latitude": 15.1711,
+  "longitude": 99.955,
+  "landmark": "Pattaya Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over AIS networks. Failovers route over TrueMove H with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Pattaya, Thailand",
+  "population": 843796,
+  "mobileUsers": 666598,
+  "internetUsers": 546779,
+  "genderRatioText": "980 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "฿42,560 THB per annum",
+  "activeMobileDevices": 1139124,
+  "mobilePenetration": 79,
+  "internetPenetration": 64.8,
+  "maleCount": 426117,
+  "femaleCount": 417679,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bangkok",
+      "state": "Bangkok Metropolitan",
+      "stateSlug": "bangkok-metropolitan",
+      "citySlug": "bangkok",
+      "distance": 7.5017649571590255
+    },
+    {
+      "city": "Chiang Mai",
+      "state": "Chiang Mai Province",
+      "stateSlug": "chiang-mai-province",
+      "citySlug": "chiang-mai",
+      "distance": 8.376015741155253
+    },
+    {
+      "city": "Nonthaburi",
+      "state": "Nonthaburi Province",
+      "stateSlug": "nonthaburi-province",
+      "citySlug": "nonthaburi",
+      "distance": 14.284492479205882
+    },
+    {
+      "city": "Sihanoukville",
+      "state": "Preah Sihanouk Province",
+      "stateSlug": "preah-sihanouk-province",
+      "citySlug": "sihanoukville",
+      "distance": 589.9960224777902
+    },
+    {
+      "city": "Siem Reap",
+      "state": "Siem Reap Province",
+      "stateSlug": "siem-reap-province",
+      "citySlug": "siem-reap",
+      "distance": 607.9550608496395
+    }
+  ],
+  "geohash": "w4xn69c",
+  "geohashUrl": "https://geohash.softeng.co/w4xn69c"
+}

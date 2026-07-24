@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-bankura",
+  "city": "Bankura",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "bankura",
+  "country": "India",
+  "pincode": "722101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.8326,
+  "longitude": 82.0561,
+  "landmark": "Bankura Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bankura, India",
+  "population": 6170370,
+  "mobileUsers": 4553733,
+  "internetUsers": 3572644,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹8.82L per annum",
+  "activeMobileDevices": 7034221,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 57.9,
+  "maleCount": 3239444,
+  "femaleCount": 2930926,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dibrugarh",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "dibrugarh",
+      "distance": 49.76597609088628
+    },
+    {
+      "city": "Ratlam",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "ratlam",
+      "distance": 88.92392030130638
+    },
+    {
+      "city": "Tiruthuraipundi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruthuraipundi",
+      "distance": 98.70847447669418
+    },
+    {
+      "city": "Panna",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "panna",
+      "distance": 114.8590506717973
+    },
+    {
+      "city": "Naginimira",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "naginimira",
+      "distance": 117.96050190659399
+    }
+  ],
+  "geohash": "tf6350p",
+  "geohashUrl": "https://geohash.softeng.co/tf6350p"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-akola",
+  "city": "Akola",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "akola",
+  "country": "India",
+  "pincode": "444001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.8265,
+  "longitude": 80.8734,
+  "landmark": "Akola Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Akola, India",
+  "population": 540807,
+  "mobileUsers": 416962,
+  "internetUsers": 295821,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹11.88L per annum",
+  "activeMobileDevices": 600295,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 54.7,
+  "maleCount": 277975,
+  "femaleCount": 262832,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Etah",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "etah",
+      "distance": 5.056297257750905
+    },
+    {
+      "city": "Chikodi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chikodi",
+      "distance": 37.37457959681745
+    },
+    {
+      "city": "Nagaur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "nagaur",
+      "distance": 49.81064807556351
+    },
+    {
+      "city": "Bhopal G.P.O",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal-gpo",
+      "distance": 64.30170793814393
+    },
+    {
+      "city": "Srimadhopur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "srimadhopur",
+      "distance": 75.35505516545011
+    }
+  ],
+  "geohash": "tu3t0rd",
+  "geohashUrl": "https://geohash.softeng.co/tu3t0rd"
+}

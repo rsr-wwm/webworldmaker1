@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-akulto",
+  "city": "Akulto",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "akulto",
+  "country": "India",
+  "pincode": "798619",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.6758,
+  "longitude": 88.3869,
+  "landmark": "Akulto Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Akulto, India",
+  "population": 6509659,
+  "mobileUsers": 4765070,
+  "internetUsers": 3645409,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.42L per annum",
+  "activeMobileDevices": 7616301,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 56,
+  "maleCount": 3352474,
+  "femaleCount": 3157185,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chalakudi",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chalakudi",
+      "distance": 52.06869055479034
+    },
+    {
+      "city": "Arrah",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "arrah",
+      "distance": 84.88927835909887
+    },
+    {
+      "city": "Shorapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shorapur",
+      "distance": 94.91810719068147
+    },
+    {
+      "city": "Gonda",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gonda",
+      "distance": 106.925590152368
+    },
+    {
+      "city": "Bahror",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bahror",
+      "distance": 113.18063189198509
+    }
+  ],
+  "geohash": "tfyc5m9",
+  "geohashUrl": "https://geohash.softeng.co/tfyc5m9"
+}

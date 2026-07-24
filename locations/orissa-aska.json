@@ -1,0 +1,82 @@
+{
+  "id": "orissa-aska",
+  "city": "Aska",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "aska",
+  "country": "India",
+  "pincode": "761110",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.4786,
+  "longitude": 79.6922,
+  "landmark": "Aska GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Aska, India",
+  "population": 6258140,
+  "mobileUsers": 4862574,
+  "internetUsers": 3410686,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.19L per annum",
+  "activeMobileDevices": 7259442,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 54.5,
+  "maleCount": 3222942,
+  "femaleCount": 3035198,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Neembathana Town",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "neembathana-town",
+      "distance": 18.494578030471327
+    },
+    {
+      "city": "Bharatpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bharatpur",
+      "distance": 36.238514878369024
+    },
+    {
+      "city": "Vajapur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "vajapur",
+      "distance": 99.82639192685754
+    },
+    {
+      "city": "Sattenapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "sattenapalle",
+      "distance": 121.69552907481442
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 127.0753578999537
+    }
+  ],
+  "geohash": "tvb8v2w",
+  "geohashUrl": "https://geohash.softeng.co/tvb8v2w"
+}

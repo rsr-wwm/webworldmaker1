@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-kanker",
+  "city": "Kanker",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "kanker",
+  "country": "India",
+  "pincode": "494334",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.1685,
+  "longitude": 84.1709,
+  "landmark": "Kanker Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kanker, India",
+  "population": 3228010,
+  "mobileUsers": 2488795,
+  "internetUsers": 1891613,
+  "genderRatioText": "924 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.61L per annum",
+  "activeMobileDevices": 3679931,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 58.6,
+  "maleCount": 1678565,
+  "femaleCount": 1549445,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Arsikere",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "arsikere",
+      "distance": 17.59081475190615
+    },
+    {
+      "city": "Beed",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "beed",
+      "distance": 18.642082672873393
+    },
+    {
+      "city": "Chitradurga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chitradurga",
+      "distance": 40.66443704257224
+    },
+    {
+      "city": "Kanhangad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanhangad",
+      "distance": 45.49283086979216
+    },
+    {
+      "city": "Kathmandu",
+      "state": "Bagmati Province",
+      "stateSlug": "bagmati-province",
+      "citySlug": "kathmandu",
+      "distance": 94.20320187259323
+    }
+  ],
+  "geohash": "tugfe3g",
+  "geohashUrl": "https://geohash.softeng.co/tugfe3g"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-cherrapunji",
+  "city": "Cherrapunji",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "cherrapunji",
+  "country": "India",
+  "pincode": "793108",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.1587,
+  "longitude": 75.5638,
+  "landmark": "Cherrapunji Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Cherrapunji, India",
+  "population": 4765279,
+  "mobileUsers": 3559663,
+  "internetUsers": 2711443,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹8.44L per annum",
+  "activeMobileDevices": 5480070,
+  "mobilePenetration": 74.7,
+  "internetPenetration": 56.9,
+  "maleCount": 2449353,
+  "femaleCount": 2315926,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gangapur R.S",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "gangapur-rs",
+      "distance": 61.9279372470848
+    },
+    {
+      "city": "Porbandar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "porbandar",
+      "distance": 95.05158772521258
+    },
+    {
+      "city": "Dirang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "dirang",
+      "distance": 101.10806616904455
+    },
+    {
+      "city": "Mandya",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "mandya",
+      "distance": 103.50332449234995
+    },
+    {
+      "city": "Lucknow Chowk",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lucknow-chowk",
+      "distance": 103.93366961561335
+    }
+  ],
+  "geohash": "temszrx",
+  "geohashUrl": "https://geohash.softeng.co/temszrx"
+}

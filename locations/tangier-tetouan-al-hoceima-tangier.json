@@ -1,0 +1,81 @@
+{
+  "id": "tangier-tetouan-al-hoceima-tangier",
+  "city": "Tangier",
+  "state": "Tangier-Tetouan-Al Hoceima",
+  "stateSlug": "tangier-tetouan-al-hoceima",
+  "citySlug": "tangier",
+  "country": "Morocco",
+  "pincode": "90000",
+  "currency": "MAD",
+  "symbol": "DH",
+  "compliance": "ANRT Guidelines",
+  "carriers": [
+    "Maroc Telecom",
+    "Orange",
+    "inwi"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+212",
+  "timezone": "Africa/Casablanca",
+  "latitude": 32.0872,
+  "longitude": -4.8989,
+  "landmark": "Tangier Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Maroc Telecom networks. Failovers route over Orange, inwi with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Tangier, Morocco",
+  "population": 1255272,
+  "mobileUsers": 1029323,
+  "internetUsers": 820947,
+  "genderRatioText": "972 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "DH18,152 MAD per annum",
+  "activeMobileDevices": 1619300,
+  "mobilePenetration": 82,
+  "internetPenetration": 65.4,
+  "maleCount": 636423,
+  "femaleCount": 618849,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Casablanca",
+      "state": "Casablanca-Settat",
+      "stateSlug": "casablanca-settat",
+      "citySlug": "casablanca",
+      "distance": 12.23755001696179
+    },
+    {
+      "city": "Fez",
+      "state": "Fes-Meknes",
+      "stateSlug": "fes-meknes",
+      "citySlug": "fez",
+      "distance": 13.694402527906405
+    },
+    {
+      "city": "Marrakech",
+      "state": "Marrakesh-Safi",
+      "stateSlug": "marrakesh-safi",
+      "citySlug": "marrakech",
+      "distance": 31.542623230419522
+    },
+    {
+      "city": "Rabat",
+      "state": "Rabat-Salé-Kénitra",
+      "stateSlug": "rabat-sale-kenitra",
+      "citySlug": "rabat",
+      "distance": 32.96917860682176
+    },
+    {
+      "city": "Oran",
+      "state": "Oran Province",
+      "stateSlug": "oran-province",
+      "citySlug": "oran",
+      "distance": 561.6124701791321
+    }
+  ],
+  "geohash": "evsw892",
+  "geohashUrl": "https://geohash.softeng.co/evsw892"
+}

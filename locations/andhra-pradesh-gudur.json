@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-gudur",
+  "city": "Gudur",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "gudur",
+  "country": "India",
+  "pincode": "524101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.5246,
+  "longitude": 69.5975,
+  "landmark": "Gudur Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gudur, India",
+  "population": 2753022,
+  "mobileUsers": 2095049,
+  "internetUsers": 1596752,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹8.57L per annum",
+  "activeMobileDevices": 2835612,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 58,
+  "maleCount": 1406794,
+  "femaleCount": 1346228,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "A.I.O. Donna Paula",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "aio-donna-paula",
+      "distance": 38.17329590374953
+    },
+    {
+      "city": "Labaan",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labaan",
+      "distance": 77.81218878331985
+    },
+    {
+      "city": "Darjeeling",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "darjeeling",
+      "distance": 80.02232727964292
+    },
+    {
+      "city": "Karimganj",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "karimganj",
+      "distance": 117.60234608681327
+    },
+    {
+      "city": "Kantolim",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kantolim",
+      "distance": 119.41893289439646
+    }
+  ],
+  "geohash": "te9kz8r",
+  "geohashUrl": "https://geohash.softeng.co/te9kz8r"
+}

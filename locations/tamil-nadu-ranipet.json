@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-ranipet",
+  "city": "Ranipet",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "ranipet",
+  "country": "India",
+  "pincode": "632401",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.4073,
+  "longitude": 73.7998,
+  "landmark": "Ranipet Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ranipet, India",
+  "population": 6579905,
+  "mobileUsers": 4757271,
+  "internetUsers": 4046641,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹7.89L per annum",
+  "activeMobileDevices": 7895886,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 61.5,
+  "maleCount": 3362331,
+  "femaleCount": 3217574,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajapalayam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "rajapalayam",
+      "distance": 43.29445099426772
+    },
+    {
+      "city": "Mawphlang",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mawphlang",
+      "distance": 91.79101310674402
+    },
+    {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "pune",
+      "distance": 94.83795963138708
+    },
+    {
+      "city": "Rohtak",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "rohtak",
+      "distance": 99.2854462980323
+    },
+    {
+      "city": "North Lakhimpur",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "north-lakhimpur",
+      "distance": 105.56358589208972
+    }
+  ],
+  "geohash": "tth3x77",
+  "geohashUrl": "https://geohash.softeng.co/tth3x77"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "northern-territory-darwin",
+  "city": "Darwin",
+  "state": "Northern Territory",
+  "stateSlug": "northern-territory",
+  "citySlug": "darwin",
+  "country": "Australia",
+  "pincode": "NT 0800",
+  "currency": "AUD",
+  "symbol": "A$",
+  "compliance": "ACMA Rules",
+  "carriers": [
+    "Telstra",
+    "Optus",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+61 2",
+  "timezone": "Australia/Sydney",
+  "latitude": -12.46044,
+  "longitude": 130.8410469,
+  "landmark": "Darwin Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Telstra networks. Failovers route over Optus, Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Darwin, Australia",
+  "population": 2900241,
+  "mobileUsers": 2729126,
+  "internetUsers": 2639219,
+  "genderRatioText": "995 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "A$26,193 AUD per annum",
+  "activeMobileDevices": 3799315,
+  "mobilePenetration": 94.1,
+  "internetPenetration": 91,
+  "maleCount": 1453021,
+  "femaleCount": 1447220,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Dili",
+      "state": "Dili District",
+      "stateSlug": "dili-district",
+      "citySlug": "dili",
+      "distance": 669.603260427269
+    },
+    {
+      "city": "Medan",
+      "state": "North Sumatra",
+      "stateSlug": "north-sumatra",
+      "citySlug": "medan",
+      "distance": 1428.3898455298029
+    },
+    {
+      "city": "Bandung",
+      "state": "West Java",
+      "stateSlug": "west-java",
+      "citySlug": "bandung",
+      "distance": 1437.5017448491797
+    },
+    {
+      "city": "Semarang",
+      "state": "Central Java",
+      "stateSlug": "central-java",
+      "citySlug": "semarang",
+      "distance": 1449.113345498993
+    },
+    {
+      "city": "Palembang",
+      "state": "South Sumatra",
+      "stateSlug": "south-sumatra",
+      "citySlug": "palembang",
+      "distance": 1452.249772504047
+    }
+  ],
+  "geohash": "qvv117e",
+  "geohashUrl": "https://geohash.softeng.co/qvv117e"
+}

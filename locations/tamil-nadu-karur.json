@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-karur",
+  "city": "Karur",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "karur",
+  "country": "India",
+  "pincode": "639001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.0221,
+  "longitude": 69.2861,
+  "landmark": "Karur Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Karur, India",
+  "population": 2245913,
+  "mobileUsers": 1655237,
+  "internetUsers": 1325088,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹11.16L per annum",
+  "activeMobileDevices": 2537881,
+  "mobilePenetration": 73.7,
+  "internetPenetration": 59,
+  "maleCount": 1147662,
+  "femaleCount": 1098251,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Raibag",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "raibag",
+      "distance": 15.761869304512377
+    },
+    {
+      "city": "Krishnagiri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "krishnagiri",
+      "distance": 59.39297414096887
+    },
+    {
+      "city": "Palakkad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palakkad",
+      "distance": 63.631005616663614
+    },
+    {
+      "city": "Manamadurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "manamadurai",
+      "distance": 87.29675184041835
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai",
+      "distance": 96.04273344260875
+    }
+  ],
+  "geohash": "tdc70ss",
+  "geohashUrl": "https://geohash.softeng.co/tdc70ss"
+}

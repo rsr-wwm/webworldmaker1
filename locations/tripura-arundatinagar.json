@@ -1,0 +1,82 @@
+{
+  "id": "tripura-arundatinagar",
+  "city": "Arundatinagar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "arundatinagar",
+  "country": "India",
+  "pincode": "799003",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.8635,
+  "longitude": 85.7222,
+  "landmark": "Arundatinagar Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Arundatinagar, India",
+  "population": 7219170,
+  "mobileUsers": 5219459,
+  "internetUsers": 4114926,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹7.12L per annum",
+  "activeMobileDevices": 8157662,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 57,
+  "maleCount": 3681777,
+  "femaleCount": 3537393,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Samalkot",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "samalkot",
+      "distance": 31.46951101356026
+    },
+    {
+      "city": "Allappuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "allappuzha",
+      "distance": 33.191928278267305
+    },
+    {
+      "city": "Churachandpur",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "churachandpur",
+      "distance": 36.01212216170746
+    },
+    {
+      "city": "Chirawa",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "chirawa",
+      "distance": 75.63416780369
+    },
+    {
+      "city": "Nuzuid",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nuzuid",
+      "distance": 76.5866732425285
+    }
+  ],
+  "geohash": "tfkcntt",
+  "geohashUrl": "https://geohash.softeng.co/tfkcntt"
+}

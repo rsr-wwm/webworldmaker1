@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-mamit",
+  "city": "Mamit",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "mamit",
+  "country": "India",
+  "pincode": "796441",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.8271,
+  "longitude": 78.8282,
+  "landmark": "Mamit GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mamit, India",
+  "population": 9307072,
+  "mobileUsers": 6961689,
+  "internetUsers": 5528400,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹11.05L per annum",
+  "activeMobileDevices": 11075415,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 59.4,
+  "maleCount": 4802449,
+  "femaleCount": 4504623,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sullia",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sullia",
+      "distance": 80.66067198242821
+    },
+    {
+      "city": "Doimukh",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "doimukh",
+      "distance": 80.71018775632133
+    },
+    {
+      "city": "Kathua",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "kathua",
+      "distance": 87.18275847140255
+    },
+    {
+      "city": "Revdi Bazaar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "revdi-bazaar",
+      "distance": 94.17096267222637
+    },
+    {
+      "city": "Anna Road",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "anna-road",
+      "distance": 97.50313827499761
+    }
+  ],
+  "geohash": "tv05czb",
+  "geohashUrl": "https://geohash.softeng.co/tv05czb"
+}

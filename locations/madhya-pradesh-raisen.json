@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-raisen",
+  "city": "Raisen",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "raisen",
+  "country": "India",
+  "pincode": "464551",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.9103,
+  "longitude": 80.5704,
+  "landmark": "Raisen Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Raisen, India",
+  "population": 8324408,
+  "mobileUsers": 6060169,
+  "internetUsers": 5144484,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.64L per annum",
+  "activeMobileDevices": 9073604,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 61.8,
+  "maleCount": 4287070,
+  "femaleCount": 4037338,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "salem",
+      "distance": 26.776769522741954
+    },
+    {
+      "city": "Chamba",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "chamba",
+      "distance": 42.551820673332585
+    },
+    {
+      "city": "Upling",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "upling",
+      "distance": 49.57123885555661
+    },
+    {
+      "city": "Nongstoin",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nongstoin",
+      "distance": 59.44651043685383
+    },
+    {
+      "city": "Navsari",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "navsari",
+      "distance": 63.12979736145573
+    }
+  ],
+  "geohash": "tucqc2v",
+  "geohashUrl": "https://geohash.softeng.co/tucqc2v"
+}

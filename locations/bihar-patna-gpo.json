@@ -1,0 +1,82 @@
+{
+  "id": "bihar-patna-gpo",
+  "city": "Patna G.P.O",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "patna-gpo",
+  "country": "India",
+  "pincode": "800001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "post_office",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.0723,
+  "longitude": 88.1428,
+  "landmark": "Patna Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Patna G.P.O, India",
+  "population": 15563,
+  "mobileUsers": 11890,
+  "internetUsers": 8684,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹3.09L per annum",
+  "activeMobileDevices": 18519,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 55.8,
+  "maleCount": 8124,
+  "femaleCount": 7439,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Avadi Camp",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "avadi-camp",
+      "distance": 13.396591491296284
+    },
+    {
+      "city": "Along",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "along",
+      "distance": 29.851849344503698
+    },
+    {
+      "city": "Panaji G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "panaji-gpo",
+      "distance": 47.750027311558995
+    },
+    {
+      "city": "Bhattason",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bhattason",
+      "distance": 55.78837566507542
+    },
+    {
+      "city": "Meeo",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "meeo",
+      "distance": 62.018358606948034
+    }
+  ],
+  "geohash": "tuwsmdr",
+  "geohashUrl": "https://geohash.softeng.co/tuwsmdr"
+}

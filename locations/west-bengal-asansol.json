@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-asansol",
+  "city": "Asansol",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "asansol",
+  "country": "India",
+  "pincode": "713301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.4054,
+  "longitude": 68.8823,
+  "landmark": "Asansol District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Asansol, India",
+  "population": 9126705,
+  "mobileUsers": 6644241,
+  "internetUsers": 5120081,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.76L per annum",
+  "activeMobileDevices": 9400506,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 56.1,
+  "maleCount": 4663746,
+  "femaleCount": 4462959,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bodinayakanur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "bodinayakanur",
+      "distance": 56.11065998217268
+    },
+    {
+      "city": "Nangthumai",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangthumai",
+      "distance": 59.69203691334488
+    },
+    {
+      "city": "Shiroda",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "shiroda",
+      "distance": 86.24101284546485
+    },
+    {
+      "city": "Hubli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hubli",
+      "distance": 86.83011657974554
+    },
+    {
+      "city": "Margo",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "margo",
+      "distance": 101.37733132269186
+    }
+  ],
+  "geohash": "tsbgzmn",
+  "geohashUrl": "https://geohash.softeng.co/tsbgzmn"
+}

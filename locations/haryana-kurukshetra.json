@@ -1,0 +1,82 @@
+{
+  "id": "haryana-kurukshetra",
+  "city": "Kurukshetra",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "kurukshetra",
+  "country": "India",
+  "pincode": "132118",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.0693,
+  "longitude": 84.1342,
+  "landmark": "Kurukshetra Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kurukshetra, India",
+  "population": 966686,
+  "mobileUsers": 743381,
+  "internetUsers": 523943,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.73L per annum",
+  "activeMobileDevices": 1150356,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 54.2,
+  "maleCount": 506543,
+  "femaleCount": 460143,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sirohi",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sirohi",
+      "distance": 20.399304706026594
+    },
+    {
+      "city": "Kumar ghat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kumar-ghat",
+      "distance": 60.5964185358385
+    },
+    {
+      "city": "Allahabad Kacheri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "allahabad-kacheri",
+      "distance": 72.27859860712911
+    },
+    {
+      "city": "Ramdurg",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "ramdurg",
+      "distance": 78.82523119808796
+    },
+    {
+      "city": "Shajapur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shajapur",
+      "distance": 93.02120689427896
+    }
+  ],
+  "geohash": "tgef4t8",
+  "geohashUrl": "https://geohash.softeng.co/tgef4t8"
+}

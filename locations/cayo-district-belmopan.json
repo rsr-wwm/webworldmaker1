@@ -1,0 +1,80 @@
+{
+  "id": "cayo-district-belmopan",
+  "city": "Belmopan",
+  "state": "Cayo District",
+  "stateSlug": "cayo-district",
+  "citySlug": "belmopan",
+  "country": "Belize",
+  "pincode": "00000",
+  "currency": "BZD",
+  "symbol": "BZ$",
+  "compliance": "PUC Guidelines",
+  "carriers": [
+    "Digi",
+    "Smart"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+501",
+  "timezone": "America/Belize",
+  "latitude": 17.1588,
+  "longitude": -88.693,
+  "landmark": "Belmopan Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Digi networks. Failovers route over Smart with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Belmopan, Belize",
+  "population": 2795233,
+  "mobileUsers": 2157919,
+  "internetUsers": 1705092,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "BZ$30,864 BZD per annum",
+  "activeMobileDevices": 3438136,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 61,
+  "maleCount": 1431159,
+  "femaleCount": 1364074,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Guatemala City",
+      "state": "Guatemala Department",
+      "stateSlug": "guatemala-department",
+      "citySlug": "guatemala-city",
+      "distance": 252.54447316218386
+    },
+    {
+      "city": "Tegucigalpa",
+      "state": "Francisco Morazan Department",
+      "stateSlug": "francisco-morazan-department",
+      "citySlug": "tegucigalpa",
+      "distance": 348.4457420087389
+    },
+    {
+      "city": "San Salvador",
+      "state": "San Salvador Department",
+      "stateSlug": "san-salvador-department",
+      "citySlug": "san-salvador",
+      "distance": 382.3143864993643
+    },
+    {
+      "city": "Managua",
+      "state": "Managua Department",
+      "stateSlug": "managua-department",
+      "citySlug": "managua",
+      "distance": 622.9462824178847
+    },
+    {
+      "city": "George Town",
+      "state": "Grand Cayman",
+      "stateSlug": "grand-cayman",
+      "citySlug": "george-town",
+      "distance": 922.1567559895401
+    }
+  ],
+  "geohash": "d50ctex",
+  "geohashUrl": "https://geohash.softeng.co/d50ctex"
+}

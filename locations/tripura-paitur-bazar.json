@@ -1,0 +1,82 @@
+{
+  "id": "tripura-paitur-bazar",
+  "city": "Paitur Bazar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "paitur-bazar",
+  "country": "India",
+  "pincode": "799279",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.4532,
+  "longitude": 89.1145,
+  "landmark": "Paitur Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Paitur Bazar, India",
+  "population": 36978,
+  "mobileUsers": 27400,
+  "internetUsers": 20559,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹3.69L per annum",
+  "activeMobileDevices": 42154,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 55.6,
+  "maleCount": 18970,
+  "femaleCount": 18008,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Muddebihal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "muddebihal",
+      "distance": 59.87849155619368
+    },
+    {
+      "city": "Tripuradam Chera",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "tripuradam-chera",
+      "distance": 96.24074288807219
+    },
+    {
+      "city": "Rae Bareli",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "rae-bareli",
+      "distance": 107.97266796382341
+    },
+    {
+      "city": "Shrikalahasti",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "shrikalahasti",
+      "distance": 118.25422429059346
+    },
+    {
+      "city": "Tekkali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tekkali",
+      "distance": 120.47835132181257
+    }
+  ],
+  "geohash": "tgp77c7",
+  "geohashUrl": "https://geohash.softeng.co/tgp77c7"
+}

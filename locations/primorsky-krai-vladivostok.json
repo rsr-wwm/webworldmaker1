@@ -1,0 +1,82 @@
+{
+  "id": "primorsky-krai-vladivostok",
+  "city": "Vladivostok",
+  "state": "Primorsky Krai",
+  "stateSlug": "primorsky-krai",
+  "citySlug": "vladivostok",
+  "country": "Russia",
+  "pincode": "690000",
+  "currency": "RUB",
+  "symbol": "₽",
+  "compliance": "Roskomnadzor Rules",
+  "carriers": [
+    "MTS",
+    "MegaFon",
+    "Beeline",
+    "Tele2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+7",
+  "timezone": "Asia/Anadyr",
+  "latitude": 59.9975,
+  "longitude": 100.1102,
+  "landmark": "Vladivostok Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over MTS networks. Failovers route over MegaFon, Beeline, Tele2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Vladivostok, Russia",
+  "population": 4835349,
+  "mobileUsers": 4124552,
+  "internetUsers": 3505628,
+  "genderRatioText": "983 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "₽39,922 RUB per annum",
+  "activeMobileDevices": 5125469,
+  "mobilePenetration": 85.3,
+  "internetPenetration": 72.5,
+  "maleCount": 2437016,
+  "femaleCount": 2398333,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Rostov-on-Don",
+      "state": "Rostov Oblast",
+      "stateSlug": "rostov-oblast",
+      "citySlug": "rostov-on-don",
+      "distance": 5.606048020849784
+    },
+    {
+      "city": "Samara",
+      "state": "Samara Oblast",
+      "stateSlug": "samara-oblast",
+      "citySlug": "samara",
+      "distance": 7.259314149617166
+    },
+    {
+      "city": "Moscow",
+      "state": "Central Federal District",
+      "stateSlug": "central-federal-district",
+      "citySlug": "moscow",
+      "distance": 10.992243310863138
+    },
+    {
+      "city": "Krasnoyarsk",
+      "state": "Krasnoyarsk Krai",
+      "stateSlug": "krasnoyarsk-krai",
+      "citySlug": "krasnoyarsk",
+      "distance": 13.88771559512736
+    },
+    {
+      "city": "Nizhny Novgorod",
+      "state": "Nizhny Novgorod Oblast",
+      "stateSlug": "nizhny-novgorod-oblast",
+      "citySlug": "nizhny-novgorod",
+      "distance": 16.021428816939526
+    }
+  ],
+  "geohash": "y4xjq44",
+  "geohashUrl": "https://geohash.softeng.co/y4xjq44"
+}

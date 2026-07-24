@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-raniganj",
+  "city": "Raniganj",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "raniganj",
+  "country": "India",
+  "pincode": "713347",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.0248,
+  "longitude": 77.4743,
+  "landmark": "Raniganj Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Raniganj, India",
+  "population": 1007117,
+  "mobileUsers": 784544,
+  "internetUsers": 617362,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹8.03L per annum",
+  "activeMobileDevices": 1107828,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 61.3,
+  "maleCount": 515644,
+  "femaleCount": 491473,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kolosib",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kolosib",
+      "distance": 80.33576831629911
+    },
+    {
+      "city": "Chiplun",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chiplun",
+      "distance": 81.92420325008584
+    },
+    {
+      "city": "Nasirabad",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "nasirabad",
+      "distance": 85.77893478315423
+    },
+    {
+      "city": "Borivali",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "borivali",
+      "distance": 102.677429639051
+    },
+    {
+      "city": "Chareelum",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "chareelum",
+      "distance": 112.3311093822165
+    }
+  ],
+  "geohash": "tsz1dzx",
+  "geohashUrl": "https://geohash.softeng.co/tsz1dzx"
+}

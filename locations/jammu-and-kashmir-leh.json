@@ -1,0 +1,82 @@
+{
+  "id": "jammu-and-kashmir-leh",
+  "city": "Leh",
+  "state": "Jammu & Kashmir",
+  "stateSlug": "jammu-and-kashmir",
+  "citySlug": "leh",
+  "country": "India",
+  "pincode": "194101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.8916,
+  "longitude": 79.3976,
+  "landmark": "Leh Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Leh, India",
+  "population": 5130967,
+  "mobileUsers": 3709689,
+  "internetUsers": 2847686,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹6.34L per annum",
+  "activeMobileDevices": 5541444,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 55.5,
+  "maleCount": 2621924,
+  "femaleCount": 2509043,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sehore",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sehore",
+      "distance": 44.20568198076544
+    },
+    {
+      "city": "Namakkal",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "namakkal",
+      "distance": 48.83974043512813
+    },
+    {
+      "city": "Giribam",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "giribam",
+      "distance": 56.16112776199291
+    },
+    {
+      "city": "Bokshanagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "bokshanagar",
+      "distance": 65.06628827981704
+    },
+    {
+      "city": "Chinchbunder",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chinchbunder",
+      "distance": 67.25012055232514
+    }
+  ],
+  "geohash": "tg27qxp",
+  "geohashUrl": "https://geohash.softeng.co/tg27qxp"
+}

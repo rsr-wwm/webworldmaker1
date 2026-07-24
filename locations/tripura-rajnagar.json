@@ -1,0 +1,82 @@
+{
+  "id": "tripura-rajnagar",
+  "city": "Rajnagar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "rajnagar",
+  "country": "India",
+  "pincode": "799158",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.4161,
+  "longitude": 82.6676,
+  "landmark": "Rajnagar Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rajnagar, India",
+  "population": 6178608,
+  "mobileUsers": 4751349,
+  "internetUsers": 3812201,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹7.11L per annum",
+  "activeMobileDevices": 7105399,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 61.7,
+  "maleCount": 3181983,
+  "femaleCount": 2996625,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bishanpur",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "bishanpur",
+      "distance": 35.42340495629748
+    },
+    {
+      "city": "Hoshangabad",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "hoshangabad",
+      "distance": 61.36848081923805
+    },
+    {
+      "city": "Khowai",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "khowai",
+      "distance": 78.82427778324315
+    },
+    {
+      "city": "Kanchanpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kanchanpur",
+      "distance": 87.3523791145341
+    },
+    {
+      "city": "Anantapur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "anantapur",
+      "distance": 88.54350769165708
+    }
+  ],
+  "geohash": "tudy30u",
+  "geohashUrl": "https://geohash.softeng.co/tudy30u"
+}

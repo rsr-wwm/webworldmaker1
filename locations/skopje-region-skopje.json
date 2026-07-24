@@ -1,0 +1,80 @@
+{
+  "id": "skopje-region-skopje",
+  "city": "Skopje",
+  "state": "Skopje Region",
+  "stateSlug": "skopje-region",
+  "citySlug": "skopje",
+  "country": "North Macedonia",
+  "pincode": "1000",
+  "currency": "MKD",
+  "symbol": "ден",
+  "compliance": "AEK Rules",
+  "carriers": [
+    "Maktel",
+    "A1"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+389",
+  "timezone": "Europe/Skopje",
+  "latitude": 41.6476,
+  "longitude": 21.9669,
+  "landmark": "Skopje Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Maktel networks. Failovers route over A1 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Skopje, North Macedonia",
+  "population": 3446837,
+  "mobileUsers": 2678192,
+  "internetUsers": 2209422,
+  "genderRatioText": "1,009 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "ден20,228 MKD per annum",
+  "activeMobileDevices": 4274077,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 64.1,
+  "maleCount": 1716525,
+  "femaleCount": 1730312,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bitola",
+      "state": "Pelagonia Region",
+      "stateSlug": "pelagonia-region",
+      "citySlug": "bitola",
+      "distance": 15.920149621335703
+    },
+    {
+      "city": "Tirana",
+      "state": "Tirana County",
+      "stateSlug": "tirana-county",
+      "citySlug": "tirana",
+      "distance": 184.2497165496166
+    },
+    {
+      "city": "Podgorica",
+      "state": "Podgorica Municipality",
+      "stateSlug": "podgorica-municipality",
+      "citySlug": "podgorica",
+      "distance": 259.8112687143763
+    },
+    {
+      "city": "Belgrade",
+      "state": "Belgrade City",
+      "stateSlug": "belgrade-city",
+      "citySlug": "belgrade",
+      "distance": 261.4942738022065
+    },
+    {
+      "city": "Novi Sad",
+      "state": "Vojvodina",
+      "stateSlug": "vojvodina",
+      "citySlug": "novi-sad",
+      "distance": 276.54971611740405
+    }
+  ],
+  "geohash": "srrsgve",
+  "geohashUrl": "https://geohash.softeng.co/srrsgve"
+}

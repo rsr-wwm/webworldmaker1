@@ -1,0 +1,81 @@
+{
+  "id": "south-sulawesi-makassar",
+  "city": "Makassar",
+  "state": "South Sulawesi",
+  "stateSlug": "south-sulawesi",
+  "citySlug": "makassar",
+  "country": "Indonesia",
+  "pincode": "90111",
+  "currency": "IDR",
+  "symbol": "Rp",
+  "compliance": "SDPPI Regulations",
+  "carriers": [
+    "Telkomsel",
+    "Indosat Ooredoo",
+    "XL Axiata"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+62",
+  "timezone": "Asia/Jakarta",
+  "latitude": -4.9881,
+  "longitude": 119.8199,
+  "landmark": "Makassar Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Telkomsel networks. Failovers route over Indosat Ooredoo, XL Axiata with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Makassar, Indonesia",
+  "population": 4582439,
+  "mobileUsers": 3647621,
+  "internetUsers": 3083981,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "Rp24,844 IDR per annum",
+  "activeMobileDevices": 5544751,
+  "mobilePenetration": 79.6,
+  "internetPenetration": 67.3,
+  "maleCount": 2332461,
+  "femaleCount": 2249978,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Surabaya",
+      "state": "East Java",
+      "stateSlug": "east-java",
+      "citySlug": "surabaya",
+      "distance": 5.864571406569251
+    },
+    {
+      "city": "Jakarta",
+      "state": "Special Capital Region",
+      "stateSlug": "special-capital-region",
+      "citySlug": "jakarta",
+      "distance": 9.991139813596241
+    },
+    {
+      "city": "Semarang",
+      "state": "Central Java",
+      "stateSlug": "central-java",
+      "citySlug": "semarang",
+      "distance": 25.720337961514904
+    },
+    {
+      "city": "Bandung",
+      "state": "West Java",
+      "stateSlug": "west-java",
+      "citySlug": "bandung",
+      "distance": 32.10271005407731
+    },
+    {
+      "city": "Palembang",
+      "state": "South Sumatra",
+      "stateSlug": "south-sumatra",
+      "citySlug": "palembang",
+      "distance": 36.92806749994391
+    }
+  ],
+  "geohash": "qxj5wef",
+  "geohashUrl": "https://geohash.softeng.co/qxj5wef"
+}

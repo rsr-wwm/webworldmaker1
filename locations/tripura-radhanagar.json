@@ -1,0 +1,82 @@
+{
+  "id": "tripura-radhanagar",
+  "city": "Radhanagar",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "radhanagar",
+  "country": "India",
+  "pincode": "799153",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.5191,
+  "longitude": 85.9375,
+  "landmark": "Radhanagar Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Radhanagar, India",
+  "population": 3891316,
+  "mobileUsers": 2910704,
+  "internetUsers": 2342572,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹11.21L per annum",
+  "activeMobileDevices": 4397187,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 60.2,
+  "maleCount": 2042941,
+  "femaleCount": 1848375,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Baghmara",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "baghmara",
+      "distance": 49.63264331135666
+    },
+    {
+      "city": "Shahjahanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "shahjahanpur",
+      "distance": 60.70064456899463
+    },
+    {
+      "city": "Gokak",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "gokak",
+      "distance": 78.75401174241188
+    },
+    {
+      "city": "Chengannur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chengannur",
+      "distance": 81.46803554295616
+    },
+    {
+      "city": "Bada bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bada-bazar",
+      "distance": 105.52284302560135
+    }
+  ],
+  "geohash": "tcv5gdc",
+  "geohashUrl": "https://geohash.softeng.co/tcv5gdc"
+}

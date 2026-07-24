@@ -1,0 +1,82 @@
+{
+  "id": "orissa-sundargargh",
+  "city": "Sundargargh",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "sundargargh",
+  "country": "India",
+  "pincode": "770001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.0446,
+  "longitude": 84.9141,
+  "landmark": "Sundargargh Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sundargargh, India",
+  "population": 3382781,
+  "mobileUsers": 2513406,
+  "internetUsers": 1962012,
+  "genderRatioText": "919 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.35L per annum",
+  "activeMobileDevices": 3416608,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 58,
+  "maleCount": 1762429,
+  "femaleCount": 1620352,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Park Town",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "park-town",
+      "distance": 17.285021941435154
+    },
+    {
+      "city": "Banka",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "banka",
+      "distance": 31.67744684372422
+    },
+    {
+      "city": "Gulbarga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "gulbarga",
+      "distance": 37.727743594813695
+    },
+    {
+      "city": "Gorakhpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gorakhpur",
+      "distance": 42.856105637571495
+    },
+    {
+      "city": "Kanchipuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kanchipuram",
+      "distance": 44.31840550595439
+    }
+  ],
+  "geohash": "tuskhm2",
+  "geohashUrl": "https://geohash.softeng.co/tuskhm2"
+}

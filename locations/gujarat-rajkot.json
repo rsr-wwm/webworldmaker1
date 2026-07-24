@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-rajkot",
+  "city": "Rajkot",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "rajkot",
+  "country": "India",
+  "pincode": "360001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.7851,
+  "longitude": 69.8809,
+  "landmark": "Rajkot Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rajkot, India",
+  "population": 5511444,
+  "mobileUsers": 4221766,
+  "internetUsers": 3395049,
+  "genderRatioText": "931 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹11.00L per annum",
+  "activeMobileDevices": 5566558,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 61.6,
+  "maleCount": 2854928,
+  "femaleCount": 2656516,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mriyalguda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mriyalguda",
+      "distance": 16.32058896793861
+    },
+    {
+      "city": "Lahore",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "lahore",
+      "distance": 19.229187614796054
+    },
+    {
+      "city": "Karachi",
+      "state": "Sindh",
+      "stateSlug": "sindh",
+      "citySlug": "karachi",
+      "distance": 24.54974651137713
+    },
+    {
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan",
+      "distance": 25.826069242794322
+    },
+    {
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi",
+      "distance": 28.97790445659331
+    }
+  ],
+  "geohash": "tt39qnj",
+  "geohashUrl": "https://geohash.softeng.co/tt39qnj"
+}

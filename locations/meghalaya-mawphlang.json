@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-mawphlang",
+  "city": "Mawphlang",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "mawphlang",
+  "country": "India",
+  "pincode": "793121",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.2327,
+  "longitude": 73.8142,
+  "landmark": "Mawphlang Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mawphlang, India",
+  "population": 9207665,
+  "mobileUsers": 6749218,
+  "internetUsers": 5699544,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹11.41L per annum",
+  "activeMobileDevices": 9668048,
+  "mobilePenetration": 73.3,
+  "internetPenetration": 61.9,
+  "maleCount": 4751155,
+  "femaleCount": 4456510,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rohtak",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "rohtak",
+      "distance": 19.31041147889794
+    },
+    {
+      "city": "Barabazar",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barabazar",
+      "distance": 70.33406570324418
+    },
+    {
+      "city": "Makrana",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "makrana",
+      "distance": 76.01090496932157
+    },
+    {
+      "city": "Dehradun",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dehradun",
+      "distance": 82.78623702110855
+    },
+    {
+      "city": "Hissar",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "hissar",
+      "distance": 88.72730196687945
+    }
+  ],
+  "geohash": "tthqr9t",
+  "geohashUrl": "https://geohash.softeng.co/tthqr9t"
+}

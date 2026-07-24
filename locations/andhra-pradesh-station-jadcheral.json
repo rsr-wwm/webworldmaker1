@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-station-jadcheral",
+  "city": "Station Jadcheral",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "station-jadcheral",
+  "country": "India",
+  "pincode": "509301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.6314,
+  "longitude": 85.973,
+  "landmark": "Station Jadcheral Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Station Jadcheral, India",
+  "population": 5691450,
+  "mobileUsers": 4114918,
+  "internetUsers": 3272583,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.08L per annum",
+  "activeMobileDevices": 5976022,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 57.5,
+  "maleCount": 2942480,
+  "femaleCount": 2748970,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhopal C.I.T. Nagar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal-cit-nagar",
+      "distance": 38.79043637655276
+    },
+    {
+      "city": "Kadamtala",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "kadamtala",
+      "distance": 62.44832839831113
+    },
+    {
+      "city": "Baleshwar",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "baleshwar",
+      "distance": 67.83276699400284
+    },
+    {
+      "city": "Chuchaimalang",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chuchaimalang",
+      "distance": 68.43774955998983
+    },
+    {
+      "city": "Nanglayer",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nanglayer",
+      "distance": 69.1111886292117
+    }
+  ],
+  "geohash": "tuj0srg",
+  "geohashUrl": "https://geohash.softeng.co/tuj0srg"
+}

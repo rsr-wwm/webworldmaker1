@@ -1,0 +1,81 @@
+{
+  "id": "davao-region-davao-city",
+  "city": "Davao City",
+  "state": "Davao Region",
+  "stateSlug": "davao-region",
+  "citySlug": "davao-city",
+  "country": "Philippines",
+  "pincode": "8000",
+  "currency": "PHP",
+  "symbol": "₱",
+  "compliance": "NTC Regulations",
+  "carriers": [
+    "Smart",
+    "Globe",
+    "Dito"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+63",
+  "timezone": "Asia/Manila",
+  "latitude": 13.0046,
+  "longitude": 121.9403,
+  "landmark": "Davao City State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Smart networks. Failovers route over Globe, Dito with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Davao City, Philippines",
+  "population": 4359704,
+  "mobileUsers": 3370051,
+  "internetUsers": 2764052,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₱28,890 PHP per annum",
+  "activeMobileDevices": 5972794,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 63.4,
+  "maleCount": 2232168,
+  "femaleCount": 2127536,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Manila",
+      "state": "Metro Manila",
+      "stateSlug": "metro-manila",
+      "citySlug": "manila",
+      "distance": 5.451552828155525
+    },
+    {
+      "city": "Cebu",
+      "state": "Cebu Province",
+      "stateSlug": "cebu-province",
+      "citySlug": "cebu",
+      "distance": 8.904455595633225
+    },
+    {
+      "city": "Iloilo City",
+      "state": "Western Visayas",
+      "stateSlug": "western-visayas",
+      "citySlug": "iloilo-city",
+      "distance": 23.509264175655893
+    },
+    {
+      "city": "Cagayan de Oro",
+      "state": "Northern Mindanao",
+      "stateSlug": "northern-mindanao",
+      "citySlug": "cagayan-de-oro",
+      "distance": 28.28030830421896
+    },
+    {
+      "city": "Kaohsiung",
+      "state": "Kaohsiung Municipality",
+      "stateSlug": "kaohsiung-municipality",
+      "citySlug": "kaohsiung",
+      "distance": 1151.3914345274238
+    }
+  ],
+  "geohash": "wdq9yz6",
+  "geohashUrl": "https://geohash.softeng.co/wdq9yz6"
+}

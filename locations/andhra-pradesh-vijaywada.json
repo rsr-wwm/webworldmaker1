@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-vijaywada",
+  "city": "Vijaywada",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "vijaywada",
+  "country": "India",
+  "pincode": "520001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.682,
+  "longitude": 80.3027,
+  "landmark": "Vijaywada Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vijaywada, India",
+  "population": 5118399,
+  "mobileUsers": 3905338,
+  "internetUsers": 2937961,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹9.76L per annum",
+  "activeMobileDevices": 6039710,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 57.4,
+  "maleCount": 2610383,
+  "femaleCount": 2508016,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thodupuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thodupuzha",
+      "distance": 31.27251723167113
+    },
+    {
+      "city": "Yonghong",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "yonghong",
+      "distance": 57.96731995707893
+    },
+    {
+      "city": "Palai",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palai",
+      "distance": 59.17707236706417
+    },
+    {
+      "city": "Pagaiyangdong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "pagaiyangdong",
+      "distance": 93.28243219624474
+    },
+    {
+      "city": "Daporizo",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "daporizo",
+      "distance": 93.47470999935541
+    }
+  ],
+  "geohash": "tgc5774",
+  "geohashUrl": "https://geohash.softeng.co/tgc5774"
+}

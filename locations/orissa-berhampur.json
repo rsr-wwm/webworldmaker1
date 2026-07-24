@@ -1,0 +1,82 @@
+{
+  "id": "orissa-berhampur",
+  "city": "Berhampur",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "berhampur",
+  "country": "India",
+  "pincode": "760001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.1342,
+  "longitude": 76.6109,
+  "landmark": "Berhampur GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Berhampur, India",
+  "population": 5109412,
+  "mobileUsers": 3913809,
+  "internetUsers": 3004334,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹7.63L per annum",
+  "activeMobileDevices": 5824729,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 58.8,
+  "maleCount": 2605800,
+  "femaleCount": 2503612,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Aruppukottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "aruppukottai",
+      "distance": 17.007998209332605
+    },
+    {
+      "city": "Durg",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "durg",
+      "distance": 44.995139758838306
+    },
+    {
+      "city": "Rajampet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "rajampet",
+      "distance": 46.94945573204564
+    },
+    {
+      "city": "Nanjangud",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "nanjangud",
+      "distance": 95.91032756987482
+    },
+    {
+      "city": "Bhuj",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhuj",
+      "distance": 96.20532561232174
+    }
+  ],
+  "geohash": "tdy7z34",
+  "geohashUrl": "https://geohash.softeng.co/tdy7z34"
+}

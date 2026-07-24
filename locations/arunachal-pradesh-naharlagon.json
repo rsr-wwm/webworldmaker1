@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-naharlagon",
+  "city": "Naharlagon",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "naharlagon",
+  "country": "India",
+  "pincode": "791110",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.3225,
+  "longitude": 86.7517,
+  "landmark": "Naharlagon Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Naharlagon, India",
+  "population": 691127,
+  "mobileUsers": 516962,
+  "internetUsers": 427807,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹8.79L per annum",
+  "activeMobileDevices": 801707,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 61.9,
+  "maleCount": 355239,
+  "femaleCount": 335888,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gadag",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "gadag",
+      "distance": 34.27953698662501
+    },
+    {
+      "city": "Marwar Jn.",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "marwar-jn",
+      "distance": 79.05802711005627
+    },
+    {
+      "city": "Ingkiyong",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "ingkiyong",
+      "distance": 88.79064057404638
+    },
+    {
+      "city": "Korba",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "korba",
+      "distance": 90.81447662873984
+    },
+    {
+      "city": "Mavli Jn.",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "mavli-jn",
+      "distance": 103.52921578366603
+    }
+  ],
+  "geohash": "tvjwy1f",
+  "geohashUrl": "https://geohash.softeng.co/tvjwy1f"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-saitul",
+  "city": "Saitul",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "saitul",
+  "country": "India",
+  "pincode": "796261",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.1862,
+  "longitude": 77.2871,
+  "landmark": "Saitul Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Saitul, India",
+  "population": 1368128,
+  "mobileUsers": 1065771,
+  "internetUsers": 744261,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.40L per annum",
+  "activeMobileDevices": 1628072,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 54.4,
+  "maleCount": 697745,
+  "femaleCount": 670383,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hukeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hukeri",
+      "distance": 44.09213934265158
+    },
+    {
+      "city": "Ramgarh Cantt.",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "ramgarh-cantt",
+      "distance": 48.06098508710288
+    },
+    {
+      "city": "Bharuch",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bharuch",
+      "distance": 59.08521221014035
+    },
+    {
+      "city": "Rajampet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "rajampet",
+      "distance": 90.43685542592594
+    },
+    {
+      "city": "Dabki",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "dabki",
+      "distance": 94.82800839915109
+    }
+  ],
+  "geohash": "tency8w",
+  "geohashUrl": "https://geohash.softeng.co/tency8w"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "north-carolina-raleigh",
+  "city": "Raleigh",
+  "state": "North Carolina",
+  "stateSlug": "north-carolina",
+  "citySlug": "raleigh",
+  "country": "United States",
+  "pincode": "27601",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/New_York",
+  "latitude": 25.3685,
+  "longitude": -91.566,
+  "landmark": "Raleigh GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Raleigh, United States",
+  "population": 4169091,
+  "mobileUsers": 4023172,
+  "internetUsers": 3731336,
+  "genderRatioText": "986 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "$101,702 per annum",
+  "activeMobileDevices": 5086291,
+  "mobilePenetration": 96.5,
+  "internetPenetration": 89.5,
+  "maleCount": 2101222,
+  "femaleCount": 2067869,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "citySlug": "milwaukee",
+      "distance": 351.17100525111283
+    },
+    {
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham",
+      "distance": 396.9741213011307
+    },
+    {
+      "city": "Spokane",
+      "state": "Washington",
+      "stateSlug": "washington",
+      "citySlug": "spokane",
+      "distance": 480.8966522459964
+    },
+    {
+      "city": "Providence",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "citySlug": "providence",
+      "distance": 601.1714421377967
+    },
+    {
+      "city": "Miami",
+      "state": "Florida",
+      "stateSlug": "florida",
+      "citySlug": "miami",
+      "distance": 648.4137872010376
+    }
+  ],
+  "geohash": "9uwbk65",
+  "geohashUrl": "https://geohash.softeng.co/9uwbk65"
+}

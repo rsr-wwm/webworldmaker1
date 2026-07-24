@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-gudiyattam",
+  "city": "Gudiyattam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "gudiyattam",
+  "country": "India",
+  "pincode": "632602",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.5911,
+  "longitude": 73.0767,
+  "landmark": "Gudiyattam Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gudiyattam, India",
+  "population": 4358289,
+  "mobileUsers": 3151042,
+  "internetUsers": 2401417,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹8.33L per annum",
+  "activeMobileDevices": 4968449,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 55.1,
+  "maleCount": 2227086,
+  "femaleCount": 2131203,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gandhinagar (Jammu)",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "gandhinagar-jammu",
+      "distance": 85.23950795748497
+    },
+    {
+      "city": "Bhimavaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhimavaram",
+      "distance": 86.22352657778326
+    },
+    {
+      "city": "Thrissur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thrissur",
+      "distance": 100.7954724111614
+    },
+    {
+      "city": "Udhampur",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "udhampur",
+      "distance": 115.09088723628527
+    },
+    {
+      "city": "Balaghat",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "balaghat",
+      "distance": 120.81346828103918
+    }
+  ],
+  "geohash": "tegfyfs",
+  "geohashUrl": "https://geohash.softeng.co/tegfyfs"
+}

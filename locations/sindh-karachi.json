@@ -1,0 +1,82 @@
+{
+  "id": "sindh-karachi",
+  "city": "Karachi",
+  "state": "Sindh",
+  "stateSlug": "sindh",
+  "citySlug": "karachi",
+  "country": "Pakistan",
+  "pincode": "74200",
+  "currency": "PKR",
+  "symbol": "Rs.",
+  "compliance": "PTA Guidelines",
+  "carriers": [
+    "Jazz",
+    "Telenor",
+    "Zong",
+    "Ufone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+92",
+  "timezone": "Asia/Karachi",
+  "latitude": 29.9351,
+  "longitude": 70.0677,
+  "landmark": "Karachi Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Jazz networks. Failovers route over Telenor, Zong, Ufone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Karachi, Pakistan",
+  "population": 3296857,
+  "mobileUsers": 2584735,
+  "internetUsers": 2093504,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "Rs.24,585 PKR per annum",
+  "activeMobileDevices": 4582631,
+  "mobilePenetration": 78.4,
+  "internetPenetration": 63.5,
+  "maleCount": 1678100,
+  "femaleCount": 1618757,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Islamabad",
+      "state": "Islamabad Capital Territory",
+      "stateSlug": "islamabad-capital-territory",
+      "citySlug": "islamabad",
+      "distance": 6.215311062067535
+    },
+    {
+      "city": "Lahore",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "lahore",
+      "distance": 7.926802017774497
+    },
+    {
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan",
+      "distance": 15.956081877742356
+    },
+    {
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "rajkot",
+      "distance": 24.54974651137713
+    },
+    {
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi",
+      "distance": 27.439346854959396
+    }
+  ],
+  "geohash": "tt3f63t",
+  "geohashUrl": "https://geohash.softeng.co/tt3f63t"
+}

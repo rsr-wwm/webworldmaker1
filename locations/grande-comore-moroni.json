@@ -1,0 +1,80 @@
+{
+  "id": "grande-comore-moroni",
+  "city": "Moroni",
+  "state": "Grande Comore",
+  "stateSlug": "grande-comore",
+  "citySlug": "moroni",
+  "country": "Comoros",
+  "pincode": "00000",
+  "currency": "KMF",
+  "symbol": "CF",
+  "compliance": "ANRTIC Rules",
+  "carriers": [
+    "Comores Telecom",
+    "Telco SA"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+269",
+  "timezone": "Indian/Comoro",
+  "latitude": -11.9773,
+  "longitude": 44.2095,
+  "landmark": "Moroni Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Comores Telecom networks. Failovers route over Telco SA with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Moroni, Comoros",
+  "population": 3464519,
+  "mobileUsers": 2847834,
+  "internetUsers": 2172253,
+  "genderRatioText": "986 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "CF32,270 KMF per annum",
+  "activeMobileDevices": 4607810,
+  "mobilePenetration": 82.2,
+  "internetPenetration": 62.7,
+  "maleCount": 1746118,
+  "femaleCount": 1718401,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Antananarivo",
+      "state": "Analamanga Region",
+      "stateSlug": "analamanga-region",
+      "citySlug": "antananarivo",
+      "distance": 953.0956689704373
+    },
+    {
+      "city": "Lilongwe",
+      "state": "Central Region",
+      "stateSlug": "central-region",
+      "citySlug": "lilongwe",
+      "distance": 1130.1716151785606
+    },
+    {
+      "city": "Maputo",
+      "state": "Maputo City",
+      "stateSlug": "maputo-city",
+      "citySlug": "maputo",
+      "distance": 1201.312707511351
+    },
+    {
+      "city": "Dodoma",
+      "state": "Dodoma Region",
+      "stateSlug": "dodoma-region",
+      "citySlug": "dodoma",
+      "distance": 1228.5184065671285
+    },
+    {
+      "city": "Victoria",
+      "state": "Mahe Island",
+      "stateSlug": "mahe-island",
+      "citySlug": "victoria",
+      "distance": 1463.802105635359
+    }
+  ],
+  "geohash": "kvz7y58",
+  "geohashUrl": "https://geohash.softeng.co/kvz7y58"
+}

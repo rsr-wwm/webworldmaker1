@@ -1,0 +1,82 @@
+{
+  "id": "manipur-moirang",
+  "city": "Moirang",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "moirang",
+  "country": "India",
+  "pincode": "795133",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.0724,
+  "longitude": 72.8598,
+  "landmark": "Moirang Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Moirang, India",
+  "population": 1867488,
+  "mobileUsers": 1372603,
+  "internetUsers": 1032720,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹6.92L per annum",
+  "activeMobileDevices": 2184960,
+  "mobilePenetration": 73.5,
+  "internetPenetration": 55.3,
+  "maleCount": 959889,
+  "femaleCount": 907599,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tezpur",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tezpur",
+      "distance": 43.0675674485131
+    },
+    {
+      "city": "Phatikchara",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "phatikchara",
+      "distance": 76.43788286828674
+    },
+    {
+      "city": "Vijay nagar",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "vijay-nagar",
+      "distance": 77.38842901751616
+    },
+    {
+      "city": "Davangere",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "davangere",
+      "distance": 80.26652117821467
+    },
+    {
+      "city": "Shabroom",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shabroom",
+      "distance": 86.1449485317729
+    }
+  ],
+  "geohash": "ts7bcyn",
+  "geohashUrl": "https://geohash.softeng.co/ts7bcyn"
+}

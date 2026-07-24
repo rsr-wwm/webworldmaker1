@@ -1,0 +1,79 @@
+{
+  "id": "funafuti-atoll-funafuti",
+  "city": "Funafuti",
+  "state": "Funafuti Atoll",
+  "stateSlug": "funafuti-atoll",
+  "citySlug": "funafuti",
+  "country": "Tuvalu",
+  "pincode": "0000",
+  "currency": "AUD",
+  "symbol": "A$",
+  "compliance": "TTC Rules",
+  "carriers": [
+    "Tuvalu Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+688",
+  "timezone": "Pacific/Funafuti",
+  "latitude": -8.1963,
+  "longitude": 177.8935,
+  "landmark": "Funafuti Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Tuvalu Telecom networks. Failovers route over local regional carriers with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Funafuti, Tuvalu",
+  "population": 3091929,
+  "mobileUsers": 2513738,
+  "internetUsers": 2111787,
+  "genderRatioText": "1,001 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "A$20,468 AUD per annum",
+  "activeMobileDevices": 3926749,
+  "mobilePenetration": 81.3,
+  "internetPenetration": 68.3,
+  "maleCount": 1545965,
+  "femaleCount": 1545965,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Suva",
+      "state": "Rewa Province",
+      "stateSlug": "rewa-province",
+      "citySlug": "suva",
+      "distance": 1141.315310632632
+    },
+    {
+      "city": "Tarawa",
+      "state": "Gilbert Islands",
+      "stateSlug": "gilbert-islands",
+      "citySlug": "tarawa",
+      "distance": 1189.0690198986297
+    },
+    {
+      "city": "Port Vila",
+      "state": "Shefa Province",
+      "stateSlug": "shefa-province",
+      "citySlug": "port-vila",
+      "distance": 1442.8645429176709
+    },
+    {
+      "city": "Yaren",
+      "state": "Yaren District",
+      "stateSlug": "yaren-district",
+      "citySlug": "yaren",
+      "distance": 1498.258680759418
+    },
+    {
+      "city": "Noumea",
+      "state": "South Province",
+      "stateSlug": "south-province",
+      "citySlug": "noumea",
+      "distance": 1991.3386188365819
+    }
+  ],
+  "geohash": "ryw925f",
+  "geohashUrl": "https://geohash.softeng.co/ryw925f"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "liguria-genoa",
+  "city": "Genoa",
+  "state": "Liguria",
+  "stateSlug": "liguria",
+  "citySlug": "genoa",
+  "country": "Italy",
+  "pincode": "16121",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / AGCOM",
+  "carriers": [
+    "WindTre",
+    "TIM",
+    "Vodafone",
+    "iliad"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+39",
+  "timezone": "Europe/Rome",
+  "latitude": 42.9905,
+  "longitude": 12.9558,
+  "landmark": "Genoa Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over WindTre networks. Failovers route over TIM, Vodafone, iliad with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Genoa, Italy",
+  "population": 2501430,
+  "mobileUsers": 1958619,
+  "internetUsers": 1525872,
+  "genderRatioText": "968 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "€67,371 per annum",
+  "activeMobileDevices": 3051744,
+  "mobilePenetration": 78.3,
+  "internetPenetration": 61,
+  "maleCount": 1270726,
+  "femaleCount": 1230704,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Venice",
+      "state": "Veneto",
+      "stateSlug": "veneto",
+      "citySlug": "venice",
+      "distance": 4.767797128235952
+    },
+    {
+      "city": "Rome",
+      "state": "Lazio Region",
+      "stateSlug": "lazio-region",
+      "citySlug": "rome",
+      "distance": 8.333430852729084
+    },
+    {
+      "city": "Turin",
+      "state": "Piedmont",
+      "stateSlug": "piedmont",
+      "citySlug": "turin",
+      "distance": 10.9341928348634
+    },
+    {
+      "city": "Naples",
+      "state": "Campania",
+      "stateSlug": "campania",
+      "citySlug": "naples",
+      "distance": 14.119735101137936
+    },
+    {
+      "city": "Milan",
+      "state": "Lombardy",
+      "stateSlug": "lombardy",
+      "citySlug": "milan",
+      "distance": 17.38610464078367
+    }
+  ],
+  "geohash": "sr9hwf4",
+  "geohashUrl": "https://geohash.softeng.co/sr9hwf4"
+}

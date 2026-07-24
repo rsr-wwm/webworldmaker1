@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-shivpuri",
+  "city": "Shivpuri",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "shivpuri",
+  "country": "India",
+  "pincode": "473551",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.1198,
+  "longitude": 77.1675,
+  "landmark": "Shivpuri State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shivpuri, India",
+  "population": 8817590,
+  "mobileUsers": 6763091,
+  "internetUsers": 4876127,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹8.37L per annum",
+  "activeMobileDevices": 10052052,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 55.3,
+  "maleCount": 4496971,
+  "femaleCount": 4320619,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Anantnag",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "anantnag",
+      "distance": 61.413654433487615
+    },
+    {
+      "city": "Umsao",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "umsao",
+      "distance": 69.68016803545915
+    },
+    {
+      "city": "Abhaynagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "abhaynagar",
+      "distance": 73.07052544811398
+    },
+    {
+      "city": "Maidjiphema",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "maidjiphema",
+      "distance": 113.35687746424092
+    },
+    {
+      "city": "Kovilpatti",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kovilpatti",
+      "distance": 119.5690572276862
+    }
+  ],
+  "geohash": "tsngebz",
+  "geohashUrl": "https://geohash.softeng.co/tsngebz"
+}

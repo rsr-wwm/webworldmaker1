@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-morbi",
+  "city": "Morbi",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "morbi",
+  "country": "India",
+  "pincode": "363641",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.3405,
+  "longitude": 71.4372,
+  "landmark": "Morbi Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Morbi, India",
+  "population": 6455378,
+  "mobileUsers": 4718881,
+  "internetUsers": 3815128,
+  "genderRatioText": "931 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹7.85L per annum",
+  "activeMobileDevices": 7294577,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 59.1,
+  "maleCount": 3343886,
+  "femaleCount": 3111492,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Wanaparthy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "wanaparthy",
+      "distance": 24.09462094766071
+    },
+    {
+      "city": "Quilandy",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "quilandy",
+      "distance": 50.64757290021034
+    },
+    {
+      "city": "Aizawal G.P.O",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "aizawal-gpo",
+      "distance": 77.21742196282376
+    },
+    {
+      "city": "Bangalore G.P.O.",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bangalore-gpo",
+      "distance": 78.74834497512595
+    },
+    {
+      "city": "Khargone",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "khargone",
+      "distance": 85.85942160146489
+    }
+  ],
+  "geohash": "tt4c1x4",
+  "geohashUrl": "https://geohash.softeng.co/tt4c1x4"
+}

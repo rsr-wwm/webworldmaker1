@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-chirawa",
+  "city": "Chirawa",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "chirawa",
+  "country": "India",
+  "pincode": "333026",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.8671,
+  "longitude": 85.0245,
+  "landmark": "Chirawa Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chirawa, India",
+  "population": 8088168,
+  "mobileUsers": 5912450,
+  "internetUsers": 4828636,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹7.37L per annum",
+  "activeMobileDevices": 9382274,
+  "mobilePenetration": 73.1,
+  "internetPenetration": 59.7,
+  "maleCount": 4141142,
+  "femaleCount": 3947026,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nuzuid",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nuzuid",
+      "distance": 28.25836949947044
+    },
+    {
+      "city": "Samalkot",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "samalkot",
+      "distance": 57.22682746072293
+    },
+    {
+      "city": "Allappuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "allappuzha",
+      "distance": 57.57603717648761
+    },
+    {
+      "city": "Arundatinagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "arundatinagar",
+      "distance": 75.63416780369
+    },
+    {
+      "city": "Saikot",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "saikot",
+      "distance": 78.77714695607384
+    }
+  ],
+  "geohash": "tfk3ny2",
+  "geohashUrl": "https://geohash.softeng.co/tfk3ny2"
+}

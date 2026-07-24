@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-muzaffarnagar",
+  "city": "Muzaffarnagar",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "muzaffarnagar",
+  "country": "India",
+  "pincode": "251001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.7036,
+  "longitude": 77.7871,
+  "landmark": "Muzaffarnagar Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Muzaffarnagar, India",
+  "population": 6406560,
+  "mobileUsers": 4747260,
+  "internetUsers": 3760650,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.26L per annum",
+  "activeMobileDevices": 6726888,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 58.7,
+  "maleCount": 3286565,
+  "femaleCount": 3119995,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Coonoor",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "coonoor",
+      "distance": 43.80591310548109
+    },
+    {
+      "city": "Kalpett",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kalpett",
+      "distance": 70.36479903940162
+    },
+    {
+      "city": "Sango",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "sango",
+      "distance": 71.23687167476615
+    },
+    {
+      "city": "Mechuka",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "mechuka",
+      "distance": 71.6740453975186
+    },
+    {
+      "city": "Siwan",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "siwan",
+      "distance": 77.75810762790356
+    }
+  ],
+  "geohash": "t9zkfhd",
+  "geohashUrl": "https://geohash.softeng.co/t9zkfhd"
+}

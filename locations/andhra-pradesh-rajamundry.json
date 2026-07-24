@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-rajamundry",
+  "city": "Rajamundry",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "rajamundry",
+  "country": "India",
+  "pincode": "533101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.0675,
+  "longitude": 86.4039,
+  "landmark": "Rajamundry Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rajamundry, India",
+  "population": 1697718,
+  "mobileUsers": 1302149,
+  "internetUsers": 947326,
+  "genderRatioText": "925 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹9.47L per annum",
+  "activeMobileDevices": 2020284,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 55.8,
+  "maleCount": 881116,
+  "femaleCount": 816602,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nawada",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "nawada",
+      "distance": 42.88117216985261
+    },
+    {
+      "city": "Kallakurichi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kallakurichi",
+      "distance": 45.98566485826691
+    },
+    {
+      "city": "Shivajinagar Pune",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "shivajinagar-pune",
+      "distance": 68.81939688841202
+    },
+    {
+      "city": "Chochuba",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chochuba",
+      "distance": 85.82324478656795
+    },
+    {
+      "city": "Gondia",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "gondia",
+      "distance": 101.94930552085629
+    }
+  ],
+  "geohash": "tuv3ypm",
+  "geohashUrl": "https://geohash.softeng.co/tuv3ypm"
+}

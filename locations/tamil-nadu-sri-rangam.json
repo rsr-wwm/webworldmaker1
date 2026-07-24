@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-sri-rangam",
+  "city": "Sri Rangam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "sri-rangam",
+  "country": "India",
+  "pincode": "620006",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.1925,
+  "longitude": 69.16,
+  "landmark": "Sri Rangam Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sri Rangam, India",
+  "population": 8428273,
+  "mobileUsers": 6085213,
+  "internetUsers": 4728261,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹7.40L per annum",
+  "activeMobileDevices": 8512555,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 56.1,
+  "maleCount": 4323704,
+  "femaleCount": 4104569,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Balurghat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "balurghat",
+      "distance": 35.98245617124614
+    },
+    {
+      "city": "Tiruchirappalli",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchirappalli",
+      "distance": 41.0310010321719
+    },
+    {
+      "city": "Midnapore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "midnapore",
+      "distance": 70.95430686162295
+    },
+    {
+      "city": "Kantolim",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kantolim",
+      "distance": 77.40004262013932
+    },
+    {
+      "city": "Shahpura",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shahpura",
+      "distance": 78.0391419732107
+    }
+  ],
+  "geohash": "tecnmb0",
+  "geohashUrl": "https://geohash.softeng.co/tecnmb0"
+}

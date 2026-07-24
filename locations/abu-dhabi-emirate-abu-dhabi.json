@@ -1,0 +1,80 @@
+{
+  "id": "abu-dhabi-emirate-abu-dhabi",
+  "city": "Abu Dhabi",
+  "state": "Abu Dhabi Emirate",
+  "stateSlug": "abu-dhabi-emirate",
+  "citySlug": "abu-dhabi",
+  "country": "United Arab Emirates",
+  "pincode": "00000",
+  "currency": "AED",
+  "symbol": "د.إ",
+  "compliance": "TDRA Guidelines",
+  "carriers": [
+    "Etisalat",
+    "du"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+971",
+  "timezone": "Asia/Dubai",
+  "latitude": 24.1923,
+  "longitude": 53.991,
+  "landmark": "Abu Dhabi Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Etisalat networks. Failovers route over du with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Abu Dhabi, United Arab Emirates",
+  "population": 2841662,
+  "mobileUsers": 2202288,
+  "internetUsers": 1866971,
+  "genderRatioText": "1,007 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "د.إ42,924 AED per annum",
+  "activeMobileDevices": 3694160,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 65.7,
+  "maleCount": 1415148,
+  "femaleCount": 1426514,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Sharjah",
+      "state": "Sharjah Emirate",
+      "stateSlug": "sharjah-emirate",
+      "citySlug": "sharjah",
+      "distance": 6.629719723794863
+    },
+    {
+      "city": "Al Ain",
+      "state": "Abu Dhabi Emirate",
+      "stateSlug": "abu-dhabi-emirate",
+      "citySlug": "al-ain",
+      "distance": 14.036082051131098
+    },
+    {
+      "city": "Dubai",
+      "state": "Dubai Emirate",
+      "stateSlug": "dubai-emirate",
+      "citySlug": "dubai",
+      "distance": 43.00332401155685
+    },
+    {
+      "city": "Doha",
+      "state": "Ad Dawhah",
+      "stateSlug": "ad-dawhah",
+      "citySlug": "doha",
+      "distance": 307.0829551019527
+    },
+    {
+      "city": "Manama",
+      "state": "Capital Governorate",
+      "stateSlug": "capital-governorate",
+      "citySlug": "manama",
+      "distance": 410.62693030299744
+    }
+  ],
+  "geohash": "thq3ss5",
+  "geohashUrl": "https://geohash.softeng.co/thq3ss5"
+}

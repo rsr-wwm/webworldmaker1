@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-barmer",
+  "city": "Barmer",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "barmer",
+  "country": "India",
+  "pincode": "344001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.5386,
+  "longitude": 69.9279,
+  "landmark": "Barmer State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Barmer, India",
+  "population": 5146931,
+  "mobileUsers": 3808728,
+  "internetUsers": 3052130,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹10.65L per annum",
+  "activeMobileDevices": 5867501,
+  "mobilePenetration": 74,
+  "internetPenetration": 59.3,
+  "maleCount": 2645523,
+  "femaleCount": 2501408,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sangli",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "sangli",
+      "distance": 16.45708905591764
+    },
+    {
+      "city": "Hubli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hubli",
+      "distance": 47.71470909942698
+    },
+    {
+      "city": "Panvel",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "panvel",
+      "distance": 64.73156512355622
+    },
+    {
+      "city": "Alathur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "alathur",
+      "distance": 87.45825126770598
+    },
+    {
+      "city": "Nangthumai",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangthumai",
+      "distance": 95.51676582448953
+    }
+  ],
+  "geohash": "tscsxjp",
+  "geohashUrl": "https://geohash.softeng.co/tscsxjp"
+}

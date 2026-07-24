@@ -1,0 +1,82 @@
+{
+  "id": "bihar-gopalganj",
+  "city": "Gopalganj",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "gopalganj",
+  "country": "India",
+  "pincode": "841428",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.1445,
+  "longitude": 73.9684,
+  "landmark": "Gopalganj Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gopalganj, India",
+  "population": 1247711,
+  "mobileUsers": 956994,
+  "internetUsers": 691231,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹7.47L per annum",
+  "activeMobileDevices": 1285142,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 55.4,
+  "maleCount": 638828,
+  "femaleCount": 608883,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lilong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lilong",
+      "distance": 53.51797762804603
+    },
+    {
+      "city": "Tallakulam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tallakulam",
+      "distance": 64.97444162166929
+    },
+    {
+      "city": "Thuraiyur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thuraiyur",
+      "distance": 65.66663970211906
+    },
+    {
+      "city": "Naya bangla",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "naya-bangla",
+      "distance": 74.6095822080986
+    },
+    {
+      "city": "Labarchandmari",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "labarchandmari",
+      "distance": 84.04894054195209
+    }
+  ],
+  "geohash": "t9ux7hy",
+  "geohashUrl": "https://geohash.softeng.co/t9ux7hy"
+}

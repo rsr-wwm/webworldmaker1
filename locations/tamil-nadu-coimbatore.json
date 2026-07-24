@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-coimbatore",
+  "city": "Coimbatore",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "coimbatore",
+  "country": "India",
+  "pincode": "641001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.6548,
+  "longitude": 71.0158,
+  "landmark": "Coimbatore State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Coimbatore, India",
+  "population": 6837323,
+  "mobileUsers": 5326274,
+  "internetUsers": 4225465,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹11.62L per annum",
+  "activeMobileDevices": 7179189,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 61.8,
+  "maleCount": 3521221,
+  "femaleCount": 3316102,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Udagamandalam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "udagamandalam",
+      "distance": 26.176161913148167
+    },
+    {
+      "city": "Sriganganagar",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sriganganagar",
+      "distance": 47.34681467058483
+    },
+    {
+      "city": "Guwahati",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati",
+      "distance": 65.31725700378401
+    },
+    {
+      "city": "Angul",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "angul",
+      "distance": 74.01203075897041
+    },
+    {
+      "city": "Zahirabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "zahirabad",
+      "distance": 74.21353217369236
+    }
+  ],
+  "geohash": "tdfw8pb",
+  "geohashUrl": "https://geohash.softeng.co/tdfw8pb"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pelagonia-region-bitola",
+  "city": "Bitola",
+  "state": "Pelagonia Region",
+  "stateSlug": "pelagonia-region",
+  "citySlug": "bitola",
+  "country": "North Macedonia",
+  "pincode": "7000",
+  "currency": "MKD",
+  "symbol": "ден",
+  "compliance": "AEK Rules",
+  "carriers": [
+    "Maktel",
+    "A1"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+389",
+  "timezone": "Europe/Skopje",
+  "latitude": 41.7677,
+  "longitude": 22.0713,
+  "landmark": "Bitola Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Maktel networks. Failovers route over A1 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bitola, North Macedonia",
+  "population": 4747707,
+  "mobileUsers": 3893119,
+  "internetUsers": 3195206,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "ден24,905 MKD per annum",
+  "activeMobileDevices": 6029587,
+  "mobilePenetration": 82,
+  "internetPenetration": 67.3,
+  "maleCount": 2430826,
+  "femaleCount": 2316881,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Skopje",
+      "state": "Skopje Region",
+      "stateSlug": "skopje-region",
+      "citySlug": "skopje",
+      "distance": 15.920149621335703
+    },
+    {
+      "city": "Tirana",
+      "state": "Tirana County",
+      "stateSlug": "tirana-county",
+      "citySlug": "tirana",
+      "distance": 198.05024478812925
+    },
+    {
+      "city": "Belgrade",
+      "state": "Belgrade City",
+      "stateSlug": "belgrade-city",
+      "citySlug": "belgrade",
+      "distance": 251.15196649337997
+    },
+    {
+      "city": "Podgorica",
+      "state": "Podgorica Municipality",
+      "stateSlug": "podgorica-municipality",
+      "citySlug": "podgorica",
+      "distance": 261.7520061902365
+    },
+    {
+      "city": "Novi Sad",
+      "state": "Vojvodina",
+      "stateSlug": "vojvodina",
+      "citySlug": "novi-sad",
+      "distance": 265.85628649899076
+    }
+  ],
+  "geohash": "srrtw5x",
+  "geohashUrl": "https://geohash.softeng.co/srrtw5x"
+}

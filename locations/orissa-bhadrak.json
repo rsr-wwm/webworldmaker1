@@ -1,0 +1,82 @@
+{
+  "id": "orissa-bhadrak",
+  "city": "Bhadrak",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "bhadrak",
+  "country": "India",
+  "pincode": "756110",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.4524,
+  "longitude": 82.9422,
+  "landmark": "Bhadrak Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhadrak, India",
+  "population": 7764979,
+  "mobileUsers": 5784909,
+  "internetUsers": 4783227,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹8.60L per annum",
+  "activeMobileDevices": 9007375,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 61.6,
+  "maleCount": 4022259,
+  "femaleCount": 3742720,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tiruppattur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruppattur",
+      "distance": 57.254805361329424
+    },
+    {
+      "city": "Razole",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "razole",
+      "distance": 59.71837246824792
+    },
+    {
+      "city": "Cuttack",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "cuttack",
+      "distance": 71.93456803042915
+    },
+    {
+      "city": "Repalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "repalle",
+      "distance": 73.97058029040956
+    },
+    {
+      "city": "Ramlun",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "ramlun",
+      "distance": 77.78136707400333
+    }
+  ],
+  "geohash": "tvdfzms",
+  "geohashUrl": "https://geohash.softeng.co/tvdfzms"
+}

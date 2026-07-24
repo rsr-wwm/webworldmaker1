@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-etawah",
+  "city": "Etawah",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "etawah",
+  "country": "India",
+  "pincode": "206001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.9685,
+  "longitude": 72.7884,
+  "landmark": "Etawah District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Etawah, India",
+  "population": 3148415,
+  "mobileUsers": 2424279,
+  "internetUsers": 1813487,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹7.42L per annum",
+  "activeMobileDevices": 3557708,
+  "mobilePenetration": 77,
+  "internetPenetration": 57.6,
+  "maleCount": 1630879,
+  "femaleCount": 1517536,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sawaimadhopur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sawaimadhopur",
+      "distance": 33.306286122498385
+    },
+    {
+      "city": "Barabazar",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barabazar",
+      "distance": 58.61084296241309
+    },
+    {
+      "city": "Makrana",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "makrana",
+      "distance": 61.94742055830661
+    },
+    {
+      "city": "Kottarakara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kottarakara",
+      "distance": 62.81846572355508
+    },
+    {
+      "city": "Kuvep",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kuvep",
+      "distance": 67.76085874085013
+    }
+  ],
+  "geohash": "tt7f2rd",
+  "geohashUrl": "https://geohash.softeng.co/tt7f2rd"
+}

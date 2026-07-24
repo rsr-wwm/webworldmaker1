@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-serchhip",
+  "city": "Serchhip",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "serchhip",
+  "country": "India",
+  "pincode": "796181",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.5868,
+  "longitude": 71.7869,
+  "landmark": "Serchhip Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Serchhip, India",
+  "population": 7513877,
+  "mobileUsers": 5627893,
+  "internetUsers": 4373076,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹11.82L per annum",
+  "activeMobileDevices": 8640958,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 58.2,
+  "maleCount": 3884674,
+  "femaleCount": 3629203,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dadar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "dadar",
+      "distance": 53.23924699509733
+    },
+    {
+      "city": "Baidyanadh Deoghar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "baidyanadh-deoghar",
+      "distance": 73.40098705672368
+    },
+    {
+      "city": "Angul",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "angul",
+      "distance": 87.29268731949688
+    },
+    {
+      "city": "Udagamandalam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "udagamandalam",
+      "distance": 108.6398809224191
+    },
+    {
+      "city": "Tikamgarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "tikamgarh",
+      "distance": 110.6773864044633
+    }
+  ],
+  "geohash": "te5h199",
+  "geohashUrl": "https://geohash.softeng.co/te5h199"
+}

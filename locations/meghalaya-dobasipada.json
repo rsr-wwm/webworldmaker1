@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-dobasipada",
+  "city": "Dobasipada",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "dobasipada",
+  "country": "India",
+  "pincode": "794005",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.8022,
+  "longitude": 85.9226,
+  "landmark": "Dobasipada Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dobasipada, India",
+  "population": 7136277,
+  "mobileUsers": 5509205,
+  "internetUsers": 4288902,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹9.31L per annum",
+  "activeMobileDevices": 7992630,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 60.1,
+  "maleCount": 3668046,
+  "femaleCount": 3468231,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Malvan",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "malvan",
+      "distance": 6.840551151915035
+    },
+    {
+      "city": "Gular thal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "gular-thal",
+      "distance": 24.835865451136527
+    },
+    {
+      "city": "Vimangad",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "vimangad",
+      "distance": 61.86589477347982
+    },
+    {
+      "city": "Pratapgarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pratapgarh",
+      "distance": 68.9028231391654
+    },
+    {
+      "city": "Katni",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "katni",
+      "distance": 69.4335933125597
+    }
+  ],
+  "geohash": "tgvh50y",
+  "geohashUrl": "https://geohash.softeng.co/tgvh50y"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-shorapur",
+  "city": "Shorapur",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "shorapur",
+  "country": "India",
+  "pincode": "585224",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.3476,
+  "longitude": 87.839,
+  "landmark": "Shorapur Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shorapur, India",
+  "population": 7902560,
+  "mobileUsers": 5919017,
+  "internetUsers": 4275284,
+  "genderRatioText": "916 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹8.24L per annum",
+  "activeMobileDevices": 8060611,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 54.1,
+  "maleCount": 4125136,
+  "femaleCount": 3777424,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mokokchung",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mokokchung",
+      "distance": 31.799978019424817
+    },
+    {
+      "city": "Mayang Imphal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mayang-imphal",
+      "distance": 45.08539616996704
+    },
+    {
+      "city": "Shrikalahasti",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "shrikalahasti",
+      "distance": 65.4025069818154
+    },
+    {
+      "city": "Minicoy",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "minicoy",
+      "distance": 71.99711894077355
+    },
+    {
+      "city": "Rewa",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "rewa",
+      "distance": 88.6732359176039
+    }
+  ],
+  "geohash": "tfykyzf",
+  "geohashUrl": "https://geohash.softeng.co/tfykyzf"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-chera-bazar",
+  "city": "Chera bazar",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "chera-bazar",
+  "country": "India",
+  "pincode": "793111",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.4531,
+  "longitude": 70.5094,
+  "landmark": "Chera Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chera bazar, India",
+  "population": 62009,
+  "mobileUsers": 47560,
+  "internetUsers": 34601,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹5.18L per annum",
+  "activeMobileDevices": 68209,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 55.8,
+  "maleCount": 31687,
+  "femaleCount": 30322,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Medak",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "medak",
+      "distance": 11.633186839334899
+    },
+    {
+      "city": "Siddipet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "siddipet",
+      "distance": 34.19323540045581
+    },
+    {
+      "city": "Ponani",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ponani",
+      "distance": 60.720714395111955
+    },
+    {
+      "city": "Mangaldoi",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "mangaldoi",
+      "distance": 93.77945027736006
+    },
+    {
+      "city": "Mettupalayam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mettupalayam",
+      "distance": 94.42756513517394
+    }
+  ],
+  "geohash": "tddpump",
+  "geohashUrl": "https://geohash.softeng.co/tddpump"
+}

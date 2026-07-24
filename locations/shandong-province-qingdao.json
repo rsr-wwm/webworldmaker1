@@ -1,0 +1,81 @@
+{
+  "id": "shandong-province-qingdao",
+  "city": "Qingdao",
+  "state": "Shandong Province",
+  "stateSlug": "shandong-province",
+  "citySlug": "qingdao",
+  "country": "China",
+  "pincode": "266000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 34.953,
+  "longitude": 105.1689,
+  "landmark": "Qingdao Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Qingdao, China",
+  "population": 3963848,
+  "mobileUsers": 3559535,
+  "internetUsers": 2968922,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "¥31,598 CNY per annum",
+  "activeMobileDevices": 4479148,
+  "mobilePenetration": 89.8,
+  "internetPenetration": 74.9,
+  "maleCount": 2021562,
+  "femaleCount": 1942286,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Dongguan",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "dongguan",
+      "distance": 1.910089813835326
+    },
+    {
+      "city": "Ningbo",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "ningbo",
+      "distance": 4.798302332175622
+    },
+    {
+      "city": "Yangzhou",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "yangzhou",
+      "distance": 6.677543942041923
+    },
+    {
+      "city": "Hangzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "hangzhou",
+      "distance": 7.94501124497102
+    },
+    {
+      "city": "Nantong",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "nantong",
+      "distance": 12.627659030023775
+    }
+  ],
+  "geohash": "wq4yc4v",
+  "geohashUrl": "https://geohash.softeng.co/wq4yc4v"
+}

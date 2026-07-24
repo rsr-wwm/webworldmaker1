@@ -1,0 +1,81 @@
+{
+  "id": "hawaii-honolulu",
+  "city": "Honolulu",
+  "state": "Hawaii",
+  "stateSlug": "hawaii",
+  "citySlug": "honolulu",
+  "country": "United States",
+  "pincode": "96801",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/New_York",
+  "latitude": 27.1893,
+  "longitude": -118.519,
+  "landmark": "Honolulu Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Honolulu, United States",
+  "population": 4057822,
+  "mobileUsers": 3769716,
+  "internetUsers": 3700733,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "$105,339 per annum",
+  "activeMobileDevices": 5640372,
+  "mobilePenetration": 92.9,
+  "internetPenetration": 91.2,
+  "maleCount": 2077605,
+  "femaleCount": 1980217,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Hartford",
+      "state": "Connecticut",
+      "stateSlug": "connecticut",
+      "citySlug": "hartford",
+      "distance": 644.4782323806294
+    },
+    {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "citySlug": "indianapolis",
+      "distance": 773.9978014386534
+    },
+    {
+      "city": "Sacramento",
+      "state": "California",
+      "stateSlug": "california",
+      "citySlug": "sacramento",
+      "distance": 856.7487674778209
+    },
+    {
+      "city": "Richmond",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "citySlug": "richmond",
+      "distance": 878.1085835928536
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "stateSlug": "pennsylvania",
+      "citySlug": "philadelphia",
+      "distance": 917.9668947252002
+    }
+  ],
+  "geohash": "9kgdxj9",
+  "geohashUrl": "https://geohash.softeng.co/9kgdxj9"
+}

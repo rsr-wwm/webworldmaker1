@@ -1,0 +1,81 @@
+{
+  "id": "centre-region-yaounde",
+  "city": "Yaounde",
+  "state": "Centre Region",
+  "stateSlug": "centre-region",
+  "citySlug": "yaounde",
+  "country": "Cameroon",
+  "pincode": "00000",
+  "currency": "XAF",
+  "symbol": "FCFA",
+  "compliance": "ART Guidelines",
+  "carriers": [
+    "MTN",
+    "Orange",
+    "Nexttel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+237",
+  "timezone": "Africa/Douala",
+  "latitude": 5.9909,
+  "longitude": 12.1927,
+  "landmark": "Yaounde Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Orange, Nexttel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Yaounde, Cameroon",
+  "population": 2194562,
+  "mobileUsers": 1777595,
+  "internetUsers": 1413297,
+  "genderRatioText": "978 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "FCFA19,842 XAF per annum",
+  "activeMobileDevices": 2677365,
+  "mobilePenetration": 81,
+  "internetPenetration": 64.4,
+  "maleCount": 1110448,
+  "femaleCount": 1084114,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Douala",
+      "state": "Littoral Region",
+      "stateSlug": "littoral-region",
+      "citySlug": "douala",
+      "distance": 30.526941443799533
+    },
+    {
+      "city": "Malabo",
+      "state": "Bioko Norte",
+      "stateSlug": "bioko-norte",
+      "citySlug": "malabo",
+      "distance": 490.7720281797166
+    },
+    {
+      "city": "Ibadan",
+      "state": "Oyo State",
+      "stateSlug": "oyo-state",
+      "citySlug": "ibadan",
+      "distance": 646.2311493282118
+    },
+    {
+      "city": "Lagos",
+      "state": "Lagos State",
+      "stateSlug": "lagos-state",
+      "citySlug": "lagos",
+      "distance": 648.9099023998033
+    },
+    {
+      "city": "Port Harcourt",
+      "state": "Rivers State",
+      "stateSlug": "rivers-state",
+      "citySlug": "port-harcourt",
+      "distance": 651.5592417226285
+    }
+  ],
+  "geohash": "s30dj6w",
+  "geohashUrl": "https://geohash.softeng.co/s30dj6w"
+}

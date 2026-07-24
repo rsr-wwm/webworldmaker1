@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-margo",
+  "city": "Margo",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "margo",
+  "country": "India",
+  "pincode": "403601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.287,
+  "longitude": 69.1451,
+  "landmark": "Margo Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Margo, India",
+  "population": 6158692,
+  "mobileUsers": 4446575,
+  "internetUsers": 3750643,
+  "genderRatioText": "935 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹9.41L per annum",
+  "activeMobileDevices": 7267256,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 60.9,
+  "maleCount": 3184044,
+  "femaleCount": 2974648,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nangthumai",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangthumai",
+      "distance": 41.78227923307372
+    },
+    {
+      "city": "Bodinayakanur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "bodinayakanur",
+      "distance": 54.009075368438715
+    },
+    {
+      "city": "Shillong G.P.O",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "shillong-gpo",
+      "distance": 56.88682534738932
+    },
+    {
+      "city": "Hubli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hubli",
+      "distance": 65.60663362095454
+    },
+    {
+      "city": "Hayuliyang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "hayuliyang",
+      "distance": 77.48676094386383
+    }
+  ],
+  "geohash": "tt10vmm",
+  "geohashUrl": "https://geohash.softeng.co/tt10vmm"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "zhejiang-province-hangzhou",
+  "city": "Hangzhou",
+  "state": "Zhejiang Province",
+  "stateSlug": "zhejiang-province",
+  "citySlug": "hangzhou",
+  "country": "China",
+  "pincode": "310000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 34.8986,
+  "longitude": 105.1124,
+  "landmark": "Hangzhou State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Hangzhou, China",
+  "population": 991971,
+  "mobileUsers": 929476,
+  "internetUsers": 754889,
+  "genderRatioText": "1,002 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "¥42,240 CNY per annum",
+  "activeMobileDevices": 1180445,
+  "mobilePenetration": 93.7,
+  "internetPenetration": 76.1,
+  "maleCount": 495986,
+  "femaleCount": 495986,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Xiamen",
+      "state": "Fujian Province",
+      "stateSlug": "fujian-province",
+      "citySlug": "xiamen",
+      "distance": 5.674534866005172
+    },
+    {
+      "city": "Yinchuan",
+      "state": "Ningxia Region",
+      "stateSlug": "ningxia-region",
+      "citySlug": "yinchuan",
+      "distance": 6.716793182249833
+    },
+    {
+      "city": "Hohhot",
+      "state": "Inner Mongolia",
+      "stateSlug": "inner-mongolia",
+      "citySlug": "hohhot",
+      "distance": 7.687791420850915
+    },
+    {
+      "city": "Qingdao",
+      "state": "Shandong Province",
+      "stateSlug": "shandong-province",
+      "citySlug": "qingdao",
+      "distance": 7.94501124497102
+    },
+    {
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou",
+      "distance": 8.749990190988894
+    }
+  ],
+  "geohash": "wq4wxch",
+  "geohashUrl": "https://geohash.softeng.co/wq4wxch"
+}

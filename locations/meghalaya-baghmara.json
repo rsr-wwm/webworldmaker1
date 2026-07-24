@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-baghmara",
+  "city": "Baghmara",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "baghmara",
+  "country": "India",
+  "pincode": "794102",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.9114,
+  "longitude": 86.1542,
+  "landmark": "Baghmara Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Baghmara, India",
+  "population": 9981007,
+  "mobileUsers": 7306097,
+  "internetUsers": 5479572,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹7.35L per annum",
+  "activeMobileDevices": 11378347,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 54.9,
+  "maleCount": 5170162,
+  "femaleCount": 4810845,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Radhanagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "radhanagar",
+      "distance": 49.63264331135666
+    },
+    {
+      "city": "Shahjahanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "shahjahanpur",
+      "distance": 56.707038864218234
+    },
+    {
+      "city": "Saharnpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "saharnpur",
+      "distance": 84.98303798951677
+    },
+    {
+      "city": "Nagercoil",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "nagercoil",
+      "distance": 85.65976137411536
+    },
+    {
+      "city": "Chengannur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chengannur",
+      "distance": 93.37495744139123
+    }
+  ],
+  "geohash": "tcvq06r",
+  "geohashUrl": "https://geohash.softeng.co/tcvq06r"
+}

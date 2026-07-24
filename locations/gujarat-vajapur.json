@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-vajapur",
+  "city": "Vajapur",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "vajapur",
+  "country": "India",
+  "pincode": "382870",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.5812,
+  "longitude": 79.7222,
+  "landmark": "Vajapur District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Vajapur, India",
+  "population": 9353946,
+  "mobileUsers": 6828380,
+  "internetUsers": 5453350,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.21L per annum",
+  "activeMobileDevices": 10663498,
+  "mobilePenetration": 73,
+  "internetPenetration": 58.3,
+  "maleCount": 4873406,
+  "femaleCount": 4480540,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Armoor",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "armoor",
+      "distance": 29.892800853498173
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 55.90811364403785
+    },
+    {
+      "city": "Bharatpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bharatpur",
+      "distance": 76.9047729656756
+    },
+    {
+      "city": "Ahmedabad",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "ahmedabad",
+      "distance": 85.63909178196394
+    },
+    {
+      "city": "Mayiladuthurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mayiladuthurai",
+      "distance": 95.4242311225234
+    }
+  ],
+  "geohash": "tv8ewj5",
+  "geohashUrl": "https://geohash.softeng.co/tv8ewj5"
+}

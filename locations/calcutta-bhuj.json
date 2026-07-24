@@ -1,0 +1,82 @@
+{
+  "id": "calcutta-bhuj",
+  "city": "Bhuj",
+  "state": "Calcutta",
+  "stateSlug": "calcutta",
+  "citySlug": "bhuj",
+  "country": "India",
+  "pincode": "370001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.5567,
+  "longitude": 77.2806,
+  "landmark": "Bhuj Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhuj, India",
+  "population": 3755312,
+  "mobileUsers": 2925388,
+  "internetUsers": 2317027,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.27L per annum",
+  "activeMobileDevices": 4281055,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 61.7,
+  "maleCount": 1930230,
+  "femaleCount": 1825082,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nanjangud",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "nanjangud",
+      "distance": 21.29469932731141
+    },
+    {
+      "city": "Tirur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "tirur",
+      "distance": 48.17841742451643
+    },
+    {
+      "city": "Thinghai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thinghai",
+      "distance": 84.78127317114415
+    },
+    {
+      "city": "Berhampur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "berhampur",
+      "distance": 96.20532561232174
+    },
+    {
+      "city": "Durg",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "durg",
+      "distance": 97.37422688232202
+    }
+  ],
+  "geohash": "tdybw84",
+  "geohashUrl": "https://geohash.softeng.co/tdybw84"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "indiana-indianapolis",
+  "city": "Indianapolis",
+  "state": "Indiana",
+  "stateSlug": "indiana",
+  "citySlug": "indianapolis",
+  "country": "United States",
+  "pincode": "46201",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/Chicago",
+  "latitude": 33.1468,
+  "longitude": -114.351,
+  "landmark": "Indianapolis Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Indianapolis, United States",
+  "population": 4568393,
+  "mobileUsers": 4202921,
+  "internetUsers": 4166374,
+  "genderRatioText": "986 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "$105,116 per annum",
+  "activeMobileDevices": 6075962,
+  "mobilePenetration": 92,
+  "internetPenetration": 91.2,
+  "maleCount": 2302470,
+  "femaleCount": 2265923,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Richmond",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "citySlug": "richmond",
+      "distance": 185.6211771006712
+    },
+    {
+      "city": "Hartford",
+      "state": "Connecticut",
+      "stateSlug": "connecticut",
+      "citySlug": "hartford",
+      "distance": 447.4764154070449
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "citySlug": "cleveland",
+      "distance": 524.5734431579192
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "stateSlug": "florida",
+      "citySlug": "jacksonville",
+      "distance": 562.0119355324491
+    },
+    {
+      "city": "Sacramento",
+      "state": "California",
+      "stateSlug": "california",
+      "citySlug": "sacramento",
+      "distance": 656.7006073181483
+    }
+  ],
+  "geohash": "9mystfh",
+  "geohashUrl": "https://geohash.softeng.co/9mystfh"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-betul",
+  "city": "Betul",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "betul",
+  "country": "India",
+  "pincode": "460001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.6372,
+  "longitude": 75.8488,
+  "landmark": "Betul District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Betul, India",
+  "population": 5259963,
+  "mobileUsers": 3987051,
+  "internetUsers": 3219097,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹7.91L per annum",
+  "activeMobileDevices": 5522961,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 61.2,
+  "maleCount": 2682581,
+  "femaleCount": 2577382,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nangalbibra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangalbibra",
+      "distance": 64.47527241841004
+    },
+    {
+      "city": "Umsao",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "umsao",
+      "distance": 87.16336428133374
+    },
+    {
+      "city": "Nayudupeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nayudupeta",
+      "distance": 88.72000914105148
+    },
+    {
+      "city": "Mahesana",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "mahesana",
+      "distance": 92.73904462613301
+    },
+    {
+      "city": "Anantnag",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "anantnag",
+      "distance": 110.47593551474566
+    }
+  ],
+  "geohash": "tsjbvbz",
+  "geohashUrl": "https://geohash.softeng.co/tsjbvbz"
+}

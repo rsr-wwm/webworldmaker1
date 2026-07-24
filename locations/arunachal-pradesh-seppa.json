@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-seppa",
+  "city": "Seppa",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "seppa",
+  "country": "India",
+  "pincode": "790102",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.559,
+  "longitude": 81.7899,
+  "landmark": "Seppa District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Seppa, India",
+  "population": 2498297,
+  "mobileUsers": 1801272,
+  "internetUsers": 1439019,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹7.95L per annum",
+  "activeMobileDevices": 2873041,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 57.6,
+  "maleCount": 1274131,
+  "femaleCount": 1224166,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sultanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "sultanpur",
+      "distance": 24.19559744030421
+    },
+    {
+      "city": "Hapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "hapur",
+      "distance": 107.88520633884137
+    },
+    {
+      "city": "Hemlauk",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "hemlauk",
+      "distance": 130.75050359034375
+    },
+    {
+      "city": "Nalgonda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nalgonda",
+      "distance": 147.03193810255536
+    },
+    {
+      "city": "Madhobewala",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "madhobewala",
+      "distance": 150.76508468625005
+    }
+  ],
+  "geohash": "tcd0tnj",
+  "geohashUrl": "https://geohash.softeng.co/tcd0tnj"
+}

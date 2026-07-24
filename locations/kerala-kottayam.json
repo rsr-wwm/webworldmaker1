@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kottayam",
+  "city": "Kottayam",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kottayam",
+  "country": "India",
+  "pincode": "686001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.5245,
+  "longitude": 87.9947,
+  "landmark": "Kottayam Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kottayam, India",
+  "population": 5133140,
+  "mobileUsers": 3860121,
+  "internetUsers": 3069617,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹9.57L per annum",
+  "activeMobileDevices": 5492459,
+  "mobilePenetration": 75.2,
+  "internetPenetration": 59.8,
+  "maleCount": 2617901,
+  "femaleCount": 2515239,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nayagarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "nayagarh",
+      "distance": 33.765765535106574
+    },
+    {
+      "city": "Penursala",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "penursala",
+      "distance": 54.26421690361374
+    },
+    {
+      "city": "Bhavani",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "bhavani",
+      "distance": 56.99599886513676
+    },
+    {
+      "city": "Begusarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "begusarai",
+      "distance": 75.39892598225373
+    },
+    {
+      "city": "Palel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "palel",
+      "distance": 86.09016128614473
+    }
+  ],
+  "geohash": "tuqed2e",
+  "geohashUrl": "https://geohash.softeng.co/tuqed2e"
+}

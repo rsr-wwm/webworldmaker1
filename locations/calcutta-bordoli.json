@@ -1,0 +1,82 @@
+{
+  "id": "calcutta-bordoli",
+  "city": "Bordoli",
+  "state": "Calcutta",
+  "stateSlug": "calcutta",
+  "citySlug": "bordoli",
+  "country": "India",
+  "pincode": "394601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.8217,
+  "longitude": 73.5781,
+  "landmark": "Bordoli District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bordoli, India",
+  "population": 8477714,
+  "mobileUsers": 6595661,
+  "internetUsers": 5188360,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹10.90L per annum",
+  "activeMobileDevices": 10173256,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 61.2,
+  "maleCount": 4399934,
+  "femaleCount": 4077780,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Amalapuram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "amalapuram",
+      "distance": 15.837993030543807
+    },
+    {
+      "city": "Buchinghampet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "buchinghampet",
+      "distance": 45.7543119997016
+    },
+    {
+      "city": "Vela",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vela",
+      "distance": 88.44863358762211
+    },
+    {
+      "city": "Tiruchendur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchendur",
+      "distance": 91.36983826959936
+    },
+    {
+      "city": "Kathali",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kathali",
+      "distance": 107.01736025241836
+    }
+  ],
+  "geohash": "tdsk661",
+  "geohashUrl": "https://geohash.softeng.co/tdsk661"
+}

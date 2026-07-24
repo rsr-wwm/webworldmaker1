@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-anna-road",
+  "city": "Anna Road",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "anna-road",
+  "country": "India",
+  "pincode": "600002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.146,
+  "longitude": 77.8944,
+  "landmark": "Anna Road District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Anna Road, India",
+  "population": 8543246,
+  "mobileUsers": 6458693,
+  "internetUsers": 4681698,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹6.62L per annum",
+  "activeMobileDevices": 9141273,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 54.8,
+  "maleCount": 4382685,
+  "femaleCount": 4160561,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chalisgaon",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chalisgaon",
+      "distance": 68.94394172205146
+    },
+    {
+      "city": "Nahan",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "nahan",
+      "distance": 78.21693114721
+    },
+    {
+      "city": "Kolar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kolar",
+      "distance": 95.89754861171355
+    },
+    {
+      "city": "Mamit",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "mamit",
+      "distance": 97.50313827499761
+    },
+    {
+      "city": "Laheriasarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "laheriasarai",
+      "distance": 111.87263533072603
+    }
+  ],
+  "geohash": "ttpmu9b",
+  "geohashUrl": "https://geohash.softeng.co/ttpmu9b"
+}

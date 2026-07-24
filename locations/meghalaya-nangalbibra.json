@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-nangalbibra",
+  "city": "Nangalbibra",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "nangalbibra",
+  "country": "India",
+  "pincode": "794107",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.1046,
+  "longitude": 75.6009,
+  "landmark": "Nangalbibra Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nangalbibra, India",
+  "population": 2775139,
+  "mobileUsers": 2150732,
+  "internetUsers": 1559628,
+  "genderRatioText": "926 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹11.05L per annum",
+  "activeMobileDevices": 2802890,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 56.2,
+  "maleCount": 1440297,
+  "femaleCount": 1334842,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kunraghat",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "kunraghat",
+      "distance": 57.73262253099306
+    },
+    {
+      "city": "Mylapore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mylapore",
+      "distance": 60.61530940003576
+    },
+    {
+      "city": "Betul",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "betul",
+      "distance": 64.47527241841004
+    },
+    {
+      "city": "Mahesana",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "mahesana",
+      "distance": 76.87308404101995
+    },
+    {
+      "city": "Nayudupeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nayudupeta",
+      "distance": 77.22186658323449
+    }
+  ],
+  "geohash": "tevvb24",
+  "geohashUrl": "https://geohash.softeng.co/tevvb24"
+}

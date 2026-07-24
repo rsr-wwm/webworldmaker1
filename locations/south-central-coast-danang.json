@@ -1,0 +1,81 @@
+{
+  "id": "south-central-coast-danang",
+  "city": "Danang",
+  "state": "South Central Coast",
+  "stateSlug": "south-central-coast",
+  "citySlug": "danang",
+  "country": "Vietnam",
+  "pincode": "550000",
+  "currency": "VND",
+  "symbol": "₫",
+  "compliance": "MIC Regulations",
+  "carriers": [
+    "Viettel",
+    "Vinaphone",
+    "Mobifone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+84",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "latitude": 15.9875,
+  "longitude": 107.6378,
+  "landmark": "Danang Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Viettel networks. Failovers route over Vinaphone, Mobifone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Danang, Vietnam",
+  "population": 3825258,
+  "mobileUsers": 3167313,
+  "internetUsers": 2364009,
+  "genderRatioText": "1,009 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "₫31,318 VND per annum",
+  "activeMobileDevices": 5240603,
+  "mobilePenetration": 82.8,
+  "internetPenetration": 61.8,
+  "maleCount": 1904978,
+  "femaleCount": 1920280,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Haiphong",
+      "state": "Red River Delta",
+      "stateSlug": "red-river-delta",
+      "citySlug": "haiphong",
+      "distance": 19.768080682097878
+    },
+    {
+      "city": "Hanoi",
+      "state": "Hanoi Capital",
+      "stateSlug": "hanoi-capital",
+      "citySlug": "hanoi",
+      "distance": 21.467094316676594
+    },
+    {
+      "city": "Can Tho",
+      "state": "Mekong Delta",
+      "stateSlug": "mekong-delta",
+      "citySlug": "can-tho",
+      "distance": 42.97790975041194
+    },
+    {
+      "city": "Ho Chi Minh City",
+      "state": "Southeast Region",
+      "stateSlug": "southeast-region",
+      "citySlug": "ho-chi-minh-city",
+      "distance": 45.372375343327164
+    },
+    {
+      "city": "Luang Prabang",
+      "state": "Luang Prabang Province",
+      "stateSlug": "luang-prabang-province",
+      "citySlug": "luang-prabang",
+      "distance": 353.87852617641795
+    }
+  ],
+  "geohash": "w6udcq7",
+  "geohashUrl": "https://geohash.softeng.co/w6udcq7"
+}

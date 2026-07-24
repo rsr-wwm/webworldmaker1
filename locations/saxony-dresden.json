@@ -1,0 +1,81 @@
+{
+  "id": "saxony-dresden",
+  "city": "Dresden",
+  "state": "Saxony",
+  "stateSlug": "saxony",
+  "citySlug": "dresden",
+  "country": "Germany",
+  "pincode": "01067",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / BNetzA",
+  "carriers": [
+    "Telekom",
+    "Vodafone",
+    "O2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+49 30",
+  "timezone": "Europe/Berlin",
+  "latitude": 51.2864,
+  "longitude": 12.7189,
+  "landmark": "Dresden Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Dresden, Germany",
+  "population": 3508516,
+  "mobileUsers": 3343615,
+  "internetUsers": 3126087,
+  "genderRatioText": "978 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "€55,460 per annum",
+  "activeMobileDevices": 4420730,
+  "mobilePenetration": 95.3,
+  "internetPenetration": 89.1,
+  "maleCount": 1775309,
+  "femaleCount": 1733207,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Munster",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "munster",
+      "distance": 48.81012747759158
+    },
+    {
+      "city": "Karlsruhe",
+      "state": "Baden-Württemberg",
+      "stateSlug": "baden-wurttemberg",
+      "citySlug": "karlsruhe",
+      "distance": 64.2028169707531
+    },
+    {
+      "city": "Stuttgart",
+      "state": "Baden-Württemberg",
+      "stateSlug": "baden-wurttemberg",
+      "citySlug": "stuttgart",
+      "distance": 80.97027914068181
+    },
+    {
+      "city": "Hanover",
+      "state": "Lower Saxony",
+      "stateSlug": "lower-saxony",
+      "citySlug": "hanover",
+      "distance": 101.91889977000163
+    },
+    {
+      "city": "Leipzig",
+      "state": "Saxony",
+      "stateSlug": "saxony",
+      "citySlug": "leipzig",
+      "distance": 175.7068230241372
+    }
+  ],
+  "geohash": "u315c2m",
+  "geohashUrl": "https://geohash.softeng.co/u315c2m"
+}

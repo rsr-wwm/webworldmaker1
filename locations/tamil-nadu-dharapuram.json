@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-dharapuram",
+  "city": "Dharapuram",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "dharapuram",
+  "country": "India",
+  "pincode": "638656",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.9195,
+  "longitude": 70.1322,
+  "landmark": "Dharapuram Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dharapuram, India",
+  "population": 8518774,
+  "mobileUsers": 6516862,
+  "internetUsers": 4889776,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹10.46L per annum",
+  "activeMobileDevices": 8689149,
+  "mobilePenetration": 76.5,
+  "internetPenetration": 57.4,
+  "maleCount": 4378650,
+  "femaleCount": 4140124,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Visnagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "visnagar",
+      "distance": 17.02294026986407
+    },
+    {
+      "city": "Surat",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "surat",
+      "distance": 62.13447280106119
+    },
+    {
+      "city": "Dholpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "dholpur",
+      "distance": 85.41539445478885
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad",
+      "distance": 85.45246807912997
+    },
+    {
+      "city": "Nadiad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "nadiad",
+      "distance": 90.66743697548218
+    }
+  ],
+  "geohash": "tt3zgus",
+  "geohashUrl": "https://geohash.softeng.co/tt3zgus"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-pauri",
+  "city": "Pauri",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "pauri",
+  "country": "India",
+  "pincode": "246001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.3897,
+  "longitude": 78.3553,
+  "landmark": "Pauri District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pauri, India",
+  "population": 3027029,
+  "mobileUsers": 2233947,
+  "internetUsers": 1652757,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹9.70L per annum",
+  "activeMobileDevices": 3541623,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 54.6,
+  "maleCount": 1583136,
+  "femaleCount": 1443893,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Siwan",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "siwan",
+      "distance": 23.057436838613583
+    },
+    {
+      "city": "Kulokon",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kulokon",
+      "distance": 37.25795119611949
+    },
+    {
+      "city": "Murtizapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "murtizapur",
+      "distance": 41.953570659041816
+    },
+    {
+      "city": "Sango",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "sango",
+      "distance": 48.186085523127836
+    },
+    {
+      "city": "Kalpett",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kalpett",
+      "distance": 77.08073061886594
+    }
+  ],
+  "geohash": "tdp8z12",
+  "geohashUrl": "https://geohash.softeng.co/tdp8z12"
+}

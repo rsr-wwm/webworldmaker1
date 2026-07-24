@@ -1,0 +1,80 @@
+{
+  "id": "montserrado-county-monrovia",
+  "city": "Monrovia",
+  "state": "Montserrado County",
+  "stateSlug": "montserrado-county",
+  "citySlug": "monrovia",
+  "country": "Liberia",
+  "pincode": "1000",
+  "currency": "LRD",
+  "symbol": "L$",
+  "compliance": "LTA Rules",
+  "carriers": [
+    "Lonestar Cell MTN",
+    "Orange"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+231",
+  "timezone": "Africa/Monrovia",
+  "latitude": 6.3701,
+  "longitude": -9.416,
+  "landmark": "Monrovia Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over Lonestar Cell MTN networks. Failovers route over Orange with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Monrovia, Liberia",
+  "population": 4711170,
+  "mobileUsers": 3797203,
+  "internetUsers": 3081105,
+  "genderRatioText": "997 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "L$35,429 LRD per annum",
+  "activeMobileDevices": 5983185,
+  "mobilePenetration": 80.6,
+  "internetPenetration": 65.4,
+  "maleCount": 2360296,
+  "femaleCount": 2350874,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Freetown",
+      "state": "Western Area",
+      "stateSlug": "western-area",
+      "citySlug": "freetown",
+      "distance": 307.8458762773364
+    },
+    {
+      "city": "Yamoussoukro",
+      "state": "Lacs District",
+      "stateSlug": "lacs-district",
+      "citySlug": "yamoussoukro",
+      "distance": 515.2585864327468
+    },
+    {
+      "city": "Bouake",
+      "state": "Vallee du Bandama",
+      "stateSlug": "vallee-du-bandama",
+      "citySlug": "bouake",
+      "distance": 515.630736763368
+    },
+    {
+      "city": "Abidjan",
+      "state": "Lagunes District",
+      "stateSlug": "lagunes-district",
+      "citySlug": "abidjan",
+      "distance": 532.4605799648563
+    },
+    {
+      "city": "Conakry",
+      "state": "Conakry Region",
+      "stateSlug": "conakry-region",
+      "citySlug": "conakry",
+      "distance": 540.7696272379951
+    }
+  ],
+  "geohash": "ec1k1xx",
+  "geohashUrl": "https://geohash.softeng.co/ec1k1xx"
+}

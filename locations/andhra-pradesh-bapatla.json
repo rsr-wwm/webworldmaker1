@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-bapatla",
+  "city": "Bapatla",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "bapatla",
+  "country": "India",
+  "pincode": "522101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 8.599,
+  "longitude": 85.9528,
+  "landmark": "Bapatla Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bapatla, India",
+  "population": 2112177,
+  "mobileUsers": 1522879,
+  "internetUsers": 1248296,
+  "genderRatioText": "922 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹11.42L per annum",
+  "activeMobileDevices": 2513490,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 59.1,
+  "maleCount": 1098332,
+  "femaleCount": 1013845,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "vadodara",
+      "distance": 22.274099055045543
+    },
+    {
+      "city": "Roing",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "roing",
+      "distance": 39.50018087262016
+    },
+    {
+      "city": "Sasaram",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "sasaram",
+      "distance": 56.03172493997722
+    },
+    {
+      "city": "Sanbhar Lake",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sanbhar-lake",
+      "distance": 84.42584279519497
+    },
+    {
+      "city": "Zamania",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "zamania",
+      "distance": 130.13001831935884
+    }
+  ],
+  "geohash": "tct0gvk",
+  "geohashUrl": "https://geohash.softeng.co/tct0gvk"
+}

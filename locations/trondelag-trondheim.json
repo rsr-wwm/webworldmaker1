@@ -1,0 +1,81 @@
+{
+  "id": "trondelag-trondheim",
+  "city": "Trondheim",
+  "state": "Trøndelag",
+  "stateSlug": "trondelag",
+  "citySlug": "trondheim",
+  "country": "Norway",
+  "pincode": "7005",
+  "currency": "NOK",
+  "symbol": "kr",
+  "compliance": "GDPR / Nkom",
+  "carriers": [
+    "Telenor",
+    "Telia",
+    "Ice"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+47",
+  "timezone": "Europe/Oslo",
+  "latitude": 62.1378,
+  "longitude": 9.9018,
+  "landmark": "Trondheim Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Telenor networks. Failovers route over Telia, Ice with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Trondheim, Norway",
+  "population": 4385537,
+  "mobileUsers": 3477730,
+  "internetUsers": 2679563,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "kr30,680 NOK per annum",
+  "activeMobileDevices": 5438065,
+  "mobilePenetration": 79.3,
+  "internetPenetration": 61.1,
+  "maleCount": 2245395,
+  "femaleCount": 2140142,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Oslo",
+      "state": "Oslo County",
+      "stateSlug": "oslo-county",
+      "citySlug": "oslo",
+      "distance": 6.925606143703487
+    },
+    {
+      "city": "Bergen",
+      "state": "Vestland County",
+      "stateSlug": "vestland-county",
+      "citySlug": "bergen",
+      "distance": 10.756945013280827
+    },
+    {
+      "city": "Stavanger",
+      "state": "Rogaland",
+      "stateSlug": "rogaland",
+      "citySlug": "stavanger",
+      "distance": 13.374696047665637
+    },
+    {
+      "city": "Linköping",
+      "state": "Östergötland",
+      "stateSlug": "ostergotland",
+      "citySlug": "linkoping",
+      "distance": 258.44466177724763
+    },
+    {
+      "city": "Gothenburg",
+      "state": "Västra Götaland County",
+      "stateSlug": "vastra-gotaland-county",
+      "citySlug": "gothenburg",
+      "distance": 267.1183325507629
+    }
+  ],
+  "geohash": "u5p13rf",
+  "geohashUrl": "https://geohash.softeng.co/u5p13rf"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "chongqing-municipality-chongqing",
+  "city": "Chongqing",
+  "state": "Chongqing Municipality",
+  "stateSlug": "chongqing-municipality",
+  "citySlug": "chongqing",
+  "country": "China",
+  "pincode": "400000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.0695,
+  "longitude": 104.9656,
+  "landmark": "Chongqing GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Chongqing, China",
+  "population": 7798352,
+  "mobileUsers": 7236870,
+  "internetUsers": 5755183,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "¥39,775 CNY per annum",
+  "activeMobileDevices": 8188269,
+  "mobilePenetration": 92.8,
+  "internetPenetration": 73.8,
+  "maleCount": 3992756,
+  "femaleCount": 3805596,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Wuxi",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "wuxi",
+      "distance": 4.422258161474031
+    },
+    {
+      "city": "Shenzhen",
+      "state": "Guangdong Province",
+      "stateSlug": "guangdong-province",
+      "citySlug": "shenzhen",
+      "distance": 7.657172680929558
+    },
+    {
+      "city": "Shanghai",
+      "state": "Shanghai Municipality",
+      "stateSlug": "shanghai-municipality",
+      "citySlug": "shanghai",
+      "distance": 7.661417004344944
+    },
+    {
+      "city": "Urumqi",
+      "state": "Xinjiang Region",
+      "stateSlug": "xinjiang-region",
+      "citySlug": "urumqi",
+      "distance": 9.067219982241621
+    },
+    {
+      "city": "Zhengzhou",
+      "state": "Henan Province",
+      "stateSlug": "henan-province",
+      "citySlug": "zhengzhou",
+      "distance": 9.090183042956053
+    }
+  ],
+  "geohash": "wq4xs81",
+  "geohashUrl": "https://geohash.softeng.co/wq4xs81"
+}

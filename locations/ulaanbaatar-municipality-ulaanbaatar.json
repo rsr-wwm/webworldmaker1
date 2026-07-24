@@ -1,0 +1,81 @@
+{
+  "id": "ulaanbaatar-municipality-ulaanbaatar",
+  "city": "Ulaanbaatar",
+  "state": "Ulaanbaatar Municipality",
+  "stateSlug": "ulaanbaatar-municipality",
+  "citySlug": "ulaanbaatar",
+  "country": "Mongolia",
+  "pincode": "11000",
+  "currency": "MNT",
+  "symbol": "₮",
+  "compliance": "CRC Regulations",
+  "carriers": [
+    "Mobicom",
+    "Unitel",
+    "Skytel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+976",
+  "timezone": "Asia/Choibalsan",
+  "latitude": 46.0296,
+  "longitude": 104.8753,
+  "landmark": "Ulaanbaatar Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Mobicom networks. Failovers route over Unitel, Skytel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Ulaanbaatar, Mongolia",
+  "population": 3344992,
+  "mobileUsers": 2742893,
+  "internetUsers": 2073895,
+  "genderRatioText": "977 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "₮31,420 MNT per annum",
+  "activeMobileDevices": 4616088,
+  "mobilePenetration": 82,
+  "internetPenetration": 62,
+  "maleCount": 1692566,
+  "femaleCount": 1652426,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang",
+      "distance": 1204.882468097944
+    },
+    {
+      "city": "Harbin",
+      "state": "Heilongjiang Province",
+      "stateSlug": "heilongjiang-province",
+      "citySlug": "harbin",
+      "distance": 1205.162886420408
+    },
+    {
+      "city": "Xining",
+      "state": "Qinghai Province",
+      "stateSlug": "qinghai-province",
+      "citySlug": "xining",
+      "distance": 1205.908269506008
+    },
+    {
+      "city": "Tianjin",
+      "state": "Tianjin Municipality",
+      "stateSlug": "tianjin-municipality",
+      "citySlug": "tianjin",
+      "distance": 1206.6798043678264
+    },
+    {
+      "city": "Kunming",
+      "state": "Yunnan Province",
+      "stateSlug": "yunnan-province",
+      "citySlug": "kunming",
+      "distance": 1207.1683146146397
+    }
+  ],
+  "geohash": "y24tf7r",
+  "geohashUrl": "https://geohash.softeng.co/y24tf7r"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-chennai",
+  "city": "Chennai",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "chennai",
+  "country": "India",
+  "pincode": "600001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.3467,
+  "longitude": 81.597,
+  "landmark": "Chennai Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chennai, India",
+  "population": 3211317,
+  "mobileUsers": 2389219,
+  "internetUsers": 1804760,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹8.50L per annum",
+  "activeMobileDevices": 3339769,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 56.2,
+  "maleCount": 1640983,
+  "femaleCount": 1570334,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Patiala",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "patiala",
+      "distance": 67.0654243721289
+    },
+    {
+      "city": "Panagi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "panagi",
+      "distance": 75.43545933469106
+    },
+    {
+      "city": "Mantri Pokhri",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mantri-pokhri",
+      "distance": 78.02220350245229
+    },
+    {
+      "city": "Mahbubabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mahbubabad",
+      "distance": 85.60850074520476
+    },
+    {
+      "city": "Bhagalpur",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bhagalpur",
+      "distance": 88.90584537774079
+    }
+  ],
+  "geohash": "tg602gc",
+  "geohashUrl": "https://geohash.softeng.co/tg602gc"
+}

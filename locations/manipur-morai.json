@@ -1,0 +1,82 @@
+{
+  "id": "manipur-morai",
+  "city": "Morai",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "morai",
+  "country": "India",
+  "pincode": "795131",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.2026,
+  "longitude": 73.6652,
+  "landmark": "Morai District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Morai, India",
+  "population": 8851502,
+  "mobileUsers": 6674032,
+  "internetUsers": 5293198,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹7.13L per annum",
+  "activeMobileDevices": 9471107,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 59.8,
+  "maleCount": 4576227,
+  "femaleCount": 4275275,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kulittalai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kulittalai",
+      "distance": 25.314151397280085
+    },
+    {
+      "city": "Kandoli",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kandoli",
+      "distance": 46.28281781926134
+    },
+    {
+      "city": "Nambol",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "nambol",
+      "distance": 47.89104423878903
+    },
+    {
+      "city": "Gadwal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gadwal",
+      "distance": 56.421207202969754
+    },
+    {
+      "city": "Vasco Da Gama",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vasco-da-gama",
+      "distance": 95.23870369199193
+    }
+  ],
+  "geohash": "ttsrhq3",
+  "geohashUrl": "https://geohash.softeng.co/ttsrhq3"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-warangal",
+  "city": "Warangal",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "warangal",
+  "country": "India",
+  "pincode": "506002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.8256,
+  "longitude": 83.9772,
+  "landmark": "Warangal Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Warangal, India",
+  "population": 1542673,
+  "mobileUsers": 1119980,
+  "internetUsers": 902463,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹6.54L per annum",
+  "activeMobileDevices": 1619806,
+  "mobilePenetration": 72.6,
+  "internetPenetration": 58.5,
+  "maleCount": 791391,
+  "femaleCount": 751282,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Amaravati",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "amaravati",
+      "distance": 50.02067359422506
+    },
+    {
+      "city": "Rairangpur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "rairangpur",
+      "distance": 59.605653556536765
+    },
+    {
+      "city": "Harapanhalli",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "harapanhalli",
+      "distance": 66.98077767467454
+    },
+    {
+      "city": "Lamsang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lamsang",
+      "distance": 80.89361744920255
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi",
+      "distance": 82.60864343841574
+    }
+  ],
+  "geohash": "tf7wwuy",
+  "geohashUrl": "https://geohash.softeng.co/tf7wwuy"
+}

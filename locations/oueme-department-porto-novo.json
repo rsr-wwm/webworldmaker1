@@ -1,0 +1,81 @@
+{
+  "id": "oueme-department-porto-novo",
+  "city": "Porto-Novo",
+  "state": "Oueme Department",
+  "stateSlug": "oueme-department",
+  "citySlug": "porto-novo",
+  "country": "Benin",
+  "pincode": "00000",
+  "currency": "XOF",
+  "symbol": "CFA",
+  "compliance": "ARCEP Rules",
+  "carriers": [
+    "MTN",
+    "Moov",
+    "Celtiis"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+229",
+  "timezone": "Africa/Porto-Novo",
+  "latitude": 9.5103,
+  "longitude": 2.3613,
+  "landmark": "Porto-Novo Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Moov, Celtiis with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Porto-Novo, Benin",
+  "population": 2347363,
+  "mobileUsers": 1812164,
+  "internetUsers": 1535175,
+  "genderRatioText": "988 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "CFA38,557 XOF per annum",
+  "activeMobileDevices": 2863782,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 65.4,
+  "maleCount": 1180724,
+  "femaleCount": 1166639,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Lome",
+      "state": "Maritime Region",
+      "stateSlug": "maritime-region",
+      "citySlug": "lome",
+      "distance": 214.56380620600626
+    },
+    {
+      "city": "Accra",
+      "state": "Greater Accra",
+      "stateSlug": "greater-accra",
+      "citySlug": "accra",
+      "distance": 494.5569660777462
+    },
+    {
+      "city": "Kumasi",
+      "state": "Ashanti Region",
+      "stateSlug": "ashanti-region",
+      "citySlug": "kumasi",
+      "distance": 529.8901475172906
+    },
+    {
+      "city": "Bobo-Dioulasso",
+      "state": "Hauts-Bassins",
+      "stateSlug": "hauts-bassins",
+      "citySlug": "bobo-dioulasso",
+      "distance": 602.8058704172308
+    },
+    {
+      "city": "Kano",
+      "state": "Kano State",
+      "stateSlug": "kano-state",
+      "citySlug": "kano",
+      "distance": 604.440686122453
+    }
+  ],
+  "geohash": "s19wjer",
+  "geohashUrl": "https://geohash.softeng.co/s19wjer"
+}

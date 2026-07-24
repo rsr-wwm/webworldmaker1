@@ -1,0 +1,81 @@
+{
+  "id": "sylhet-division-sylhet",
+  "city": "Sylhet",
+  "state": "Sylhet Division",
+  "stateSlug": "sylhet-division",
+  "citySlug": "sylhet",
+  "country": "Bangladesh",
+  "pincode": "3100",
+  "currency": "BDT",
+  "symbol": "৳",
+  "compliance": "BTRC Guidelines",
+  "carriers": [
+    "Grameenphone",
+    "Robi",
+    "Banglalink"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+880",
+  "timezone": "Asia/Dhaka",
+  "latitude": 23.9316,
+  "longitude": 90.1457,
+  "landmark": "Sylhet GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over Grameenphone networks. Failovers route over Robi, Banglalink with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Sylhet, Bangladesh",
+  "population": 3891369,
+  "mobileUsers": 3229836,
+  "internetUsers": 2634456,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "৳21,985 BDT per annum",
+  "activeMobileDevices": 4903124,
+  "mobilePenetration": 83,
+  "internetPenetration": 67.7,
+  "maleCount": 1992381,
+  "femaleCount": 1898988,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Dhaka",
+      "state": "Dhaka Division",
+      "stateSlug": "dhaka-division",
+      "citySlug": "dhaka",
+      "distance": 6.501581579248798
+    },
+    {
+      "city": "Khulna",
+      "state": "Khulna Division",
+      "stateSlug": "khulna-division",
+      "citySlug": "khulna",
+      "distance": 29.69501761276671
+    },
+    {
+      "city": "Chittagong",
+      "state": "Chittagong Division",
+      "stateSlug": "chittagong-division",
+      "citySlug": "chittagong",
+      "distance": 33.67415225787381
+    },
+    {
+      "city": "Himat Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "himat-nagar",
+      "distance": 138.24705450363436
+    },
+    {
+      "city": "Mulund",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mulund",
+      "distance": 147.71236782111595
+    }
+  ],
+  "geohash": "wh205kd",
+  "geohashUrl": "https://geohash.softeng.co/wh205kd"
+}

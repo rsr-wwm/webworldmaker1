@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-penursala",
+  "city": "Penursala",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "penursala",
+  "country": "India",
+  "pincode": "793110",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.3219,
+  "longitude": 88.4823,
+  "landmark": "Penursala District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Penursala, India",
+  "population": 3984713,
+  "mobileUsers": 3008458,
+  "internetUsers": 2418720,
+  "genderRatioText": "960 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.97L per annum",
+  "activeMobileDevices": 4223795,
+  "mobilePenetration": 75.5,
+  "internetPenetration": 60.7,
+  "maleCount": 2032204,
+  "femaleCount": 1952509,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kottayam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kottayam",
+      "distance": 54.26421690361374
+    },
+    {
+      "city": "Himat Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "himat-nagar",
+      "distance": 55.647826950573766
+    },
+    {
+      "city": "Nayagarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "nayagarh",
+      "distance": 66.7756285343454
+    },
+    {
+      "city": "Bhavani",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "bhavani",
+      "distance": 96.04431440483732
+    },
+    {
+      "city": "Udamalpet",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "udamalpet",
+      "distance": 109.40891414850749
+    }
+  ],
+  "geohash": "tuqfm7w",
+  "geohashUrl": "https://geohash.softeng.co/tuqfm7w"
+}

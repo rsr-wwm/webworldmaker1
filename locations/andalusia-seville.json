@@ -1,0 +1,82 @@
+{
+  "id": "andalusia-seville",
+  "city": "Seville",
+  "state": "Andalusia",
+  "stateSlug": "andalusia",
+  "citySlug": "seville",
+  "country": "Spain",
+  "pincode": "41001",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / CNMC",
+  "carriers": [
+    "Movistar",
+    "Orange",
+    "Vodafone",
+    "Yoigo"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+34",
+  "timezone": "Africa/Ceuta",
+  "latitude": 40.0509,
+  "longitude": -4.0764,
+  "landmark": "Seville Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Movistar networks. Failovers route over Orange, Vodafone, Yoigo with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Seville, Spain",
+  "population": 2493488,
+  "mobileUsers": 1994790,
+  "internetUsers": 1595832,
+  "genderRatioText": "984 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "€68,110 per annum",
+  "activeMobileDevices": 3191664,
+  "mobilePenetration": 80,
+  "internetPenetration": 64,
+  "maleCount": 1256718,
+  "femaleCount": 1236770,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Malaga",
+      "state": "Andalusia",
+      "stateSlug": "andalusia",
+      "citySlug": "malaga",
+      "distance": 6.483326949698144
+    },
+    {
+      "city": "Valencia",
+      "state": "Valencian Community",
+      "stateSlug": "valencian-community",
+      "citySlug": "valencia",
+      "distance": 7.310584288233242
+    },
+    {
+      "city": "Zaragoza",
+      "state": "Aragon",
+      "stateSlug": "aragon",
+      "citySlug": "zaragoza",
+      "distance": 13.115530927786699
+    },
+    {
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "stateSlug": "community-of-madrid",
+      "citySlug": "madrid",
+      "distance": 22.14786627672088
+    },
+    {
+      "city": "Bilbao",
+      "state": "Basque Country",
+      "stateSlug": "basque-country",
+      "citySlug": "bilbao",
+      "distance": 22.92376715923588
+    }
+  ],
+  "geohash": "ezj5g5p",
+  "geohashUrl": "https://geohash.softeng.co/ezj5g5p"
+}

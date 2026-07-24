@@ -1,0 +1,82 @@
+{
+  "id": "kerala-tirur",
+  "city": "Tirur",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "tirur",
+  "country": "India",
+  "pincode": "676101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.6059,
+  "longitude": 77.7275,
+  "landmark": "Tirur District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tirur, India",
+  "population": 3376638,
+  "mobileUsers": 2505465,
+  "internetUsers": 1840267,
+  "genderRatioText": "926 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹7.11L per annum",
+  "activeMobileDevices": 3883133,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 54.5,
+  "maleCount": 1752475,
+  "femaleCount": 1624163,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhuj",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhuj",
+      "distance": 48.17841742451643
+    },
+    {
+      "city": "Nanjangud",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "nanjangud",
+      "distance": 66.85501358680392
+    },
+    {
+      "city": "Thinghai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thinghai",
+      "distance": 108.87021602390749
+    },
+    {
+      "city": "Durg",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "durg",
+      "distance": 119.0171316587123
+    },
+    {
+      "city": "Gandhi Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gandhi-nagar",
+      "distance": 123.89855464450888
+    }
+  ],
+  "geohash": "tdz2b8z",
+  "geohashUrl": "https://geohash.softeng.co/tdz2b8z"
+}

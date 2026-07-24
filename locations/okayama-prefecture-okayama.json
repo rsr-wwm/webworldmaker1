@@ -1,0 +1,81 @@
+{
+  "id": "okayama-prefecture-okayama",
+  "city": "Okayama",
+  "state": "Okayama Prefecture",
+  "stateSlug": "okayama-prefecture",
+  "citySlug": "okayama",
+  "country": "Japan",
+  "pincode": "700-8570",
+  "currency": "JPY",
+  "symbol": "¥",
+  "compliance": "MIC Telecommunications Act",
+  "carriers": [
+    "NTT Docomo",
+    "KDDI",
+    "SoftBank"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+81 3",
+  "timezone": "Asia/Tokyo",
+  "latitude": 34.6553944,
+  "longitude": 133.9194595,
+  "landmark": "Okayama Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Okayama, Japan",
+  "population": 2554965,
+  "mobileUsers": 2491090,
+  "internetUsers": 2317353,
+  "genderRatioText": "969 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "¥22,616 JPY per annum",
+  "activeMobileDevices": 3525851,
+  "mobilePenetration": 97.5,
+  "internetPenetration": 90.7,
+  "maleCount": 1297922,
+  "femaleCount": 1257043,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Kobe",
+      "state": "Hyogo Prefecture",
+      "stateSlug": "hyogo-prefecture",
+      "citySlug": "kobe",
+      "distance": 116.66196484663627
+    },
+    {
+      "city": "Hiroshima",
+      "state": "Hiroshima Prefecture",
+      "stateSlug": "hiroshima-prefecture",
+      "citySlug": "hiroshima",
+      "distance": 137.61798958098026
+    },
+    {
+      "city": "Osaka",
+      "state": "Osaka Prefecture",
+      "stateSlug": "osaka-prefecture",
+      "citySlug": "osaka",
+      "distance": 144.7289594099826
+    },
+    {
+      "city": "Kyoto",
+      "state": "Kyoto Prefecture",
+      "stateSlug": "kyoto-prefecture",
+      "citySlug": "kyoto",
+      "distance": 173.31335116568323
+    },
+    {
+      "city": "Nagoya",
+      "state": "Aichi Prefecture",
+      "stateSlug": "aichi-prefecture",
+      "citySlug": "nagoya",
+      "distance": 278.03254561922853
+    }
+  ],
+  "geohash": "wypjpkv",
+  "geohashUrl": "https://geohash.softeng.co/wypjpkv"
+}

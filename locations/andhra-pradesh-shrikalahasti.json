@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-shrikalahasti",
+  "city": "Shrikalahasti",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "shrikalahasti",
+  "country": "India",
+  "pincode": "517644",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.696,
+  "longitude": 88.3333,
+  "landmark": "Shrikalahasti Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shrikalahasti, India",
+  "population": 7403992,
+  "mobileUsers": 5471550,
+  "internetUsers": 4397971,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹9.23L per annum",
+  "activeMobileDevices": 8366510,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 59.4,
+  "maleCount": 3850076,
+  "femaleCount": 3553916,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mayang Imphal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mayang-imphal",
+      "distance": 39.62159733742293
+    },
+    {
+      "city": "Tripuradam Chera",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "tripuradam-chera",
+      "distance": 52.35306755088583
+    },
+    {
+      "city": "Shorapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shorapur",
+      "distance": 65.4025069818154
+    },
+    {
+      "city": "Muddebihal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "muddebihal",
+      "distance": 86.6895688967868
+    },
+    {
+      "city": "Mokokchung",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mokokchung",
+      "distance": 87.00965629498839
+    }
+  ],
+  "geohash": "tfyyfp6",
+  "geohashUrl": "https://geohash.softeng.co/tfyyfp6"
+}

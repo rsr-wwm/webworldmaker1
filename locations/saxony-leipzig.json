@@ -1,0 +1,81 @@
+{
+  "id": "saxony-leipzig",
+  "city": "Leipzig",
+  "state": "Saxony",
+  "stateSlug": "saxony",
+  "citySlug": "leipzig",
+  "country": "Germany",
+  "pincode": "04109",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / BNetzA",
+  "carriers": [
+    "Telekom",
+    "Vodafone",
+    "O2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+49 30",
+  "timezone": "Europe/Berlin",
+  "latitude": 49.7209,
+  "longitude": 13.0567,
+  "landmark": "Leipzig Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Leipzig, Germany",
+  "population": 4926704,
+  "mobileUsers": 4793682,
+  "internetUsers": 4606468,
+  "genderRatioText": "970 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "€41,231 per annum",
+  "activeMobileDevices": 6109112,
+  "mobilePenetration": 97.3,
+  "internetPenetration": 93.5,
+  "maleCount": 2502766,
+  "femaleCount": 2423938,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Frankfurt",
+      "state": "Hesse",
+      "stateSlug": "hesse",
+      "citySlug": "frankfurt",
+      "distance": 73.0469391041143
+    },
+    {
+      "city": "Munster",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "munster",
+      "distance": 130.6498124734184
+    },
+    {
+      "city": "Hanover",
+      "state": "Lower Saxony",
+      "stateSlug": "lower-saxony",
+      "citySlug": "hanover",
+      "distance": 144.7556009373234
+    },
+    {
+      "city": "Ostrava",
+      "state": "Moravian-Silesian",
+      "stateSlug": "moravian-silesian",
+      "citySlug": "ostrava",
+      "distance": 163.1219551269143
+    },
+    {
+      "city": "Brno",
+      "state": "South Moravian",
+      "stateSlug": "south-moravian",
+      "citySlug": "brno",
+      "distance": 167.15464897112895
+    }
+  ],
+  "geohash": "u2c6c57",
+  "geohashUrl": "https://geohash.softeng.co/u2c6c57"
+}

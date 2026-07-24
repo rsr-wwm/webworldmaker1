@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-palghar",
+  "city": "Palghar",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "palghar",
+  "country": "India",
+  "pincode": "401404",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.7116,
+  "longitude": 71.9261,
+  "landmark": "Palghar Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Palghar, India",
+  "population": 8541191,
+  "mobileUsers": 6585258,
+  "internetUsers": 4765984,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹8.39L per annum",
+  "activeMobileDevices": 9309898,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 55.8,
+  "maleCount": 4398713,
+  "femaleCount": 4142478,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Phatikchara",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "phatikchara",
+      "distance": 26.621375428180258
+    },
+    {
+      "city": "Bhind",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhind",
+      "distance": 30.959814555558395
+    },
+    {
+      "city": "Kanjirapally",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kanjirapally",
+      "distance": 50.65104322896149
+    },
+    {
+      "city": "Cooch Behar",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "cooch-behar",
+      "distance": 60.34308801158444
+    },
+    {
+      "city": "Shabroom",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shabroom",
+      "distance": 74.45841928269498
+    }
+  ],
+  "geohash": "ts5nusw",
+  "geohashUrl": "https://geohash.softeng.co/ts5nusw"
+}

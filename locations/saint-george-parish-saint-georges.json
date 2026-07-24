@@ -1,0 +1,80 @@
+{
+  "id": "saint-george-parish-saint-georges",
+  "city": "Saint George's",
+  "state": "Saint George Parish",
+  "stateSlug": "saint-george-parish",
+  "citySlug": "saint-georges",
+  "country": "Grenada",
+  "pincode": "00000",
+  "currency": "XCD",
+  "symbol": "EC$",
+  "compliance": "ECTEL / NTRC",
+  "carriers": [
+    "Flow",
+    "Digicel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1",
+  "timezone": "America/Grenada",
+  "latitude": 12.0311,
+  "longitude": -61.7328,
+  "landmark": "Saint George's Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Saint George's, Grenada",
+  "population": 1554907,
+  "mobileUsers": 1275023,
+  "internetUsers": 1016909,
+  "genderRatioText": "1,005 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "EC$28,680 XCD per annum",
+  "activeMobileDevices": 2130222,
+  "mobilePenetration": 82,
+  "internetPenetration": 65.4,
+  "maleCount": 775899,
+  "femaleCount": 779008,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Kingstown",
+      "state": "Saint George Parish",
+      "stateSlug": "saint-george-parish",
+      "citySlug": "kingstown",
+      "distance": 128.9763348953359
+    },
+    {
+      "city": "Castries",
+      "state": "Castries District",
+      "stateSlug": "castries-district",
+      "citySlug": "castries",
+      "distance": 242.22397736590563
+    },
+    {
+      "city": "Bridgetown",
+      "state": "Saint Michael Parish",
+      "stateSlug": "saint-michael-parish",
+      "citySlug": "bridgetown",
+      "distance": 270.81523475508845
+    },
+    {
+      "city": "Plymouth",
+      "state": "Saint Anthony Parish",
+      "stateSlug": "saint-anthony-parish",
+      "citySlug": "plymouth",
+      "distance": 535.7787719159335
+    },
+    {
+      "city": "Saint John's",
+      "state": "Saint John Parish",
+      "stateSlug": "saint-john-parish",
+      "citySlug": "saint-johns",
+      "distance": 576.3414382168992
+    }
+  ],
+  "geohash": "ddhh7np",
+  "geohashUrl": "https://geohash.softeng.co/ddhh7np"
+}

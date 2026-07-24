@@ -1,0 +1,82 @@
+{
+  "id": "himachal-pradesh-solan",
+  "city": "Solan",
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal-pradesh",
+  "citySlug": "solan",
+  "country": "India",
+  "pincode": "173212",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.5938,
+  "longitude": 77.1185,
+  "landmark": "Solan Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Solan, India",
+  "population": 2430430,
+  "mobileUsers": 1893304,
+  "internetUsers": 1431523,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.48L per annum",
+  "activeMobileDevices": 2916516,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 58.9,
+  "maleCount": 1266254,
+  "femaleCount": 1164176,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thinghai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thinghai",
+      "distance": 23.735173168365158
+    },
+    {
+      "city": "Palampur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "palampur",
+      "distance": 29.070826032001328
+    },
+    {
+      "city": "Tirupur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirupur",
+      "distance": 60.917922130981815
+    },
+    {
+      "city": "Nanjangud",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "nanjangud",
+      "distance": 93.13452048319725
+    },
+    {
+      "city": "Bhuj",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhuj",
+      "distance": 108.47489043672319
+    }
+  ],
+  "geohash": "tdwg4be",
+  "geohashUrl": "https://geohash.softeng.co/tdwg4be"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "manipur-churachandpur",
+  "city": "Churachandpur",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "churachandpur",
+  "country": "India",
+  "pincode": "795128",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.6405,
+  "longitude": 85.963,
+  "landmark": "Churachandpur Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Churachandpur, India",
+  "population": 9655122,
+  "mobileUsers": 7463409,
+  "internetUsers": 5619281,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹10.31L per annum",
+  "activeMobileDevices": 10041326,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 58.2,
+  "maleCount": 5049629,
+  "femaleCount": 4605493,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Arundatinagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "arundatinagar",
+      "distance": 36.01212216170746
+    },
+    {
+      "city": "Samalkot",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "samalkot",
+      "distance": 49.08662419151656
+    },
+    {
+      "city": "Buldhana",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "buldhana",
+      "distance": 59.44016940915273
+    },
+    {
+      "city": "Yeshwant Road (Indore)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "yeshwant-road-indore",
+      "distance": 67.36755938500721
+    },
+    {
+      "city": "Allappuzha",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "allappuzha",
+      "distance": 69.18650162259354
+    }
+  ],
+  "geohash": "tfjpujh",
+  "geohashUrl": "https://geohash.softeng.co/tfjpujh"
+}

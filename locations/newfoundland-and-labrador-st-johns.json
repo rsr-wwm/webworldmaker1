@@ -1,0 +1,81 @@
+{
+  "id": "newfoundland-and-labrador-st-johns",
+  "city": "St. John's",
+  "state": "Newfoundland and Labrador",
+  "stateSlug": "newfoundland-and-labrador",
+  "citySlug": "st-johns",
+  "country": "Canada",
+  "pincode": "A1C",
+  "currency": "CAD",
+  "symbol": "C$",
+  "compliance": "CRTC / CASL Guidelines",
+  "carriers": [
+    "Rogers",
+    "Bell",
+    "Telus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 416",
+  "timezone": "America/Toronto",
+  "latitude": 47.5646794,
+  "longitude": -52.7066964,
+  "landmark": "St. John's District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for St. John's, Canada",
+  "population": 4246948,
+  "mobileUsers": 4132280,
+  "internetUsers": 3941167,
+  "genderRatioText": "973 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "C$22,878 CAD per annum",
+  "activeMobileDevices": 5860788,
+  "mobilePenetration": 97.3,
+  "internetPenetration": 92.8,
+  "maleCount": 2153203,
+  "femaleCount": 2093745,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Halifax",
+      "state": "Nova Scotia",
+      "stateSlug": "nova-scotia",
+      "citySlug": "halifax",
+      "distance": 898.246222161375
+    },
+    {
+      "city": "Nice",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "stateSlug": "provence-alpes-cote-dazur",
+      "citySlug": "nice",
+      "distance": 1069.431263998637
+    },
+    {
+      "city": "Quebec City",
+      "state": "Quebec",
+      "stateSlug": "quebec",
+      "citySlug": "quebec-city",
+      "distance": 1397.2658946340828
+    },
+    {
+      "city": "Montreal",
+      "state": "Quebec",
+      "stateSlug": "quebec",
+      "citySlug": "montreal",
+      "distance": 1607.2841640247902
+    },
+    {
+      "city": "Buffalo",
+      "state": "New York",
+      "stateSlug": "new-york",
+      "citySlug": "buffalo",
+      "distance": 1718.0726610988754
+    }
+  ],
+  "geohash": "fb6w8du",
+  "geohashUrl": "https://geohash.softeng.co/fb6w8du"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-nampong",
+  "city": "Nampong",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "nampong",
+  "country": "India",
+  "pincode": "792123",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.4029,
+  "longitude": 75.9532,
+  "landmark": "Nampong Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nampong, India",
+  "population": 5058070,
+  "mobileUsers": 3758146,
+  "internetUsers": 2969087,
+  "genderRatioText": "965 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹9.48L per annum",
+  "activeMobileDevices": 5159231,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 58.7,
+  "maleCount": 2574558,
+  "femaleCount": 2483512,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Secunderabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "secunderabad",
+      "distance": 15.38612229165227
+    },
+    {
+      "city": "Banda",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "banda",
+      "distance": 82.25772115042204
+    },
+    {
+      "city": "Dhule",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "dhule",
+      "distance": 87.24805609738551
+    },
+    {
+      "city": "Adoni",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "adoni",
+      "distance": 87.69595444874862
+    },
+    {
+      "city": "Tirukkoyilur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirukkoyilur",
+      "distance": 104.9347818907032
+    }
+  ],
+  "geohash": "tsw0827",
+  "geohashUrl": "https://geohash.softeng.co/tsw0827"
+}

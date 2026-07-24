@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tindivanam",
+  "city": "Tindivanam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tindivanam",
+  "country": "India",
+  "pincode": "604001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.3404,
+  "longitude": 83.8651,
+  "landmark": "Tindivanam State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tindivanam, India",
+  "population": 7188870,
+  "mobileUsers": 5341330,
+  "internetUsers": 4392399,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹9.46L per annum",
+  "activeMobileDevices": 8482866,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 61.1,
+  "maleCount": 3709457,
+  "femaleCount": 3479413,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kathmandu",
+      "state": "Bagmati Province",
+      "stateSlug": "bagmati-province",
+      "citySlug": "kathmandu",
+      "distance": 43.21913491706672
+    },
+    {
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ghaziabad",
+      "distance": 57.96835553441841
+    },
+    {
+      "city": "Mannargudi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mannargudi",
+      "distance": 61.700455356872695
+    },
+    {
+      "city": "Bellary",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bellary",
+      "distance": 66.45017487293863
+    },
+    {
+      "city": "Kalbadevi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kalbadevi",
+      "distance": 74.43272319182628
+    }
+  ],
+  "geohash": "tv59hrh",
+  "geohashUrl": "https://geohash.softeng.co/tv59hrh"
+}

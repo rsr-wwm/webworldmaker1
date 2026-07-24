@@ -1,0 +1,81 @@
+{
+  "id": "azuay-province-cuenca",
+  "city": "Cuenca",
+  "state": "Azuay Province",
+  "stateSlug": "azuay-province",
+  "citySlug": "cuenca",
+  "country": "Ecuador",
+  "pincode": "010150",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "ARCOTEL Rules",
+  "carriers": [
+    "Conecel",
+    "Otecel",
+    "CNT"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+593",
+  "timezone": "America/Guayaquil",
+  "latitude": -2.019,
+  "longitude": -77.464,
+  "landmark": "Cuenca Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Conecel networks. Failovers route over Otecel, CNT with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Cuenca, Ecuador",
+  "population": 4491399,
+  "mobileUsers": 3579645,
+  "internetUsers": 2852038,
+  "genderRatioText": "985 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "$23,541 USD per annum",
+  "activeMobileDevices": 5434592,
+  "mobilePenetration": 79.7,
+  "internetPenetration": 63.5,
+  "maleCount": 2263665,
+  "femaleCount": 2227734,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Quito",
+      "state": "Pichincha Province",
+      "stateSlug": "pichincha-province",
+      "citySlug": "quito",
+      "distance": 4.917196693181351
+    },
+    {
+      "city": "Guayaquil",
+      "state": "Guayas Province",
+      "stateSlug": "guayas-province",
+      "citySlug": "guayaquil",
+      "distance": 16.246168758279733
+    },
+    {
+      "city": "Manta",
+      "state": "Manabi Province",
+      "stateSlug": "manabi-province",
+      "citySlug": "manta",
+      "distance": 23.5907297896312
+    },
+    {
+      "city": "Bogota",
+      "state": "Bogota Capital District",
+      "stateSlug": "bogota-capital-district",
+      "citySlug": "bogota",
+      "distance": 888.4140124209054
+    },
+    {
+      "city": "Bucaramanga",
+      "state": "Santander Department",
+      "stateSlug": "santander-department",
+      "citySlug": "bucaramanga",
+      "distance": 893.0697286022337
+    }
+  ],
+  "geohash": "6r8ut22",
+  "geohashUrl": "https://geohash.softeng.co/6r8ut22"
+}

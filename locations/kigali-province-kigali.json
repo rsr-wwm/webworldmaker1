@@ -1,0 +1,80 @@
+{
+  "id": "kigali-province-kigali",
+  "city": "Kigali",
+  "state": "Kigali Province",
+  "stateSlug": "kigali-province",
+  "citySlug": "kigali",
+  "country": "Rwanda",
+  "pincode": "00000",
+  "currency": "RWF",
+  "symbol": "FRw",
+  "compliance": "RURA Guidelines",
+  "carriers": [
+    "MTN",
+    "Airtel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+250",
+  "timezone": "Africa/Kigali",
+  "latitude": -2.0382,
+  "longitude": 29.8164,
+  "landmark": "Kigali Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Airtel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kigali, Rwanda",
+  "population": 3618266,
+  "mobileUsers": 2851193,
+  "internetUsers": 2210760,
+  "genderRatioText": "967 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "FRw40,738 RWF per annum",
+  "activeMobileDevices": 4414284,
+  "mobilePenetration": 78.8,
+  "internetPenetration": 61.1,
+  "maleCount": 1838079,
+  "femaleCount": 1780187,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Gitega",
+      "state": "Gitega Province",
+      "stateSlug": "gitega-province",
+      "citySlug": "gitega",
+      "distance": 170.0692505346443
+    },
+    {
+      "city": "Bujumbura",
+      "state": "Bujumbura Mairie",
+      "stateSlug": "bujumbura-mairie",
+      "citySlug": "bujumbura",
+      "distance": 178.50031354920037
+    },
+    {
+      "city": "Kampala",
+      "state": "Central Region",
+      "stateSlug": "central-region",
+      "citySlug": "kampala",
+      "distance": 406.8487806357801
+    },
+    {
+      "city": "Kinshasa",
+      "state": "Kinshasa Province",
+      "stateSlug": "kinshasa-province",
+      "citySlug": "kinshasa",
+      "distance": 580.5013769164915
+    },
+    {
+      "city": "Lubumbashi",
+      "state": "Haut-Katanga",
+      "stateSlug": "haut-katanga",
+      "citySlug": "lubumbashi",
+      "distance": 589.5555612429343
+    }
+  ],
+  "geohash": "kxthqkz",
+  "geohashUrl": "https://geohash.softeng.co/kxthqkz"
+}

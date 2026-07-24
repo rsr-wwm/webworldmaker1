@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-santa",
+  "city": "Santa",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "santa",
+  "country": "India",
+  "pincode": "485001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.1968,
+  "longitude": 79.9773,
+  "landmark": "Santa Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Santa, India",
+  "population": 6263370,
+  "mobileUsers": 4735107,
+  "internetUsers": 3388483,
+  "genderRatioText": "924 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹8.96L per annum",
+  "activeMobileDevices": 7516044,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 54.1,
+  "maleCount": 3256952,
+  "femaleCount": 3006418,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Darlawn",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "darlawn",
+      "distance": 25.65906082666581
+    },
+    {
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "salem",
+      "distance": 53.558038688797296
+    },
+    {
+      "city": "Doimukh",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "doimukh",
+      "distance": 60.05954872140629
+    },
+    {
+      "city": "Raisen",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raisen",
+      "distance": 66.34943575384865
+    },
+    {
+      "city": "Sullia",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sullia",
+      "distance": 82.14709593709253
+    }
+  ],
+  "geohash": "tv0b7vj",
+  "geohashUrl": "https://geohash.softeng.co/tv0b7vj"
+}

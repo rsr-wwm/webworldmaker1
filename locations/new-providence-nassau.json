@@ -1,0 +1,80 @@
+{
+  "id": "new-providence-nassau",
+  "city": "Nassau",
+  "state": "New Providence",
+  "stateSlug": "new-providence",
+  "citySlug": "nassau",
+  "country": "Bahamas",
+  "pincode": "00000",
+  "currency": "BSD",
+  "symbol": "B$",
+  "compliance": "URCA Regulations",
+  "carriers": [
+    "Aliv",
+    "BTC"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1",
+  "timezone": "America/Nassau",
+  "latitude": 24.2623,
+  "longitude": -76.1339,
+  "landmark": "Nassau District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Aliv networks. Failovers route over BTC with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Nassau, Bahamas",
+  "population": 3153562,
+  "mobileUsers": 2544924,
+  "internetUsers": 2109732,
+  "genderRatioText": "967 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "B$30,386 BSD per annum",
+  "activeMobileDevices": 3815810,
+  "mobilePenetration": 80.7,
+  "internetPenetration": 66.9,
+  "maleCount": 1602009,
+  "femaleCount": 1551553,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Chattanooga",
+      "state": "Tennessee",
+      "stateSlug": "tennessee",
+      "citySlug": "chattanooga",
+      "distance": 317.51798267949937
+    },
+    {
+      "city": "Havana",
+      "state": "La Habana Province",
+      "stateSlug": "la-habana-province",
+      "citySlug": "havana",
+      "distance": 503.13710138611293
+    },
+    {
+      "city": "Kingston",
+      "state": "Surrey County",
+      "stateSlug": "surrey-county",
+      "citySlug": "kingston",
+      "distance": 667.0446994570625
+    },
+    {
+      "city": "Montego Bay",
+      "state": "Saint James Parish",
+      "stateSlug": "saint-james-parish",
+      "citySlug": "montego-bay",
+      "distance": 669.7147095717188
+    },
+    {
+      "city": "George Town",
+      "state": "Grand Cayman",
+      "stateSlug": "grand-cayman",
+      "citySlug": "george-town",
+      "distance": 677.1121339388392
+    }
+  ],
+  "geohash": "dk3f58b",
+  "geohashUrl": "https://geohash.softeng.co/dk3f58b"
+}

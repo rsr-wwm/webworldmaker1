@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-indi",
+  "city": "Indi",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "indi",
+  "country": "India",
+  "pincode": "586209",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.2121,
+  "longitude": 87.6427,
+  "landmark": "Indi GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Indi, India",
+  "population": 8102432,
+  "mobileUsers": 6036311,
+  "internetUsers": 4869561,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹11.41L per annum",
+  "activeMobileDevices": 8507553,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 60.1,
+  "maleCount": 4140343,
+  "femaleCount": 3962089,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sunamura",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "sunamura",
+      "distance": 57.34717742043541
+    },
+    {
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "aligarh",
+      "distance": 74.79803582188197
+    },
+    {
+      "city": "Likabili",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "likabili",
+      "distance": 75.70076772248693
+    },
+    {
+      "city": "Hassan",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hassan",
+      "distance": 78.63852347356784
+    },
+    {
+      "city": "Budaun",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "budaun",
+      "distance": 96.96499838205385
+    }
+  ],
+  "geohash": "tgqm637",
+  "geohashUrl": "https://geohash.softeng.co/tgqm637"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "dhaka-division-dhaka",
+  "city": "Dhaka",
+  "state": "Dhaka Division",
+  "stateSlug": "dhaka-division",
+  "citySlug": "dhaka",
+  "country": "Bangladesh",
+  "pincode": "1200",
+  "currency": "BDT",
+  "symbol": "৳",
+  "compliance": "BTRC Guidelines",
+  "carriers": [
+    "Grameenphone",
+    "Robi",
+    "Banglalink"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+880",
+  "timezone": "Asia/Dhaka",
+  "latitude": 23.8906,
+  "longitude": 90.1001,
+  "landmark": "Dhaka Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Grameenphone networks. Failovers route over Robi, Banglalink with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Dhaka, Bangladesh",
+  "population": 552627,
+  "mobileUsers": 434917,
+  "internetUsers": 355891,
+  "genderRatioText": "967 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "৳38,610 BDT per annum",
+  "activeMobileDevices": 707362,
+  "mobilePenetration": 78.7,
+  "internetPenetration": 64.4,
+  "maleCount": 280735,
+  "femaleCount": 271892,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Sylhet",
+      "state": "Sylhet Division",
+      "stateSlug": "sylhet-division",
+      "citySlug": "sylhet",
+      "distance": 6.501581579248798
+    },
+    {
+      "city": "Khulna",
+      "state": "Khulna Division",
+      "stateSlug": "khulna-division",
+      "citySlug": "khulna",
+      "distance": 31.345891522071625
+    },
+    {
+      "city": "Chittagong",
+      "state": "Chittagong Division",
+      "stateSlug": "chittagong-division",
+      "citySlug": "chittagong",
+      "distance": 32.43047222245027
+    },
+    {
+      "city": "Himat Nagar",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "himat-nagar",
+      "distance": 136.70550860708985
+    },
+    {
+      "city": "Mulund",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mulund",
+      "distance": 141.59520272544228
+    }
+  ],
+  "geohash": "wh0pfm0",
+  "geohashUrl": "https://geohash.softeng.co/wh0pfm0"
+}

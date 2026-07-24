@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-rajnandgaon",
+  "city": "Rajnandgaon",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "rajnandgaon",
+  "country": "India",
+  "pincode": "491441",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.2355,
+  "longitude": 84.9513,
+  "landmark": "Rajnandgaon GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rajnandgaon, India",
+  "population": 1532783,
+  "mobileUsers": 1149587,
+  "internetUsers": 930399,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹10.51L per annum",
+  "activeMobileDevices": 1609422,
+  "mobilePenetration": 75,
+  "internetPenetration": 60.7,
+  "maleCount": 783252,
+  "femaleCount": 749531,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhubaneswar G.P.O",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhubaneswar-gpo",
+      "distance": 40.24725828872539
+    },
+    {
+      "city": "Agartala G.P.O",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "agartala-gpo",
+      "distance": 58.89500919902006
+    },
+    {
+      "city": "Saiha",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saiha",
+      "distance": 70.29289618222762
+    },
+    {
+      "city": "Bagalkot",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bagalkot",
+      "distance": 87.1670660042648
+    },
+    {
+      "city": "Shajapur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shajapur",
+      "distance": 90.47852810090828
+    }
+  ],
+  "geohash": "tgkmmje",
+  "geohashUrl": "https://geohash.softeng.co/tgkmmje"
+}

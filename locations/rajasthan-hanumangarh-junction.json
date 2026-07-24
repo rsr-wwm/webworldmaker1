@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-hanumangarh-junction",
+  "city": "Hanumangarh Junction",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "hanumangarh-junction",
+  "country": "India",
+  "pincode": "335512",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.5671,
+  "longitude": 72.023,
+  "landmark": "Hanumangarh Junction Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hanumangarh Junction, India",
+  "population": 2780284,
+  "mobileUsers": 2107455,
+  "internetUsers": 1559739,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹11.50L per annum",
+  "activeMobileDevices": 3225129,
+  "mobilePenetration": 75.8,
+  "internetPenetration": 56.1,
+  "maleCount": 1426286,
+  "femaleCount": 1353998,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shabroom",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shabroom",
+      "distance": 22.80454189488352
+    },
+    {
+      "city": "Ampinagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ampinagar",
+      "distance": 34.834986384741256
+    },
+    {
+      "city": "Cooch Behar",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "cooch-behar",
+      "distance": 35.51884801329121
+    },
+    {
+      "city": "Davangere",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "davangere",
+      "distance": 57.58622364221149
+    },
+    {
+      "city": "Sivakasi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sivakasi",
+      "distance": 58.46263432277952
+    }
+  ],
+  "geohash": "ts75ybm",
+  "geohashUrl": "https://geohash.softeng.co/ts75ybm"
+}

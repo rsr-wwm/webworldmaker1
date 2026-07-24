@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-mainpuri",
+  "city": "Mainpuri",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "mainpuri",
+  "country": "India",
+  "pincode": "205001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.6957,
+  "longitude": 84.8041,
+  "landmark": "Mainpuri Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mainpuri, India",
+  "population": 6516304,
+  "mobileUsers": 4698255,
+  "internetUsers": 3922815,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹6.74L per annum",
+  "activeMobileDevices": 7298260,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 60.2,
+  "maleCount": 3342864,
+  "femaleCount": 3173440,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Calcutta G.P.O",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "calcutta-gpo",
+      "distance": 30.148874720238748
+    },
+    {
+      "city": "Bikaner",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bikaner",
+      "distance": 63.52193938379385
+    },
+    {
+      "city": "Saharsa",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "saharsa",
+      "distance": 65.19957665190249
+    },
+    {
+      "city": "Chaokham",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "chaokham",
+      "distance": 70.9261864269698
+    },
+    {
+      "city": "Atur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "atur",
+      "distance": 78.3680310757725
+    }
+  ],
+  "geohash": "tvk2cvb",
+  "geohashUrl": "https://geohash.softeng.co/tvk2cvb"
+}

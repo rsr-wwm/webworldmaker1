@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-nanglayer",
+  "city": "Nanglayer",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "nanglayer",
+  "country": "India",
+  "pincode": "793009",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.9465,
+  "longitude": 86.5541,
+  "landmark": "Nanglayer Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nanglayer, India",
+  "population": 2777430,
+  "mobileUsers": 2005304,
+  "internetUsers": 1658125,
+  "genderRatioText": "924 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹10.34L per annum",
+  "activeMobileDevices": 2971850,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 59.7,
+  "maleCount": 1444264,
+  "femaleCount": 1333166,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kadamtala",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "kadamtala",
+      "distance": 22.32436663762198
+    },
+    {
+      "city": "Chuchaimalang",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chuchaimalang",
+      "distance": 39.26147231617621
+    },
+    {
+      "city": "Baleshwar",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "baleshwar",
+      "distance": 45.17102564007185
+    },
+    {
+      "city": "Bhopal C.I.T. Nagar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal-cit-nagar",
+      "distance": 66.98166123964067
+    },
+    {
+      "city": "Station Jadcheral",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "station-jadcheral",
+      "distance": 69.1111886292117
+    }
+  ],
+  "geohash": "tujd996",
+  "geohashUrl": "https://geohash.softeng.co/tujd996"
+}

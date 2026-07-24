@@ -1,0 +1,82 @@
+{
+  "id": "manipur-lilong",
+  "city": "Lilong",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "lilong",
+  "country": "India",
+  "pincode": "795130",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.7867,
+  "longitude": 74.2963,
+  "landmark": "Lilong Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lilong, India",
+  "population": 1096606,
+  "mobileUsers": 802715,
+  "internetUsers": 593263,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹10.16L per annum",
+  "activeMobileDevices": 1173368,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 54.1,
+  "maleCount": 569139,
+  "femaleCount": 527467,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tallakulam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tallakulam",
+      "distance": 22.6502598283552
+    },
+    {
+      "city": "Naya bangla",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "naya-bangla",
+      "distance": 25.600794392502387
+    },
+    {
+      "city": "Gopalganj",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gopalganj",
+      "distance": 53.51797762804603
+    },
+    {
+      "city": "Barpeta",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "barpeta",
+      "distance": 99.72321238047915
+    },
+    {
+      "city": "Sankarankoil",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sankarankoil",
+      "distance": 111.73108411490843
+    }
+  ],
+  "geohash": "t9uv6es",
+  "geohashUrl": "https://geohash.softeng.co/t9uv6es"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "muscat-governorate-muscat",
+  "city": "Muscat",
+  "state": "Muscat Governorate",
+  "stateSlug": "muscat-governorate",
+  "citySlug": "muscat",
+  "country": "Oman",
+  "pincode": "100",
+  "currency": "OMR",
+  "symbol": "R.O.",
+  "compliance": "TRA Guidelines",
+  "carriers": [
+    "Omantel",
+    "Ooredoo",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+968",
+  "timezone": "Asia/Muscat",
+  "latitude": 21.057,
+  "longitude": 57.1179,
+  "landmark": "Muscat Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Omantel networks. Failovers route over Ooredoo, Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Muscat, Oman",
+  "population": 818304,
+  "mobileUsers": 648096,
+  "internetUsers": 511440,
+  "genderRatioText": "994 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "R.O.41,805 OMR per annum",
+  "activeMobileDevices": 1112893,
+  "mobilePenetration": 79.2,
+  "internetPenetration": 62.5,
+  "maleCount": 410789,
+  "femaleCount": 407515,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Salalah",
+      "state": "Dhofar Governorate",
+      "stateSlug": "dhofar-governorate",
+      "citySlug": "salalah",
+      "distance": 20.76686396894434
+    },
+    {
+      "city": "Dubai",
+      "state": "Dubai Emirate",
+      "stateSlug": "dubai-emirate",
+      "citySlug": "dubai",
+      "distance": 442.1775966489969
+    },
+    {
+      "city": "Abu Dhabi",
+      "state": "Abu Dhabi Emirate",
+      "stateSlug": "abu-dhabi-emirate",
+      "citySlug": "abu-dhabi",
+      "distance": 473.81546488117067
+    },
+    {
+      "city": "Sharjah",
+      "state": "Sharjah Emirate",
+      "stateSlug": "sharjah-emirate",
+      "citySlug": "sharjah",
+      "distance": 476.91201294988826
+    },
+    {
+      "city": "Al Ain",
+      "state": "Abu Dhabi Emirate",
+      "stateSlug": "abu-dhabi-emirate",
+      "citySlug": "al-ain",
+      "distance": 482.2239769306421
+    }
+  ],
+  "geohash": "t78xg9r",
+  "geohashUrl": "https://geohash.softeng.co/t78xg9r"
+}

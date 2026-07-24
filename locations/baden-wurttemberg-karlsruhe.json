@@ -1,0 +1,81 @@
+{
+  "id": "baden-wurttemberg-karlsruhe",
+  "city": "Karlsruhe",
+  "state": "Baden-Württemberg",
+  "stateSlug": "baden-wurttemberg",
+  "citySlug": "karlsruhe",
+  "country": "Germany",
+  "pincode": "76131",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / BNetzA",
+  "carriers": [
+    "Telekom",
+    "Vodafone",
+    "O2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+49 30",
+  "timezone": "Europe/Berlin",
+  "latitude": 51.7877,
+  "longitude": 12.2583,
+  "landmark": "Karlsruhe Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Karlsruhe, Germany",
+  "population": 1292390,
+  "mobileUsers": 1194168,
+  "internetUsers": 1207092,
+  "genderRatioText": "1,002 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "€52,640 per annum",
+  "activeMobileDevices": 1770574,
+  "mobilePenetration": 92.4,
+  "internetPenetration": 93.4,
+  "maleCount": 646195,
+  "femaleCount": 646195,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Dresden",
+      "state": "Saxony",
+      "stateSlug": "saxony",
+      "citySlug": "dresden",
+      "distance": 64.2028169707531
+    },
+    {
+      "city": "Munster",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "munster",
+      "distance": 112.99068634845072
+    },
+    {
+      "city": "Stuttgart",
+      "state": "Baden-Württemberg",
+      "stateSlug": "baden-wurttemberg",
+      "citySlug": "stuttgart",
+      "distance": 116.67634204540711
+    },
+    {
+      "city": "Hanover",
+      "state": "Lower Saxony",
+      "stateSlug": "lower-saxony",
+      "citySlug": "hanover",
+      "distance": 159.30824727757832
+    },
+    {
+      "city": "Berlin",
+      "state": "Berlin",
+      "stateSlug": "berlin",
+      "citySlug": "berlin",
+      "distance": 216.40468250437448
+    }
+  ],
+  "geohash": "u30wwgw",
+  "geohashUrl": "https://geohash.softeng.co/u30wwgw"
+}

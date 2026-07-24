@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-meerut-city",
+  "city": "Meerut City",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "meerut-city",
+  "country": "India",
+  "pincode": "250002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.5182,
+  "longitude": 88.3605,
+  "landmark": "Meerut City District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Meerut City, India",
+  "population": 9437009,
+  "mobileUsers": 6822957,
+  "internetUsers": 5699953,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹8.57L per annum",
+  "activeMobileDevices": 9625749,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 60.4,
+  "maleCount": 4831749,
+  "femaleCount": 4605260,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Longlai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "longlai",
+      "distance": 42.92941735722445
+    },
+    {
+      "city": "Chaichima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chaichima",
+      "distance": 53.315744372815814
+    },
+    {
+      "city": "Budaun",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "budaun",
+      "distance": 83.74531955437713
+    },
+    {
+      "city": "Keonjargarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "keonjargarh",
+      "distance": 86.84918849413862
+    },
+    {
+      "city": "Nawabganj",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "nawabganj",
+      "distance": 91.61858756343965
+    }
+  ],
+  "geohash": "tgwudxn",
+  "geohashUrl": "https://geohash.softeng.co/tgwudxn"
+}

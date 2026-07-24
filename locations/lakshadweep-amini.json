@@ -1,0 +1,82 @@
+{
+  "id": "lakshadweep-amini",
+  "city": "Amini",
+  "state": "Lakshadweep",
+  "stateSlug": "lakshadweep",
+  "citySlug": "amini",
+  "country": "India",
+  "pincode": "682552",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.9052,
+  "longitude": 79.4553,
+  "landmark": "Amini GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Amini, India",
+  "population": 780392,
+  "mobileUsers": 579831,
+  "internetUsers": 429995,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹7.63L per annum",
+  "activeMobileDevices": 858431,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 55.1,
+  "maleCount": 403463,
+  "femaleCount": 376929,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pupterow",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "pupterow",
+      "distance": 49.70422924728597
+    },
+    {
+      "city": "Vaikom",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "vaikom",
+      "distance": 80.70180743267574
+    },
+    {
+      "city": "Mahabubnagar",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mahabubnagar",
+      "distance": 98.96313894095188
+    },
+    {
+      "city": "Landsdowne",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "landsdowne",
+      "distance": 132.0675052975418
+    },
+    {
+      "city": "Basirhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "basirhat",
+      "distance": 136.63861800635203
+    }
+  ],
+  "geohash": "tf292j3",
+  "geohashUrl": "https://geohash.softeng.co/tf292j3"
+}

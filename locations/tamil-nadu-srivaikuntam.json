@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-srivaikuntam",
+  "city": "Srivaikuntam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "srivaikuntam",
+  "country": "India",
+  "pincode": "628601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.6163,
+  "longitude": 70.5618,
+  "landmark": "Srivaikuntam Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Srivaikuntam, India",
+  "population": 7834936,
+  "mobileUsers": 5664658,
+  "internetUsers": 4591272,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹6.43L per annum",
+  "activeMobileDevices": 8540080,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 58.6,
+  "maleCount": 4003652,
+  "femaleCount": 3831284,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bangalore G.P.O.",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bangalore-gpo",
+      "distance": 14.046920739651005
+    },
+    {
+      "city": "Wanaparthy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "wanaparthy",
+      "distance": 67.85461318218776
+    },
+    {
+      "city": "Hayuliyang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "hayuliyang",
+      "distance": 75.20376890285863
+    },
+    {
+      "city": "Morbi",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "morbi",
+      "distance": 90.89129194773395
+    },
+    {
+      "city": "Bhadrachalam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhadrachalam",
+      "distance": 102.26596005431203
+    }
+  ],
+  "geohash": "tt44v9m",
+  "geohashUrl": "https://geohash.softeng.co/tt44v9m"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-chittoor",
+  "city": "Chittoor",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "chittoor",
+  "country": "India",
+  "pincode": "517001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.3663,
+  "longitude": 76.033,
+  "landmark": "Chittoor Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chittoor, India",
+  "population": 4671856,
+  "mobileUsers": 3555282,
+  "internetUsers": 2877863,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹6.50L per annum",
+  "activeMobileDevices": 4765293,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 61.6,
+  "maleCount": 2401334,
+  "femaleCount": 2270522,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "ludhiana",
+      "distance": 34.157663612794344
+    },
+    {
+      "city": "Dimapur",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "dimapur",
+      "distance": 51.1435065638596
+    },
+    {
+      "city": "Rajaji Nagar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "rajaji-nagar",
+      "distance": 63.809576399032856
+    },
+    {
+      "city": "Gandhinagar (Jaipur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "gandhinagar-jaipur",
+      "distance": 71.05242162933988
+    },
+    {
+      "city": "Arasaradi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arasaradi",
+      "distance": 87.25722119573261
+    }
+  ],
+  "geohash": "t9wj61j",
+  "geohashUrl": "https://geohash.softeng.co/t9wj61j"
+}

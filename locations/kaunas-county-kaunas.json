@@ -1,0 +1,81 @@
+{
+  "id": "kaunas-county-kaunas",
+  "city": "Kaunas",
+  "state": "Kaunas County",
+  "stateSlug": "kaunas-county",
+  "citySlug": "kaunas",
+  "country": "Lithuania",
+  "pincode": "LT-44001",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / RRT",
+  "carriers": [
+    "Telia",
+    "Tele2",
+    "Bitė"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+370",
+  "timezone": "Europe/Vilnius",
+  "latitude": 55.8947,
+  "longitude": 24.143,
+  "landmark": "Kaunas GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Tele2, Bitė with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kaunas, Lithuania",
+  "population": 3139246,
+  "mobileUsers": 2583599,
+  "internetUsers": 2078180,
+  "genderRatioText": "972 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "€53,820 per annum",
+  "activeMobileDevices": 4237982,
+  "mobilePenetration": 82.3,
+  "internetPenetration": 66.2,
+  "maleCount": 1591598,
+  "femaleCount": 1547648,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Siauliai",
+      "state": "Siauliai County",
+      "stateSlug": "siauliai-county",
+      "citySlug": "siauliai",
+      "distance": 3.8464171555164537
+    },
+    {
+      "city": "Klaipeda",
+      "state": "Klaipeda County",
+      "stateSlug": "klaipeda-county",
+      "citySlug": "klaipeda",
+      "distance": 9.26536531184743
+    },
+    {
+      "city": "Vilnius",
+      "state": "Vilnius District",
+      "stateSlug": "vilnius-district",
+      "citySlug": "vilnius",
+      "distance": 14.55832828208132
+    },
+    {
+      "city": "Liepaja",
+      "state": "Courland",
+      "stateSlug": "courland",
+      "citySlug": "liepaja",
+      "distance": 120.20756635157689
+    },
+    {
+      "city": "Riga",
+      "state": "Riga Municipality",
+      "stateSlug": "riga-municipality",
+      "citySlug": "riga",
+      "distance": 134.08465609852504
+    }
+  ],
+  "geohash": "u9cjvrk",
+  "geohashUrl": "https://geohash.softeng.co/u9cjvrk"
+}

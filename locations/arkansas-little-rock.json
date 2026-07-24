@@ -1,0 +1,81 @@
+{
+  "id": "arkansas-little-rock",
+  "city": "Little Rock",
+  "state": "Arkansas",
+  "stateSlug": "arkansas",
+  "citySlug": "little-rock",
+  "country": "United States",
+  "pincode": "72201",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/New_York",
+  "latitude": 47.2251,
+  "longitude": -94.7715,
+  "landmark": "Little Rock Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Little Rock, United States",
+  "population": 4283069,
+  "mobileUsers": 4103180,
+  "internetUsers": 4038934,
+  "genderRatioText": "1,005 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "$84,326 per annum",
+  "activeMobileDevices": 5567989,
+  "mobilePenetration": 95.8,
+  "internetPenetration": 94.3,
+  "maleCount": 2137251,
+  "femaleCount": 2145818,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Winnipeg",
+      "state": "Manitoba",
+      "stateSlug": "manitoba",
+      "citySlug": "winnipeg",
+      "distance": 344.2176910111498
+    },
+    {
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids",
+      "distance": 469.1516515044
+    },
+    {
+      "city": "Madison",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "citySlug": "madison",
+      "distance": 593.367850779437
+    },
+    {
+      "city": "El Paso",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "el-paso",
+      "distance": 623.7259120614805
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "stateSlug": "washington",
+      "citySlug": "seattle",
+      "distance": 687.6586768784302
+    }
+  ],
+  "geohash": "cbksemj",
+  "geohashUrl": "https://geohash.softeng.co/cbksemj"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-banswara",
+  "city": "Banswara",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "banswara",
+  "country": "India",
+  "pincode": "327001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.6281,
+  "longitude": 74.2891,
+  "landmark": "Banswara Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Banswara, India",
+  "population": 7179144,
+  "mobileUsers": 5484866,
+  "internetUsers": 4400815,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹11.37L per annum",
+  "activeMobileDevices": 8040641,
+  "mobilePenetration": 76.4,
+  "internetPenetration": 61.3,
+  "maleCount": 3690080,
+  "femaleCount": 3489064,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vela",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vela",
+      "distance": 41.39385578199506
+    },
+    {
+      "city": "Sairang",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "sairang",
+      "distance": 41.82289713016198
+    },
+    {
+      "city": "Parbhani",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "parbhani",
+      "distance": 57.54766220647285
+    },
+    {
+      "city": "Palakol",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "palakol",
+      "distance": 67.48246829475883
+    },
+    {
+      "city": "Tiruchendur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchendur",
+      "distance": 82.82896747570449
+    }
+  ],
+  "geohash": "tdubfmp",
+  "geohashUrl": "https://geohash.softeng.co/tdubfmp"
+}

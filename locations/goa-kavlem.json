@@ -1,0 +1,82 @@
+{
+  "id": "goa-kavlem",
+  "city": "Kavlem",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "kavlem",
+  "country": "India",
+  "pincode": "403410",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 19.481,
+  "longitude": 83.2441,
+  "landmark": "Kavlem Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kavlem, India",
+  "population": 4849371,
+  "mobileUsers": 3734015,
+  "internetUsers": 2919321,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹11.92L per annum",
+  "activeMobileDevices": 4897864,
+  "mobilePenetration": 77,
+  "internetPenetration": 60.2,
+  "maleCount": 2478029,
+  "femaleCount": 2371342,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gangtok",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "gangtok",
+      "distance": 32.77008295999942
+    },
+    {
+      "city": "Hospet",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hospet",
+      "distance": 55.53619734448596
+    },
+    {
+      "city": "Hoshiarpur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "hoshiarpur",
+      "distance": 69.2646146921449
+    },
+    {
+      "city": "Shajapur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shajapur",
+      "distance": 92.85178098945075
+    },
+    {
+      "city": "Sirohi",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "sirohi",
+      "distance": 95.68303161605108
+    }
+  ],
+  "geohash": "tg7ny62",
+  "geohashUrl": "https://geohash.softeng.co/tg7ny62"
+}

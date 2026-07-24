@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-ramachandrapuram",
+  "city": "Ramachandrapuram",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "ramachandrapuram",
+  "country": "India",
+  "pincode": "533255",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.5417,
+  "longitude": 84.4645,
+  "landmark": "Ramachandrapuram Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ramachandrapuram, India",
+  "population": 909204,
+  "mobileUsers": 703723,
+  "internetUsers": 515518,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.73L per annum",
+  "activeMobileDevices": 909204,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 56.7,
+  "maleCount": 467331,
+  "femaleCount": 441873,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Manughat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "manughat",
+      "distance": 40.61290767824057
+    },
+    {
+      "city": "Bakultala",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "bakultala",
+      "distance": 66.83484866034662
+    },
+    {
+      "city": "Ongole",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "ongole",
+      "distance": 69.56112557320573
+    },
+    {
+      "city": "Wokha",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "wokha",
+      "distance": 74.95368825277981
+    },
+    {
+      "city": "Katni",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "katni",
+      "distance": 90.80924453167252
+    }
+  ],
+  "geohash": "tgu4d19",
+  "geohashUrl": "https://geohash.softeng.co/tgu4d19"
+}

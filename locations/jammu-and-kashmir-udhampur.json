@@ -1,0 +1,82 @@
+{
+  "id": "jammu-and-kashmir-udhampur",
+  "city": "Udhampur",
+  "state": "Jammu & Kashmir",
+  "stateSlug": "jammu-and-kashmir",
+  "citySlug": "udhampur",
+  "country": "India",
+  "pincode": "182101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.2365,
+  "longitude": 72.2045,
+  "landmark": "Udhampur Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Udhampur, India",
+  "population": 3121237,
+  "mobileUsers": 2381503,
+  "internetUsers": 1922681,
+  "genderRatioText": "931 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹9.38L per annum",
+  "activeMobileDevices": 3620634,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 61.6,
+  "maleCount": 1616801,
+  "femaleCount": 1504436,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dausa",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "dausa",
+      "distance": 34.636735170945784
+    },
+    {
+      "city": "Bhimavaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhimavaram",
+      "distance": 61.51458640574707
+    },
+    {
+      "city": "Chittorgarh",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "chittorgarh",
+      "distance": 72.38108390609253
+    },
+    {
+      "city": "Balaghat",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "balaghat",
+      "distance": 85.45063058400362
+    },
+    {
+      "city": "Chongtai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "chongtai",
+      "distance": 88.22925248986083
+    }
+  ],
+  "geohash": "tegqe01",
+  "geohashUrl": "https://geohash.softeng.co/tegqe01"
+}

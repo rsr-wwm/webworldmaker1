@@ -1,0 +1,81 @@
+{
+  "id": "hajdu-bihar-debrecen",
+  "city": "Debrecen",
+  "state": "Hajdu-Bihar",
+  "stateSlug": "hajdu-bihar",
+  "citySlug": "debrecen",
+  "country": "Hungary",
+  "pincode": "4000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / NMHH",
+  "carriers": [
+    "Yettel",
+    "Telekom",
+    "Vodafone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+36",
+  "timezone": "Europe/Budapest",
+  "latitude": 46.8219,
+  "longitude": 20.0034,
+  "landmark": "Debrecen Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Yettel networks. Failovers route over Telekom, Vodafone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Debrecen, Hungary",
+  "population": 529406,
+  "mobileUsers": 409760,
+  "internetUsers": 346760,
+  "genderRatioText": "1,001 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "€68,967 per annum",
+  "activeMobileDevices": 682933,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 65.5,
+  "maleCount": 264703,
+  "femaleCount": 264703,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Miskolc",
+      "state": "Borsod-Abauj-Zemplen",
+      "stateSlug": "borsod-abauj-zemplen",
+      "citySlug": "miskolc",
+      "distance": 27.75659649767226
+    },
+    {
+      "city": "Budapest",
+      "state": "Central Hungary",
+      "stateSlug": "central-hungary",
+      "citySlug": "budapest",
+      "distance": 43.23694065749786
+    },
+    {
+      "city": "Kosice",
+      "state": "Kosice Region",
+      "stateSlug": "kosice-region",
+      "citySlug": "kosice",
+      "distance": 207.89080343379533
+    },
+    {
+      "city": "Bratislava",
+      "state": "Bratislava Region",
+      "stateSlug": "bratislava-region",
+      "citySlug": "bratislava",
+      "distance": 220.52619842770486
+    },
+    {
+      "city": "Nis",
+      "state": "Nisava District",
+      "stateSlug": "nisava-district",
+      "citySlug": "nis",
+      "distance": 317.1045514660854
+    }
+  ],
+  "geohash": "u2q4r5w",
+  "geohashUrl": "https://geohash.softeng.co/u2q4r5w"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-bijnor",
+  "city": "Bijnor",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "bijnor",
+  "country": "India",
+  "pincode": "246701",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.1594,
+  "longitude": 73.1203,
+  "landmark": "Bijnor Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bijnor, India",
+  "population": 7960045,
+  "mobileUsers": 6105354,
+  "internetUsers": 4919307,
+  "genderRatioText": "914 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.26L per annum",
+  "activeMobileDevices": 9313252,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 61.8,
+  "maleCount": 4155143,
+  "femaleCount": 3804902,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Athgarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "athgarh",
+      "distance": 21.76127212631862
+    },
+    {
+      "city": "Belgharia",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "belgharia",
+      "distance": 22.174271369643627
+    },
+    {
+      "city": "Kavali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kavali",
+      "distance": 35.133463130530984
+    },
+    {
+      "city": "Kasaragod",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kasaragod",
+      "distance": 59.44450305136792
+    },
+    {
+      "city": "Thuraiyur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thuraiyur",
+      "distance": 96.572134282189
+    }
+  ],
+  "geohash": "td5vpvs",
+  "geohashUrl": "https://geohash.softeng.co/td5vpvs"
+}

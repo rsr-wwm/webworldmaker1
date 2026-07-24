@@ -1,0 +1,82 @@
+{
+  "id": "orissa-rairangpur",
+  "city": "Rairangpur",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "rairangpur",
+  "country": "India",
+  "pincode": "757043",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.3795,
+  "longitude": 84.283,
+  "landmark": "Rairangpur State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rairangpur, India",
+  "population": 8981077,
+  "mobileUsers": 6816637,
+  "internetUsers": 5038384,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹7.48L per annum",
+  "activeMobileDevices": 10058806,
+  "mobilePenetration": 75.9,
+  "internetPenetration": 56.1,
+  "maleCount": 4661179,
+  "femaleCount": 4319898,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi",
+      "distance": 34.502769846322764
+    },
+    {
+      "city": "Nalbari",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nalbari",
+      "distance": 51.75580694049293
+    },
+    {
+      "city": "Warangal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "warangal",
+      "distance": 59.605653556536765
+    },
+    {
+      "city": "Taran Taran",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "taran-taran",
+      "distance": 73.59202588710478
+    },
+    {
+      "city": "Hindaun",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "hindaun",
+      "distance": 75.70623888275966
+    }
+  ],
+  "geohash": "tf7ujgt",
+  "geohashUrl": "https://geohash.softeng.co/tf7ujgt"
+}

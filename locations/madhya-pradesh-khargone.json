@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-khargone",
+  "city": "Khargone",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "khargone",
+  "country": "India",
+  "pincode": "451001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.6587,
+  "longitude": 71.0267,
+  "landmark": "Khargone Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Khargone, India",
+  "population": 7236926,
+  "mobileUsers": 5449405,
+  "internetUsers": 4342155,
+  "genderRatioText": "965 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹6.03L per annum",
+  "activeMobileDevices": 7236926,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 60,
+  "maleCount": 3683595,
+  "femaleCount": 3553331,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dhramsala",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "dhramsala",
+      "distance": 34.351380814435295
+    },
+    {
+      "city": "Dehra Gopipur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "dehra-gopipur",
+      "distance": 77.59640519450848
+    },
+    {
+      "city": "Wanaparthy",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "wanaparthy",
+      "distance": 79.67330127155392
+    },
+    {
+      "city": "Panvel",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "panvel",
+      "distance": 80.94005428020779
+    },
+    {
+      "city": "Morbi",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "morbi",
+      "distance": 85.85942160146489
+    }
+  ],
+  "geohash": "tsft270",
+  "geohashUrl": "https://geohash.softeng.co/tsft270"
+}

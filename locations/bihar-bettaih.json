@@ -1,0 +1,82 @@
+{
+  "id": "bihar-bettaih",
+  "city": "Bettaih",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "bettaih",
+  "country": "India",
+  "pincode": "845438",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.1854,
+  "longitude": 79.5607,
+  "landmark": "Bettaih State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bettaih, India",
+  "population": 9805074,
+  "mobileUsers": 7383220,
+  "internetUsers": 5451621,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.82L per annum",
+  "activeMobileDevices": 11275835,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 55.6,
+  "maleCount": 5079028,
+  "femaleCount": 4726046,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Basirhat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "basirhat",
+      "distance": 33.81766324756342
+    },
+    {
+      "city": "Drishnapur",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "drishnapur",
+      "distance": 49.97674897824925
+    },
+    {
+      "city": "Dehradun Cantt.",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dehradun-cantt",
+      "distance": 76.95589017557366
+    },
+    {
+      "city": "Gaya",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gaya",
+      "distance": 95.765397945725
+    },
+    {
+      "city": "Palmaner",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "palmaner",
+      "distance": 104.96770894806473
+    }
+  ],
+  "geohash": "tf88dqq",
+  "geohashUrl": "https://geohash.softeng.co/tf88dqq"
+}

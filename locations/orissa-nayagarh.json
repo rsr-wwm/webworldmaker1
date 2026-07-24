@@ -1,0 +1,82 @@
+{
+  "id": "orissa-nayagarh",
+  "city": "Nayagarh",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "nayagarh",
+  "country": "India",
+  "pincode": "752069",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.2622,
+  "longitude": 87.8267,
+  "landmark": "Nayagarh GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nayagarh, India",
+  "population": 6963018,
+  "mobileUsers": 5069077,
+  "internetUsers": 4240477,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.37L per annum",
+  "activeMobileDevices": 6963018,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 60.9,
+  "maleCount": 3648621,
+  "femaleCount": 3314397,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bhavani",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "bhavani",
+      "distance": 29.298857950763505
+    },
+    {
+      "city": "Kottayam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kottayam",
+      "distance": 33.765765535106574
+    },
+    {
+      "city": "Begusarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "begusarai",
+      "distance": 48.43668791227361
+    },
+    {
+      "city": "Penursala",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "penursala",
+      "distance": 66.7756285343454
+    },
+    {
+      "city": "Palel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "palel",
+      "distance": 75.30277757384052
+    }
+  ],
+  "geohash": "tuq6n8c",
+  "geohashUrl": "https://geohash.softeng.co/tuq6n8c"
+}

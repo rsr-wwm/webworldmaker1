@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-ghaziabad",
+  "city": "Ghaziabad",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "ghaziabad",
+  "country": "India",
+  "pincode": "201001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.1396,
+  "longitude": 84.4112,
+  "landmark": "Ghaziabad Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ghaziabad, India",
+  "population": 5120872,
+  "mobileUsers": 3876500,
+  "internetUsers": 2862567,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹10.88L per annum",
+  "activeMobileDevices": 5837794,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 55.9,
+  "maleCount": 2632128,
+  "femaleCount": 2488744,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kathmandu",
+      "state": "Bagmati Province",
+      "stateSlug": "bagmati-province",
+      "citySlug": "kathmandu",
+      "distance": 33.254321657491275
+    },
+    {
+      "city": "Mannargudi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mannargudi",
+      "distance": 48.859922356043434
+    },
+    {
+      "city": "Tindivanam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tindivanam",
+      "distance": 57.96835553441841
+    },
+    {
+      "city": "Kalbadevi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kalbadevi",
+      "distance": 68.00526576974968
+    },
+    {
+      "city": "Kozhikode",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kozhikode",
+      "distance": 79.5207324219679
+    }
+  ],
+  "geohash": "tvh00fd",
+  "geohashUrl": "https://geohash.softeng.co/tvh00fd"
+}

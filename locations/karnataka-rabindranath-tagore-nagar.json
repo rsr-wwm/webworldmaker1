@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-rabindranath-tagore-nagar",
+  "city": "Rabindranath Tagore Nagar",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "rabindranath-tagore-nagar",
+  "country": "India",
+  "pincode": "560032",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.6849,
+  "longitude": 78.233,
+  "landmark": "Rabindranath Tagore Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rabindranath Tagore Nagar, India",
+  "population": 113027,
+  "mobileUsers": 87369,
+  "internetUsers": 63521,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹5.94L per annum",
+  "activeMobileDevices": 120938,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 56.2,
+  "maleCount": 57983,
+  "femaleCount": 55044,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mandapeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mandapeta",
+      "distance": 45.91847887354527
+    },
+    {
+      "city": "Ujjain",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "ujjain",
+      "distance": 52.876835776866145
+    },
+    {
+      "city": "Nanded",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nanded",
+      "distance": 74.87468162430969
+    },
+    {
+      "city": "Sitamarhi",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "sitamarhi",
+      "distance": 74.95851647197605
+    },
+    {
+      "city": "Dhamloan",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "dhamloan",
+      "distance": 82.31279443799515
+    }
+  ],
+  "geohash": "tsrskjx",
+  "geohashUrl": "https://geohash.softeng.co/tsrskjx"
+}

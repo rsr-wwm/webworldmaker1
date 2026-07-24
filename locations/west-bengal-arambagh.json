@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-arambagh",
+  "city": "Arambagh",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "arambagh",
+  "country": "India",
+  "pincode": "712601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.2848,
+  "longitude": 69.4901,
+  "landmark": "Arambagh Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Arambagh, India",
+  "population": 4654098,
+  "mobileUsers": 3471957,
+  "internetUsers": 2559753,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹11.14L per annum",
+  "activeMobileDevices": 5352212,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 55,
+  "maleCount": 2387552,
+  "femaleCount": 2266546,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nadiad",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "nadiad",
+      "distance": 5.448484168117282
+    },
+    {
+      "city": "Karnal",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "karnal",
+      "distance": 7.203492083430954
+    },
+    {
+      "city": "Hamirpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "hamirpur",
+      "distance": 17.85525256672045
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad",
+      "distance": 34.068572606453294
+    },
+    {
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi",
+      "distance": 41.125531615630116
+    }
+  ],
+  "geohash": "tt3km31",
+  "geohashUrl": "https://geohash.softeng.co/tt3km31"
+}

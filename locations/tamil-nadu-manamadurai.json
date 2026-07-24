@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-manamadurai",
+  "city": "Manamadurai",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "manamadurai",
+  "country": "India",
+  "pincode": "630606",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.8009,
+  "longitude": 69.1828,
+  "landmark": "Manamadurai Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Manamadurai, India",
+  "population": 2861079,
+  "mobileUsers": 2171558,
+  "internetUsers": 1750980,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.92L per annum",
+  "activeMobileDevices": 3089965,
+  "mobilePenetration": 75.9,
+  "internetPenetration": 61.2,
+  "maleCount": 1487761,
+  "femaleCount": 1373318,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai",
+      "distance": 16.183930448120336
+    },
+    {
+      "city": "Krishnagiri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "krishnagiri",
+      "distance": 32.84001582150372
+    },
+    {
+      "city": "Kovvur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kovvur",
+      "distance": 69.92708174376082
+    },
+    {
+      "city": "Paratwada",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "paratwada",
+      "distance": 72.58881421127617
+    },
+    {
+      "city": "Raibag",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "raibag",
+      "distance": 76.00433649759698
+    }
+  ],
+  "geohash": "tdcpw69",
+  "geohashUrl": "https://geohash.softeng.co/tdcpw69"
+}

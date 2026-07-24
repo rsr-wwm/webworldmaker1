@@ -1,0 +1,81 @@
+{
+  "id": "canton-of-zurich-zurich",
+  "city": "Zurich",
+  "state": "Canton of Zurich",
+  "stateSlug": "canton-of-zurich",
+  "citySlug": "zurich",
+  "country": "Switzerland",
+  "pincode": "8000",
+  "currency": "CHF",
+  "symbol": "CHF",
+  "compliance": "Bakom Rules",
+  "carriers": [
+    "Swisscom",
+    "Sunrise",
+    "Salt"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+41",
+  "timezone": "Europe/Zurich",
+  "latitude": 46.9438,
+  "longitude": 7.9273,
+  "landmark": "Zurich Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Swisscom networks. Failovers route over Sunrise, Salt with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Zurich, Switzerland",
+  "population": 2364528,
+  "mobileUsers": 1837238,
+  "internetUsers": 1496746,
+  "genderRatioText": "992 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "CHF19,343 CHF per annum",
+  "activeMobileDevices": 3215758,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 63.3,
+  "maleCount": 1186993,
+  "femaleCount": 1177535,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bern",
+      "state": "Canton of Bern",
+      "stateSlug": "canton-of-bern",
+      "citySlug": "bern",
+      "distance": 5.526530973274022
+    },
+    {
+      "city": "Lausanne",
+      "state": "Canton of Vaud",
+      "stateSlug": "canton-of-vaud",
+      "citySlug": "lausanne",
+      "distance": 9.084179223410796
+    },
+    {
+      "city": "Geneva",
+      "state": "Canton of Geneva",
+      "stateSlug": "canton-of-geneva",
+      "citySlug": "geneva",
+      "distance": 20.358481233303877
+    },
+    {
+      "city": "Basel",
+      "state": "Canton of Basel-Stadt",
+      "stateSlug": "canton-of-basel-stadt",
+      "citySlug": "basel",
+      "distance": 23.855918661967845
+    },
+    {
+      "city": "Vaduz",
+      "state": "Vaduz Commune",
+      "stateSlug": "vaduz-commune",
+      "citySlug": "vaduz",
+      "distance": 126.41207079138229
+    }
+  ],
+  "geohash": "u0meh3u",
+  "geohashUrl": "https://geohash.softeng.co/u0meh3u"
+}

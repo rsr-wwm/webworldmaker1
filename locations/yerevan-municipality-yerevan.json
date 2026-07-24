@@ -1,0 +1,81 @@
+{
+  "id": "yerevan-municipality-yerevan",
+  "city": "Yerevan",
+  "state": "Yerevan Municipality",
+  "stateSlug": "yerevan-municipality",
+  "citySlug": "yerevan",
+  "country": "Armenia",
+  "pincode": "0001",
+  "currency": "AMD",
+  "symbol": "֏",
+  "compliance": "PSRC Guidelines",
+  "carriers": [
+    "MTS Armenia",
+    "Team Telecom",
+    "Ucom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+374",
+  "timezone": "Asia/Yerevan",
+  "latitude": 40.096,
+  "longitude": 45.1567,
+  "landmark": "Yerevan Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over MTS Armenia networks. Failovers route over Team Telecom, Ucom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Yerevan, Armenia",
+  "population": 2937520,
+  "mobileUsers": 2300078,
+  "internetUsers": 1888825,
+  "genderRatioText": "985 females per 1,000 males",
+  "malePercentage": 50.4,
+  "femalePercentage": 49.6,
+  "averageIncome": "֏31,027 AMD per annum",
+  "activeMobileDevices": 3554399,
+  "mobilePenetration": 78.3,
+  "internetPenetration": 64.3,
+  "maleCount": 1480510,
+  "femaleCount": 1457010,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Gyumri",
+      "state": "Shirak Province",
+      "stateSlug": "shirak-province",
+      "citySlug": "gyumri",
+      "distance": 5.874332483676829
+    },
+    {
+      "city": "Ganja",
+      "state": "Ganja District",
+      "stateSlug": "ganja-district",
+      "citySlug": "ganja",
+      "distance": 194.80472486283028
+    },
+    {
+      "city": "Baku",
+      "state": "Absheron District",
+      "stateSlug": "absheron-district",
+      "citySlug": "baku",
+      "distance": 219.9415317458867
+    },
+    {
+      "city": "Kutaisi",
+      "state": "Imereti Region",
+      "stateSlug": "imereti-region",
+      "citySlug": "kutaisi",
+      "distance": 263.57439109316624
+    },
+    {
+      "city": "Tbilisi",
+      "state": "Tbilisi Region",
+      "stateSlug": "tbilisi-region",
+      "citySlug": "tbilisi",
+      "distance": 274.4426175039721
+    }
+  ],
+  "geohash": "tp0h5e6",
+  "geohashUrl": "https://geohash.softeng.co/tp0h5e6"
+}

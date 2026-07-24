@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-sivakasi",
+  "city": "Sivakasi",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "sivakasi",
+  "country": "India",
+  "pincode": "626123",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.0923,
+  "longitude": 71.9961,
+  "landmark": "Sivakasi Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sivakasi, India",
+  "population": 9466563,
+  "mobileUsers": 7346052,
+  "internetUsers": 5774603,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹8.61L per annum",
+  "activeMobileDevices": 10602550,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 61,
+  "maleCount": 4865813,
+  "femaleCount": 4600750,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ampinagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ampinagar",
+      "distance": 30.89131335236365
+    },
+    {
+      "city": "Hanumangarh Junction",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "hanumangarh-junction",
+      "distance": 58.46263432277952
+    },
+    {
+      "city": "Davangere",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "davangere",
+      "distance": 69.00741557174094
+    },
+    {
+      "city": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "hamirpur",
+      "distance": 74.07016136044125
+    },
+    {
+      "city": "Shabroom",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shabroom",
+      "distance": 80.99120619464082
+    }
+  ],
+  "geohash": "ts7nwrc",
+  "geohashUrl": "https://geohash.softeng.co/ts7nwrc"
+}

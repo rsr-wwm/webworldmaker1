@@ -1,0 +1,82 @@
+{
+  "id": "orissa-baripada",
+  "city": "Baripada",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "baripada",
+  "country": "India",
+  "pincode": "757001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.096,
+  "longitude": 82.9916,
+  "landmark": "Baripada Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Baripada, India",
+  "population": 1414152,
+  "mobileUsers": 1083240,
+  "internetUsers": 765056,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹11.82L per annum",
+  "activeMobileDevices": 1456576,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 54.1,
+  "maleCount": 741016,
+  "femaleCount": 673136,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Botad",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "botad",
+      "distance": 33.49478600546195
+    },
+    {
+      "city": "Ghatkoper East",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ghatkoper-east",
+      "distance": 111.45707862921113
+    },
+    {
+      "city": "Bakultala",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "bakultala",
+      "distance": 112.83194246584945
+    },
+    {
+      "city": "Amadalavalasa",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "amadalavalasa",
+      "distance": 116.38652753911019
+    },
+    {
+      "city": "Vadakara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "vadakara",
+      "distance": 126.54212263032555
+    }
+  ],
+  "geohash": "tggj8w2",
+  "geohashUrl": "https://geohash.softeng.co/tggj8w2"
+}

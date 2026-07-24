@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-chirala",
+  "city": "Chirala",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "chirala",
+  "country": "India",
+  "pincode": "523115",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.8534,
+  "longitude": 73.6658,
+  "landmark": "Chirala Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chirala, India",
+  "population": 2361703,
+  "mobileUsers": 1813787,
+  "internetUsers": 1393404,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹9.78L per annum",
+  "activeMobileDevices": 2621490,
+  "mobilePenetration": 76.8,
+  "internetPenetration": 59,
+  "maleCount": 1209192,
+  "femaleCount": 1152511,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kamptee",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kamptee",
+      "distance": 56.55908098902578
+    },
+    {
+      "city": "Shahdol",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shahdol",
+      "distance": 60.27168848252055
+    },
+    {
+      "city": "Bhivani",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "bhivani",
+      "distance": 64.98697504944307
+    },
+    {
+      "city": "Tumkur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tumkur",
+      "distance": 68.37443963756105
+    },
+    {
+      "city": "Barrackpore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barrackpore",
+      "distance": 115.00019125776946
+    }
+  ],
+  "geohash": "tss7h63",
+  "geohashUrl": "https://geohash.softeng.co/tss7h63"
+}

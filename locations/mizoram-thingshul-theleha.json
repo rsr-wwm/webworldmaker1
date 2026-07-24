@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-thingshul-theleha",
+  "city": "Thingshul Theleha",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "thingshul-theleha",
+  "country": "India",
+  "pincode": "796161",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.1881,
+  "longitude": 73.7675,
+  "landmark": "Thingshul Theleha Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Thingshul Theleha, India",
+  "population": 6728026,
+  "mobileUsers": 4924915,
+  "internetUsers": 3774422,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹8.32L per annum",
+  "activeMobileDevices": 7468108,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 56.1,
+  "maleCount": 3518758,
+  "femaleCount": 3209268,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kanigiri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kanigiri",
+      "distance": 82.8809596518184
+    },
+    {
+      "city": "Buzar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "buzar",
+      "distance": 92.89162686233233
+    },
+    {
+      "city": "Guna",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "guna",
+      "distance": 127.42637282278467
+    },
+    {
+      "city": "Sankarankoil",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sankarankoil",
+      "distance": 130.83280796334657
+    },
+    {
+      "city": "Deeg",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "deeg",
+      "distance": 139.3056575010046
+    }
+  ],
+  "geohash": "t9skq8e",
+  "geohashUrl": "https://geohash.softeng.co/t9skq8e"
+}

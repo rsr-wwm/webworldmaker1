@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-adilabad",
+  "city": "Adilabad",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "adilabad",
+  "country": "India",
+  "pincode": "504001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.3408,
+  "longitude": 83.4215,
+  "landmark": "Adilabad District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Adilabad, India",
+  "population": 7046369,
+  "mobileUsers": 5482075,
+  "internetUsers": 4016430,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹7.91L per annum",
+  "activeMobileDevices": 8314715,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 57,
+  "maleCount": 3600695,
+  "femaleCount": 3445674,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Aldona",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "aldona",
+      "distance": 19.93245594077094
+    },
+    {
+      "city": "Pani Sagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "pani-sagar",
+      "distance": 46.73116236400471
+    },
+    {
+      "city": "Olavakkot",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "olavakkot",
+      "distance": 51.856753105840724
+    },
+    {
+      "city": "Yeotamal",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "yeotamal",
+      "distance": 53.28248833682638
+    },
+    {
+      "city": "Barabanki",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "barabanki",
+      "distance": 53.65341252889151
+    }
+  ],
+  "geohash": "tue24m1",
+  "geohashUrl": "https://geohash.softeng.co/tue24m1"
+}

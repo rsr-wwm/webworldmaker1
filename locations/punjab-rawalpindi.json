@@ -1,0 +1,82 @@
+{
+  "id": "punjab-rawalpindi",
+  "city": "Rawalpindi",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "rawalpindi",
+  "country": "Pakistan",
+  "pincode": "46000",
+  "currency": "PKR",
+  "symbol": "Rs.",
+  "compliance": "PTA Guidelines",
+  "carriers": [
+    "Jazz",
+    "Telenor",
+    "Zong",
+    "Ufone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+92",
+  "timezone": "Asia/Karachi",
+  "latitude": 30.0381,
+  "longitude": 69.8088,
+  "landmark": "Rawalpindi Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Jazz networks. Failovers route over Telenor, Zong, Ufone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Rawalpindi, Pakistan",
+  "population": 1482162,
+  "mobileUsers": 1219819,
+  "internetUsers": 1021209,
+  "genderRatioText": "976 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "Rs.21,832 PKR per annum",
+  "activeMobileDevices": 1852702,
+  "mobilePenetration": 82.3,
+  "internetPenetration": 68.9,
+  "maleCount": 749974,
+  "femaleCount": 732188,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad",
+      "distance": 17.727621215889418
+    },
+    {
+      "city": "Karachi",
+      "state": "Sindh",
+      "stateSlug": "sindh",
+      "citySlug": "karachi",
+      "distance": 27.439346854959396
+    },
+    {
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "rajkot",
+      "distance": 28.97790445659331
+    },
+    {
+      "city": "Lahore",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "lahore",
+      "distance": 30.828287186078164
+    },
+    {
+      "city": "Islamabad",
+      "state": "Islamabad Capital Territory",
+      "stateSlug": "islamabad-capital-territory",
+      "citySlug": "islamabad",
+      "distance": 32.63316031093903
+    }
+  ],
+  "geohash": "tt3dus3",
+  "geohashUrl": "https://geohash.softeng.co/tt3dus3"
+}

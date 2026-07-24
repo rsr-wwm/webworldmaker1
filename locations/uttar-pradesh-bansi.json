@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-bansi",
+  "city": "Bansi",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "bansi",
+  "country": "India",
+  "pincode": "272153",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.0117,
+  "longitude": 85.4232,
+  "landmark": "Bansi District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bansi, India",
+  "population": 7133327,
+  "mobileUsers": 5556861,
+  "internetUsers": 4187262,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.08L per annum",
+  "activeMobileDevices": 7275993,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 58.7,
+  "maleCount": 3666530,
+  "femaleCount": 3466797,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kumta",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kumta",
+      "distance": 8.722976144083866
+    },
+    {
+      "city": "Haveri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "haveri",
+      "distance": 64.88456848684046
+    },
+    {
+      "city": "Ramanathapuram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ramanathapuram",
+      "distance": 73.28629852851813
+    },
+    {
+      "city": "Chingkompong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "chingkompong",
+      "distance": 82.61200446297575
+    },
+    {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "madurai",
+      "distance": 96.64881257386827
+    }
+  ],
+  "geohash": "tfstrug",
+  "geohashUrl": "https://geohash.softeng.co/tfstrug"
+}

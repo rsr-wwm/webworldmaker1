@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-kandukur",
+  "city": "Kandukur",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "kandukur",
+  "country": "India",
+  "pincode": "523105",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.9208,
+  "longitude": 83.4548,
+  "landmark": "Kandukur District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kandukur, India",
+  "population": 2615553,
+  "mobileUsers": 1938124,
+  "internetUsers": 1493480,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹10.04L per annum",
+  "activeMobileDevices": 2746330,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 57.1,
+  "maleCount": 1341779,
+  "femaleCount": 1273774,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Periyakulam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "periyakulam",
+      "distance": 22.953965032186126
+    },
+    {
+      "city": "Kangra",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "kangra",
+      "distance": 63.70813534209055
+    },
+    {
+      "city": "Tenali",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tenali",
+      "distance": 72.64336805533169
+    },
+    {
+      "city": "Ampati",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "ampati",
+      "distance": 76.33253970560459
+    },
+    {
+      "city": "Fatehgarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "fatehgarh",
+      "distance": 85.18120454719708
+    }
+  ],
+  "geohash": "tu72549",
+  "geohashUrl": "https://geohash.softeng.co/tu72549"
+}

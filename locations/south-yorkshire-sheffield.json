@@ -1,0 +1,82 @@
+{
+  "id": "south-yorkshire-sheffield",
+  "city": "Sheffield",
+  "state": "South Yorkshire",
+  "stateSlug": "south-yorkshire",
+  "citySlug": "sheffield",
+  "country": "United Kingdom",
+  "pincode": "S1",
+  "currency": "GBP",
+  "symbol": "£",
+  "compliance": "Ofcom Guidelines",
+  "carriers": [
+    "EE",
+    "Vodafone",
+    "O2",
+    "Three"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+44 20",
+  "timezone": "Europe/London",
+  "latitude": 54.3714,
+  "longitude": -2.882,
+  "landmark": "Sheffield Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over EE networks. Failovers route over Vodafone, O2, Three with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Sheffield, United Kingdom",
+  "population": 2422218,
+  "mobileUsers": 2303529,
+  "internetUsers": 2245396,
+  "genderRatioText": "977 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "£56,847 per annum",
+  "activeMobileDevices": 3076216,
+  "mobilePenetration": 95.1,
+  "internetPenetration": 92.7,
+  "maleCount": 1225642,
+  "femaleCount": 1196576,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Cardiff",
+      "state": "Wales",
+      "stateSlug": "wales",
+      "citySlug": "cardiff",
+      "distance": 69.80487922665654
+    },
+    {
+      "city": "Edinburgh",
+      "state": "Scotland",
+      "stateSlug": "scotland",
+      "citySlug": "edinburgh",
+      "distance": 123.32384736771814
+    },
+    {
+      "city": "Newcastle",
+      "state": "Tyne and Wear",
+      "stateSlug": "tyne-and-wear",
+      "citySlug": "newcastle",
+      "distance": 140.02438323850777
+    },
+    {
+      "city": "Nottingham",
+      "state": "Nottinghamshire",
+      "stateSlug": "nottinghamshire",
+      "citySlug": "nottingham",
+      "distance": 150.8695130316261
+    },
+    {
+      "city": "Leeds",
+      "state": "West Yorkshire",
+      "stateSlug": "west-yorkshire",
+      "citySlug": "leeds",
+      "distance": 197.05621883922075
+    }
+  ],
+  "geohash": "gctvq6j",
+  "geohashUrl": "https://geohash.softeng.co/gctvq6j"
+}

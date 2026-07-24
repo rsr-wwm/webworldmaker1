@@ -1,0 +1,81 @@
+{
+  "id": "attica-region-athens",
+  "city": "Athens",
+  "state": "Attica Region",
+  "stateSlug": "attica-region",
+  "citySlug": "athens",
+  "country": "Greece",
+  "pincode": "104 31",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / EETT",
+  "carriers": [
+    "Cosmote",
+    "Vodafone",
+    "Nova"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+30",
+  "timezone": "Europe/Athens",
+  "latitude": 38.8215,
+  "longitude": 21.8138,
+  "landmark": "Athens Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Cosmote networks. Failovers route over Vodafone, Nova with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Athens, Greece",
+  "population": 3165379,
+  "mobileUsers": 2554460,
+  "internetUsers": 2073323,
+  "genderRatioText": "1,006 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "€61,623 per annum",
+  "activeMobileDevices": 3988377,
+  "mobilePenetration": 80.7,
+  "internetPenetration": 65.5,
+  "maleCount": 1579524,
+  "femaleCount": 1585855,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Tirana",
+      "state": "Tirana County",
+      "stateSlug": "tirana-county",
+      "citySlug": "tirana",
+      "distance": 278.9318321163629
+    },
+    {
+      "city": "Skopje",
+      "state": "Skopje Region",
+      "stateSlug": "skopje-region",
+      "citySlug": "skopje",
+      "distance": 314.516434337049
+    },
+    {
+      "city": "Bitola",
+      "state": "Pelagonia Region",
+      "stateSlug": "pelagonia-region",
+      "citySlug": "bitola",
+      "distance": 328.3291075381005
+    },
+    {
+      "city": "Podgorica",
+      "state": "Podgorica Municipality",
+      "stateSlug": "podgorica-municipality",
+      "citySlug": "podgorica",
+      "distance": 485.9340076624715
+    },
+    {
+      "city": "Plovdiv",
+      "state": "Plovdiv Province",
+      "stateSlug": "plovdiv-province",
+      "citySlug": "plovdiv",
+      "distance": 534.3077087990661
+    }
+  ],
+  "geohash": "sqzsb7h",
+  "geohashUrl": "https://geohash.softeng.co/sqzsb7h"
+}

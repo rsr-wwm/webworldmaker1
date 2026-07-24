@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-gudivada",
+  "city": "Gudivada",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "gudivada",
+  "country": "India",
+  "pincode": "521301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.7242,
+  "longitude": 70.303,
+  "landmark": "Gudivada District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gudivada, India",
+  "population": 9118627,
+  "mobileUsers": 7030461,
+  "internetUsers": 5580599,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹11.32L per annum",
+  "activeMobileDevices": 9939303,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 61.2,
+  "maleCount": 4686974,
+  "femaleCount": 4431653,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan",
+      "distance": 17.770014701084225
+    },
+    {
+      "city": "Bhadrachalam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhadrachalam",
+      "distance": 25.097842066055048
+    },
+    {
+      "city": "Lahore",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "lahore",
+      "distance": 28.30475268355252
+    },
+    {
+      "city": "Mriyalguda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mriyalguda",
+      "distance": 28.41415988775544
+    },
+    {
+      "city": "Islamabad",
+      "state": "Islamabad Capital Territory",
+      "stateSlug": "islamabad-capital-territory",
+      "citySlug": "islamabad",
+      "distance": 29.79929623956782
+    }
+  ],
+  "geohash": "tt3cpg1",
+  "geohashUrl": "https://geohash.softeng.co/tt3cpg1"
+}

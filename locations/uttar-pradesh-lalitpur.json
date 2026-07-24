@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-lalitpur",
+  "city": "Lalitpur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "lalitpur",
+  "country": "India",
+  "pincode": "284403",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.9009,
+  "longitude": 71.6868,
+  "landmark": "Lalitpur Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Lalitpur, India",
+  "population": 5774500,
+  "mobileUsers": 4365521,
+  "internetUsers": 3245269,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹8.14L per annum",
+  "activeMobileDevices": 6582929,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 56.2,
+  "maleCount": 2939221,
+  "femaleCount": 2835280,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "gurgaon",
+      "distance": 27.95583319190678
+    },
+    {
+      "city": "Guwahati",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati",
+      "distance": 53.00412311376782
+    },
+    {
+      "city": "Agra",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "agra",
+      "distance": 60.57421756342497
+    },
+    {
+      "city": "Mangaldoi",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "mangaldoi",
+      "distance": 67.73455796024754
+    },
+    {
+      "city": "Sirsi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sirsi",
+      "distance": 68.3644614889186
+    }
+  ],
+  "geohash": "tdffrq8",
+  "geohashUrl": "https://geohash.softeng.co/tdffrq8"
+}

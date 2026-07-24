@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-chandrapur",
+  "city": "Chandrapur",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "chandrapur",
+  "country": "India",
+  "pincode": "442401",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.687,
+  "longitude": 81.7068,
+  "landmark": "Chandrapur Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chandrapur, India",
+  "population": 5531183,
+  "mobileUsers": 4048825,
+  "internetUsers": 3086400,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.13L per annum",
+  "activeMobileDevices": 5752430,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 55.8,
+  "maleCount": 2848559,
+  "femaleCount": 2682624,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mosunram",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mosunram",
+      "distance": 32.904903119324345
+    },
+    {
+      "city": "Repalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "repalle",
+      "distance": 48.04915622937326
+    },
+    {
+      "city": "Lamlongbazar",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lamlongbazar",
+      "distance": 48.91846488758342
+    },
+    {
+      "city": "Baramulla",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "baramulla",
+      "distance": 57.1861690877883
+    },
+    {
+      "city": "Chhatarpur City",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "chhatarpur-city",
+      "distance": 60.582865107487955
+    }
+  ],
+  "geohash": "tvdh723",
+  "geohashUrl": "https://geohash.softeng.co/tvdh723"
+}

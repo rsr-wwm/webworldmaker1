@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-phutmouri",
+  "city": "Phutmouri",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "phutmouri",
+  "country": "India",
+  "pincode": "793008",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.8065,
+  "longitude": 83.4963,
+  "landmark": "Phutmouri Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Phutmouri, India",
+  "population": 6663969,
+  "mobileUsers": 5131256,
+  "internetUsers": 3705166,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.51L per annum",
+  "activeMobileDevices": 7930123,
+  "mobilePenetration": 77,
+  "internetPenetration": 55.6,
+  "maleCount": 3471928,
+  "femaleCount": 3192041,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Morena",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "morena",
+      "distance": 36.61589071119407
+    },
+    {
+      "city": "Hanamkonda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "hanamkonda",
+      "distance": 44.27927445563738
+    },
+    {
+      "city": "Phagwara",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "phagwara",
+      "distance": 69.54275352534857
+    },
+    {
+      "city": "Raigarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raigarh",
+      "distance": 72.05325974994047
+    },
+    {
+      "city": "Faridabad",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "faridabad",
+      "distance": 82.52311201983352
+    }
+  ],
+  "geohash": "tf57hj2",
+  "geohashUrl": "https://geohash.softeng.co/tf57hj2"
+}

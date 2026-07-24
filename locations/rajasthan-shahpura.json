@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-shahpura",
+  "city": "Shahpura",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "shahpura",
+  "country": "India",
+  "pincode": "303103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.7102,
+  "longitude": 69.7097,
+  "landmark": "Shahpura Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shahpura, India",
+  "population": 8974709,
+  "mobileUsers": 6811804,
+  "internetUsers": 5079685,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹6.36L per annum",
+  "activeMobileDevices": 10051674,
+  "mobilePenetration": 75.9,
+  "internetPenetration": 56.6,
+  "maleCount": 4595051,
+  "femaleCount": 4379658,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Midnapore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "midnapore",
+      "distance": 12.562783241843807
+    },
+    {
+      "city": "Balurghat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "balurghat",
+      "distance": 47.98285497088803
+    },
+    {
+      "city": "Tiruchirappalli",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchirappalli",
+      "distance": 60.45135151738273
+    },
+    {
+      "city": "Kantolim",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kantolim",
+      "distance": 66.22526374808778
+    },
+    {
+      "city": "Sri Rangam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sri-rangam",
+      "distance": 78.0391419732107
+    }
+  ],
+  "geohash": "teced21",
+  "geohashUrl": "https://geohash.softeng.co/teced21"
+}

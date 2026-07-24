@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-varanasi",
+  "city": "Varanasi",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "varanasi",
+  "country": "India",
+  "pincode": "221002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.304,
+  "longitude": 80.8156,
+  "landmark": "Varanasi Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Varanasi, India",
+  "population": 9255722,
+  "mobileUsers": 6710398,
+  "internetUsers": 5479387,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹8.53L per annum",
+  "activeMobileDevices": 9996179,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 59.2,
+  "maleCount": 4720418,
+  "femaleCount": 4535304,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mangalagiri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mangalagiri",
+      "distance": 34.78702644559693
+    },
+    {
+      "city": "Rampur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "rampur",
+      "distance": 45.6075793290441
+    },
+    {
+      "city": "Khayerpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "khayerpur",
+      "distance": 118.71564061167753
+    },
+    {
+      "city": "Chenganacherry",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chenganacherry",
+      "distance": 121.53890648186848
+    },
+    {
+      "city": "Vadakancherry",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "vadakancherry",
+      "distance": 121.6347558363865
+    }
+  ],
+  "geohash": "tv3krh8",
+  "geohashUrl": "https://geohash.softeng.co/tv3krh8"
+}

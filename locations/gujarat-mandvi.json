@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-mandvi",
+  "city": "Mandvi",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "mandvi",
+  "country": "India",
+  "pincode": "370465",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.7447,
+  "longitude": 75.3015,
+  "landmark": "Mandvi Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mandvi, India",
+  "population": 3263095,
+  "mobileUsers": 2362480,
+  "internetUsers": 1957857,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹7.48L per annum",
+  "activeMobileDevices": 3883083,
+  "mobilePenetration": 72.4,
+  "internetPenetration": 60,
+  "maleCount": 1680494,
+  "femaleCount": 1582601,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Arasaradi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arasaradi",
+      "distance": 61.48991253735845
+    },
+    {
+      "city": "Gandhinagar (Jaipur)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "gandhinagar-jaipur",
+      "distance": 65.12124867847258
+    },
+    {
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "ludhiana",
+      "distance": 69.20552064227527
+    },
+    {
+      "city": "Dimapur",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "dimapur",
+      "distance": 75.30081296473676
+    },
+    {
+      "city": "Chittoor",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chittoor",
+      "distance": 90.57651283892649
+    }
+  ],
+  "geohash": "t9tx3tb",
+  "geohashUrl": "https://geohash.softeng.co/t9tx3tb"
+}

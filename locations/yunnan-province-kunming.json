@@ -1,0 +1,81 @@
+{
+  "id": "yunnan-province-kunming",
+  "city": "Kunming",
+  "state": "Yunnan Province",
+  "stateSlug": "yunnan-province",
+  "citySlug": "kunming",
+  "country": "China",
+  "pincode": "650000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.1735,
+  "longitude": 104.9679,
+  "landmark": "Kunming Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kunming, China",
+  "population": 5500951,
+  "mobileUsers": 5165392,
+  "internetUsers": 4158718,
+  "genderRatioText": "999 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "¥38,954 CNY per annum",
+  "activeMobileDevices": 6491122,
+  "mobilePenetration": 93.9,
+  "internetPenetration": 75.6,
+  "maleCount": 2750476,
+  "femaleCount": 2750476,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Beijing",
+      "state": "Beijing Municipality",
+      "stateSlug": "beijing-municipality",
+      "citySlug": "beijing",
+      "distance": 2.547007511344027
+    },
+    {
+      "city": "Zhengzhou",
+      "state": "Henan Province",
+      "stateSlug": "henan-province",
+      "citySlug": "zhengzhou",
+      "distance": 5.26117300585298
+    },
+    {
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang",
+      "distance": 5.4546418328057245
+    },
+    {
+      "city": "Harbin",
+      "state": "Heilongjiang Province",
+      "stateSlug": "heilongjiang-province",
+      "citySlug": "harbin",
+      "distance": 6.625536583538589
+    },
+    {
+      "city": "Wuxi",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "wuxi",
+      "distance": 7.3059869456146895
+    }
+  ],
+  "geohash": "wq68he5",
+  "geohashUrl": "https://geohash.softeng.co/wq68he5"
+}

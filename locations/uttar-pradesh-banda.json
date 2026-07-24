@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-banda",
+  "city": "Banda",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "banda",
+  "country": "India",
+  "pincode": "210001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.3154,
+  "longitude": 75.1403,
+  "landmark": "Banda Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Banda, India",
+  "population": 9859955,
+  "mobileUsers": 7513285,
+  "internetUsers": 5994852,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹7.38L per annum",
+  "activeMobileDevices": 10254353,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 60.8,
+  "maleCount": 5048297,
+  "femaleCount": 4811658,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Secunderabad",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "secunderabad",
+      "distance": 67.34268820587415
+    },
+    {
+      "city": "Nampong",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "nampong",
+      "distance": 82.25772115042204
+    },
+    {
+      "city": "Tirukkoyilur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirukkoyilur",
+      "distance": 100.44958439052826
+    },
+    {
+      "city": "Ramkrishna Mission",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "ramkrishna-mission",
+      "distance": 100.77297801903252
+    },
+    {
+      "city": "Barrackpore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barrackpore",
+      "distance": 103.06035000613825
+    }
+  ],
+  "geohash": "tst2jbe",
+  "geohashUrl": "https://geohash.softeng.co/tst2jbe"
+}

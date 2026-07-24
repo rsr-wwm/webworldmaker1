@@ -1,0 +1,82 @@
+{
+  "id": "bihar-marhowrah",
+  "city": "Marhowrah",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "marhowrah",
+  "country": "India",
+  "pincode": "841418",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.0108,
+  "longitude": 84.9103,
+  "landmark": "Marhowrah Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Marhowrah, India",
+  "population": 3179814,
+  "mobileUsers": 2362601,
+  "internetUsers": 1790235,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹6.81L per annum",
+  "activeMobileDevices": 3402400,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 56.3,
+  "maleCount": 1659863,
+  "femaleCount": 1519951,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tehri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "tehri",
+      "distance": 23.023244734856675
+    },
+    {
+      "city": "Orai",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "orai",
+      "distance": 61.72166569360462
+    },
+    {
+      "city": "Gulbarga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "gulbarga",
+      "distance": 77.42466155368568
+    },
+    {
+      "city": "Kunnamkulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kunnamkulam",
+      "distance": 89.32841019357409
+    },
+    {
+      "city": "Bhavnagar",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhavnagar",
+      "distance": 93.32469295109118
+    }
+  ],
+  "geohash": "tukqk1j",
+  "geohashUrl": "https://geohash.softeng.co/tukqk1j"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "qinghai-province-xining",
+  "city": "Xining",
+  "state": "Qinghai Province",
+  "stateSlug": "qinghai-province",
+  "citySlug": "xining",
+  "country": "China",
+  "pincode": "810000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.1871,
+  "longitude": 105.1831,
+  "landmark": "Xining Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Xining, China",
+  "population": 1486233,
+  "mobileUsers": 1362875,
+  "internetUsers": 1125078,
+  "genderRatioText": "982 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "¥39,578 CNY per annum",
+  "activeMobileDevices": 1783479,
+  "mobilePenetration": 91.7,
+  "internetPenetration": 75.7,
+  "maleCount": 750548,
+  "femaleCount": 735685,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Tianjin",
+      "state": "Tianjin Municipality",
+      "stateSlug": "tianjin-municipality",
+      "citySlug": "tianjin",
+      "distance": 1.6998725827277759
+    },
+    {
+      "city": "Xian",
+      "state": "Shaanxi Province",
+      "stateSlug": "shaanxi-province",
+      "citySlug": "xian",
+      "distance": 10.52696937350128
+    },
+    {
+      "city": "Harbin",
+      "state": "Heilongjiang Province",
+      "stateSlug": "heilongjiang-province",
+      "citySlug": "harbin",
+      "distance": 13.269714157632645
+    },
+    {
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang",
+      "distance": 14.643932502532802
+    },
+    {
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang",
+      "distance": 14.707890717056504
+    }
+  ],
+  "geohash": "wq6b1mx",
+  "geohashUrl": "https://geohash.softeng.co/wq6b1mx"
+}

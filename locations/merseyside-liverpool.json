@@ -1,0 +1,82 @@
+{
+  "id": "merseyside-liverpool",
+  "city": "Liverpool",
+  "state": "Merseyside",
+  "stateSlug": "merseyside",
+  "citySlug": "liverpool",
+  "country": "United Kingdom",
+  "pincode": "L1",
+  "currency": "GBP",
+  "symbol": "£",
+  "compliance": "Ofcom Guidelines",
+  "carriers": [
+    "EE",
+    "Vodafone",
+    "O2",
+    "Three"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+44 20",
+  "timezone": "Europe/London",
+  "latitude": 57.5451,
+  "longitude": -3.6007,
+  "landmark": "Liverpool Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over EE networks. Failovers route over Vodafone, O2, Three with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Liverpool, United Kingdom",
+  "population": 778642,
+  "mobileUsers": 752168,
+  "internetUsers": 735816,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "£47,568 per annum",
+  "activeMobileDevices": 1027807,
+  "mobilePenetration": 96.6,
+  "internetPenetration": 94.5,
+  "maleCount": 398665,
+  "femaleCount": 379977,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Glasgow",
+      "state": "Scotland",
+      "stateSlug": "scotland",
+      "citySlug": "glasgow",
+      "distance": 111.24071660191963
+    },
+    {
+      "city": "Manchester",
+      "state": "England",
+      "stateSlug": "england",
+      "citySlug": "manchester",
+      "distance": 266.49765712296147
+    },
+    {
+      "city": "Newcastle",
+      "state": "Tyne and Wear",
+      "stateSlug": "tyne-and-wear",
+      "citySlug": "newcastle",
+      "distance": 316.35603904040283
+    },
+    {
+      "city": "London",
+      "state": "England",
+      "stateSlug": "england",
+      "citySlug": "london",
+      "distance": 324.2322035932947
+    },
+    {
+      "city": "Sheffield",
+      "state": "South Yorkshire",
+      "stateSlug": "south-yorkshire",
+      "citySlug": "sheffield",
+      "distance": 355.71816547393
+    }
+  ],
+  "geohash": "gfjrq5f",
+  "geohashUrl": "https://geohash.softeng.co/gfjrq5f"
+}

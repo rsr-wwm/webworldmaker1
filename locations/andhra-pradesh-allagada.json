@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-allagada",
+  "city": "Allagada",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "allagada",
+  "country": "India",
+  "pincode": "518543",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.3916,
+  "longitude": 77.8616,
+  "landmark": "Allagada Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Allagada, India",
+  "population": 2145699,
+  "mobileUsers": 1587817,
+  "internetUsers": 1319604,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.13L per annum",
+  "activeMobileDevices": 2210069,
+  "mobilePenetration": 74,
+  "internetPenetration": 61.5,
+  "maleCount": 1109326,
+  "femaleCount": 1036373,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Wardha",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "wardha",
+      "distance": 80.14730946323151
+    },
+    {
+      "city": "Amreli",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "amreli",
+      "distance": 87.77494278351585
+    },
+    {
+      "city": "Kolar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kolar",
+      "distance": 111.63420727699929
+    },
+    {
+      "city": "Akbarpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "akbarpur",
+      "distance": 111.75788351952329
+    },
+    {
+      "city": "Seoni",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "seoni",
+      "distance": 117.52609886625243
+    }
+  ],
+  "geohash": "ttrkgu9",
+  "geohashUrl": "https://geohash.softeng.co/ttrkgu9"
+}

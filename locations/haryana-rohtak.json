@@ -1,0 +1,82 @@
+{
+  "id": "haryana-rohtak",
+  "city": "Rohtak",
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "citySlug": "rohtak",
+  "country": "India",
+  "pincode": "124001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.2819,
+  "longitude": 74.0051,
+  "landmark": "Rohtak Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Rohtak, India",
+  "population": 8938579,
+  "mobileUsers": 6864828,
+  "internetUsers": 4907279,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹7.75L per annum",
+  "activeMobileDevices": 9653665,
+  "mobilePenetration": 76.8,
+  "internetPenetration": 54.9,
+  "maleCount": 4683815,
+  "femaleCount": 4254764,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mawphlang",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mawphlang",
+      "distance": 19.31041147889794
+    },
+    {
+      "city": "Dehradun",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dehradun",
+      "distance": 64.19888298095856
+    },
+    {
+      "city": "Disa",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "disa",
+      "distance": 83.40926089997198
+    },
+    {
+      "city": "Barabazar",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barabazar",
+      "distance": 83.55594018624411
+    },
+    {
+      "city": "Hissar",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "hissar",
+      "distance": 91.21842431153551
+    }
+  ],
+  "geohash": "tthws48",
+  "geohashUrl": "https://geohash.softeng.co/tthws48"
+}

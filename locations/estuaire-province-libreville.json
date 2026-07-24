@@ -1,0 +1,80 @@
+{
+  "id": "estuaire-province-libreville",
+  "city": "Libreville",
+  "state": "Estuaire Province",
+  "stateSlug": "estuaire-province",
+  "citySlug": "libreville",
+  "country": "Gabon",
+  "pincode": "0000",
+  "currency": "XAF",
+  "symbol": "FCFA",
+  "compliance": "ARCEP Guidelines",
+  "carriers": [
+    "Airtel",
+    "Moov"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+241",
+  "timezone": "Africa/Libreville",
+  "latitude": -1.0982,
+  "longitude": 11.7468,
+  "landmark": "Libreville Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Airtel networks. Failovers route over Moov with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Libreville, Gabon",
+  "population": 3927042,
+  "mobileUsers": 3035603,
+  "internetUsers": 2595774,
+  "genderRatioText": "1,000 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "FCFA42,319 XAF per annum",
+  "activeMobileDevices": 4948072,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 66.1,
+  "maleCount": 1963521,
+  "femaleCount": 1963521,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Montpellier",
+      "state": "Occitanie",
+      "stateSlug": "occitanie",
+      "citySlug": "montpellier",
+      "distance": 347.81780296920635
+    },
+    {
+      "city": "Malabo",
+      "state": "Bioko Norte",
+      "stateSlug": "bioko-norte",
+      "citySlug": "malabo",
+      "distance": 394.85208867518884
+    },
+    {
+      "city": "Sao Tome",
+      "state": "Sao Tome Province",
+      "stateSlug": "sao-tome-province",
+      "citySlug": "sao-tome",
+      "distance": 551.6171268053857
+    },
+    {
+      "city": "Yaounde",
+      "state": "Centre Region",
+      "stateSlug": "centre-region",
+      "citySlug": "yaounde",
+      "distance": 789.8249195243197
+    },
+    {
+      "city": "Douala",
+      "state": "Littoral Region",
+      "stateSlug": "littoral-region",
+      "citySlug": "douala",
+      "distance": 811.0696299541786
+    }
+  ],
+  "geohash": "krb3g21",
+  "geohashUrl": "https://geohash.softeng.co/krb3g21"
+}

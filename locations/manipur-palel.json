@@ -1,0 +1,82 @@
+{
+  "id": "manipur-palel",
+  "city": "Palel",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "palel",
+  "country": "India",
+  "pincode": "795135",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.53,
+  "longitude": 87.1437,
+  "landmark": "Palel District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Palel, India",
+  "population": 9463720,
+  "mobileUsers": 7022080,
+  "internetUsers": 5441639,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹9.65L per annum",
+  "activeMobileDevices": 10410092,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 57.5,
+  "maleCount": 4864352,
+  "femaleCount": 4599368,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lucknow GPO",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lucknow-gpo",
+      "distance": 21.727842079078645
+    },
+    {
+      "city": "Kundapura",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kundapura",
+      "distance": 23.94969193914132
+    },
+    {
+      "city": "Begusarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "begusarai",
+      "distance": 45.542257698709776
+    },
+    {
+      "city": "Bhavani",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "bhavani",
+      "distance": 52.94335346411337
+    },
+    {
+      "city": "Tenkasi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tenkasi",
+      "distance": 53.167048696934565
+    }
+  ],
+  "geohash": "tumgx18",
+  "geohashUrl": "https://geohash.softeng.co/tumgx18"
+}

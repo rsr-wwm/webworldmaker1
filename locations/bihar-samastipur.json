@@ -1,0 +1,82 @@
+{
+  "id": "bihar-samastipur",
+  "city": "Samastipur",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "samastipur",
+  "country": "India",
+  "pincode": "848101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.8047,
+  "longitude": 82.4759,
+  "landmark": "Samastipur Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Samastipur, India",
+  "population": 3852720,
+  "mobileUsers": 2978152,
+  "internetUsers": 2095879,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹8.97L per annum",
+  "activeMobileDevices": 3891247,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 54.4,
+  "maleCount": 2018825,
+  "femaleCount": 1833895,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ukhrul",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "ukhrul",
+      "distance": 43.34630695179
+    },
+    {
+      "city": "Ranaghat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "ranaghat",
+      "distance": 61.50581099090453
+    },
+    {
+      "city": "Hoshiarpur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "hoshiarpur",
+      "distance": 102.46226216848576
+    },
+    {
+      "city": "Amadalavalasa",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "amadalavalasa",
+      "distance": 110.46012803084422
+    },
+    {
+      "city": "Barasat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barasat",
+      "distance": 124.15586283368995
+    }
+  ],
+  "geohash": "tgdwkg3",
+  "geohashUrl": "https://geohash.softeng.co/tgdwkg3"
+}

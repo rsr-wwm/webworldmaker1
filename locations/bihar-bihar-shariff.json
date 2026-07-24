@@ -1,0 +1,82 @@
+{
+  "id": "bihar-bihar-shariff",
+  "city": "Bihar Shariff",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "bihar-shariff",
+  "country": "India",
+  "pincode": "803101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.9287,
+  "longitude": 80.6312,
+  "landmark": "Bihar Shariff Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bihar Shariff, India",
+  "population": 2194269,
+  "mobileUsers": 1599622,
+  "internetUsers": 1209042,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹8.79L per annum",
+  "activeMobileDevices": 2545352,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 55.1,
+  "maleCount": 1149797,
+  "femaleCount": 1044472,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Muzaffarpur",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "muzaffarpur",
+      "distance": 17.41242160497593
+    },
+    {
+      "city": "Kandi",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kandi",
+      "distance": 59.4232266989063
+    },
+    {
+      "city": "Upling",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "upling",
+      "distance": 60.51932968162272
+    },
+    {
+      "city": "Chamba",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "chamba",
+      "distance": 72.46353496467619
+    },
+    {
+      "city": "Tiruvalla",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "tiruvalla",
+      "distance": 73.42270834945717
+    }
+  ],
+  "geohash": "tuc34y1",
+  "geohashUrl": "https://geohash.softeng.co/tuc34y1"
+}

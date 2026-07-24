@@ -1,0 +1,81 @@
+{
+  "id": "new-york-new-york-city",
+  "city": "New York City",
+  "state": "New York",
+  "stateSlug": "new-york",
+  "citySlug": "new-york-city",
+  "country": "United States",
+  "pincode": "10001",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 212",
+  "timezone": "America/New_York",
+  "latitude": 44.2051,
+  "longitude": -85.5385,
+  "landmark": "New York City State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for New York City, United States",
+  "population": 2713150,
+  "mobileUsers": 2658887,
+  "internetUsers": 2550361,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "$83,786 per annum",
+  "activeMobileDevices": 3418569,
+  "mobilePenetration": 98,
+  "internetPenetration": 94,
+  "maleCount": 1380993,
+  "femaleCount": 1332157,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "San Jose",
+      "state": "California",
+      "stateSlug": "california",
+      "citySlug": "san-jose",
+      "distance": 51.28583376252631
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque",
+      "distance": 136.70967533563177
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "stateSlug": "washington",
+      "citySlug": "seattle",
+      "distance": 166.8454123643902
+    },
+    {
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor",
+      "distance": 297.54931987862676
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "citySlug": "charlotte",
+      "distance": 302.7260121149751
+    }
+  ],
+  "geohash": "dpg5mx2",
+  "geohashUrl": "https://geohash.softeng.co/dpg5mx2"
+}

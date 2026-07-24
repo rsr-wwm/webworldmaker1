@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-alwar",
+  "city": "Alwar",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "alwar",
+  "country": "India",
+  "pincode": "301001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.898,
+  "longitude": 71.825,
+  "landmark": "Alwar Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Alwar, India",
+  "population": 5915670,
+  "mobileUsers": 4436752,
+  "internetUsers": 3253618,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.64L per annum",
+  "activeMobileDevices": 7098804,
+  "mobilePenetration": 75,
+  "internetPenetration": 55,
+  "maleCount": 3064317,
+  "femaleCount": 2851353,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mao",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "mao",
+      "distance": 26.616579300815918
+    },
+    {
+      "city": "Kottarakara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kottarakara",
+      "distance": 52.66770104474594
+    },
+    {
+      "city": "Kuvep",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kuvep",
+      "distance": 57.83813493017648
+    },
+    {
+      "city": "Malappuram",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "malappuram",
+      "distance": 60.54111202210182
+    },
+    {
+      "city": "Narnaul",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "narnaul",
+      "distance": 69.71998214817032
+    }
+  ],
+  "geohash": "tt7446v",
+  "geohashUrl": "https://geohash.softeng.co/tt7446v"
+}

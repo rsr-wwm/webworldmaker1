@@ -1,0 +1,81 @@
+{
+  "id": "nova-scotia-halifax",
+  "city": "Halifax",
+  "state": "Nova Scotia",
+  "stateSlug": "nova-scotia",
+  "citySlug": "halifax",
+  "country": "Canada",
+  "pincode": "B3J 1A1",
+  "currency": "CAD",
+  "symbol": "C$",
+  "compliance": "CRTC / CASL Guidelines",
+  "carriers": [
+    "Rogers",
+    "Bell",
+    "Telus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 416",
+  "timezone": "America/Toronto",
+  "latitude": 44.648618,
+  "longitude": -63.5859487,
+  "landmark": "Halifax Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Halifax, Canada",
+  "population": 3922653,
+  "mobileUsers": 3695139,
+  "internetUsers": 3644144,
+  "genderRatioText": "991 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "C$42,134 CAD per annum",
+  "activeMobileDevices": 4785636,
+  "mobilePenetration": 94.2,
+  "internetPenetration": 92.9,
+  "maleCount": 1969172,
+  "femaleCount": 1953481,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Quebec City",
+      "state": "Quebec",
+      "stateSlug": "quebec",
+      "citySlug": "quebec-city",
+      "distance": 638.3972114552723
+    },
+    {
+      "city": "Montreal",
+      "state": "Quebec",
+      "stateSlug": "quebec",
+      "citySlug": "montreal",
+      "distance": 789.1717054983493
+    },
+    {
+      "city": "St. John's",
+      "state": "Newfoundland and Labrador",
+      "stateSlug": "newfoundland-and-labrador",
+      "citySlug": "st-johns",
+      "distance": 898.246222161375
+    },
+    {
+      "city": "Buffalo",
+      "state": "New York",
+      "stateSlug": "new-york",
+      "citySlug": "buffalo",
+      "distance": 928.3162792403688
+    },
+    {
+      "city": "Ottawa",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "ottawa",
+      "distance": 954.0889935757956
+    }
+  ],
+  "geohash": "dxfy104",
+  "geohashUrl": "https://geohash.softeng.co/dxfy104"
+}

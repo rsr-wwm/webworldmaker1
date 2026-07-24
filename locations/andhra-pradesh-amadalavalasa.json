@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-amadalavalasa",
+  "city": "Amadalavalasa",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "amadalavalasa",
+  "country": "India",
+  "pincode": "532185",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.6737,
+  "longitude": 81.9595,
+  "landmark": "Amadalavalasa Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Amadalavalasa, India",
+  "population": 2487195,
+  "mobileUsers": 1790780,
+  "internetUsers": 1532112,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹10.52L per annum",
+  "activeMobileDevices": 2860274,
+  "mobilePenetration": 72,
+  "internetPenetration": 61.6,
+  "maleCount": 1273444,
+  "femaleCount": 1213751,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Aluva",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "aluva",
+      "distance": 30.814871605384287
+    },
+    {
+      "city": "Ambasamudram",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "ambasamudram",
+      "distance": 68.434361174761
+    },
+    {
+      "city": "Daporizo",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "daporizo",
+      "distance": 86.710601607507
+    },
+    {
+      "city": "Botad",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "botad",
+      "distance": 91.0482786528466
+    },
+    {
+      "city": "Barasat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "barasat",
+      "distance": 96.74926001410657
+    }
+  ],
+  "geohash": "tgf7319",
+  "geohashUrl": "https://geohash.softeng.co/tgf7319"
+}

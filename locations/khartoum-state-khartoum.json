@@ -1,0 +1,81 @@
+{
+  "id": "khartoum-state-khartoum",
+  "city": "Khartoum",
+  "state": "Khartoum State",
+  "stateSlug": "khartoum-state",
+  "citySlug": "khartoum",
+  "country": "Sudan",
+  "pincode": "11111",
+  "currency": "SDG",
+  "symbol": "SDG",
+  "compliance": "TPRA Rules",
+  "carriers": [
+    "Zain",
+    "MTN",
+    "Sudani"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+249",
+  "timezone": "Africa/Khartoum",
+  "latitude": 14.8108,
+  "longitude": 29.8632,
+  "landmark": "Khartoum Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Zain networks. Failovers route over MTN, Sudani with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Khartoum, Sudan",
+  "population": 4067301,
+  "mobileUsers": 3355523,
+  "internetUsers": 2619341,
+  "genderRatioText": "970 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "SDG31,555 SDG per annum",
+  "activeMobileDevices": 5694221,
+  "mobilePenetration": 82.5,
+  "internetPenetration": 64.4,
+  "maleCount": 2066189,
+  "femaleCount": 2001112,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Port Sudan",
+      "state": "Red Sea State",
+      "stateSlug": "red-sea-state",
+      "citySlug": "port-sudan",
+      "distance": 42.33995776372907
+    },
+    {
+      "city": "Juba",
+      "state": "Central Equatoria",
+      "stateSlug": "central-equatoria",
+      "citySlug": "juba",
+      "distance": 876.8337151898857
+    },
+    {
+      "city": "Asmara",
+      "state": "Maekel Region",
+      "stateSlug": "maekel-region",
+      "citySlug": "asmara",
+      "distance": 977.5540285579186
+    },
+    {
+      "city": "N'Djamena",
+      "state": "Chari-Baguirmi",
+      "stateSlug": "chari-baguirmi",
+      "citySlug": "ndjamena",
+      "distance": 1145.8951807980695
+    },
+    {
+      "city": "Dire Dawa",
+      "state": "Dire Dawa Charter City",
+      "stateSlug": "dire-dawa-charter-city",
+      "citySlug": "dire-dawa",
+      "distance": 1163.6859008502336
+    }
+  ],
+  "geohash": "sdthr81",
+  "geohashUrl": "https://geohash.softeng.co/sdthr81"
+}

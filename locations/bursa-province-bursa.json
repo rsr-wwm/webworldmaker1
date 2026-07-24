@@ -1,0 +1,81 @@
+{
+  "id": "bursa-province-bursa",
+  "city": "Bursa",
+  "state": "Bursa Province",
+  "stateSlug": "bursa-province",
+  "citySlug": "bursa",
+  "country": "Türkiye",
+  "pincode": "16000",
+  "currency": "TRY",
+  "symbol": "₺",
+  "compliance": "BTK Regulations",
+  "carriers": [
+    "Turkcell",
+    "Vodafone",
+    "Türk Telekom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+90",
+  "timezone": "Europe/Istanbul",
+  "latitude": 38.9959,
+  "longitude": 34.9188,
+  "landmark": "Bursa Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Turkcell networks. Failovers route over Vodafone, Türk Telekom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bursa, Türkiye",
+  "population": 1610513,
+  "mobileUsers": 1262642,
+  "internetUsers": 1037170,
+  "genderRatioText": "1,009 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "₺19,164 TRY per annum",
+  "activeMobileDevices": 2141982,
+  "mobilePenetration": 78.4,
+  "internetPenetration": 64.4,
+  "maleCount": 802035,
+  "femaleCount": 808478,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Antalya",
+      "state": "Antalya Province",
+      "stateSlug": "antalya-province",
+      "citySlug": "antalya",
+      "distance": 9.630471897656099
+    },
+    {
+      "city": "Izmir",
+      "state": "Izmir Province",
+      "stateSlug": "izmir-province",
+      "citySlug": "izmir",
+      "distance": 9.978400631970581
+    },
+    {
+      "city": "Konya",
+      "state": "Konya Province",
+      "stateSlug": "konya-province",
+      "citySlug": "konya",
+      "distance": 11.713897969606766
+    },
+    {
+      "city": "Istanbul",
+      "state": "Istanbul Province",
+      "stateSlug": "istanbul-province",
+      "citySlug": "istanbul",
+      "distance": 12.830985041755122
+    },
+    {
+      "city": "Mersin",
+      "state": "Mersin Province",
+      "stateSlug": "mersin-province",
+      "citySlug": "mersin",
+      "distance": 13.366395992397484
+    }
+  ],
+  "geohash": "sybvfdg",
+  "geohashUrl": "https://geohash.softeng.co/sybvfdg"
+}

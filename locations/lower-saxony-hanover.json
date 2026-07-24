@@ -1,0 +1,81 @@
+{
+  "id": "lower-saxony-hanover",
+  "city": "Hanover",
+  "state": "Lower Saxony",
+  "stateSlug": "lower-saxony",
+  "citySlug": "hanover",
+  "country": "Germany",
+  "pincode": "30159",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / BNetzA",
+  "carriers": [
+    "Telekom",
+    "Vodafone",
+    "O2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+49 30",
+  "timezone": "Europe/Berlin",
+  "latitude": 50.8689,
+  "longitude": 14.0177,
+  "landmark": "Hanover Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Hanover, Germany",
+  "population": 4696097,
+  "mobileUsers": 4508253,
+  "internetUsers": 4494164,
+  "genderRatioText": "988 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "€58,164 per annum",
+  "activeMobileDevices": 5870121,
+  "mobilePenetration": 96,
+  "internetPenetration": 95.7,
+  "maleCount": 2362137,
+  "femaleCount": 2333960,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Stuttgart",
+      "state": "Baden-Württemberg",
+      "stateSlug": "baden-wurttemberg",
+      "citySlug": "stuttgart",
+      "distance": 65.2342490143434
+    },
+    {
+      "city": "Munster",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "munster",
+      "distance": 68.8089590356128
+    },
+    {
+      "city": "Dresden",
+      "state": "Saxony",
+      "stateSlug": "saxony",
+      "citySlug": "dresden",
+      "distance": 101.91889977000163
+    },
+    {
+      "city": "Ostrava",
+      "state": "Moravian-Silesian",
+      "stateSlug": "moravian-silesian",
+      "citySlug": "ostrava",
+      "distance": 144.4834339440929
+    },
+    {
+      "city": "Leipzig",
+      "state": "Saxony",
+      "stateSlug": "saxony",
+      "citySlug": "leipzig",
+      "distance": 144.7556009373234
+    }
+  ],
+  "geohash": "u31cqur",
+  "geohashUrl": "https://geohash.softeng.co/u31cqur"
+}

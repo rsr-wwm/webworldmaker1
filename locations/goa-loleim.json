@@ -1,0 +1,82 @@
+{
+  "id": "goa-loleim",
+  "city": "Loleim",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "loleim",
+  "country": "India",
+  "pincode": "403728",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.4362,
+  "longitude": 73.2676,
+  "landmark": "Loleim GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Loleim, India",
+  "population": 4503456,
+  "mobileUsers": 3499185,
+  "internetUsers": 2765121,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹9.19L per annum",
+  "activeMobileDevices": 4998836,
+  "mobilePenetration": 77.7,
+  "internetPenetration": 61.4,
+  "maleCount": 2332790,
+  "femaleCount": 2170666,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Champhai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "champhai",
+      "distance": 22.458975789957535
+    },
+    {
+      "city": "Thrissur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thrissur",
+      "distance": 35.37676316027209
+    },
+    {
+      "city": "Gandhinagar (Jammu)",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "gandhinagar-jammu",
+      "distance": 61.15595216232642
+    },
+    {
+      "city": "Mangan",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "mangan",
+      "distance": 86.99232546558952
+    },
+    {
+      "city": "Amarpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "amarpur",
+      "distance": 110.79046380983357
+    }
+  ],
+  "geohash": "tesh70r",
+  "geohashUrl": "https://geohash.softeng.co/tesh70r"
+}

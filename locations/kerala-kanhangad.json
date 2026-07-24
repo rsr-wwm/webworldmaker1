@@ -1,0 +1,82 @@
+{
+  "id": "kerala-kanhangad",
+  "city": "Kanhangad",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "kanhangad",
+  "country": "India",
+  "pincode": "673315",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.8964,
+  "longitude": 83.8279,
+  "landmark": "Kanhangad Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kanhangad, India",
+  "population": 4566262,
+  "mobileUsers": 3502322,
+  "internetUsers": 2808251,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹6.37L per annum",
+  "activeMobileDevices": 5022888,
+  "mobilePenetration": 76.7,
+  "internetPenetration": 61.5,
+  "maleCount": 2392721,
+  "femaleCount": 2173541,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chitradurga",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "chitradurga",
+      "distance": 5.466381381631571
+    },
+    {
+      "city": "Beed",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "beed",
+      "distance": 26.96991287629009
+    },
+    {
+      "city": "Kanker",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "kanker",
+      "distance": 45.49283086979216
+    },
+    {
+      "city": "Arsikere",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "arsikere",
+      "distance": 59.16370186665352
+    },
+    {
+      "city": "Manipal",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "manipal",
+      "distance": 71.66993909261136
+    }
+  ],
+  "geohash": "tug9583",
+  "geohashUrl": "https://geohash.softeng.co/tug9583"
+}

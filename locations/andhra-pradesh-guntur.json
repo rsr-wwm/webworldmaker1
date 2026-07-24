@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-guntur",
+  "city": "Guntur",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "guntur",
+  "country": "India",
+  "pincode": "522001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.0118,
+  "longitude": 86.2563,
+  "landmark": "Guntur State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Guntur, India",
+  "population": 763277,
+  "mobileUsers": 581617,
+  "internetUsers": 447280,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.43L per annum",
+  "activeMobileDevices": 793808,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 58.6,
+  "maleCount": 394614,
+  "femaleCount": 368663,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nashik road",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nashik-road",
+      "distance": 34.38476654473871
+    },
+    {
+      "city": "Sirsa",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "sirsa",
+      "distance": 59.79082669295887
+    },
+    {
+      "city": "Chatrapur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "chatrapur",
+      "distance": 63.86219442529285
+    },
+    {
+      "city": "Gondal",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gondal",
+      "distance": 68.4064444405476
+    },
+    {
+      "city": "Singghat",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "singghat",
+      "distance": 77.01492101958671
+    }
+  ],
+  "geohash": "tgt3fg1",
+  "geohashUrl": "https://geohash.softeng.co/tgt3fg1"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "florida-miami",
+  "city": "Miami",
+  "state": "Florida",
+  "stateSlug": "florida",
+  "citySlug": "miami",
+  "country": "United States",
+  "pincode": "33101",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 305",
+  "timezone": "America/New_York",
+  "latitude": 28.062,
+  "longitude": -97.3575,
+  "landmark": "Miami Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Miami, United States",
+  "population": 1474227,
+  "mobileUsers": 1410835,
+  "internetUsers": 1331226,
+  "genderRatioText": "980 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "$87,419 per annum",
+  "activeMobileDevices": 2049175,
+  "mobilePenetration": 95.7,
+  "internetPenetration": 90.3,
+  "maleCount": 744485,
+  "femaleCount": 729742,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Spokane",
+      "state": "Washington",
+      "stateSlug": "washington",
+      "citySlug": "spokane",
+      "distance": 230.17523124060355
+    },
+    {
+      "city": "Denver",
+      "state": "Colorado",
+      "stateSlug": "colorado",
+      "citySlug": "denver",
+      "distance": 270.21376132540234
+    },
+    {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "stateSlug": "massachusetts",
+      "citySlug": "boston",
+      "distance": 328.33942602190854
+    },
+    {
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham",
+      "distance": 404.953684093481
+    },
+    {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "stateSlug": "georgia",
+      "citySlug": "atlanta",
+      "distance": 527.2678151123844
+    }
+  ],
+  "geohash": "9ufz8sd",
+  "geohashUrl": "https://geohash.softeng.co/9ufz8sd"
+}

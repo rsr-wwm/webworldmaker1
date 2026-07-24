@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-nongpoh",
+  "city": "Nongpoh",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "nongpoh",
+  "country": "India",
+  "pincode": "793102",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.1349,
+  "longitude": 69.5417,
+  "landmark": "Nongpoh Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nongpoh, India",
+  "population": 3183339,
+  "mobileUsers": 2333387,
+  "internetUsers": 1747653,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.90L per annum",
+  "activeMobileDevices": 3565339,
+  "mobilePenetration": 73.3,
+  "internetPenetration": 54.9,
+  "maleCount": 1636236,
+  "femaleCount": 1547103,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nagpur City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur-city",
+      "distance": 28.971072827667825
+    },
+    {
+      "city": "Kathihar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "kathihar",
+      "distance": 33.87461776627673
+    },
+    {
+      "city": "Tisk",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "tisk",
+      "distance": 44.212572372541075
+    },
+    {
+      "city": "Dharmavaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "dharmavaram",
+      "distance": 53.54477596137673
+    },
+    {
+      "city": "Nuvem",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "nuvem",
+      "distance": 58.78318092966576
+    }
+  ],
+  "geohash": "ts3qyrw",
+  "geohashUrl": "https://geohash.softeng.co/ts3qyrw"
+}

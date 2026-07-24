@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-namakkal",
+  "city": "Namakkal",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "namakkal",
+  "country": "India",
+  "pincode": "637001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.4869,
+  "longitude": 79.5778,
+  "landmark": "Namakkal Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Namakkal, India",
+  "population": 7191049,
+  "mobileUsers": 5565871,
+  "internetUsers": 4228336,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹10.70L per annum",
+  "activeMobileDevices": 8197795,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 58.8,
+  "maleCount": 3739345,
+  "femaleCount": 3451704,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bokshanagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "bokshanagar",
+      "distance": 41.12702128787776
+    },
+    {
+      "city": "Leh",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "leh",
+      "distance": 48.83974043512813
+    },
+    {
+      "city": "Chinchbunder",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chinchbunder",
+      "distance": 60.305519313526915
+    },
+    {
+      "city": "Sugumu",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "sugumu",
+      "distance": 62.050144715320386
+    },
+    {
+      "city": "Khojovai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "khojovai",
+      "distance": 84.2592920579509
+    }
+  ],
+  "geohash": "tg294v6",
+  "geohashUrl": "https://geohash.softeng.co/tg294v6"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-murtizapur",
+  "city": "Murtizapur",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "murtizapur",
+  "country": "India",
+  "pincode": "444107",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.7143,
+  "longitude": 78.159,
+  "landmark": "Murtizapur Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Murtizapur, India",
+  "population": 1397670,
+  "mobileUsers": 1038468,
+  "internetUsers": 841397,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.71L per annum",
+  "activeMobileDevices": 1425623,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 60.2,
+  "maleCount": 712812,
+  "femaleCount": 684858,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pauri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pauri",
+      "distance": 41.953570659041816
+    },
+    {
+      "city": "Siwan",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "siwan",
+      "distance": 46.62126800130031
+    },
+    {
+      "city": "Kulokon",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kulokon",
+      "distance": 61.04873645947481
+    },
+    {
+      "city": "Sango",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "sango",
+      "distance": 87.72673269406997
+    },
+    {
+      "city": "Kullu",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "kullu",
+      "distance": 88.9770918610342
+    }
+  ],
+  "geohash": "tdpdds9",
+  "geohashUrl": "https://geohash.softeng.co/tdpdds9"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "cairo-governorate-cairo",
+  "city": "Cairo",
+  "state": "Cairo Governorate",
+  "stateSlug": "cairo-governorate",
+  "citySlug": "cairo",
+  "country": "Egypt",
+  "pincode": "11511",
+  "currency": "EGP",
+  "symbol": "E£",
+  "compliance": "NTRA Regulations",
+  "carriers": [
+    "Vodafone",
+    "Orange",
+    "Etisalat",
+    "WE"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+20",
+  "timezone": "Africa/Cairo",
+  "latitude": 26.8608,
+  "longitude": 30.0963,
+  "landmark": "Cairo Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Vodafone networks. Failovers route over Orange, Etisalat, WE with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Cairo, Egypt",
+  "population": 2037013,
+  "mobileUsers": 1627573,
+  "internetUsers": 1354613,
+  "genderRatioText": "1,009 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "E£33,585 EGP per annum",
+  "activeMobileDevices": 2770337,
+  "mobilePenetration": 79.9,
+  "internetPenetration": 66.5,
+  "maleCount": 1014432,
+  "femaleCount": 1022581,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Alexandria",
+      "state": "Alexandria Governorate",
+      "stateSlug": "alexandria-governorate",
+      "citySlug": "alexandria",
+      "distance": 19.509131497944114
+    },
+    {
+      "city": "Giza",
+      "state": "Giza Governorate",
+      "stateSlug": "giza-governorate",
+      "citySlug": "giza",
+      "distance": 42.24258272318717
+    },
+    {
+      "city": "Port Said",
+      "state": "Port Said Governorate",
+      "stateSlug": "port-said-governorate",
+      "citySlug": "port-said",
+      "distance": 43.40439088230346
+    },
+    {
+      "city": "Haifa",
+      "state": "Haifa District",
+      "stateSlug": "haifa-district",
+      "citySlug": "haifa",
+      "distance": 680.52127155032
+    },
+    {
+      "city": "Tel Aviv",
+      "state": "Tel Aviv District",
+      "stateSlug": "tel-aviv-district",
+      "citySlug": "tel-aviv",
+      "distance": 683.9547813273695
+    }
+  ],
+  "geohash": "ssv2ucg",
+  "geohashUrl": "https://geohash.softeng.co/ssv2ucg"
+}

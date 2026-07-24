@@ -1,0 +1,82 @@
+{
+  "id": "orissa-koraput",
+  "city": "Koraput",
+  "state": "Orissa",
+  "stateSlug": "orissa",
+  "citySlug": "koraput",
+  "country": "India",
+  "pincode": "764020",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.4142,
+  "longitude": 78.6966,
+  "landmark": "Koraput Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Koraput, India",
+  "population": 3003332,
+  "mobileUsers": 2207449,
+  "internetUsers": 1768962,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹10.17L per annum",
+  "activeMobileDevices": 3573965,
+  "mobilePenetration": 73.5,
+  "internetPenetration": 58.9,
+  "maleCount": 1555726,
+  "femaleCount": 1447606,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Yadagiri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "yadagiri",
+      "distance": 41.413083667514364
+    },
+    {
+      "city": "Ambikapur",
+      "state": "Mashya Pradesh",
+      "stateSlug": "mashya-pradesh",
+      "citySlug": "ambikapur",
+      "distance": 50.047398548428305
+    },
+    {
+      "city": "Aberdeen",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "aberdeen",
+      "distance": 58.695330169616675
+    },
+    {
+      "city": "Bijapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bijapur",
+      "distance": 61.3334772285503
+    },
+    {
+      "city": "Kakching bazar",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "kakching-bazar",
+      "distance": 68.50947310039355
+    }
+  ],
+  "geohash": "t9xvwcc",
+  "geohashUrl": "https://geohash.softeng.co/t9xvwcc"
+}

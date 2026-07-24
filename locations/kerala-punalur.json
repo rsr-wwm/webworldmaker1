@@ -1,0 +1,82 @@
+{
+  "id": "kerala-punalur",
+  "city": "Punalur",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "punalur",
+  "country": "India",
+  "pincode": "691305",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.3309,
+  "longitude": 71.0134,
+  "landmark": "Punalur GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Punalur, India",
+  "population": 6253115,
+  "mobileUsers": 4602292,
+  "internetUsers": 3851918,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹6.30L per annum",
+  "activeMobileDevices": 6940957,
+  "mobilePenetration": 73.6,
+  "internetPenetration": 61.6,
+  "maleCount": 3251620,
+  "femaleCount": 3001495,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Cuddapah",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "cuddapah",
+      "distance": 48.92255278179733
+    },
+    {
+      "city": "Tiptur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tiptur",
+      "distance": 77.03583406701553
+    },
+    {
+      "city": "Proddatur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "proddatur",
+      "distance": 93.39558418708806
+    },
+    {
+      "city": "Dholpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "dholpur",
+      "distance": 93.72415300168183
+    },
+    {
+      "city": "Mandi",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "mandi",
+      "distance": 112.5999783250936
+    }
+  ],
+  "geohash": "ttdrzvw",
+  "geohashUrl": "https://geohash.softeng.co/ttdrzvw"
+}

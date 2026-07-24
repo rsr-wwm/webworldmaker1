@@ -1,0 +1,82 @@
+{
+  "id": "bihar-laheriasarai",
+  "city": "Laheriasarai",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "laheriasarai",
+  "country": "India",
+  "pincode": "846001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.3668,
+  "longitude": 77.1684,
+  "landmark": "Laheriasarai Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Laheriasarai, India",
+  "population": 8059208,
+  "mobileUsers": 5939636,
+  "internetUsers": 4867761,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹9.09L per annum",
+  "activeMobileDevices": 8623352,
+  "mobilePenetration": 73.7,
+  "internetPenetration": 60.4,
+  "maleCount": 4126314,
+  "femaleCount": 3932894,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chalisgaon",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chalisgaon",
+      "distance": 48.46264505843628
+    },
+    {
+      "city": "Nahan",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "nahan",
+      "distance": 60.91089823207075
+    },
+    {
+      "city": "Shahabad",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shahabad",
+      "distance": 63.25895396213145
+    },
+    {
+      "city": "Nasirabad",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "nasirabad",
+      "distance": 94.84901517751322
+    },
+    {
+      "city": "Dhanbad",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "dhanbad",
+      "distance": 108.60298481297319
+    }
+  ],
+  "geohash": "ttnckh0",
+  "geohashUrl": "https://geohash.softeng.co/ttnckh0"
+}

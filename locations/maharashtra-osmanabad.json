@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-osmanabad",
+  "city": "Osmanabad",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "osmanabad",
+  "country": "India",
+  "pincode": "413501",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.3969,
+  "longitude": 82.8507,
+  "landmark": "Osmanabad Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Osmanabad, India",
+  "population": 8334017,
+  "mobileUsers": 6358854,
+  "internetUsers": 4808727,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹6.05L per annum",
+  "activeMobileDevices": 8750717,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 57.7,
+  "maleCount": 4283685,
+  "femaleCount": 4050332,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ramlun",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "ramlun",
+      "distance": 33.4374833686029
+    },
+    {
+      "city": "Tiruppattur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruppattur",
+      "distance": 54.36095203116047
+    },
+    {
+      "city": "Pithoragarh",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pithoragarh",
+      "distance": 63.00614980402373
+    },
+    {
+      "city": "Palayamkottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "palayamkottai",
+      "distance": 72.55964805467625
+    },
+    {
+      "city": "Razole",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "razole",
+      "distance": 86.28380627619211
+    }
+  ],
+  "geohash": "tvfbm3d",
+  "geohashUrl": "https://geohash.softeng.co/tvfbm3d"
+}

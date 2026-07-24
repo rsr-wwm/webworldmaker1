@@ -1,0 +1,81 @@
+{
+  "id": "california-los-angeles",
+  "city": "Los Angeles",
+  "state": "California",
+  "stateSlug": "california",
+  "citySlug": "los-angeles",
+  "country": "United States",
+  "pincode": "90001",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 213",
+  "timezone": "America/Los_Angeles",
+  "latitude": 39.2871,
+  "longitude": -107.1963,
+  "landmark": "Los Angeles GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Los Angeles, United States",
+  "population": 4915728,
+  "mobileUsers": 4699435,
+  "internetUsers": 4551964,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "$76,986 per annum",
+  "activeMobileDevices": 6587075,
+  "mobilePenetration": 95.6,
+  "internetPenetration": 92.6,
+  "maleCount": 2516853,
+  "femaleCount": 2398875,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "citySlug": "cincinnati",
+      "distance": 117.33776372251435
+    },
+    {
+      "city": "Dallas",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "dallas",
+      "distance": 243.54990526777075
+    },
+    {
+      "city": "Washington, D.C.",
+      "state": "District of Columbia",
+      "stateSlug": "district-of-columbia",
+      "citySlug": "washington-dc",
+      "distance": 264.5104263055628
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "stateSlug": "pennsylvania",
+      "citySlug": "pittsburgh",
+      "distance": 285.2675302735521
+    },
+    {
+      "city": "Rochester",
+      "state": "New York",
+      "stateSlug": "new-york",
+      "citySlug": "rochester",
+      "distance": 306.57063258422187
+    }
+  ],
+  "geohash": "9wgz2xy",
+  "geohashUrl": "https://geohash.softeng.co/9wgz2xy"
+}

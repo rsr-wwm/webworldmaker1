@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-sawantwadi",
+  "city": "Sawantwadi",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "sawantwadi",
+  "country": "India",
+  "pincode": "416510",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.6627,
+  "longitude": 83.3563,
+  "landmark": "Sawantwadi Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sawantwadi, India",
+  "population": 1802343,
+  "mobileUsers": 1389606,
+  "internetUsers": 993090,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹8.48L per annum",
+  "activeMobileDevices": 1928507,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 55.1,
+  "maleCount": 917393,
+  "femaleCount": 884950,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kakinada",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kakinada",
+      "distance": 17.588728163855492
+    },
+    {
+      "city": "Kalyanpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kalyanpur",
+      "distance": 33.880727884677555
+    },
+    {
+      "city": "Mandvi",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mandvi",
+      "distance": 34.57545571202971
+    },
+    {
+      "city": "Bhawani Patana",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "bhawani-patana",
+      "distance": 69.15357220195449
+    },
+    {
+      "city": "Shrikakulam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "shrikakulam",
+      "distance": 86.69445586119477
+    }
+  ],
+  "geohash": "tfg30g6",
+  "geohashUrl": "https://geohash.softeng.co/tfg30g6"
+}

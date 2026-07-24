@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-mirzapur",
+  "city": "Mirzapur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "mirzapur",
+  "country": "India",
+  "pincode": "231001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.1918,
+  "longitude": 87.0095,
+  "landmark": "Mirzapur Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mirzapur, India",
+  "population": 6172648,
+  "mobileUsers": 4759111,
+  "internetUsers": 3382611,
+  "genderRatioText": "913 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.93L per annum",
+  "activeMobileDevices": 6234374,
+  "mobilePenetration": 77.1,
+  "internetPenetration": 54.8,
+  "maleCount": 3228295,
+  "femaleCount": 2944353,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "A.R.T.C",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "artc",
+      "distance": 65.29787928631762
+    },
+    {
+      "city": "Bokaro Steel City",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bokaro-steel-city",
+      "distance": 89.3293732845236
+    },
+    {
+      "city": "Nabadwip",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "nabadwip",
+      "distance": 94.05347400684812
+    },
+    {
+      "city": "Bathinda",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "bathinda",
+      "distance": 100.4948170364293
+    },
+    {
+      "city": "Firozabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "firozabad",
+      "distance": 114.64121309285748
+    }
+  ],
+  "geohash": "tvtz5uq",
+  "geohashUrl": "https://geohash.softeng.co/tvtz5uq"
+}

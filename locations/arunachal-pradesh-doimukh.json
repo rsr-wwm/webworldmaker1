@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-doimukh",
+  "city": "Doimukh",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "doimukh",
+  "country": "India",
+  "pincode": "791112",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.6413,
+  "longitude": 79.6284,
+  "landmark": "Doimukh State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Doimukh, India",
+  "population": 4543521,
+  "mobileUsers": 3439445,
+  "internetUsers": 2703394,
+  "genderRatioText": "919 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹10.92L per annum",
+  "activeMobileDevices": 5315919,
+  "mobilePenetration": 75.7,
+  "internetPenetration": 59.5,
+  "maleCount": 2367174,
+  "femaleCount": 2176347,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Sullia",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "sullia",
+      "distance": 26.540269340079647
+    },
+    {
+      "city": "Darlawn",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "darlawn",
+      "distance": 36.78046575220631
+    },
+    {
+      "city": "Santa",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "santa",
+      "distance": 60.05954872140629
+    },
+    {
+      "city": "Kathua",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "kathua",
+      "distance": 67.09965304417406
+    },
+    {
+      "city": "Mamit",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "mamit",
+      "distance": 80.71018775632133
+    }
+  ],
+  "geohash": "tv0dgvz",
+  "geohashUrl": "https://geohash.softeng.co/tv0dgvz"
+}

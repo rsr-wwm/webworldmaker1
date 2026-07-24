@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-chinchbunder",
+  "city": "Chinchbunder",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "chinchbunder",
+  "country": "India",
+  "pincode": "400009",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.4097,
+  "longitude": 79.0119,
+  "landmark": "Chinchbunder Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chinchbunder, India",
+  "population": 2076593,
+  "mobileUsers": 1509683,
+  "internetUsers": 1160815,
+  "genderRatioText": "911 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹7.02L per annum",
+  "activeMobileDevices": 2201188,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 55.9,
+  "maleCount": 1086058,
+  "femaleCount": 990535,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bokshanagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "bokshanagar",
+      "distance": 24.169752844279913
+    },
+    {
+      "city": "Moga",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "moga",
+      "distance": 41.71047362327343
+    },
+    {
+      "city": "Namakkal",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "namakkal",
+      "distance": 60.305519313526915
+    },
+    {
+      "city": "Sugumu",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "sugumu",
+      "distance": 61.956906985515914
+    },
+    {
+      "city": "Leh",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "leh",
+      "distance": 67.25012055232514
+    }
+  ],
+  "geohash": "tg20tzq",
+  "geohashUrl": "https://geohash.softeng.co/tg20tzq"
+}

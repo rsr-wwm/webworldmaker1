@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-nellore",
+  "city": "Nellore",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "nellore",
+  "country": "India",
+  "pincode": "524001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.845,
+  "longitude": 85.0221,
+  "landmark": "Nellore District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nellore, India",
+  "population": 3778636,
+  "mobileUsers": 2747068,
+  "internetUsers": 2301189,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.99L per annum",
+  "activeMobileDevices": 3854208,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 60.9,
+  "maleCount": 1938440,
+  "femaleCount": 1840196,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Adur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "adur",
+      "distance": 13.019035367776437
+    },
+    {
+      "city": "Khurda",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "khurda",
+      "distance": 49.70965934928737
+    },
+    {
+      "city": "Bagalkot",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bagalkot",
+      "distance": 67.76222866313307
+    },
+    {
+      "city": "Mon",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mon",
+      "distance": 98.55511936598238
+    },
+    {
+      "city": "Ichalkaranji",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ichalkaranji",
+      "distance": 102.23964824902242
+    }
+  ],
+  "geohash": "tghmw8x",
+  "geohashUrl": "https://geohash.softeng.co/tghmw8x"
+}

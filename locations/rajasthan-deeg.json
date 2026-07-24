@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-deeg",
+  "city": "Deeg",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "deeg",
+  "country": "India",
+  "pincode": "321203",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 10.1357,
+  "longitude": 72.9362,
+  "landmark": "Deeg Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Deeg, India",
+  "population": 8159363,
+  "mobileUsers": 6217434,
+  "internetUsers": 4756908,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.98L per annum",
+  "activeMobileDevices": 9464861,
+  "mobilePenetration": 76.2,
+  "internetPenetration": 58.3,
+  "maleCount": 4251028,
+  "femaleCount": 3908335,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Majorda",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "majorda",
+      "distance": 39.51782433324516
+    },
+    {
+      "city": "Sankarankoil",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sankarankoil",
+      "distance": 54.02589976753715
+    },
+    {
+      "city": "Cuddalore",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "cuddalore",
+      "distance": 68.21603189909784
+    },
+    {
+      "city": "Kenndrapara",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "kenndrapara",
+      "distance": 85.8221467110345
+    },
+    {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "kanpur",
+      "distance": 101.0373349280114
+    }
+  ],
+  "geohash": "t9gcetn",
+  "geohashUrl": "https://geohash.softeng.co/t9gcetn"
+}

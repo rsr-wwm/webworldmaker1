@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-tanuku",
+  "city": "Tanuku",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "tanuku",
+  "country": "India",
+  "pincode": "534211",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.4022,
+  "longitude": 75.3629,
+  "landmark": "Tanuku Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tanuku, India",
+  "population": 6030622,
+  "mobileUsers": 4697854,
+  "internetUsers": 3322872,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.03L per annum",
+  "activeMobileDevices": 6151234,
+  "mobilePenetration": 77.9,
+  "internetPenetration": 55.1,
+  "maleCount": 3081648,
+  "femaleCount": 2948974,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Disa",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "disa",
+      "distance": 51.05482509438881
+    },
+    {
+      "city": "Dehradun",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "dehradun",
+      "distance": 69.18830112871457
+    },
+    {
+      "city": "Phalaing",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "phalaing",
+      "distance": 79.44667292609824
+    },
+    {
+      "city": "Dahod",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dahod",
+      "distance": 116.47815785244292
+    },
+    {
+      "city": "Darbhanga",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "darbhanga",
+      "distance": 119.10265112811233
+    }
+  ],
+  "geohash": "ttjx6bt",
+  "geohashUrl": "https://geohash.softeng.co/ttjx6bt"
+}

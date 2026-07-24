@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-kolkata",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "kolkata",
+  "country": "India",
+  "pincode": "700001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.7878,
+  "longitude": 71.1938,
+  "landmark": "Kolkata Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kolkata, India",
+  "population": 5305466,
+  "mobileUsers": 4000321,
+  "internetUsers": 2981671,
+  "genderRatioText": "930 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹6.53L per annum",
+  "activeMobileDevices": 6260449,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 56.2,
+  "maleCount": 2748231,
+  "femaleCount": 2557235,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Belgaum",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "belgaum",
+      "distance": 45.87658021060134
+    },
+    {
+      "city": "Gohana",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "gohana",
+      "distance": 68.58487466804098
+    },
+    {
+      "city": "Allahabad City",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "allahabad-city",
+      "distance": 102.8223488948515
+    },
+    {
+      "city": "Ajmer",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "ajmer",
+      "distance": 107.00273441378529
+    },
+    {
+      "city": "Mangan",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "mangan",
+      "distance": 147.86205415615265
+    }
+  ],
+  "geohash": "tedwk03",
+  "geohashUrl": "https://geohash.softeng.co/tedwk03"
+}

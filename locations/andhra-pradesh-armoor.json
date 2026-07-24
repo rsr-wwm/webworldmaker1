@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-armoor",
+  "city": "Armoor",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "armoor",
+  "country": "India",
+  "pincode": "503224",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.3322,
+  "longitude": 79.841,
+  "landmark": "Armoor District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Armoor, India",
+  "population": 9404041,
+  "mobileUsers": 7288131,
+  "internetUsers": 5792889,
+  "genderRatioText": "946 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹11.64L per annum",
+  "activeMobileDevices": 9686162,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 61.6,
+  "maleCount": 4833677,
+  "femaleCount": 4570364,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vajapur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "vajapur",
+      "distance": 29.892800853498173
+    },
+    {
+      "city": "Bilaspur",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "bilaspur",
+      "distance": 45.08941072248107
+    },
+    {
+      "city": "Mayiladuthurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mayiladuthurai",
+      "distance": 74.09919399255878
+    },
+    {
+      "city": "Ahmedabad",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "ahmedabad",
+      "distance": 81.91583440860117
+    },
+    {
+      "city": "Guntakal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntakal",
+      "distance": 84.96723382638827
+    }
+  ],
+  "geohash": "tv8f0zf",
+  "geohashUrl": "https://geohash.softeng.co/tv8f0zf"
+}

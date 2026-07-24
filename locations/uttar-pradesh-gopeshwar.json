@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-gopeshwar",
+  "city": "Gopeshwar",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "gopeshwar",
+  "country": "India",
+  "pincode": "246401",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.8407,
+  "longitude": 86.2731,
+  "landmark": "Gopeshwar Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gopeshwar, India",
+  "population": 7862280,
+  "mobileUsers": 5857398,
+  "internetUsers": 4363565,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹11.92L per annum",
+  "activeMobileDevices": 9434736,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 55.5,
+  "maleCount": 4009763,
+  "femaleCount": 3852517,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Vimangad",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "vimangad",
+      "distance": 52.55956598223066
+    },
+    {
+      "city": "Sirsa",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "sirsa",
+      "distance": 59.522934944119264
+    },
+    {
+      "city": "Nashik road",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nashik-road",
+      "distance": 61.17601152796136
+    },
+    {
+      "city": "Gondal",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "gondal",
+      "distance": 63.75827074748512
+    },
+    {
+      "city": "Karong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "karong",
+      "distance": 65.43731431349484
+    }
+  ],
+  "geohash": "tgtqe1y",
+  "geohashUrl": "https://geohash.softeng.co/tgtqe1y"
+}

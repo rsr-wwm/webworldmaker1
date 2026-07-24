@@ -1,0 +1,81 @@
+{
+  "id": "jalisco-guadalajara",
+  "city": "Guadalajara",
+  "state": "Jalisco",
+  "stateSlug": "jalisco",
+  "citySlug": "guadalajara",
+  "country": "Mexico",
+  "pincode": "44100",
+  "currency": "MXN",
+  "symbol": "$",
+  "compliance": "IFT Rules",
+  "carriers": [
+    "Telcel",
+    "Movistar",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+52",
+  "timezone": "America/Bahia_Banderas",
+  "latitude": 22.9431,
+  "longitude": -102.1771,
+  "landmark": "Guadalajara District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Guadalajara, Mexico",
+  "population": 594433,
+  "mobileUsers": 510023,
+  "internetUsers": 425614,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "$38,675 MXN per annum",
+  "activeMobileDevices": 618210,
+  "mobilePenetration": 85.8,
+  "internetPenetration": 71.6,
+  "maleCount": 304350,
+  "femaleCount": 290083,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Toluca",
+      "state": "State of Mexico",
+      "stateSlug": "state-of-mexico",
+      "citySlug": "toluca",
+      "distance": 14.959447104813453
+    },
+    {
+      "city": "Torreon",
+      "state": "Coahuila",
+      "stateSlug": "coahuila",
+      "citySlug": "torreon",
+      "distance": 18.783031321208227
+    },
+    {
+      "city": "Leon",
+      "state": "Guanajuato",
+      "stateSlug": "guanajuato",
+      "citySlug": "leon",
+      "distance": 20.45186771627106
+    },
+    {
+      "city": "Mexico City",
+      "state": "Federal District",
+      "stateSlug": "federal-district",
+      "citySlug": "mexico-city",
+      "distance": 25.619453489828256
+    },
+    {
+      "city": "Queretaro",
+      "state": "Queretaro State",
+      "stateSlug": "queretaro-state",
+      "citySlug": "queretaro",
+      "distance": 26.386729049813628
+    }
+  ],
+  "geohash": "9sp6dbs",
+  "geohashUrl": "https://geohash.softeng.co/9sp6dbs"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "oran-province-oran",
+  "city": "Oran",
+  "state": "Oran Province",
+  "stateSlug": "oran-province",
+  "citySlug": "oran",
+  "country": "Algeria",
+  "pincode": "31000",
+  "currency": "DZD",
+  "symbol": "DA",
+  "compliance": "ARPCE Rules",
+  "carriers": [
+    "Djezzy",
+    "Mobilis",
+    "Ooredoo"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+213",
+  "timezone": "Africa/Algiers",
+  "latitude": 35.7044415,
+  "longitude": -0.6502981,
+  "landmark": "Oran Green Valley Digital Exchange",
+  "carrierQuality": "Primary edge trunk terminated over Djezzy networks. Failovers route over Mobilis, Ooredoo with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Oran, Algeria",
+  "population": 786045,
+  "mobileUsers": 639054,
+  "internetUsers": 524292,
+  "genderRatioText": "1,010 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "DA31,907 DZD per annum",
+  "activeMobileDevices": 990416,
+  "mobilePenetration": 81.3,
+  "internetPenetration": 66.7,
+  "maleCount": 391450,
+  "femaleCount": 394595,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Algiers",
+      "state": "Algiers Province",
+      "stateSlug": "algiers-province",
+      "citySlug": "algiers",
+      "distance": 328.808047685198
+    },
+    {
+      "city": "Barcelona",
+      "state": "Catalonia",
+      "stateSlug": "catalonia",
+      "citySlug": "barcelona",
+      "distance": 536.5621128257831
+    },
+    {
+      "city": "Las Palmas",
+      "state": "Canary Islands",
+      "stateSlug": "canary-islands",
+      "citySlug": "las-palmas",
+      "distance": 545.5018508553349
+    },
+    {
+      "city": "Bilbao",
+      "state": "Basque Country",
+      "stateSlug": "basque-country",
+      "citySlug": "bilbao",
+      "distance": 551.3408042180876
+    },
+    {
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "stateSlug": "community-of-madrid",
+      "citySlug": "madrid",
+      "distance": 555.1385765189515
+    }
+  ],
+  "geohash": "eyre15y",
+  "geohashUrl": "https://geohash.softeng.co/eyre15y"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-chiplun",
+  "city": "Chiplun",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "chiplun",
+  "country": "India",
+  "pincode": "415605",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.2881,
+  "longitude": 77.485,
+  "landmark": "Chiplun District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chiplun, India",
+  "population": 3620853,
+  "mobileUsers": 2824265,
+  "internetUsers": 2136303,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹10.93L per annum",
+  "activeMobileDevices": 3801895,
+  "mobilePenetration": 78,
+  "internetPenetration": 59,
+  "maleCount": 1890085,
+  "femaleCount": 1730768,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Borivali",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "borivali",
+      "distance": 21.93452600155792
+    },
+    {
+      "city": "Anand",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "anand",
+      "distance": 49.868469484958815
+    },
+    {
+      "city": "Damoh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "damoh",
+      "distance": 52.52839102699257
+    },
+    {
+      "city": "Peren",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "peren",
+      "distance": 60.56110738083311
+    },
+    {
+      "city": "Kolosib",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kolosib",
+      "distance": 64.73917608198316
+    }
+  ],
+  "geohash": "tsxje1w",
+  "geohashUrl": "https://geohash.softeng.co/tsxje1w"
+}

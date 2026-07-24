@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-nainital",
+  "city": "Nainital",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "nainital",
+  "country": "India",
+  "pincode": "263001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 14.8109,
+  "longitude": 82.2768,
+  "landmark": "Nainital Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nainital, India",
+  "population": 5548872,
+  "mobileUsers": 4111714,
+  "internetUsers": 3096270,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹10.31L per annum",
+  "activeMobileDevices": 5548872,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 55.8,
+  "maleCount": 2846571,
+  "femaleCount": 2702301,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ambala Cantt.",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "ambala-cantt",
+      "distance": 32.2022618736143
+    },
+    {
+      "city": "Narsinghpur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "narsinghpur",
+      "distance": 72.71622243386817
+    },
+    {
+      "city": "Kulashekar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kulashekar",
+      "distance": 108.14809788165995
+    },
+    {
+      "city": "Kalyanpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kalyanpur",
+      "distance": 138.10551450345525
+    },
+    {
+      "city": "Chaibasa",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "chaibasa",
+      "distance": 138.85281016206616
+    }
+  ],
+  "geohash": "tfds220",
+  "geohashUrl": "https://geohash.softeng.co/tfds220"
+}

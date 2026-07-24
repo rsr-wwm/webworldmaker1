@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-raibag",
+  "city": "Raibag",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "raibag",
+  "country": "India",
+  "pincode": "591317",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.1174,
+  "longitude": 69.1769,
+  "landmark": "Raibag State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Raibag, India",
+  "population": 8583707,
+  "mobileUsers": 6523617,
+  "internetUsers": 4686704,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹8.28L per annum",
+  "activeMobileDevices": 9785425,
+  "mobilePenetration": 76,
+  "internetPenetration": 54.6,
+  "maleCount": 4446360,
+  "femaleCount": 4137347,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Karur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "karur",
+      "distance": 15.761869304512377
+    },
+    {
+      "city": "Krishnagiri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "krishnagiri",
+      "distance": 45.860327072213416
+    },
+    {
+      "city": "Palakkad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palakkad",
+      "distance": 75.27301327591226
+    },
+    {
+      "city": "Manamadurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "manamadurai",
+      "distance": 76.00433649759698
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai",
+      "distance": 83.09229804733447
+    }
+  ],
+  "geohash": "tdc5wnj",
+  "geohashUrl": "https://geohash.softeng.co/tdc5wnj"
+}

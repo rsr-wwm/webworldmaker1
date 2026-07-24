@@ -1,0 +1,82 @@
+{
+  "id": "mizoram-longlai",
+  "city": "Longlai",
+  "state": "Mizoram",
+  "stateSlug": "mizoram",
+  "citySlug": "longlai",
+  "country": "India",
+  "pincode": "796891",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.8523,
+  "longitude": 88.1537,
+  "landmark": "Longlai Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Longlai, India",
+  "population": 6902129,
+  "mobileUsers": 5107575,
+  "internetUsers": 3809975,
+  "genderRatioText": "914 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹10.62L per annum",
+  "activeMobileDevices": 7454299,
+  "mobilePenetration": 74,
+  "internetPenetration": 55.2,
+  "maleCount": 3602911,
+  "femaleCount": 3299218,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Meerut City",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "meerut-city",
+      "distance": 42.92941735722445
+    },
+    {
+      "city": "Chaichima",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "chaichima",
+      "distance": 47.78907634002818
+    },
+    {
+      "city": "Udaipur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "udaipur",
+      "distance": 72.23903826934203
+    },
+    {
+      "city": "Nawabganj",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "nawabganj",
+      "distance": 75.51335371133135
+    },
+    {
+      "city": "Namsai",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "namsai",
+      "distance": 87.4659187281196
+    }
+  ],
+  "geohash": "tgwwtup",
+  "geohashUrl": "https://geohash.softeng.co/tgwwtup"
+}

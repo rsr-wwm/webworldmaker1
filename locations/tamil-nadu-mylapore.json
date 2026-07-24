@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-mylapore",
+  "city": "Mylapore",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "mylapore",
+  "country": "India",
+  "pincode": "600004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.6523,
+  "longitude": 75.273,
+  "landmark": "Mylapore Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mylapore, India",
+  "population": 8640363,
+  "mobileUsers": 6532114,
+  "internetUsers": 5236059,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹6.08L per annum",
+  "activeMobileDevices": 10022821,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 60.6,
+  "maleCount": 4406585,
+  "femaleCount": 4233778,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kunraghat",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "kunraghat",
+      "distance": 33.1243375330693
+    },
+    {
+      "city": "Bidar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bidar",
+      "distance": 45.165059136209806
+    },
+    {
+      "city": "Tadpatri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tadpatri",
+      "distance": 45.66566264574658
+    },
+    {
+      "city": "Nangalbibra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "nangalbibra",
+      "distance": 60.61530940003576
+    },
+    {
+      "city": "Ambasa",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "ambasa",
+      "distance": 61.25761131579013
+    }
+  ],
+  "geohash": "teve0vs",
+  "geohashUrl": "https://geohash.softeng.co/teve0vs"
+}

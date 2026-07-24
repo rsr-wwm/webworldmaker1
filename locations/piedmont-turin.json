@@ -1,0 +1,82 @@
+{
+  "id": "piedmont-turin",
+  "city": "Turin",
+  "state": "Piedmont",
+  "stateSlug": "piedmont",
+  "citySlug": "turin",
+  "country": "Italy",
+  "pincode": "10121",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / AGCOM",
+  "carriers": [
+    "WindTre",
+    "TIM",
+    "Vodafone",
+    "iliad"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+39",
+  "timezone": "Europe/Rome",
+  "latitude": 42.8926,
+  "longitude": 12.9432,
+  "landmark": "Turin Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over WindTre networks. Failovers route over TIM, Vodafone, iliad with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Turin, Italy",
+  "population": 4800431,
+  "mobileUsers": 3725134,
+  "internetUsers": 3024271,
+  "genderRatioText": "994 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "€51,209 per annum",
+  "activeMobileDevices": 6624594,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 63,
+  "maleCount": 2409816,
+  "femaleCount": 2390615,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Florence",
+      "state": "Tuscany",
+      "stateSlug": "tuscany",
+      "citySlug": "florence",
+      "distance": 10.82013184005471
+    },
+    {
+      "city": "Venice",
+      "state": "Veneto",
+      "stateSlug": "veneto",
+      "citySlug": "venice",
+      "distance": 10.845677144352226
+    },
+    {
+      "city": "Genoa",
+      "state": "Liguria",
+      "stateSlug": "liguria",
+      "citySlug": "genoa",
+      "distance": 10.9341928348634
+    },
+    {
+      "city": "Naples",
+      "state": "Campania",
+      "stateSlug": "campania",
+      "citySlug": "naples",
+      "distance": 12.64486981767575
+    },
+    {
+      "city": "Rome",
+      "state": "Lazio Region",
+      "stateSlug": "lazio-region",
+      "citySlug": "rome",
+      "distance": 16.646553297771806
+    }
+  ],
+  "geohash": "sr9hn82",
+  "geohashUrl": "https://geohash.softeng.co/sr9hn82"
+}

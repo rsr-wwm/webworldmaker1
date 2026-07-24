@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-sidhi",
+  "city": "Sidhi",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "sidhi",
+  "country": "India",
+  "pincode": "486661",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 22.7101,
+  "longitude": 84.4507,
+  "landmark": "Sidhi Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Sidhi, India",
+  "population": 1766173,
+  "mobileUsers": 1368784,
+  "internetUsers": 1001420,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.64L per annum",
+  "activeMobileDevices": 1960452,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 56.7,
+  "maleCount": 909579,
+  "femaleCount": 856594,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Amritsar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "amritsar",
+      "distance": 35.977158506216
+    },
+    {
+      "city": "Vadakara",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "vadakara",
+      "distance": 38.27907686054535
+    },
+    {
+      "city": "Madikeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "madikeri",
+      "distance": 82.62388245534027
+    },
+    {
+      "city": "Wokha",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "wokha",
+      "distance": 99.0595190687924
+    },
+    {
+      "city": "Faridkot",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faridkot",
+      "distance": 101.23125499528432
+    }
+  ],
+  "geohash": "tuh11wp",
+  "geohashUrl": "https://geohash.softeng.co/tuh11wp"
+}

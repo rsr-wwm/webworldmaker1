@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-kanpur-cantt",
+  "city": "Kanpur Cantt.",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "kanpur-cantt",
+  "country": "India",
+  "pincode": "208004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.7324,
+  "longitude": 81.6331,
+  "landmark": "Kanpur Cantt. Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kanpur Cantt., India",
+  "population": 4861261,
+  "mobileUsers": 3626500,
+  "internetUsers": 2732028,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹9.64L per annum",
+  "activeMobileDevices": 5250161,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 56.2,
+  "maleCount": 2537578,
+  "femaleCount": 2323683,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Balrampur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "balrampur",
+      "distance": 14.16837487036727
+    },
+    {
+      "city": "Padrauna",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "padrauna",
+      "distance": 52.84418713539147
+    },
+    {
+      "city": "Bharatpur City",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bharatpur-city",
+      "distance": 75.71487273542871
+    },
+    {
+      "city": "Mohripur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "mohripur",
+      "distance": 82.80628900060334
+    },
+    {
+      "city": "Light core peak",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "light-core-peak",
+      "distance": 96.56669215841926
+    }
+  ],
+  "geohash": "tu4p187",
+  "geohashUrl": "https://geohash.softeng.co/tu4p187"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "manipur-kakching-bazar",
+  "city": "Kakching bazar",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "kakching-bazar",
+  "country": "India",
+  "pincode": "795103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "town",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.9906,
+  "longitude": 78.9174,
+  "landmark": "Kakching Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kakching bazar, India",
+  "population": 30356,
+  "mobileUsers": 22615,
+  "internetUsers": 18577,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹8.26L per annum",
+  "activeMobileDevices": 31266,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 61.2,
+  "maleCount": 15542,
+  "femaleCount": 14814,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Yadagiri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "yadagiri",
+      "distance": 28.249537637769055
+    },
+    {
+      "city": "Aberdeen",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "aberdeen",
+      "distance": 29.76465013581678
+    },
+    {
+      "city": "Bijapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bijapur",
+      "distance": 52.20532088976404
+    },
+    {
+      "city": "Port Blair",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "port-blair",
+      "distance": 57.94922893728467
+    },
+    {
+      "city": "Koraput",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "koraput",
+      "distance": 68.50947310039355
+    }
+  ],
+  "geohash": "tcb0gf9",
+  "geohashUrl": "https://geohash.softeng.co/tcb0gf9"
+}

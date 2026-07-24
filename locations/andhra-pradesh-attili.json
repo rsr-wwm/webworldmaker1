@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-attili",
+  "city": "Attili",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "attili",
+  "country": "India",
+  "pincode": "534134",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.9068,
+  "longitude": 75.5053,
+  "landmark": "Attili Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Attili, India",
+  "population": 8245916,
+  "mobileUsers": 6044256,
+  "internetUsers": 5062992,
+  "genderRatioText": "948 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹10.35L per annum",
+  "activeMobileDevices": 9482803,
+  "mobilePenetration": 73.3,
+  "internetPenetration": 61.4,
+  "maleCount": 4230155,
+  "femaleCount": 4015761,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kothapeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kothapeta",
+      "distance": 47.665060985836384
+    },
+    {
+      "city": "Mepusa",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "mepusa",
+      "distance": 75.91530762265225
+    },
+    {
+      "city": "Tirukkoyilur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirukkoyilur",
+      "distance": 80.38419717814047
+    },
+    {
+      "city": "Chareelum",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "chareelum",
+      "distance": 84.05667186037276
+    },
+    {
+      "city": "Mowkarvat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mowkarvat",
+      "distance": 107.5494869930287
+    }
+  ],
+  "geohash": "tsv9n4j",
+  "geohashUrl": "https://geohash.softeng.co/tsv9n4j"
+}

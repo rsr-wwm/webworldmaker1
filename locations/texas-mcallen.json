@@ -1,0 +1,81 @@
+{
+  "id": "texas-mcallen",
+  "city": "McAllen",
+  "state": "Texas",
+  "stateSlug": "texas",
+  "citySlug": "mcallen",
+  "country": "United States",
+  "pincode": "78501",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 214",
+  "timezone": "America/Chicago",
+  "latitude": 47.8385,
+  "longitude": -119.6531,
+  "landmark": "McAllen Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for McAllen, United States",
+  "population": 1091141,
+  "mobileUsers": 1042039,
+  "internetUsers": 1000576,
+  "genderRatioText": "996 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "$87,539 per annum",
+  "activeMobileDevices": 1353014,
+  "mobilePenetration": 95.5,
+  "internetPenetration": 91.7,
+  "maleCount": 546662,
+  "femaleCount": 544479,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Kelowna",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "kelowna",
+      "distance": 228.17463822307445
+    },
+    {
+      "city": "Victoria",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "victoria",
+      "distance": 283.12985826408715
+    },
+    {
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "vancouver",
+      "distance": 299.8046105360447
+    },
+    {
+      "city": "Louisville",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "citySlug": "louisville",
+      "distance": 500.2640310593786
+    },
+    {
+      "city": "Calgary",
+      "state": "Alberta",
+      "stateSlug": "alberta",
+      "citySlug": "calgary",
+      "distance": 539.0289396265068
+    }
+  ],
+  "geohash": "c2dbjhx",
+  "geohashUrl": "https://geohash.softeng.co/c2dbjhx"
+}

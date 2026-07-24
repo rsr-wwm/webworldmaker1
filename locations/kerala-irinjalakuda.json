@@ -1,0 +1,82 @@
+{
+  "id": "kerala-irinjalakuda",
+  "city": "Irinjalakuda",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "irinjalakuda",
+  "country": "India",
+  "pincode": "680121",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.2054,
+  "longitude": 80.5156,
+  "landmark": "Irinjalakuda GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Irinjalakuda, India",
+  "population": 702821,
+  "mobileUsers": 524304,
+  "internetUsers": 392174,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹11.03L per annum",
+  "activeMobileDevices": 723905,
+  "mobilePenetration": 74.6,
+  "internetPenetration": 55.8,
+  "maleCount": 359844,
+  "femaleCount": 342977,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Muzaffarpur",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "muzaffarpur",
+      "distance": 64.35006264829596
+    },
+    {
+      "city": "Vidisha",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "vidisha",
+      "distance": 80.47877107725675
+    },
+    {
+      "city": "Bihar Shariff",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bihar-shariff",
+      "distance": 81.2448420152896
+    },
+    {
+      "city": "Chembur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "chembur",
+      "distance": 84.9439030311735
+    },
+    {
+      "city": "Chakpirang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "chakpirang",
+      "distance": 88.16147602038996
+    }
+  ],
+  "geohash": "tu9m04t",
+  "geohashUrl": "https://geohash.softeng.co/tu9m04t"
+}

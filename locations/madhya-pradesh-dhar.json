@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-dhar",
+  "city": "Dhar",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "dhar",
+  "country": "India",
+  "pincode": "454001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.4624,
+  "longitude": 76.3222,
+  "landmark": "Dhar State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dhar, India",
+  "population": 1087963,
+  "mobileUsers": 793125,
+  "internetUsers": 619050,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹9.52L per annum",
+  "activeMobileDevices": 1142361,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 56.9,
+  "maleCount": 560301,
+  "femaleCount": 527662,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tandur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "tandur",
+      "distance": 5.4894479209669536
+    },
+    {
+      "city": "Karwar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "karwar",
+      "distance": 14.555143293596196
+    },
+    {
+      "city": "Gumla",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "gumla",
+      "distance": 19.963686272371245
+    },
+    {
+      "city": "Puttur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "puttur",
+      "distance": 27.884300170644547
+    },
+    {
+      "city": "Kaknad",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "kaknad",
+      "distance": 29.850763568627844
+    }
+  ],
+  "geohash": "ttqm2c8",
+  "geohashUrl": "https://geohash.softeng.co/ttqm2c8"
+}

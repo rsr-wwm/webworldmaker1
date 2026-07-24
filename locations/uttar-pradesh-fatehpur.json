@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-fatehpur",
+  "city": "Fatehpur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "fatehpur",
+  "country": "India",
+  "pincode": "212601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.0811,
+  "longitude": 88.3443,
+  "landmark": "Fatehpur Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Fatehpur, India",
+  "population": 1093828,
+  "mobileUsers": 844435,
+  "internetUsers": 596136,
+  "genderRatioText": "949 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.97L per annum",
+  "activeMobileDevices": 1268840,
+  "mobilePenetration": 77.2,
+  "internetPenetration": 54.5,
+  "maleCount": 561134,
+  "femaleCount": 532694,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shivali",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "shivali",
+      "distance": 86.34102296770511
+    },
+    {
+      "city": "Pani Chowki Bazar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "pani-chowki-bazar",
+      "distance": 101.10737814805438
+    },
+    {
+      "city": "Karkala",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "karkala",
+      "distance": 106.21568462767769
+    },
+    {
+      "city": "Dungarpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "dungarpur",
+      "distance": 106.44469748638471
+    },
+    {
+      "city": "Dhampur",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "dhampur",
+      "distance": 111.17216039198998
+    }
+  ],
+  "geohash": "tfnudr6",
+  "geohashUrl": "https://geohash.softeng.co/tfnudr6"
+}

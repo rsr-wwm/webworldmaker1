@@ -1,0 +1,82 @@
+{
+  "id": "manipur-singghat",
+  "city": "Singghat",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "singghat",
+  "country": "India",
+  "pincode": "795139",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.4798,
+  "longitude": 86.8005,
+  "landmark": "Singghat Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Singghat, India",
+  "population": 4280706,
+  "mobileUsers": 3321827,
+  "internetUsers": 2448563,
+  "genderRatioText": "950 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹11.67L per annum",
+  "activeMobileDevices": 4794390,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 57.2,
+  "maleCount": 2196002,
+  "femaleCount": 2084704,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nashik road",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nashik-road",
+      "distance": 48.43246399792476
+    },
+    {
+      "city": "Lakhibera",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lakhibera",
+      "distance": 59.010296269362286
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "stateSlug": "telangana",
+      "citySlug": "hyderabad",
+      "distance": 62.17100825878564
+    },
+    {
+      "city": "Gopeshwar",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "gopeshwar",
+      "distance": 67.98115562003848
+    },
+    {
+      "city": "Guntur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntur",
+      "distance": 77.01492101958671
+    }
+  ],
+  "geohash": "tgtsx0n",
+  "geohashUrl": "https://geohash.softeng.co/tgtsx0n"
+}

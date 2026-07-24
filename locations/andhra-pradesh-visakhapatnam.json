@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-visakhapatnam",
+  "city": "Visakhapatnam",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "visakhapatnam",
+  "country": "India",
+  "pincode": "530001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.4638,
+  "longitude": 81.5134,
+  "landmark": "Visakhapatnam Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Visakhapatnam, India",
+  "population": 582902,
+  "mobileUsers": 447668,
+  "internetUsers": 346243,
+  "genderRatioText": "937 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹7.01L per annum",
+  "activeMobileDevices": 582902,
+  "mobilePenetration": 76.8,
+  "internetPenetration": 59.4,
+  "maleCount": 300777,
+  "femaleCount": 282125,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Cherthala",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "cherthala",
+      "distance": 9.528568212372564
+    },
+    {
+      "city": "Anantapur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "anantapur",
+      "distance": 38.019991035249184
+    },
+    {
+      "city": "Kheda",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "kheda",
+      "distance": 71.02574724956469
+    },
+    {
+      "city": "Kandi",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kandi",
+      "distance": 90.86108267352337
+    },
+    {
+      "city": "Muzaffarpur",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "muzaffarpur",
+      "distance": 100.28188344440626
+    }
+  ],
+  "geohash": "tu9ywcs",
+  "geohashUrl": "https://geohash.softeng.co/tu9ywcs"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "district-of-columbia-washington-dc",
+  "city": "Washington, D.C.",
+  "state": "District of Columbia",
+  "stateSlug": "district-of-columbia",
+  "citySlug": "washington-dc",
+  "country": "United States",
+  "pincode": "20001",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/New_York",
+  "latitude": 37.6555,
+  "longitude": -104.985,
+  "landmark": "Washington, D.C. Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Washington, D.C., United States",
+  "population": 1706125,
+  "mobileUsers": 1641292,
+  "internetUsers": 1588402,
+  "genderRatioText": "1,009 females per 1,000 males",
+  "malePercentage": 49.8,
+  "femalePercentage": 50.2,
+  "averageIncome": "$99,166 per annum",
+  "activeMobileDevices": 2286207,
+  "mobilePenetration": 96.2,
+  "internetPenetration": 93.1,
+  "maleCount": 849650,
+  "femaleCount": 856475,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Rochester",
+      "state": "New York",
+      "stateSlug": "new-york",
+      "citySlug": "rochester",
+      "distance": 91.01641982945351
+    },
+    {
+      "city": "Los Angeles",
+      "state": "California",
+      "stateSlug": "california",
+      "citySlug": "los-angeles",
+      "distance": 264.5104263055628
+    },
+    {
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "citySlug": "cincinnati",
+      "distance": 372.5105272283057
+    },
+    {
+      "city": "Dallas",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "dallas",
+      "distance": 504.0415191399199
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "stateSlug": "florida",
+      "citySlug": "jacksonville",
+      "distance": 525.4825023913332
+    }
+  ],
+  "geohash": "9wtq5nb",
+  "geohashUrl": "https://geohash.softeng.co/9wtq5nb"
+}

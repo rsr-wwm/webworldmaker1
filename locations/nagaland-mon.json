@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-mon",
+  "city": "Mon",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "mon",
+  "country": "India",
+  "pincode": "798621",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.4336,
+  "longitude": 84.1983,
+  "landmark": "Mon Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mon, India",
+  "population": 9680323,
+  "mobileUsers": 7144078,
+  "internetUsers": 5295136,
+  "genderRatioText": "964 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "₹10.88L per annum",
+  "activeMobileDevices": 11422781,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 54.7,
+  "maleCount": 4927284,
+  "femaleCount": 4753039,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dargamitta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "dargamitta",
+      "distance": 13.302433281668053
+    },
+    {
+      "city": "Datia",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "datia",
+      "distance": 93.18423666270988
+    },
+    {
+      "city": "Adur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "adur",
+      "distance": 94.87234451511826
+    },
+    {
+      "city": "Nellore",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nellore",
+      "distance": 98.55511936598238
+    },
+    {
+      "city": "Pulivendla",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "pulivendla",
+      "distance": 98.69005416758448
+    }
+  ],
+  "geohash": "tg5g5vx",
+  "geohashUrl": "https://geohash.softeng.co/tg5g5vx"
+}

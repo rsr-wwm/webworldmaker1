@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-bhadrachalam",
+  "city": "Bhadrachalam",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "bhadrachalam",
+  "country": "India",
+  "pincode": "507111",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 29.5002,
+  "longitude": 70.2711,
+  "landmark": "Bhadrachalam GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhadrachalam, India",
+  "population": 4340343,
+  "mobileUsers": 3342064,
+  "internetUsers": 2643268,
+  "genderRatioText": "919 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.82L per annum",
+  "activeMobileDevices": 5208411,
+  "mobilePenetration": 77,
+  "internetPenetration": 60.9,
+  "maleCount": 2261319,
+  "femaleCount": 2079024,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gudivada",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gudivada",
+      "distance": 25.097842066055048
+    },
+    {
+      "city": "Mriyalguda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mriyalguda",
+      "distance": 32.93054980499055
+    },
+    {
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan",
+      "distance": 36.38859924840992
+    },
+    {
+      "city": "Lahore",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "lahore",
+      "distance": 45.414997245707156
+    },
+    {
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "rajkot",
+      "distance": 49.250550073848196
+    }
+  ],
+  "geohash": "tt1zz43",
+  "geohashUrl": "https://geohash.softeng.co/tt1zz43"
+}

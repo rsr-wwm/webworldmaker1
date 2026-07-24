@@ -1,0 +1,82 @@
+{
+  "id": "meghalaya-mandi-pathar",
+  "city": "Mandi pathar",
+  "state": "Meghalaya",
+  "stateSlug": "meghalaya",
+  "citySlug": "mandi-pathar",
+  "country": "India",
+  "pincode": "794112",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.9024,
+  "longitude": 74.0628,
+  "landmark": "Mandi pathar Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mandi pathar, India",
+  "population": 1037581,
+  "mobileUsers": 781298,
+  "internetUsers": 571707,
+  "genderRatioText": "918 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹11.49L per annum",
+  "activeMobileDevices": 1234721,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 55.1,
+  "maleCount": 540580,
+  "femaleCount": 497001,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Betul",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "betul",
+      "distance": 34.179119201103795
+    },
+    {
+      "city": "Shimla",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "shimla",
+      "distance": 58.59529908549707
+    },
+    {
+      "city": "Dirang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "dirang",
+      "distance": 75.27531680827838
+    },
+    {
+      "city": "Navrangpura",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "navrangpura",
+      "distance": 82.15672730786945
+    },
+    {
+      "city": "Tirunelveli",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirunelveli",
+      "distance": 86.1429783051517
+    }
+  ],
+  "geohash": "teket34",
+  "geohashUrl": "https://geohash.softeng.co/teket34"
+}

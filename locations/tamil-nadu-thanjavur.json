@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-thanjavur",
+  "city": "Thanjavur",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "thanjavur",
+  "country": "India",
+  "pincode": "613001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.3153,
+  "longitude": 74.7749,
+  "landmark": "Thanjavur State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Thanjavur, India",
+  "population": 6349301,
+  "mobileUsers": 4704832,
+  "internetUsers": 3815929,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹9.99L per annum",
+  "activeMobileDevices": 6730259,
+  "mobilePenetration": 74.1,
+  "internetPenetration": 60.1,
+  "maleCount": 3257191,
+  "femaleCount": 3092110,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mysore",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "mysore",
+      "distance": 31.445272168238258
+    },
+    {
+      "city": "Kolhapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kolhapur",
+      "distance": 43.25477097497811
+    },
+    {
+      "city": "Khanna",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "khanna",
+      "distance": 67.65539829960225
+    },
+    {
+      "city": "Nungba",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "nungba",
+      "distance": 77.39527362968471
+    },
+    {
+      "city": "Tiruvarur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruvarur",
+      "distance": 80.44704542975472
+    }
+  ],
+  "geohash": "tej4t81",
+  "geohashUrl": "https://geohash.softeng.co/tej4t81"
+}

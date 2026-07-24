@@ -1,0 +1,81 @@
+{
+  "id": "tel-aviv-district-tel-aviv",
+  "city": "Tel Aviv",
+  "state": "Tel Aviv District",
+  "stateSlug": "tel-aviv-district",
+  "citySlug": "tel-aviv",
+  "country": "Israel",
+  "pincode": "61000",
+  "currency": "ILS",
+  "symbol": "₪",
+  "compliance": "MOC Guidelines",
+  "carriers": [
+    "Cellcom",
+    "Partner",
+    "Pelephone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+972",
+  "timezone": "Asia/Jerusalem",
+  "latitude": 31.6242,
+  "longitude": 34.559,
+  "landmark": "Tel Aviv Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Cellcom networks. Failovers route over Partner, Pelephone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Tel Aviv, Israel",
+  "population": 2797929,
+  "mobileUsers": 2224353,
+  "internetUsers": 1748705,
+  "genderRatioText": "992 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "₪33,394 ILS per annum",
+  "activeMobileDevices": 3385494,
+  "mobilePenetration": 79.5,
+  "internetPenetration": 62.5,
+  "maleCount": 1404560,
+  "femaleCount": 1393369,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Ashdod",
+      "state": "Southern District",
+      "stateSlug": "southern-district",
+      "citySlug": "ashdod",
+      "distance": 19.15371803878773
+    },
+    {
+      "city": "Haifa",
+      "state": "Haifa District",
+      "stateSlug": "haifa-district",
+      "citySlug": "haifa",
+      "distance": 31.040678283145333
+    },
+    {
+      "city": "Jerusalem",
+      "state": "Jerusalem District",
+      "stateSlug": "jerusalem-district",
+      "citySlug": "jerusalem",
+      "distance": 37.114837522337965
+    },
+    {
+      "city": "Ramallah",
+      "state": "West Bank",
+      "stateSlug": "west-bank",
+      "citySlug": "ramallah",
+      "distance": 79.26531006043875
+    },
+    {
+      "city": "Aqaba",
+      "state": "Aqaba Governorate",
+      "stateSlug": "aqaba-governorate",
+      "citySlug": "aqaba",
+      "distance": 143.29122769379924
+    }
+  ],
+  "geohash": "sv8efmj",
+  "geohashUrl": "https://geohash.softeng.co/sv8efmj"
+}

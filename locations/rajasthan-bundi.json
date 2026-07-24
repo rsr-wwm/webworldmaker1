@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-bundi",
+  "city": "Bundi",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "bundi",
+  "country": "India",
+  "pincode": "323001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.6224,
+  "longitude": 88.1167,
+  "landmark": "Bundi District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bundi, India",
+  "population": 709490,
+  "mobileUsers": 544888,
+  "internetUsers": 388091,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹6.00L per annum",
+  "activeMobileDevices": 787533,
+  "mobilePenetration": 76.8,
+  "internetPenetration": 54.7,
+  "maleCount": 370354,
+  "femaleCount": 339136,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Taliparamba",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "taliparamba",
+      "distance": 40.885485660245436
+    },
+    {
+      "city": "Puri",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "puri",
+      "distance": 79.68942968477037
+    },
+    {
+      "city": "Nevare",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "nevare",
+      "distance": 80.89337079735922
+    },
+    {
+      "city": "Mahim",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mahim",
+      "distance": 82.74597646989359
+    },
+    {
+      "city": "Anandpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "anandpur",
+      "distance": 94.33715276969605
+    }
+  ],
+  "geohash": "tuytjhs",
+  "geohashUrl": "https://geohash.softeng.co/tuytjhs"
+}

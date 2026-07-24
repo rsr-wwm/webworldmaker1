@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-bhongir",
+  "city": "Bhongir",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "bhongir",
+  "country": "India",
+  "pincode": "508116",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.5542,
+  "longitude": 69.918,
+  "landmark": "Bhongir Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhongir, India",
+  "population": 3816158,
+  "mobileUsers": 2904096,
+  "internetUsers": 2221003,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹10.04L per annum",
+  "activeMobileDevices": 4197773,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 58.2,
+  "maleCount": 1992034,
+  "femaleCount": 1824124,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Purulai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "purulai",
+      "distance": 17.312082838646
+    },
+    {
+      "city": "Happy valley",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "happy-valley",
+      "distance": 26.19118579958716
+    },
+    {
+      "city": "HAL II Stage",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "hal-ii-stage",
+      "distance": 45.17435750629336
+    },
+    {
+      "city": "Borholla",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "borholla",
+      "distance": 52.4451474543958
+    },
+    {
+      "city": "Khousa",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "khousa",
+      "distance": 64.10365603382661
+    }
+  ],
+  "geohash": "td1xrj2",
+  "geohashUrl": "https://geohash.softeng.co/td1xrj2"
+}

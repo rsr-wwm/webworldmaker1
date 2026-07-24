@@ -1,0 +1,82 @@
+{
+  "id": "bihar-hajipur",
+  "city": "Hajipur",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "hajipur",
+  "country": "India",
+  "pincode": "844101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.4607,
+  "longitude": 81.1459,
+  "landmark": "Hajipur Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hajipur, India",
+  "population": 8112740,
+  "mobileUsers": 6206246,
+  "internetUsers": 4599923,
+  "genderRatioText": "917 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹6.14L per annum",
+  "activeMobileDevices": 9735288,
+  "mobilePenetration": 76.5,
+  "internetPenetration": 56.7,
+  "maleCount": 4234850,
+  "femaleCount": 3877890,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chhatarpur City",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "chhatarpur-city",
+      "distance": 44.28354396711757
+    },
+    {
+      "city": "Lamlongbazar",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "lamlongbazar",
+      "distance": 66.0570807108099
+    },
+    {
+      "city": "Baramulla",
+      "state": "Jammu & Kashmir",
+      "stateSlug": "jammu-and-kashmir",
+      "citySlug": "baramulla",
+      "distance": 70.22336982042944
+    },
+    {
+      "city": "Sattenapalle",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "sattenapalle",
+      "distance": 75.10839787482826
+    },
+    {
+      "city": "Palayamkottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "palayamkottai",
+      "distance": 92.49455357847074
+    }
+  ],
+  "geohash": "tvc8wt2",
+  "geohashUrl": "https://geohash.softeng.co/tvc8wt2"
+}

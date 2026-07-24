@@ -1,0 +1,81 @@
+{
+  "id": "greater-banjul-area-banjul",
+  "city": "Banjul",
+  "state": "Greater Banjul Area",
+  "stateSlug": "greater-banjul-area",
+  "citySlug": "banjul",
+  "country": "Gambia",
+  "pincode": "00000",
+  "currency": "GMD",
+  "symbol": "D",
+  "compliance": "PURA Rules",
+  "carriers": [
+    "Africell",
+    "QCell",
+    "Gamcel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+220",
+  "timezone": "Africa/Banjul",
+  "latitude": 13.3626,
+  "longitude": -16.6393,
+  "landmark": "Banjul Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Africell networks. Failovers route over QCell, Gamcel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Banjul, Gambia",
+  "population": 4015122,
+  "mobileUsers": 3143840,
+  "internetUsers": 2485360,
+  "genderRatioText": "966 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "D27,578 GMD per annum",
+  "activeMobileDevices": 5259809,
+  "mobilePenetration": 78.3,
+  "internetPenetration": 61.9,
+  "maleCount": 2043697,
+  "femaleCount": 1971425,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Bissau",
+      "state": "Bissau Sector",
+      "stateSlug": "bissau-sector",
+      "citySlug": "bissau",
+      "distance": 211.41576631181962
+    },
+    {
+      "city": "Saint-Louis",
+      "state": "Saint-Louis Region",
+      "stateSlug": "saint-louis-region",
+      "citySlug": "saint-louis",
+      "distance": 291.7870689789868
+    },
+    {
+      "city": "Dakar",
+      "state": "Dakar Region",
+      "stateSlug": "dakar-region",
+      "citySlug": "dakar",
+      "distance": 293.46710631753444
+    },
+    {
+      "city": "Grenoble",
+      "state": "Auvergne-Rhône-Alpes",
+      "stateSlug": "auvergne-rhone-alpes",
+      "citySlug": "grenoble",
+      "distance": 620.2662251178875
+    },
+    {
+      "city": "Conakry",
+      "state": "Conakry Region",
+      "stateSlug": "conakry-region",
+      "citySlug": "conakry",
+      "distance": 760.3493268653448
+    }
+  ],
+  "geohash": "edkhj2e",
+  "geohashUrl": "https://geohash.softeng.co/edkhj2e"
+}

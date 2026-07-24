@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-bharatpur",
+  "city": "Bharatpur",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "bharatpur",
+  "country": "India",
+  "pincode": "321001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.2306,
+  "longitude": 79.4419,
+  "landmark": "Bharatpur Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bharatpur, India",
+  "population": 610895,
+  "mobileUsers": 459393,
+  "internetUsers": 361038,
+  "genderRatioText": "910 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹11.87L per annum",
+  "activeMobileDevices": 629221,
+  "mobilePenetration": 75.2,
+  "internetPenetration": 59.1,
+  "maleCount": 320109,
+  "femaleCount": 290786,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Neembathana Town",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "neembathana-town",
+      "distance": 26.35671246714899
+    },
+    {
+      "city": "Aska",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "aska",
+      "distance": 36.238514878369024
+    },
+    {
+      "city": "Vajapur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "vajapur",
+      "distance": 76.9047729656756
+    },
+    {
+      "city": "Waltair R.S.",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "waltair-rs",
+      "distance": 104.70611063558259
+    },
+    {
+      "city": "Armoor",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "armoor",
+      "distance": 106.78274048631741
+    }
+  ],
+  "geohash": "tv8rrer",
+  "geohashUrl": "https://geohash.softeng.co/tv8rrer"
+}

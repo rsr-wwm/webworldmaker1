@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-waltair-rs",
+  "city": "Waltair R.S.",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "waltair-rs",
+  "country": "India",
+  "pincode": "530004",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.6459,
+  "longitude": 78.5721,
+  "landmark": "Waltair R.S. Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Waltair R.S., India",
+  "population": 7916159,
+  "mobileUsers": 6016280,
+  "internetUsers": 4765527,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹10.92L per annum",
+  "activeMobileDevices": 8153643,
+  "mobilePenetration": 76,
+  "internetPenetration": 60.2,
+  "maleCount": 4045157,
+  "femaleCount": 3871002,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Seoni",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "seoni",
+      "distance": 39.07834860554723
+    },
+    {
+      "city": "Ahmedabad",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "ahmedabad",
+      "distance": 75.40115359809138
+    },
+    {
+      "city": "Bobbili",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bobbili",
+      "distance": 99.81360657367307
+    },
+    {
+      "city": "Bharatpur",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bharatpur",
+      "distance": 104.70611063558259
+    },
+    {
+      "city": "Vajapur",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "vajapur",
+      "distance": 109.14434335046374
+    }
+  ],
+  "geohash": "ttxu5by",
+  "geohashUrl": "https://geohash.softeng.co/ttxu5by"
+}

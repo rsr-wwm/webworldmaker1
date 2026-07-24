@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tiruchirappalli",
+  "city": "Tiruchirappalli",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tiruchirappalli",
+  "country": "India",
+  "pincode": "620001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.8241,
+  "longitude": 69.1373,
+  "landmark": "Tiruchirappalli State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tiruchirappalli, India",
+  "population": 6581264,
+  "mobileUsers": 4751672,
+  "internetUsers": 4021152,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹6.33L per annum",
+  "activeMobileDevices": 6844514,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 61.1,
+  "maleCount": 3455164,
+  "femaleCount": 3126100,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Balurghat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "balurghat",
+      "distance": 17.2498861479663
+    },
+    {
+      "city": "Kantolim",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kantolim",
+      "distance": 36.371932910515696
+    },
+    {
+      "city": "Sri Rangam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "sri-rangam",
+      "distance": 41.0310010321719
+    },
+    {
+      "city": "Midnapore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "midnapore",
+      "distance": 60.242882059925556
+    },
+    {
+      "city": "Shahpura",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "shahpura",
+      "distance": 60.45135151738273
+    }
+  ],
+  "geohash": "techjkb",
+  "geohashUrl": "https://geohash.softeng.co/techjkb"
+}

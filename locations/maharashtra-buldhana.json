@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-buldhana",
+  "city": "Buldhana",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "buldhana",
+  "country": "India",
+  "pincode": "443001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.1328,
+  "longitude": 86.1343,
+  "landmark": "Buldhana Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Buldhana, India",
+  "population": 7347432,
+  "mobileUsers": 5378320,
+  "internetUsers": 4217425,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹9.11L per annum",
+  "activeMobileDevices": 8082175,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 57.4,
+  "maleCount": 3813317,
+  "femaleCount": 3534115,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Yeshwant Road (Indore)",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "yeshwant-road-indore",
+      "distance": 41.902045858805025
+    },
+    {
+      "city": "Nagercoil",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "nagercoil",
+      "distance": 51.32643885054732
+    },
+    {
+      "city": "Churachandpur",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "churachandpur",
+      "distance": 59.44016940915273
+    },
+    {
+      "city": "Satara",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "satara",
+      "distance": 63.742671499578584
+    },
+    {
+      "city": "Samalkot",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "samalkot",
+      "distance": 90.15651113812498
+    }
+  ],
+  "geohash": "tfjm009",
+  "geohashUrl": "https://geohash.softeng.co/tfjm009"
+}

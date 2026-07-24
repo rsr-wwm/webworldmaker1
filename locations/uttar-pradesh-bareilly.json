@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-bareilly",
+  "city": "Bareilly",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "bareilly",
+  "country": "India",
+  "pincode": "243001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.1555,
+  "longitude": 89.1622,
+  "landmark": "Bareilly State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bareilly, India",
+  "population": 9755441,
+  "mobileUsers": 7336091,
+  "internetUsers": 5638644,
+  "genderRatioText": "942 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹11.69L per annum",
+  "activeMobileDevices": 11316311,
+  "mobilePenetration": 75.2,
+  "internetPenetration": 57.8,
+  "maleCount": 5024052,
+  "femaleCount": 4731389,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Station Kachiguda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "station-kachiguda",
+      "distance": 73.4677724508581
+    },
+    {
+      "city": "Nagaon (Nowgong)",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nagaon-nowgong",
+      "distance": 85.16734980172424
+    },
+    {
+      "city": "Lightmukhra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "lightmukhra",
+      "distance": 95.24622955494473
+    },
+    {
+      "city": "Senapati",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "senapati",
+      "distance": 98.20037115858986
+    },
+    {
+      "city": "Katwa",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "katwa",
+      "distance": 109.65980882289774
+    }
+  ],
+  "geohash": "tvr7sct",
+  "geohashUrl": "https://geohash.softeng.co/tvr7sct"
+}

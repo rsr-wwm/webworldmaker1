@@ -1,0 +1,81 @@
+{
+  "id": "pennsylvania-pittsburgh",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "stateSlug": "pennsylvania",
+  "citySlug": "pittsburgh",
+  "country": "United States",
+  "pincode": "15201",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/New_York",
+  "latitude": 39.6453,
+  "longitude": -110.4871,
+  "landmark": "Pittsburgh Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Pittsburgh, United States",
+  "population": 4860454,
+  "mobileUsers": 4500780,
+  "internetUsers": 4491059,
+  "genderRatioText": "954 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "$85,052 per annum",
+  "activeMobileDevices": 6707426,
+  "mobilePenetration": 92.6,
+  "internetPenetration": 92.4,
+  "maleCount": 2488552,
+  "femaleCount": 2371902,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Dallas",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "dallas",
+      "distance": 96.91728079437675
+    },
+    {
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "citySlug": "cincinnati",
+      "distance": 169.0118831955837
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "stateSlug": "florida",
+      "citySlug": "jacksonville",
+      "distance": 256.9322618798469
+    },
+    {
+      "city": "Nashville",
+      "state": "Tennessee",
+      "stateSlug": "tennessee",
+      "citySlug": "nashville",
+      "distance": 263.31946563002424
+    },
+    {
+      "city": "Los Angeles",
+      "state": "California",
+      "stateSlug": "california",
+      "citySlug": "los-angeles",
+      "distance": 285.2675302735521
+    }
+  ],
+  "geohash": "9x13tc1",
+  "geohashUrl": "https://geohash.softeng.co/9x13tc1"
+}

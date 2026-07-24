@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-mysore",
+  "city": "Mysore",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "mysore",
+  "country": "India",
+  "pincode": "570001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.0351,
+  "longitude": 74.8149,
+  "landmark": "Mysore District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mysore, India",
+  "population": 9778485,
+  "mobileUsers": 7558768,
+  "internetUsers": 5759527,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹9.76L per annum",
+  "activeMobileDevices": 10071839,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 58.9,
+  "maleCount": 4996806,
+  "femaleCount": 4781679,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kolhapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kolhapur",
+      "distance": 12.308327351449817
+    },
+    {
+      "city": "Thanjavur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thanjavur",
+      "distance": 31.445272168238258
+    },
+    {
+      "city": "Khanna",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "khanna",
+      "distance": 64.18443320744458
+    },
+    {
+      "city": "Tiruvarur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruvarur",
+      "distance": 81.42368901179634
+    },
+    {
+      "city": "Telimura",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "telimura",
+      "distance": 90.41649143971907
+    }
+  ],
+  "geohash": "tej0ymn",
+  "geohashUrl": "https://geohash.softeng.co/tej0ymn"
+}

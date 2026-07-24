@@ -1,0 +1,82 @@
+{
+  "id": "goa-mepusa",
+  "city": "Mepusa",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "mepusa",
+  "country": "India",
+  "pincode": "403507",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.5861,
+  "longitude": 75.5821,
+  "landmark": "Mepusa Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mepusa, India",
+  "population": 1817433,
+  "mobileUsers": 1379431,
+  "internetUsers": 1015945,
+  "genderRatioText": "915 females per 1,000 males",
+  "malePercentage": 52.2,
+  "femalePercentage": 47.8,
+  "averageIncome": "₹11.25L per annum",
+  "activeMobileDevices": 2071873,
+  "mobilePenetration": 75.9,
+  "internetPenetration": 55.9,
+  "maleCount": 948700,
+  "femaleCount": 868733,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mowkarvat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mowkarvat",
+      "distance": 63.74658263397786
+    },
+    {
+      "city": "Kothapeta",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kothapeta",
+      "distance": 66.56990437494206
+    },
+    {
+      "city": "Dhanbad",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "dhanbad",
+      "distance": 69.9817745402254
+    },
+    {
+      "city": "Thalassery",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "thalassery",
+      "distance": 70.66830207172299
+    },
+    {
+      "city": "Attili",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "attili",
+      "distance": 75.91530762265225
+    }
+  ],
+  "geohash": "tsvszvv",
+  "geohashUrl": "https://geohash.softeng.co/tsvszvv"
+}

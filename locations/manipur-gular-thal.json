@@ -1,0 +1,82 @@
+{
+  "id": "manipur-gular-thal",
+  "city": "Gular thal",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "gular-thal",
+  "country": "India",
+  "pincode": "788115",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.7494,
+  "longitude": 86.1563,
+  "landmark": "Gular thal State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gular thal, India",
+  "population": 5274248,
+  "mobileUsers": 4034799,
+  "internetUsers": 2900836,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.87L per annum",
+  "activeMobileDevices": 6223612,
+  "mobilePenetration": 76.5,
+  "internetPenetration": 55,
+  "maleCount": 2716238,
+  "femaleCount": 2558010,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Malvan",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "malvan",
+      "distance": 19.213111996469078
+    },
+    {
+      "city": "Dobasipada",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "dobasipada",
+      "distance": 24.835865451136527
+    },
+    {
+      "city": "Vimangad",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "vimangad",
+      "distance": 49.25592261172319
+    },
+    {
+      "city": "Karong",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "karong",
+      "distance": 66.38516304826305
+    },
+    {
+      "city": "Bhopal C.I.T. Nagar",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal-cit-nagar",
+      "distance": 73.99257422072138
+    }
+  ],
+  "geohash": "tgv78x3",
+  "geohashUrl": "https://geohash.softeng.co/tgv78x3"
+}

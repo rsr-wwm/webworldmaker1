@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-siddipet",
+  "city": "Siddipet",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "siddipet",
+  "country": "India",
+  "pincode": "502103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.7457,
+  "longitude": 70.4112,
+  "landmark": "Siddipet Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Siddipet, India",
+  "population": 5617809,
+  "mobileUsers": 4342566,
+  "internetUsers": 3168444,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹10.44L per annum",
+  "activeMobileDevices": 6011055,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 56.4,
+  "maleCount": 2876318,
+  "femaleCount": 2741491,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Medak",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "medak",
+      "distance": 30.09012390408198
+    },
+    {
+      "city": "Chera bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "chera-bazar",
+      "distance": 34.19323540045581
+    },
+    {
+      "city": "Ponani",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ponani",
+      "distance": 41.43570009590052
+    },
+    {
+      "city": "Palakkad",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "palakkad",
+      "distance": 67.2191559184166
+    },
+    {
+      "city": "Guwahati",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati",
+      "distance": 97.3904352752329
+    }
+  ],
+  "geohash": "tdf1d4r",
+  "geohashUrl": "https://geohash.softeng.co/tdf1d4r"
+}

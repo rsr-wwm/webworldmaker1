@@ -1,0 +1,81 @@
+{
+  "id": "varna-province-varna",
+  "city": "Varna",
+  "state": "Varna Province",
+  "stateSlug": "varna-province",
+  "citySlug": "varna",
+  "country": "Bulgaria",
+  "pincode": "9000",
+  "currency": "BGN",
+  "symbol": "лв",
+  "compliance": "GDPR / CRC",
+  "carriers": [
+    "A1",
+    "Yettel",
+    "Vivacom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+359",
+  "timezone": "Europe/Sofia",
+  "latitude": 42.9885,
+  "longitude": 25.0791,
+  "landmark": "Varna Commercial Market Circle",
+  "carrierQuality": "Primary edge trunk terminated over A1 networks. Failovers route over Yettel, Vivacom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Varna, Bulgaria",
+  "population": 4525967,
+  "mobileUsers": 3557410,
+  "internetUsers": 2923774,
+  "genderRatioText": "994 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "лв28,171 BGN per annum",
+  "activeMobileDevices": 6064795,
+  "mobilePenetration": 78.6,
+  "internetPenetration": 64.6,
+  "maleCount": 2272035,
+  "femaleCount": 2253932,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Plovdiv",
+      "state": "Plovdiv Province",
+      "stateSlug": "plovdiv-province",
+      "citySlug": "plovdiv",
+      "distance": 9.545293782348471
+    },
+    {
+      "city": "Sofia",
+      "state": "Sofia City",
+      "stateSlug": "sofia-city",
+      "citySlug": "sofia",
+      "distance": 23.13243792372071
+    },
+    {
+      "city": "Bitola",
+      "state": "Pelagonia Region",
+      "stateSlug": "pelagonia-region",
+      "citySlug": "bitola",
+      "distance": 281.8748282399618
+    },
+    {
+      "city": "Skopje",
+      "state": "Skopje Region",
+      "stateSlug": "skopje-region",
+      "citySlug": "skopje",
+      "distance": 296.12511469153156
+    },
+    {
+      "city": "Timisoara",
+      "state": "Timis County",
+      "stateSlug": "timis-county",
+      "citySlug": "timisoara",
+      "distance": 319.79836306800047
+    }
+  ],
+  "geohash": "sx9ud9y",
+  "geohashUrl": "https://geohash.softeng.co/sx9ud9y"
+}

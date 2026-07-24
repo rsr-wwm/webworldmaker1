@@ -1,0 +1,82 @@
+{
+  "id": "chelyabinsk-oblast-chelyabinsk",
+  "city": "Chelyabinsk",
+  "state": "Chelyabinsk Oblast",
+  "stateSlug": "chelyabinsk-oblast",
+  "citySlug": "chelyabinsk",
+  "country": "Russia",
+  "pincode": "454000",
+  "currency": "RUB",
+  "symbol": "₽",
+  "compliance": "Roskomnadzor Rules",
+  "carriers": [
+    "MTS",
+    "MegaFon",
+    "Beeline",
+    "Tele2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+7",
+  "timezone": "Asia/Anadyr",
+  "latitude": 60.0712,
+  "longitude": 99.8262,
+  "landmark": "Chelyabinsk GPO Circle Square",
+  "carrierQuality": "Primary edge trunk terminated over MTS networks. Failovers route over MegaFon, Beeline, Tele2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Chelyabinsk, Russia",
+  "population": 4558111,
+  "mobileUsers": 4061276,
+  "internetUsers": 3404908,
+  "genderRatioText": "1,005 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "₽33,520 RUB per annum",
+  "activeMobileDevices": 5332989,
+  "mobilePenetration": 89.1,
+  "internetPenetration": 74.7,
+  "maleCount": 2274497,
+  "femaleCount": 2283614,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Novosibirsk",
+      "state": "Novosibirsk Oblast",
+      "stateSlug": "novosibirsk-oblast",
+      "citySlug": "novosibirsk",
+      "distance": 4.094982196401186
+    },
+    {
+      "city": "Yekaterinburg",
+      "state": "Sverdlovsk Oblast",
+      "stateSlug": "sverdlovsk-oblast",
+      "citySlug": "yekaterinburg",
+      "distance": 8.646106511418681
+    },
+    {
+      "city": "St. Petersburg",
+      "state": "Leningrad Oblast",
+      "stateSlug": "leningrad-oblast",
+      "citySlug": "st-petersburg",
+      "distance": 9.34750324364109
+    },
+    {
+      "city": "Rostov-on-Don",
+      "state": "Rostov Oblast",
+      "stateSlug": "rostov-oblast",
+      "citySlug": "rostov-on-don",
+      "distance": 12.592677820946692
+    },
+    {
+      "city": "Samara",
+      "state": "Samara Oblast",
+      "stateSlug": "samara-oblast",
+      "citySlug": "samara",
+      "distance": 16.90964382530641
+    }
+  ],
+  "geohash": "y4wvxxe",
+  "geohashUrl": "https://geohash.softeng.co/y4wvxxe"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-anantapur",
+  "city": "Anantapur",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "anantapur",
+  "country": "India",
+  "pincode": "515001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.2394,
+  "longitude": 81.8013,
+  "landmark": "Anantapur Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Anantapur, India",
+  "population": 685900,
+  "mobileUsers": 512367,
+  "internetUsers": 384789,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹9.64L per annum",
+  "activeMobileDevices": 747631,
+  "mobilePenetration": 74.7,
+  "internetPenetration": 56.1,
+  "maleCount": 355982,
+  "femaleCount": 329918,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "visakhapatnam",
+      "distance": 38.019991035249184
+    },
+    {
+      "city": "Cherthala",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "cherthala",
+      "distance": 38.96668365764804
+    },
+    {
+      "city": "Khowai",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "khowai",
+      "distance": 69.82635336098537
+    },
+    {
+      "city": "Bishanpur",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "bishanpur",
+      "distance": 74.82907237819816
+    },
+    {
+      "city": "Rajnagar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "rajnagar",
+      "distance": 88.54350769165708
+    }
+  ],
+  "geohash": "tudjm2t",
+  "geohashUrl": "https://geohash.softeng.co/tudjm2t"
+}

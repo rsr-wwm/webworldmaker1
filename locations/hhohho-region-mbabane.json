@@ -1,0 +1,80 @@
+{
+  "id": "hhohho-region-mbabane",
+  "city": "Mbabane",
+  "state": "Hhohho Region",
+  "stateSlug": "hhohho-region",
+  "citySlug": "mbabane",
+  "country": "Eswatini",
+  "pincode": "H100",
+  "currency": "SZL",
+  "symbol": "L",
+  "compliance": "ESCCOM Rules",
+  "carriers": [
+    "MTN",
+    "Eswatini Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+268",
+  "timezone": "Africa/Mbabane",
+  "latitude": -26.5612,
+  "longitude": 31.5168,
+  "landmark": "Mbabane Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Eswatini Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Mbabane, Eswatini",
+  "population": 3540471,
+  "mobileUsers": 2765107,
+  "internetUsers": 2336710,
+  "genderRatioText": "1,004 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "L24,551 SZL per annum",
+  "activeMobileDevices": 4638017,
+  "mobilePenetration": 78.1,
+  "internetPenetration": 66,
+  "maleCount": 1766695,
+  "femaleCount": 1773776,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Maseru",
+      "state": "Maseru District",
+      "stateSlug": "maseru-district",
+      "citySlug": "maseru",
+      "distance": 452.9948365925649
+    },
+    {
+      "city": "Harare",
+      "state": "Harare Province",
+      "stateSlug": "harare-province",
+      "citySlug": "harare",
+      "distance": 733.3996060882712
+    },
+    {
+      "city": "Bulawayo",
+      "state": "Matabeleland North",
+      "stateSlug": "matabeleland-north",
+      "citySlug": "bulawayo",
+      "distance": 759.8232569584736
+    },
+    {
+      "city": "Cape Town",
+      "state": "Western Cape",
+      "stateSlug": "western-cape",
+      "citySlug": "cape-town",
+      "distance": 785.4229543203429
+    },
+    {
+      "city": "Durban",
+      "state": "KwaZulu-Natal",
+      "stateSlug": "kwazulu-natal",
+      "citySlug": "durban",
+      "distance": 794.2478405195471
+    }
+  ],
+  "geohash": "keq2vht",
+  "geohashUrl": "https://geohash.softeng.co/keq2vht"
+}

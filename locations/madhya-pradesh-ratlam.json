@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-ratlam",
+  "city": "Ratlam",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "ratlam",
+  "country": "India",
+  "pincode": "457001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.7075,
+  "longitude": 81.2462,
+  "landmark": "Ratlam Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ratlam, India",
+  "population": 1423746,
+  "mobileUsers": 1103403,
+  "internetUsers": 784484,
+  "genderRatioText": "927 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹8.09L per annum",
+  "activeMobileDevices": 1694257,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 55.1,
+  "maleCount": 738924,
+  "femaleCount": 684822,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tiruthuraipundi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruthuraipundi",
+      "distance": 11.139220890922253
+    },
+    {
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ernakulam",
+      "distance": 59.10701147567129
+    },
+    {
+      "city": "Dibrugarh",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "dibrugarh",
+      "distance": 71.48864983491737
+    },
+    {
+      "city": "Tiruchengudo",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tiruchengudo",
+      "distance": 81.28036514636011
+    },
+    {
+      "city": "Bankura",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "bankura",
+      "distance": 88.92392030130638
+    }
+  ],
+  "geohash": "tf3b2c3",
+  "geohashUrl": "https://geohash.softeng.co/tf3b2c3"
+}

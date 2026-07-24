@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-suryapet",
+  "city": "Suryapet",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "suryapet",
+  "country": "India",
+  "pincode": "508213",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.9274,
+  "longitude": 79.4059,
+  "landmark": "Suryapet Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Suryapet, India",
+  "population": 8068374,
+  "mobileUsers": 6002870,
+  "internetUsers": 4663520,
+  "genderRatioText": "906 females per 1,000 males",
+  "malePercentage": 52.5,
+  "femalePercentage": 47.5,
+  "averageIncome": "₹6.52L per annum",
+  "activeMobileDevices": 9278630,
+  "mobilePenetration": 74.4,
+  "internetPenetration": 57.8,
+  "maleCount": 4235896,
+  "femaleCount": 3832478,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Car Nicobar",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "car-nicobar",
+      "distance": 23.35733042447065
+    },
+    {
+      "city": "Chandel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "chandel",
+      "distance": 31.98620345474954
+    },
+    {
+      "city": "Chakpirang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "chakpirang",
+      "distance": 53.08849130712146
+    },
+    {
+      "city": "Deoria",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "deoria",
+      "distance": 53.55773079396966
+    },
+    {
+      "city": "Tiruvalla",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "tiruvalla",
+      "distance": 82.2589912552191
+    }
+  ],
+  "geohash": "tub3nvv",
+  "geohashUrl": "https://geohash.softeng.co/tub3nvv"
+}

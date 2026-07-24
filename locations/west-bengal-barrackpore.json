@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-barrackpore",
+  "city": "Barrackpore",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "barrackpore",
+  "country": "India",
+  "pincode": "743101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.1763,
+  "longitude": 74.7591,
+  "landmark": "Barrackpore Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Barrackpore, India",
+  "population": 7660581,
+  "mobileUsers": 5768417,
+  "internetUsers": 4144374,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹10.95L per annum",
+  "activeMobileDevices": 7967004,
+  "mobilePenetration": 75.3,
+  "internetPenetration": 54.1,
+  "maleCount": 3922217,
+  "femaleCount": 3738364,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Tirukkoyilur",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirukkoyilur",
+      "distance": 61.932698528460946
+    },
+    {
+      "city": "Barmihat",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "barmihat",
+      "distance": 63.18710237941842
+    },
+    {
+      "city": "Kamptee",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "kamptee",
+      "distance": 67.11135106978236
+    },
+    {
+      "city": "Zunhebato",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "zunhebato",
+      "distance": 69.61117944263036
+    },
+    {
+      "city": "Shahdol",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "shahdol",
+      "distance": 88.03773426001693
+    }
+  ],
+  "geohash": "tsthvjj",
+  "geohashUrl": "https://geohash.softeng.co/tsthvjj"
+}

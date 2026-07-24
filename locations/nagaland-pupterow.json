@@ -1,0 +1,82 @@
+{
+  "id": "nagaland-pupterow",
+  "city": "Pupterow",
+  "state": "Nagaland",
+  "stateSlug": "nagaland",
+  "citySlug": "pupterow",
+  "country": "India",
+  "pincode": "797107",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.8662,
+  "longitude": 79.9121,
+  "landmark": "Pupterow Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pupterow, India",
+  "population": 2768133,
+  "mobileUsers": 2092708,
+  "internetUsers": 1558458,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹8.29L per annum",
+  "activeMobileDevices": 2795814,
+  "mobilePenetration": 75.6,
+  "internetPenetration": 56.3,
+  "maleCount": 1431125,
+  "femaleCount": 1337008,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Amini",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "amini",
+      "distance": 49.70422924728597
+    },
+    {
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "ernakulam",
+      "distance": 113.0202731874332
+    },
+    {
+      "city": "Phenk",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "phenk",
+      "distance": 121.90041409290505
+    },
+    {
+      "city": "Landsdowne",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "landsdowne",
+      "distance": 125.91751765513396
+    },
+    {
+      "city": "Mahabubnagar",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mahabubnagar",
+      "distance": 127.20521222855135
+    }
+  ],
+  "geohash": "tf2c4qn",
+  "geohashUrl": "https://geohash.softeng.co/tf2c4qn"
+}

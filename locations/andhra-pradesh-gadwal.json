@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-gadwal",
+  "city": "Gadwal",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "gadwal",
+  "country": "India",
+  "pincode": "509125",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.3124,
+  "longitude": 73.0794,
+  "landmark": "Gadwal Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Gadwal, India",
+  "population": 7854576,
+  "mobileUsers": 5663149,
+  "internetUsers": 4524235,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹9.59L per annum",
+  "activeMobileDevices": 8247304,
+  "mobilePenetration": 72.1,
+  "internetPenetration": 57.6,
+  "maleCount": 4029397,
+  "femaleCount": 3825179,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kulittalai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kulittalai",
+      "distance": 33.370236387759824
+    },
+    {
+      "city": "Morai",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "morai",
+      "distance": 56.421207202969754
+    },
+    {
+      "city": "Kaikalur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kaikalur",
+      "distance": 60.937508337855895
+    },
+    {
+      "city": "Pune City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "pune-city",
+      "distance": 84.0615239470452
+    },
+    {
+      "city": "Vasco Da Gama",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vasco-da-gama",
+      "distance": 88.71149129698306
+    }
+  ],
+  "geohash": "ttezyfq",
+  "geohashUrl": "https://geohash.softeng.co/ttezyfq"
+}

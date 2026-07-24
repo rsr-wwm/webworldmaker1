@@ -1,0 +1,81 @@
+{
+  "id": "federal-district-brasilia",
+  "city": "Brasilia",
+  "state": "Federal District",
+  "stateSlug": "federal-district",
+  "citySlug": "brasilia",
+  "country": "Brazil",
+  "pincode": "70000-000",
+  "currency": "BRL",
+  "symbol": "R$",
+  "compliance": "ANATEL Rules",
+  "carriers": [
+    "Vivo",
+    "Claro",
+    "TIM"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+55",
+  "timezone": "America/Araguaina",
+  "latitude": -10.0058,
+  "longitude": -55.0786,
+  "landmark": "Brasilia Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Vivo networks. Failovers route over Claro, TIM with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Brasilia, Brazil",
+  "population": 1667398,
+  "mobileUsers": 1420623,
+  "internetUsers": 1235541,
+  "genderRatioText": "973 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "R$31,101 BRL per annum",
+  "activeMobileDevices": 1967529,
+  "mobilePenetration": 85.2,
+  "internetPenetration": 74.1,
+  "maleCount": 845371,
+  "femaleCount": 822027,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Salvador",
+      "state": "Bahia",
+      "stateSlug": "bahia",
+      "citySlug": "salvador",
+      "distance": 7.5625297729747505
+    },
+    {
+      "city": "Goiania",
+      "state": "Goias",
+      "stateSlug": "goias",
+      "citySlug": "goiania",
+      "distance": 16.541526375904912
+    },
+    {
+      "city": "São Paulo",
+      "state": "São Paulo State",
+      "stateSlug": "sao-paulo-state",
+      "citySlug": "sao-paulo",
+      "distance": 17.922516220360027
+    },
+    {
+      "city": "Porto Alegre",
+      "state": "Rio Grande do Sul",
+      "stateSlug": "rio-grande-do-sul",
+      "citySlug": "porto-alegre",
+      "distance": 18.418008360458057
+    },
+    {
+      "city": "Manaus",
+      "state": "Amazonas",
+      "stateSlug": "amazonas",
+      "citySlug": "manaus",
+      "distance": 19.07043955201026
+    }
+  ],
+  "geohash": "6y0z4dk",
+  "geohashUrl": "https://geohash.softeng.co/6y0z4dk"
+}

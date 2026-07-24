@@ -1,0 +1,82 @@
+{
+  "id": "tripura-shalima",
+  "city": "Shalima",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "shalima",
+  "country": "India",
+  "pincode": "799278",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 25.1245,
+  "longitude": 86.9022,
+  "landmark": "Shalima Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Shalima, India",
+  "population": 6606094,
+  "mobileUsers": 5086692,
+  "internetUsers": 3798504,
+  "genderRatioText": "912 females per 1,000 males",
+  "malePercentage": 52.3,
+  "femalePercentage": 47.7,
+  "averageIncome": "₹6.33L per annum",
+  "activeMobileDevices": 7927312,
+  "mobilePenetration": 77,
+  "internetPenetration": 57.5,
+  "maleCount": 3454987,
+  "femaleCount": 3151107,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Lucknow GPO",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lucknow-gpo",
+      "distance": 50.172267479813726
+    },
+    {
+      "city": "Kundapura",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kundapura",
+      "distance": 64.45079860083746
+    },
+    {
+      "city": "Palel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "palel",
+      "distance": 70.4549015279934
+    },
+    {
+      "city": "Allahabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "allahabad",
+      "distance": 81.73505572955375
+    },
+    {
+      "city": "Unjha",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "unjha",
+      "distance": 82.71780017635703
+    }
+  ],
+  "geohash": "tumyctb",
+  "geohashUrl": "https://geohash.softeng.co/tumyctb"
+}

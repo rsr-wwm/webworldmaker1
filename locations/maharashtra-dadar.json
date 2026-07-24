@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-dadar",
+  "city": "Dadar",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "dadar",
+  "country": "India",
+  "pincode": "400014",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.4848,
+  "longitude": 72.2775,
+  "landmark": "Dadar Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dadar, India",
+  "population": 2824741,
+  "mobileUsers": 2149627,
+  "internetUsers": 1711793,
+  "genderRatioText": "907 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹8.86L per annum",
+  "activeMobileDevices": 2937730,
+  "mobilePenetration": 76.1,
+  "internetPenetration": 60.6,
+  "maleCount": 1480164,
+  "femaleCount": 1344577,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Serchhip",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "serchhip",
+      "distance": 53.23924699509733
+    },
+    {
+      "city": "Bilimora",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bilimora",
+      "distance": 73.35858284240436
+    },
+    {
+      "city": "Mayabandar",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "mayabandar",
+      "distance": 73.90824758096855
+    },
+    {
+      "city": "Tikamgarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "tikamgarh",
+      "distance": 74.80064726364326
+    },
+    {
+      "city": "Baidyanadh Deoghar",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "baidyanadh-deoghar",
+      "distance": 81.85874967297056
+    }
+  ],
+  "geohash": "te57kxn",
+  "geohashUrl": "https://geohash.softeng.co/te57kxn"
+}

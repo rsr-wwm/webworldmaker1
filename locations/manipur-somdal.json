@@ -1,0 +1,82 @@
+{
+  "id": "manipur-somdal",
+  "city": "Somdal",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "somdal",
+  "country": "India",
+  "pincode": "795144",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.4853,
+  "longitude": 86.7234,
+  "landmark": "Somdal Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Somdal, India",
+  "population": 9400164,
+  "mobileUsers": 6918520,
+  "internetUsers": 5762300,
+  "genderRatioText": "928 females per 1,000 males",
+  "malePercentage": 51.9,
+  "femalePercentage": 48.1,
+  "averageIncome": "₹10.55L per annum",
+  "activeMobileDevices": 9682168,
+  "mobilePenetration": 73.6,
+  "internetPenetration": 61.3,
+  "maleCount": 4878685,
+  "femaleCount": 4521479,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Korba",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "korba",
+      "distance": 58.50708781728819
+    },
+    {
+      "city": "Arakkonam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arakkonam",
+      "distance": 71.21100648639991
+    },
+    {
+      "city": "Arni",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arni",
+      "distance": 71.9775845031331
+    },
+    {
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "aurangabad",
+      "distance": 99.02038532577188
+    },
+    {
+      "city": "Firozabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "firozabad",
+      "distance": 102.60563153076592
+    }
+  ],
+  "geohash": "tvmtmmw",
+  "geohashUrl": "https://geohash.softeng.co/tvmtmmw"
+}

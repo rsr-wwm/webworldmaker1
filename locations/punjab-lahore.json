@@ -1,0 +1,82 @@
+{
+  "id": "punjab-lahore",
+  "city": "Lahore",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "lahore",
+  "country": "Pakistan",
+  "pincode": "54000",
+  "currency": "PKR",
+  "symbol": "Rs.",
+  "compliance": "PTA Guidelines",
+  "carriers": [
+    "Jazz",
+    "Telenor",
+    "Zong",
+    "Ufone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+92",
+  "timezone": "Asia/Karachi",
+  "latitude": 29.8643,
+  "longitude": 70.0581,
+  "landmark": "Lahore State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Jazz networks. Failovers route over Telenor, Zong, Ufone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Lahore, Pakistan",
+  "population": 1092469,
+  "mobileUsers": 845571,
+  "internetUsers": 746156,
+  "genderRatioText": "994 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "Rs.35,201 PKR per annum",
+  "activeMobileDevices": 1463908,
+  "mobilePenetration": 77.4,
+  "internetPenetration": 68.3,
+  "maleCount": 548419,
+  "femaleCount": 544050,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Karachi",
+      "state": "Sindh",
+      "stateSlug": "sindh",
+      "citySlug": "karachi",
+      "distance": 7.926802017774497
+    },
+    {
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan",
+      "distance": 10.546691829564093
+    },
+    {
+      "city": "Islamabad",
+      "state": "Islamabad Capital Territory",
+      "stateSlug": "islamabad-capital-territory",
+      "citySlug": "islamabad",
+      "distance": 11.534976100214612
+    },
+    {
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "rajkot",
+      "distance": 19.229187614796054
+    },
+    {
+      "city": "Mriyalguda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "mriyalguda",
+      "distance": 19.729615398356994
+    }
+  ],
+  "geohash": "tt3cfhw",
+  "geohashUrl": "https://geohash.softeng.co/tt3cfhw"
+}

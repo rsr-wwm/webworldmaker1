@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-pune-city",
+  "city": "Pune City",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "pune-city",
+  "country": "India",
+  "pincode": "411002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.4854,
+  "longitude": 72.2078,
+  "landmark": "Pune City Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pune City, India",
+  "population": 8560541,
+  "mobileUsers": 6360481,
+  "internetUsers": 4665494,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹11.97L per annum",
+  "activeMobileDevices": 9930227,
+  "mobilePenetration": 74.3,
+  "internetPenetration": 54.5,
+  "maleCount": 4382997,
+  "femaleCount": 4177544,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kaikalur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kaikalur",
+      "distance": 27.244755289469236
+    },
+    {
+      "city": "Tiptur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "tiptur",
+      "distance": 40.528887905409135
+    },
+    {
+      "city": "Cuddapah",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "cuddapah",
+      "distance": 65.76518807848274
+    },
+    {
+      "city": "Gadwal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gadwal",
+      "distance": 84.0615239470452
+    },
+    {
+      "city": "Mandi",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "mandi",
+      "distance": 91.00944659112075
+    }
+  ],
+  "geohash": "ttg2g1u",
+  "geohashUrl": "https://geohash.softeng.co/ttg2g1u"
+}

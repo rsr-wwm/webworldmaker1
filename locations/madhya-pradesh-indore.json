@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-indore",
+  "city": "Indore",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "indore",
+  "country": "India",
+  "pincode": "452001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.486,
+  "longitude": 76.085,
+  "landmark": "Indore Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Indore, India",
+  "population": 5776491,
+  "mobileUsers": 4268826,
+  "internetUsers": 3286823,
+  "genderRatioText": "934 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹10.02L per annum",
+  "activeMobileDevices": 6700729,
+  "mobilePenetration": 73.9,
+  "internetPenetration": 56.9,
+  "maleCount": 2986446,
+  "femaleCount": 2790045,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thuckalay",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "thuckalay",
+      "distance": 31.499097277791343
+    },
+    {
+      "city": "Madras GPO",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "madras-gpo",
+      "distance": 56.20281578290353
+    },
+    {
+      "city": "Mandgaon G.P.O",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "mandgaon-gpo",
+      "distance": 61.90078653945559
+    },
+    {
+      "city": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "mandsaur",
+      "distance": 66.28831617485496
+    },
+    {
+      "city": "Ambalmukal",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "ambalmukal",
+      "distance": 73.83129055239995
+    }
+  ],
+  "geohash": "tdqher5",
+  "geohashUrl": "https://geohash.softeng.co/tdqher5"
+}

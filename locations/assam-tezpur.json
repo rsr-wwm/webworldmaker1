@@ -1,0 +1,82 @@
+{
+  "id": "assam-tezpur",
+  "city": "Tezpur",
+  "state": "Assam",
+  "stateSlug": "assam",
+  "citySlug": "tezpur",
+  "country": "India",
+  "pincode": "784001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.3907,
+  "longitude": 73.1018,
+  "landmark": "Tezpur State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tezpur, India",
+  "population": 3501425,
+  "mobileUsers": 2531530,
+  "internetUsers": 2090350,
+  "genderRatioText": "939 females per 1,000 males",
+  "malePercentage": 51.6,
+  "femalePercentage": 48.4,
+  "averageIncome": "₹7.08L per annum",
+  "activeMobileDevices": 3781539,
+  "mobilePenetration": 72.3,
+  "internetPenetration": 59.7,
+  "maleCount": 1806735,
+  "femaleCount": 1694690,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Moirang",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "moirang",
+      "distance": 43.0675674485131
+    },
+    {
+      "city": "Davangere",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "davangere",
+      "distance": 67.20901269446082
+    },
+    {
+      "city": "Vijay nagar",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "vijay-nagar",
+      "distance": 91.68954054746709
+    },
+    {
+      "city": "St.Thomas Mount",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "stthomas-mount",
+      "distance": 103.02954255909476
+    },
+    {
+      "city": "Shabroom",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "shabroom",
+      "distance": 104.09740487479851
+    }
+  ],
+  "geohash": "ts7fz2p",
+  "geohashUrl": "https://geohash.softeng.co/ts7fz2p"
+}

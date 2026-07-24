@@ -1,0 +1,81 @@
+{
+  "id": "limassol-district-limassol",
+  "city": "Limassol",
+  "state": "Limassol District",
+  "stateSlug": "limassol-district",
+  "citySlug": "limassol",
+  "country": "Cyprus",
+  "pincode": "3010",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / OCECPR",
+  "carriers": [
+    "Cyta",
+    "Epic",
+    "Cablenet"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+357",
+  "timezone": "Asia/Famagusta",
+  "latitude": 35.0299,
+  "longitude": 33.1352,
+  "landmark": "Limassol Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over Cyta networks. Failovers route over Epic, Cablenet with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Limassol, Cyprus",
+  "population": 728964,
+  "mobileUsers": 565676,
+  "internetUsers": 499340,
+  "genderRatioText": "974 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "€67,765 per annum",
+  "activeMobileDevices": 933073,
+  "mobilePenetration": 77.6,
+  "internetPenetration": 68.5,
+  "maleCount": 369585,
+  "femaleCount": 359379,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Nicosia",
+      "state": "Nicosia District",
+      "stateSlug": "nicosia-district",
+      "citySlug": "nicosia",
+      "distance": 23.86974134450856
+    },
+    {
+      "city": "Beirut",
+      "state": "Beirut Governorate",
+      "stateSlug": "beirut-governorate",
+      "citySlug": "beirut",
+      "distance": 281.18880234033077
+    },
+    {
+      "city": "Tel Aviv",
+      "state": "Tel Aviv District",
+      "stateSlug": "tel-aviv-district",
+      "citySlug": "tel-aviv",
+      "distance": 401.1207777463008
+    },
+    {
+      "city": "Ashdod",
+      "state": "Southern District",
+      "stateSlug": "southern-district",
+      "citySlug": "ashdod",
+      "distance": 401.4785313392028
+    },
+    {
+      "city": "Ramallah",
+      "state": "West Bank",
+      "stateSlug": "west-bank",
+      "citySlug": "ramallah",
+      "distance": 403.80926221083547
+    }
+  ],
+  "geohash": "swpx60b",
+  "geohashUrl": "https://geohash.softeng.co/swpx60b"
+}

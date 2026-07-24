@@ -1,0 +1,82 @@
+{
+  "id": "tripura-kamalpur",
+  "city": "Kamalpur",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "kamalpur",
+  "country": "India",
+  "pincode": "799285",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.7845,
+  "longitude": 76.5747,
+  "landmark": "Kamalpur Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kamalpur, India",
+  "population": 2543025,
+  "mobileUsers": 1886924,
+  "internetUsers": 1411378,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹6.89L per annum",
+  "activeMobileDevices": 2619315,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 55.5,
+  "maleCount": 1324916,
+  "femaleCount": 1218109,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Dabhoi",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "dabhoi",
+      "distance": 87.84382868037552
+    },
+    {
+      "city": "Udupi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "udupi",
+      "distance": 98.58715570566575
+    },
+    {
+      "city": "Gangapur R.S",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "gangapur-rs",
+      "distance": 110.49262385305713
+    },
+    {
+      "city": "Cherrapunji",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "cherrapunji",
+      "distance": 114.15399752402082
+    },
+    {
+      "city": "Itanagar G.P.O",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "itanagar-gpo",
+      "distance": 114.2354789481878
+    }
+  ],
+  "geohash": "teq6y7x",
+  "geohashUrl": "https://geohash.softeng.co/teq6y7x"
+}

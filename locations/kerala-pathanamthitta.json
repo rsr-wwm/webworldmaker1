@@ -1,0 +1,82 @@
+{
+  "id": "kerala-pathanamthitta",
+  "city": "Pathanamthitta",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "pathanamthitta",
+  "country": "India",
+  "pincode": "689645",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.718,
+  "longitude": 80.9523,
+  "landmark": "Pathanamthitta Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Pathanamthitta, India",
+  "population": 3257688,
+  "mobileUsers": 2440008,
+  "internetUsers": 1775439,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹7.54L per annum",
+  "activeMobileDevices": 3616033,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 54.5,
+  "maleCount": 1667936,
+  "femaleCount": 1589752,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "hapur",
+      "distance": 57.673250043961026
+    },
+    {
+      "city": "Parleshwar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "parleshwar",
+      "distance": 67.18841676640992
+    },
+    {
+      "city": "Nalgonda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "nalgonda",
+      "distance": 88.56753998635747
+    },
+    {
+      "city": "Kalkalang",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "kalkalang",
+      "distance": 90.08297646328755
+    },
+    {
+      "city": "Ahmednagar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ahmednagar",
+      "distance": 100.45889002774481
+    }
+  ],
+  "geohash": "tc9x615",
+  "geohashUrl": "https://geohash.softeng.co/tc9x615"
+}

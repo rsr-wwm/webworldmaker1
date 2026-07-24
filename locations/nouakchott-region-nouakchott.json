@@ -1,0 +1,80 @@
+{
+  "id": "nouakchott-region-nouakchott",
+  "city": "Nouakchott",
+  "state": "Nouakchott Region",
+  "stateSlug": "nouakchott-region",
+  "citySlug": "nouakchott",
+  "country": "Mauritania",
+  "pincode": "00000",
+  "currency": "MRU",
+  "symbol": "UM",
+  "compliance": "ARE Rules",
+  "carriers": [
+    "Mauritel",
+    "Chinguitel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+222",
+  "timezone": "Africa/Nouakchott",
+  "latitude": 20.1195,
+  "longitude": -11.8502,
+  "landmark": "Nouakchott Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over Mauritel networks. Failovers route over Chinguitel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Nouakchott, Mauritania",
+  "population": 4694000,
+  "mobileUsers": 3797446,
+  "internetUsers": 3112121,
+  "genderRatioText": "1,001 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "UM35,790 MRU per annum",
+  "activeMobileDevices": 6430780,
+  "mobilePenetration": 80.9,
+  "internetPenetration": 66.3,
+  "maleCount": 2347000,
+  "femaleCount": 2347000,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Dakar",
+      "state": "Dakar Region",
+      "stateSlug": "dakar-region",
+      "citySlug": "dakar",
+      "distance": 700.1545299194889
+    },
+    {
+      "city": "Saint-Louis",
+      "state": "Saint-Louis Region",
+      "stateSlug": "saint-louis-region",
+      "citySlug": "saint-louis",
+      "distance": 703.7237344117963
+    },
+    {
+      "city": "Bamako",
+      "state": "Bamako Capital District",
+      "stateSlug": "bamako-capital-district",
+      "citySlug": "bamako",
+      "distance": 903.2308545485238
+    },
+    {
+      "city": "Banjul",
+      "state": "Greater Banjul Area",
+      "stateSlug": "greater-banjul-area",
+      "citySlug": "banjul",
+      "distance": 907.8313130996695
+    },
+    {
+      "city": "Bissau",
+      "state": "Bissau Sector",
+      "stateSlug": "bissau-sector",
+      "citySlug": "bissau",
+      "distance": 955.016147306183
+    }
+  ],
+  "geohash": "eexd6qd",
+  "geohashUrl": "https://geohash.softeng.co/eexd6qd"
+}

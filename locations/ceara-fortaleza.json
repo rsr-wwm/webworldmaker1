@@ -1,0 +1,81 @@
+{
+  "id": "ceara-fortaleza",
+  "city": "Fortaleza",
+  "state": "Ceara",
+  "stateSlug": "ceara",
+  "citySlug": "fortaleza",
+  "country": "Brazil",
+  "pincode": "60000-000",
+  "currency": "BRL",
+  "symbol": "R$",
+  "compliance": "ANATEL Rules",
+  "carriers": [
+    "Vivo",
+    "Claro",
+    "TIM"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+55",
+  "timezone": "America/Araguaina",
+  "latitude": -9.8025,
+  "longitude": -54.9731,
+  "landmark": "Fortaleza Civil Station Complex",
+  "carrierQuality": "Primary edge trunk terminated over Vivo networks. Failovers route over Claro, TIM with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Fortaleza, Brazil",
+  "population": 2888516,
+  "mobileUsers": 2625661,
+  "internetUsers": 2264596,
+  "genderRatioText": "997 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "R$30,174 BRL per annum",
+  "activeMobileDevices": 2917401,
+  "mobilePenetration": 90.9,
+  "internetPenetration": 78.4,
+  "maleCount": 1447147,
+  "femaleCount": 1441369,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Manaus",
+      "state": "Amazonas",
+      "stateSlug": "amazonas",
+      "citySlug": "manaus",
+      "distance": 8.79649923451474
+    },
+    {
+      "city": "Curitiba",
+      "state": "Parana",
+      "stateSlug": "parana",
+      "citySlug": "curitiba",
+      "distance": 9.192237968215528
+    },
+    {
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro State",
+      "stateSlug": "rio-de-janeiro-state",
+      "citySlug": "rio-de-janeiro",
+      "distance": 15.860034750446609
+    },
+    {
+      "city": "Salvador",
+      "state": "Bahia",
+      "stateSlug": "bahia",
+      "citySlug": "salvador",
+      "distance": 21.418118690902755
+    },
+    {
+      "city": "São Paulo",
+      "state": "São Paulo State",
+      "stateSlug": "sao-paulo-state",
+      "citySlug": "sao-paulo",
+      "distance": 21.945516457581498
+    }
+  ],
+  "geohash": "6y2bjp9",
+  "geohashUrl": "https://geohash.softeng.co/6y2bjp9"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "missouri-st-louis",
+  "city": "St. Louis",
+  "state": "Missouri",
+  "stateSlug": "missouri",
+  "citySlug": "st-louis",
+  "country": "United States",
+  "pincode": "63101",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/Chicago",
+  "latitude": 32.8167,
+  "longitude": -88.0004,
+  "landmark": "St. Louis Railway Station Chowk Node",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for St. Louis, United States",
+  "population": 4917311,
+  "mobileUsers": 4720618,
+  "internetUsers": 4430497,
+  "genderRatioText": "961 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "$67,051 per annum",
+  "activeMobileDevices": 6343331,
+  "mobilePenetration": 96,
+  "internetPenetration": 90.1,
+  "maleCount": 2507829,
+  "femaleCount": 2409482,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Chicago",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "citySlug": "chicago",
+      "distance": 117.71220775895665
+    },
+    {
+      "city": "San Diego",
+      "state": "California",
+      "stateSlug": "california",
+      "citySlug": "san-diego",
+      "distance": 328.6313378438871
+    },
+    {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "stateSlug": "maryland",
+      "citySlug": "baltimore",
+      "distance": 333.37597109020777
+    },
+    {
+      "city": "Providence",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "citySlug": "providence",
+      "distance": 386.2735472032439
+    },
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "detroit",
+      "distance": 536.9566150040987
+    }
+  ],
+  "geohash": "djc6tw0",
+  "geohashUrl": "https://geohash.softeng.co/djc6tw0"
+}

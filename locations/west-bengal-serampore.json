@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-serampore",
+  "city": "Serampore",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "serampore",
+  "country": "India",
+  "pincode": "712201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.2939,
+  "longitude": 79.7053,
+  "landmark": "Serampore Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Serampore, India",
+  "population": 8735077,
+  "mobileUsers": 6638658,
+  "internetUsers": 5171165,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹8.74L per annum",
+  "activeMobileDevices": 10307390,
+  "mobilePenetration": 76,
+  "internetPenetration": 59.2,
+  "maleCount": 4550975,
+  "femaleCount": 4184102,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "New Grain Mandi (Kota)",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "new-grain-mandi-kota",
+      "distance": 49.85158887953057
+    },
+    {
+      "city": "Tuipang",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "tuipang",
+      "distance": 56.52295861847248
+    },
+    {
+      "city": "Chandragiri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chandragiri",
+      "distance": 59.36548923497616
+    },
+    {
+      "city": "Khojovai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "khojovai",
+      "distance": 64.9072639074143
+    },
+    {
+      "city": "Cossipore",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "cossipore",
+      "distance": 73.63979303876482
+    }
+  ],
+  "geohash": "tg0dmsr",
+  "geohashUrl": "https://geohash.softeng.co/tg0dmsr"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "liege-province-liege",
+  "city": "Liege",
+  "state": "Liege Province",
+  "stateSlug": "liege-province",
+  "citySlug": "liege",
+  "country": "Belgium",
+  "pincode": "4000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / BIPT",
+  "carriers": [
+    "Proximus",
+    "Orange",
+    "Telenet"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+32",
+  "timezone": "Europe/Brussels",
+  "latitude": 51.0197,
+  "longitude": 3.8227,
+  "landmark": "Liege Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over Proximus networks. Failovers route over Orange, Telenet with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Liege, Belgium",
+  "population": 3984980,
+  "mobileUsers": 3152119,
+  "internetUsers": 2745651,
+  "genderRatioText": "1,005 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "€42,999 per annum",
+  "activeMobileDevices": 5300023,
+  "mobilePenetration": 79.1,
+  "internetPenetration": 68.9,
+  "maleCount": 1988505,
+  "femaleCount": 1996475,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Ghent",
+      "state": "East Flanders",
+      "stateSlug": "east-flanders",
+      "citySlug": "ghent",
+      "distance": 3.4338573194947744
+    },
+    {
+      "city": "Brussels",
+      "state": "Brussels-Capital",
+      "stateSlug": "brussels-capital",
+      "citySlug": "brussels",
+      "distance": 17.95842475696881
+    },
+    {
+      "city": "Antwerp",
+      "state": "Antwerp Province",
+      "stateSlug": "antwerp-province",
+      "citySlug": "antwerp",
+      "distance": 23.24582079209791
+    },
+    {
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "stateSlug": "north-holland",
+      "citySlug": "amsterdam",
+      "distance": 204.45064279667298
+    },
+    {
+      "city": "Eindhoven",
+      "state": "North Brabant",
+      "stateSlug": "north-brabant",
+      "citySlug": "eindhoven",
+      "distance": 206.58099218192947
+    }
+  ],
+  "geohash": "u14dnzz",
+  "geohashUrl": "https://geohash.softeng.co/u14dnzz"
+}

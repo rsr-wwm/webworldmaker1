@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-tiruchendur",
+  "city": "Tiruchendur",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "tiruchendur",
+  "country": "India",
+  "pincode": "628215",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 15.6412,
+  "longitude": 73.5157,
+  "landmark": "Tiruchendur Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tiruchendur, India",
+  "population": 5152375,
+  "mobileUsers": 3853976,
+  "internetUsers": 2952310,
+  "genderRatioText": "943 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.72L per annum",
+  "activeMobileDevices": 5667612,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 57.3,
+  "maleCount": 2653473,
+  "femaleCount": 2498902,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kathali",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kathali",
+      "distance": 34.50446898685165
+    },
+    {
+      "city": "Vela",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "vela",
+      "distance": 43.597172803300516
+    },
+    {
+      "city": "Palakol",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "palakol",
+      "distance": 74.18502009349825
+    },
+    {
+      "city": "Banswara",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "banswara",
+      "distance": 82.82896747570449
+    },
+    {
+      "city": "Chhaindwara",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "chhaindwara",
+      "distance": 83.64400592465859
+    }
+  ],
+  "geohash": "tdu2bzk",
+  "geohashUrl": "https://geohash.softeng.co/tdu2bzk"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-palani",
+  "city": "Palani",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "palani",
+  "country": "India",
+  "pincode": "624601",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 31.8254,
+  "longitude": 76.6842,
+  "landmark": "Palani Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Palani, India",
+  "population": 503447,
+  "mobileUsers": 369026,
+  "internetUsers": 299047,
+  "genderRatioText": "923 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹9.03L per annum",
+  "activeMobileDevices": 563860,
+  "mobilePenetration": 73.3,
+  "internetPenetration": 59.4,
+  "maleCount": 261792,
+  "femaleCount": 241655,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Karad",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "karad",
+      "distance": 49.6207789183315
+    },
+    {
+      "city": "Paramakudi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "paramakudi",
+      "distance": 55.3144752234348
+    },
+    {
+      "city": "Daltonganj",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "daltonganj",
+      "distance": 73.04439990075804
+    },
+    {
+      "city": "Dharamnagar G.P.O",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "dharamnagar-gpo",
+      "distance": 75.18694199273045
+    },
+    {
+      "city": "Bhilwara",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bhilwara",
+      "distance": 77.35499432995438
+    }
+  ],
+  "geohash": "ttwt0cx",
+  "geohashUrl": "https://geohash.softeng.co/ttwt0cx"
+}

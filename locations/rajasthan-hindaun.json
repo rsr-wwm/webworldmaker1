@@ -1,0 +1,82 @@
+{
+  "id": "rajasthan-hindaun",
+  "city": "Hindaun",
+  "state": "Rajasthan",
+  "stateSlug": "rajasthan",
+  "citySlug": "hindaun",
+  "country": "India",
+  "pincode": "322230",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 141",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.7169,
+  "longitude": 84.1223,
+  "landmark": "Hindaun Telecom Exchange Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hindaun, India",
+  "population": 6907092,
+  "mobileUsers": 5311553,
+  "internetUsers": 4095905,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹7.65L per annum",
+  "activeMobileDevices": 8150368,
+  "mobilePenetration": 76.9,
+  "internetPenetration": 59.3,
+  "maleCount": 3619316,
+  "femaleCount": 3287776,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Nalbari",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nalbari",
+      "distance": 29.113687034488873
+    },
+    {
+      "city": "Aurangabad",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "aurangabad",
+      "distance": 38.151229228059705
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi",
+      "distance": 42.71621788523165
+    },
+    {
+      "city": "Raigarh",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "raigarh",
+      "distance": 55.3500713658683
+    },
+    {
+      "city": "Taran Taran",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "taran-taran",
+      "distance": 58.72161740362556
+    }
+  ],
+  "geohash": "tf7b65p",
+  "geohashUrl": "https://geohash.softeng.co/tf7b65p"
+}

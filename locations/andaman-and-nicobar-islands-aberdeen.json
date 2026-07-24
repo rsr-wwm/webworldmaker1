@@ -1,0 +1,82 @@
+{
+  "id": "andaman-and-nicobar-islands-aberdeen",
+  "city": "Aberdeen",
+  "state": "Andaman & Nicobar Islands",
+  "stateSlug": "andaman-and-nicobar-islands",
+  "citySlug": "aberdeen",
+  "country": "India",
+  "pincode": "744204",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.9401,
+  "longitude": 78.6505,
+  "landmark": "Aberdeen Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Aberdeen, India",
+  "population": 1924400,
+  "mobileUsers": 1468317,
+  "internetUsers": 1066117,
+  "genderRatioText": "921 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹9.39L per annum",
+  "activeMobileDevices": 1982132,
+  "mobilePenetration": 76.3,
+  "internetPenetration": 55.4,
+  "maleCount": 1002612,
+  "femaleCount": 921788,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bijapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bijapur",
+      "distance": 22.44756389980902
+    },
+    {
+      "city": "Yadagiri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "yadagiri",
+      "distance": 22.60788479550281
+    },
+    {
+      "city": "Kakching bazar",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "kakching-bazar",
+      "distance": 29.76465013581678
+    },
+    {
+      "city": "Koraput",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "koraput",
+      "distance": 58.695330169616675
+    },
+    {
+      "city": "Port Blair",
+      "state": "Andaman & Nicobar Islands",
+      "stateSlug": "andaman-and-nicobar-islands",
+      "citySlug": "port-blair",
+      "distance": 87.65857293271499
+    }
+  ],
+  "geohash": "t9zbt9x",
+  "geohashUrl": "https://geohash.softeng.co/t9zbt9x"
+}

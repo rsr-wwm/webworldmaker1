@@ -1,0 +1,82 @@
+{
+  "id": "punjab-faridkot",
+  "city": "Faridkot",
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "citySlug": "faridkot",
+  "country": "India",
+  "pincode": "151203",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.2656,
+  "longitude": 85.2342,
+  "landmark": "Faridkot Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Faridkot, India",
+  "population": 3319937,
+  "mobileUsers": 2483312,
+  "internetUsers": 1822645,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹8.92L per annum",
+  "activeMobileDevices": 3983924,
+  "mobilePenetration": 74.8,
+  "internetPenetration": 54.9,
+  "maleCount": 1719727,
+  "femaleCount": 1600210,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Madikeri",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "madikeri",
+      "distance": 30.767646307499128
+    },
+    {
+      "city": "Bayana",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "bayana",
+      "distance": 72.86437137247789
+    },
+    {
+      "city": "Chandmari",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "chandmari",
+      "distance": 73.21422112783048
+    },
+    {
+      "city": "Amritsar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "amritsar",
+      "distance": 92.45891691210349
+    },
+    {
+      "city": "Sidhi",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sidhi",
+      "distance": 101.23125499528432
+    }
+  ],
+  "geohash": "tuhs7e3",
+  "geohashUrl": "https://geohash.softeng.co/tuhs7e3"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-neemuch",
+  "city": "Neemuch",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "neemuch",
+  "country": "India",
+  "pincode": "458441",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 12.1467,
+  "longitude": 70.4517,
+  "landmark": "Neemuch Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Neemuch, India",
+  "population": 6426260,
+  "mobileUsers": 4742579,
+  "internetUsers": 3977854,
+  "genderRatioText": "941 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹7.45L per annum",
+  "activeMobileDevices": 6490522,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 61.9,
+  "maleCount": 3309524,
+  "femaleCount": 3116736,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Happy valley",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "happy-valley",
+      "distance": 51.954243451688725
+    },
+    {
+      "city": "Borholla",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "borholla",
+      "distance": 56.08845020174522
+    },
+    {
+      "city": "Tong",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "tong",
+      "distance": 60.3261206766834
+    },
+    {
+      "city": "Purulai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "purulai",
+      "distance": 72.61095747639288
+    },
+    {
+      "city": "Bhongir",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "bhongir",
+      "distance": 73.5787455427871
+    }
+  ],
+  "geohash": "td4j55j",
+  "geohashUrl": "https://geohash.softeng.co/td4j55j"
+}

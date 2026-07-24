@@ -1,0 +1,82 @@
+{
+  "id": "bihar-siwan",
+  "city": "Siwan",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "siwan",
+  "country": "India",
+  "pincode": "841226",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.2951,
+  "longitude": 78.1671,
+  "landmark": "Siwan Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Siwan, India",
+  "population": 7173353,
+  "mobileUsers": 5559348,
+  "internetUsers": 3909477,
+  "genderRatioText": "962 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹10.66L per annum",
+  "activeMobileDevices": 8608023,
+  "mobilePenetration": 77.5,
+  "internetPenetration": 54.5,
+  "maleCount": 3658410,
+  "femaleCount": 3514943,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Pauri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "pauri",
+      "distance": 23.057436838613583
+    },
+    {
+      "city": "Sango",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "sango",
+      "distance": 44.50215000416284
+    },
+    {
+      "city": "Murtizapur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "murtizapur",
+      "distance": 46.62126800130031
+    },
+    {
+      "city": "Kulokon",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "kulokon",
+      "distance": 60.20405304896757
+    },
+    {
+      "city": "Kalpett",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kalpett",
+      "distance": 72.12326065800103
+    }
+  ],
+  "geohash": "tdp868p",
+  "geohashUrl": "https://geohash.softeng.co/tdp868p"
+}

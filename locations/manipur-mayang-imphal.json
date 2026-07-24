@@ -1,0 +1,82 @@
+{
+  "id": "manipur-mayang-imphal",
+  "city": "Mayang Imphal",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "mayang-imphal",
+  "country": "India",
+  "pincode": "795132",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.7351,
+  "longitude": 87.9635,
+  "landmark": "Mayang Imphal Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Mayang Imphal, India",
+  "population": 1218901,
+  "mobileUsers": 888578,
+  "internetUsers": 659425,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹9.52L per annum",
+  "activeMobileDevices": 1340791,
+  "mobilePenetration": 72.9,
+  "internetPenetration": 54.1,
+  "maleCount": 624077,
+  "femaleCount": 594824,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Shrikalahasti",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "shrikalahasti",
+      "distance": 39.62159733742293
+    },
+    {
+      "city": "Shorapur",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shorapur",
+      "distance": 45.08539616996704
+    },
+    {
+      "city": "Mokokchung",
+      "state": "Nagaland",
+      "stateSlug": "nagaland",
+      "citySlug": "mokokchung",
+      "distance": 53.68532457957068
+    },
+    {
+      "city": "Tripuradam Chera",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "tripuradam-chera",
+      "distance": 57.015763578210596
+    },
+    {
+      "city": "Minicoy",
+      "state": "Lakshadweep",
+      "stateSlug": "lakshadweep",
+      "citySlug": "minicoy",
+      "distance": 65.88755733280153
+    }
+  ],
+  "geohash": "tfyx1wt",
+  "geohashUrl": "https://geohash.softeng.co/tfyx1wt"
+}

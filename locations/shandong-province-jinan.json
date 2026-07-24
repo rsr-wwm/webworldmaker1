@@ -1,0 +1,81 @@
+{
+  "id": "shandong-province-jinan",
+  "city": "Jinan",
+  "state": "Shandong Province",
+  "stateSlug": "shandong-province",
+  "citySlug": "jinan",
+  "country": "China",
+  "pincode": "250000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 34.8646,
+  "longitude": 105.0054,
+  "landmark": "Jinan Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Jinan, China",
+  "population": 4527220,
+  "mobileUsers": 4124297,
+  "internetUsers": 3128309,
+  "genderRatioText": "991 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "¥39,085 CNY per annum",
+  "activeMobileDevices": 5387391,
+  "mobilePenetration": 91.1,
+  "internetPenetration": 69.1,
+  "maleCount": 2272664,
+  "femaleCount": 2254556,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Nanjing",
+      "state": "Jiangsu Province",
+      "stateSlug": "jiangsu-province",
+      "citySlug": "nanjing",
+      "distance": 5.342068194383715
+    },
+    {
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou",
+      "distance": 5.47055225285977
+    },
+    {
+      "city": "Chengdu",
+      "state": "Sichuan Province",
+      "stateSlug": "sichuan-province",
+      "citySlug": "chengdu",
+      "distance": 6.043506995967003
+    },
+    {
+      "city": "Hohhot",
+      "state": "Inner Mongolia",
+      "stateSlug": "inner-mongolia",
+      "citySlug": "hohhot",
+      "distance": 8.818103851740629
+    },
+    {
+      "city": "Xiamen",
+      "state": "Fujian Province",
+      "stateSlug": "fujian-province",
+      "citySlug": "xiamen",
+      "distance": 8.989755273633886
+    }
+  ],
+  "geohash": "wq4wm6y",
+  "geohashUrl": "https://geohash.softeng.co/wq4wm6y"
+}

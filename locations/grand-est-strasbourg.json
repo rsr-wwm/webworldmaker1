@@ -1,0 +1,82 @@
+{
+  "id": "grand-est-strasbourg",
+  "city": "Strasbourg",
+  "state": "Grand Est",
+  "stateSlug": "grand-est",
+  "citySlug": "strasbourg",
+  "country": "France",
+  "pincode": "67000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / ARCEP",
+  "carriers": [
+    "Orange",
+    "SFR",
+    "Bouygues",
+    "Free Mobile"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+33 1",
+  "timezone": "Europe/Paris",
+  "latitude": 16.2954,
+  "longitude": -99.3565,
+  "landmark": "Strasbourg Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Strasbourg, France",
+  "population": 1042352,
+  "mobileUsers": 991276,
+  "internetUsers": 999615,
+  "genderRatioText": "989 females per 1,000 males",
+  "malePercentage": 50.3,
+  "femalePercentage": 49.7,
+  "averageIncome": "€50,598 per annum",
+  "activeMobileDevices": 1417598,
+  "mobilePenetration": 95.1,
+  "internetPenetration": 95.9,
+  "maleCount": 524303,
+  "femaleCount": 518049,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "GDPR compliance & ICO registrations",
+  "nearbyLocations": [
+    {
+      "city": "Juarez",
+      "state": "Chihuahua",
+      "stateSlug": "chihuahua",
+      "citySlug": "juarez",
+      "distance": 775.5515032195632
+    },
+    {
+      "city": "Torreon",
+      "state": "Coahuila",
+      "stateSlug": "coahuila",
+      "citySlug": "torreon",
+      "distance": 777.7999975512532
+    },
+    {
+      "city": "Tijuana",
+      "state": "Baja California",
+      "stateSlug": "baja-california",
+      "citySlug": "tijuana",
+      "distance": 778.7997140426143
+    },
+    {
+      "city": "Leon",
+      "state": "Guanajuato",
+      "stateSlug": "guanajuato",
+      "citySlug": "leon",
+      "distance": 782.3883856471879
+    },
+    {
+      "city": "Toluca",
+      "state": "State of Mexico",
+      "stateSlug": "state-of-mexico",
+      "citySlug": "toluca",
+      "distance": 782.4958901560261
+    }
+  ],
+  "geohash": "9fcken6",
+  "geohashUrl": "https://geohash.softeng.co/9fcken6"
+}

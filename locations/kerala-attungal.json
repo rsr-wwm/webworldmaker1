@@ -1,0 +1,82 @@
+{
+  "id": "kerala-attungal",
+  "city": "Attungal",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "attungal",
+  "country": "India",
+  "pincode": "695101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.3931,
+  "longitude": 83.0745,
+  "landmark": "Attungal Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Attungal, India",
+  "population": 4954698,
+  "mobileUsers": 3854755,
+  "internetUsers": 3017411,
+  "genderRatioText": "949 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "₹8.94L per annum",
+  "activeMobileDevices": 5499714,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 60.9,
+  "maleCount": 2541760,
+  "femaleCount": 2412938,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chaibasa",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "chaibasa",
+      "distance": 45.47275599387704
+    },
+    {
+      "city": "Taran Taran",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "taran-taran",
+      "distance": 77.7660109274528
+    },
+    {
+      "city": "Kulashekar",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "kulashekar",
+      "distance": 98.09311786237328
+    },
+    {
+      "city": "Aurangabad",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "aurangabad",
+      "distance": 105.17196525487404
+    },
+    {
+      "city": "Warangal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "warangal",
+      "distance": 108.76671831227739
+    }
+  ],
+  "geohash": "tf7h4qj",
+  "geohashUrl": "https://geohash.softeng.co/tf7h4qj"
+}

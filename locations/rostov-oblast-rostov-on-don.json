@@ -1,0 +1,82 @@
+{
+  "id": "rostov-oblast-rostov-on-don",
+  "city": "Rostov-on-Don",
+  "state": "Rostov Oblast",
+  "stateSlug": "rostov-oblast",
+  "citySlug": "rostov-on-don",
+  "country": "Russia",
+  "pincode": "344000",
+  "currency": "RUB",
+  "symbol": "₽",
+  "compliance": "Roskomnadzor Rules",
+  "carriers": [
+    "MTS",
+    "MegaFon",
+    "Beeline",
+    "Tele2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+7",
+  "timezone": "Asia/Anadyr",
+  "latitude": 60.0339,
+  "longitude": 100.0404,
+  "landmark": "Rostov-on-Don Industrial Growth Center",
+  "carrierQuality": "Primary edge trunk terminated over MTS networks. Failovers route over MegaFon, Beeline, Tele2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Rostov-on-Don, Russia",
+  "population": 2010943,
+  "mobileUsers": 1781695,
+  "internetUsers": 1482064,
+  "genderRatioText": "981 females per 1,000 males",
+  "malePercentage": 50.5,
+  "femalePercentage": 49.5,
+  "averageIncome": "₽28,246 RUB per annum",
+  "activeMobileDevices": 2031052,
+  "mobilePenetration": 88.6,
+  "internetPenetration": 73.7,
+  "maleCount": 1015526,
+  "femaleCount": 995417,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Vladivostok",
+      "state": "Primorsky Krai",
+      "stateSlug": "primorsky-krai",
+      "citySlug": "vladivostok",
+      "distance": 5.606048020849784
+    },
+    {
+      "city": "Samara",
+      "state": "Samara Oblast",
+      "stateSlug": "samara-oblast",
+      "citySlug": "samara",
+      "distance": 5.89305997188213
+    },
+    {
+      "city": "St. Petersburg",
+      "state": "Leningrad Oblast",
+      "stateSlug": "leningrad-oblast",
+      "citySlug": "st-petersburg",
+      "distance": 11.220507908827853
+    },
+    {
+      "city": "Yekaterinburg",
+      "state": "Sverdlovsk Oblast",
+      "stateSlug": "sverdlovsk-oblast",
+      "citySlug": "yekaterinburg",
+      "distance": 11.355602632612852
+    },
+    {
+      "city": "Novosibirsk",
+      "state": "Novosibirsk Oblast",
+      "stateSlug": "novosibirsk-oblast",
+      "citySlug": "novosibirsk",
+      "distance": 11.721627686049292
+    }
+  ],
+  "geohash": "y4xjs2z",
+  "geohashUrl": "https://geohash.softeng.co/y4xjs2z"
+}

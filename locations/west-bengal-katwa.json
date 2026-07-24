@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-katwa",
+  "city": "Katwa",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "katwa",
+  "country": "India",
+  "pincode": "713130",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.0722,
+  "longitude": 88.0262,
+  "landmark": "Katwa GPO Circle Square",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Katwa, India",
+  "population": 1808205,
+  "mobileUsers": 1383276,
+  "internetUsers": 996320,
+  "genderRatioText": "945 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹7.26L per annum",
+  "activeMobileDevices": 1898615,
+  "mobilePenetration": 76.5,
+  "internetPenetration": 55.1,
+  "maleCount": 929417,
+  "femaleCount": 878788,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Station Kachiguda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "station-kachiguda",
+      "distance": 39.40524332107168
+    },
+    {
+      "city": "Lightmukhra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "lightmukhra",
+      "distance": 57.72109742321782
+    },
+    {
+      "city": "Arakkonam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "arakkonam",
+      "distance": 67.2413363272823
+    },
+    {
+      "city": "Nagaon (Nowgong)",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nagaon-nowgong",
+      "distance": 81.8036931570942
+    },
+    {
+      "city": "Senapati",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "senapati",
+      "distance": 98.22261900458363
+    }
+  ],
+  "geohash": "tvqe546",
+  "geohashUrl": "https://geohash.softeng.co/tvqe546"
+}

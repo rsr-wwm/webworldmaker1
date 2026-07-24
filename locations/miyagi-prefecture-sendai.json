@@ -1,0 +1,81 @@
+{
+  "id": "miyagi-prefecture-sendai",
+  "city": "Sendai",
+  "state": "Miyagi Prefecture",
+  "stateSlug": "miyagi-prefecture",
+  "citySlug": "sendai",
+  "country": "Japan",
+  "pincode": "980-0811",
+  "currency": "JPY",
+  "symbol": "¥",
+  "compliance": "MIC Telecommunications Act",
+  "carriers": [
+    "NTT Docomo",
+    "KDDI",
+    "SoftBank"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+81 3",
+  "timezone": "Asia/Tokyo",
+  "latitude": 38.2677554,
+  "longitude": 140.8691498,
+  "landmark": "Sendai Telecom Exchange Square",
+  "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Sendai, Japan",
+  "population": 2035495,
+  "mobileUsers": 1978501,
+  "internetUsers": 1947968,
+  "genderRatioText": "1,006 females per 1,000 males",
+  "malePercentage": 49.9,
+  "femalePercentage": 50.1,
+  "averageIncome": "¥28,315 JPY per annum",
+  "activeMobileDevices": 2707208,
+  "mobilePenetration": 97.2,
+  "internetPenetration": 95.7,
+  "maleCount": 1015712,
+  "femaleCount": 1019783,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Niigata",
+      "state": "Niigata Prefecture",
+      "stateSlug": "niigata-prefecture",
+      "citySlug": "niigata",
+      "distance": 165.06705213225442
+    },
+    {
+      "city": "Saitama",
+      "state": "Saitama Prefecture",
+      "stateSlug": "saitama-prefecture",
+      "citySlug": "saitama",
+      "distance": 288.73045917403925
+    },
+    {
+      "city": "Tokyo",
+      "state": "Tokyo Metropolis",
+      "stateSlug": "tokyo-metropolis",
+      "citySlug": "tokyo",
+      "distance": 304.35923356140637
+    },
+    {
+      "city": "Yokohama",
+      "state": "Kanagawa Prefecture",
+      "stateSlug": "kanagawa-prefecture",
+      "citySlug": "yokohama",
+      "distance": 331.97515404650585
+    },
+    {
+      "city": "Shizuoka",
+      "state": "Shizuoka Prefecture",
+      "stateSlug": "shizuoka-prefecture",
+      "citySlug": "shizuoka",
+      "distance": 428.0464136403435
+    }
+  ],
+  "geohash": "xnu1tw3",
+  "geohashUrl": "https://geohash.softeng.co/xnu1tw3"
+}

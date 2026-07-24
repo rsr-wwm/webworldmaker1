@@ -1,0 +1,82 @@
+{
+  "id": "maharashtra-chalisgaon",
+  "city": "Chalisgaon",
+  "state": "Maharashtra",
+  "stateSlug": "maharashtra",
+  "citySlug": "chalisgaon",
+  "country": "India",
+  "pincode": "424101",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 22",
+  "timezone": "Asia/Kolkata",
+  "latitude": 28.5824,
+  "longitude": 77.5993,
+  "landmark": "Chalisgaon Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Chalisgaon, India",
+  "population": 9540189,
+  "mobileUsers": 7307784,
+  "internetUsers": 5161242,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹9.26L per annum",
+  "activeMobileDevices": 10780413,
+  "mobilePenetration": 76.6,
+  "internetPenetration": 54.1,
+  "maleCount": 4903657,
+  "femaleCount": 4636532,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Laheriasarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "laheriasarai",
+      "distance": 48.46264505843628
+    },
+    {
+      "city": "Nahan",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "nahan",
+      "distance": 58.3675070615406
+    },
+    {
+      "city": "Anna Road",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "anna-road",
+      "distance": 68.94394172205146
+    },
+    {
+      "city": "Shahabad",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "shahabad",
+      "distance": 83.94573215314034
+    },
+    {
+      "city": "Nasirabad",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "nasirabad",
+      "distance": 96.71959455797433
+    }
+  ],
+  "geohash": "ttp4tg6",
+  "geohashUrl": "https://geohash.softeng.co/ttp4tg6"
+}

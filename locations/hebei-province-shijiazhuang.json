@@ -1,0 +1,81 @@
+{
+  "id": "hebei-province-shijiazhuang",
+  "city": "Shijiazhuang",
+  "state": "Hebei Province",
+  "stateSlug": "hebei-province",
+  "citySlug": "shijiazhuang",
+  "country": "China",
+  "pincode": "050000",
+  "currency": "CNY",
+  "symbol": "¥",
+  "compliance": "MIIT Regulations",
+  "carriers": [
+    "China Mobile",
+    "China Unicom",
+    "China Telecom"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+86",
+  "timezone": "Asia/Shanghai",
+  "latitude": 35.1944,
+  "longitude": 105.0222,
+  "landmark": "Shijiazhuang District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Shijiazhuang, China",
+  "population": 4980637,
+  "mobileUsers": 4582186,
+  "internetUsers": 3446600,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "¥24,417 CNY per annum",
+  "activeMobileDevices": 5379087,
+  "mobilePenetration": 92,
+  "internetPenetration": 69.2,
+  "maleCount": 2535144,
+  "femaleCount": 2445493,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Harbin",
+      "state": "Heilongjiang Province",
+      "stateSlug": "heilongjiang-province",
+      "citySlug": "harbin",
+      "distance": 1.3889285978692536
+    },
+    {
+      "city": "Kunming",
+      "state": "Yunnan Province",
+      "stateSlug": "yunnan-province",
+      "citySlug": "kunming",
+      "distance": 5.4546418328057245
+    },
+    {
+      "city": "Zhengzhou",
+      "state": "Henan Province",
+      "stateSlug": "henan-province",
+      "citySlug": "zhengzhou",
+      "distance": 5.888329833639754
+    },
+    {
+      "city": "Beijing",
+      "state": "Beijing Municipality",
+      "stateSlug": "beijing-municipality",
+      "citySlug": "beijing",
+      "distance": 7.9841689398370885
+    },
+    {
+      "city": "Xian",
+      "state": "Shaanxi Province",
+      "stateSlug": "shaanxi-province",
+      "citySlug": "xian",
+      "distance": 9.14869106448923
+    }
+  ],
+  "geohash": "wq68jyf",
+  "geohashUrl": "https://geohash.softeng.co/wq68jyf"
+}

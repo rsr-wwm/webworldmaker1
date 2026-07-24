@@ -1,0 +1,81 @@
+{
+  "id": "ohio-columbus",
+  "city": "Columbus",
+  "state": "Ohio",
+  "stateSlug": "ohio",
+  "citySlug": "columbus",
+  "country": "United States",
+  "pincode": "43201",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "10DLC / FCC",
+  "carriers": [
+    "Verizon",
+    "T-Mobile",
+    "AT&T"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 202",
+  "timezone": "America/Chicago",
+  "latitude": 40.823,
+  "longitude": -86.1877,
+  "landmark": "Columbus Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Columbus, United States",
+  "population": 3950589,
+  "mobileUsers": 3674047,
+  "internetUsers": 3512073,
+  "genderRatioText": "963 females per 1,000 males",
+  "malePercentage": 50.9,
+  "femalePercentage": 49.1,
+  "averageIncome": "$100,166 per annum",
+  "activeMobileDevices": 4938236,
+  "mobilePenetration": 93,
+  "internetPenetration": 88.9,
+  "maleCount": 2010850,
+  "femaleCount": 1939739,
+  "industryFocus": "SaaS Platforms, Professional Services, Healthcare Tech, & Retail",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
+  "nearbyLocations": [
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "citySlug": "charlotte",
+      "distance": 169.49433778707615
+    },
+    {
+      "city": "Memphis",
+      "state": "Tennessee",
+      "stateSlug": "tennessee",
+      "citySlug": "memphis",
+      "distance": 209.3687227061
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque",
+      "distance": 245.60946710164234
+    },
+    {
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor",
+      "distance": 312.67544717688816
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "stateSlug": "washington",
+      "citySlug": "seattle",
+      "distance": 339.07108063666556
+    }
+  ],
+  "geohash": "dp68nz8",
+  "geohashUrl": "https://geohash.softeng.co/dp68nz8"
+}

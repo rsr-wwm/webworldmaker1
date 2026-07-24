@@ -1,0 +1,82 @@
+{
+  "id": "kerala-karunagapally",
+  "city": "Karunagapally",
+  "state": "Kerala",
+  "stateSlug": "kerala",
+  "citySlug": "karunagapally",
+  "country": "India",
+  "pincode": "690518",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 471",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.2023,
+  "longitude": 68.9247,
+  "landmark": "Karunagapally District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Karunagapally, India",
+  "population": 1920829,
+  "mobileUsers": 1396442,
+  "internetUsers": 1188993,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹8.08L per annum",
+  "activeMobileDevices": 2093703,
+  "mobilePenetration": 72.7,
+  "internetPenetration": 61.9,
+  "maleCount": 979623,
+  "femaleCount": 941206,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Thane",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "thane",
+      "distance": 49.65803602407198
+    },
+    {
+      "city": "Srirangapatna",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "srirangapatna",
+      "distance": 55.212882128871335
+    },
+    {
+      "city": "Melakaveri",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "melakaveri",
+      "distance": 75.44548669723828
+    },
+    {
+      "city": "Madasa",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "madasa",
+      "distance": 75.91168326282843
+    },
+    {
+      "city": "Kovvur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kovvur",
+      "distance": 91.78215682471252
+    }
+  ],
+  "geohash": "te1p83t",
+  "geohashUrl": "https://geohash.softeng.co/te1p83t"
+}

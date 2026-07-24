@@ -1,0 +1,81 @@
+{
+  "id": "zagreb-city-zagreb",
+  "city": "Zagreb",
+  "state": "Zagreb City",
+  "stateSlug": "zagreb-city",
+  "citySlug": "zagreb",
+  "country": "Croatia",
+  "pincode": "10000",
+  "currency": "EUR",
+  "symbol": "€",
+  "compliance": "GDPR / HAKOM",
+  "carriers": [
+    "Hrvatski Telekom",
+    "A1",
+    "Telemach"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+385",
+  "timezone": "Europe/Zagreb",
+  "latitude": 45.2095,
+  "longitude": 15.6177,
+  "landmark": "Zagreb Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Hrvatski Telekom networks. Failovers route over A1, Telemach with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Zagreb, Croatia",
+  "population": 1921262,
+  "mobileUsers": 1565828,
+  "internetUsers": 1244977,
+  "genderRatioText": "952 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "€60,787 per annum",
+  "activeMobileDevices": 2324727,
+  "mobilePenetration": 81.5,
+  "internetPenetration": 64.8,
+  "maleCount": 983686,
+  "femaleCount": 937576,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Rijeka",
+      "state": "Primorje-Gorski Kotar",
+      "stateSlug": "primorje-gorski-kotar",
+      "citySlug": "rijeka",
+      "distance": 8.78879888822737
+    },
+    {
+      "city": "Split",
+      "state": "Split-Dalmatia",
+      "stateSlug": "split-dalmatia",
+      "citySlug": "split",
+      "distance": 23.029971238136614
+    },
+    {
+      "city": "Ljubljana",
+      "state": "Ljubljana Province",
+      "stateSlug": "ljubljana-province",
+      "citySlug": "ljubljana",
+      "distance": 114.97069931864642
+    },
+    {
+      "city": "Maribor",
+      "state": "Drava Statistical Region",
+      "stateSlug": "drava-statistical-region",
+      "citySlug": "maribor",
+      "distance": 118.98313589774418
+    },
+    {
+      "city": "Sarajevo",
+      "state": "Sarajevo Canton",
+      "stateSlug": "sarajevo-canton",
+      "citySlug": "sarajevo",
+      "distance": 221.4731403717936
+    }
+  ],
+  "geohash": "u2515qh",
+  "geohashUrl": "https://geohash.softeng.co/u2515qh"
+}

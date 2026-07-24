@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-arakkonam",
+  "city": "Arakkonam",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "arakkonam",
+  "country": "India",
+  "pincode": "631001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.4323,
+  "longitude": 87.4638,
+  "landmark": "Arakkonam Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Arakkonam, India",
+  "population": 545882,
+  "mobileUsers": 394126,
+  "internetUsers": 306785,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹9.63L per annum",
+  "activeMobileDevices": 545882,
+  "mobilePenetration": 72.2,
+  "internetPenetration": 56.2,
+  "maleCount": 280583,
+  "femaleCount": 265299,
+  "industryFocus": "SME Retail, Local Trade, Agro-processing & Small Manufacturing",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Katwa",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "katwa",
+      "distance": 67.2413363272823
+    },
+    {
+      "city": "Somdal",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "somdal",
+      "distance": 71.21100648639991
+    },
+    {
+      "city": "Station Kachiguda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "station-kachiguda",
+      "distance": 93.12803971307788
+    },
+    {
+      "city": "Nagaon (Nowgong)",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "nagaon-nowgong",
+      "distance": 103.96480146032194
+    },
+    {
+      "city": "Bokaro Steel City",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bokaro-steel-city",
+      "distance": 113.25755364204522
+    }
+  ],
+  "geohash": "tvqjnk1",
+  "geohashUrl": "https://geohash.softeng.co/tvqjnk1"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "calcutta-dabhoi",
+  "city": "Dabhoi",
+  "state": "Calcutta",
+  "stateSlug": "calcutta",
+  "citySlug": "dabhoi",
+  "country": "India",
+  "pincode": "391110",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.0658,
+  "longitude": 76.229,
+  "landmark": "Dabhoi Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Dabhoi, India",
+  "population": 6290374,
+  "mobileUsers": 4843587,
+  "internetUsers": 3554061,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹10.38L per annum",
+  "activeMobileDevices": 7233930,
+  "mobilePenetration": 77,
+  "internetPenetration": 56.5,
+  "maleCount": 3296156,
+  "femaleCount": 2994218,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Udupi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "udupi",
+      "distance": 12.92950163111936
+    },
+    {
+      "city": "Itanagar G.P.O",
+      "state": "Arunachal Pradesh",
+      "stateSlug": "arunachal-pradesh",
+      "citySlug": "itanagar-gpo",
+      "distance": 45.2451095420128
+    },
+    {
+      "city": "Kamalpur",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kamalpur",
+      "distance": 87.84382868037552
+    },
+    {
+      "city": "Dabki",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "dabki",
+      "distance": 90.78581689374333
+    },
+    {
+      "city": "Bharuch",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bharuch",
+      "distance": 93.10320955026452
+    }
+  ],
+  "geohash": "tenny8u",
+  "geohashUrl": "https://geohash.softeng.co/tenny8u"
+}

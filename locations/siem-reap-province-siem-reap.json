@@ -1,0 +1,81 @@
+{
+  "id": "siem-reap-province-siem-reap",
+  "city": "Siem Reap",
+  "state": "Siem Reap Province",
+  "stateSlug": "siem-reap-province",
+  "citySlug": "siem-reap",
+  "country": "Cambodia",
+  "pincode": "17000",
+  "currency": "KHR",
+  "symbol": "៛",
+  "compliance": "TRC Guidelines",
+  "carriers": [
+    "Smart",
+    "Cellcard",
+    "Metfone"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+855",
+  "timezone": "Asia/Phnom_Penh",
+  "latitude": 13.033,
+  "longitude": 105.1439,
+  "landmark": "Siem Reap State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Smart networks. Failovers route over Cellcard, Metfone with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Siem Reap, Cambodia",
+  "population": 3389867,
+  "mobileUsers": 2694944,
+  "internetUsers": 2284770,
+  "genderRatioText": "974 females per 1,000 males",
+  "malePercentage": 50.7,
+  "femalePercentage": 49.3,
+  "averageIncome": "៛36,416 KHR per annum",
+  "activeMobileDevices": 4576320,
+  "mobilePenetration": 79.5,
+  "internetPenetration": 67.4,
+  "maleCount": 1718663,
+  "femaleCount": 1671204,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Phnom Penh",
+      "state": "Phnom Penh Municipality",
+      "stateSlug": "phnom-penh-municipality",
+      "citySlug": "phnom-penh",
+      "distance": 3.4472311713060297
+    },
+    {
+      "city": "Sihanoukville",
+      "state": "Preah Sihanouk Province",
+      "stateSlug": "preah-sihanouk-province",
+      "citySlug": "sihanoukville",
+      "distance": 27.17213795304311
+    },
+    {
+      "city": "Danang",
+      "state": "South Central Coast",
+      "stateSlug": "south-central-coast",
+      "citySlug": "danang",
+      "distance": 424.24259992524094
+    },
+    {
+      "city": "Haiphong",
+      "state": "Red River Delta",
+      "stateSlug": "red-river-delta",
+      "citySlug": "haiphong",
+      "distance": 436.8402796955449
+    },
+    {
+      "city": "Hanoi",
+      "state": "Hanoi Capital",
+      "stateSlug": "hanoi-capital",
+      "citySlug": "hanoi",
+      "distance": 437.3126118767346
+    }
+  ],
+  "geohash": "w66f0se",
+  "geohashUrl": "https://geohash.softeng.co/w66f0se"
+}

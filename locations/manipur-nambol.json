@@ -1,0 +1,82 @@
+{
+  "id": "manipur-nambol",
+  "city": "Nambol",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "nambol",
+  "country": "India",
+  "pincode": "795134",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.4072,
+  "longitude": 74.1136,
+  "landmark": "Nambol Metropolitan IT Corridor",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nambol, India",
+  "population": 3937294,
+  "mobileUsers": 2988406,
+  "internetUsers": 2244257,
+  "genderRatioText": "908 females per 1,000 males",
+  "malePercentage": 52.4,
+  "femalePercentage": 47.6,
+  "averageIncome": "₹9.30L per annum",
+  "activeMobileDevices": 4527888,
+  "mobilePenetration": 75.9,
+  "internetPenetration": 57,
+  "maleCount": 2063142,
+  "femaleCount": 1874152,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kandoli",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "kandoli",
+      "distance": 16.87274270329736
+    },
+    {
+      "city": "Morai",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "morai",
+      "distance": 47.89104423878903
+    },
+    {
+      "city": "Kulittalai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kulittalai",
+      "distance": 64.52835673620478
+    },
+    {
+      "city": "Gadwal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "gadwal",
+      "distance": 97.7089397030836
+    },
+    {
+      "city": "Thingdol",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "thingdol",
+      "distance": 117.82207771221162
+    }
+  ],
+  "geohash": "ttu8q7x",
+  "geohashUrl": "https://geohash.softeng.co/ttu8q7x"
+}

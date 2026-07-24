@@ -1,0 +1,82 @@
+{
+  "id": "tripura-kunjvan",
+  "city": "Kunjvan",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "kunjvan",
+  "country": "India",
+  "pincode": "799006",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 13.7165,
+  "longitude": 87.8163,
+  "landmark": "Kunjvan District Secretariat Enclave",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kunjvan, India",
+  "population": 3370480,
+  "mobileUsers": 2500896,
+  "internetUsers": 1843652,
+  "genderRatioText": "957 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹6.85L per annum",
+  "activeMobileDevices": 3876051,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 54.7,
+  "maleCount": 1722315,
+  "femaleCount": 1648165,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Basavanagudi",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "basavanagudi",
+      "distance": 5.683663467426038
+    },
+    {
+      "city": "Avanigadda",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "avanigadda",
+      "distance": 73.17639092699287
+    },
+    {
+      "city": "Nagpur G.P.O.",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur-gpo",
+      "distance": 73.72126361441414
+    },
+    {
+      "city": "Dhampur",
+      "state": "Goa",
+      "stateSlug": "goa",
+      "citySlug": "dhampur",
+      "distance": 80.26425957866084
+    },
+    {
+      "city": "Khambhalia",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "khambhalia",
+      "distance": 105.97727594888514
+    }
+  ],
+  "geohash": "tfqqn31",
+  "geohashUrl": "https://geohash.softeng.co/tfqqn31"
+}

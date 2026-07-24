@@ -1,0 +1,81 @@
+{
+  "id": "canton-of-vaud-lausanne",
+  "city": "Lausanne",
+  "state": "Canton of Vaud",
+  "stateSlug": "canton-of-vaud",
+  "citySlug": "lausanne",
+  "country": "Switzerland",
+  "pincode": "1000",
+  "currency": "CHF",
+  "symbol": "CHF",
+  "compliance": "Bakom Rules",
+  "carriers": [
+    "Swisscom",
+    "Sunrise",
+    "Salt"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+41",
+  "timezone": "Europe/Zurich",
+  "latitude": 47.0145,
+  "longitude": 7.8673,
+  "landmark": "Lausanne Old Town Fort Gate Road",
+  "carrierQuality": "Primary edge trunk terminated over Swisscom networks. Failovers route over Sunrise, Salt with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Lausanne, Switzerland",
+  "population": 2756627,
+  "mobileUsers": 2216328,
+  "internetUsers": 1813860,
+  "genderRatioText": "996 females per 1,000 males",
+  "malePercentage": 50.1,
+  "femalePercentage": 49.9,
+  "averageIncome": "CHF23,998 CHF per annum",
+  "activeMobileDevices": 3693880,
+  "mobilePenetration": 80.4,
+  "internetPenetration": 65.8,
+  "maleCount": 1381070,
+  "femaleCount": 1375557,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Zurich",
+      "state": "Canton of Zurich",
+      "stateSlug": "canton-of-zurich",
+      "citySlug": "zurich",
+      "distance": 9.084179223410796
+    },
+    {
+      "city": "Geneva",
+      "state": "Canton of Geneva",
+      "stateSlug": "canton-of-geneva",
+      "citySlug": "geneva",
+      "distance": 11.975731918442658
+    },
+    {
+      "city": "Bern",
+      "state": "Canton of Bern",
+      "stateSlug": "canton-of-bern",
+      "citySlug": "bern",
+      "distance": 13.925512835064199
+    },
+    {
+      "city": "Basel",
+      "state": "Canton of Basel-Stadt",
+      "stateSlug": "canton-of-basel-stadt",
+      "citySlug": "basel",
+      "distance": 15.401207085733768
+    },
+    {
+      "city": "Vaduz",
+      "state": "Vaduz Commune",
+      "stateSlug": "vaduz-commune",
+      "citySlug": "vaduz",
+      "distance": 128.12693287301093
+    }
+  ],
+  "geohash": "u0me7n8",
+  "geohashUrl": "https://geohash.softeng.co/u0me7n8"
+}

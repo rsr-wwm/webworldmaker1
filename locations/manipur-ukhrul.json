@@ -1,0 +1,82 @@
+{
+  "id": "manipur-ukhrul",
+  "city": "Ukhrul",
+  "state": "Manipur",
+  "stateSlug": "manipur",
+  "citySlug": "ukhrul",
+  "country": "India",
+  "pincode": "795142",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.5475,
+  "longitude": 82.789,
+  "landmark": "Ukhrul Industrial Growth Center",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Ukhrul, India",
+  "population": 5075927,
+  "mobileUsers": 3781565,
+  "internetUsers": 2959265,
+  "genderRatioText": "955 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "₹6.06L per annum",
+  "activeMobileDevices": 5431241,
+  "mobilePenetration": 74.5,
+  "internetPenetration": 58.3,
+  "maleCount": 2598875,
+  "femaleCount": 2477052,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ranaghat",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "ranaghat",
+      "distance": 35.1549875120313
+    },
+    {
+      "city": "Samastipur",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "samastipur",
+      "distance": 43.34630695179
+    },
+    {
+      "city": "Hoshiarpur",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "hoshiarpur",
+      "distance": 68.64149163968591
+    },
+    {
+      "city": "Gangtok",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "gangtok",
+      "distance": 95.26133540789628
+    },
+    {
+      "city": "Tinsukia",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tinsukia",
+      "distance": 107.21690695114366
+    }
+  ],
+  "geohash": "tgdugut",
+  "geohashUrl": "https://geohash.softeng.co/tgdugut"
+}

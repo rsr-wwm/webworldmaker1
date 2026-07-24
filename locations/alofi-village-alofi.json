@@ -1,0 +1,79 @@
+{
+  "id": "alofi-village-alofi",
+  "city": "Alofi",
+  "state": "Alofi Village",
+  "stateSlug": "alofi-village",
+  "citySlug": "alofi",
+  "country": "Niue",
+  "pincode": "9901",
+  "currency": "NZD",
+  "symbol": "$",
+  "compliance": "Telecom Niue Rules",
+  "carriers": [
+    "Telecom Niue"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+683",
+  "timezone": "Pacific/Niue",
+  "latitude": -19.1009,
+  "longitude": -170.0664,
+  "landmark": "Alofi Central Industrial Area Road",
+  "carrierQuality": "Primary edge trunk terminated over Telecom Niue networks. Failovers route over local regional carriers with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Alofi, Niue",
+  "population": 2902176,
+  "mobileUsers": 2315936,
+  "internetUsers": 1781936,
+  "genderRatioText": "1,001 females per 1,000 males",
+  "malePercentage": 50,
+  "femalePercentage": 50,
+  "averageIncome": "$40,058 NZD per annum",
+  "activeMobileDevices": 4034024,
+  "mobilePenetration": 79.8,
+  "internetPenetration": 61.4,
+  "maleCount": 1451088,
+  "femaleCount": 1451088,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Apia",
+      "state": "Tuamasaga",
+      "stateSlug": "tuamasaga",
+      "citySlug": "apia",
+      "distance": 646.5275365874867
+    },
+    {
+      "city": "Avarua",
+      "state": "Rarotonga Island",
+      "stateSlug": "rarotonga-island",
+      "citySlug": "avarua",
+      "distance": 1083.2399691974365
+    },
+    {
+      "city": "Papeete",
+      "state": "Tahiti Island",
+      "stateSlug": "tahiti-island",
+      "citySlug": "papeete",
+      "distance": 3233.763275879992
+    },
+    {
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "citySlug": "honolulu",
+      "distance": 7571.094071725834
+    },
+    {
+      "city": "Hartford",
+      "state": "Connecticut",
+      "stateSlug": "connecticut",
+      "citySlug": "hartford",
+      "distance": 7920.193000882758
+    }
+  ],
+  "geohash": "2hx564c",
+  "geohashUrl": "https://geohash.softeng.co/2hx564c"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "saint-louis-region-saint-louis",
+  "city": "Saint-Louis",
+  "state": "Saint-Louis Region",
+  "stateSlug": "saint-louis-region",
+  "citySlug": "saint-louis",
+  "country": "Senegal",
+  "pincode": "32000",
+  "currency": "XOF",
+  "symbol": "CFA",
+  "compliance": "ARTP Guidelines",
+  "carriers": [
+    "Orange",
+    "Free",
+    "Expresso"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+221",
+  "timezone": "Africa/Dakar",
+  "latitude": 14.1542,
+  "longitude": -14.0635,
+  "landmark": "Saint-Louis Metropolitan IT Corridor",
+  "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Free, Expresso with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Saint-Louis, Senegal",
+  "population": 3170375,
+  "mobileUsers": 2472892,
+  "internetUsers": 2057573,
+  "genderRatioText": "953 females per 1,000 males",
+  "malePercentage": 51.2,
+  "femalePercentage": 48.8,
+  "averageIncome": "CFA33,392 XOF per annum",
+  "activeMobileDevices": 3994672,
+  "mobilePenetration": 78,
+  "internetPenetration": 64.9,
+  "maleCount": 1623232,
+  "femaleCount": 1547143,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Dakar",
+      "state": "Dakar Region",
+      "stateSlug": "dakar-region",
+      "citySlug": "dakar",
+      "distance": 3.6146456963929636
+    },
+    {
+      "city": "Bissau",
+      "state": "Bissau Sector",
+      "stateSlug": "bissau-sector",
+      "citySlug": "bissau",
+      "distance": 253.38349525083262
+    },
+    {
+      "city": "Banjul",
+      "state": "Greater Banjul Area",
+      "stateSlug": "greater-banjul-area",
+      "citySlug": "banjul",
+      "distance": 291.7870689789868
+    },
+    {
+      "city": "Conakry",
+      "state": "Conakry Region",
+      "stateSlug": "conakry-region",
+      "citySlug": "conakry",
+      "distance": 549.7682226661768
+    },
+    {
+      "city": "Nouakchott",
+      "state": "Nouakchott Region",
+      "stateSlug": "nouakchott-region",
+      "citySlug": "nouakchott",
+      "distance": 703.7237344117963
+    }
+  ],
+  "geohash": "edtbxbx",
+  "geohashUrl": "https://geohash.softeng.co/edtbxbx"
+}

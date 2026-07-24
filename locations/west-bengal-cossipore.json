@@ -1,0 +1,82 @@
+{
+  "id": "west-bengal-cossipore",
+  "city": "Cossipore",
+  "state": "West Bengal",
+  "stateSlug": "west-bengal",
+  "citySlug": "cossipore",
+  "country": "India",
+  "pincode": "700002",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 17.6313,
+  "longitude": 80.3027,
+  "landmark": "Cossipore Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Cossipore, India",
+  "population": 5874037,
+  "mobileUsers": 4258676,
+  "internetUsers": 3254216,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹7.87L per annum",
+  "activeMobileDevices": 6050258,
+  "mobilePenetration": 72.5,
+  "internetPenetration": 55.4,
+  "maleCount": 3036877,
+  "femaleCount": 2837160,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Chandragiri",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "chandragiri",
+      "distance": 31.09705110116355
+    },
+    {
+      "city": "Rongra",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "rongra",
+      "distance": 40.63813480141323
+    },
+    {
+      "city": "Khojovai",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "khojovai",
+      "distance": 41.842349207083615
+    },
+    {
+      "city": "Mall",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "mall",
+      "distance": 65.86953797929327
+    },
+    {
+      "city": "Sagar Cantt.",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "sagar-cantt",
+      "distance": 65.91799287085617
+    }
+  ],
+  "geohash": "tg1h73d",
+  "geohashUrl": "https://geohash.softeng.co/tg1h73d"
+}

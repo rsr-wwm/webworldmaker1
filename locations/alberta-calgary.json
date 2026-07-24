@@ -1,0 +1,81 @@
+{
+  "id": "alberta-calgary",
+  "city": "Calgary",
+  "state": "Alberta",
+  "stateSlug": "alberta",
+  "citySlug": "calgary",
+  "country": "Canada",
+  "pincode": "T2P 2M5",
+  "currency": "CAD",
+  "symbol": "C$",
+  "compliance": "CRTC / CASL Guidelines",
+  "carriers": [
+    "Rogers",
+    "Bell",
+    "Telus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+1 416",
+  "timezone": "America/Toronto",
+  "latitude": 51.0456064,
+  "longitude": -114.057541,
+  "landmark": "Calgary District Secretariat Enclave",
+  "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Calgary, Canada",
+  "population": 2398264,
+  "mobileUsers": 2220792,
+  "internetUsers": 2158437,
+  "genderRatioText": "976 females per 1,000 males",
+  "malePercentage": 50.6,
+  "femalePercentage": 49.4,
+  "averageIncome": "C$25,965 CAD per annum",
+  "activeMobileDevices": 3333586,
+  "mobilePenetration": 92.6,
+  "internetPenetration": 90,
+  "maleCount": 1213522,
+  "femaleCount": 1184742,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Bulk SMS (10DLC)",
+  "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Edmonton",
+      "state": "Alberta",
+      "stateSlug": "alberta",
+      "citySlug": "edmonton",
+      "distance": 280.7056810466961
+    },
+    {
+      "city": "Kelowna",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "kelowna",
+      "distance": 405.7587326184001
+    },
+    {
+      "city": "Saskatoon",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "saskatoon",
+      "distance": 524.8352760771969
+    },
+    {
+      "city": "McAllen",
+      "state": "Texas",
+      "stateSlug": "texas",
+      "citySlug": "mcallen",
+      "distance": 539.0289396265068
+    },
+    {
+      "city": "Columbia",
+      "state": "South Carolina",
+      "stateSlug": "south-carolina",
+      "citySlug": "columbia",
+      "distance": 559.5753827412905
+    }
+  ],
+  "geohash": "c3nfks9",
+  "geohashUrl": "https://geohash.softeng.co/c3nfks9"
+}

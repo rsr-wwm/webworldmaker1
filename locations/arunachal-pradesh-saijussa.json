@@ -1,0 +1,82 @@
+{
+  "id": "arunachal-pradesh-saijussa",
+  "city": "Saijussa",
+  "state": "Arunachal Pradesh",
+  "stateSlug": "arunachal-pradesh",
+  "citySlug": "saijussa",
+  "country": "India",
+  "pincode": "790103",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 23.0245,
+  "longitude": 88.8686,
+  "landmark": "Saijussa Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Saijussa, India",
+  "population": 7382940,
+  "mobileUsers": 5743927,
+  "internetUsers": 4245190,
+  "genderRatioText": "940 females per 1,000 males",
+  "malePercentage": 51.5,
+  "femalePercentage": 48.5,
+  "averageIncome": "₹6.97L per annum",
+  "activeMobileDevices": 8195063,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 57.5,
+  "maleCount": 3802214,
+  "femaleCount": 3580726,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mulund",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mulund",
+      "distance": 37.63342650435333
+    },
+    {
+      "city": "Addanki",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "addanki",
+      "distance": 40.4775849246259
+    },
+    {
+      "city": "Bhusaval",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "bhusaval",
+      "distance": 64.54689166023283
+    },
+    {
+      "city": "Giridih",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "giridih",
+      "distance": 77.98862004828966
+    },
+    {
+      "city": "Contai",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "contai",
+      "distance": 91.22036287773015
+    }
+  ],
+  "geohash": "tup4yr2",
+  "geohashUrl": "https://geohash.softeng.co/tup4yr2"
+}

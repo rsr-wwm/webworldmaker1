@@ -1,0 +1,82 @@
+{
+  "id": "karnataka-tiptur",
+  "city": "Tiptur",
+  "state": "Karnataka",
+  "stateSlug": "karnataka",
+  "citySlug": "tiptur",
+  "country": "India",
+  "pincode": "572201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 80",
+  "timezone": "Asia/Kolkata",
+  "latitude": 32.5652,
+  "longitude": 71.786,
+  "landmark": "Tiptur Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Tiptur, India",
+  "population": 7136762,
+  "mobileUsers": 5566674,
+  "internetUsers": 3975176,
+  "genderRatioText": "947 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹10.99L per annum",
+  "activeMobileDevices": 8564114,
+  "mobilePenetration": 78,
+  "internetPenetration": 55.7,
+  "maleCount": 3668296,
+  "femaleCount": 3468466,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Cuddapah",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "cuddapah",
+      "distance": 35.78977458593302
+    },
+    {
+      "city": "Pune City",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "pune-city",
+      "distance": 40.528887905409135
+    },
+    {
+      "city": "Kaikalur",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kaikalur",
+      "distance": 65.99423315677538
+    },
+    {
+      "city": "Punalur",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "punalur",
+      "distance": 77.03583406701553
+    },
+    {
+      "city": "Mandi",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "mandi",
+      "distance": 97.62232934739443
+    }
+  ],
+  "geohash": "ttg1382",
+  "geohashUrl": "https://geohash.softeng.co/ttg1382"
+}

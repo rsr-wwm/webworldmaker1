@@ -1,0 +1,82 @@
+{
+  "id": "gujarat-valsad",
+  "city": "Valsad",
+  "state": "Gujarat",
+  "stateSlug": "gujarat",
+  "citySlug": "valsad",
+  "country": "India",
+  "pincode": "396001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 79",
+  "timezone": "Asia/Kolkata",
+  "latitude": 11.4251,
+  "longitude": 84.6473,
+  "landmark": "Valsad Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Valsad, India",
+  "population": 6488866,
+  "mobileUsers": 4788783,
+  "internetUsers": 3899808,
+  "genderRatioText": "932 females per 1,000 males",
+  "malePercentage": 51.8,
+  "femalePercentage": 48.2,
+  "averageIncome": "₹11.78L per annum",
+  "activeMobileDevices": 7527084,
+  "mobilePenetration": 73.8,
+  "internetPenetration": 60.1,
+  "maleCount": 3361233,
+  "femaleCount": 3127633,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Kayamkulam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kayamkulam",
+      "distance": 43.021383372112126
+    },
+    {
+      "city": "Namchi",
+      "state": "Sikkim",
+      "stateSlug": "sikkim",
+      "citySlug": "namchi",
+      "distance": 49.935306494628584
+    },
+    {
+      "city": "Kothgudem Collieries",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "kothgudem-collieries",
+      "distance": 60.782204298744496
+    },
+    {
+      "city": "Phagwara",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "phagwara",
+      "distance": 68.12064822176256
+    },
+    {
+      "city": "Bada bazar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "bada-bazar",
+      "distance": 77.80657586580989
+    }
+  ],
+  "geohash": "tfh0ypy",
+  "geohashUrl": "https://geohash.softeng.co/tfh0ypy"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "matabeleland-north-bulawayo",
+  "city": "Bulawayo",
+  "state": "Matabeleland North",
+  "stateSlug": "matabeleland-north",
+  "citySlug": "bulawayo",
+  "country": "Zimbabwe",
+  "pincode": "0000",
+  "currency": "USD",
+  "symbol": "$",
+  "compliance": "POTRAZ Guidelines",
+  "carriers": [
+    "Econet",
+    "NetOne",
+    "Telecel"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+263",
+  "timezone": "Africa/Harare",
+  "latitude": -19.8776,
+  "longitude": 29.9678,
+  "landmark": "Bulawayo State Highway Crossing Terminal",
+  "carrierQuality": "Primary edge trunk terminated over Econet networks. Failovers route over NetOne, Telecel with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Bulawayo, Zimbabwe",
+  "population": 2630143,
+  "mobileUsers": 2062032,
+  "internetUsers": 1678031,
+  "genderRatioText": "951 females per 1,000 males",
+  "malePercentage": 51.3,
+  "femalePercentage": 48.7,
+  "averageIncome": "$44,122 USD per annum",
+  "activeMobileDevices": 3340281,
+  "mobilePenetration": 78.4,
+  "internetPenetration": 63.8,
+  "maleCount": 1349263,
+  "femaleCount": 1280880,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Harare",
+      "state": "Harare Province",
+      "stateSlug": "harare-province",
+      "citySlug": "harare",
+      "distance": 32.289939776105165
+    },
+    {
+      "city": "Kitwe",
+      "state": "Copperbelt Province",
+      "stateSlug": "copperbelt-province",
+      "citySlug": "kitwe",
+      "distance": 529.0563017735112
+    },
+    {
+      "city": "Lusaka",
+      "state": "Lusaka Province",
+      "stateSlug": "lusaka-province",
+      "citySlug": "lusaka",
+      "distance": 549.9875558424907
+    },
+    {
+      "city": "Maputo",
+      "state": "Maputo City",
+      "stateSlug": "maputo-city",
+      "citySlug": "maputo",
+      "distance": 562.2423665192096
+    },
+    {
+      "city": "Gaborone",
+      "state": "South-East District",
+      "stateSlug": "south-east-district",
+      "citySlug": "gaborone",
+      "distance": 669.6225434584837
+    }
+  ],
+  "geohash": "ksmqcvm",
+  "geohashUrl": "https://geohash.softeng.co/ksmqcvm"
+}

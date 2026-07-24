@@ -1,0 +1,81 @@
+{
+  "id": "luang-prabang-province-luang-prabang",
+  "city": "Luang Prabang",
+  "state": "Luang Prabang Province",
+  "stateSlug": "luang-prabang-province",
+  "citySlug": "luang-prabang",
+  "country": "Laos",
+  "pincode": "06000",
+  "currency": "LAK",
+  "symbol": "₭",
+  "compliance": "MTC Guidelines",
+  "carriers": [
+    "Unitel",
+    "Lao Telecom",
+    "Tplus"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+856",
+  "timezone": "Asia/Vientiane",
+  "latitude": 17.9084,
+  "longitude": 104.985,
+  "landmark": "Luang Prabang Municipal Office Plaza",
+  "carrierQuality": "Primary edge trunk terminated over Unitel networks. Failovers route over Lao Telecom, Tplus with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Luang Prabang, Laos",
+  "population": 2400697,
+  "mobileUsers": 1949365,
+  "internetUsers": 1543648,
+  "genderRatioText": "969 females per 1,000 males",
+  "malePercentage": 50.8,
+  "femalePercentage": 49.2,
+  "averageIncome": "₭37,953 LAK per annum",
+  "activeMobileDevices": 3216933,
+  "mobilePenetration": 81.2,
+  "internetPenetration": 64.3,
+  "maleCount": 1219554,
+  "femaleCount": 1181143,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Vientiane",
+      "state": "Vientiane Prefecture",
+      "stateSlug": "vientiane-prefecture",
+      "citySlug": "vientiane",
+      "distance": 13.643524126483367
+    },
+    {
+      "city": "Can Tho",
+      "state": "Mekong Delta",
+      "stateSlug": "mekong-delta",
+      "citySlug": "can-tho",
+      "distance": 339.8004901490902
+    },
+    {
+      "city": "Danang",
+      "state": "South Central Coast",
+      "stateSlug": "south-central-coast",
+      "citySlug": "danang",
+      "distance": 353.87852617641795
+    },
+    {
+      "city": "Haiphong",
+      "state": "Red River Delta",
+      "stateSlug": "red-river-delta",
+      "citySlug": "haiphong",
+      "distance": 369.9560356480395
+    },
+    {
+      "city": "Hanoi",
+      "state": "Hanoi Capital",
+      "stateSlug": "hanoi-capital",
+      "citySlug": "hanoi",
+      "distance": 371.80981473440784
+    }
+  ],
+  "geohash": "w74tuup",
+  "geohashUrl": "https://geohash.softeng.co/w74tuup"
+}

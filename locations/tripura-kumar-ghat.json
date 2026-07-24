@@ -1,0 +1,82 @@
+{
+  "id": "tripura-kumar-ghat",
+  "city": "Kumar ghat",
+  "state": "Tripura",
+  "stateSlug": "tripura",
+  "citySlug": "kumar-ghat",
+  "country": "India",
+  "pincode": "799264",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 381",
+  "timezone": "Asia/Kolkata",
+  "latitude": 20.5941,
+  "longitude": 84.2908,
+  "landmark": "Kumar ghat State Highway Crossing Terminal",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Kumar ghat, India",
+  "population": 4427556,
+  "mobileUsers": 3316239,
+  "internetUsers": 2660961,
+  "genderRatioText": "933 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹8.07L per annum",
+  "activeMobileDevices": 5135964,
+  "mobilePenetration": 74.9,
+  "internetPenetration": 60.1,
+  "maleCount": 2289046,
+  "femaleCount": 2138510,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Ramdurg",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "ramdurg",
+      "distance": 44.78645383285483
+    },
+    {
+      "city": "Kurukshetra",
+      "state": "Haryana",
+      "stateSlug": "haryana",
+      "citySlug": "kurukshetra",
+      "distance": 60.5964185358385
+    },
+    {
+      "city": "Tinsukia",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "tinsukia",
+      "distance": 62.961132099077886
+    },
+    {
+      "city": "Allahabad Kacheri",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "allahabad-kacheri",
+      "distance": 73.70587040564814
+    },
+    {
+      "city": "Manughat",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "manughat",
+      "distance": 77.00967227764609
+    }
+  ],
+  "geohash": "tgevnj4",
+  "geohashUrl": "https://geohash.softeng.co/tgevnj4"
+}

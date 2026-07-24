@@ -1,0 +1,82 @@
+{
+  "id": "goa-santacruz",
+  "city": "Santacruz",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "santacruz",
+  "country": "India",
+  "pincode": "403005",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 27.8119,
+  "longitude": 85.3952,
+  "landmark": "Santacruz Old Town Fort Gate Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Santacruz, India",
+  "population": 9624212,
+  "mobileUsers": 7006426,
+  "internetUsers": 5524297,
+  "genderRatioText": "944 females per 1,000 males",
+  "malePercentage": 51.4,
+  "femalePercentage": 48.6,
+  "averageIncome": "₹8.08L per annum",
+  "activeMobileDevices": 11164085,
+  "mobilePenetration": 72.8,
+  "internetPenetration": 57.4,
+  "maleCount": 4946845,
+  "femaleCount": 4677367,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Gondia",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "gondia",
+      "distance": 69.19136798724728
+    },
+    {
+      "city": "Kozhikode",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kozhikode",
+      "distance": 70.28627941691182
+    },
+    {
+      "city": "Kallakurichi",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kallakurichi",
+      "distance": 83.95529932297146
+    },
+    {
+      "city": "Pali",
+      "state": "Rajasthan",
+      "stateSlug": "rajasthan",
+      "citySlug": "pali",
+      "distance": 101.53832720295222
+    },
+    {
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "ghaziabad",
+      "distance": 103.27177521630782
+    }
+  ],
+  "geohash": "tuuwppn",
+  "geohashUrl": "https://geohash.softeng.co/tuuwppn"
+}

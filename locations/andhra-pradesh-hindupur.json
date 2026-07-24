@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-hindupur",
+  "city": "Hindupur",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "hindupur",
+  "country": "India",
+  "pincode": "515201",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 21.7994,
+  "longitude": 77.4923,
+  "landmark": "Hindupur Civil Station Complex",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Hindupur, India",
+  "population": 3846503,
+  "mobileUsers": 2973346,
+  "internetUsers": 2223278,
+  "genderRatioText": "920 females per 1,000 males",
+  "malePercentage": 52.1,
+  "femalePercentage": 47.9,
+  "averageIncome": "₹11.74L per annum",
+  "activeMobileDevices": 4115758,
+  "mobilePenetration": 77.3,
+  "internetPenetration": 57.8,
+  "maleCount": 2004028,
+  "femaleCount": 1842475,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Balangir",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "balangir",
+      "distance": 31.189613252962204
+    },
+    {
+      "city": "Lalganj",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "lalganj",
+      "distance": 36.06475946973862
+    },
+    {
+      "city": "Guwahati University",
+      "state": "Assam",
+      "stateSlug": "assam",
+      "citySlug": "guwahati-university",
+      "distance": 46.494502571014316
+    },
+    {
+      "city": "Kailashahar",
+      "state": "Tripura",
+      "stateSlug": "tripura",
+      "citySlug": "kailashahar",
+      "distance": 66.39115686330392
+    },
+    {
+      "city": "Lunglei",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "lunglei",
+      "distance": 83.8211819355347
+    }
+  ],
+  "geohash": "tezh52k",
+  "geohashUrl": "https://geohash.softeng.co/tezh52k"
+}

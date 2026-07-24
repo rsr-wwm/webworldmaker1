@@ -1,0 +1,82 @@
+{
+  "id": "uttar-pradesh-akbarpur",
+  "city": "Akbarpur",
+  "state": "Uttar Pradesh",
+  "stateSlug": "uttar-pradesh",
+  "citySlug": "akbarpur",
+  "country": "India",
+  "pincode": "224122",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 522",
+  "timezone": "Asia/Kolkata",
+  "latitude": 30.4756,
+  "longitude": 79.0232,
+  "landmark": "Akbarpur Green Valley Digital Exchange",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Akbarpur, India",
+  "population": 1143253,
+  "mobileUsers": 830001,
+  "internetUsers": 668803,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹10.57L per annum",
+  "activeMobileDevices": 1349038,
+  "mobilePenetration": 72.6,
+  "internetPenetration": 58.5,
+  "maleCount": 584202,
+  "femaleCount": 559051,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Guntakal",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "guntakal",
+      "distance": 39.13178455390408
+    },
+    {
+      "city": "Mayiladuthurai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "mayiladuthurai",
+      "distance": 51.54284555753162
+    },
+    {
+      "city": "Vizianagaram",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "vizianagaram",
+      "distance": 64.54093807166853
+    },
+    {
+      "city": "Ahmedabad",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "ahmedabad",
+      "distance": 68.35269895421072
+    },
+    {
+      "city": "Chenganacherry",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "chenganacherry",
+      "distance": 86.73301110225552
+    }
+  ],
+  "geohash": "tv2jq5y",
+  "geohashUrl": "https://geohash.softeng.co/tv2jq5y"
+}

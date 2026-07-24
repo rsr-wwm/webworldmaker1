@@ -1,0 +1,82 @@
+{
+  "id": "bihar-muzaffarpur",
+  "city": "Muzaffarpur",
+  "state": "Bihar",
+  "stateSlug": "bihar",
+  "citySlug": "muzaffarpur",
+  "country": "India",
+  "pincode": "842001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 26.7821,
+  "longitude": 80.5695,
+  "landmark": "Muzaffarpur Techno Park Terminal Hub",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Muzaffarpur, India",
+  "population": 1414021,
+  "mobileUsers": 1035063,
+  "internetUsers": 815890,
+  "genderRatioText": "936 females per 1,000 males",
+  "malePercentage": 51.7,
+  "femalePercentage": 48.3,
+  "averageIncome": "₹11.11L per annum",
+  "activeMobileDevices": 1668544,
+  "mobilePenetration": 73.2,
+  "internetPenetration": 57.7,
+  "maleCount": 731049,
+  "femaleCount": 682972,
+  "industryFocus": "Manufacturing, Automotive, Agritech & Wholesale Trade",
+  "preferredChannel": "WhatsApp API",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "High: Integrating AI agents into customer support systems",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Bihar Shariff",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "bihar-shariff",
+      "distance": 17.41242160497593
+    },
+    {
+      "city": "Irinjalakuda",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "irinjalakuda",
+      "distance": 64.35006264829596
+    },
+    {
+      "city": "Kandi",
+      "state": "West Bengal",
+      "stateSlug": "west-bengal",
+      "citySlug": "kandi",
+      "distance": 74.00372612070996
+    },
+    {
+      "city": "Upling",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "upling",
+      "distance": 77.29860732962128
+    },
+    {
+      "city": "Tiruvalla",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "tiruvalla",
+      "distance": 81.3086825467119
+    }
+  ],
+  "geohash": "tuc237s",
+  "geohashUrl": "https://geohash.softeng.co/tuc237s"
+}

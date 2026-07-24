@@ -1,0 +1,82 @@
+{
+  "id": "andhra-pradesh-nalgonda",
+  "city": "Nalgonda",
+  "state": "Andhra Pradesh",
+  "stateSlug": "andhra-pradesh",
+  "citySlug": "nalgonda",
+  "country": "India",
+  "pincode": "508001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 866",
+  "timezone": "Asia/Kolkata",
+  "latitude": 9.8805,
+  "longitude": 81.7436,
+  "landmark": "Nalgonda Central Industrial Area Road",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Nalgonda, India",
+  "population": 8480912,
+  "mobileUsers": 6292836,
+  "internetUsers": 4969814,
+  "genderRatioText": "924 females per 1,000 males",
+  "malePercentage": 52,
+  "femalePercentage": 48,
+  "averageIncome": "₹10.88L per annum",
+  "activeMobileDevices": 8904957,
+  "mobilePenetration": 74.2,
+  "internetPenetration": 58.6,
+  "maleCount": 4410074,
+  "femaleCount": 4070838,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Hapur",
+      "state": "Uttar Pradesh",
+      "stateSlug": "uttar-pradesh",
+      "citySlug": "hapur",
+      "distance": 60.61513608747747
+    },
+    {
+      "city": "Ahmednagar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "ahmednagar",
+      "distance": 82.35385393518385
+    },
+    {
+      "city": "Pathanamthitta",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "pathanamthitta",
+      "distance": 88.56753998635747
+    },
+    {
+      "city": "Union Christian College",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "union-christian-college",
+      "distance": 110.95140471964568
+    },
+    {
+      "city": "Parleshwar",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "parleshwar",
+      "distance": 139.41420361481704
+    }
+  ],
+  "geohash": "tcf0hne",
+  "geohashUrl": "https://geohash.softeng.co/tcf0hne"
+}

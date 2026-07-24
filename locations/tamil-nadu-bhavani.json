@@ -1,0 +1,82 @@
+{
+  "id": "tamil-nadu-bhavani",
+  "city": "Bhavani",
+  "state": "Tamil Nadu",
+  "stateSlug": "tamil-nadu",
+  "citySlug": "bhavani",
+  "country": "India",
+  "pincode": "638301",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 44",
+  "timezone": "Asia/Kolkata",
+  "latitude": 24.2209,
+  "longitude": 87.5413,
+  "landmark": "Bhavani Commercial Market Circle",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Bhavani, India",
+  "population": 2523263,
+  "mobileUsers": 1902540,
+  "internetUsers": 1450876,
+  "genderRatioText": "958 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹6.79L per annum",
+  "activeMobileDevices": 2901752,
+  "mobilePenetration": 75.4,
+  "internetPenetration": 57.5,
+  "maleCount": 1289387,
+  "femaleCount": 1233876,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Begusarai",
+      "state": "Bihar",
+      "stateSlug": "bihar",
+      "citySlug": "begusarai",
+      "distance": 19.24306345212153
+    },
+    {
+      "city": "Nayagarh",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "nayagarh",
+      "distance": 29.298857950763505
+    },
+    {
+      "city": "Palel",
+      "state": "Manipur",
+      "stateSlug": "manipur",
+      "citySlug": "palel",
+      "distance": 52.94335346411337
+    },
+    {
+      "city": "Kottayam",
+      "state": "Kerala",
+      "stateSlug": "kerala",
+      "citySlug": "kottayam",
+      "distance": 56.99599886513676
+    },
+    {
+      "city": "Veraval",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "veraval",
+      "distance": 60.30201197862369
+    }
+  ],
+  "geohash": "tuq3b13",
+  "geohashUrl": "https://geohash.softeng.co/tuq3b13"
+}

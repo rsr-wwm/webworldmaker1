@@ -1,0 +1,82 @@
+{
+  "id": "goa-betul",
+  "city": "Betul",
+  "state": "Goa",
+  "stateSlug": "goa",
+  "citySlug": "betul",
+  "country": "India",
+  "pincode": "403603",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 33",
+  "timezone": "Asia/Kolkata",
+  "latitude": 18.7355,
+  "longitude": 73.7901,
+  "landmark": "Betul Railway Station Chowk Node",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Betul, India",
+  "population": 4097225,
+  "mobileUsers": 3187641,
+  "internetUsers": 2249376,
+  "genderRatioText": "959 females per 1,000 males",
+  "malePercentage": 51,
+  "femalePercentage": 49,
+  "averageIncome": "₹8.31L per annum",
+  "activeMobileDevices": 4465975,
+  "mobilePenetration": 77.8,
+  "internetPenetration": 54.9,
+  "maleCount": 2089585,
+  "femaleCount": 2007640,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Mandi pathar",
+      "state": "Meghalaya",
+      "stateSlug": "meghalaya",
+      "citySlug": "mandi-pathar",
+      "distance": 34.179119201103795
+    },
+    {
+      "city": "Tirunelveli",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "tirunelveli",
+      "distance": 52.02105244926194
+    },
+    {
+      "city": "Shimla",
+      "state": "Himachal Pradesh",
+      "stateSlug": "himachal-pradesh",
+      "citySlug": "shimla",
+      "distance": 66.1078722749136
+    },
+    {
+      "city": "Kumbakonam",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "kumbakonam",
+      "distance": 72.59228124352141
+    },
+    {
+      "city": "Navrangpura",
+      "state": "Gujarat",
+      "stateSlug": "gujarat",
+      "citySlug": "navrangpura",
+      "distance": 90.26282010881289
+    }
+  ],
+  "geohash": "tek6x4s",
+  "geohashUrl": "https://geohash.softeng.co/tek6x4s"
+}

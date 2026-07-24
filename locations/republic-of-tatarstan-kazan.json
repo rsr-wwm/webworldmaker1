@@ -1,0 +1,82 @@
+{
+  "id": "republic-of-tatarstan-kazan",
+  "city": "Kazan",
+  "state": "Republic of Tatarstan",
+  "stateSlug": "republic-of-tatarstan",
+  "citySlug": "kazan",
+  "country": "Russia",
+  "pincode": "420000",
+  "currency": "RUB",
+  "symbol": "₽",
+  "compliance": "Roskomnadzor Rules",
+  "carriers": [
+    "MTS",
+    "MegaFon",
+    "Beeline",
+    "Tele2"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+7",
+  "timezone": "Asia/Anadyr",
+  "latitude": 59.8509,
+  "longitude": 100.1303,
+  "landmark": "Kazan Techno Park Terminal Hub",
+  "carrierQuality": "Primary edge trunk terminated over MTS networks. Failovers route over MegaFon, Beeline, Tele2 with active latency policing loops.",
+  "localSupport": "Remote regional support and carrier network coverage for Kazan, Russia",
+  "population": 2123251,
+  "mobileUsers": 1898186,
+  "internetUsers": 1571205,
+  "genderRatioText": "993 females per 1,000 males",
+  "malePercentage": 50.2,
+  "femalePercentage": 49.8,
+  "averageIncome": "₽33,321 RUB per annum",
+  "activeMobileDevices": 2293111,
+  "mobilePenetration": 89.4,
+  "internetPenetration": 74,
+  "maleCount": 1065872,
+  "femaleCount": 1057379,
+  "industryFocus": "Regional Retail, Import/Export, Tourism & Logistics",
+  "preferredChannel": "Autonomous Voice Agent & SMS",
+  "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
+  "nearbyLocations": [
+    {
+      "city": "Moscow",
+      "state": "Central Federal District",
+      "stateSlug": "central-federal-district",
+      "citySlug": "moscow",
+      "distance": 5.370900520492423
+    },
+    {
+      "city": "Krasnoyarsk",
+      "state": "Krasnoyarsk Krai",
+      "stateSlug": "krasnoyarsk-krai",
+      "citySlug": "krasnoyarsk",
+      "distance": 12.829065074695501
+    },
+    {
+      "city": "Nizhny Novgorod",
+      "state": "Nizhny Novgorod Oblast",
+      "stateSlug": "nizhny-novgorod-oblast",
+      "citySlug": "nizhny-novgorod",
+      "distance": 13.369580554884797
+    },
+    {
+      "city": "Ufa",
+      "state": "Republic of Bashkortostan",
+      "stateSlug": "republic-of-bashkortostan",
+      "citySlug": "ufa",
+      "distance": 14.16877714313252
+    },
+    {
+      "city": "Vladivostok",
+      "state": "Primorsky Krai",
+      "stateSlug": "primorsky-krai",
+      "citySlug": "vladivostok",
+      "distance": 16.339611199554597
+    }
+  ],
+  "geohash": "y4xhqx8",
+  "geohashUrl": "https://geohash.softeng.co/y4xhqx8"
+}

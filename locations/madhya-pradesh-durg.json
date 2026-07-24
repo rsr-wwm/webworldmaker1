@@ -1,0 +1,82 @@
+{
+  "id": "madhya-pradesh-durg",
+  "city": "Durg",
+  "state": "Madhya Pradesh",
+  "stateSlug": "madhya-pradesh",
+  "citySlug": "durg",
+  "country": "India",
+  "pincode": "491001",
+  "currency": "INR",
+  "symbol": "₹",
+  "compliance": "TRAI DLT registered",
+  "carriers": [
+    "Jio",
+    "Airtel",
+    "Vi (Vodafone Idea)",
+    "BSNL"
+  ],
+  "nodeType": "city_center",
+  "dialingCode": "+91 755",
+  "timezone": "Asia/Kolkata",
+  "latitude": 16.3731,
+  "longitude": 76.9511,
+  "landmark": "Durg Municipal Office Plaza",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "localSupport": "Remote regional support and carrier network coverage for Durg, India",
+  "population": 6025318,
+  "mobileUsers": 4609368,
+  "internetUsers": 3615190,
+  "genderRatioText": "956 females per 1,000 males",
+  "malePercentage": 51.1,
+  "femalePercentage": 48.9,
+  "averageIncome": "₹11.41L per annum",
+  "activeMobileDevices": 6266330,
+  "mobilePenetration": 76.5,
+  "internetPenetration": 60,
+  "maleCount": 3078937,
+  "femaleCount": 2946381,
+  "industryFocus": "B2B Fintech, Retail E-commerce, Logistics & Hyperlocal Delivery",
+  "preferredChannel": "RCS Business Messaging",
+  "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
+  "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
+  "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
+  "nearbyLocations": [
+    {
+      "city": "Rajampet",
+      "state": "Andhra Pradesh",
+      "stateSlug": "andhra-pradesh",
+      "citySlug": "rajampet",
+      "distance": 18.58046810377853
+    },
+    {
+      "city": "Aruppukottai",
+      "state": "Tamil Nadu",
+      "stateSlug": "tamil-nadu",
+      "citySlug": "aruppukottai",
+      "distance": 29.17371864482799
+    },
+    {
+      "city": "Berhampur",
+      "state": "Orissa",
+      "stateSlug": "orissa",
+      "citySlug": "berhampur",
+      "distance": 44.995139758838306
+    },
+    {
+      "city": "Saitul",
+      "state": "Mizoram",
+      "stateSlug": "mizoram",
+      "citySlug": "saitul",
+      "distance": 97.23144635252174
+    },
+    {
+      "city": "Bhuj",
+      "state": "Calcutta",
+      "stateSlug": "calcutta",
+      "citySlug": "bhuj",
+      "distance": 97.37422688232202
+    }
+  ],
+  "geohash": "tdytphd",
+  "geohashUrl": "https://geohash.softeng.co/tdytphd"
+}
