@@ -1,1 +1,0 @@
-var e=e=>e.toLowerCase().replace(/\s+/g,`-`).replace(/&/g,`and`).replace(/[^a-z0-9-]/g,``);export{e as t};
