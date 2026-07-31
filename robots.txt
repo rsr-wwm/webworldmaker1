@@ -20,6 +20,7 @@ Allow: /
 Disallow: /admin
 Disallow: /api
 Disallow: /drafts
+Disallow: /llms-private.txt
 
 # Throttle aggressive scrapers to save server CPU crawl budget
 User-agent: SemrushBot
@@ -31,12 +32,14 @@ Crawl-delay: 5
 Disallow: /admin
 Disallow: /api
 Disallow: /drafts
+Disallow: /llms-private.txt
 
 User-agent: *
 Allow: /
 Disallow: /admin
 Disallow: /api
 Disallow: /drafts
+Disallow: /llms-private.txt
 
 # LLM Manifest Reference
 # Info-url: https://webworldmaker.com/llms.txt

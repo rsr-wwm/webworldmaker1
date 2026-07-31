@@ -1,0 +1,53 @@
+# Updating Your Old Systems
+
+Focus: Future-Proofing
+
+Outcome: Tech that actually works
+
+Rebuild your old software without losing a single file.
+
+Still using software from 2005? We know the feeling. We help you move off those clunky old servers to a modern cloud setup that works perfectly on your phone. We do it piece-by-piece, so your business never has to stop running while we're upgrading the engine.
+
+Key features:
+- Code Refactoring: Clean, maintainable code.
+- Database Migration: Zero-downtime migration process designed to prevent data loss.
+- UI/UX Refresh: Modern, easy-to-use interface.
+- API Exposure: Connect old data to new apps.
+
+Benefits:
+- Scalability
+- Security
+- Easier Hiring
+- Better Performance
+
+FAQs:
+
+Q: Is it risky?
+A: We minimize risk by using the "Strangler Pattern" – keeping the old system running while we build the new one in pieces.
+
+Q: Will we lose records?
+A: No. We create real-time synchronization between the old and new databases during the migration.
+
+Q: How long does it take?
+A: Modernization is a journey. It typically takes 6-12 months for full enterprise transitions.
+
+Q: Do our coders need to learn new tech?
+A: We help your team transition and even provide the first 6 months of managed support for the new tech stack.
+
+Q: Is it worth the money?
+A: Yes. Maintaining legacy systems is usually 3x more expensive than running modern ones when you factor in talent and risk.
+
+Q: Is the new system safer?
+A: Yes, modern systems use "Security by Design" and are much easier to patch against latest threats.
+
+Q: Do we have to go cloud?
+A: No, we can build modern architectures on-premise, but cloud offers significantly more benefits.
+
+Q: Where do we start?
+A: We start with a "Tech Debt Audit" to identify the most critical parts of your system that need fixing first.
+
+Q: What does the "Code Refactoring" capability include?
+A: Clean, maintainable code.
+
+Q: What does the "Database Migration" capability include?
+A: A zero-downtime migration process designed to prevent data loss.

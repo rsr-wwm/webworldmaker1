@@ -1,0 +1,43 @@
+# Insurance & InsurTech
+
+Automated claims processing, policy management, and AI customer support for insurers.
+
+Speed up policy quotes and claims processing. We build custom insurtech platforms that qualify policy seekers, automate claims updates via WhatsApp, connect database systems to policy forms, and track risk metrics in real time.
+
+How WebWorldMaker helps:
+- crm
+- chatbots
+- agents-automation
+- voice-agents
+
+FAQs:
+
+Q: How do you secure health information for medical insurance?
+A: We deploy banking-grade AES-256 databases, implement strict user access permissions, and provide full audit logs, all designed to align with HIPAA requirements.
+
+Q: Can policyholders submit photos of accidents?
+A: Yes, they can upload accident photos and claim docs directly through a web link or via WhatsApp chat, logged into their CRM card.
+
+Q: What does the Enterprise InsurTech Stack add over the Core Portal?
+A: An AI claim verification module, a WhatsApp portal for clients, and full legacy database sync, on top of the Core Portal's policy tracker, conversational quote form, and automated email updates.
+
+Q: Do you run security testing before launch?
+A: Yes - the final roadmap stage is dedicated to penetration testing and security audits, so the platform is vetted before it goes live with real policyholder data.
+
+Q: Do you help with long claims verification?
+A: Yes - "claims take weeks to process manually" is exactly the kind of challenge our industry solutions are built to address.
+
+Q: Do you help with high lead drop-offs?
+A: Yes - "complex quote forms drive prospects away" is exactly the kind of challenge our industry solutions are built to address.
+
+Q: Do you help with high support ticket volume?
+A: Yes - "support agents overwhelmed by simple policy status calls" is exactly the kind of challenge our industry solutions are built to address.
+
+Q: What's included in the "InsurTech Core Portal" plan?
+A: Core policy tracker database, Conversational quote form, Email automated updates. Pricing: From ₹6,00,000.
+
+Q: What's included in the "Enterprise InsurTech Stack" plan?
+A: AI claim verification module, WhatsApp portal for clients, Full legacy database sync. Pricing: From ₹15,00,000.
+
+Q: Can you share an example of this in action?
+A: Auto Insurance Firm: Automated claim document uploads via WhatsApp, cutting resolution times by 4 days.

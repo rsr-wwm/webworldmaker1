@@ -1,0 +1,21 @@
+# Your AI Chatbot Is Making Things Up
+
+Your support bot confidently gives customers wrong answers about pricing, policies, or availability.
+
+A chatbot built directly on a general-purpose language model without grounding will answer fluently even when it doesn't know the real answer. For a business, that means customers hearing wrong prices, invented policies, or promises your team never made.
+
+Symptoms:
+- Customers quoting incorrect information the bot 'confirmed'
+- No way to trace where a bot's answer actually came from
+- Support team spending time correcting what the bot told customers
+- Leadership hesitant to expand the bot's scope because of trust concerns
+
+Our solution: We ground the bot's answers in your actual documentation, pricing, and policies using retrieval-augmented generation, so it cites the source page instead of guessing, with human hand-off for anything outside its grounded knowledge.
+
+FAQs:
+
+Q: Can hallucination be eliminated completely?
+A: It can be reduced substantially through grounding and guardrails, but any AI system should have a human hand-off path for edge cases.
+
+Q: Does grounding slow the bot down?
+A: Retrieval adds a small amount of latency but is generally imperceptible to users, and it is far outweighed by the accuracy gain.

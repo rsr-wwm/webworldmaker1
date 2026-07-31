@@ -1,0 +1,21 @@
+# Your Messaging Bill Just Spiked for No Reason
+
+Bad actors are triggering fake OTP requests to numbers they control, inflating your SMS costs.
+
+SMS pumping fraud (Artificially Inflated Traffic) targets any form that triggers an OTP or verification text. Fraudsters automate requests to premium or international numbers they control, and your business pays for every message sent, often without noticing until the invoice arrives.
+
+Symptoms:
+- Sudden, unexplained spikes in SMS volume and cost
+- OTP requests from suspicious or clearly automated patterns
+- High volumes of international numbers that never complete signup
+- No rate limiting on OTP-triggering forms
+
+Our solution: We apply rate limiting, geo-pattern controls, and CAPTCHA-style friction on OTP-triggering endpoints, and monitor for the traffic signatures typical of pumping fraud, cutting off abuse before it inflates your bill.
+
+FAQs:
+
+Q: How do I know if I'm a target of SMS pumping?
+A: A sudden spike in OTP volume with a low conversion-to-signup rate, especially from unfamiliar country codes, is the clearest signal.
+
+Q: Will rate limiting block real users?
+A: Properly tuned limits target abnormal request patterns, not normal user behavior, so genuine signups are not affected.

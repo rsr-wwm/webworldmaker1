@@ -1,0 +1,21 @@
+# Your SMS Campaigns Keep Getting Blocked
+
+Messages are filtered or rejected because of India's DLT sender ID and template registration rules.
+
+India's DLT framework requires every sender ID and every message template to be pre-registered before it can be delivered. Businesses that manage this themselves often lose days to rejected registrations, mismatched templates, or messages that silently vanish because content did not match what was approved.
+
+Symptoms:
+- Promotional or transactional messages rejected without a clear reason
+- New sender ID or template approvals stuck for days
+- Marketing copy that changes weekly, breaking template compliance
+- Confusion over which route a given message type should use
+
+Our solution: We manage principal entity, header, and template registration on the DLT platform on your behalf, and route each message type to the correct compliant path automatically, so campaigns launch on schedule instead of stalling in a compliance queue.
+
+FAQs:
+
+Q: How long does DLT registration take?
+A: Entity registration and initial header approval typically take a few business days; template approvals are usually faster once the entity is verified.
+
+Q: Can I still run marketing campaigns with different offers each week?
+A: Yes, but each variable-content pattern needs a registered template with placeholder fields. We manage this so copy changes don't break compliance.

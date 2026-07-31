@@ -1,0 +1,21 @@
+# Your Finance, Sales, and Inventory Systems Don't Match
+
+Different departments run on different systems, so numbers never quite reconcile.
+
+When finance, sales, and inventory each run their own disconnected system, the same order can show different statuses in different places, and month-end reconciliation becomes a manual, error-prone exercise in comparing exports.
+
+Symptoms:
+- Inventory counts that don't match what sales or finance see
+- Manual, spreadsheet-based month-end reconciliation
+- Delayed visibility into which orders are actually fulfilled versus billed
+- Departments each trusting their own numbers over anyone else's
+
+Our solution: We implement or integrate an ERP that gives finance, sales, and inventory one shared source of truth, with real-time sync instead of periodic exports, so every department is working from the same numbers.
+
+FAQs:
+
+Q: Do we need to replace all our existing systems?
+A: Often not. ERP integration can connect existing tools rather than requiring a full replacement, depending on how outdated the current systems are.
+
+Q: How disruptive is an ERP rollout?
+A: A phased approach, starting with the highest-friction reconciliation point, minimizes disruption compared to a single big-bang cutover.

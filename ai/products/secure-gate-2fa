@@ -1,0 +1,51 @@
+# SecureGate 2FA
+
+Tagline: Verify your users in seconds.
+
+Fast, reliable login codes via SMS and WhatsApp.
+
+When a user logs in, they need that security code right now. If it takes even a minute, they're gone. SecureGate uses the fastest routes possible to get those codes to their phones in under 5 seconds. If SMS is slow, we automatically try WhatsApp to make sure they get in.
+
+Key features:
+- Flash Delivery: Sub-5-second latency. Happy users.
+- Auto-Fallback: SMS -> WhatsApp -> Voice. 100% Delivery.
+- Fraud Guard: Blocks fake traffic bots. Saves money.
+- Global Reach: Works in 220 countries. Scale globally.
+
+Benefits:
+- Secure Logins
+- Reduced Fraud
+- Better UX
+- Simple API
+
+FAQs:
+
+Q: How fast is it?
+A: Average delivery globally is 3.5 seconds thanks to our "Priority Direct" operator routes.
+
+Q: What if SMS fails?
+A: The system automatically falls back to WhatsApp, and then a Voice call if needed, ensuring 100% arrival.
+
+Q: Do we pay for failed codes?
+A: No, you only pay for successfully delivered One-Time Passwords.
+
+Q: How secure is the code?
+A: Codes are generated using cryptographically secure random number generators and expire in 120 seconds.
+
+Q: Does it work in China/India?
+A: Yes, we have specialized local routes to bypass international filters in regulated markets.
+
+Q: Do you have an SDK?
+A: Yes, we have SDKs for Node.js, Python, PHP, Java, and Go.
+
+Q: Can you stop "SMS Pumping"?
+A: Yes, our Fraud Guard detects and blocks bot-driven traffic designed to drain your balance.
+
+Q: Can I use my own sender name?
+A: Yes, in supported countries, you can use an Alpha-Sender ID (e.g., your brand name).
+
+Q: What does the "Flash Delivery" capability include?
+A: Sub-5-second latency. The benefit: happy users.
+
+Q: What does the "Auto-Fallback" capability include?
+A: SMS -> WhatsApp -> Voice. The benefit: 100% delivery.

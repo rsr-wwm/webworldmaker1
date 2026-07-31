@@ -1,0 +1,18 @@
+# Restaurants & Food Delivery
+
+Confirm orders, coordinate delivery, and bring diners back with timely messaging.
+
+Food orders and reservations are time-sensitive by nature. We help restaurants and delivery platforms confirm orders instantly, coordinate delivery updates, and send targeted offers to bring diners back, all through channels customers actually check in real time.
+
+How WebWorldMaker helps:
+- omnichannel-marketing-suite
+- sms
+- whatsapp
+
+FAQs:
+
+Q: Can this integrate with our POS or delivery app?
+A: Yes, our APIs connect to most POS and delivery platforms via webhook to trigger messages on order and delivery events.
+
+Q: Is this suitable for multi-location restaurant groups?
+A: Yes, messaging can be managed centrally while reflecting each location's own hours, menu, and offers.

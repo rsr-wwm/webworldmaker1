@@ -1,0 +1,45 @@
+# Custom Project & Task Management Platforms
+
+Category: Business Management Solutions
+
+Custom internal platforms to track tasks, coordinate teams, and manage client deliverables.
+
+Say goodbye to scattered spreadsheets and rigid SaaS tools. We engineer custom Project Management Platforms built around your specific operational workflows. Whether you need Kanban boards, Gantt charts, file sharing, time-logging, or client portal access, we build a secure system tailored to your team's habits, ensuring complete alignment and data privacy.
+
+Key features:
+- Interactive Boards: Kanban, Gantt, and list views configured for your workflows. Visual progress tracking.
+- Time Tracking: Integrated timesheets and activity logs for billing accuracy. Better project profitability.
+- Client Collaboration: Secure restricted portals for client review and feedback. Increased transparency.
+- Document Hub: Cloud-linked project files and wiki documentation. Centralized knowledge.
+
+FAQs:
+
+Q: Can clients view project progress without accessing internal data?
+A: Yes, we create secure "Client Portals" with read-only views of specific milestones, protecting your internal developer notes.
+
+Q: Does it integrate with Slack or Microsoft Teams?
+A: Yes, we build webhooks to push automated task and milestone updates directly into your team channels.
+
+Q: Can we track billable hours for client invoicing?
+A: Yes - integrated timesheets and activity logs feed the time tracking feature, and the Full Operation Hub tier adds client billing modules on top of that for direct invoicing.
+
+Q: What kind of boards can we build - just Kanban?
+A: No - interactive boards support Kanban, Gantt charts, and list views, configured to match however your team actually plans and tracks work.
+
+Q: What does the "Interactive Boards" capability include?
+A: Kanban, Gantt, and list views configured for your workflows. The benefit: visual progress tracking.
+
+Q: What does the "Time Tracking" capability include?
+A: Integrated timesheets and activity logs for billing accuracy. The benefit: better project profitability.
+
+Q: What does the "Client Collaboration" capability include?
+A: Secure restricted portals for client review and feedback. The benefit: increased transparency.
+
+Q: What does the "Document Hub" capability include?
+A: Cloud-linked project files and wiki documentation. The benefit: centralized knowledge.
+
+Q: What's included in the "Project Core Platform" plan?
+A: Task boards, Standard gantt charts, Team chat integration, Basic reports. Pricing: From ₹3,00,000.
+
+Q: What's included in the "Full Operation Hub" plan?
+A: Client billing modules, Advanced time tracking, API calendar sync, Custom project wikis. Pricing: From ₹6,50,000.

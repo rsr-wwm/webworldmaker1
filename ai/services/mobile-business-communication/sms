@@ -1,0 +1,45 @@
+# SMS Solutions
+
+Category: Mobile Communication & Customer Engagement
+
+Transactional, OTP, Promotional SMS, and high-speed API dispatches via direct operator binds.
+
+Maximize open rates with our direct carrier SMS solutions. We offer high-performance transactional routes, low-latency OTP gateways, and highly-scalable promotional SMS engines. Connect via persistent SMPP binds or REST APIs, and track delivery logs in real-time with comprehensive analytics dashboards. Traditional SMS is also the reliable fallback for RCS campaigns or can be integrated alongside the WhatsApp Business API for a complete omnichannel user experience.
+
+Key features:
+- OTP & Transactional SMS: Priority Tier-1 routes with sub-3 second global delivery. Minimize login drop-offs.
+- Promotional Campaigns: Send millions of personalized offers with custom sender IDs. Drive immediate retail sales.
+- SMS APIs & Automation: Simple REST APIs, webhooks, and DLT/10DLC compliance hooks. Developer friendly integration.
+- SMPP Binds & Analytics: Persistent SMPP v3.4 binds for wholesale volume routing at 5,000 TPS. Maximum crawl & throughput efficiency.
+
+FAQs:
+
+Q: What is a direct route?
+A: It's like a private fast lane for your texts. It goes straight to the phone company, so messages arrive in seconds.
+
+Q: Can I use my own company name?
+A: Usually, yes! You can replace the phone number with your brand name, like "MYSTORE".
+
+Q: How much space do I have?
+A: Each text is 160 characters. If you go over, we just combine them so it looks like one long message on the phone.
+
+Q: Where do the phone numbers come from?
+A: We only send to people who have already said they want to hear from you. We don't ever sell phone lists.
+
+Q: Can people reply to me?
+A: If you want them to, we can set up a "two-way" number so you can chat back and forth.
+
+Q: Is it fast?
+A: Yes. Most people see their messages blink onto their screen within about 5 to 10 seconds.
+
+Q: Can I use emojis?
+A: Definitely. We support all the standard emojis and special characters.
+
+Q: Can I set them to send later?
+A: Yes, you can schedule your messages for next Tuesday at 9 AM, or whenever suits your customers best.
+
+Q: What does the "OTP & Transactional SMS" capability include?
+A: Priority Tier-1 routes with sub-3 second global delivery. The benefit: minimize login drop-offs.
+
+Q: What does the "Promotional Campaigns" capability include?
+A: Send millions of personalized offers with custom sender IDs. The benefit: drive immediate retail sales.

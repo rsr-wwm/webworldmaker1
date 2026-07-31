@@ -1,0 +1,21 @@
+# Your Website Is Too Slow to Convert
+
+Pages take too long to load and visitors leave before they ever see your offer.
+
+Every extra second of load time costs conversions. Bloated JavaScript bundles, unoptimized images, and render-blocking scripts push your Largest Contentful Paint and Interaction to Next Paint past the thresholds that keep visitors engaged, and search engines notice too.
+
+Symptoms:
+- High bounce rate on landing pages
+- Poor Core Web Vitals scores in Search Console
+- Visitors on mobile networks abandoning before the page finishes loading
+- Marketing spend driving traffic to a page that loses them before it loads
+
+Our solution: We audit and rebuild the rendering path, server-side rendering critical content, trimming JavaScript to what each page actually needs, and optimizing images and fonts, so pages load fast on real-world connections, not just in a lab test.
+
+FAQs:
+
+Q: What is Core Web Vitals?
+A: A set of Google metrics measuring loading speed, interactivity, and visual stability, which influence both user experience and search ranking.
+
+Q: Do I need to rebuild my whole site?
+A: Usually not. Most performance gains come from targeted fixes to the highest-traffic templates rather than a full rebuild.

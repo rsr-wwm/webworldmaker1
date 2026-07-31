@@ -1,0 +1,33 @@
+# Healthcare
+
+Better care, less paperwork. Keeping your patients connected.
+
+Stop chasing patients on the phone. We automate your reminders and follow-ups so your staff can focus on care. Everything we build is secure and built to keep patient data private and compliant.
+
+How WebWorldMaker helps:
+- whatsapp
+- voicebot-studio
+- crm
+
+FAQs:
+
+Q: Is the platform HIPAA compliant?
+A: We support Business Associate Agreements (BAA) and our architecture is engineered with HIPAA-aligned controls, including AES-256 data encryption and access logging.
+
+Q: Can we integrate with our current EMR?
+A: We support integration with most major EMR systems via HL7 or FHIR APIs.
+
+Q: How is patient data protected?
+A: Data is encrypted at rest (AES-256) and in transit (TLS 1.2+), with strict role-based access controls and audit trails.
+
+Q: Do you offer two-way messaging?
+A: Yes, patients can reply to automated messages for instant appointment confirmations and triage updates.
+
+Q: Can we send voice reminders?
+A: Our VoiceBot Studio allows you to create automated, natural-sounding voice call reminders.
+
+Q: What happens in an emergency?
+A: We provide an emergency broadcast feature that overrides standard queues for instant priority delivery.
+
+Q: Do you execute Business Associate Agreements (BAA)?
+A: Yes. We execute Business Associate Agreements (BAAs) for healthcare providers and enterprise clients needing certified data protection safeguards.

@@ -1,0 +1,45 @@
+# Enterprise AI Chatbots
+
+Category: AI Solutions
+
+Custom conversational AI assistants for customer support, lead qualification, and internal queries.
+
+Resolve 80% of support questions automatically. Our Custom AI Chatbots run on your website, WhatsApp, or Telegram. Unlike old rule-based chat buttons, these bots understand human intent, access your knowledge base in real-time, and answer complex questions politely in over 50 languages, 24/7.
+
+Key features:
+- Intent Processing: Understand natural language questions, typos, and context. Human-like chat.
+- RAG Database Link: Dynamically query your internal wikis and documents for answers. Technically accurate replies.
+- Live Agent Handoff: Seamlessly transfer complex issues to your support staff. Zero user frustration.
+- Custom Lead Forms: Collect name, email, and needs directly in the chat window. Interactive conversions.
+
+FAQs:
+
+Q: Can the chatbot write data into our CRM?
+A: Yes. Once a chatbot qualifies a lead or logs an issue, it pushes that data directly to Salesforce, HubSpot, or a custom CRM.
+
+Q: How do you prevent the AI from hallucinating incorrect answers?
+A: We use Retrieval-Augmented Generation (RAG), which strictly limits the bot to answering from verified documents you provide.
+
+Q: What does the "Intent Processing" capability include?
+A: Understand natural language questions, typos, and context. The benefit: human-like chat.
+
+Q: What does the "RAG Database Link" capability include?
+A: Dynamically query your internal wikis and documents for answers. The benefit: technically accurate replies.
+
+Q: What does the "Live Agent Handoff" capability include?
+A: Seamlessly transfer complex issues to your support staff. The benefit: zero user frustration.
+
+Q: What does the "Custom Lead Forms" capability include?
+A: Collect name, email, and needs directly in the chat window. The benefit: interactive conversions.
+
+Q: What's included in the "Knowledge Base Chatbot" plan?
+A: Core chatbot module, RAG integration (up to 50 docs), Web integration, Analytics dashboard. Pricing: From ₹3,50,000.
+
+Q: What's included in the "Enterprise Omnichannel Bot" plan?
+A: Multi-channel sync (Web/WhatsApp), Live agent bridge, CRM data writing, Private model hosting. Pricing: From ₹8,00,000.
+
+Q: Can you share an example of this in action?
+A: Dental Network: Automated appointment booking and cosmetic service FAQs, increasing qualified leads by 30%.
+
+Q: What happens during the "Knowledge Intake" stage?
+A: Collect FAQs, manuals, and support transcripts to train the bot.

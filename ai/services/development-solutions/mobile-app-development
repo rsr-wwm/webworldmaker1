@@ -1,0 +1,45 @@
+# Mobile App Development
+
+Category: Development Solutions
+
+Native iOS Swift and cross-platform Flutter applications built for maximum device performance.
+
+Reach your customers on any device. We build native iOS applications in Swift and cross-platform apps using Flutter, ensuring smooth animations, offline database sync, and strict encryption protocols. We manage the entire lifecycle from layout wireframes to App Store reviews.
+
+Key features:
+- Swift Native iOS: SwiftUI codes built specifically for the Apple ecosystem. Premium UI feel.
+- Flutter Cross-Platform: Write once, deploy to iOS and Android simultaneously. Halve development bills.
+- Offline-First Sync: Local caching enables apps to operate without cellular connectivity. Reliable mobile use.
+- Biometric Security: Integrate FaceID, TouchID, and device keychain storage. Secure user login.
+
+FAQs:
+
+Q: Is a native app better than a web app?
+A: Native apps are much faster, can run offline, and have direct access to phone hardware, boosting user engagement.
+
+Q: Do you build for both iOS and Android?
+A: Yes - either as separate native Swift/iOS builds, or as a single Flutter codebase deployed to both platforms at once, which roughly halves development cost versus building two native apps.
+
+Q: Can the app work without an internet connection?
+A: Yes, we build offline-first sync with local caching, so the app stays usable without cellular connectivity and syncs data once the connection returns.
+
+Q: Do you handle App Store and Play Store submission?
+A: Yes - store review and compliance is the final stage of our roadmap, and we manage the submission process end-to-end so the app passes Apple and Google's review requirements.
+
+Q: What does the "Swift Native iOS" capability include?
+A: SwiftUI codes built specifically for the Apple ecosystem. The benefit: premium ui feel.
+
+Q: What does the "Flutter Cross-Platform" capability include?
+A: Write once, deploy to iOS and Android simultaneously. The benefit: halve development bills.
+
+Q: What does the "Offline-First Sync" capability include?
+A: Local caching enables apps to operate without cellular connectivity. The benefit: reliable mobile use.
+
+Q: What does the "Biometric Security" capability include?
+A: Integrate FaceID, TouchID, and device keychain storage. The benefit: secure user login.
+
+Q: What's included in the "Flutter App MVP" plan?
+A: Single codebase for iOS + Android, Firebase database integration, Standard screens layout, App store submissions. Pricing: From ₹9,00,000.
+
+Q: What's included in the "Enterprise Mobile Suite" plan?
+A: Custom API synchronization, Offline-first database setup, Biometric credential vaults, Continuous SLA maintenance. Pricing: Custom Quote.

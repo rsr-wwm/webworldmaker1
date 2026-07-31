@@ -1,0 +1,44 @@
+# Email Marketing Solutions
+
+Category: Mobile Communication & Customer Engagement
+
+High-volume transactional and marketing email.
+
+Send personalized emails at scale. Our system ensures high inbox delivery rates for your newsletters, transaction receipts, and marketing campaigns. We handle the technical configurations of SPF alignment, DKIM cryptographic key signatures, and DMARC reject policies so your sending domains maintain clean reputations. The sending engines run on automated 4-week IP warm-up curves, slowly scaling SMTP throughput across clean IP blocks to ensure your campaigns bypass ISP spam filters. Check our detailed SMS vs email comparison to understand how to design multi-channel flows that fallback to text when emails remain unopened.
+
+Key features:
+- SMTP Relay: Fast, secure delivery. Reliability.
+- Personalization: Dynamic tags and logic. Higher engagement.
+- Analytics: Track opens and clicks. Measurable ROI.
+
+FAQs:
+
+Q: Will my emails go to spam?
+A: We use verified IPs and help you optimise your content to ensure maximum inbox delivery. Our platform configures SPF, DKIM, and DMARC on your sending domain automatically.
+
+Q: What is DMARC and do I need it?
+A: DMARC (Domain-based Message Authentication) tells receiving mail servers what to do with emails claiming to be from your domain. Google and Yahoo now require DMARC for bulk senders; without it, your emails are rejected or go to spam.
+
+Q: What is the difference between transactional and marketing email?
+A: Transactional emails (OTPs, receipts, password resets) are triggered by a user action. Marketing emails (newsletters, promotions) are sent proactively. We keep them on separate IP pools so a newsletter complaint never delays a critical OTP.
+
+Q: How long does an IP warm-up take?
+A: Typically 4–8 weeks depending on your target volume. We start with your most engaged subscribers to establish positive sending history, then gradually expand to the full list — managed automatically on your behalf.
+
+Q: What open rates can I expect?
+A: After full DMARC alignment and IP warm-up, our clients typically see 25–30% open rates on permission-based marketing lists. Transactional emails average 48–62% open rates due to high recipient expectation.
+
+Q: Can you design email templates for Outlook?
+A: Yes. Outlook uses the Word rendering engine, which breaks many modern CSS properties. Our HTML developers code specifically for every Outlook version using VML fallbacks for buttons and table-based layouts.
+
+Q: How do you handle GDPR unsubscribes?
+A: Every email contains a one-click unsubscribe link. Unsubscribes are processed within 10 seconds and permanently suppressed. We also manage list suppression files to prevent re-importing opted-out contacts.
+
+Q: What is your pricing for 10 million emails per month?
+A: At 10 million emails/month, our Enterprise plan prices drop to approximately 0.8p per email, including multiple dedicated IP pools and a dedicated deliverability engineer. Contact us for a custom quote.
+
+Q: What does the "SMTP Relay" capability include?
+A: Fast, secure delivery. The benefit: reliability.
+
+Q: What does the "Personalization" capability include?
+A: Dynamic tags and logic. The benefit: higher engagement.

@@ -1,0 +1,45 @@
+# Customer Analytics & Retention Dashboards
+
+Category: Data & Analytics
+
+Track customer behavior, purchase habits, churn risk, and customer lifetime value in real time.
+
+Acquiring a new customer costs 5x more than keeping an existing one. Our Customer Analytics solutions build data engines that monitor customer activity, identify accounts at risk of churning, segment buyers by loyalty tiers, and optimize lifetime value.
+
+Key features:
+- Churn Risk Engine: Flag clients who show drop-offs in usage or purchase volume. Preempt account losses.
+- Cohort Analysis: Track how customer cohorts behave over months and years. Spot loyalty trends.
+- Value Segments: Group buyers by purchase frequency and order values. Targeted loyalty campaigns.
+- Engagement Scoring: Rate users based on system logs and support issues. Know account health.
+
+FAQs:
+
+Q: What is Customer Lifetime Value (CLV)?
+A: It calculates the total revenue a business can expect from a single customer account throughout their relationship.
+
+Q: Can this connect to customer support tools?
+A: Yes, we combine support ticket volumes with purchase histories to build complete client health scores.
+
+Q: What does the "Churn Risk Engine" capability include?
+A: Flag clients who show drop-offs in usage or purchase volume. The benefit: preempt account losses.
+
+Q: What does the "Cohort Analysis" capability include?
+A: Track how customer cohorts behave over months and years. The benefit: spot loyalty trends.
+
+Q: What does the "Value Segments" capability include?
+A: Group buyers by purchase frequency and order values. The benefit: targeted loyalty campaigns.
+
+Q: What does the "Engagement Scoring" capability include?
+A: Rate users based on system logs and support issues. The benefit: know account health.
+
+Q: What's included in the "Customer Cohort Setup" plan?
+A: Cohort dashboard, Value segmentation engine, Standard CRM connector, Cohort logs. Pricing: From ₹2,50,000.
+
+Q: What's included in the "Predict Churn System" plan?
+A: Churn prediction module, Auto email/SMS alerts, Data pipeline integrations, Priority support. Pricing: From ₹6,00,000.
+
+Q: Can you share an example of this in action?
+A: Subscription Software: Built a dashboard that flagged users with low login hours, reducing customer churn by 18%.
+
+Q: What happens during the "Data Audit" stage?
+A: Locate user logs, purchase logs, and customer support files.

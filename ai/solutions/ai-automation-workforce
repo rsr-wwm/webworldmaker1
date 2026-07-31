@@ -1,0 +1,53 @@
+# AI That Actually Works for You
+
+Focus: Efficiency
+
+Outcome: Automate the boring stuff
+
+Digital assistants that never sleep.
+
+Imagine having a staff member who can read a thousand docs a minute, works 24/7, and never takes a sick day. That's what our custom AI agents do. We don't just give you a generic bot; we train an AI on your specific business files so it can handle support calls, data entry, and scheduling without making a sound.
+
+Key features:
+- Custom LLM Training: AI that knows your specific business rules.
+- Voice AI Agents: Robots that speak naturally on the phone.
+- Document Scanning: Extract data from PDFs automatically.
+- Auto-Scheduling: AI books appointments into your calendar.
+
+Benefits:
+- 24/7 Productivity
+- Massive Cost Savings
+- Zero Human Error
+- Instant Scaling
+
+FAQs:
+
+Q: Is my data used to train public AI?
+A: Never. We use private enterprise instances (like Azure Open AI or AWS Bedrock) where your data is never shared.
+
+Q: Does the AI hallucinate?
+A: We use "Grounding" and RAG (Retrieval Augmented Generation) to ensure the AI only speaks from your verified documents.
+
+Q: Will this replace my staff?
+A: AI is a tool to "Augment" staff, allowing them to focus on high-value creative work while the AI handles the boring repetitive tasks.
+
+Q: Does the voice sound real?
+A: Yes, we use advanced Neural TTS that includes human-like pauses, breaths, and emotional nuances.
+
+Q: How long does it take to learn?
+A: A custom agent can be trained on your data and ready for testing in as little as 2-4 weeks.
+
+Q: Does it work in every language?
+A: Yes, our AI models are natively polyglot, supporting over 60 languages out of the box.
+
+Q: Can I see what the AI said?
+A: Yes, you get full transcripts and sentiment analysis for every single interaction.
+
+Q: Can it transfer to a human?
+A: Yes, the AI can seamlessly hand off a call or chat to a live human if it detects frustration or complex needs.
+
+Q: What does the "Custom LLM Training" capability include?
+A: AI that knows your specific business rules.
+
+Q: What does the "Voice AI Agents" capability include?
+A: Robots that speak naturally on the phone.

@@ -1,0 +1,45 @@
+# Way Too Much Manual Data Entry
+
+Is your team wasting hours copy-pasting from Excel?
+
+If your staff spends half their day moving names from a spreadsheet into an invoice system, you're essentially burning money. Humans get tired, we make typos, and we're expensive. Robots (well, simple scripts and APIs) don't mind the boring stuff. We automate these repetitive tasks so your team can focus on work that actually matters.
+
+Symptoms:
+- Endless copy-pasting between different apps
+- Typos that cause headaches later
+- A team that's bored to tears by their daily tasks
+- Orders that take way too long to process
+
+Our solution: We build digital bridges between your apps. We make your website talk to your accounting software so that when a sale happens, the invoice is created, the email is sent, and your stock is updated—all without anyone touching a keyboard.
+
+FAQs:
+
+Q: Is custom automation expensive?
+A: The initial setup costs money, but it usually pays for itself in 3 months by saving labor costs.
+
+Q: Do I need to change my software?
+A: Usually not. We build connectors that work with the tools you already have like Salesforce, SAP, or Sage.
+
+Q: What if our workflow is very unique?
+A: We specialize in custom "Middleware" that can handle complex, multi-step logic and rules.
+
+Q: Does it break when software updates?
+A: We maintain the API bridges and update them automatically whenever the third-party software changes.
+
+Q: Is data synced securely?
+A: Yes, we use mutual TLS and private API keys to ensure your data is never exposed during transit.
+
+Q: Can it handle high volumes?
+A: Our infrastructure is built on AWS Lambda, allowing it to scale from 1 to 1,000,000 operations per minute instantly.
+
+Q: Does our staff need training?
+A: The best automation is invisible. Your staff just notices that the work is already done for them.
+
+Q: How do you measure success?
+A: We track "Hours Saved" and "Error Reduction Rate" as primary KPIs for automation projects.
+
+Q: How do I know if this problem applies to us?
+A: Common signs include: Endless copy-pasting between different apps; Typos that cause headaches later; A team that's bored to tears by their daily tasks.
+
+Q: What's your actual approach to fixing this?
+A: We build digital bridges between your apps. We make your website talk to your accounting software so that when a sale happens, the invoice is created, the email is sent, and your stock is updated—all without anyone touching a keyboard.

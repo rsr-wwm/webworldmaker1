@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://webworldmaker.com</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -770,7 +770,7 @@
   </url>
   <url>
     <loc>https://webworldmaker.com/company/about</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-07-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.53</priority>
   </url>
@@ -781,20 +781,8 @@
     <priority>0.53</priority>
   </url>
   <url>
-    <loc>https://webworldmaker.com/developer/api-reference</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.53</priority>
-  </url>
-  <url>
     <loc>https://webworldmaker.com/social-media</loc>
     <lastmod>2026-07-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.53</priority>
-  </url>
-  <url>
-    <loc>https://webworldmaker.com/global-reach</loc>
-    <lastmod>2026-07-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.53</priority>
   </url>
@@ -809,12 +797,6 @@
     <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.52</priority>
-  </url>
-  <url>
-    <loc>https://webworldmaker.com/compliance</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.51</priority>
   </url>
   <url>
     <loc>https://webworldmaker.com/partners/partner-program</loc>
@@ -991,12 +973,6 @@
     <priority>0.48</priority>
   </url>
   <url>
-    <loc>https://webworldmaker.com/security</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.48</priority>
-  </url>
-  <url>
     <loc>https://webworldmaker.com/problems</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>yearly</changefreq>
@@ -1076,13 +1052,13 @@
   </url>
   <url>
     <loc>https://webworldmaker.com/company/contact</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.47</priority>
   </url>
   <url>
-    <loc>https://webworldmaker.com/changelog</loc>
-    <lastmod>2026-07-28</lastmod>
+    <loc>https://webworldmaker.com/locations</loc>
+    <lastmod>2026-07-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.47</priority>
   </url>
@@ -1483,56 +1459,50 @@
     <priority>0.37</priority>
   </url>
   <url>
-    <loc>https://webworldmaker.com/status</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.35</priority>
-  </url>
-  <url>
     <loc>https://webworldmaker.com/trap/admin-config</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://webworldmaker.com/trap/api-keys</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://webworldmaker.com/trap/database-backup</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://webworldmaker.com/trap/wp-admin</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://webworldmaker.com/trap/phpmyadmin</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://webworldmaker.com/trap/.env</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://webworldmaker.com/trap/server-status</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://webworldmaker.com/trap/debug-vars</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
