@@ -21,7 +21,7 @@
   "latitude": 8.5625,
   "longitude": 87.9033,
   "landmark": "Sundernagar Township Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Sundernagar Township, India",
   "population": 4002250,
   "mobileUsers": 2941653,

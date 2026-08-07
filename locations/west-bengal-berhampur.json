@@ -21,7 +21,7 @@
   "latitude": 8.4062,
   "longitude": 88.2162,
   "landmark": "Berhampur Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Berhampur, India",
   "population": 1764208,
   "mobileUsers": 1305513,

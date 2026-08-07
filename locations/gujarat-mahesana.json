@@ -21,7 +21,7 @@
   "latitude": 22.4671,
   "longitude": 74.9647,
   "landmark": "Mahesana Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Mahesana, India",
   "population": 1513748,
   "mobileUsers": 1092926,

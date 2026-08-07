@@ -21,7 +21,7 @@
   "latitude": 8.95,
   "longitude": 87.4551,
   "landmark": "Mavelikara State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Mavelikara, India",
   "population": 7625870,
   "mobileUsers": 5818538,

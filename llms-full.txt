@@ -4,7 +4,7 @@
 
 > WebWorldMaker builds business communication, automation, web application, AI integration, and search visibility systems for companies that need measurable digital operations and compliance-aware implementation support.
 
-Last generated: 2026-07-30
+Last generated: 2026-08-07
 Canonical site: https://webworldmaker.com
 Navigation index: https://webworldmaker.com/llms.txt
 
@@ -21,7 +21,7 @@ Category: Mobile Communication & Customer Engagement
 
 Transactional, OTP, Promotional SMS, and high-speed API dispatches via direct operator binds.
 
-Maximize open rates with our direct carrier SMS solutions. We offer high-performance transactional routes, low-latency OTP gateways, and highly-scalable promotional SMS engines. Connect via persistent SMPP binds or REST APIs, and track delivery logs in real-time with comprehensive analytics dashboards. Traditional SMS is also the reliable fallback for RCS campaigns or can be integrated alongside the WhatsApp Business API for a complete omnichannel user experience.
+Maximize open rates with our direct carrier SMS solutions. We offer high-performance transactional routes, low-latency OTP gateways, and highly-scalable promotional SMS engines. Connect via persistent SMPP binds or REST APIs, and track delivery logs in real-time with comprehensive analytics dashboards. All commercial SMS sent in India must be DLT-registered with TRAI — see our step-by-step registration guide. Traditional SMS is also the reliable fallback for RCS campaigns or can be integrated alongside the WhatsApp Business API for a complete omnichannel user experience.
 
 Key features:
 - OTP & Transactional SMS: Priority Tier-1 routes with sub-3 second global delivery. Minimize login drop-offs.
@@ -5215,7 +5215,11 @@ Key takeaways:
 
 ## Locations
 
-WebWorldMaker maintains more than 1,700 dedicated service-location pages covering cities across India and worldwide, each detailing local carrier connectivity, timezone, and regional compliance (TRAI/DLT, GDPR, A2P 10DLC). They are intentionally not inlined here to keep this corpus compact. Browse the machine-readable index at https://webworldmaker.com/locations-index.json (city, state, country, coordinates), per-location detail at https://webworldmaker.com/locations/{state-slug}-{city-slug}.json, and coverage polygons at https://webworldmaker.com/locations.kml.
+WebWorldMaker maintains 1 dedicated verified service-location pages covering cities across India and worldwide, each detailing local carrier connectivity, timezone, and regional compliance (TRAI/DLT, GDPR, A2P 10DLC). They are intentionally not inlined here to keep this corpus compact. Browse the machine-readable index at https://webworldmaker.com/locations-index.json (city, state, country, coordinates), per-location detail at https://webworldmaker.com/locations/{state-slug}-{city-slug}.json, and coverage polygons at https://webworldmaker.com/locations.kml.
+
+### Verified Evidence Citations
+The following are verifiable citations and PMIDs for location-specific claims:
+- [Source: https://webworldmaker.com/compliance/mendoza-audit-2024.pdf] - Verified for Mendoza (Mendoza Province mobile networks)
 
 ---
 

@@ -21,7 +21,7 @@
   "latitude": 21.8241,
   "longitude": 69.1373,
   "landmark": "Tiruchirappalli State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Tiruchirappalli, India",
   "population": 6581264,
   "mobileUsers": 4751672,

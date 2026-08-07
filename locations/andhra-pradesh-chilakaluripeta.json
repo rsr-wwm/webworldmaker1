@@ -21,7 +21,7 @@
   "latitude": 9.4331,
   "longitude": 69.0925,
   "landmark": "Chilakaluripeta Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Chilakaluripeta, India",
   "population": 9819048,
   "mobileUsers": 7177724,

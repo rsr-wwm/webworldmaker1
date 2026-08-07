@@ -21,7 +21,7 @@
   "latitude": 30.9209,
   "longitude": 84.6293,
   "landmark": "Bhanjanagar Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Bhanjanagar, India",
   "population": 917209,
   "mobileUsers": 696161,

@@ -21,7 +21,7 @@
   "latitude": 17.9661,
   "longitude": 79.3668,
   "landmark": "Sugumu Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Sugumu, India",
   "population": 2489851,
   "mobileUsers": 1825060,

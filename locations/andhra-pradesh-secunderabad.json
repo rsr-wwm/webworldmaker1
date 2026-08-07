@@ -21,7 +21,7 @@
   "latitude": 25.4178,
   "longitude": 75.8009,
   "landmark": "Secunderabad Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Secunderabad, India",
   "population": 3078151,
   "mobileUsers": 2274753,

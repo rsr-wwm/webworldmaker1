@@ -21,7 +21,7 @@
   "latitude": 25.9671,
   "longitude": 88.6061,
   "landmark": "Panaji Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Panaji G.P.O, India",
   "population": 39784,
   "mobileUsers": 30474,

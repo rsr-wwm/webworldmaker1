@@ -21,7 +21,7 @@
   "latitude": 18.3587,
   "longitude": 88.746,
   "landmark": "Rae Bareli Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Rae Bareli, India",
   "population": 1988636,
   "mobileUsers": 1501420,

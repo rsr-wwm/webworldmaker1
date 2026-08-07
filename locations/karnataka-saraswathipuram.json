@@ -21,7 +21,7 @@
   "latitude": 26.0398,
   "longitude": 86.8115,
   "landmark": "Saraswathipuram Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Saraswathipuram, India",
   "population": 3361535,
   "mobileUsers": 2544681,

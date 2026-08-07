@@ -21,7 +21,7 @@
   "latitude": 26.7821,
   "longitude": 80.5695,
   "landmark": "Muzaffarpur Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Muzaffarpur, India",
   "population": 1414021,
   "mobileUsers": 1035063,

@@ -21,7 +21,7 @@
   "latitude": 16.8364,
   "longitude": 78.5179,
   "landmark": "Parlakhemudi Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Parlakhemudi, India",
   "population": 2370875,
   "mobileUsers": 1773414,

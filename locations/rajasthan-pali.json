@@ -21,7 +21,7 @@
   "latitude": 28.6808,
   "longitude": 85.0764,
   "landmark": "Pali Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Pali, India",
   "population": 6925560,
   "mobileUsers": 5117988,

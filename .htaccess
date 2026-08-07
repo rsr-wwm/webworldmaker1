@@ -64,4 +64,16 @@ ErrorDocument 404 /404.html
   Header set X-Frame-Options "SAMEORIGIN"
   Header set X-XSS-Protection "1; mode=block"
   Header set Referrer-Policy "strict-origin-when-cross-origin"
+  # HSTS: site is HTTPS-only already (all canonical/OG URLs use https://) —
+  # this just makes browsers enforce it, closing the downgrade window.
+  # Start without `preload` until this has run cleanly for a while; adding
+  # to the HSTS preload list is a one-way commitment.
+  Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+  # Locks down powerful browser APIs. geolocation stays allowed for same-origin
+  # only — GlobalLocaleSelector.tsx uses navigator.geolocation (gated behind
+  # cookie consent) for the "nearest location" feature; blocking it outright
+  # would have silently broken that. camera/microphone/payment are genuinely
+  # unused anywhere in this codebase (verified: no getUserMedia, no
+  # PaymentRequest API calls) so those are safe to lock down fully.
+  Header set Permissions-Policy "geolocation=(self), camera=(), microphone=(), payment=()"
 </IfModule>

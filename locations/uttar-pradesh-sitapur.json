@@ -21,7 +21,7 @@
   "latitude": 20.5743,
   "longitude": 76.3733,
   "landmark": "Sitapur GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Sitapur, India",
   "population": 6608035,
   "mobileUsers": 5048538,

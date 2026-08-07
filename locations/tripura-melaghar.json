@@ -21,7 +21,7 @@
   "latitude": 31.4811,
   "longitude": 75.2119,
   "landmark": "Melaghar Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Melaghar, India",
   "population": 8378260,
   "mobileUsers": 6040725,

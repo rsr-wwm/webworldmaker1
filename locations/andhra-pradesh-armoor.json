@@ -21,7 +21,7 @@
   "latitude": 31.3322,
   "longitude": 79.841,
   "landmark": "Armoor District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Armoor, India",
   "population": 9404041,
   "mobileUsers": 7288131,

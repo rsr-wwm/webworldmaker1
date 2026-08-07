@@ -21,7 +21,7 @@
   "latitude": 16.0098,
   "longitude": 83.8927,
   "landmark": "Bhawani Patana Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Bhawani Patana, India",
   "population": 8937016,
   "mobileUsers": 6515084,

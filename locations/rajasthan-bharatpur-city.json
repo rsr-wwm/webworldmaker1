@@ -21,7 +21,7 @@
   "latitude": 23.0545,
   "longitude": 81.7029,
   "landmark": "Bharatpur City State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Bharatpur City, India",
   "population": 6139392,
   "mobileUsers": 4426501,

@@ -21,7 +21,7 @@
   "latitude": 14.8217,
   "longitude": 73.5781,
   "landmark": "Bordoli District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Bordoli, India",
   "population": 8477714,
   "mobileUsers": 6595661,

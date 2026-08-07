@@ -21,7 +21,7 @@
   "latitude": 13.8256,
   "longitude": 83.9772,
   "landmark": "Warangal Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Warangal, India",
   "population": 1542673,
   "mobileUsers": 1119980,

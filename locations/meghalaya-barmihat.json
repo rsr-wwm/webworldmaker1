@@ -21,7 +21,7 @@
   "latitude": 26.6628,
   "longitude": 74.4312,
   "landmark": "Barmihat Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Barmihat, India",
   "population": 8898430,
   "mobileUsers": 6842892,

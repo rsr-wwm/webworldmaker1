@@ -21,7 +21,7 @@
   "latitude": 15.0117,
   "longitude": 85.4232,
   "landmark": "Bansi District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Bansi, India",
   "population": 7133327,
   "mobileUsers": 5556861,

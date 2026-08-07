@@ -21,7 +21,7 @@
   "latitude": 22.8145,
   "longitude": 78.2239,
   "landmark": "Maidjiphema Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Maidjiphema, India",
   "population": 2849733,
   "mobileUsers": 2077455,

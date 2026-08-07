@@ -21,7 +21,7 @@
   "latitude": 19.2355,
   "longitude": 84.9513,
   "landmark": "Rajnandgaon GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Rajnandgaon, India",
   "population": 1532783,
   "mobileUsers": 1149587,

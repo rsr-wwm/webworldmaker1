@@ -52,10 +52,5 @@ Sitemap: https://webworldmaker.com/sitemap-locations-1.xml
 Sitemap: https://webworldmaker.com/sitemap-locations-2.xml
 Sitemap: https://webworldmaker.com/sitemap-service-locations-1.xml
 Sitemap: https://webworldmaker.com/sitemap-service-locations-2.xml
-Sitemap: https://webworldmaker.com/sitemap-service-locations-3.xml
-Sitemap: https://webworldmaker.com/sitemap-service-locations-4.xml
-Sitemap: https://webworldmaker.com/sitemap-service-locations-5.xml
-Sitemap: https://webworldmaker.com/sitemap-service-locations-6.xml
-Sitemap: https://webworldmaker.com/sitemap-service-locations-7.xml
 Sitemap: https://webworldmaker.com/sitemap-main.xml
 Sitemap: https://webworldmaker.com/sitemap-delta.xml

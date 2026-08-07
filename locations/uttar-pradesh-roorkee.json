@@ -21,7 +21,7 @@
   "latitude": 12.5997,
   "longitude": 68.8314,
   "landmark": "Roorkee Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Roorkee, India",
   "population": 8149648,
   "mobileUsers": 5892195,

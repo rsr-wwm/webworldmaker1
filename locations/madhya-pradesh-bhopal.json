@@ -21,7 +21,7 @@
   "latitude": 25.9745,
   "longitude": 69.2528,
   "landmark": "Bhopal Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Bhopal, India",
   "population": 852033,
   "mobileUsers": 662029,

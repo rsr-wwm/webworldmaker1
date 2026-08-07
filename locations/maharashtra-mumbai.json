@@ -21,7 +21,7 @@
   "latitude": 16.8532,
   "longitude": 69.0409,
   "landmark": "Mumbai GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Mumbai, India",
   "population": 4926945,
   "mobileUsers": 3759259,

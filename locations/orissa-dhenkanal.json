@@ -21,7 +21,7 @@
   "latitude": 25.07,
   "longitude": 82.838,
   "landmark": "Dhenkanal Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Dhenkanal, India",
   "population": 3174237,
   "mobileUsers": 2425117,

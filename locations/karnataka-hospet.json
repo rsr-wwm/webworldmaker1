@@ -21,7 +21,7 @@
   "latitude": 19.5728,
   "longitude": 82.7232,
   "landmark": "Hospet Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Hospet, India",
   "population": 1295035,
   "mobileUsers": 935015,

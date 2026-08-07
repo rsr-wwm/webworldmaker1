@@ -21,7 +21,7 @@
   "latitude": 28.9138,
   "longitude": 77.135,
   "landmark": "Nahan GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Nahan, India",
   "population": 5776791,
   "mobileUsers": 4355700,

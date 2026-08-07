@@ -21,7 +21,7 @@
   "latitude": 31.0284,
   "longitude": 72.7439,
   "landmark": "Dhampur GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Dhampur, India",
   "population": 2676748,
   "mobileUsers": 1988823,

@@ -21,7 +21,7 @@
   "latitude": 31.5147,
   "longitude": 73.0644,
   "landmark": "Vasco Da Gama Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Vasco Da Gama, India",
   "population": 9676579,
   "mobileUsers": 6986490,

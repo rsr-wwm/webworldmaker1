@@ -21,7 +21,7 @@
   "latitude": 15.5492,
   "longitude": 73.9114,
   "landmark": "Vela Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Vela, India",
   "population": 9001341,
   "mobileUsers": 6733003,

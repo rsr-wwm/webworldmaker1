@@ -21,7 +21,7 @@
   "latitude": 19.6799,
   "longitude": 79.9489,
   "landmark": "Kamalghat Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Kamalghat, India",
   "population": 4292531,
   "mobileUsers": 3253738,

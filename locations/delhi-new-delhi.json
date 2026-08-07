@@ -21,7 +21,7 @@
   "latitude": 13.1005,
   "longitude": 84.1435,
   "landmark": "New Delhi Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for New Delhi, India",
   "population": 1135851,
   "mobileUsers": 846208,

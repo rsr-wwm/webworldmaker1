@@ -21,7 +21,7 @@
   "latitude": 19.003,
   "longitude": 84.6577,
   "landmark": "Bhubaneswar District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Bhubaneswar G.P.O, India",
   "population": 28575,
   "mobileUsers": 21459,

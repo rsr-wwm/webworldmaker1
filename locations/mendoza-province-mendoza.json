@@ -39,6 +39,15 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "ENACOM Regulations & Data Privacy compliance",
+  "localEvidence": [
+    {
+      "owner": "Local Telecom Audit",
+      "sourceUrlOrDocument": "https://webworldmaker.com/compliance/mendoza-audit-2024.pdf",
+      "measurementWindow": "2023-2024",
+      "scope": "Mendoza Province mobile networks",
+      "expiryDate": "2027-01-01"
+    }
+  ],
   "nearbyLocations": [
     {
       "city": "Cordoba",

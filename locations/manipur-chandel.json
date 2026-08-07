@@ -21,7 +21,7 @@
   "latitude": 27.1651,
   "longitude": 79.5878,
   "landmark": "Chandel Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Chandel, India",
   "population": 7628733,
   "mobileUsers": 5538460,

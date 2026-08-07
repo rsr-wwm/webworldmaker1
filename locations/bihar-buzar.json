@@ -21,7 +21,7 @@
   "latitude": 9.2219,
   "longitude": 72.9219,
   "landmark": "Buzar District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Buzar, India",
   "population": 5596671,
   "mobileUsers": 4320630,

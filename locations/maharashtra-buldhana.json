@@ -21,7 +21,7 @@
   "latitude": 12.1328,
   "longitude": 86.1343,
   "landmark": "Buldhana Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Buldhana, India",
   "population": 7347432,
   "mobileUsers": 5378320,

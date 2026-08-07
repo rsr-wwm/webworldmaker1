@@ -21,7 +21,7 @@
   "latitude": 28.4099,
   "longitude": 85.163,
   "landmark": "Kozhikode Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Kozhikode, India",
   "population": 3560495,
   "mobileUsers": 2656129,

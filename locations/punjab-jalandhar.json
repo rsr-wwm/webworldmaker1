@@ -21,7 +21,7 @@
   "latitude": 20.3014,
   "longitude": 76.7461,
   "landmark": "Jalandhar Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Jalandhar, India",
   "population": 8479148,
   "mobileUsers": 6452631,

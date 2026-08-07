@@ -21,7 +21,7 @@
   "latitude": 25.8519,
   "longitude": 77.6869,
   "landmark": "Damoh Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Damoh, India",
   "population": 8194536,
   "mobileUsers": 6236041,

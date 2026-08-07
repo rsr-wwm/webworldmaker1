@@ -21,7 +21,7 @@
   "latitude": 9.6062,
   "longitude": 83.2068,
   "landmark": "Markapur Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Markapur, India",
   "population": 5824033,
   "mobileUsers": 4513625,

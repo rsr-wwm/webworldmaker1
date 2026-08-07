@@ -21,7 +21,7 @@
   "latitude": 11.2951,
   "longitude": 78.1671,
   "landmark": "Siwan Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Siwan, India",
   "population": 7173353,
   "mobileUsers": 5559348,

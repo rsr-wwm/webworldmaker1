@@ -21,7 +21,7 @@
   "latitude": 21.2803,
   "longitude": 84.1905,
   "landmark": "Manughat Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Manughat, India",
   "population": 9472465,
   "mobileUsers": 7341160,

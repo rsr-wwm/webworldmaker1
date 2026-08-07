@@ -21,7 +21,7 @@
   "latitude": 24.8693,
   "longitude": 69.0985,
   "landmark": "Dharmavaram Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Dharmavaram, India",
   "population": 3126313,
   "mobileUsers": 2316597,

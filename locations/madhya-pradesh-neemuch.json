@@ -21,7 +21,7 @@
   "latitude": 12.1467,
   "longitude": 70.4517,
   "landmark": "Neemuch Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Neemuch, India",
   "population": 6426260,
   "mobileUsers": 4742579,

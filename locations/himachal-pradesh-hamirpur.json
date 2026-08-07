@@ -21,7 +21,7 @@
   "latitude": 25.0807,
   "longitude": 71.2607,
   "landmark": "Hamirpur Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Hamirpur, India",
   "population": 4142507,
   "mobileUsers": 3028172,

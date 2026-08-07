@@ -21,7 +21,7 @@
   "latitude": 11.0147,
   "longitude": 79.0719,
   "landmark": "Kozhikode Civil Station Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Kozhikode Civil Station, India",
   "population": 1468043,
   "mobileUsers": 1061395,

@@ -21,7 +21,7 @@
   "latitude": 20.8914,
   "longitude": 89.094,
   "landmark": "Keonjargarh Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Keonjargarh, India",
   "population": 3922688,
   "mobileUsers": 2843948,

@@ -21,7 +21,7 @@
   "latitude": 17.6759,
   "longitude": 82.7415,
   "landmark": "Raichur Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Raichur, India",
   "population": 2343132,
   "mobileUsers": 1787809,

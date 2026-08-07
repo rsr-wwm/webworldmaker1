@@ -21,7 +21,7 @@
   "latitude": 22.2368,
   "longitude": 81.6917,
   "landmark": "Ambasamudram Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Ambasamudram, India",
   "population": 7140844,
   "mobileUsers": 5555576,

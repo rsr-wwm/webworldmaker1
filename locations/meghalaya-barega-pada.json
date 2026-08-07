@@ -21,7 +21,7 @@
   "latitude": 31.4121,
   "longitude": 88.331,
   "landmark": "Barega pada Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Barega pada, India",
   "population": 8437830,
   "mobileUsers": 6227118,

@@ -21,7 +21,7 @@
   "latitude": 29.4022,
   "longitude": 75.3629,
   "landmark": "Tanuku Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Tanuku, India",
   "population": 6030622,
   "mobileUsers": 4697854,

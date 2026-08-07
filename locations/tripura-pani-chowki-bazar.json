@@ -21,7 +21,7 @@
   "latitude": 11.5834,
   "longitude": 89.1218,
   "landmark": "Pani Chowki Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Pani Chowki Bazar, India",
   "population": 148164,
   "mobileUsers": 108604,

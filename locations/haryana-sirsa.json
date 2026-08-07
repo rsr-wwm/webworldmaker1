@@ -21,7 +21,7 @@
   "latitude": 20.4339,
   "longitude": 85.9013,
   "landmark": "Sirsa Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Sirsa, India",
   "population": 7280645,
   "mobileUsers": 5358554,

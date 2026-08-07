@@ -21,7 +21,7 @@
   "latitude": 14.9653,
   "longitude": 84.7426,
   "landmark": "Ramanathapuram Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Ramanathapuram, India",
   "population": 3487854,
   "mobileUsers": 2539157,

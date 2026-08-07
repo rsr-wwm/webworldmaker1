@@ -21,7 +21,7 @@
   "latitude": 28.7491,
   "longitude": 84.4686,
   "landmark": "Kalbadevi Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Kalbadevi, India",
   "population": 8386560,
   "mobileUsers": 6424104,

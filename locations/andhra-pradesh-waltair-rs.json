@@ -21,7 +21,7 @@
   "latitude": 31.6459,
   "longitude": 78.5721,
   "landmark": "Waltair R.S. Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Waltair R.S., India",
   "population": 7916159,
   "mobileUsers": 6016280,

@@ -21,7 +21,7 @@
   "latitude": 20.481,
   "longitude": 77.0867,
   "landmark": "Hyderabad Jubilee Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Hyderabad Jubilee, India",
   "population": 1354857,
   "mobileUsers": 1018852,

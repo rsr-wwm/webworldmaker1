@@ -21,7 +21,7 @@
   "latitude": 21.9854,
   "longitude": 85.0109,
   "landmark": "Wokha Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Wokha, India",
   "population": 9597753,
   "mobileUsers": 7121532,

@@ -21,7 +21,7 @@
   "latitude": 26.4638,
   "longitude": 81.5134,
   "landmark": "Visakhapatnam Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Visakhapatnam, India",
   "population": 582902,
   "mobileUsers": 447668,

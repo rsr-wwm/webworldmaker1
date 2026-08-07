@@ -21,7 +21,7 @@
   "latitude": 17.6483,
   "longitude": 78.143,
   "landmark": "Kala pahad Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Kala pahad, India",
   "population": 4477833,
   "mobileUsers": 3479276,

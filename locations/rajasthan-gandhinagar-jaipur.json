@@ -21,7 +21,7 @@
   "latitude": 9.1702,
   "longitude": 75.4168,
   "landmark": "Gandhinagar (Jaipur) Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Gandhinagar (Jaipur), India",
   "population": 3632412,
   "mobileUsers": 2804222,

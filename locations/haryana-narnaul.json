@@ -21,7 +21,7 @@
   "latitude": 29.8216,
   "longitude": 71.1074,
   "landmark": "Narnaul Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Narnaul, India",
   "population": 9837707,
   "mobileUsers": 7092986,

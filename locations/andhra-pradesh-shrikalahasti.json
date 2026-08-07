@@ -21,7 +21,7 @@
   "latitude": 16.696,
   "longitude": 88.3333,
   "landmark": "Shrikalahasti Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Shrikalahasti, India",
   "population": 7403992,
   "mobileUsers": 5471550,

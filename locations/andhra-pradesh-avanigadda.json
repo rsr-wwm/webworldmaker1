@@ -21,7 +21,7 @@
   "latitude": 13.8226,
   "longitude": 88.485,
   "landmark": "Avanigadda Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Avanigadda, India",
   "population": 835177,
   "mobileUsers": 602162,

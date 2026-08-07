@@ -21,7 +21,7 @@
   "latitude": 20.7878,
   "longitude": 71.1938,
   "landmark": "Kolkata Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Kolkata, India",
   "population": 5305466,
   "mobileUsers": 4000321,

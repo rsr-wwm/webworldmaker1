@@ -21,7 +21,7 @@
   "latitude": 30.2289,
   "longitude": 73.9737,
   "landmark": "Shastrinagar (Jodhpur) Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Shastrinagar (Jodhpur), India",
   "population": 8676738,
   "mobileUsers": 6394755,

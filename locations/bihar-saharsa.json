@@ -21,7 +21,7 @@
   "latitude": 30.1503,
   "longitude": 84.3768,
   "landmark": "Saharsa Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Saharsa, India",
   "population": 6764657,
   "mobileUsers": 4931434,

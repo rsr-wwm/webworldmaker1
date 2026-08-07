@@ -21,7 +21,7 @@
   "latitude": 26.968,
   "longitude": 82.6677,
   "landmark": "Hoshangabad Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Hoshangabad, India",
   "population": 2584692,
   "mobileUsers": 1969535,

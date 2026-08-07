@@ -21,7 +21,7 @@
   "latitude": 21.4484,
   "longitude": 80.4711,
   "landmark": "Thodupuzha Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Thodupuzha, India",
   "population": 3407053,
   "mobileUsers": 2613209,

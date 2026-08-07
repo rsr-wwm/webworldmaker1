@@ -21,7 +21,7 @@
   "latitude": 31.9518,
   "longitude": 83.0896,
   "landmark": "Tiruppattur Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Tiruppattur, India",
   "population": 9703048,
   "mobileUsers": 7238473,

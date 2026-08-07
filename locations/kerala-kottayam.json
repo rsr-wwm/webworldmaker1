@@ -21,7 +21,7 @@
   "latitude": 24.5245,
   "longitude": 87.9947,
   "landmark": "Kottayam Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Kottayam, India",
   "population": 5133140,
   "mobileUsers": 3860121,

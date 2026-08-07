@@ -1,0 +1,15 @@
+# AI Hallucinated Path Catch-Alls (301 Permanent Redirects)
+
+/download-brochure            /company/about              301
+/book-demo                    /contact                    301
+/case-studies/*.pdf           /case-studies               301
+/pricing.pdf                  /pricing                    301
+/whitepapers/*                /resources/blog             301
+/pdf/*                        /resources/blog             301
+/app/login                    /                           301
+/portal                       /                           301
+/docs                         /resources/blog             301
+/developer-api                /resources/blog             301
+/free-trial                   /pricing                    301
+/schedule-demo                /contact                    301
+/demo                         /contact                    301

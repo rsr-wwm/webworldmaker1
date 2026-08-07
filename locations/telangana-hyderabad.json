@@ -21,7 +21,7 @@
   "latitude": 20.0557,
   "longitude": 87.1889,
   "landmark": "Hyderabad Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Hyderabad, India",
   "population": 8875451,
   "mobileUsers": 6745342,

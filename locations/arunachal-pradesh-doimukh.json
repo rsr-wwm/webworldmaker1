@@ -21,7 +21,7 @@
   "latitude": 28.6413,
   "longitude": 79.6284,
   "landmark": "Doimukh State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Doimukh, India",
   "population": 4543521,
   "mobileUsers": 3439445,

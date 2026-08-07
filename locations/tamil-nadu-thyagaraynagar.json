@@ -21,7 +21,7 @@
   "latitude": 15.1375,
   "longitude": 69.5691,
   "landmark": "Thyagaraynagar Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Thyagaraynagar, India",
   "population": 849807,
   "mobileUsers": 644153,

@@ -21,7 +21,7 @@
   "latitude": 31.9631,
   "longitude": 77.584,
   "landmark": "Bobbili Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Bobbili, India",
   "population": 4481122,
   "mobileUsers": 3490794,

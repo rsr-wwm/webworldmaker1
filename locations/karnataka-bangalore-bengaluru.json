@@ -21,7 +21,7 @@
   "latitude": 16.5611,
   "longitude": 71.747,
   "landmark": "Bangalore (Bengaluru) Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Bangalore (Bengaluru), India",
   "population": 9998571,
   "mobileUsers": 7338951,

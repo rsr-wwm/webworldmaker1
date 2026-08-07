@@ -21,7 +21,7 @@
   "latitude": 17.712,
   "longitude": 68.8422,
   "landmark": "Srirangapatna District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Srirangapatna, India",
   "population": 9484690,
   "mobileUsers": 6942793,

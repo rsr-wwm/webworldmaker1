@@ -21,7 +21,7 @@
   "latitude": 30.4913,
   "longitude": 83.6847,
   "landmark": "Perumbavoor Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Perumbavoor, India",
   "population": 3449081,
   "mobileUsers": 2510930,

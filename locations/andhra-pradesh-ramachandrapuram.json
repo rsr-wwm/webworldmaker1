@@ -21,7 +21,7 @@
   "latitude": 21.5417,
   "longitude": 84.4645,
   "landmark": "Ramachandrapuram Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Ramachandrapuram, India",
   "population": 909204,
   "mobileUsers": 703723,

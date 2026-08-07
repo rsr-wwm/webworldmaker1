@@ -1,0 +1,197 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "WebWorldMaker Product Catalog",
+  "description": "Comprehensive list of products, solutions, and SaaS subscriptions available at WebWorldMaker.",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Product",
+        "productID": "saas-starter",
+        "name": "Starter Plan",
+        "description": "Perfect for small businesses getting started with automation.",
+        "url": "https://webworldmaker.com/pricing",
+        "category": "SaaS Subscription",
+        "offers": {
+          "@type": "Offer",
+          "price": "39.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Product",
+        "productID": "saas-growth",
+        "name": "Growth Plan",
+        "description": "For growing teams that need advanced tracking and AI tools.",
+        "url": "https://webworldmaker.com/pricing",
+        "category": "SaaS Subscription",
+        "offers": {
+          "@type": "Offer",
+          "price": "159.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Product",
+        "productID": "saas-enterprise",
+        "name": "Enterprise Plan",
+        "description": "Full-scale infrastructure for large organizations.",
+        "url": "https://webworldmaker.com/pricing",
+        "category": "SaaS Subscription",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Product",
+        "productID": "white-label-reseller",
+        "name": "Run Your Own Agency",
+        "description": "Sell our SMS, Voice, and Marketing tools as your own and keep the profits.",
+        "url": "https://webworldmaker.com/product/white-label-reseller",
+        "category": "Platform Product",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Product",
+        "productID": "voicebot-studio",
+        "name": "VoiceBot Studio",
+        "description": "A simple way to create phone menus and AI voice helpers.",
+        "url": "https://webworldmaker.com/product/voicebot-studio",
+        "category": "Platform Product",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Product",
+        "productID": "secure-gate-2fa",
+        "name": "SecureGate 2FA",
+        "description": "Fast, reliable login codes via SMS and WhatsApp.",
+        "url": "https://webworldmaker.com/product/secure-gate-2fa",
+        "category": "Platform Product",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Product",
+        "productID": "stockflow-pro",
+        "name": "StockFlow Pro",
+        "description": "Predict what you need to buy and automate your restocking.",
+        "url": "https://webworldmaker.com/product/stockflow-pro",
+        "category": "Platform Product",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Product",
+        "productID": "crm-connector-hub",
+        "name": "CRM Connector Hub",
+        "description": "A simple way to sync systems like Salesforce and HubSpot in real-time.",
+        "url": "https://webworldmaker.com/product/crm-connector-hub",
+        "category": "Platform Product",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Product",
+        "productID": "social-stream-auto",
+        "name": "SocialStream Auto",
+        "description": "Create and schedule posts for LinkedIn, X, and Instagram using AI.",
+        "url": "https://webworldmaker.com/product/social-stream-auto",
+        "category": "Platform Product",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Product",
+        "productID": "securedocs-vault",
+        "name": "SecureDocs Vault",
+        "description": "Share sensitive files with investors and know exactly who opens them.",
+        "url": "https://webworldmaker.com/product/securedocs-vault",
+        "category": "Platform Product",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Product",
+        "productID": "meeting-ai-notetaker",
+        "name": "MeetingAI Notetaker",
+        "description": "An AI assistant that joins your Zoom and Teams calls to write summaries.",
+        "url": "https://webworldmaker.com/product/meeting-ai-notetaker",
+        "category": "Platform Product",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    }
+  ]
+}

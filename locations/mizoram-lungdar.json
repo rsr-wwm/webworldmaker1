@@ -21,7 +21,7 @@
   "latitude": 31.2461,
   "longitude": 75.0707,
   "landmark": "Lungdar Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Lungdar, India",
   "population": 5554710,
   "mobileUsers": 4138258,

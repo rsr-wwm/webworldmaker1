@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://webworldmaker.com</loc>
+    <loc>https://webworldmaker.com/</loc>
     <image:image>
       <image:loc>https://webworldmaker.com/og-image.png</image:loc>
       <image:title>WebWorldMaker - AI &amp; Enterprise Digital Solutions</image:title>
@@ -14,56 +14,56 @@
     </image:image>
   </url>
   <url>
-    <loc>https://webworldmaker.com/product/white-label-reseller</loc>
+    <loc>https://webworldmaker.com/product/white-label-reseller/</loc>
     <image:image>
       <image:loc>https://webworldmaker.com/og-image.png</image:loc>
       <image:title>Run Your Own Agency</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://webworldmaker.com/product/voicebot-studio</loc>
+    <loc>https://webworldmaker.com/product/voicebot-studio/</loc>
     <image:image>
       <image:loc>https://webworldmaker.com/og-image.png</image:loc>
       <image:title>VoiceBot Studio</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://webworldmaker.com/product/secure-gate-2fa</loc>
+    <loc>https://webworldmaker.com/product/secure-gate-2fa/</loc>
     <image:image>
       <image:loc>https://webworldmaker.com/og-image.png</image:loc>
       <image:title>SecureGate 2FA</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://webworldmaker.com/product/stockflow-pro</loc>
+    <loc>https://webworldmaker.com/product/stockflow-pro/</loc>
     <image:image>
       <image:loc>https://webworldmaker.com/og-image.png</image:loc>
       <image:title>StockFlow Pro</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://webworldmaker.com/product/crm-connector-hub</loc>
+    <loc>https://webworldmaker.com/product/crm-connector-hub/</loc>
     <image:image>
       <image:loc>https://webworldmaker.com/og-image.png</image:loc>
       <image:title>CRM Connector Hub</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://webworldmaker.com/product/social-stream-auto</loc>
+    <loc>https://webworldmaker.com/product/social-stream-auto/</loc>
     <image:image>
       <image:loc>https://webworldmaker.com/og-image.png</image:loc>
       <image:title>SocialStream Auto</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://webworldmaker.com/product/securedocs-vault</loc>
+    <loc>https://webworldmaker.com/product/securedocs-vault/</loc>
     <image:image>
       <image:loc>https://webworldmaker.com/og-image.png</image:loc>
       <image:title>SecureDocs Vault</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://webworldmaker.com/product/meeting-ai-notetaker</loc>
+    <loc>https://webworldmaker.com/product/meeting-ai-notetaker/</loc>
     <image:image>
       <image:loc>https://webworldmaker.com/og-image.png</image:loc>
       <image:title>MeetingAI Notetaker</image:title>

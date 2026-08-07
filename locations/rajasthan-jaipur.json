@@ -21,7 +21,7 @@
   "latitude": 28.9992,
   "longitude": 85.3107,
   "landmark": "Jaipur Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Jaipur, India",
   "population": 8823321,
   "mobileUsers": 6643960,

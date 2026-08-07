@@ -21,7 +21,7 @@
   "latitude": 11.2211,
   "longitude": 75.891,
   "landmark": "Rupnagar (Ropar) Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Rupnagar (Ropar), India",
   "population": 945816,
   "mobileUsers": 710307,

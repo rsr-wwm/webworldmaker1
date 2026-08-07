@@ -21,7 +21,7 @@
   "latitude": 28.3404,
   "longitude": 83.8651,
   "landmark": "Tindivanam State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for 99.999% SLA uptime.",
+  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
   "localSupport": "Remote regional support and carrier network coverage for Tindivanam, India",
   "population": 7188870,
   "mobileUsers": 5341330,
