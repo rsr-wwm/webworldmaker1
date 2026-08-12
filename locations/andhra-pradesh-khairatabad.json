@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "khairatabad",
   "country": "India",
-  "pincode": "500004",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.2519,
-  "longitude": 72.3629,
-  "landmark": "Khairatabad Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Khairatabad, India",
   "population": 1700774,
   "mobileUsers": 1292588,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Peddapalli",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "peddapalli",
-      "distance": 36.98546087961668
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Loktak Project",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "loktak-project",
-      "distance": 38.56382985682801
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kalpeni",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "kalpeni",
-      "distance": 55.75029091323863
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Rayagada",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "rayagada",
-      "distance": 63.90902700424459
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Godhra",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "godhra",
-      "distance": 86.05596688510884
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsg7n9j",
-  "geohashUrl": "https://geohash.softeng.co/tsg7n9j"
+  ]
 }

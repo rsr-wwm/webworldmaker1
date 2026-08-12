@@ -5,7 +5,6 @@
   "stateSlug": "grand-cayman",
   "citySlug": "george-town",
   "country": "Cayman Islands",
-  "pincode": "KY1",
   "currency": "KYD",
   "symbol": "CI$",
   "compliance": "OfReg Rules",
@@ -16,9 +15,6 @@
   "nodeType": "town",
   "dialingCode": "+1",
   "timezone": "America/Cayman",
-  "latitude": 19.5813,
-  "longitude": -80.3341,
-  "landmark": "George District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for George Town, Cayman Islands",
   "population": 146737,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
   "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Havana",
-      "state": "La Habana Province",
-      "stateSlug": "la-habana-province",
-      "citySlug": "havana",
-      "distance": 205.6622075092664
-    },
-    {
-      "city": "Montego Bay",
-      "state": "Saint James Parish",
-      "stateSlug": "saint-james-parish",
-      "citySlug": "montego-bay",
-      "distance": 308.7746281757127
-    },
-    {
-      "city": "Kingston",
-      "state": "Surrey County",
-      "stateSlug": "surrey-county",
-      "citySlug": "kingston",
-      "distance": 320.44949342237436
-    },
-    {
-      "city": "Nassau",
-      "state": "New Providence",
-      "stateSlug": "new-providence",
-      "citySlug": "nassau",
-      "distance": 677.1121339388392
-    },
-    {
-      "city": "Tegucigalpa",
-      "state": "Francisco Morazan Department",
-      "stateSlug": "francisco-morazan-department",
-      "citySlug": "tegucigalpa",
-      "distance": 832.8854853857453
-    }
-  ],
-  "geohash": "d5qz7uw",
-  "geohashUrl": "https://geohash.softeng.co/d5qz7uw"
+  "nearbyLocations": []
 }

@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "ponani",
   "country": "India",
-  "pincode": "679577",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.9557,
-  "longitude": 70.7312,
-  "landmark": "Ponani Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ponani, India",
   "population": 3290252,
   "mobileUsers": 2451237,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Siddipet",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "siddipet",
-      "distance": 41.43570009590052
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Guwahati",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "guwahati",
-      "distance": 56.99223646896172
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chera bazar",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "chera-bazar",
-      "distance": 60.720714395111955
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Medak",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "medak",
-      "distance": 63.92594423556298
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Coimbatore",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "coimbatore",
-      "distance": 83.45935507668699
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdf6c88",
-  "geohashUrl": "https://geohash.softeng.co/tdf6c88"
+  ]
 }

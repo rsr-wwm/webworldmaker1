@@ -5,7 +5,6 @@
   "stateSlug": "grand-est",
   "citySlug": "strasbourg",
   "country": "France",
-  "pincode": "67000",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / ARCEP",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+33 1",
   "timezone": "Europe/Paris",
-  "latitude": 16.2954,
-  "longitude": -99.3565,
-  "landmark": "Strasbourg Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Strasbourg, France",
   "population": 1042352,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Juarez",
-      "state": "Chihuahua",
-      "stateSlug": "chihuahua",
-      "citySlug": "juarez",
-      "distance": 775.5515032195632
+      "city": "Nantes",
+      "state": "Pays de la Loire",
+      "stateSlug": "pays-de-la-loire",
+      "citySlug": "nantes"
     },
     {
-      "city": "Torreon",
-      "state": "Coahuila",
-      "stateSlug": "coahuila",
-      "citySlug": "torreon",
-      "distance": 777.7999975512532
+      "city": "Rennes",
+      "state": "Brittany",
+      "stateSlug": "brittany",
+      "citySlug": "rennes"
     },
     {
-      "city": "Tijuana",
-      "state": "Baja California",
-      "stateSlug": "baja-california",
-      "citySlug": "tijuana",
-      "distance": 778.7997140426143
+      "city": "Montpellier",
+      "state": "Occitanie",
+      "stateSlug": "occitanie",
+      "citySlug": "montpellier"
     },
     {
-      "city": "Leon",
-      "state": "Guanajuato",
-      "stateSlug": "guanajuato",
-      "citySlug": "leon",
-      "distance": 782.3883856471879
+      "city": "Grenoble",
+      "state": "Auvergne-Rhône-Alpes",
+      "stateSlug": "auvergne-rhone-alpes",
+      "citySlug": "grenoble"
     },
     {
-      "city": "Toluca",
-      "state": "State of Mexico",
-      "stateSlug": "state-of-mexico",
-      "citySlug": "toluca",
-      "distance": 782.4958901560261
+      "city": "Lyon",
+      "state": "Auvergne-Rhône-Alpes",
+      "stateSlug": "auvergne-rhone-alpes",
+      "citySlug": "lyon"
     }
-  ],
-  "geohash": "9fcken6",
-  "geohashUrl": "https://geohash.softeng.co/9fcken6"
+  ]
 }

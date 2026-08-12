@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "mati",
   "country": "India",
-  "pincode": "799159",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.6686,
-  "longitude": 77.2515,
-  "landmark": "Mati Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mati, India",
   "population": 9289936,
   "mobileUsers": 6865262,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Hyderabad Jubilee",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hyderabad-jubilee",
-      "distance": 27.008820849229807
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Phulbani",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "phulbani",
-      "distance": 31.630214907468353
-    },
-    {
-      "city": "Rathinasabapathipuram",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "rathinasabapathipuram",
-      "distance": 53.861010905161024
-    },
-    {
-      "city": "Rampurhat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "rampurhat",
-      "distance": 63.40425220005306
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
       "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "jalandhar",
-      "distance": 66.6224130516462
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tewvtfs",
-  "geohashUrl": "https://geohash.softeng.co/tewvtfs"
+  ]
 }

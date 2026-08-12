@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "arasaradi",
   "country": "India",
-  "pincode": "625016",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.0945,
-  "longitude": 75.7363,
-  "landmark": "Arasaradi Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Arasaradi, India",
   "population": 4350244,
   "mobileUsers": 3175678,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dimapur",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "dimapur",
-      "distance": 40.52939428291702
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ludhiana",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "ludhiana",
-      "distance": 53.12817057777528
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mandvi",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "mandvi",
-      "distance": 61.48991253735845
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Chittoor",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "chittoor",
-      "distance": 87.25722119573261
-    },
-    {
-      "city": "Barpeta",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "barpeta",
-      "distance": 91.02217377371052
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9vc7mt",
-  "geohashUrl": "https://geohash.softeng.co/t9vc7mt"
+  ]
 }

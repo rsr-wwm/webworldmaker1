@@ -5,7 +5,6 @@
   "stateSlug": "himachal-pradesh",
   "citySlug": "nahan",
   "country": "India",
-  "pincode": "173001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.9138,
-  "longitude": 77.135,
-  "landmark": "Nahan GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nahan, India",
   "population": 5776791,
   "mobileUsers": 4355700,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shahabad",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "shahabad",
-      "distance": 35.56102753945999
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chalisgaon",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "chalisgaon",
-      "distance": 58.3675070615406
+      "citySlug": "nagpur"
     },
     {
-      "city": "Laheriasarai",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "laheriasarai",
-      "distance": 60.91089823207075
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Anna Road",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "anna-road",
-      "distance": 78.21693114721
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kolar",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "kolar",
-      "distance": 81.40671000807407
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttnu7px",
-  "geohashUrl": "https://geohash.softeng.co/ttnu7px"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "gujarat",
   "citySlug": "valsad",
   "country": "India",
-  "pincode": "396001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 79",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.4251,
-  "longitude": 84.6473,
-  "landmark": "Valsad Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Valsad, India",
   "population": 6488866,
   "mobileUsers": 4788783,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kayamkulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kayamkulam",
-      "distance": 43.021383372112126
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Namchi",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "namchi",
-      "distance": 49.935306494628584
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kothgudem Collieries",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kothgudem-collieries",
-      "distance": 60.782204298744496
-    },
-    {
-      "city": "Phagwara",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "phagwara",
-      "distance": 68.12064822176256
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bada bazar",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bada-bazar",
-      "distance": 77.80657586580989
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfh0ypy",
-  "geohashUrl": "https://geohash.softeng.co/tfh0ypy"
+  ]
 }

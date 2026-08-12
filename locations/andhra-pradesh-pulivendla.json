@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "pulivendla",
   "country": "India",
-  "pincode": "516115",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.2621,
-  "longitude": 83.8639,
-  "landmark": "Pulivendla Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Pulivendla, India",
   "population": 2596433,
   "mobileUsers": 1905781,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Koppal",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "koppal",
-      "distance": 74.1258717806292
-    },
-    {
-      "city": "Mon",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "mon",
-      "distance": 98.69005416758448
-    },
-    {
-      "city": "Dargamitta",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "dargamitta",
-      "distance": 108.03298934644249
-    },
-    {
-      "city": "Shajapur",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "shajapur",
-      "distance": 110.62845797685078
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bhubaneswar G.P.O",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bhubaneswar-gpo",
-      "distance": 117.39983501382746
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg5xuke",
-  "geohashUrl": "https://geohash.softeng.co/tg5xuke"
+  ]
 }

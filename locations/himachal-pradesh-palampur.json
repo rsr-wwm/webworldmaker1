@@ -5,7 +5,6 @@
   "stateSlug": "himachal-pradesh",
   "citySlug": "palampur",
   "country": "India",
-  "pincode": "176061",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.4316,
-  "longitude": 76.9067,
-  "landmark": "Palampur Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Palampur, India",
   "population": 7609185,
   "mobileUsers": 5737325,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Solan",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "solan",
-      "distance": 29.070826032001328
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Tirupur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tirupur",
-      "distance": 35.83931228719425
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Thinghai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "thinghai",
-      "distance": 48.74738529284678
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Thuckalay",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thuckalay",
-      "distance": 108.87260851157463
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Nanjangud",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "nanjangud",
-      "distance": 113.7300738771716
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdwdn51",
-  "geohashUrl": "https://geohash.softeng.co/tdwdn51"
+  ]
 }

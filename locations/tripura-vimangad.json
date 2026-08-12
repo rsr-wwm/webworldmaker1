@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "vimangad",
   "country": "India",
-  "pincode": "799015",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.3081,
-  "longitude": 86.1976,
-  "landmark": "Vimangad Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Vimangad, India",
   "population": 4472857,
   "mobileUsers": 3426208,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Karong",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "karong",
-      "distance": 43.55862902753577
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gular thal",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "gular-thal",
-      "distance": 49.25592261172319
-    },
-    {
-      "city": "Gopeshwar",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "gopeshwar",
-      "distance": 52.55956598223066
-    },
-    {
-      "city": "Malvan",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "malvan",
-      "distance": 55.44370933323733
+      "citySlug": "nagpur"
     },
     {
-      "city": "Dobasipada",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "dobasipada",
-      "distance": 61.86589477347982
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgv31rp",
-  "geohashUrl": "https://geohash.softeng.co/tgv31rp"
+  ]
 }

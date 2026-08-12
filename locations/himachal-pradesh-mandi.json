@@ -5,7 +5,6 @@
   "stateSlug": "himachal-pradesh",
   "citySlug": "mandi",
   "country": "India",
-  "pincode": "175001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.6977,
-  "longitude": 71.9454,
-  "landmark": "Mandi Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mandi, India",
   "population": 8174862,
   "mobileUsers": 6057572,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Baghma",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "baghma",
-      "distance": 74.22352784351418
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Cuddapah",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "cuddapah",
-      "distance": 79.67656816620513
-    },
-    {
-      "city": "Kaikalur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kaikalur",
-      "distance": 83.81879326419762
-    },
-    {
-      "city": "Pune City",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "pune-city",
-      "distance": 91.00944659112075
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tiptur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tiptur",
-      "distance": 97.62232934739443
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttehm4m",
-  "geohashUrl": "https://geohash.softeng.co/ttehm4m"
+  ]
 }

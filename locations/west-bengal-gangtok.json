@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "gangtok",
   "country": "India",
-  "pincode": "737101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.741,
-  "longitude": 83.0968,
-  "landmark": "Gangtok Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Gangtok, India",
   "population": 1338755,
   "mobileUsers": 1022808,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kavlem",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "kavlem",
-      "distance": 32.77008295999942
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hoshiarpur",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "hoshiarpur",
-      "distance": 38.74885933729
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Hospet",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hospet",
-      "distance": 43.36231921527013
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Ukhrul",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "ukhrul",
-      "distance": 95.26133540789628
-    },
-    {
-      "city": "Sirohi",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sirohi",
-      "distance": 100.03160100554514
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tge06ct",
-  "geohashUrl": "https://geohash.softeng.co/tge06ct"
+  ]
 }

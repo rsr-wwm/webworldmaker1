@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "vaivakown",
   "country": "India",
-  "pincode": "796009",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.4827,
-  "longitude": 70.854,
-  "landmark": "Vaivakown District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Vaivakown, India",
   "population": 1232008,
   "mobileUsers": 932630,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kalol",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "kalol",
-      "distance": 27.339394760758104
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Dikchu",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "dikchu",
-      "distance": 33.914162573990225
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Dehra Gopipur",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "dehra-gopipur",
-      "distance": 55.00878374489578
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Thiruvallur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thiruvallur",
-      "distance": 66.63142407731966
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kadnat",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "kadnat",
-      "distance": 79.19623195867666
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsdqsm4",
-  "geohashUrl": "https://geohash.softeng.co/tsdqsm4"
+  ]
 }

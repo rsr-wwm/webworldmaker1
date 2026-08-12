@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "moradabad",
   "country": "India",
-  "pincode": "244001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.5638,
-  "longitude": 75.0424,
-  "landmark": "Moradabad Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Moradabad, India",
   "population": 7115193,
   "mobileUsers": 5286588,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sekmai",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "sekmai",
-      "distance": 33.915295283738345
-    },
-    {
-      "city": "Papanasam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "papanasam",
-      "distance": 63.155242228279384
-    },
-    {
-      "city": "Rajpura",
-      "state": "Punjab",
-      "stateSlug": "punjab",
-      "citySlug": "rajpura",
-      "distance": 79.74926736568808
-    },
-    {
-      "city": "Morar",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "morar",
-      "distance": 84.74979252257477
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ambalmukal",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "ambalmukal",
-      "distance": 105.0593843388586
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdmm5th",
-  "geohashUrl": "https://geohash.softeng.co/tdmm5th"
+  ]
 }

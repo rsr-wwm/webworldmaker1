@@ -5,7 +5,6 @@
   "stateSlug": "perak",
   "citySlug": "ipoh",
   "country": "Malaysia",
-  "pincode": "30000",
   "currency": "MYR",
   "symbol": "RM",
   "compliance": "MCMC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+60",
   "timezone": "Asia/Kuala_Lumpur",
-  "latitude": 2.3854,
-  "longitude": 112.3914,
-  "landmark": "Ipoh Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Maxis networks. Failovers route over CelcomDigi, U Mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ipoh, Malaysia",
   "population": 1974184,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Kuala Lumpur",
-      "state": "Federal Territory",
-      "stateSlug": "federal-territory",
-      "citySlug": "kuala-lumpur",
-      "distance": 3.825033024842054
-    },
-    {
       "city": "Shah Alam",
       "state": "Selangor",
       "stateSlug": "selangor",
-      "citySlug": "shah-alam",
-      "distance": 6.923616835881542
-    },
-    {
-      "city": "Penang",
-      "state": "Penang State",
-      "stateSlug": "penang-state",
-      "citySlug": "penang",
-      "distance": 9.223972531424474
-    },
-    {
-      "city": "Johor Bahru",
-      "state": "Johor State",
-      "stateSlug": "johor-state",
-      "citySlug": "johor-bahru",
-      "distance": 17.25113306833512
+      "citySlug": "shah-alam"
     },
     {
       "city": "Malacca",
       "state": "Malacca State",
       "stateSlug": "malacca-state",
-      "citySlug": "malacca",
-      "distance": 33.557664354223476
+      "citySlug": "malacca"
+    },
+    {
+      "city": "Penang",
+      "state": "Penang State",
+      "stateSlug": "penang-state",
+      "citySlug": "penang"
+    },
+    {
+      "city": "Johor Bahru",
+      "state": "Johor State",
+      "stateSlug": "johor-state",
+      "citySlug": "johor-bahru"
+    },
+    {
+      "city": "Kuala Lumpur",
+      "state": "Federal Territory",
+      "stateSlug": "federal-territory",
+      "citySlug": "kuala-lumpur"
     }
-  ],
-  "geohash": "w2rvtd0",
-  "geohashUrl": "https://geohash.softeng.co/w2rvtd0"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "kumar-ghat",
   "country": "India",
-  "pincode": "799264",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.5941,
-  "longitude": 84.2908,
-  "landmark": "Kumar ghat State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kumar ghat, India",
   "population": 4427556,
   "mobileUsers": 3316239,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ramdurg",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "ramdurg",
-      "distance": 44.78645383285483
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kurukshetra",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "kurukshetra",
-      "distance": 60.5964185358385
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tinsukia",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "tinsukia",
-      "distance": 62.961132099077886
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Allahabad Kacheri",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "allahabad-kacheri",
-      "distance": 73.70587040564814
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Manughat",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "manughat",
-      "distance": 77.00967227764609
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgevnj4",
-  "geohashUrl": "https://geohash.softeng.co/tgevnj4"
+  ]
 }

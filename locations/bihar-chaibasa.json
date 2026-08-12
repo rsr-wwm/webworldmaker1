@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "chaibasa",
   "country": "India",
-  "pincode": "833201",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.8001,
-  "longitude": 83.0335,
-  "landmark": "Chaibasa Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chaibasa, India",
   "population": 2860980,
   "mobileUsers": 2142874,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Attungal",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "attungal",
-      "distance": 45.47275599387704
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kulashekar",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "kulashekar",
-      "distance": 53.465752700040674
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Channapatna",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "channapatna",
-      "distance": 101.12557645533322
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Warangal",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "warangal",
-      "distance": 101.93939736976378
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Ambala Cantt.",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "ambala-cantt",
-      "distance": 107.61125842915827
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf7n92p",
-  "geohashUrl": "https://geohash.softeng.co/tf7n92p"
+  ]
 }

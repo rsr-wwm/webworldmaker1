@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "marhowrah",
   "country": "India",
-  "pincode": "841418",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.0108,
-  "longitude": 84.9103,
-  "landmark": "Marhowrah Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Marhowrah, India",
   "population": 3179814,
   "mobileUsers": 2362601,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tehri",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "tehri",
-      "distance": 23.023244734856675
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Orai",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "orai",
-      "distance": 61.72166569360462
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Gulbarga",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "gulbarga",
-      "distance": 77.42466155368568
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kunnamkulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kunnamkulam",
-      "distance": 89.32841019357409
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bhavnagar",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bhavnagar",
-      "distance": 93.32469295109118
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tukqk1j",
-  "geohashUrl": "https://geohash.softeng.co/tukqk1j"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "primorsky-krai",
   "citySlug": "vladivostok",
   "country": "Russia",
-  "pincode": "690000",
   "currency": "RUB",
   "symbol": "₽",
   "compliance": "Roskomnadzor Rules",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+7",
   "timezone": "Asia/Anadyr",
-  "latitude": 59.9975,
-  "longitude": 100.1102,
-  "landmark": "Vladivostok Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over MTS networks. Failovers route over MegaFon, Beeline, Tele2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Vladivostok, Russia",
   "population": 4835349,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Rostov-on-Don",
-      "state": "Rostov Oblast",
-      "stateSlug": "rostov-oblast",
-      "citySlug": "rostov-on-don",
-      "distance": 5.606048020849784
-    },
-    {
-      "city": "Samara",
-      "state": "Samara Oblast",
-      "stateSlug": "samara-oblast",
-      "citySlug": "samara",
-      "distance": 7.259314149617166
-    },
-    {
-      "city": "Moscow",
-      "state": "Central Federal District",
-      "stateSlug": "central-federal-district",
-      "citySlug": "moscow",
-      "distance": 10.992243310863138
-    },
-    {
-      "city": "Krasnoyarsk",
-      "state": "Krasnoyarsk Krai",
-      "stateSlug": "krasnoyarsk-krai",
-      "citySlug": "krasnoyarsk",
-      "distance": 13.88771559512736
+      "city": "Kazan",
+      "state": "Republic of Tatarstan",
+      "stateSlug": "republic-of-tatarstan",
+      "citySlug": "kazan"
     },
     {
       "city": "Nizhny Novgorod",
       "state": "Nizhny Novgorod Oblast",
       "stateSlug": "nizhny-novgorod-oblast",
-      "citySlug": "nizhny-novgorod",
-      "distance": 16.021428816939526
+      "citySlug": "nizhny-novgorod"
+    },
+    {
+      "city": "Samara",
+      "state": "Samara Oblast",
+      "stateSlug": "samara-oblast",
+      "citySlug": "samara"
+    },
+    {
+      "city": "Krasnoyarsk",
+      "state": "Krasnoyarsk Krai",
+      "stateSlug": "krasnoyarsk-krai",
+      "citySlug": "krasnoyarsk"
+    },
+    {
+      "city": "Chelyabinsk",
+      "state": "Chelyabinsk Oblast",
+      "stateSlug": "chelyabinsk-oblast",
+      "citySlug": "chelyabinsk"
     }
-  ],
-  "geohash": "y4xjq44",
-  "geohashUrl": "https://geohash.softeng.co/y4xjq44"
+  ]
 }

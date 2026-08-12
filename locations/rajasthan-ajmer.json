@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "ajmer",
   "country": "India",
-  "pincode": "305001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.8537,
-  "longitude": 70.9472,
-  "landmark": "Ajmer Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ajmer, India",
   "population": 9474771,
   "mobileUsers": 7342947,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kolkata",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "kolkata",
-      "distance": 107.00273441378529
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Labaan",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "labaan",
-      "distance": 114.01548826583975
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tilakwadi East",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tilakwadi-east",
-      "distance": 120.11712344386815
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bahraich",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "bahraich",
-      "distance": 121.5447967638633
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Belgaum",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "belgaum",
-      "distance": 127.42490034488561
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ted2yqq",
-  "geohashUrl": "https://geohash.softeng.co/ted2yqq"
+  ]
 }

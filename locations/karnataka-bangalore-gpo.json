@@ -5,7 +5,6 @@
   "stateSlug": "karnataka",
   "citySlug": "bangalore-gpo",
   "country": "India",
-  "pincode": "560001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "post_office",
   "dialingCode": "+91 80",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.6346,
-  "longitude": 70.7042,
-  "landmark": "Bangalore Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bangalore G.P.O., India",
   "population": 24108,
   "mobileUsers": 18539,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Srivaikuntam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "srivaikuntam",
-      "distance": 14.046920739651005
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Wanaparthy",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "wanaparthy",
-      "distance": 56.59767525459332
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Morbi",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "morbi",
-      "distance": 78.74834497512595
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Hayuliyang",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "hayuliyang",
-      "distance": 88.875273867384
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bhadrachalam",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "bhadrachalam",
-      "distance": 105.05175361059898
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt46buv",
-  "geohashUrl": "https://geohash.softeng.co/tt46buv"
+  ]
 }

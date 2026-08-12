@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "sitapur",
   "country": "India",
-  "pincode": "261001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.5743,
-  "longitude": 76.3733,
-  "landmark": "Sitapur GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sitapur, India",
   "population": 6608035,
   "mobileUsers": 5048538,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
       "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "jalandhar",
-      "distance": 49.29177653901498
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Rampurhat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "rampurhat",
-      "distance": 52.2355622144982
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Hyderabad Jubilee",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hyderabad-jubilee",
-      "distance": 75.01030250669827
-    },
-    {
-      "city": "Phulbani",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "phulbani",
-      "distance": 77.11756324102663
-    },
-    {
-      "city": "Porbandar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "porbandar",
-      "distance": 84.38640397188753
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tewm1cm",
-  "geohashUrl": "https://geohash.softeng.co/tewm1cm"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "jammu-and-kashmir",
   "citySlug": "gandhinagar-jammu",
   "country": "India",
-  "pincode": "180004",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.8474,
-  "longitude": 72.8773,
-  "landmark": "Gandhinagar (Jammu) District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Gandhinagar (Jammu), India",
   "population": 9112524,
   "mobileUsers": 6606579,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Thrissur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thrissur",
-      "distance": 54.79452359268018
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Loleim",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "loleim",
-      "distance": 61.15595216232642
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Champhai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "champhai",
-      "distance": 72.01730346369273
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mangan",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "mangan",
-      "distance": 82.97275623674932
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Gudiyattam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "gudiyattam",
-      "distance": 85.23950795748497
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "teeyd75",
-  "geohashUrl": "https://geohash.softeng.co/teeyd75"
+  ]
 }

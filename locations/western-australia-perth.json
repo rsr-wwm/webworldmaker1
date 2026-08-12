@@ -5,7 +5,6 @@
   "stateSlug": "western-australia",
   "citySlug": "perth",
   "country": "Australia",
-  "pincode": "6000",
   "currency": "AUD",
   "symbol": "A$",
   "compliance": "ACMA Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+61 2",
   "timezone": "Australia/Sydney",
-  "latitude": -31.9558967,
-  "longitude": 115.8605784,
-  "landmark": "Perth Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Telstra networks. Failovers route over Optus, Vodafone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Perth, Australia",
   "population": 3376078,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Lyon",
-      "state": "Auvergne-Rhône-Alpes",
-      "stateSlug": "auvergne-rhone-alpes",
-      "citySlug": "lyon",
-      "distance": 1980.6219161712388
+      "city": "Canberra",
+      "state": "Australian Capital Territory",
+      "stateSlug": "australian-capital-territory",
+      "citySlug": "canberra"
     },
     {
-      "city": "Adelaide",
-      "state": "South Australia",
-      "stateSlug": "south-australia",
-      "citySlug": "adelaide",
-      "distance": 2130.8804655082463
-    },
-    {
-      "city": "Flying Fish Cove",
-      "state": "Christmas Island",
-      "stateSlug": "christmas-island",
-      "citySlug": "flying-fish-cove",
-      "distance": 2620.706194628432
+      "city": "Hobart",
+      "state": "Tasmania",
+      "stateSlug": "tasmania",
+      "citySlug": "hobart"
     },
     {
       "city": "Darwin",
       "state": "Northern Territory",
       "stateSlug": "northern-territory",
-      "citySlug": "darwin",
-      "distance": 2653.5049677466404
+      "citySlug": "darwin"
     },
     {
       "city": "Melbourne",
       "state": "Victoria",
       "stateSlug": "victoria",
-      "citySlug": "melbourne",
-      "distance": 2721.3089912925875
+      "citySlug": "melbourne"
+    },
+    {
+      "city": "Brisbane",
+      "state": "Queensland",
+      "stateSlug": "queensland",
+      "citySlug": "brisbane"
     }
-  ],
-  "geohash": "qd66hqx",
-  "geohashUrl": "https://geohash.softeng.co/qd66hqx"
+  ]
 }

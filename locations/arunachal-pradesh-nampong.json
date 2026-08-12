@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "nampong",
   "country": "India",
-  "pincode": "792123",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.4029,
-  "longitude": 75.9532,
-  "landmark": "Nampong Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nampong, India",
   "population": 5058070,
   "mobileUsers": 3758146,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Secunderabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "secunderabad",
-      "distance": 15.38612229165227
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Banda",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "banda",
-      "distance": 82.25772115042204
-    },
-    {
-      "city": "Dhule",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "dhule",
-      "distance": 87.24805609738551
+      "citySlug": "nagpur"
     },
     {
-      "city": "Adoni",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "adoni",
-      "distance": 87.69595444874862
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Tirukkoyilur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tirukkoyilur",
-      "distance": 104.9347818907032
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsw0827",
-  "geohashUrl": "https://geohash.softeng.co/tsw0827"
+  ]
 }

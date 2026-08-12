@@ -5,7 +5,6 @@
   "stateSlug": "north-carolina",
   "citySlug": "greensboro",
   "country": "United States",
-  "pincode": "27401",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/New_York",
-  "latitude": 39.2721,
-  "longitude": -77.5596,
-  "landmark": "Greensboro Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Greensboro, United States",
   "population": 1004249,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Hamilton",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "hamilton",
-      "distance": 483.2030340668466
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Toronto",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "toronto",
-      "distance": 510.31612149884035
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "London",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "london",
-      "distance": 515.3758092771803
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Windsor",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "windsor",
-      "distance": 565.8921305333598
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Kingston",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "kingston",
-      "distance": 567.4657261581867
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "dqbz7j6",
-  "geohashUrl": "https://geohash.softeng.co/dqbz7j6"
+  ]
 }

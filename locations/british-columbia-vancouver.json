@@ -5,7 +5,6 @@
   "stateSlug": "british-columbia",
   "citySlug": "vancouver",
   "country": "Canada",
-  "pincode": "V6B 3A7",
   "currency": "CAD",
   "symbol": "C$",
   "compliance": "CRTC / CASL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 416",
   "timezone": "America/Toronto",
-  "latitude": 49.2608724,
-  "longitude": -123.113952,
-  "landmark": "Vancouver District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Vancouver, Canada",
   "population": 1528205,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Hamilton",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "hamilton"
+    },
+    {
+      "city": "London",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "london"
+    },
+    {
       "city": "Victoria",
       "state": "British Columbia",
       "stateSlug": "british-columbia",
-      "citySlug": "victoria",
-      "distance": 94.38019964134745
+      "citySlug": "victoria"
     },
     {
-      "city": "Kelowna",
-      "state": "British Columbia",
-      "stateSlug": "british-columbia",
-      "citySlug": "kelowna",
-      "distance": 270.00721220575997
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor"
     },
     {
-      "city": "McAllen",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "mcallen",
-      "distance": 299.8046105360447
-    },
-    {
-      "city": "Calgary",
-      "state": "Alberta",
-      "stateSlug": "alberta",
-      "citySlug": "calgary",
-      "distance": 674.5570426525502
-    },
-    {
-      "city": "Louisville",
-      "state": "Kentucky",
-      "stateSlug": "kentucky",
-      "citySlug": "louisville",
-      "distance": 788.9253857488131
+      "city": "Regina",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "regina"
     }
-  ],
-  "geohash": "c2b2nrx",
-  "geohashUrl": "https://geohash.softeng.co/c2b2nrx"
+  ]
 }

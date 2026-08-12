@@ -5,7 +5,6 @@
   "stateSlug": "iowa",
   "citySlug": "des-moines",
   "country": "United States",
-  "pincode": "50301",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/New_York",
-  "latitude": 33.9022,
-  "longitude": -98.3963,
-  "landmark": "Des Moines Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Des Moines, United States",
   "population": 3377163,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Atlanta",
-      "state": "Georgia",
-      "stateSlug": "georgia",
-      "citySlug": "atlanta",
-      "distance": 309.3968786071673
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Orlando",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "orlando",
-      "distance": 573.9125345760034
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Denver",
-      "state": "Colorado",
-      "stateSlug": "colorado",
-      "citySlug": "denver",
-      "distance": 654.0136093251214
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Miami",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "miami",
-      "distance": 656.8943700493992
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "San Diego",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "san-diego",
-      "distance": 677.9543306180084
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9y40bgw",
-  "geohashUrl": "https://geohash.softeng.co/9y40bgw"
+  ]
 }

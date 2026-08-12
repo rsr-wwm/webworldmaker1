@@ -5,7 +5,6 @@
   "stateSlug": "alofi-village",
   "citySlug": "alofi",
   "country": "Niue",
-  "pincode": "9901",
   "currency": "NZD",
   "symbol": "$",
   "compliance": "Telecom Niue Rules",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+683",
   "timezone": "Pacific/Niue",
-  "latitude": -19.1009,
-  "longitude": -170.0664,
-  "landmark": "Alofi Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Telecom Niue networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Alofi, Niue",
   "population": 2902176,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Apia",
-      "state": "Tuamasaga",
-      "stateSlug": "tuamasaga",
-      "citySlug": "apia",
-      "distance": 646.5275365874867
-    },
-    {
-      "city": "Avarua",
-      "state": "Rarotonga Island",
-      "stateSlug": "rarotonga-island",
-      "citySlug": "avarua",
-      "distance": 1083.2399691974365
-    },
-    {
-      "city": "Papeete",
-      "state": "Tahiti Island",
-      "stateSlug": "tahiti-island",
-      "citySlug": "papeete",
-      "distance": 3233.763275879992
-    },
-    {
-      "city": "Honolulu",
-      "state": "Hawaii",
-      "stateSlug": "hawaii",
-      "citySlug": "honolulu",
-      "distance": 7571.094071725834
-    },
-    {
-      "city": "Hartford",
-      "state": "Connecticut",
-      "stateSlug": "connecticut",
-      "citySlug": "hartford",
-      "distance": 7920.193000882758
-    }
-  ],
-  "geohash": "2hx564c",
-  "geohashUrl": "https://geohash.softeng.co/2hx564c"
+  "nearbyLocations": []
 }

@@ -5,7 +5,6 @@
   "stateSlug": "ad-dawhah",
   "citySlug": "doha",
   "country": "Qatar",
-  "pincode": "0000",
   "currency": "QAR",
   "symbol": "QR",
   "compliance": "CRA Guidelines",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+974",
   "timezone": "Asia/Qatar",
-  "latitude": 25.3534,
-  "longitude": 51.2312,
-  "landmark": "Doha Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Ooredoo networks. Failovers route over Vodafone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Doha, Qatar",
   "population": 2185880,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Manama",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "manama",
-      "distance": 107.5393159316809
-    },
-    {
-      "city": "Al Ain",
-      "state": "Abu Dhabi Emirate",
-      "stateSlug": "abu-dhabi-emirate",
-      "citySlug": "al-ain",
-      "distance": 295.34831576446305
-    },
-    {
-      "city": "Sharjah",
-      "state": "Sharjah Emirate",
-      "stateSlug": "sharjah-emirate",
-      "citySlug": "sharjah",
-      "distance": 302.12525738543064
-    },
-    {
-      "city": "Abu Dhabi",
-      "state": "Abu Dhabi Emirate",
-      "stateSlug": "abu-dhabi-emirate",
-      "citySlug": "abu-dhabi",
-      "distance": 307.0829551019527
-    },
-    {
-      "city": "Dubai",
-      "state": "Dubai Emirate",
-      "stateSlug": "dubai-emirate",
-      "citySlug": "dubai",
-      "distance": 329.3631279849718
-    }
-  ],
-  "geohash": "ths2jz3",
-  "geohashUrl": "https://geohash.softeng.co/ths2jz3"
+  "nearbyLocations": []
 }

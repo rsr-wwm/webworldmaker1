@@ -5,7 +5,6 @@
   "stateSlug": "northern-mindanao",
   "citySlug": "cagayan-de-oro",
   "country": "Philippines",
-  "pincode": "9000",
   "currency": "PHP",
   "symbol": "₱",
   "compliance": "NTC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+63",
   "timezone": "Asia/Manila",
-  "latitude": 12.9747,
-  "longitude": 122.1995,
-  "landmark": "Cagayan de Oro Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Smart networks. Failovers route over Globe, Dito with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cagayan de Oro, Philippines",
   "population": 1076247,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Davao City",
+      "state": "Davao Region",
+      "stateSlug": "davao-region",
+      "citySlug": "davao-city"
+    },
+    {
       "city": "Iloilo City",
       "state": "Western Visayas",
       "stateSlug": "western-visayas",
-      "citySlug": "iloilo-city",
-      "distance": 12.23758187453149
+      "citySlug": "iloilo-city"
     },
     {
       "city": "Cebu",
       "state": "Cebu Province",
       "stateSlug": "cebu-province",
-      "citySlug": "cebu",
-      "distance": 22.371067087258222
+      "citySlug": "cebu"
     },
     {
       "city": "Manila",
       "state": "Metro Manila",
       "stateSlug": "metro-manila",
-      "citySlug": "manila",
-      "distance": 25.706611062333963
-    },
-    {
-      "city": "Davao City",
-      "state": "Davao Region",
-      "stateSlug": "davao-region",
-      "citySlug": "davao-city",
-      "distance": 28.28030830421896
-    },
-    {
-      "city": "Kaohsiung",
-      "state": "Kaohsiung Municipality",
-      "stateSlug": "kaohsiung-municipality",
-      "citySlug": "kaohsiung",
-      "distance": 1156.9534161144136
+      "citySlug": "manila"
     }
-  ],
-  "geohash": "wdqcu9y",
-  "geohashUrl": "https://geohash.softeng.co/wdqcu9y"
+  ]
 }

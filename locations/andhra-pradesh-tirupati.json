@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "tirupati",
   "country": "India",
-  "pincode": "517501",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.9455,
-  "longitude": 80.6324,
-  "landmark": "Tirupati Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Tirupati, India",
   "population": 840685,
   "mobileUsers": 624628,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Phenk",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "phenk",
-      "distance": 28.285694587059762
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ernakulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "ernakulam",
-      "distance": 51.86046047016596
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Landsdowne",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "landsdowne",
-      "distance": 100.72606971619139
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bahadurgarh",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "bahadurgarh",
-      "distance": 104.54559229095342
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tiruthuraipundi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruthuraipundi",
-      "distance": 105.07883692559827
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf17fyd",
-  "geohashUrl": "https://geohash.softeng.co/tf17fyd"
+  ]
 }

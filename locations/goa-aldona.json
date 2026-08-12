@@ -5,7 +5,6 @@
   "stateSlug": "goa",
   "citySlug": "aldona",
   "country": "India",
-  "pincode": "403508",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.52,
-  "longitude": 83.4165,
-  "landmark": "Aldona Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Aldona, India",
   "population": 1985852,
   "mobileUsers": 1527120,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Adilabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "adilabad",
-      "distance": 19.93245594077094
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kanchanpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kanchanpur",
-      "distance": 37.93371659033265
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Barabanki",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "barabanki",
-      "distance": 56.917017230025955
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Pani Sagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "pani-sagar",
-      "distance": 58.26504756405184
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Olavakkot",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "olavakkot",
-      "distance": 67.02058553052262
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tue34jy",
-  "geohashUrl": "https://geohash.softeng.co/tue34jy"
+  ]
 }

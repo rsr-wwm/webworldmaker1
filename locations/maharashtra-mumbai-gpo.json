@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "mumbai-gpo",
   "country": "India",
-  "pincode": "400001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "post_office",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.8607,
-  "longitude": 89.0783,
-  "landmark": "Mumbai Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mumbai G.P.O., India",
   "population": 15935,
   "mobileUsers": 11919,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Recong Peo",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "recong-peo",
-      "distance": 18.94487920602398
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Senapati",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "senapati",
-      "distance": 70.76530707819576
-    },
-    {
-      "city": "Ranikhet",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "ranikhet",
-      "distance": 84.29704463945455
-    },
-    {
-      "city": "Erode",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "erode",
-      "distance": 98.4547094212757
-    },
-    {
-      "city": "Mahim",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "mahim",
-      "distance": 106.8499547689131
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvpk5jb",
-  "geohashUrl": "https://geohash.softeng.co/tvpk5jb"
+  ]
 }

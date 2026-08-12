@@ -5,7 +5,6 @@
   "stateSlug": "groningen-province",
   "citySlug": "groningen",
   "country": "Netherlands",
-  "pincode": "9700",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / ACM",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+31",
   "timezone": "Europe/Amsterdam",
-  "latitude": 52.6525,
-  "longitude": 5.8304,
-  "landmark": "Groningen Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over KPN networks. Failovers route over VodafoneZiggo, Odido with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Groningen, Netherlands",
   "population": 1729904,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Utrecht",
-      "state": "Utrecht Province",
-      "stateSlug": "utrecht-province",
-      "citySlug": "utrecht",
-      "distance": 19.49045151677289
-    },
-    {
       "city": "Rotterdam",
       "state": "South Holland",
       "stateSlug": "south-holland",
-      "citySlug": "rotterdam",
-      "distance": 21.98638675918116
+      "citySlug": "rotterdam"
+    },
+    {
+      "city": "Utrecht",
+      "state": "Utrecht Province",
+      "stateSlug": "utrecht-province",
+      "citySlug": "utrecht"
     },
     {
       "city": "Eindhoven",
       "state": "North Brabant",
       "stateSlug": "north-brabant",
-      "citySlug": "eindhoven",
-      "distance": 27.855710003369865
-    },
-    {
-      "city": "Amsterdam",
-      "state": "North Holland",
-      "stateSlug": "north-holland",
-      "citySlug": "amsterdam",
-      "distance": 29.39947957785344
+      "citySlug": "eindhoven"
     },
     {
       "city": "The Hague",
       "state": "South Holland",
       "stateSlug": "south-holland",
-      "citySlug": "the-hague",
-      "distance": 29.87868923420708
+      "citySlug": "the-hague"
+    },
+    {
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "stateSlug": "north-holland",
+      "citySlug": "amsterdam"
     }
-  ],
-  "geohash": "u1k5s9j",
-  "geohashUrl": "https://geohash.softeng.co/u1k5s9j"
+  ]
 }

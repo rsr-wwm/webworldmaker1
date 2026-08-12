@@ -5,7 +5,6 @@
   "stateSlug": "andorra-parish",
   "citySlug": "andorra-la-vella",
   "country": "Andorra",
-  "pincode": "AD500",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / APDA",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+376",
   "timezone": "Europe/Andorra",
-  "latitude": 42.6112,
-  "longitude": 1.657,
-  "landmark": "Andorra la Vella Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Andorra Telecom networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Andorra la Vella, Andorra",
   "population": 4656477,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Monaco",
-      "state": "Monaco-Ville",
-      "stateSlug": "monaco-ville",
-      "citySlug": "monaco",
-      "distance": 498.8148942147071
-    },
-    {
-      "city": "Zaragoza",
-      "state": "Aragon",
-      "stateSlug": "aragon",
-      "citySlug": "zaragoza",
-      "distance": 548.281403360171
-    },
-    {
-      "city": "Las Palmas",
-      "state": "Canary Islands",
-      "stateSlug": "canary-islands",
-      "citySlug": "las-palmas",
-      "distance": 548.6496600513593
-    },
-    {
-      "city": "Barcelona",
-      "state": "Catalonia",
-      "stateSlug": "catalonia",
-      "citySlug": "barcelona",
-      "distance": 552.917691345778
-    },
-    {
-      "city": "Valencia",
-      "state": "Valencian Community",
-      "stateSlug": "valencian-community",
-      "citySlug": "valencia",
-      "distance": 553.5385279529345
-    }
-  ],
-  "geohash": "sp94mtn",
-  "geohashUrl": "https://geohash.softeng.co/sp94mtn"
+  "nearbyLocations": []
 }

@@ -5,7 +5,6 @@
   "stateSlug": "yeongnam",
   "citySlug": "ulsan",
   "country": "South Korea",
-  "pincode": "44675",
   "currency": "KRW",
   "symbol": "₩",
   "compliance": "KCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+82",
   "timezone": "Asia/Seoul",
-  "latitude": 37.1831,
-  "longitude": 127.61,
-  "landmark": "Ulsan Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over SK Telecom networks. Failovers route over KT, LG Uplus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ulsan, South Korea",
   "population": 4472142,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Seoul",
-      "state": "Seoul Capital Area",
-      "stateSlug": "seoul-capital-area",
-      "citySlug": "seoul",
-      "distance": 11.220093468690303
-    },
-    {
-      "city": "Incheon",
-      "state": "Incheon Metropolitan",
-      "stateSlug": "incheon-metropolitan",
-      "citySlug": "incheon",
-      "distance": 15.919649599474534
-    },
-    {
-      "city": "Seongnam",
-      "state": "Gyeonggi",
-      "stateSlug": "gyeonggi",
-      "citySlug": "seongnam",
-      "distance": 16.90096313276719
+      "city": "Daegu",
+      "state": "Yeongnam",
+      "stateSlug": "yeongnam",
+      "citySlug": "daegu"
     },
     {
       "city": "Daejeon",
       "state": "Hoseo",
       "stateSlug": "hoseo",
-      "citySlug": "daejeon",
-      "distance": 24.853996272226524
+      "citySlug": "daejeon"
     },
     {
-      "city": "Changwon",
-      "state": "Gyeongnam",
-      "stateSlug": "gyeongnam",
-      "citySlug": "changwon",
-      "distance": 25.56660268696877
+      "city": "Gwangju",
+      "state": "Honam",
+      "stateSlug": "honam",
+      "citySlug": "gwangju"
+    },
+    {
+      "city": "Suwon",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "suwon"
+    },
+    {
+      "city": "Seongnam",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "seongnam"
     }
-  ],
-  "geohash": "wydexbf",
-  "geohashUrl": "https://geohash.softeng.co/wydexbf"
+  ]
 }

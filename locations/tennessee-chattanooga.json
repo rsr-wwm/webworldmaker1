@@ -5,7 +5,6 @@
   "stateSlug": "tennessee",
   "citySlug": "chattanooga",
   "country": "United States",
-  "pincode": "37401",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Chicago",
-  "latitude": 27.0949,
-  "longitude": -76.5345,
-  "landmark": "Chattanooga Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Chattanooga, United States",
   "population": 1748490,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Nassau",
-      "state": "New Providence",
-      "stateSlug": "new-providence",
-      "citySlug": "nassau",
-      "distance": 317.51798267949937
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "New York",
-      "state": "New York",
-      "stateSlug": "new-york",
-      "citySlug": "new-york",
-      "distance": 459.07378035633224
-    },
-    {
-      "city": "Houston",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "houston",
-      "distance": 669.9537413395127
-    },
-    {
-      "city": "Havana",
-      "state": "La Habana Province",
-      "stateSlug": "la-habana-province",
-      "citySlug": "havana",
-      "distance": 721.453548271647
-    },
-    {
-      "city": "Detroit",
+      "city": "Grand Rapids",
       "state": "Michigan",
       "stateSlug": "michigan",
-      "citySlug": "detroit",
-      "distance": 744.8964194593748
+      "citySlug": "grand-rapids"
+    },
+    {
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
+    },
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "dkcd4km",
-  "geohashUrl": "https://geohash.softeng.co/dkcd4km"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "rajnagar",
   "country": "India",
-  "pincode": "799158",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.4161,
-  "longitude": 82.6676,
-  "landmark": "Rajnagar Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Rajnagar, India",
   "population": 6178608,
   "mobileUsers": 4751349,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bishanpur",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "bishanpur",
-      "distance": 35.42340495629748
-    },
-    {
-      "city": "Hoshangabad",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "hoshangabad",
-      "distance": 61.36848081923805
+      "citySlug": "bhopal"
     },
     {
-      "city": "Khowai",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "khowai",
-      "distance": 78.82427778324315
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kanchanpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kanchanpur",
-      "distance": 87.3523791145341
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Anantapur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "anantapur",
-      "distance": 88.54350769165708
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tudy30u",
-  "geohashUrl": "https://geohash.softeng.co/tudy30u"
+  ]
 }

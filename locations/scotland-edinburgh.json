@@ -5,7 +5,6 @@
   "stateSlug": "scotland",
   "citySlug": "edinburgh",
   "country": "United Kingdom",
-  "pincode": "EH1",
   "currency": "GBP",
   "symbol": "£",
   "compliance": "Ofcom Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+44 20",
   "timezone": "Europe/London",
-  "latitude": 53.515,
-  "longitude": -4.0794,
-  "landmark": "Edinburgh Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over EE networks. Failovers route over Vodafone, O2, Three with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Edinburgh, United Kingdom",
   "population": 2203484,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Nottingham",
-      "state": "Nottinghamshire",
-      "stateSlug": "nottinghamshire",
-      "citySlug": "nottingham",
-      "distance": 37.46139941220171
-    },
-    {
-      "city": "Cardiff",
-      "state": "Wales",
-      "stateSlug": "wales",
-      "citySlug": "cardiff",
-      "distance": 61.314807478424854
-    },
-    {
-      "city": "Leeds",
-      "state": "West Yorkshire",
-      "stateSlug": "west-yorkshire",
-      "citySlug": "leeds",
-      "distance": 78.82714271528397
-    },
-    {
       "city": "Sheffield",
       "state": "South Yorkshire",
       "stateSlug": "south-yorkshire",
-      "citySlug": "sheffield",
-      "distance": 123.32384736771814
+      "citySlug": "sheffield"
+    },
+    {
+      "city": "Nottingham",
+      "state": "Nottinghamshire",
+      "stateSlug": "nottinghamshire",
+      "citySlug": "nottingham"
+    },
+    {
+      "city": "Leicester",
+      "state": "Leicestershire",
+      "stateSlug": "leicestershire",
+      "citySlug": "leicester"
     },
     {
       "city": "Southampton",
       "state": "Hampshire",
       "stateSlug": "hampshire",
-      "citySlug": "southampton",
-      "distance": 205.54398576269597
+      "citySlug": "southampton"
+    },
+    {
+      "city": "Belfast",
+      "state": "Northern Ireland",
+      "stateSlug": "northern-ireland",
+      "citySlug": "belfast"
     }
-  ],
-  "geohash": "gct07nj",
-  "geohashUrl": "https://geohash.softeng.co/gct07nj"
+  ]
 }

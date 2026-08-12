@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "narasipatnam",
   "country": "India",
-  "pincode": "531116",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.5678,
-  "longitude": 74.6231,
-  "landmark": "Narasipatnam Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Narasipatnam, India",
   "population": 8197749,
   "mobileUsers": 6066334,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rajpura",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "rajpura",
-      "distance": 67.71979843219886
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Labarchandmari",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "labarchandmari",
-      "distance": 89.67094524461861
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Thiruvananthapuram",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thiruvananthapuram",
-      "distance": 94.97599118457886
-    },
-    {
-      "city": "Sekmai",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "sekmai",
-      "distance": 113.51261072831892
-    },
-    {
-      "city": "Koppa",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "koppa",
-      "distance": 117.30986609360453
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdjp6pf",
-  "geohashUrl": "https://geohash.softeng.co/tdjp6pf"
+  ]
 }

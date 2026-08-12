@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "kolhapur",
   "country": "India",
-  "pincode": "416003",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.9365,
-  "longitude": 74.8675,
-  "landmark": "Kolhapur Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kolhapur, India",
   "population": 6303059,
   "mobileUsers": 4884870,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mysore",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "mysore",
-      "distance": 12.308327351449817
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Thanjavur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thanjavur",
-      "distance": 43.25477097497811
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Khanna",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "khanna",
-      "distance": 70.60082460993894
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Telimura",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "telimura",
-      "distance": 79.09141833199071
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tiruvarur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruvarur",
-      "distance": 88.60000053714981
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tej0reh",
-  "geohashUrl": "https://geohash.softeng.co/tej0reh"
+  ]
 }

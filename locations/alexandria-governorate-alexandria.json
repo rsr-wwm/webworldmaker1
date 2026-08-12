@@ -5,7 +5,6 @@
   "stateSlug": "alexandria-governorate",
   "citySlug": "alexandria",
   "country": "Egypt",
-  "pincode": "21500",
   "currency": "EGP",
   "symbol": "E£",
   "compliance": "NTRA Regulations",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+20",
   "timezone": "Africa/Cairo",
-  "latitude": 26.8263,
-  "longitude": 29.9035,
-  "landmark": "Alexandria GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Vodafone networks. Failovers route over Orange, Etisalat, WE with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Alexandria, Egypt",
   "population": 1753768,
@@ -42,41 +38,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Cairo",
-      "state": "Cairo Governorate",
-      "stateSlug": "cairo-governorate",
-      "citySlug": "cairo",
-      "distance": 19.509131497944114
+      "city": "Giza",
+      "state": "Giza Governorate",
+      "stateSlug": "giza-governorate",
+      "citySlug": "giza"
     },
     {
       "city": "Port Said",
       "state": "Port Said Governorate",
       "stateSlug": "port-said-governorate",
-      "citySlug": "port-said",
-      "distance": 38.41193717739516
+      "citySlug": "port-said"
     },
     {
-      "city": "Giza",
-      "state": "Giza Governorate",
-      "stateSlug": "giza-governorate",
-      "citySlug": "giza",
-      "distance": 38.76307212835848
-    },
-    {
-      "city": "Haifa",
-      "state": "Haifa District",
-      "stateSlug": "haifa-district",
-      "citySlug": "haifa",
-      "distance": 696.0161600372176
-    },
-    {
-      "city": "Tel Aviv",
-      "state": "Tel Aviv District",
-      "stateSlug": "tel-aviv-district",
-      "citySlug": "tel-aviv",
-      "distance": 698.9025354656548
+      "city": "Cairo",
+      "state": "Cairo Governorate",
+      "stateSlug": "cairo-governorate",
+      "citySlug": "cairo"
     }
-  ],
-  "geohash": "ssv287x",
-  "geohashUrl": "https://geohash.softeng.co/ssv287x"
+  ]
 }

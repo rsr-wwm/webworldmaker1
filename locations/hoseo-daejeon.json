@@ -5,7 +5,6 @@
   "stateSlug": "hoseo",
   "citySlug": "daejeon",
   "country": "South Korea",
-  "pincode": "35242",
   "currency": "KRW",
   "symbol": "₩",
   "compliance": "KCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+82",
   "timezone": "Asia/Seoul",
-  "latitude": 36.9704,
-  "longitude": 127.6961,
-  "landmark": "Daejeon GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over SK Telecom networks. Failovers route over KT, LG Uplus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Daejeon, South Korea",
   "population": 1337947,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Cheongju",
-      "state": "Chungbuk",
-      "stateSlug": "chungbuk",
-      "citySlug": "cheongju",
-      "distance": 3.1299753700613118
-    },
-    {
-      "city": "Busan",
-      "state": "Busan Metropolitan",
-      "stateSlug": "busan-metropolitan",
-      "citySlug": "busan",
-      "distance": 6.353574415857766
-    },
-    {
-      "city": "Suwon",
-      "state": "Gyeonggi",
-      "stateSlug": "gyeonggi",
-      "citySlug": "suwon",
-      "distance": 6.727668327796439
+      "city": "Daegu",
+      "state": "Yeongnam",
+      "stateSlug": "yeongnam",
+      "citySlug": "daegu"
     },
     {
       "city": "Gwangju",
       "state": "Honam",
       "stateSlug": "honam",
-      "citySlug": "gwangju",
-      "distance": 11.056433395640717
+      "citySlug": "gwangju"
     },
     {
-      "city": "Daegu",
+      "city": "Ulsan",
       "state": "Yeongnam",
       "stateSlug": "yeongnam",
-      "citySlug": "daegu",
-      "distance": 13.247452345098393
+      "citySlug": "ulsan"
+    },
+    {
+      "city": "Suwon",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "suwon"
+    },
+    {
+      "city": "Seongnam",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "seongnam"
     }
-  ],
-  "geohash": "wydf3f3",
-  "geohashUrl": "https://geohash.softeng.co/wydf3f3"
+  ]
 }

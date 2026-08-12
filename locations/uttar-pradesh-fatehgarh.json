@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "fatehgarh",
   "country": "India",
-  "pincode": "209601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.6831,
-  "longitude": 83.5379,
-  "landmark": "Fatehgarh Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Fatehgarh, India",
   "population": 9287545,
   "mobileUsers": 7095684,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Yeotamal",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "yeotamal",
-      "distance": 32.740918923872606
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ambala City",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "ambala-city",
-      "distance": 57.802833748549475
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Olavakkot",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "olavakkot",
-      "distance": 61.27135949100568
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Adilabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "adilabad",
-      "distance": 74.06750354116828
-    },
-    {
-      "city": "Pani Sagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "pani-sagar",
-      "distance": 74.20869559790215
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu7kkvq",
-  "geohashUrl": "https://geohash.softeng.co/tu7kkvq"
+  ]
 }

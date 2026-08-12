@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "shahdol",
   "country": "India",
-  "pincode": "484001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.3535,
-  "longitude": 73.8986,
-  "landmark": "Shahdol Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Shahdol, India",
   "population": 3069275,
   "mobileUsers": 2329579,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kamptee",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "kamptee",
-      "distance": 25.865914725277772
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chirala",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "chirala",
-      "distance": 60.27168848252055
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Zunhebato",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "zunhebato",
-      "distance": 61.687793846496426
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Barmihat",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "barmihat",
-      "distance": 63.177959969850654
-    },
-    {
-      "city": "Tumkur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tumkur",
-      "distance": 80.0531675509154
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsstcte",
-  "geohashUrl": "https://geohash.softeng.co/tsstcte"
+  ]
 }

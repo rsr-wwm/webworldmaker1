@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "aluva",
   "country": "India",
-  "pincode": "683101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.7027,
-  "longitude": 81.6629,
-  "landmark": "Aluva Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Aluva, India",
   "population": 5492400,
   "mobileUsers": 4245625,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Amadalavalasa",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "amadalavalasa",
-      "distance": 30.814871605384287
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Daporizo",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "daporizo",
-      "distance": 57.19073337112764
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ambasamudram",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "ambasamudram",
-      "distance": 59.4634196153015
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Barasat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barasat",
-      "distance": 81.40385775256145
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Pagaiyangdong",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "pagaiyangdong",
-      "distance": 86.96915676221256
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgf56qc",
-  "geohashUrl": "https://geohash.softeng.co/tgf56qc"
+  ]
 }

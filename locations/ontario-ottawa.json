@@ -5,7 +5,6 @@
   "stateSlug": "ontario",
   "citySlug": "ottawa",
   "country": "Canada",
-  "pincode": "K1P 1J1",
   "currency": "CAD",
   "symbol": "C$",
   "compliance": "CRTC / CASL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 416",
   "timezone": "America/Toronto",
-  "latitude": 45.4208777,
-  "longitude": -75.6901106,
-  "landmark": "Ottawa State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ottawa, Canada",
   "population": 4832330,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Buffalo",
-      "state": "New York",
-      "stateSlug": "new-york",
-      "citySlug": "buffalo",
-      "distance": 87.9531419650282
-    },
-    {
-      "city": "Kingston",
+      "city": "Hamilton",
       "state": "Ontario",
       "stateSlug": "ontario",
-      "citySlug": "kingston",
-      "distance": 137.00198145686423
+      "citySlug": "hamilton"
     },
     {
-      "city": "Montreal",
-      "state": "Quebec",
-      "stateSlug": "quebec",
-      "citySlug": "montreal",
-      "distance": 165.6109323784998
+      "city": "London",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "london"
     },
     {
-      "city": "Austin",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "austin",
-      "distance": 172.81723318093006
+      "city": "Victoria",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "victoria"
     },
     {
-      "city": "Phoenix",
-      "state": "Arizona",
-      "stateSlug": "arizona",
-      "citySlug": "phoenix",
-      "distance": 204.73107753223192
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor"
+    },
+    {
+      "city": "Regina",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "regina"
     }
-  ],
-  "geohash": "f244mss",
-  "geohashUrl": "https://geohash.softeng.co/f244mss"
+  ]
 }

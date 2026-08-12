@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "nangalbibra",
   "country": "India",
-  "pincode": "794107",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 22.1046,
-  "longitude": 75.6009,
-  "landmark": "Nangalbibra Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nangalbibra, India",
   "population": 2775139,
   "mobileUsers": 2150732,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kunraghat",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "kunraghat",
-      "distance": 57.73262253099306
-    },
-    {
-      "city": "Mylapore",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "mylapore",
-      "distance": 60.61530940003576
-    },
-    {
-      "city": "Betul",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "betul",
-      "distance": 64.47527241841004
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mahesana",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "mahesana",
-      "distance": 76.87308404101995
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nayudupeta",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nayudupeta",
-      "distance": 77.22186658323449
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tevvb24",
-  "geohashUrl": "https://geohash.softeng.co/tevvb24"
+  ]
 }

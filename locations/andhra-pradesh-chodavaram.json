@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "chodavaram",
   "country": "India",
-  "pincode": "531036",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 22.2965,
-  "longitude": 70.2832,
-  "landmark": "Chodavaram Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chodavaram, India",
   "population": 6691999,
   "mobileUsers": 5172915,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rannebennur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "rannebennur",
-      "distance": 74.7344887639074
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Midnapore",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "midnapore",
-      "distance": 78.31680924527464
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Shahpura",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "shahpura",
-      "distance": 88.01116641643567
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Allahabad City",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "allahabad-city",
-      "distance": 89.7690614564891
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Balurghat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "balurghat",
-      "distance": 112.002350105769
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tecyz6f",
-  "geohashUrl": "https://geohash.softeng.co/tecyz6f"
+  ]
 }

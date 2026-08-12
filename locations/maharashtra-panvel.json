@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "panvel",
   "country": "India",
-  "pincode": "410206",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.1618,
-  "longitude": 70.4275,
-  "landmark": "Panvel Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Panvel, India",
   "population": 1126067,
   "mobileUsers": 849054,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dehra Gopipur",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "dehra-gopipur",
-      "distance": 47.18477218404105
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sangli",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "sangli",
-      "distance": 52.37169471864577
+      "citySlug": "nagpur"
     },
     {
-      "city": "Alathur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "alathur",
-      "distance": 59.885756841963506
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Dikchu",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "dikchu",
-      "distance": 62.18421340249835
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Barmer",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "barmer",
-      "distance": 64.73156512355622
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsf4d8e",
-  "geohashUrl": "https://geohash.softeng.co/tsf4d8e"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "shirak-province",
   "citySlug": "gyumri",
   "country": "Armenia",
-  "pincode": "3101",
   "currency": "AMD",
   "symbol": "֏",
   "compliance": "PSRC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+374",
   "timezone": "Asia/Yerevan",
-  "latitude": 40.1485,
-  "longitude": 45.1644,
-  "landmark": "Gyumri Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over MTS Armenia networks. Failovers route over Team Telecom, Ucom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Gyumri, Armenia",
   "population": 3658617,
@@ -44,38 +40,7 @@
       "city": "Yerevan",
       "state": "Yerevan Municipality",
       "stateSlug": "yerevan-municipality",
-      "citySlug": "yerevan",
-      "distance": 5.874332483676829
-    },
-    {
-      "city": "Ganja",
-      "state": "Ganja District",
-      "stateSlug": "ganja-district",
-      "citySlug": "ganja",
-      "distance": 193.0427444375837
-    },
-    {
-      "city": "Baku",
-      "state": "Absheron District",
-      "stateSlug": "absheron-district",
-      "citySlug": "baku",
-      "distance": 217.99361965186884
-    },
-    {
-      "city": "Kutaisi",
-      "state": "Imereti Region",
-      "stateSlug": "imereti-region",
-      "citySlug": "kutaisi",
-      "distance": 259.005881270385
-    },
-    {
-      "city": "Tbilisi",
-      "state": "Tbilisi Region",
-      "stateSlug": "tbilisi-region",
-      "citySlug": "tbilisi",
-      "distance": 269.8474920543063
+      "citySlug": "yerevan"
     }
-  ],
-  "geohash": "tp0h7sz",
-  "geohashUrl": "https://geohash.softeng.co/tp0h7sz"
+  ]
 }

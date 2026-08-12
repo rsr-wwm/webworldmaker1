@@ -5,7 +5,6 @@
   "stateSlug": "panama-province",
   "citySlug": "panama-city",
   "country": "Panama",
-  "pincode": "0801",
   "currency": "USD",
   "symbol": "$",
   "compliance": "ASEP Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+507",
   "timezone": "America/Panama",
-  "latitude": 8.8237,
-  "longitude": -79.8494,
-  "landmark": "Panama City Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Tigo networks. Failovers route over Mas Movil, Digicel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Panama City, Panama",
   "population": 4944893,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "San Jose",
-      "state": "San Jose Province",
-      "stateSlug": "san-jose-province",
-      "citySlug": "san-jose",
-      "distance": 483.254980211451
-    },
-    {
-      "city": "Managua",
-      "state": "Managua Department",
-      "stateSlug": "managua-department",
-      "citySlug": "managua",
-      "distance": 714.2725754671492
-    },
-    {
-      "city": "Tegucigalpa",
-      "state": "Francisco Morazan Department",
-      "stateSlug": "francisco-morazan-department",
-      "citySlug": "tegucigalpa",
-      "distance": 984.6338594434017
-    },
-    {
-      "city": "Cartagena",
-      "state": "Bolivar Department",
-      "stateSlug": "bolivar-department",
-      "citySlug": "cartagena",
-      "distance": 1007.0921197060462
-    },
-    {
-      "city": "Cali",
-      "state": "Valle del Cauca Department",
-      "stateSlug": "valle-del-cauca-department",
-      "citySlug": "cali",
-      "distance": 1010.0332049799201
-    }
-  ],
-  "geohash": "d1x4nyr",
-  "geohashUrl": "https://geohash.softeng.co/d1x4nyr"
+  "nearbyLocations": []
 }

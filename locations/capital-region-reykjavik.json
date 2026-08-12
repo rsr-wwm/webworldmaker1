@@ -5,7 +5,6 @@
   "stateSlug": "capital-region",
   "citySlug": "reykjavik",
   "country": "Iceland",
-  "pincode": "101",
   "currency": "ISK",
   "symbol": "kr",
   "compliance": "GDPR / ECODEC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+354",
   "timezone": "Atlantic/Reykjavik",
-  "latitude": 65.17,
-  "longitude": -18.1818,
-  "landmark": "Reykjavik Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Siminn networks. Failovers route over Vodafone, Nova with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Reykjavik, Iceland",
   "population": 4246118,
@@ -41,41 +37,10 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Liverpool",
-      "state": "Merseyside",
-      "stateSlug": "merseyside",
-      "citySlug": "liverpool",
-      "distance": 1144.7736687487645
-    },
-    {
-      "city": "Nuuk",
-      "state": "Sermersooq",
-      "stateSlug": "sermersooq",
-      "citySlug": "nuuk",
-      "distance": 1158.2093497981004
-    },
-    {
-      "city": "Glasgow",
-      "state": "Scotland",
-      "stateSlug": "scotland",
-      "citySlug": "glasgow",
-      "distance": 1200.9687832264501
-    },
-    {
-      "city": "Manchester",
-      "state": "England",
-      "stateSlug": "england",
-      "citySlug": "manchester",
-      "distance": 1408.095492371829
-    },
-    {
-      "city": "Trondheim",
-      "state": "Trøndelag",
-      "stateSlug": "trondelag",
-      "citySlug": "trondheim",
-      "distance": 1413.361021835609
+      "city": "Copenhagen",
+      "state": "Capital Region",
+      "stateSlug": "capital-region",
+      "citySlug": "copenhagen"
     }
-  ],
-  "geohash": "gee4drb",
-  "geohashUrl": "https://geohash.softeng.co/gee4drb"
+  ]
 }

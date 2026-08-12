@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "dharmavaram",
   "country": "India",
-  "pincode": "516671",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.8693,
-  "longitude": 69.0985,
-  "landmark": "Dharmavaram Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dharmavaram, India",
   "population": 3126313,
   "mobileUsers": 2316597,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tisk",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "tisk",
-      "distance": 13.872989866533203
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nagpur City",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nagpur-city",
-      "distance": 25.46531499880658
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chijami",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chijami",
-      "distance": 35.02731944720262
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nongpoh",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "nongpoh",
-      "distance": 53.54477596137673
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kathihar",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "kathihar",
-      "distance": 87.13583386583723
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts3jkr7",
-  "geohashUrl": "https://geohash.softeng.co/ts3jkr7"
+  ]
 }

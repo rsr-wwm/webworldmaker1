@@ -5,7 +5,6 @@
   "stateSlug": "colorado",
   "citySlug": "denver",
   "country": "United States",
-  "pincode": "80201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Denver",
-  "latitude": 28.206,
-  "longitude": -100.1084,
-  "landmark": "Denver Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Denver, United States",
   "population": 2324524,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Miami",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "miami",
-      "distance": 270.21376132540234
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Boston",
-      "state": "Massachusetts",
-      "stateSlug": "massachusetts",
-      "citySlug": "boston",
-      "distance": 349.6568545033675
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Portland",
-      "state": "Oregon",
-      "stateSlug": "oregon",
-      "citySlug": "portland",
-      "distance": 444.45665545206634
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Spokane",
-      "state": "Washington",
-      "stateSlug": "washington",
-      "citySlug": "spokane",
-      "distance": 496.8551025041994
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Veracruz",
-      "state": "Veracruz State",
-      "stateSlug": "veracruz-state",
-      "citySlug": "veracruz",
-      "distance": 583.305472941684
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9v0b3yx",
-  "geohashUrl": "https://geohash.softeng.co/9v0b3yx"
+  ]
 }

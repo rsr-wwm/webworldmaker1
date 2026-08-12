@@ -5,7 +5,6 @@
   "stateSlug": "assam",
   "citySlug": "dibrugarh",
   "country": "India",
-  "pincode": "786001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.1462,
-  "longitude": 81.7284,
-  "landmark": "Dibrugarh GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dibrugarh, India",
   "population": 4158248,
   "mobileUsers": 3043837,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bankura",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "bankura",
-      "distance": 49.76597609088628
-    },
-    {
-      "city": "Tiruchengudo",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruchengudo",
-      "distance": 70.59889536813687
-    },
-    {
-      "city": "Ratlam",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "ratlam",
-      "distance": 71.48864983491737
+      "citySlug": "bhopal"
     },
     {
-      "city": "Tiruthuraipundi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruthuraipundi",
-      "distance": 76.99026471648818
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ernakulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "ernakulam",
-      "distance": 130.5109829920241
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf64gc0",
-  "geohashUrl": "https://geohash.softeng.co/tf64gc0"
+  ]
 }

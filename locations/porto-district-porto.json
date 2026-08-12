@@ -5,7 +5,6 @@
   "stateSlug": "porto-district",
   "citySlug": "porto",
   "country": "Portugal",
-  "pincode": "4000-001",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / ANACOM",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+351",
   "timezone": "Atlantic/Azores",
-  "latitude": 39.4139,
-  "longitude": -7.8015,
-  "landmark": "Porto Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over MEO networks. Failovers route over NOS, Vodafone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Porto, Portugal",
   "population": 2530231,
@@ -44,38 +40,7 @@
       "city": "Lisbon",
       "state": "Lisbon District",
       "stateSlug": "lisbon-district",
-      "citySlug": "lisbon",
-      "distance": 14.851031360304697
-    },
-    {
-      "city": "Madrid",
-      "state": "Community of Madrid",
-      "stateSlug": "community-of-madrid",
-      "citySlug": "madrid",
-      "distance": 316.34898009909244
-    },
-    {
-      "city": "Bilbao",
-      "state": "Basque Country",
-      "stateSlug": "basque-country",
-      "citySlug": "bilbao",
-      "distance": 320.3939650425447
-    },
-    {
-      "city": "Malaga",
-      "state": "Andalusia",
-      "stateSlug": "andalusia",
-      "citySlug": "malaga",
-      "distance": 320.69742912209244
-    },
-    {
-      "city": "Seville",
-      "state": "Andalusia",
-      "stateSlug": "andalusia",
-      "citySlug": "seville",
-      "distance": 326.297672810865
+      "citySlug": "lisbon"
     }
-  ],
-  "geohash": "ez42nrp",
-  "geohashUrl": "https://geohash.softeng.co/ez42nrp"
+  ]
 }

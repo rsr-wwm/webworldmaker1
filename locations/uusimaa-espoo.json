@@ -5,7 +5,6 @@
   "stateSlug": "uusimaa",
   "citySlug": "espoo",
   "country": "Finland",
-  "pincode": "02100",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / Traficom",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+358",
   "timezone": "Europe/Helsinki",
-  "latitude": 64.1428,
-  "longitude": 25.9056,
-  "landmark": "Espoo Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Elisa networks. Failovers route over Telia, DNA with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Espoo, Finland",
   "population": 1834183,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Helsinki",
-      "state": "Uusimaa",
-      "stateSlug": "uusimaa",
-      "citySlug": "helsinki",
-      "distance": 12.992774646258349
+      "city": "Tampere",
+      "state": "Pirkanmaa",
+      "stateSlug": "pirkanmaa",
+      "citySlug": "tampere"
     },
     {
       "city": "Turku",
       "state": "Southwest Finland",
       "stateSlug": "southwest-finland",
-      "citySlug": "turku",
-      "distance": 26.045590298761716
-    },
-    {
-      "city": "Tampere",
-      "state": "Pirkanmaa",
-      "stateSlug": "pirkanmaa",
-      "citySlug": "tampere",
-      "distance": 34.61580543193247
+      "citySlug": "turku"
     },
     {
       "city": "Vantaa",
       "state": "Uusimaa",
       "stateSlug": "uusimaa",
-      "citySlug": "vantaa",
-      "distance": 37.2622979335187
+      "citySlug": "vantaa"
     },
     {
-      "city": "Narva",
-      "state": "Ida-Viru County",
-      "stateSlug": "ida-viru-county",
-      "citySlug": "narva",
-      "distance": 551.2067710188976
+      "city": "Helsinki",
+      "state": "Uusimaa",
+      "stateSlug": "uusimaa",
+      "citySlug": "helsinki"
     }
-  ],
-  "geohash": "ue6kvkz",
-  "geohashUrl": "https://geohash.softeng.co/ue6kvkz"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "vallee-du-bandama",
   "citySlug": "bouake",
   "country": "Ivory Coast",
-  "pincode": "00000",
   "currency": "XOF",
   "symbol": "CFA",
   "compliance": "ARTCI Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+225",
   "timezone": "Africa/Abidjan",
-  "latitude": 7.923,
-  "longitude": -5.0122,
-  "landmark": "Bouake Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over MTN, Moov with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bouake, Ivory Coast",
   "population": 2295081,
@@ -41,41 +37,16 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Yamoussoukro",
-      "state": "Lacs District",
-      "stateSlug": "lacs-district",
-      "citySlug": "yamoussoukro",
-      "distance": 0.57376059835874
-    },
-    {
       "city": "Abidjan",
       "state": "Lagunes District",
       "stateSlug": "lagunes-district",
-      "citySlug": "abidjan",
-      "distance": 23.49209749227709
+      "citySlug": "abidjan"
     },
     {
-      "city": "Kumasi",
-      "state": "Ashanti Region",
-      "stateSlug": "ashanti-region",
-      "citySlug": "kumasi",
-      "distance": 311.0035532541076
-    },
-    {
-      "city": "Accra",
-      "state": "Greater Accra",
-      "stateSlug": "greater-accra",
-      "citySlug": "accra",
-      "distance": 348.0545282263545
-    },
-    {
-      "city": "Monrovia",
-      "state": "Montserrado County",
-      "stateSlug": "montserrado-county",
-      "citySlug": "monrovia",
-      "distance": 515.630736763368
+      "city": "Yamoussoukro",
+      "state": "Lacs District",
+      "stateSlug": "lacs-district",
+      "citySlug": "yamoussoukro"
     }
-  ],
-  "geohash": "eckmjfq",
-  "geohashUrl": "https://geohash.softeng.co/eckmjfq"
+  ]
 }

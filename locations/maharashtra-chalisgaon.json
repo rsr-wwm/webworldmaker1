@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "chalisgaon",
   "country": "India",
-  "pincode": "424101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.5824,
-  "longitude": 77.5993,
-  "landmark": "Chalisgaon Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chalisgaon, India",
   "population": 9540189,
   "mobileUsers": 7307784,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Laheriasarai",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "laheriasarai",
-      "distance": 48.46264505843628
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nahan",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "nahan",
-      "distance": 58.3675070615406
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Anna Road",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "anna-road",
-      "distance": 68.94394172205146
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Shahabad",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "shahabad",
-      "distance": 83.94573215314034
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Nasirabad",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "nasirabad",
-      "distance": 96.71959455797433
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttp4tg6",
-  "geohashUrl": "https://geohash.softeng.co/ttp4tg6"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "kavali",
   "country": "India",
-  "pincode": "524201",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.9385,
-  "longitude": 72.8893,
-  "landmark": "Kavali Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kavali, India",
   "population": 6720634,
   "mobileUsers": 4939665,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bijnor",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "bijnor",
-      "distance": 35.133463130530984
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kasaragod",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kasaragod",
-      "distance": 51.32663732318526
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Athgarh",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "athgarh",
-      "distance": 54.959365555028675
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Belgharia",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "belgharia",
-      "distance": 57.29731737538841
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Chumukidima",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chumukidima",
-      "distance": 75.22309348982101
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td5gftk",
-  "geohashUrl": "https://geohash.softeng.co/td5gftk"
+  ]
 }

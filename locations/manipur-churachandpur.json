@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "churachandpur",
   "country": "India",
-  "pincode": "795128",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.6405,
-  "longitude": 85.963,
-  "landmark": "Churachandpur Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Churachandpur, India",
   "population": 9655122,
   "mobileUsers": 7463409,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Arundatinagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "arundatinagar",
-      "distance": 36.01212216170746
-    },
-    {
-      "city": "Samalkot",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "samalkot",
-      "distance": 49.08662419151656
-    },
-    {
-      "city": "Buldhana",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "buldhana",
-      "distance": 59.44016940915273
-    },
-    {
-      "city": "Yeshwant Road (Indore)",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "yeshwant-road-indore",
-      "distance": 67.36755938500721
+      "citySlug": "bhopal"
     },
     {
-      "city": "Allappuzha",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "allappuzha",
-      "distance": 69.18650162259354
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfjpujh",
-  "geohashUrl": "https://geohash.softeng.co/tfjpujh"
+  ]
 }

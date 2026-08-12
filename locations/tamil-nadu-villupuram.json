@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "villupuram",
   "country": "India",
-  "pincode": "605602",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.1752,
-  "longitude": 75.2717,
-  "landmark": "Villupuram Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Villupuram, India",
   "population": 6806489,
   "mobileUsers": 5084447,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Miraj",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "miraj",
-      "distance": 25.264523696514278
+      "citySlug": "nagpur"
     },
     {
-      "city": "Gangapur R.S",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "gangapur-rs",
-      "distance": 55.46015516119443
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Navrangpura",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "navrangpura",
-      "distance": 81.46869222030931
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Dabhoi",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "dabhoi",
-      "distance": 101.89622259550846
-    },
-    {
-      "city": "Shimla",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "shimla",
-      "distance": 103.13023592217746
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tejx2ue",
-  "geohashUrl": "https://geohash.softeng.co/tejx2ue"
+  ]
 }

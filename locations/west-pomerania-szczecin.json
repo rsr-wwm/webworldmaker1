@@ -5,7 +5,6 @@
   "stateSlug": "west-pomerania",
   "citySlug": "szczecin",
   "country": "Poland",
-  "pincode": "70-001",
   "currency": "PLN",
   "symbol": "zł",
   "compliance": "GDPR / UKE",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+48",
   "timezone": "Europe/Warsaw",
-  "latitude": 51.904,
-  "longitude": 20.0454,
-  "landmark": "Szczecin Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Play, Plus, T-Mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Szczecin, Poland",
   "population": 2894599,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Warsaw",
-      "state": "Mazovia",
-      "stateSlug": "mazovia",
-      "citySlug": "warsaw",
-      "distance": 4.148769794029511
+      "city": "Gdansk",
+      "state": "Pomerania",
+      "stateSlug": "pomerania",
+      "citySlug": "gdansk"
     },
     {
       "city": "Lublin",
       "state": "Lublin Voivodeship",
       "stateSlug": "lublin-voivodeship",
-      "citySlug": "lublin",
-      "distance": 17.107974124583446
+      "citySlug": "lublin"
     },
     {
-      "city": "Gdansk",
-      "state": "Pomerania",
-      "stateSlug": "pomerania",
-      "citySlug": "gdansk",
-      "distance": 19.585042250636334
+      "city": "Katowice",
+      "state": "Silesian Voivodeship",
+      "stateSlug": "silesian-voivodeship",
+      "citySlug": "katowice"
     },
     {
-      "city": "Poznan",
-      "state": "Greater Poland",
-      "stateSlug": "greater-poland",
-      "citySlug": "poznan",
-      "distance": 19.869789771082004
+      "city": "Krakow",
+      "state": "Lesser Poland",
+      "stateSlug": "lesser-poland",
+      "citySlug": "krakow"
     },
     {
       "city": "Wroclaw",
       "state": "Lower Silesia",
       "stateSlug": "lower-silesia",
-      "citySlug": "wroclaw",
-      "distance": 23.49300154709735
+      "citySlug": "wroclaw"
     }
-  ],
-  "geohash": "u3nr20u",
-  "geohashUrl": "https://geohash.softeng.co/u3nr20u"
+  ]
 }

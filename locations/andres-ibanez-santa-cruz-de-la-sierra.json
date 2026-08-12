@@ -5,7 +5,6 @@
   "stateSlug": "andres-ibanez",
   "citySlug": "santa-cruz-de-la-sierra",
   "country": "Bolivia",
-  "pincode": "0000",
   "currency": "BOB",
   "symbol": "Bs.",
   "compliance": "ATT Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+591",
   "timezone": "America/La_Paz",
-  "latitude": -17.0417,
-  "longitude": -64.9495,
-  "landmark": "Santa Cruz de la Sierra Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Entel networks. Failovers route over Tigo, Viva with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Santa Cruz de la Sierra, Bolivia",
   "population": 792199,
@@ -44,38 +40,13 @@
       "city": "Cochabamba",
       "state": "Cercado",
       "stateSlug": "cercado",
-      "citySlug": "cochabamba",
-      "distance": 11.827274358525228
+      "citySlug": "cochabamba"
     },
     {
       "city": "Sucre",
       "state": "Chuquisaca",
       "stateSlug": "chuquisaca",
-      "citySlug": "sucre",
-      "distance": 19.41923427156425
-    },
-    {
-      "city": "Ciudad del Este",
-      "state": "Alto Parana",
-      "stateSlug": "alto-parana",
-      "citySlug": "ciudad-del-este",
-      "distance": 969.1774998474418
-    },
-    {
-      "city": "Asuncion",
-      "state": "Capital District",
-      "stateSlug": "capital-district",
-      "citySlug": "asuncion",
-      "distance": 972.9924545038216
-    },
-    {
-      "city": "Belo Horizonte",
-      "state": "Minas Gerais",
-      "stateSlug": "minas-gerais",
-      "citySlug": "belo-horizonte",
-      "distance": 1304.7528693159163
+      "citySlug": "sucre"
     }
-  ],
-  "geohash": "6scz419",
-  "geohashUrl": "https://geohash.softeng.co/6scz419"
+  ]
 }

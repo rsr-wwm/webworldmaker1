@@ -5,7 +5,6 @@
   "stateSlug": "capital-district",
   "citySlug": "asuncion",
   "country": "Paraguay",
-  "pincode": "0001",
   "currency": "PYG",
   "symbol": "₲",
   "compliance": "CONATEL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+595",
   "timezone": "America/Asuncion",
-  "latitude": -22.9753,
-  "longitude": -58.1004,
-  "landmark": "Asuncion Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Tigo networks. Failovers route over Personal, Claro with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Asuncion, Paraguay",
   "population": 2063391,
@@ -44,38 +40,13 @@
       "city": "Ciudad del Este",
       "state": "Alto Parana",
       "stateSlug": "alto-parana",
-      "citySlug": "ciudad-del-este",
-      "distance": 5.434999980974307
+      "citySlug": "ciudad-del-este"
     },
     {
-      "city": "Santa Cruz de la Sierra",
-      "state": "Andres Ibanez",
-      "stateSlug": "andres-ibanez",
-      "citySlug": "santa-cruz-de-la-sierra",
-      "distance": 972.9924545038216
-    },
-    {
-      "city": "Cochabamba",
-      "state": "Cercado",
-      "stateSlug": "cercado",
-      "citySlug": "cochabamba",
-      "distance": 984.4880540399628
-    },
-    {
-      "city": "Sucre",
-      "state": "Chuquisaca",
-      "stateSlug": "chuquisaca",
-      "citySlug": "sucre",
-      "distance": 991.0794128728008
-    },
-    {
-      "city": "Montevideo",
-      "state": "Montevideo Department",
-      "stateSlug": "montevideo-department",
-      "citySlug": "montevideo",
-      "distance": 1110.6983685952887
+      "city": "Caracas",
+      "state": "Capital District",
+      "stateSlug": "capital-district",
+      "citySlug": "caracas"
     }
-  ],
-  "geohash": "6eytmck",
-  "geohashUrl": "https://geohash.softeng.co/6eytmck"
+  ]
 }

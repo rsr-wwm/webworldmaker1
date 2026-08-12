@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "bahraich",
   "country": "India",
-  "pincode": "271801",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.1856,
-  "longitude": 70.0293,
-  "landmark": "Bahraich District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bahraich, India",
   "population": 1708874,
   "mobileUsers": 1302161,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Monkolemba",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "monkolemba",
-      "distance": 33.11606908291011
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Karimganj",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "karimganj",
-      "distance": 62.085530507606414
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Labaan",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "labaan",
-      "distance": 78.06077481086052
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Palanpur",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "palanpur",
-      "distance": 79.65932424226222
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Darjeeling",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "darjeeling",
-      "distance": 119.14577554069842
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te3v1s9",
-  "geohashUrl": "https://geohash.softeng.co/te3v1s9"
+  ]
 }

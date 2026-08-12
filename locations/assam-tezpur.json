@@ -5,7 +5,6 @@
   "stateSlug": "assam",
   "citySlug": "tezpur",
   "country": "India",
-  "pincode": "784001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.3907,
-  "longitude": 73.1018,
-  "landmark": "Tezpur State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Tezpur, India",
   "population": 3501425,
   "mobileUsers": 2531530,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Moirang",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "moirang",
-      "distance": 43.0675674485131
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Davangere",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "davangere",
-      "distance": 67.20901269446082
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Vijay nagar",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "vijay-nagar",
-      "distance": 91.68954054746709
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "St.Thomas Mount",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "stthomas-mount",
-      "distance": 103.02954255909476
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Shabroom",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "shabroom",
-      "distance": 104.09740487479851
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts7fz2p",
-  "geohashUrl": "https://geohash.softeng.co/ts7fz2p"
+  ]
 }

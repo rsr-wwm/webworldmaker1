@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "meerut",
   "country": "India",
-  "pincode": "250001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.5344,
-  "longitude": 81.9464,
-  "landmark": "Meerut Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Meerut, India",
   "population": 3110276,
   "mobileUsers": 2273611,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Vairangte",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "vairangte",
-      "distance": 78.61200237288041
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hospet",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hospet",
-      "distance": 81.50664717409336
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Hoshiarpur",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "hoshiarpur",
-      "distance": 98.25373781751969
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Khurja",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "khurja",
-      "distance": 120.28413616515071
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Gangtok",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "gangtok",
-      "distance": 122.64882039386787
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg6r0sp",
-  "geohashUrl": "https://geohash.softeng.co/tg6r0sp"
+  ]
 }

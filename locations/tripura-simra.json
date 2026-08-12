@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "simra",
   "country": "India",
-  "pincode": "799213",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.759,
-  "longitude": 68.8008,
-  "landmark": "Simra GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Simra, India",
   "population": 1987799,
   "mobileUsers": 1433203,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bongmun",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "bongmun",
-      "distance": 44.747433683820276
-    },
-    {
-      "city": "Mandla",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "mandla",
-      "distance": 68.34290955388101
+      "citySlug": "bhopal"
     },
     {
-      "city": "Churu",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "churu",
-      "distance": 82.27817564631589
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Thyagaraynagar",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thyagaraynagar",
-      "distance": 92.65071474204358
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bada pani",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bada-pani",
-      "distance": 93.35713780995161
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td8gvwg",
-  "geohashUrl": "https://geohash.softeng.co/td8gvwg"
+  ]
 }

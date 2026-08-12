@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "coonoor",
   "country": "India",
-  "pincode": "643101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.7307,
-  "longitude": 77.3871,
-  "landmark": "Coonoor Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Coonoor, India",
   "population": 6942181,
   "mobileUsers": 5178867,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Muzaffarnagar",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "muzaffarnagar",
-      "distance": 43.80591310548109
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mechuka",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "mechuka",
-      "distance": 80.15944860274652
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Siwan",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "siwan",
-      "distance": 105.76617668136616
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Sango",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "sango",
-      "distance": 111.96364772820544
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kalpett",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kalpett",
-      "distance": 114.1125590435949
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9zj0cr",
-  "geohashUrl": "https://geohash.softeng.co/t9zj0cr"
+  ]
 }

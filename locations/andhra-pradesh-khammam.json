@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "khammam",
   "country": "India",
-  "pincode": "507001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.0785,
-  "longitude": 73.0237,
-  "landmark": "Khammam Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Khammam, India",
   "population": 6194156,
   "mobileUsers": 4763305,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dhampur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "dhampur",
-      "distance": 27.22947388293937
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Vasco Da Gama",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "vasco-da-gama",
-      "distance": 48.65714124312892
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Baghma",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "baghma",
-      "distance": 73.73946510905589
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kuvep",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "kuvep",
-      "distance": 116.65416345713331
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Thingdol",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "thingdol",
-      "distance": 120.31515788685648
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttebv9w",
-  "geohashUrl": "https://geohash.softeng.co/ttebv9w"
+  ]
 }

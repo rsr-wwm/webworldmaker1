@@ -5,7 +5,6 @@
   "stateSlug": "kabul-province",
   "citySlug": "kabul",
   "country": "Afghanistan",
-  "pincode": "1001",
   "currency": "AFN",
   "symbol": "؋",
   "compliance": "ATRA Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+93",
   "timezone": "Asia/Kabul",
-  "latitude": 33.1563,
-  "longitude": 65.1975,
-  "landmark": "Kabul Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Roshan networks. Failovers route over MTN, Afghan Wireless with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kabul, Afghanistan",
   "population": 1688053,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "High: Integrating AI agents into customer support systems",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Chandnichowk",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "chandnichowk",
-      "distance": 360.8650780125662
-    },
-    {
-      "city": "Kollegal",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "kollegal",
-      "distance": 363.8141151358884
-    },
-    {
-      "city": "Chandrapur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "chandrapur",
-      "distance": 387.39897109471457
-    },
-    {
-      "city": "Nagpur",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "nagpur",
-      "distance": 416.47857733223526
-    },
-    {
-      "city": "Mumbai central",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "mumbai-central",
-      "distance": 436.07954722042865
-    }
-  ],
-  "geohash": "tmykeeg",
-  "geohashUrl": "https://geohash.softeng.co/tmykeeg"
+  "nearbyLocations": []
 }

@@ -5,7 +5,6 @@
   "stateSlug": "bamako-capital-district",
   "citySlug": "bamako",
   "country": "Mali",
-  "pincode": "00000",
   "currency": "XOF",
   "symbol": "CFA",
   "compliance": "AMRTP Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+223",
   "timezone": "Africa/Bamako",
-  "latitude": 17.0946,
-  "longitude": -3.8938,
-  "landmark": "Bamako Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over Malitel networks. Failovers route over Orange with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bamako, Mali",
   "population": 2446950,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Ouagadougou",
-      "state": "Centre Region",
-      "stateSlug": "centre-region",
-      "citySlug": "ouagadougou",
-      "distance": 506.7027004061215
-    },
-    {
-      "city": "Bobo-Dioulasso",
-      "state": "Hauts-Bassins",
-      "stateSlug": "hauts-bassins",
-      "citySlug": "bobo-dioulasso",
-      "distance": 507.226033666718
-    },
-    {
-      "city": "Nouakchott",
-      "state": "Nouakchott Region",
-      "stateSlug": "nouakchott-region",
-      "citySlug": "nouakchott",
-      "distance": 903.2308545485238
-    },
-    {
-      "city": "Conakry",
-      "state": "Conakry Region",
-      "stateSlug": "conakry-region",
-      "citySlug": "conakry",
-      "distance": 928.8526840231826
-    },
-    {
-      "city": "Yamoussoukro",
-      "state": "Lacs District",
-      "stateSlug": "lacs-district",
-      "citySlug": "yamoussoukro",
-      "distance": 1026.7896058588135
-    }
-  ],
-  "geohash": "egj1pru",
-  "geohashUrl": "https://geohash.softeng.co/egj1pru"
+  "nearbyLocations": []
 }

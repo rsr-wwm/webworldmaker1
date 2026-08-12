@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "madhubani",
   "country": "India",
-  "pincode": "847211",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.5894,
-  "longitude": 77.4194,
-  "landmark": "Madhubani Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Madhubani, India",
   "population": 6953883,
   "mobileUsers": 5152827,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Lungsein",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "lungsein",
-      "distance": 24.20054302222109
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Alibag",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "alibag",
-      "distance": 39.19707070050525
+      "citySlug": "nagpur"
     },
     {
-      "city": "Burdwan",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "burdwan",
-      "distance": 64.8337708995127
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kolhapur City",
+      "city": "Mumbai",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "kolhapur-city",
-      "distance": 96.90792275113091
+      "citySlug": "mumbai"
     },
     {
-      "city": "Rampurhat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "rampurhat",
-      "distance": 103.60894400044992
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "terp3wp",
-  "geohashUrl": "https://geohash.softeng.co/terp3wp"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "bolivar-department",
   "citySlug": "cartagena",
   "country": "Colombia",
-  "pincode": "130001",
   "currency": "COP",
   "symbol": "$",
   "compliance": "CRC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+57",
   "timezone": "America/Bogota",
-  "latitude": 4.1455,
-  "longitude": -72.0419,
-  "landmark": "Cartagena Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Claro networks. Failovers route over Movistar, Tigo with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cartagena, Colombia",
   "population": 4203997,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Cali",
-      "state": "Valle del Cauca Department",
-      "stateSlug": "valle-del-cauca-department",
-      "citySlug": "cali",
-      "distance": 3.4944336445269646
-    },
-    {
-      "city": "Medellin",
-      "state": "Antioquia Department",
-      "stateSlug": "antioquia-department",
-      "citySlug": "medellin",
-      "distance": 13.477506787821182
-    },
-    {
       "city": "Barranquilla",
       "state": "Atlantico Department",
       "stateSlug": "atlantico-department",
-      "citySlug": "barranquilla",
-      "distance": 21.597730036421034
+      "citySlug": "barranquilla"
     },
     {
       "city": "Bucaramanga",
       "state": "Santander Department",
       "stateSlug": "santander-department",
-      "citySlug": "bucaramanga",
-      "distance": 24.636081495105923
+      "citySlug": "bucaramanga"
+    },
+    {
+      "city": "Medellin",
+      "state": "Antioquia Department",
+      "stateSlug": "antioquia-department",
+      "citySlug": "medellin"
+    },
+    {
+      "city": "Cali",
+      "state": "Valle del Cauca Department",
+      "stateSlug": "valle-del-cauca-department",
+      "citySlug": "cali"
     },
     {
       "city": "Bogota",
       "state": "Bogota Capital District",
       "stateSlug": "bogota-capital-district",
-      "citySlug": "bogota",
-      "distance": 27.711352877389174
+      "citySlug": "bogota"
     }
-  ],
-  "geohash": "d2sz8ds",
-  "geohashUrl": "https://geohash.softeng.co/d2sz8ds"
+  ]
 }

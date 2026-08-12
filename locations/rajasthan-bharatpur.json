@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "bharatpur",
   "country": "India",
-  "pincode": "321001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 32.2306,
-  "longitude": 79.4419,
-  "landmark": "Bharatpur Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bharatpur, India",
   "population": 610895,
   "mobileUsers": 459393,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Neembathana Town",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "neembathana-town",
-      "distance": 26.35671246714899
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Aska",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "aska",
-      "distance": 36.238514878369024
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Vajapur",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "vajapur",
-      "distance": 76.9047729656756
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Waltair R.S.",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "waltair-rs",
-      "distance": 104.70611063558259
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Armoor",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "armoor",
-      "distance": 106.78274048631741
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv8rrer",
-  "geohashUrl": "https://geohash.softeng.co/tv8rrer"
+  ]
 }

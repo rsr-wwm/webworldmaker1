@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "firozabad",
   "country": "India",
-  "pincode": "283203",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.3418,
-  "longitude": 86.3232,
-  "landmark": "Firozabad Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Firozabad, India",
   "population": 5176379,
   "mobileUsers": 4022046,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Arni",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "arni",
-      "distance": 51.36418063541535
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bokaro Steel City",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bokaro-steel-city",
-      "distance": 69.96695413471838
-    },
-    {
-      "city": "A.R.T.C",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "artc",
-      "distance": 73.93669235481934
-    },
-    {
-      "city": "Nashik",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nashik",
-      "distance": 87.02360027888457
+      "citySlug": "nagpur"
     },
     {
-      "city": "Somdal",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "somdal",
-      "distance": 102.60563153076592
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvt6k3d",
-  "geohashUrl": "https://geohash.softeng.co/tvt6k3d"
+  ]
 }

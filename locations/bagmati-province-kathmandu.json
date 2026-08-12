@@ -5,7 +5,6 @@
   "stateSlug": "bagmati-province",
   "citySlug": "kathmandu",
   "country": "Nepal",
-  "pincode": "44600",
   "currency": "NPR",
   "symbol": "Rs.",
   "compliance": "NTA Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+977",
   "timezone": "Asia/Kathmandu",
-  "latitude": 28.0136,
-  "longitude": 84.1038,
-  "landmark": "Kathmandu Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Ncell networks. Failovers route over Nepal Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kathmandu, Nepal",
   "population": 4366744,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Ghaziabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "ghaziabad",
-      "distance": 33.254321657491275
-    },
-    {
-      "city": "Tindivanam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tindivanam",
-      "distance": 43.21913491706672
-    },
-    {
-      "city": "Mannargudi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "mannargudi",
-      "distance": 70.6992091716338
-    },
-    {
-      "city": "Arsikere",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "arsikere",
-      "distance": 76.7677346072695
-    },
-    {
-      "city": "Kalbadevi",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "kalbadevi",
-      "distance": 89.2312696936302
-    }
-  ],
-  "geohash": "tugz3gd",
-  "geohashUrl": "https://geohash.softeng.co/tugz3gd"
+  "nearbyLocations": []
 }

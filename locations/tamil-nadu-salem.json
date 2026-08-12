@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "salem",
   "country": "India",
-  "pincode": "636001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.8204,
-  "longitude": 80.3177,
-  "landmark": "Salem Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Salem, India",
   "population": 4953267,
   "mobileUsers": 3774389,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Raisen",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "raisen",
-      "distance": 26.776769522741954
+      "citySlug": "bhopal"
     },
     {
-      "city": "Upling",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "upling",
-      "distance": 51.574389624070584
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chamba",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "chamba",
-      "distance": 52.266838938756095
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Santa",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "santa",
-      "distance": 53.558038688797296
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tiruvalla",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "tiruvalla",
-      "distance": 55.87913205890312
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tucn78t",
-  "geohashUrl": "https://geohash.softeng.co/tucn78t"
+  ]
 }

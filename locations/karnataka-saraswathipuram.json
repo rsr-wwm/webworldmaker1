@@ -5,7 +5,6 @@
   "stateSlug": "karnataka",
   "citySlug": "saraswathipuram",
   "country": "India",
-  "pincode": "570009",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 80",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.0398,
-  "longitude": 86.8115,
-  "landmark": "Saraswathipuram Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Saraswathipuram, India",
   "population": 3361535,
   "mobileUsers": 2544681,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kankroli",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "kankroli",
-      "distance": 42.171745118154575
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chochuba",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chochuba",
-      "distance": 67.60073416280987
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Unjha",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "unjha",
-      "distance": 69.28408128519726
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Shalima",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "shalima",
-      "distance": 102.1824183528513
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Allahabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "allahabad",
-      "distance": 117.337801659442
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tutspkq",
-  "geohashUrl": "https://geohash.softeng.co/tutspkq"
+  ]
 }

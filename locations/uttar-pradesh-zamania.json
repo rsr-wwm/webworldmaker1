@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "zamania",
   "country": "India",
-  "pincode": "232329",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.1997,
-  "longitude": 86.9694,
-  "landmark": "Zamania Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Zamania, India",
   "population": 3159652,
   "mobileUsers": 2331823,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Manubazar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "manubazar",
-      "distance": 49.7443890607826
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mavelikara",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "mavelikara",
-      "distance": 60.12608425439977
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bangalore City",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bangalore-city",
-      "distance": 84.81302350876925
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Hyderabad G.P.O",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hyderabad-gpo",
-      "distance": 85.9459102695549
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Roing",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "roing",
-      "distance": 95.94645747118535
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tctu74c",
-  "geohashUrl": "https://geohash.softeng.co/tctu74c"
+  ]
 }

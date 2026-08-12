@@ -5,7 +5,6 @@
   "stateSlug": "taipei-municipality",
   "citySlug": "taipei",
   "country": "Taiwan",
-  "pincode": "100",
   "currency": "TWD",
   "symbol": "NT$",
   "compliance": "NCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+886",
   "timezone": "Asia/Taipei",
-  "latitude": 23.5867,
-  "longitude": 121.1477,
-  "landmark": "Taipei Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Chunghwa Telecom networks. Failovers route over Taiwan Mobile, FarEasTone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Taipei, Taiwan",
   "population": 1747015,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Keelung",
-      "state": "Keelung City",
-      "stateSlug": "keelung-city",
-      "citySlug": "keelung",
-      "distance": 16.32372992341386
-    },
-    {
-      "city": "Tainan",
-      "state": "Tainan City",
-      "stateSlug": "tainan-city",
-      "citySlug": "tainan",
-      "distance": 18.70897474622104
-    },
-    {
       "city": "Hsinchu",
       "state": "Hsinchu County",
       "stateSlug": "hsinchu-county",
-      "citySlug": "hsinchu",
-      "distance": 26.093775334415653
-    },
-    {
-      "city": "Kaohsiung",
-      "state": "Kaohsiung Municipality",
-      "stateSlug": "kaohsiung-municipality",
-      "citySlug": "kaohsiung",
-      "distance": 28.245474244876853
+      "citySlug": "hsinchu"
     },
     {
       "city": "Taichung",
       "state": "Taichung City",
       "stateSlug": "taichung-city",
-      "citySlug": "taichung",
-      "distance": 30.40198084692277
+      "citySlug": "taichung"
+    },
+    {
+      "city": "Tainan",
+      "state": "Tainan City",
+      "stateSlug": "tainan-city",
+      "citySlug": "tainan"
+    },
+    {
+      "city": "Keelung",
+      "state": "Keelung City",
+      "stateSlug": "keelung-city",
+      "citySlug": "keelung"
+    },
+    {
+      "city": "Kaohsiung",
+      "state": "Kaohsiung Municipality",
+      "stateSlug": "kaohsiung-municipality",
+      "citySlug": "kaohsiung"
     }
-  ],
-  "geohash": "wsnnhvc",
-  "geohashUrl": "https://geohash.softeng.co/wsnnhvc"
+  ]
 }

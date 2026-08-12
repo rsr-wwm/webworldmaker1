@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "ranchi",
   "country": "India",
-  "pincode": "834001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 8.7261,
-  "longitude": 83.4407,
-  "landmark": "Ranchi Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ranchi, India",
   "population": 2094504,
   "mobileUsers": 1577161,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Singjamai bazar",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "singjamai-bazar",
-      "distance": 52.57224917520494
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Madhobewala",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "madhobewala",
-      "distance": 65.58668804617818
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Sumer",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "sumer",
-      "distance": 80.09339779439235
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Hemlauk",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "hemlauk",
-      "distance": 82.55130064631146
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Markapur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "markapur",
-      "distance": 101.17490637854323
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tce3dsx",
-  "geohashUrl": "https://geohash.softeng.co/tce3dsx"
+  ]
 }

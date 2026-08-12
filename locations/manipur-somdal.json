@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "somdal",
   "country": "India",
-  "pincode": "795144",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.4853,
-  "longitude": 86.7234,
-  "landmark": "Somdal Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Somdal, India",
   "population": 9400164,
   "mobileUsers": 6918520,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Korba",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "korba",
-      "distance": 58.50708781728819
+      "citySlug": "bhopal"
     },
     {
-      "city": "Arakkonam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "arakkonam",
-      "distance": 71.21100648639991
-    },
-    {
-      "city": "Arni",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "arni",
-      "distance": 71.9775845031331
-    },
-    {
-      "city": "Aurangabad",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "aurangabad",
-      "distance": 99.02038532577188
+      "citySlug": "nagpur"
     },
     {
-      "city": "Firozabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "firozabad",
-      "distance": 102.60563153076592
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvmtmmw",
-  "geohashUrl": "https://geohash.softeng.co/tvmtmmw"
+  ]
 }

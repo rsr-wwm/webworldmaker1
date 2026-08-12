@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "vijay-nagar",
   "country": "India",
-  "pincode": "792055",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "town",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.6283,
-  "longitude": 73.4457,
-  "landmark": "Vijay Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Vijay nagar, India",
   "population": 54030,
   "mobileUsers": 41927,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Moirang",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "moirang",
-      "distance": 77.38842901751616
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Tezpur",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "tezpur",
-      "distance": 91.68954054746709
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nilakottai",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "nilakottai",
-      "distance": 101.047708373576
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chongtai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "chongtai",
-      "distance": 116.99479775035763
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "St.Thomas Mount",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "stthomas-mount",
-      "distance": 119.74918333713707
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tshnrm3",
-  "geohashUrl": "https://geohash.softeng.co/tshnrm3"
+  ]
 }

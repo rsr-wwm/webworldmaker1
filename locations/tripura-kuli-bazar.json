@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "kuli-bazar",
   "country": "India",
-  "pincode": "799204",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "town",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.5906,
-  "longitude": 80.7567,
-  "landmark": "Kuli Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kuli bazar, India",
   "population": 43436,
   "mobileUsers": 31621,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Paicharthal",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "paicharthal",
-      "distance": 52.60447949270684
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kadamtala",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kadamtala",
-      "distance": 67.0360705804941
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Sagar (Shinoga)",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "sagar-shinoga",
-      "distance": 69.35735205876576
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Rongjing",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "rongjing",
-      "distance": 110.99919255630613
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Upper Shillong",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "upper-shillong",
-      "distance": 121.84699879630233
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfc2twj",
-  "geohashUrl": "https://geohash.softeng.co/tfc2twj"
+  ]
 }

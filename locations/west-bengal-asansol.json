@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "asansol",
   "country": "India",
-  "pincode": "713301",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.4054,
-  "longitude": 68.8823,
-  "landmark": "Asansol District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Asansol, India",
   "population": 9126705,
   "mobileUsers": 6644241,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bodinayakanur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "bodinayakanur",
-      "distance": 56.11065998217268
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nangthumai",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "nangthumai",
-      "distance": 59.69203691334488
-    },
-    {
-      "city": "Shiroda",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "shiroda",
-      "distance": 86.24101284546485
-    },
-    {
-      "city": "Hubli",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hubli",
-      "distance": 86.83011657974554
-    },
-    {
-      "city": "Margo",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "margo",
-      "distance": 101.37733132269186
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsbgzmn",
-  "geohashUrl": "https://geohash.softeng.co/tsbgzmn"
+  ]
 }

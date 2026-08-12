@@ -5,7 +5,6 @@
   "stateSlug": "newfoundland-and-labrador",
   "citySlug": "st-johns",
   "country": "Canada",
-  "pincode": "A1C",
   "currency": "CAD",
   "symbol": "C$",
   "compliance": "CRTC / CASL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 416",
   "timezone": "America/Toronto",
-  "latitude": 47.5646794,
-  "longitude": -52.7066964,
-  "landmark": "St. John's District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for St. John's, Canada",
   "population": 4246948,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Halifax",
-      "state": "Nova Scotia",
-      "stateSlug": "nova-scotia",
-      "citySlug": "halifax",
-      "distance": 898.246222161375
+      "city": "Hamilton",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "hamilton"
     },
     {
-      "city": "Nice",
-      "state": "Provence-Alpes-Côte d'Azur",
-      "stateSlug": "provence-alpes-cote-dazur",
-      "citySlug": "nice",
-      "distance": 1069.431263998637
+      "city": "London",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "london"
     },
     {
-      "city": "Quebec City",
-      "state": "Quebec",
-      "stateSlug": "quebec",
-      "citySlug": "quebec-city",
-      "distance": 1397.2658946340828
+      "city": "Victoria",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "victoria"
     },
     {
-      "city": "Montreal",
-      "state": "Quebec",
-      "stateSlug": "quebec",
-      "citySlug": "montreal",
-      "distance": 1607.2841640247902
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor"
     },
     {
-      "city": "Buffalo",
-      "state": "New York",
-      "stateSlug": "new-york",
-      "citySlug": "buffalo",
-      "distance": 1718.0726610988754
+      "city": "Regina",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "regina"
     }
-  ],
-  "geohash": "fb6w8du",
-  "geohashUrl": "https://geohash.softeng.co/fb6w8du"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "hubei-province",
   "citySlug": "wuhan",
   "country": "China",
-  "pincode": "430000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 35.0206,
-  "longitude": 104.8681,
-  "landmark": "Wuhan GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Wuhan, China",
   "population": 1901793,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Suzhou",
-      "state": "Jiangsu Province",
-      "stateSlug": "jiangsu-province",
-      "citySlug": "suzhou",
-      "distance": 3.1448182770008484
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang"
     },
     {
-      "city": "Fuzhou",
-      "state": "Fujian Province",
-      "stateSlug": "fujian-province",
-      "citySlug": "fuzhou",
-      "distance": 3.5022063238702636
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou"
     },
     {
-      "city": "Shenzhen",
-      "state": "Guangdong Province",
-      "stateSlug": "guangdong-province",
-      "citySlug": "shenzhen",
-      "distance": 3.886559357632167
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang"
     },
     {
-      "city": "Urumqi",
-      "state": "Xinjiang Region",
-      "stateSlug": "xinjiang-region",
-      "citySlug": "urumqi",
-      "distance": 4.7063991302388475
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
     },
     {
-      "city": "Luoyang",
-      "state": "Henan Province",
-      "stateSlug": "henan-province",
-      "citySlug": "luoyang",
-      "distance": 5.18298793317777
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan"
     }
-  ],
-  "geohash": "wq4x4r6",
-  "geohashUrl": "https://geohash.softeng.co/wq4x4r6"
+  ]
 }

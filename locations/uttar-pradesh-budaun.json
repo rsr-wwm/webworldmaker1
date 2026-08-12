@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "budaun",
   "country": "India",
-  "pincode": "243601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.0821,
-  "longitude": 87.7058,
-  "landmark": "Budaun Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Budaun, India",
   "population": 1276003,
   "mobileUsers": 931482,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Hassan",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hassan",
-      "distance": 43.12412836759042
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chaichima",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chaichima",
-      "distance": 52.08177623609887
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Hyderabad",
-      "state": "Telangana",
-      "stateSlug": "telangana",
-      "citySlug": "hyderabad",
-      "distance": 54.066441933340705
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Meerut City",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "meerut-city",
-      "distance": 83.74531955437713
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Indi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "indi",
-      "distance": 96.96499838205385
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgw65zc",
-  "geohashUrl": "https://geohash.softeng.co/tgw65zc"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "eastern-cape",
   "citySlug": "port-elizabeth",
   "country": "South Africa",
-  "pincode": "6001",
   "currency": "ZAR",
   "symbol": "R",
   "compliance": "ICASA Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+27",
   "timezone": "Africa/Johannesburg",
-  "latitude": -29.0935,
-  "longitude": 23.9026,
-  "landmark": "Port Elizabeth Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over MTN, Telkom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Port Elizabeth, South Africa",
   "population": 2797052,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Durban",
+      "state": "KwaZulu-Natal",
+      "stateSlug": "kwazulu-natal",
+      "citySlug": "durban"
+    },
+    {
       "city": "Johannesburg",
       "state": "Gauteng",
       "stateSlug": "gauteng",
-      "citySlug": "johannesburg",
-      "distance": 6.3321585977391885
-    },
-    {
-      "city": "Pretoria",
-      "state": "Gauteng",
-      "stateSlug": "gauteng",
-      "citySlug": "pretoria",
-      "distance": 12.777104730405748
+      "citySlug": "johannesburg"
     },
     {
       "city": "Cape Town",
       "state": "Western Cape",
       "stateSlug": "western-cape",
-      "citySlug": "cape-town",
-      "distance": 18.214134046120304
+      "citySlug": "cape-town"
     },
     {
-      "city": "Durban",
-      "state": "KwaZulu-Natal",
-      "stateSlug": "kwazulu-natal",
-      "citySlug": "durban",
-      "distance": 19.996492446825282
-    },
-    {
-      "city": "Maseru",
-      "state": "Maseru District",
-      "stateSlug": "maseru-district",
-      "citySlug": "maseru",
-      "distance": 442.0970442562635
+      "city": "Pretoria",
+      "state": "Gauteng",
+      "stateSlug": "gauteng",
+      "citySlug": "pretoria"
     }
-  ],
-  "geohash": "kdbfrzt",
-  "geohashUrl": "https://geohash.softeng.co/kdbfrzt"
+  ]
 }

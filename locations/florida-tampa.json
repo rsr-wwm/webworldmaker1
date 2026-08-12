@@ -5,7 +5,6 @@
   "stateSlug": "florida",
   "citySlug": "tampa",
   "country": "United States",
-  "pincode": "33601",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 305",
   "timezone": "America/New_York",
-  "latitude": 46.4523,
-  "longitude": -108.4935,
-  "landmark": "Tampa Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tampa, United States",
   "population": 3590277,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Columbia",
-      "state": "South Carolina",
-      "stateSlug": "south-carolina",
-      "citySlug": "columbia",
-      "distance": 292.522337702784
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "San Antonio",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "san-antonio",
-      "distance": 375.3027863634778
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "El Paso",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "el-paso",
-      "distance": 422.5382061216561
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Kansas City",
-      "state": "Missouri",
-      "stateSlug": "missouri",
-      "citySlug": "kansas-city",
-      "distance": 488.25037840538
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Regina",
-      "state": "Saskatchewan",
-      "stateSlug": "saskatchewan",
-      "citySlug": "regina",
-      "distance": 528.214853928029
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "c86b70m",
-  "geohashUrl": "https://geohash.softeng.co/c86b70m"
+  ]
 }

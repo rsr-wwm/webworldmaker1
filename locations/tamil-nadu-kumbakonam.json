@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "kumbakonam",
   "country": "India",
-  "pincode": "612001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.0865,
-  "longitude": 73.7156,
-  "landmark": "Kumbakonam Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kumbakonam, India",
   "population": 8813075,
   "mobileUsers": 6363040,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kapanga",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "kapanga",
-      "distance": 39.824014547564424
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Beawar",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "beawar",
-      "distance": 58.80412091016912
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tirunelveli",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tirunelveli",
-      "distance": 60.460646619731655
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Betul",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "betul",
-      "distance": 72.59228124352141
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Shimla",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "shimla",
-      "distance": 76.66405300857319
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tehqvkw",
-  "geohashUrl": "https://geohash.softeng.co/tehqvkw"
+  ]
 }

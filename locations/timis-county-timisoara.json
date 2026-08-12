@@ -5,7 +5,6 @@
   "stateSlug": "timis-county",
   "citySlug": "timisoara",
   "country": "Romania",
-  "pincode": "300001",
   "currency": "RON",
   "symbol": "lei",
   "compliance": "GDPR / ANCOM",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+40",
   "timezone": "Europe/Bucharest",
-  "latitude": 45.8642,
-  "longitude": 25.0194,
-  "landmark": "Timisoara State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Vodafone, Digi.Mobil with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Timisoara, Romania",
   "population": 2240678,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Bucharest",
-      "state": "Bucharest Municipality",
-      "stateSlug": "bucharest-municipality",
-      "citySlug": "bucharest",
-      "distance": 18.77110614485572
+      "city": "Cluj-Napoca",
+      "state": "Cluj County",
+      "stateSlug": "cluj-county",
+      "citySlug": "cluj-napoca"
     },
     {
       "city": "Brasov",
       "state": "Brasov County",
       "stateSlug": "brasov-county",
-      "citySlug": "brasov",
-      "distance": 23.534223752404905
-    },
-    {
-      "city": "Cluj-Napoca",
-      "state": "Cluj County",
-      "stateSlug": "cluj-county",
-      "citySlug": "cluj-napoca",
-      "distance": 24.351514173705525
+      "citySlug": "brasov"
     },
     {
       "city": "Constanta",
       "state": "Constanta County",
       "stateSlug": "constanta-county",
-      "citySlug": "constanta",
-      "distance": 26.273450534400585
+      "citySlug": "constanta"
     },
     {
-      "city": "Sofia",
-      "state": "Sofia City",
-      "stateSlug": "sofia-city",
-      "citySlug": "sofia",
-      "distance": 297.3859000896592
+      "city": "Bucharest",
+      "state": "Bucharest Municipality",
+      "stateSlug": "bucharest-municipality",
+      "citySlug": "bucharest"
     }
-  ],
-  "geohash": "u81ucm6",
-  "geohashUrl": "https://geohash.softeng.co/u81ucm6"
+  ]
 }

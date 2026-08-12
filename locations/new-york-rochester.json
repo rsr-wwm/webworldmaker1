@@ -5,7 +5,6 @@
   "stateSlug": "new-york",
   "citySlug": "rochester",
   "country": "United States",
-  "pincode": "14601",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 212",
   "timezone": "America/New_York",
-  "latitude": 36.9123,
-  "longitude": -105.4161,
-  "landmark": "Rochester Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Rochester, United States",
   "population": 3821048,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Washington, D.C.",
-      "state": "District of Columbia",
-      "stateSlug": "district-of-columbia",
-      "citySlug": "washington-dc",
-      "distance": 91.01641982945351
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Los Angeles",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "los-angeles",
-      "distance": 306.57063258422187
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Cincinnati",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "cincinnati",
-      "distance": 399.53153599745366
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Orlando",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "orlando",
-      "distance": 484.20960794262567
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Jacksonville",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "jacksonville",
-      "distance": 491.40290781569644
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9wt1cpw",
-  "geohashUrl": "https://geohash.softeng.co/9wt1cpw"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "gujarat",
   "citySlug": "khambhalia",
   "country": "India",
-  "pincode": "361305",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 79",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.1006,
-  "longitude": 88.7149,
-  "landmark": "Khambhalia Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Khambhalia, India",
   "population": 9864994,
   "mobileUsers": 7379015,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Avanigadda",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "avanigadda",
-      "distance": 39.63614166988922
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Aibok",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "aibok",
-      "distance": 47.45472700761074
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kunjvan",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kunjvan",
-      "distance": 105.97727594888514
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Basavanagudi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "basavanagudi",
-      "distance": 110.33324282032514
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Arrah",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "arrah",
-      "distance": 114.17722938930392
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfx04yb",
-  "geohashUrl": "https://geohash.softeng.co/tfx04yb"
+  ]
 }

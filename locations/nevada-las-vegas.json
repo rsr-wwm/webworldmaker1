@@ -5,7 +5,6 @@
   "stateSlug": "nevada",
   "citySlug": "las-vegas",
   "country": "United States",
-  "pincode": "89101",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Denver",
-  "latitude": 37.6445,
-  "longitude": -91.4069,
-  "landmark": "Las Vegas District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Las Vegas, United States",
   "population": 545437,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Omaha",
-      "state": "Nebraska",
-      "stateSlug": "nebraska",
-      "citySlug": "omaha",
-      "distance": 262.7644754644115
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "San Diego",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "san-diego",
-      "distance": 370.08521344776193
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Madison",
-      "state": "Wisconsin",
-      "stateSlug": "wisconsin",
-      "citySlug": "madison",
-      "distance": 550.678927521475
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Columbus",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "columbus",
-      "distance": 571.640912088737
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "St. Louis",
-      "state": "Missouri",
-      "stateSlug": "missouri",
-      "citySlug": "st-louis",
-      "distance": 619.4871417548671
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9ywypuz",
-  "geohashUrl": "https://geohash.softeng.co/9ywypuz"
+  ]
 }

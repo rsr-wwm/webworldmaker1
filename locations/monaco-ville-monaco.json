@@ -5,7 +5,6 @@
   "stateSlug": "monaco-ville",
   "citySlug": "monaco",
   "country": "Monaco",
-  "pincode": "98000",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / CCIN",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+377",
   "timezone": "Europe/Monaco",
-  "latitude": 43.8151,
-  "longitude": 7.588,
-  "landmark": "Monaco Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Monaco Telecom networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Monaco, Monaco",
   "population": 1694238,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
   "aiReadiness": "High: Integrating AI agents into customer support systems",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Bern",
-      "state": "Canton of Bern",
-      "stateSlug": "canton-of-bern",
-      "citySlug": "bern",
-      "distance": 343.3787828099031
-    },
-    {
-      "city": "Zurich",
-      "state": "Canton of Zurich",
-      "stateSlug": "canton-of-zurich",
-      "citySlug": "zurich",
-      "distance": 348.90242641876193
-    },
-    {
-      "city": "Lausanne",
-      "state": "Canton of Vaud",
-      "stateSlug": "canton-of-vaud",
-      "citySlug": "lausanne",
-      "distance": 356.42369460334027
-    },
-    {
-      "city": "Geneva",
-      "state": "Canton of Geneva",
-      "stateSlug": "canton-of-geneva",
-      "citySlug": "geneva",
-      "distance": 368.3745979480137
-    },
-    {
-      "city": "Basel",
-      "state": "Canton of Basel-Stadt",
-      "stateSlug": "canton-of-basel-stadt",
-      "citySlug": "basel",
-      "distance": 371.72313135627354
-    }
-  ],
-  "geohash": "spv3k8m",
-  "geohashUrl": "https://geohash.softeng.co/spv3k8m"
+  "nearbyLocations": []
 }

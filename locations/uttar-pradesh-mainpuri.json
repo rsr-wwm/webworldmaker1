@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "mainpuri",
   "country": "India",
-  "pincode": "205001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.6957,
-  "longitude": 84.8041,
-  "landmark": "Mainpuri Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mainpuri, India",
   "population": 6516304,
   "mobileUsers": 4698255,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Calcutta G.P.O",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "calcutta-gpo",
-      "distance": 30.148874720238748
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bikaner",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bikaner",
-      "distance": 63.52193938379385
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Saharsa",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "saharsa",
-      "distance": 65.19957665190249
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chaokham",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "chaokham",
-      "distance": 70.9261864269698
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Atur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "atur",
-      "distance": 78.3680310757725
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvk2cvb",
-  "geohashUrl": "https://geohash.softeng.co/tvk2cvb"
+  ]
 }

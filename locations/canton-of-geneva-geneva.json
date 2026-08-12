@@ -5,7 +5,6 @@
   "stateSlug": "canton-of-geneva",
   "citySlug": "geneva",
   "country": "Switzerland",
-  "pincode": "1200",
   "currency": "CHF",
   "symbol": "CHF",
   "compliance": "Bakom Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+41",
   "timezone": "Europe/Zurich",
-  "latitude": 47.1222,
-  "longitude": 7.8669,
-  "landmark": "Geneva Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Swisscom networks. Failovers route over Sunrise, Salt with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Geneva, Switzerland",
   "population": 3320150,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Zurich",
+      "state": "Canton of Zurich",
+      "stateSlug": "canton-of-zurich",
+      "citySlug": "zurich"
+    },
+    {
       "city": "Basel",
       "state": "Canton of Basel-Stadt",
       "stateSlug": "canton-of-basel-stadt",
-      "citySlug": "basel",
-      "distance": 3.4974962854984635
+      "citySlug": "basel"
     },
     {
       "city": "Lausanne",
       "state": "Canton of Vaud",
       "stateSlug": "canton-of-vaud",
-      "citySlug": "lausanne",
-      "distance": 11.975731918442658
-    },
-    {
-      "city": "Zurich",
-      "state": "Canton of Zurich",
-      "stateSlug": "canton-of-zurich",
-      "citySlug": "zurich",
-      "distance": 20.358481233303877
+      "citySlug": "lausanne"
     },
     {
       "city": "Bern",
       "state": "Canton of Bern",
       "stateSlug": "canton-of-bern",
-      "citySlug": "bern",
-      "distance": 25.639907763871797
-    },
-    {
-      "city": "Vaduz",
-      "state": "Vaduz Commune",
-      "stateSlug": "vaduz-commune",
-      "citySlug": "vaduz",
-      "distance": 125.13718396787007
+      "citySlug": "bern"
     }
-  ],
-  "geohash": "u0ms542",
-  "geohashUrl": "https://geohash.softeng.co/u0ms542"
+  ]
 }

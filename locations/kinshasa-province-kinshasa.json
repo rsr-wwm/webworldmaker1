@@ -5,7 +5,6 @@
   "stateSlug": "kinshasa-province",
   "citySlug": "kinshasa",
   "country": "Democratic Republic of the Congo",
-  "pincode": "00000",
   "currency": "CDF",
   "symbol": "FC",
   "compliance": "ARPTC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+243",
   "timezone": "Africa/Kinshasa",
-  "latitude": 0.0432,
-  "longitude": 25.0277,
-  "landmark": "Kinshasa Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over Orange, Airtel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kinshasa, Democratic Republic of the Congo",
   "population": 3490661,
@@ -44,38 +40,13 @@
       "city": "Lubumbashi",
       "state": "Haut-Katanga",
       "stateSlug": "haut-katanga",
-      "citySlug": "lubumbashi",
-      "distance": 14.249207114339612
+      "citySlug": "lubumbashi"
     },
     {
       "city": "Goma",
       "state": "North Kivu",
       "stateSlug": "north-kivu",
-      "citySlug": "goma",
-      "distance": 36.659812811085686
-    },
-    {
-      "city": "Kigali",
-      "state": "Kigali Province",
-      "stateSlug": "kigali-province",
-      "citySlug": "kigali",
-      "distance": 580.5013769164915
-    },
-    {
-      "city": "Gitega",
-      "state": "Gitega Province",
-      "stateSlug": "gitega-province",
-      "citySlug": "gitega",
-      "distance": 667.9112382409393
-    },
-    {
-      "city": "Bujumbura",
-      "state": "Bujumbura Mairie",
-      "stateSlug": "bujumbura-mairie",
-      "citySlug": "bujumbura",
-      "distance": 687.4317237966931
+      "citySlug": "goma"
     }
-  ],
-  "geohash": "s81b1xb",
-  "geohashUrl": "https://geohash.softeng.co/s81b1xb"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "hampshire",
   "citySlug": "southampton",
   "country": "United Kingdom",
-  "pincode": "SO14",
   "currency": "GBP",
   "symbol": "£",
   "compliance": "Ofcom Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+44 20",
   "timezone": "Europe/London",
-  "latitude": 52.805,
-  "longitude": -1.2326,
-  "landmark": "Southampton Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over EE networks. Failovers route over Vodafone, O2, Three with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Southampton, United Kingdom",
   "population": 925795,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Nottingham",
-      "state": "Nottinghamshire",
-      "stateSlug": "nottinghamshire",
-      "citySlug": "nottingham",
-      "distance": 189.15114915477156
-    },
-    {
       "city": "Sheffield",
       "state": "South Yorkshire",
       "stateSlug": "south-yorkshire",
-      "citySlug": "sheffield",
-      "distance": 205.38677320511295
+      "citySlug": "sheffield"
     },
     {
-      "city": "Edinburgh",
-      "state": "Scotland",
-      "stateSlug": "scotland",
-      "citySlug": "edinburgh",
-      "distance": 205.54398576269597
+      "city": "Nottingham",
+      "state": "Nottinghamshire",
+      "stateSlug": "nottinghamshire",
+      "citySlug": "nottingham"
     },
     {
-      "city": "Leeds",
-      "state": "West Yorkshire",
-      "stateSlug": "west-yorkshire",
-      "citySlug": "leeds",
-      "distance": 208.4220275860878
+      "city": "Leicester",
+      "state": "Leicestershire",
+      "stateSlug": "leicestershire",
+      "citySlug": "leicester"
+    },
+    {
+      "city": "Belfast",
+      "state": "Northern Ireland",
+      "stateSlug": "northern-ireland",
+      "citySlug": "belfast"
     },
     {
       "city": "Cardiff",
       "state": "Wales",
       "stateSlug": "wales",
-      "citySlug": "cardiff",
-      "distance": 218.2659237664579
+      "citySlug": "cardiff"
     }
-  ],
-  "geohash": "gcrh7uy",
-  "geohashUrl": "https://geohash.softeng.co/gcrh7uy"
+  ]
 }

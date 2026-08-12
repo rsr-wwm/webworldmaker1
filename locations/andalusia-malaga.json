@@ -5,7 +5,6 @@
   "stateSlug": "andalusia",
   "citySlug": "malaga",
   "country": "Spain",
-  "pincode": "29001",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / CNMC",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+34",
   "timezone": "Africa/Ceuta",
-  "latitude": 40.0695,
-  "longitude": -4.1486,
-  "landmark": "Malaga Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Movistar networks. Failovers route over Orange, Vodafone, Yoigo with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Malaga, Spain",
   "population": 3561613,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
+      "city": "Zaragoza",
+      "state": "Aragon",
+      "stateSlug": "aragon",
+      "citySlug": "zaragoza"
+    },
+    {
+      "city": "Las Palmas",
+      "state": "Canary Islands",
+      "stateSlug": "canary-islands",
+      "citySlug": "las-palmas"
+    },
+    {
+      "city": "Barcelona",
+      "state": "Catalonia",
+      "stateSlug": "catalonia",
+      "citySlug": "barcelona"
+    },
+    {
       "city": "Seville",
       "state": "Andalusia",
       "stateSlug": "andalusia",
-      "citySlug": "seville",
-      "distance": 6.483326949698144
+      "citySlug": "seville"
     },
     {
       "city": "Valencia",
       "state": "Valencian Community",
       "stateSlug": "valencian-community",
-      "citySlug": "valencia",
-      "distance": 7.494401087980559
-    },
-    {
-      "city": "Zaragoza",
-      "state": "Aragon",
-      "stateSlug": "aragon",
-      "citySlug": "zaragoza",
-      "distance": 13.553446604233827
-    },
-    {
-      "city": "Madrid",
-      "state": "Community of Madrid",
-      "stateSlug": "community-of-madrid",
-      "citySlug": "madrid",
-      "distance": 23.242366324967914
-    },
-    {
-      "city": "Bilbao",
-      "state": "Basque Country",
-      "stateSlug": "basque-country",
-      "citySlug": "bilbao",
-      "distance": 25.196379277748033
+      "citySlug": "valencia"
     }
-  ],
-  "geohash": "ezj5cw7",
-  "geohashUrl": "https://geohash.softeng.co/ezj5cw7"
+  ]
 }

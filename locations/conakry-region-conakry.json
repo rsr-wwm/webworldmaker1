@@ -5,7 +5,6 @@
   "stateSlug": "conakry-region",
   "citySlug": "conakry",
   "country": "Guinea",
-  "pincode": "00000",
   "currency": "GNF",
   "symbol": "FG",
   "compliance": "ARPT Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+224",
   "timezone": "Africa/Conakry",
-  "latitude": 11.199,
-  "longitude": -10.0001,
-  "landmark": "Conakry Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over MTN with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Conakry, Guinea",
   "population": 3939359,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Freetown",
-      "state": "Western Area",
-      "stateSlug": "western-area",
-      "citySlug": "freetown",
-      "distance": 357.65631000888936
-    },
-    {
-      "city": "Monrovia",
-      "state": "Montserrado County",
-      "stateSlug": "montserrado-county",
-      "citySlug": "monrovia",
-      "distance": 540.7696272379951
-    },
-    {
-      "city": "Saint-Louis",
-      "state": "Saint-Louis Region",
-      "stateSlug": "saint-louis-region",
-      "citySlug": "saint-louis",
-      "distance": 549.7682226661768
-    },
-    {
-      "city": "Dakar",
-      "state": "Dakar Region",
-      "stateSlug": "dakar-region",
-      "citySlug": "dakar",
-      "distance": 551.3683749593845
-    },
-    {
-      "city": "Bissau",
-      "state": "Bissau Sector",
-      "stateSlug": "bissau-sector",
-      "citySlug": "bissau",
-      "distance": 570.3797428620724
-    }
-  ],
-  "geohash": "ecbzsqw",
-  "geohashUrl": "https://geohash.softeng.co/ecbzsqw"
+  "nearbyLocations": []
 }

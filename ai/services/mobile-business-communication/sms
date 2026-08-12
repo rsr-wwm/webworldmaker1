@@ -7,10 +7,10 @@ Transactional, OTP, Promotional SMS, and high-speed API dispatches via direct op
 Maximize open rates with our direct carrier SMS solutions. We offer high-performance transactional routes, low-latency OTP gateways, and highly-scalable promotional SMS engines. Connect via persistent SMPP binds or REST APIs, and track delivery logs in real-time with comprehensive analytics dashboards. All commercial SMS sent in India must be DLT-registered with TRAI — see our step-by-step registration guide. Traditional SMS is also the reliable fallback for RCS campaigns or can be integrated alongside the WhatsApp Business API for a complete omnichannel user experience.
 
 Key features:
-- OTP & Transactional SMS: Priority Tier-1 routes with sub-3 second global delivery. Minimize login drop-offs.
+- OTP & Transactional SMS: Priority Premium Carrier routes with low-latency global delivery. Minimize login drop-offs.
 - Promotional Campaigns: Send millions of personalized offers with custom sender IDs. Drive immediate retail sales.
 - SMS APIs & Automation: Simple REST APIs, webhooks, and DLT/10DLC compliance hooks. Developer friendly integration.
-- SMPP Binds & Analytics: Persistent SMPP v3.4 binds for wholesale volume routing at 5,000 TPS. Maximum crawl & throughput efficiency.
+- SMPP Binds & Analytics: Persistent SMPP v3.4 binds for high-throughput wholesale volume routing. Maximum crawl & throughput efficiency.
 
 FAQs:
 
@@ -39,7 +39,7 @@ Q: Can I set them to send later?
 A: Yes, you can schedule your messages for next Tuesday at 9 AM, or whenever suits your customers best.
 
 Q: What does the "OTP & Transactional SMS" capability include?
-A: Priority Tier-1 routes with sub-3 second global delivery. The benefit: minimize login drop-offs.
+A: Priority Premium Carrier routes with low-latency global delivery. The benefit: minimize login drop-offs.
 
 Q: What does the "Promotional Campaigns" capability include?
 A: Send millions of personalized offers with custom sender IDs. The benefit: drive immediate retail sales.

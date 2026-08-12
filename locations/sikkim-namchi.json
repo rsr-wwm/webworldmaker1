@@ -5,7 +5,6 @@
   "stateSlug": "sikkim",
   "citySlug": "namchi",
   "country": "India",
-  "pincode": "737126",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.5719,
-  "longitude": 85.0804,
-  "landmark": "Namchi District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Namchi, India",
   "population": 9661685,
   "mobileUsers": 7352542,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bada bazar",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bada-bazar",
-      "distance": 44.34271168365954
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Valsad",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "valsad",
-      "distance": 49.935306494628584
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Saikot",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "saikot",
-      "distance": 65.47160536366705
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kayamkulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kayamkulam",
-      "distance": 92.28495613426925
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kothgudem Collieries",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kothgudem-collieries",
-      "distance": 110.35647504036253
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfh9b49",
-  "geohashUrl": "https://geohash.softeng.co/tfh9b49"
+  ]
 }

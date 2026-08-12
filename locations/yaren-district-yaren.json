@@ -5,7 +5,6 @@
   "stateSlug": "yaren-district",
   "citySlug": "yaren",
   "country": "Nauru",
-  "pincode": "0000",
   "currency": "AUD",
   "symbol": "A$",
   "compliance": "ICT Regulatory",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+674",
   "timezone": "Pacific/Nauru",
-  "latitude": -0.3344,
-  "longitude": 166.9115,
-  "landmark": "Yaren Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Digicel networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Yaren, Nauru",
   "population": 2978325,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Tarawa",
-      "state": "Gilbert Islands",
-      "stateSlug": "gilbert-islands",
-      "citySlug": "tarawa",
-      "distance": 698.6212955542492
-    },
-    {
-      "city": "Majuro",
-      "state": "Majuro Atoll",
-      "stateSlug": "majuro-atoll",
-      "citySlug": "majuro",
-      "distance": 1047.2361540557993
-    },
-    {
-      "city": "Honiara",
-      "state": "Guadalcanal Province",
-      "stateSlug": "guadalcanal-province",
-      "citySlug": "honiara",
-      "distance": 1230.5122120824267
-    },
-    {
-      "city": "Palikir",
-      "state": "Pohnpei State",
-      "stateSlug": "pohnpei-state",
-      "citySlug": "palikir",
-      "distance": 1249.8419386057687
-    },
-    {
-      "city": "Funafuti",
-      "state": "Funafuti Atoll",
-      "stateSlug": "funafuti-atoll",
-      "citySlug": "funafuti",
-      "distance": 1498.258680759418
-    }
-  ],
-  "geohash": "rxywn5j",
-  "geohashUrl": "https://geohash.softeng.co/rxywn5j"
+  "nearbyLocations": []
 }

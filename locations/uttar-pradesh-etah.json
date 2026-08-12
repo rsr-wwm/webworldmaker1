@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "etah",
   "country": "India",
-  "pincode": "207001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.8716,
-  "longitude": 80.8798,
-  "landmark": "Etah GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Etah, India",
   "population": 2253699,
   "mobileUsers": 1699289,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Akola",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "akola",
-      "distance": 5.056297257750905
-    },
-    {
-      "city": "Chikodi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chikodi",
-      "distance": 33.86287046403875
-    },
-    {
-      "city": "Nagaur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "nagaur",
-      "distance": 54.86691744772829
-    },
-    {
-      "city": "Bhopal G.P.O",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bhopal-gpo",
-      "distance": 63.321819098242145
+      "citySlug": "bhopal"
     },
     {
-      "city": "Srimadhopur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "srimadhopur",
-      "distance": 71.24346457541613
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu3t2rw",
-  "geohashUrl": "https://geohash.softeng.co/tu3t2rw"
+  ]
 }

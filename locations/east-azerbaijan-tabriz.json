@@ -5,7 +5,6 @@
   "stateSlug": "east-azerbaijan",
   "citySlug": "tabriz",
   "country": "Iran",
-  "pincode": "51335",
   "currency": "IRR",
   "symbol": "﷼",
   "compliance": "CRA Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+98",
   "timezone": "Asia/Tehran",
-  "latitude": 31.9202,
-  "longitude": 53.0075,
-  "landmark": "Tabriz Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over MCI networks. Failovers route over Irancell, RighTel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tabriz, Iran",
   "population": 1009861,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Isfahan",
+      "state": "Isfahan Province",
+      "stateSlug": "isfahan-province",
+      "citySlug": "isfahan"
+    },
+    {
       "city": "Mashhad",
       "state": "Razavi Khorasan",
       "stateSlug": "razavi-khorasan",
-      "citySlug": "mashhad",
-      "distance": 15.999327022359079
+      "citySlug": "mashhad"
     },
     {
       "city": "Tehran",
       "state": "Tehran Province",
       "stateSlug": "tehran-province",
-      "citySlug": "tehran",
-      "distance": 18.983075911502468
-    },
-    {
-      "city": "Isfahan",
-      "state": "Isfahan Province",
-      "stateSlug": "isfahan-province",
-      "citySlug": "isfahan",
-      "distance": 24.919077150997214
-    },
-    {
-      "city": "Kuwait City",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "kuwait-city",
-      "distance": 558.2036298166929
-    },
-    {
-      "city": "Manama",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "manama",
-      "distance": 703.6836453275716
+      "citySlug": "tehran"
     }
-  ],
-  "geohash": "tjttw4y",
-  "geohashUrl": "https://geohash.softeng.co/tjttw4y"
+  ]
 }

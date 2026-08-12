@@ -5,7 +5,6 @@
   "stateSlug": "kosice-region",
   "citySlug": "kosice",
   "country": "Slovakia",
-  "pincode": "040 01",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / RU",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+421",
   "timezone": "Europe/Bratislava",
-  "latitude": 48.674,
-  "longitude": 19.6237,
-  "landmark": "Kosice Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Slovak Telekom, O2, 4ka with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kosice, Slovakia",
   "population": 577173,
@@ -45,38 +41,7 @@
       "city": "Bratislava",
       "state": "Bratislava Region",
       "stateSlug": "bratislava-region",
-      "citySlug": "bratislava",
-      "distance": 13.299859733608395
-    },
-    {
-      "city": "Budapest",
-      "state": "Central Hungary",
-      "stateSlug": "central-hungary",
-      "citySlug": "budapest",
-      "distance": 170.37927728869738
-    },
-    {
-      "city": "Miskolc",
-      "state": "Borsod-Abauj-Zemplen",
-      "stateSlug": "borsod-abauj-zemplen",
-      "citySlug": "miskolc",
-      "distance": 185.73008665755364
-    },
-    {
-      "city": "Debrecen",
-      "state": "Hajdu-Bihar",
-      "stateSlug": "hajdu-bihar",
-      "citySlug": "debrecen",
-      "distance": 207.89080343379533
-    },
-    {
-      "city": "Brno",
-      "state": "South Moravian",
-      "stateSlug": "south-moravian",
-      "citySlug": "brno",
-      "distance": 325.4675389585999
+      "citySlug": "bratislava"
     }
-  ],
-  "geohash": "u2tuysc",
-  "geohashUrl": "https://geohash.softeng.co/u2tuysc"
+  ]
 }

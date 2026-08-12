@@ -5,7 +5,6 @@
   "stateSlug": "sanaa-governorate",
   "citySlug": "sanaa",
   "country": "Yemen",
-  "pincode": "00967",
   "currency": "YER",
   "symbol": "﷼",
   "compliance": "MTIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+967",
   "timezone": "Asia/Aden",
-  "latitude": 15.1544,
-  "longitude": 48.1702,
-  "landmark": "Sanaa Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Yemen Mobile networks. Failovers route over Sabafon, MTN with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Sanaa, Yemen",
   "population": 2249637,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Mogadishu",
-      "state": "Banaadir",
-      "stateSlug": "banaadir",
-      "citySlug": "mogadishu",
-      "distance": 564.4949335033474
-    },
-    {
-      "city": "Hargeisa",
-      "state": "Woqooyi Galbeed",
-      "stateSlug": "woqooyi-galbeed",
-      "citySlug": "hargeisa",
-      "distance": 568.9339849349466
-    },
-    {
-      "city": "Djibouti City",
-      "state": "Djibouti Region",
-      "stateSlug": "djibouti-region",
-      "citySlug": "djibouti-city",
-      "distance": 670.3138422584324
-    },
-    {
-      "city": "Asmara",
-      "state": "Maekel Region",
-      "stateSlug": "maekel-region",
-      "citySlug": "asmara",
-      "distance": 988.6929823549704
-    },
-    {
-      "city": "Mecca",
-      "state": "Makkah Region",
-      "stateSlug": "makkah-region",
-      "citySlug": "mecca",
-      "distance": 1119.5588813695103
-    }
-  ],
-  "geohash": "t4dq0nu",
-  "geohashUrl": "https://geohash.softeng.co/t4dq0nu"
+  "nearbyLocations": []
 }

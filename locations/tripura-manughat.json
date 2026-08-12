@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "manughat",
   "country": "India",
-  "pincode": "799275",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.2803,
-  "longitude": 84.1905,
-  "landmark": "Manughat Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Manughat, India",
   "population": 9472465,
   "mobileUsers": 7341160,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ramachandrapuram",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "ramachandrapuram",
-      "distance": 40.61290767824057
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bakultala",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "bakultala",
-      "distance": 41.69817151317123
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tinsukia",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "tinsukia",
-      "distance": 63.90439293049299
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Ramdurg",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "ramdurg",
-      "distance": 67.70276020104919
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kumar ghat",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kumar-ghat",
-      "distance": 77.00967227764609
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tggc5cc",
-  "geohashUrl": "https://geohash.softeng.co/tggc5cc"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "orissa",
   "citySlug": "khurda",
   "country": "India",
-  "pincode": "752055",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.8627,
-  "longitude": 85.4914,
-  "landmark": "Khurda Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Khurda, India",
   "population": 5306400,
   "mobileUsers": 4006332,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nellore",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nellore",
-      "distance": 49.70965934928737
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Adur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "adur",
-      "distance": 50.25616879500324
-    },
-    {
-      "city": "Ichalkaranji",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "ichalkaranji",
-      "distance": 55.20989627249673
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bagalkot",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bagalkot",
-      "distance": 82.43074958429729
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Parkal",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "parkal",
-      "distance": 88.90892284318677
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tghv97u",
-  "geohashUrl": "https://geohash.softeng.co/tghv97u"
+  ]
 }

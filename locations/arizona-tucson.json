@@ -5,7 +5,6 @@
   "stateSlug": "arizona",
   "citySlug": "tucson",
   "country": "United States",
-  "pincode": "85701",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 602",
   "timezone": "America/Denver",
-  "latitude": 40.9212,
-  "longitude": -115.6278,
-  "landmark": "Tucson State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tucson, United States",
   "population": 3827207,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "San Francisco",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "san-francisco",
-      "distance": 200.862740120989
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Louisville",
-      "state": "Kentucky",
-      "stateSlug": "kentucky",
-      "citySlug": "louisville",
-      "distance": 363.4788619808999
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Nashville",
-      "state": "Tennessee",
-      "stateSlug": "tennessee",
-      "citySlug": "nashville",
-      "distance": 405.65231242556945
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Pittsburgh",
-      "state": "Pennsylvania",
-      "stateSlug": "pennsylvania",
-      "citySlug": "pittsburgh",
-      "distance": 458.47802663357345
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     },
     {
-      "city": "Dallas",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "dallas",
-      "distance": 502.81835060085496
+      "city": "Omaha",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "citySlug": "omaha"
     }
-  ],
-  "geohash": "9rmbbc6",
-  "geohashUrl": "https://geohash.softeng.co/9rmbbc6"
+  ]
 }

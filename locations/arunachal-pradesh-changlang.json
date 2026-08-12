@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "changlang",
   "country": "India",
-  "pincode": "792120",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.5671,
-  "longitude": 86.7314,
-  "landmark": "Changlang Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Changlang, India",
   "population": 9723339,
   "mobileUsers": 7146654,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rewa",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "rewa",
-      "distance": 65.88101445597277
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gonda",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "gonda",
-      "distance": 70.9046695648463
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chingkompong",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "chingkompong",
-      "distance": 78.34463924221141
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Madanganj",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "madanganj",
-      "distance": 106.15459249088771
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mokokchung",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "mokokchung",
-      "distance": 131.9105447957154
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfv8t9g",
-  "geohashUrl": "https://geohash.softeng.co/tfv8t9g"
+  ]
 }

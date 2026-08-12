@@ -10,7 +10,7 @@ Symptoms:
 - Signup or checkout abandonment right at the verification step
 - No visibility into which routes or operators are failing
 
-Our solution: We route OTPs over direct Tier-1 carrier binds instead of aggregator hops, and layer automatic Voice or WhatsApp fallback when SMS is not confirmed within a few seconds, so verification completes even when one channel is congested.
+Our solution: We route OTPs over direct Premium Carrier carrier binds instead of aggregator hops, and layer automatic Voice or WhatsApp fallback when SMS is not confirmed within a few seconds, so verification completes even when one channel is congested.
 
 FAQs:
 

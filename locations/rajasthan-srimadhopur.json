@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "srimadhopur",
   "country": "India",
-  "pincode": "332715",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.3309,
-  "longitude": 81.3731,
-  "landmark": "Srimadhopur State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Srimadhopur, India",
   "population": 6943153,
   "mobileUsers": 5255966,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Etah",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "etah",
-      "distance": 71.24346457541613
-    },
-    {
-      "city": "Akola",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "akola",
-      "distance": 75.35505516545011
-    },
-    {
-      "city": "Chikodi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chikodi",
-      "distance": 76.59486215002686
-    },
-    {
-      "city": "Vidisha",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "vidisha",
-      "distance": 101.47165800518675
+      "citySlug": "bhopal"
     },
     {
-      "city": "Khowai",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "khowai",
-      "distance": 105.52029138878208
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu9b5eq",
-  "geohashUrl": "https://geohash.softeng.co/tu9b5eq"
+  ]
 }

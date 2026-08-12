@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "makshmara",
   "country": "India",
-  "pincode": "799265",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.6553,
-  "longitude": 71.438,
-  "landmark": "Makshmara District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Makshmara, India",
   "population": 8282939,
   "mobileUsers": 6377863,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Champang",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "champang",
-      "distance": 26.104867296969672
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Girgaon",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "girgaon",
-      "distance": 29.115720995889365
+      "citySlug": "nagpur"
     },
     {
-      "city": "Cobichettipalayam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "cobichettipalayam",
-      "distance": 42.720163749249345
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mangaldoi",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "mangaldoi",
-      "distance": 79.52800297066584
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Sirsi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "sirsi",
-      "distance": 91.40606919250132
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tddg3eg",
-  "geohashUrl": "https://geohash.softeng.co/tddg3eg"
+  ]
 }

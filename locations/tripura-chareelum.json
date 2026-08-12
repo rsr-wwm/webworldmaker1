@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "chareelum",
   "country": "India",
-  "pincode": "799107",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.0397,
-  "longitude": 76.3403,
-  "landmark": "Chareelum Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chareelum, India",
   "population": 922967,
   "mobileUsers": 697763,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mowkarvat",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "mowkarvat",
-      "distance": 66.6497308268824
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sonepat",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "sonepat",
-      "distance": 81.56755406568986
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Attili",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "attili",
-      "distance": 84.05667186037276
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mepusa",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "mepusa",
-      "distance": 96.45019733450401
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Dhanbad",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "dhanbad",
-      "distance": 100.35992704342075
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsy3c4m",
-  "geohashUrl": "https://geohash.softeng.co/tsy3c4m"
+  ]
 }

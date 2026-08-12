@@ -5,7 +5,6 @@
   "stateSlug": "queensland",
   "citySlug": "brisbane",
   "country": "Australia",
-  "pincode": "4000",
   "currency": "AUD",
   "symbol": "A$",
   "compliance": "ACMA Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+61 2",
   "timezone": "Australia/Sydney",
-  "latitude": -27.4689623,
-  "longitude": 153.0235009,
-  "landmark": "Brisbane Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Telstra networks. Failovers route over Optus, Vodafone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Brisbane, Australia",
   "population": 1566418,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Sydney",
-      "state": "New South Wales",
-      "stateSlug": "new-south-wales",
-      "citySlug": "sydney",
-      "distance": 732.4333116772666
-    },
-    {
       "city": "Canberra",
       "state": "Australian Capital Territory",
       "stateSlug": "australian-capital-territory",
-      "citySlug": "canberra",
-      "distance": 943.7769938690186
+      "citySlug": "canberra"
+    },
+    {
+      "city": "Hobart",
+      "state": "Tasmania",
+      "stateSlug": "tasmania",
+      "citySlug": "hobart"
+    },
+    {
+      "city": "Darwin",
+      "state": "Northern Territory",
+      "stateSlug": "northern-territory",
+      "citySlug": "darwin"
     },
     {
       "city": "Melbourne",
       "state": "Victoria",
       "stateSlug": "victoria",
-      "citySlug": "melbourne",
-      "distance": 1374.462160622392
+      "citySlug": "melbourne"
     },
     {
-      "city": "Noumea",
-      "state": "South Province",
-      "stateSlug": "south-province",
-      "citySlug": "noumea",
-      "distance": 1415.9631526457158
-    },
-    {
-      "city": "Adelaide",
-      "state": "South Australia",
-      "stateSlug": "south-australia",
-      "citySlug": "adelaide",
-      "distance": 1600.5395601776322
+      "city": "Perth",
+      "state": "Western Australia",
+      "stateSlug": "western-australia",
+      "citySlug": "perth"
     }
-  ],
-  "geohash": "r7hgdpk",
-  "geohashUrl": "https://geohash.softeng.co/r7hgdpk"
+  ]
 }

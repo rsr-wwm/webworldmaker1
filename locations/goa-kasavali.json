@@ -5,7 +5,6 @@
   "stateSlug": "goa",
   "citySlug": "kasavali",
   "country": "India",
-  "pincode": "403712",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.8779,
-  "longitude": 72.4719,
-  "landmark": "Kasavali Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kasavali, India",
   "population": 8777706,
   "mobileUsers": 6539390,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Campwell Bay",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "campwell-bay",
-      "distance": 42.26128462108438
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Lamphelpat",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "lamphelpat",
-      "distance": 79.88374232578728
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Karaikudi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "karaikudi",
-      "distance": 84.82509603697034
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Shamli",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "shamli",
-      "distance": 131.45657688072447
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Shimoga",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "shimoga",
-      "distance": 134.09178085615352
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td7wcnk",
-  "geohashUrl": "https://geohash.softeng.co/td7wcnk"
+  ]
 }

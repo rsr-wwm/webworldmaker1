@@ -5,7 +5,6 @@
   "stateSlug": "metro-manila",
   "citySlug": "manila",
   "country": "Philippines",
-  "pincode": "1000",
   "currency": "PHP",
   "symbol": "₱",
   "compliance": "NTC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+63",
   "timezone": "Asia/Manila",
-  "latitude": 12.9607,
-  "longitude": 121.9627,
-  "landmark": "Manila Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Smart networks. Failovers route over Globe, Dito with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Manila, Philippines",
   "population": 1870575,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Cebu",
-      "state": "Cebu Province",
-      "stateSlug": "cebu-province",
-      "citySlug": "cebu",
-      "distance": 3.935614807129534
-    },
-    {
       "city": "Davao City",
       "state": "Davao Region",
       "stateSlug": "davao-region",
-      "citySlug": "davao-city",
-      "distance": 5.451552828155525
+      "citySlug": "davao-city"
     },
     {
       "city": "Iloilo City",
       "state": "Western Visayas",
       "stateSlug": "western-visayas",
-      "citySlug": "iloilo-city",
-      "distance": 19.080643892221847
+      "citySlug": "iloilo-city"
     },
     {
       "city": "Cagayan de Oro",
       "state": "Northern Mindanao",
       "stateSlug": "northern-mindanao",
-      "citySlug": "cagayan-de-oro",
-      "distance": 25.706611062333963
+      "citySlug": "cagayan-de-oro"
     },
     {
-      "city": "Kaohsiung",
-      "state": "Kaohsiung Municipality",
-      "stateSlug": "kaohsiung-municipality",
-      "citySlug": "kaohsiung",
-      "distance": 1156.4298433900858
+      "city": "Cebu",
+      "state": "Cebu Province",
+      "stateSlug": "cebu-province",
+      "citySlug": "cebu"
     }
-  ],
-  "geohash": "wdq9xr6",
-  "geohashUrl": "https://geohash.softeng.co/wdq9xr6"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "barabazar",
   "country": "India",
-  "pincode": "700007",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.6012,
-  "longitude": 73.224,
-  "landmark": "Barabazar Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Barabazar, India",
   "population": 8895047,
   "mobileUsers": 6715760,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Makrana",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "makrana",
-      "distance": 20.030728237956126
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hissar",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "hissar",
-      "distance": 52.7336750104672
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Sawaimadhopur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sawaimadhopur",
-      "distance": 58.12740923032724
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Etawah",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "etawah",
-      "distance": 58.61084296241309
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mawphlang",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "mawphlang",
-      "distance": 70.33406570324418
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttk06k8",
-  "geohashUrl": "https://geohash.softeng.co/ttk06k8"
+  ]
 }

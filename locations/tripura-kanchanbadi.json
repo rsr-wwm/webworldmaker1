@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "kanchanbadi",
   "country": "India",
-  "pincode": "799288",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 22.2387,
-  "longitude": 86.7445,
-  "landmark": "Kanchanbadi Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kanchanbadi, India",
   "population": 3936351,
   "mobileUsers": 2975881,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Baleshwar",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "baleshwar",
-      "distance": 36.225378615905726
-    },
-    {
-      "city": "Didwana",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "didwana",
-      "distance": 37.41851242728413
-    },
-    {
-      "city": "Chuchaimalang",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chuchaimalang",
-      "distance": 41.84880945709644
-    },
-    {
-      "city": "Bhopal C.I.T. Nagar",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bhopal-cit-nagar",
-      "distance": 53.00361884979193
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nanglayer",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "nanglayer",
-      "distance": 81.0947197013948
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgvwtbm",
-  "geohashUrl": "https://geohash.softeng.co/tgvwtbm"
+  ]
 }

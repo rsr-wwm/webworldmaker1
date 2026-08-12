@@ -5,7 +5,6 @@
   "stateSlug": "capital-district",
   "citySlug": "caracas",
   "country": "Venezuela",
-  "pincode": "1010",
   "currency": "VES",
   "symbol": "Bs.S",
   "compliance": "CONATEL Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+58",
   "timezone": "America/Caracas",
-  "latitude": 8.0307,
-  "longitude": -66.1106,
-  "landmark": "Caracas Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Movilnet networks. Failovers route over Movistar, Digitel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Caracas, Venezuela",
   "population": 633023,
@@ -44,38 +40,25 @@
       "city": "Maracaibo",
       "state": "Zulia",
       "stateSlug": "zulia",
-      "citySlug": "maracaibo",
-      "distance": 18.991458643007974
-    },
-    {
-      "city": "Valencia",
-      "state": "Carabobo State",
-      "stateSlug": "carabobo-state",
-      "citySlug": "valencia",
-      "distance": 24.473740692642608
+      "citySlug": "maracaibo"
     },
     {
       "city": "Maracay",
       "state": "Aragua State",
       "stateSlug": "aragua-state",
-      "citySlug": "maracay",
-      "distance": 29.771262067353543
+      "citySlug": "maracay"
     },
     {
-      "city": "Willemstad",
-      "state": "Curacao Island",
-      "stateSlug": "curacao-island",
-      "citySlug": "willemstad",
-      "distance": 533.4795307009721
+      "city": "Valencia",
+      "state": "Carabobo State",
+      "stateSlug": "carabobo-state",
+      "citySlug": "valencia"
     },
     {
-      "city": "Saint George's",
-      "state": "Saint George Parish",
-      "stateSlug": "saint-george-parish",
-      "citySlug": "saint-georges",
-      "distance": 653.8636007435134
+      "city": "Asuncion",
+      "state": "Capital District",
+      "stateSlug": "capital-district",
+      "citySlug": "asuncion"
     }
-  ],
-  "geohash": "d92vxtg",
-  "geohashUrl": "https://geohash.softeng.co/d92vxtg"
+  ]
 }

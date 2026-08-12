@@ -5,7 +5,6 @@
   "stateSlug": "sfax-governorate",
   "citySlug": "sfax",
   "country": "Tunisia",
-  "pincode": "3000",
   "currency": "TND",
   "symbol": "DT",
   "compliance": "INT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+216",
   "timezone": "Africa/Tunis",
-  "latitude": 34.0765,
-  "longitude": 9.1039,
-  "landmark": "Sfax Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Ooredoo networks. Failovers route over Tunisie Telecom, Orange with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Sfax, Tunisia",
   "population": 601249,
@@ -44,38 +40,7 @@
       "city": "Tunis",
       "state": "Tunis Governorate",
       "stateSlug": "tunis-governorate",
-      "citySlug": "tunis",
-      "distance": 28.860611235438174
-    },
-    {
-      "city": "Valletta",
-      "state": "South Eastern Region",
-      "stateSlug": "south-eastern-region",
-      "citySlug": "valletta",
-      "distance": 553.0267187153005
-    },
-    {
-      "city": "Algiers",
-      "state": "Algiers Province",
-      "stateSlug": "algiers-province",
-      "citySlug": "algiers",
-      "distance": 640.4585135430507
-    },
-    {
-      "city": "Oran",
-      "state": "Oran Province",
-      "stateSlug": "oran-province",
-      "citySlug": "oran",
-      "distance": 907.4661691298122
-    },
-    {
-      "city": "Bologna",
-      "state": "Emilia-Romagna",
-      "stateSlug": "emilia-romagna",
-      "citySlug": "bologna",
-      "distance": 1008.3447490262708
+      "citySlug": "tunis"
     }
-  ],
-  "geohash": "snn3z5m",
-  "geohashUrl": "https://geohash.softeng.co/snn3z5m"
+  ]
 }

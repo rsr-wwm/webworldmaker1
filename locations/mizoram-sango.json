@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "sango",
   "country": "India",
-  "pincode": "796810",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.9574,
-  "longitude": 78.386,
-  "landmark": "Sango Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sango, India",
   "population": 564655,
   "mobileUsers": 429702,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kalpett",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kalpett",
-      "distance": 28.98752139633085
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Siwan",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "siwan",
-      "distance": 44.50215000416284
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Pauri",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "pauri",
-      "distance": 48.186085523127836
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kulokon",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "kulokon",
-      "distance": 68.5417848708921
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Muzaffarnagar",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "muzaffarnagar",
-      "distance": 71.23687167476615
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9zwrdw",
-  "geohashUrl": "https://geohash.softeng.co/t9zwrdw"
+  ]
 }

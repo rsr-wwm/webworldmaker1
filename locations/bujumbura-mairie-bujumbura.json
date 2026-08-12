@@ -5,7 +5,6 @@
   "stateSlug": "bujumbura-mairie",
   "citySlug": "bujumbura",
   "country": "Burundi",
-  "pincode": "00000",
   "currency": "BIF",
   "symbol": "FBu",
   "compliance": "ARCT Guidelines",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+257",
   "timezone": "Africa/Bujumbura",
-  "latitude": -3.6328,
-  "longitude": 30.0016,
-  "landmark": "Bujumbura Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Econet Leo networks. Failovers route over Lumitel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bujumbura, Burundi",
   "population": 1717065,
@@ -43,38 +39,7 @@
       "city": "Gitega",
       "state": "Gitega Province",
       "stateSlug": "gitega-province",
-      "citySlug": "gitega",
-      "distance": 20.273075288780564
-    },
-    {
-      "city": "Kigali",
-      "state": "Kigali Province",
-      "stateSlug": "kigali-province",
-      "citySlug": "kigali",
-      "distance": 178.50031354920037
-    },
-    {
-      "city": "Kampala",
-      "state": "Central Region",
-      "stateSlug": "central-region",
-      "citySlug": "kampala",
-      "distance": 554.7107670368007
-    },
-    {
-      "city": "Dodoma",
-      "state": "Dodoma Region",
-      "stateSlug": "dodoma-region",
-      "citySlug": "dodoma",
-      "distance": 595.4498001411156
-    },
-    {
-      "city": "Kinshasa",
-      "state": "Kinshasa Province",
-      "stateSlug": "kinshasa-province",
-      "citySlug": "kinshasa",
-      "distance": 687.4317237966931
+      "citySlug": "gitega"
     }
-  ],
-  "geohash": "kxm76dw",
-  "geohashUrl": "https://geohash.softeng.co/kxm76dw"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "santa-fe-province",
   "citySlug": "rosario",
   "country": "Argentina",
-  "pincode": "S2000",
   "currency": "ARS",
   "symbol": "$",
   "compliance": "ENACOM Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+54",
   "timezone": "America/Argentina/Buenos_Aires",
-  "latitude": -33.923,
-  "longitude": -63.9218,
-  "landmark": "Rosario Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Personal networks. Failovers route over Movistar, Claro with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Rosario, Argentina",
   "population": 3594899,
@@ -44,38 +40,25 @@
       "city": "Mendoza",
       "state": "Mendoza Province",
       "stateSlug": "mendoza-province",
-      "citySlug": "mendoza",
-      "distance": 9.75199193487877
-    },
-    {
-      "city": "Cordoba",
-      "state": "Cordoba Province",
-      "stateSlug": "cordoba-province",
-      "citySlug": "cordoba",
-      "distance": 10.115233987006503
+      "citySlug": "mendoza"
     },
     {
       "city": "San Miguel de Tucuman",
       "state": "Tucuman Province",
       "stateSlug": "tucuman-province",
-      "citySlug": "san-miguel-de-tucuman",
-      "distance": 19.82854567082327
+      "citySlug": "san-miguel-de-tucuman"
+    },
+    {
+      "city": "Cordoba",
+      "state": "Cordoba Province",
+      "stateSlug": "cordoba-province",
+      "citySlug": "cordoba"
     },
     {
       "city": "Buenos Aires",
       "state": "Capital Federal",
       "stateSlug": "capital-federal",
-      "citySlug": "buenos-aires",
-      "distance": 28.213006317385066
-    },
-    {
-      "city": "Montevideo",
-      "state": "Montevideo Department",
-      "stateSlug": "montevideo-department",
-      "citySlug": "montevideo",
-      "distance": 737.894163492161
+      "citySlug": "buenos-aires"
     }
-  ],
-  "geohash": "69fx12t",
-  "geohashUrl": "https://geohash.softeng.co/69fx12t"
+  ]
 }

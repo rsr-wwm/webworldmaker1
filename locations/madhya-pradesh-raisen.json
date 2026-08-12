@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "raisen",
   "country": "India",
-  "pincode": "464551",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.9103,
-  "longitude": 80.5704,
-  "landmark": "Raisen Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Raisen, India",
   "population": 8324408,
   "mobileUsers": 6060169,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Salem",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "salem",
-      "distance": 26.776769522741954
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chamba",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "chamba",
-      "distance": 42.551820673332585
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Upling",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "upling",
-      "distance": 49.57123885555661
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nongstoin",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "nongstoin",
-      "distance": 59.44651043685383
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Navsari",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "navsari",
-      "distance": 63.12979736145573
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tucqc2v",
-  "geohashUrl": "https://geohash.softeng.co/tucqc2v"
+  ]
 }

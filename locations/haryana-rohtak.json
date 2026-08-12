@@ -5,7 +5,6 @@
   "stateSlug": "haryana",
   "citySlug": "rohtak",
   "country": "India",
-  "pincode": "124001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.2819,
-  "longitude": 74.0051,
-  "landmark": "Rohtak Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Rohtak, India",
   "population": 8938579,
   "mobileUsers": 6864828,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mawphlang",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "mawphlang",
-      "distance": 19.31041147889794
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Dehradun",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "dehradun",
-      "distance": 64.19888298095856
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Disa",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "disa",
-      "distance": 83.40926089997198
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Barabazar",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barabazar",
-      "distance": 83.55594018624411
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Hissar",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "hissar",
-      "distance": 91.21842431153551
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tthws48",
-  "geohashUrl": "https://geohash.softeng.co/tthws48"
+  ]
 }

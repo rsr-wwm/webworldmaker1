@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "serchhip",
   "country": "India",
-  "pincode": "796181",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.5868,
-  "longitude": 71.7869,
-  "landmark": "Serchhip Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Serchhip, India",
   "population": 7513877,
   "mobileUsers": 5627893,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dadar",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "dadar",
-      "distance": 53.23924699509733
-    },
-    {
-      "city": "Baidyanadh Deoghar",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "baidyanadh-deoghar",
-      "distance": 73.40098705672368
-    },
-    {
-      "city": "Angul",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "angul",
-      "distance": 87.29268731949688
-    },
-    {
-      "city": "Udagamandalam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "udagamandalam",
-      "distance": 108.6398809224191
-    },
-    {
-      "city": "Tikamgarh",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "tikamgarh",
-      "distance": 110.6773864044633
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te5h199",
-  "geohashUrl": "https://geohash.softeng.co/te5h199"
+  ]
 }

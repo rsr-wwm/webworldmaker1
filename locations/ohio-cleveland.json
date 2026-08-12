@@ -5,7 +5,6 @@
   "stateSlug": "ohio",
   "citySlug": "cleveland",
   "country": "United States",
-  "pincode": "44101",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Chicago",
-  "latitude": 36.732,
-  "longitude": -118.0932,
-  "landmark": "Cleveland Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cleveland, United States",
   "population": 1292109,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "San Francisco",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "san-francisco",
-      "distance": 316.5520014331064
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Hartford",
-      "state": "Connecticut",
-      "stateSlug": "connecticut",
-      "citySlug": "hartford",
-      "distance": 430.34367664115393
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
       "city": "Tucson",
       "state": "Arizona",
       "stateSlug": "arizona",
-      "citySlug": "tucson",
-      "distance": 512.3815750237577
+      "citySlug": "tucson"
     },
     {
-      "city": "Indianapolis",
-      "state": "Indiana",
-      "stateSlug": "indiana",
-      "citySlug": "indianapolis",
-      "distance": 524.5734431579192
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Jacksonville",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "jacksonville",
-      "distance": 639.2521545225953
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9qs0bwz",
-  "geohashUrl": "https://geohash.softeng.co/9qs0bwz"
+  ]
 }

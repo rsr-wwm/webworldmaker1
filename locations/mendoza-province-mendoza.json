@@ -5,7 +5,6 @@
   "stateSlug": "mendoza-province",
   "citySlug": "mendoza",
   "country": "Argentina",
-  "pincode": "M5500",
   "currency": "ARS",
   "symbol": "$",
   "compliance": "ENACOM Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+54",
   "timezone": "America/Argentina/Buenos_Aires",
-  "latitude": -34.0057,
-  "longitude": -63.8866,
-  "landmark": "Mendoza Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Personal networks. Failovers route over Movistar, Claro with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Mendoza, Argentina",
   "population": 3625098,
@@ -41,8 +37,8 @@
   "localComplianceRequirement": "ENACOM Regulations & Data Privacy compliance",
   "localEvidence": [
     {
-      "owner": "Local Telecom Audit",
-      "sourceUrlOrDocument": "https://webworldmaker.com/compliance/mendoza-audit-2024.pdf",
+      "owner": "ENACOM Telecom Framework",
+      "sourceUrlOrDocument": "https://www.argentina.gob.ar/enacom",
       "measurementWindow": "2023-2024",
       "scope": "Mendoza Province mobile networks",
       "expiryDate": "2027-01-01"
@@ -50,41 +46,28 @@
   ],
   "nearbyLocations": [
     {
+      "city": "San Miguel de Tucuman",
+      "state": "Tucuman Province",
+      "stateSlug": "tucuman-province",
+      "citySlug": "san-miguel-de-tucuman"
+    },
+    {
       "city": "Cordoba",
       "state": "Cordoba Province",
       "stateSlug": "cordoba-province",
-      "citySlug": "cordoba",
-      "distance": 8.307589289031839
+      "citySlug": "cordoba"
     },
     {
       "city": "Rosario",
       "state": "Santa Fe Province",
       "stateSlug": "santa-fe-province",
-      "citySlug": "rosario",
-      "distance": 9.75199193487877
-    },
-    {
-      "city": "San Miguel de Tucuman",
-      "state": "Tucuman Province",
-      "stateSlug": "tucuman-province",
-      "citySlug": "san-miguel-de-tucuman",
-      "distance": 16.37841025496774
+      "citySlug": "rosario"
     },
     {
       "city": "Buenos Aires",
       "state": "Capital Federal",
       "stateSlug": "capital-federal",
-      "citySlug": "buenos-aires",
-      "distance": 22.8334470082829
-    },
-    {
-      "city": "Montevideo",
-      "state": "Montevideo Department",
-      "stateSlug": "montevideo-department",
-      "citySlug": "montevideo",
-      "distance": 735.9431864990293
+      "citySlug": "buenos-aires"
     }
-  ],
-  "geohash": "69fwd1r",
-  "geohashUrl": "https://geohash.softeng.co/69fwd1r"
+  ]
 }

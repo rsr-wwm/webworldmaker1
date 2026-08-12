@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "palmaner",
   "country": "India",
-  "pincode": "517408",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.8416,
-  "longitude": 78.8597,
-  "landmark": "Palmaner Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Palmaner, India",
   "population": 8635516,
   "mobileUsers": 6666618,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Gaya",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "gaya",
-      "distance": 24.48877745056604
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Dehradun Cantt.",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "dehradun-cantt",
-      "distance": 34.18049929797057
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Garobandha",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "garobandha",
-      "distance": 100.7231052086746
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bettaih",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bettaih",
-      "distance": 104.96770894806473
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Drishnapur",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "drishnapur",
-      "distance": 117.99597301717182
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf8h6mz",
-  "geohashUrl": "https://geohash.softeng.co/tf8h6mz"
+  ]
 }

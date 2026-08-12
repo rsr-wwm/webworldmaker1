@@ -5,7 +5,6 @@
   "stateSlug": "karnataka",
   "citySlug": "chickballapur",
   "country": "India",
-  "pincode": "562101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 80",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.5991,
-  "longitude": 84.8663,
-  "landmark": "Chickballapur Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chickballapur, India",
   "population": 1144017,
   "mobileUsers": 845428,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ramnagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "ramnagar",
-      "distance": 60.25828400470041
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ottapalm",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "ottapalm",
-      "distance": 76.7398576864582
-    },
-    {
-      "city": "Bhanjanagar",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bhanjanagar",
-      "distance": 78.70511679789325
-    },
-    {
-      "city": "Nashik",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nashik",
-      "distance": 79.53440899028315
+      "citySlug": "nagpur"
     },
     {
-      "city": "Trimulgherry",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "trimulgherry",
-      "distance": 90.39087514171399
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvs7g0m",
-  "geohashUrl": "https://geohash.softeng.co/tvs7g0m"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "ahmednagar",
   "country": "India",
-  "pincode": "414001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.5229,
-  "longitude": 81.3691,
-  "landmark": "Ahmednagar Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ahmednagar, India",
   "population": 708697,
   "mobileUsers": 515222,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nalgonda",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nalgonda",
-      "distance": 82.35385393518385
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Pathanamthitta",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "pathanamthitta",
-      "distance": 100.45889002774481
-    },
-    {
-      "city": "Parleshwar",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "parleshwar",
-      "distance": 105.74426516986722
+      "citySlug": "nagpur"
     },
     {
-      "city": "Hapur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "hapur",
-      "distance": 119.2594385534236
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Union Christian College",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "union-christian-college",
-      "distance": 121.72540513490429
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tccggee",
-  "geohashUrl": "https://geohash.softeng.co/tccggee"
+  ]
 }

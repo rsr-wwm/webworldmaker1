@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "khandwa",
   "country": "India",
-  "pincode": "450001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.6878,
-  "longitude": 78.3354,
-  "landmark": "Khandwa Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Khandwa, India",
   "population": 3846550,
   "mobileUsers": 3000309,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Parlakhemudi",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "parlakhemudi",
-      "distance": 25.50657046475736
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gandhi Nagar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "gandhi-nagar",
-      "distance": 28.276195754228546
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kala pahad",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "kala-pahad",
-      "distance": 108.7411163487766
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Saitul",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "saitul",
-      "distance": 124.5215103432645
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tuipang",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "tuipang",
-      "distance": 128.12126590144226
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdzwytf",
-  "geohashUrl": "https://geohash.softeng.co/tdzwytf"
+  ]
 }

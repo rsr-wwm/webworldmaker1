@@ -5,7 +5,6 @@
   "stateSlug": "orissa",
   "citySlug": "parlakhemudi",
   "country": "India",
-  "pincode": "761200",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.8364,
-  "longitude": 78.5179,
-  "landmark": "Parlakhemudi Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Parlakhemudi, India",
   "population": 2370875,
   "mobileUsers": 1773414,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Khandwa",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "khandwa",
-      "distance": 25.50657046475736
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gandhi Nagar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "gandhi-nagar",
-      "distance": 41.59529325129577
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kala pahad",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "kala-pahad",
-      "distance": 98.66818447341868
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Tuipang",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "tuipang",
-      "distance": 107.91251104259165
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bhadravathi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bhadravathi",
-      "distance": 134.7707879170578
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdzzf8y",
-  "geohashUrl": "https://geohash.softeng.co/tdzzf8y"
+  ]
 }

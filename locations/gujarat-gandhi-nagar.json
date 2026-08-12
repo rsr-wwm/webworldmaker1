@@ -5,7 +5,6 @@
   "stateSlug": "gujarat",
   "citySlug": "gandhi-nagar",
   "country": "India",
-  "pincode": "382010",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "town",
   "dialingCode": "+91 79",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.4658,
-  "longitude": 78.4648,
-  "landmark": "Gandhi Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Gandhi Nagar, India",
   "population": 40678,
   "mobileUsers": 29735,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Khandwa",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "khandwa",
-      "distance": 28.276195754228546
+      "citySlug": "bhopal"
     },
     {
-      "city": "Parlakhemudi",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "parlakhemudi",
-      "distance": 41.59529325129577
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bhadravathi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bhadravathi",
-      "distance": 112.76223679727659
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Tuipang",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "tuipang",
-      "distance": 120.04094912414747
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tirur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "tirur",
-      "distance": 123.89855464450888
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdzv9t8",
-  "geohashUrl": "https://geohash.softeng.co/tdzv9t8"
+  ]
 }

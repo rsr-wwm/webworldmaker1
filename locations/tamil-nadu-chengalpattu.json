@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "chengalpattu",
   "country": "India",
-  "pincode": "603001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.5015,
-  "longitude": 70.676,
-  "landmark": "Chengalpattu Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chengalpattu, India",
   "population": 7275460,
   "mobileUsers": 5427493,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Gwalior (Lashkar)",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "gwalior-lashkar",
-      "distance": 56.17864489579713
+      "citySlug": "bhopal"
     },
     {
-      "city": "Karimnagar",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "karimnagar",
-      "distance": 63.83904608047199
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nuvem",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "nuvem",
-      "distance": 69.13096212788862
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Thiruvallur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thiruvallur",
-      "distance": 69.78648179270985
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Hamirpur",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "hamirpur",
-      "distance": 75.13249011177199
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsd3062",
-  "geohashUrl": "https://geohash.softeng.co/tsd3062"
+  ]
 }

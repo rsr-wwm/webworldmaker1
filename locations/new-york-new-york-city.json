@@ -5,7 +5,6 @@
   "stateSlug": "new-york",
   "citySlug": "new-york-city",
   "country": "United States",
-  "pincode": "10001",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 212",
   "timezone": "America/New_York",
-  "latitude": 44.2051,
-  "longitude": -85.5385,
-  "landmark": "New York City State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for New York City, United States",
   "population": 2713150,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "San Jose",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "san-jose",
-      "distance": 51.28583376252631
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
+    },
+    {
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
+    },
+    {
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
       "city": "Albuquerque",
       "state": "New Mexico",
       "stateSlug": "new-mexico",
-      "citySlug": "albuquerque",
-      "distance": 136.70967533563177
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Seattle",
-      "state": "Washington",
-      "stateSlug": "washington",
-      "citySlug": "seattle",
-      "distance": 166.8454123643902
-    },
-    {
-      "city": "Windsor",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "windsor",
-      "distance": 297.54931987862676
-    },
-    {
-      "city": "Charlotte",
-      "state": "North Carolina",
-      "stateSlug": "north-carolina",
-      "citySlug": "charlotte",
-      "distance": 302.7260121149751
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "dpg5mx2",
-  "geohashUrl": "https://geohash.softeng.co/dpg5mx2"
+  ]
 }

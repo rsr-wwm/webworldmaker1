@@ -5,7 +5,6 @@
   "stateSlug": "emilia-romagna",
   "citySlug": "bologna",
   "country": "Italy",
-  "pincode": "40121",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / AGCOM",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+39",
   "timezone": "Europe/Rome",
-  "latitude": 42.7135,
-  "longitude": 12.6395,
-  "landmark": "Bologna Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over WindTre networks. Failovers route over TIM, Vodafone, iliad with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bologna, Italy",
   "population": 2642945,
@@ -45,38 +41,31 @@
       "city": "Bari",
       "state": "Apulia",
       "stateSlug": "apulia",
-      "citySlug": "bari",
-      "distance": 8.661281760352876
-    },
-    {
-      "city": "Florence",
-      "state": "Tuscany",
-      "stateSlug": "tuscany",
-      "citySlug": "florence",
-      "distance": 22.27578470013478
-    },
-    {
-      "city": "Naples",
-      "state": "Campania",
-      "stateSlug": "campania",
-      "citySlug": "naples",
-      "distance": 27.918079973306003
-    },
-    {
-      "city": "Turin",
-      "state": "Piedmont",
-      "stateSlug": "piedmont",
-      "citySlug": "turin",
-      "distance": 31.78825522382847
+      "citySlug": "bari"
     },
     {
       "city": "Milan",
       "state": "Lombardy",
       "stateSlug": "lombardy",
-      "citySlug": "milan",
-      "distance": 34.97389368600359
+      "citySlug": "milan"
+    },
+    {
+      "city": "Turin",
+      "state": "Piedmont",
+      "stateSlug": "piedmont",
+      "citySlug": "turin"
+    },
+    {
+      "city": "Venice",
+      "state": "Veneto",
+      "stateSlug": "veneto",
+      "citySlug": "venice"
+    },
+    {
+      "city": "Florence",
+      "state": "Tuscany",
+      "stateSlug": "tuscany",
+      "citySlug": "florence"
     }
-  ],
-  "geohash": "sr8fzxg",
-  "geohashUrl": "https://geohash.softeng.co/sr8fzxg"
+  ]
 }

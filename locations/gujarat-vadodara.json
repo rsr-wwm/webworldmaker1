@@ -5,7 +5,6 @@
   "stateSlug": "gujarat",
   "citySlug": "vadodara",
   "country": "India",
-  "pincode": "390001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 79",
   "timezone": "Asia/Kolkata",
-  "latitude": 8.7921,
-  "longitude": 86.0067,
-  "landmark": "Vadodara Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Vadodara, India",
   "population": 2751083,
   "mobileUsers": 2101827,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bapatla",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "bapatla",
-      "distance": 22.274099055045543
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sasaram",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "sasaram",
-      "distance": 33.82389262293112
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Roing",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "roing",
-      "distance": 37.75765811213694
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Sanbhar Lake",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sanbhar-lake",
-      "distance": 96.92334423838238
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Zamania",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "zamania",
-      "distance": 115.03515393652333
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tct4j0s",
-  "geohashUrl": "https://geohash.softeng.co/tct4j0s"
+  ]
 }

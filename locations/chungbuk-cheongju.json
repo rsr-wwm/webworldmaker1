@@ -5,7 +5,6 @@
   "stateSlug": "chungbuk",
   "citySlug": "cheongju",
   "country": "South Korea",
-  "pincode": "28542",
   "currency": "KRW",
   "symbol": "₩",
   "compliance": "KCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+82",
   "timezone": "Asia/Seoul",
-  "latitude": 36.9478,
-  "longitude": 127.6751,
-  "landmark": "Cheongju Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over SK Telecom networks. Failovers route over KT, LG Uplus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cheongju, South Korea",
   "population": 3768075,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Daegu",
+      "state": "Yeongnam",
+      "stateSlug": "yeongnam",
+      "citySlug": "daegu"
+    },
+    {
       "city": "Daejeon",
       "state": "Hoseo",
       "stateSlug": "hoseo",
-      "citySlug": "daejeon",
-      "distance": 3.1299753700613118
-    },
-    {
-      "city": "Busan",
-      "state": "Busan Metropolitan",
-      "stateSlug": "busan-metropolitan",
-      "citySlug": "busan",
-      "distance": 3.2424050321469364
-    },
-    {
-      "city": "Suwon",
-      "state": "Gyeonggi",
-      "stateSlug": "gyeonggi",
-      "citySlug": "suwon",
-      "distance": 3.8133962969944206
+      "citySlug": "daejeon"
     },
     {
       "city": "Gwangju",
       "state": "Honam",
       "stateSlug": "honam",
-      "citySlug": "gwangju",
-      "distance": 7.956073454142504
+      "citySlug": "gwangju"
     },
     {
-      "city": "Daegu",
+      "city": "Ulsan",
       "state": "Yeongnam",
       "stateSlug": "yeongnam",
-      "citySlug": "daegu",
-      "distance": 10.585953313067167
+      "citySlug": "ulsan"
+    },
+    {
+      "city": "Suwon",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "suwon"
     }
-  ],
-  "geohash": "wydf1q4",
-  "geohashUrl": "https://geohash.softeng.co/wydf1q4"
+  ]
 }

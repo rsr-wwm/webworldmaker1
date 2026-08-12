@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "etawah",
   "country": "India",
-  "pincode": "206001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.9685,
-  "longitude": 72.7884,
-  "landmark": "Etawah District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Etawah, India",
   "population": 3148415,
   "mobileUsers": 2424279,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sawaimadhopur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sawaimadhopur",
-      "distance": 33.306286122498385
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Barabazar",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barabazar",
-      "distance": 58.61084296241309
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Makrana",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "makrana",
-      "distance": 61.94742055830661
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kottarakara",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kottarakara",
-      "distance": 62.81846572355508
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kuvep",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "kuvep",
-      "distance": 67.76085874085013
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt7f2rd",
-  "geohashUrl": "https://geohash.softeng.co/tt7f2rd"
+  ]
 }

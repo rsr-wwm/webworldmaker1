@@ -5,7 +5,6 @@
   "stateSlug": "abu-dhabi-emirate",
   "citySlug": "al-ain",
   "country": "United Arab Emirates",
-  "pincode": "00000",
   "currency": "AED",
   "symbol": "د.إ",
   "compliance": "TDRA Guidelines",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+971",
   "timezone": "Asia/Dubai",
-  "latitude": 24.1766,
-  "longitude": 53.8537,
-  "landmark": "Al Ain State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Etisalat networks. Failovers route over du with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Al Ain, United Arab Emirates",
   "population": 1788785,
@@ -40,41 +36,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Sharjah",
-      "state": "Sharjah Emirate",
-      "stateSlug": "sharjah-emirate",
-      "citySlug": "sharjah",
-      "distance": 7.547484683191409
-    },
-    {
       "city": "Abu Dhabi",
       "state": "Abu Dhabi Emirate",
       "stateSlug": "abu-dhabi-emirate",
-      "citySlug": "abu-dhabi",
-      "distance": 14.036082051131098
+      "citySlug": "abu-dhabi"
+    },
+    {
+      "city": "Sharjah",
+      "state": "Sharjah Emirate",
+      "stateSlug": "sharjah-emirate",
+      "citySlug": "sharjah"
     },
     {
       "city": "Dubai",
       "state": "Dubai Emirate",
       "stateSlug": "dubai-emirate",
-      "citySlug": "dubai",
-      "distance": 44.125130405396554
-    },
-    {
-      "city": "Doha",
-      "state": "Ad Dawhah",
-      "stateSlug": "ad-dawhah",
-      "citySlug": "doha",
-      "distance": 295.34831576446305
-    },
-    {
-      "city": "Manama",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "manama",
-      "distance": 399.5430038415915
+      "citySlug": "dubai"
     }
-  ],
-  "geohash": "thq393p",
-  "geohashUrl": "https://geohash.softeng.co/thq393p"
+  ]
 }

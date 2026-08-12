@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "neemuch",
   "country": "India",
-  "pincode": "458441",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.1467,
-  "longitude": 70.4517,
-  "landmark": "Neemuch Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Neemuch, India",
   "population": 6426260,
   "mobileUsers": 4742579,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Happy valley",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "happy-valley",
-      "distance": 51.954243451688725
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Borholla",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "borholla",
-      "distance": 56.08845020174522
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tong",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "tong",
-      "distance": 60.3261206766834
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Purulai",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "purulai",
-      "distance": 72.61095747639288
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bhongir",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "bhongir",
-      "distance": 73.5787455427871
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td4j55j",
-  "geohashUrl": "https://geohash.softeng.co/td4j55j"
+  ]
 }

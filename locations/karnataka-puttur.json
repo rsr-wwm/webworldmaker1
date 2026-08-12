@@ -5,7 +5,6 @@
   "stateSlug": "karnataka",
   "citySlug": "puttur",
   "country": "India",
-  "pincode": "574201",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 80",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.5369,
-  "longitude": 76.0443,
-  "landmark": "Puttur Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Puttur, India",
   "population": 6073564,
   "mobileUsers": 4403333,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dhar",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "dhar",
-      "distance": 27.884300170644547
+      "citySlug": "bhopal"
     },
     {
-      "city": "Tandur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tandur",
-      "distance": 29.035633474579942
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kaknad",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "kaknad",
-      "distance": 36.21695512775596
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Karwar",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "karwar",
-      "distance": 36.40293754446984
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Gumla",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "gumla",
-      "distance": 42.5730609802267
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttqjdrj",
-  "geohashUrl": "https://geohash.softeng.co/ttqjdrj"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "arizona",
   "citySlug": "phoenix",
   "country": "United States",
-  "pincode": "85001",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 602",
   "timezone": "America/Denver",
-  "latitude": 44.9636,
-  "longitude": -78.221,
-  "landmark": "Phoenix Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Phoenix, United States",
   "population": 2099313,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Kingston",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "kingston",
-      "distance": 159.6070114549973
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Toronto",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "toronto",
-      "distance": 172.57833025232293
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Ottawa",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "ottawa",
-      "distance": 204.73107753223192
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Hamilton",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "hamilton",
-      "distance": 231.11961501819616
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Austin",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "austin",
-      "distance": 242.8495054257553
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "drbru13",
-  "geohashUrl": "https://geohash.softeng.co/drbru13"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "akulto",
   "country": "India",
-  "pincode": "798619",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.6758,
-  "longitude": 88.3869,
-  "landmark": "Akulto Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Akulto, India",
   "population": 6509659,
   "mobileUsers": 4765070,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chalakudi",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "chalakudi",
-      "distance": 52.06869055479034
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Arrah",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "arrah",
-      "distance": 84.88927835909887
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Shorapur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "shorapur",
-      "distance": 94.91810719068147
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Gonda",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "gonda",
-      "distance": 106.925590152368
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bahror",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bahror",
-      "distance": 113.18063189198509
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfyc5m9",
-  "geohashUrl": "https://geohash.softeng.co/tfyc5m9"
+  ]
 }

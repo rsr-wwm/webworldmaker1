@@ -5,7 +5,6 @@
   "stateSlug": "tennessee",
   "citySlug": "memphis",
   "country": "United States",
-  "pincode": "38101",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Chicago",
-  "latitude": 41.396,
-  "longitude": -83.8071,
-  "landmark": "Memphis Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Memphis, United States",
   "population": 1326253,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Charlotte",
-      "state": "North Carolina",
-      "stateSlug": "north-carolina",
-      "citySlug": "charlotte",
-      "distance": 57.998133358375604
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Windsor",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "windsor",
-      "distance": 120.44387130663426
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Columbus",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "columbus",
-      "distance": 209.3687227061
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
       "city": "Albuquerque",
       "state": "New Mexico",
       "stateSlug": "new-mexico",
-      "citySlug": "albuquerque",
-      "distance": 257.9629974471684
+      "citySlug": "albuquerque"
     },
     {
-      "city": "London",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "london",
-      "distance": 275.22126217097116
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "dpk7kzv",
-  "geohashUrl": "https://geohash.softeng.co/dpk7kzv"
+  ]
 }

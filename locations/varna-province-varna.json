@@ -5,7 +5,6 @@
   "stateSlug": "varna-province",
   "citySlug": "varna",
   "country": "Bulgaria",
-  "pincode": "9000",
   "currency": "BGN",
   "symbol": "лв",
   "compliance": "GDPR / CRC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+359",
   "timezone": "Europe/Sofia",
-  "latitude": 42.9885,
-  "longitude": 25.0791,
-  "landmark": "Varna Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over A1 networks. Failovers route over Yettel, Vivacom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Varna, Bulgaria",
   "population": 4525967,
@@ -44,38 +40,13 @@
       "city": "Plovdiv",
       "state": "Plovdiv Province",
       "stateSlug": "plovdiv-province",
-      "citySlug": "plovdiv",
-      "distance": 9.545293782348471
+      "citySlug": "plovdiv"
     },
     {
       "city": "Sofia",
       "state": "Sofia City",
       "stateSlug": "sofia-city",
-      "citySlug": "sofia",
-      "distance": 23.13243792372071
-    },
-    {
-      "city": "Bitola",
-      "state": "Pelagonia Region",
-      "stateSlug": "pelagonia-region",
-      "citySlug": "bitola",
-      "distance": 281.8748282399618
-    },
-    {
-      "city": "Skopje",
-      "state": "Skopje Region",
-      "stateSlug": "skopje-region",
-      "citySlug": "skopje",
-      "distance": 296.12511469153156
-    },
-    {
-      "city": "Timisoara",
-      "state": "Timis County",
-      "stateSlug": "timis-county",
-      "citySlug": "timisoara",
-      "distance": 319.79836306800047
+      "citySlug": "sofia"
     }
-  ],
-  "geohash": "sx9ud9y",
-  "geohashUrl": "https://geohash.softeng.co/sx9ud9y"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "texas",
   "citySlug": "san-antonio",
   "country": "United States",
-  "pincode": "78201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 214",
   "timezone": "America/Chicago",
-  "latitude": 43.2652,
-  "longitude": -106.9254,
-  "landmark": "San Antonio District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for San Antonio, United States",
   "population": 3278879,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Kansas City",
-      "state": "Missouri",
-      "stateSlug": "missouri",
-      "citySlug": "kansas-city",
-      "distance": 307.92863911720434
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Nashville",
-      "state": "Tennessee",
-      "stateSlug": "tennessee",
-      "citySlug": "nashville",
-      "distance": 360.2731583282035
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Tampa",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "tampa",
-      "distance": 375.3027863634778
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Dallas",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "dallas",
-      "distance": 403.8431873347588
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Cincinnati",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "cincinnati",
-      "distance": 433.52115527795263
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9xeynu5",
-  "geohashUrl": "https://geohash.softeng.co/9xeynu5"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "orissa",
   "citySlug": "balangir",
   "country": "India",
-  "pincode": "767001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.7596,
-  "longitude": 77.1933,
-  "landmark": "Balangir Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Balangir, India",
   "population": 6531430,
   "mobileUsers": 4996543,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Hindupur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hindupur",
-      "distance": 31.189613252962204
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Guwahati University",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "guwahati-university",
-      "distance": 53.30285701104867
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Lunglei",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "lunglei",
-      "distance": 55.08564076328652
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Lalganj",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "lalganj",
-      "distance": 59.96118995229178
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kailashahar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kailashahar",
-      "distance": 77.12309673978987
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "teygu94",
-  "geohashUrl": "https://geohash.softeng.co/teygu94"
+  ]
 }

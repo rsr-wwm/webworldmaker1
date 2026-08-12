@@ -5,7 +5,6 @@
   "stateSlug": "leinster-province",
   "citySlug": "dublin",
   "country": "Ireland",
-  "pincode": "D01",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / ComReg",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+353",
   "timezone": "Europe/Dublin",
-  "latitude": 52.9825,
-  "longitude": -7.8805,
-  "landmark": "Dublin Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Vodafone networks. Failovers route over Three, Eir with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Dublin, Ireland",
   "population": 4980328,
@@ -44,38 +40,13 @@
       "city": "Cork",
       "state": "Munster Province",
       "stateSlug": "munster-province",
-      "citySlug": "cork",
-      "distance": 7.772373954864794
+      "citySlug": "cork"
     },
     {
       "city": "Limerick",
       "state": "Munster Province",
       "stateSlug": "munster-province",
-      "citySlug": "limerick",
-      "distance": 13.755033987137224
-    },
-    {
-      "city": "Leeds",
-      "state": "West Yorkshire",
-      "stateSlug": "west-yorkshire",
-      "citySlug": "leeds",
-      "distance": 238.50737343664795
-    },
-    {
-      "city": "Edinburgh",
-      "state": "Scotland",
-      "stateSlug": "scotland",
-      "citySlug": "edinburgh",
-      "distance": 259.7015869048426
-    },
-    {
-      "city": "Nottingham",
-      "state": "Nottinghamshire",
-      "stateSlug": "nottinghamshire",
-      "citySlug": "nottingham",
-      "distance": 260.8668314046186
+      "citySlug": "limerick"
     }
-  ],
-  "geohash": "gc6mktj",
-  "geohashUrl": "https://geohash.softeng.co/gc6mktj"
+  ]
 }

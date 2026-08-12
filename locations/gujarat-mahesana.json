@@ -5,7 +5,6 @@
   "stateSlug": "gujarat",
   "citySlug": "mahesana",
   "country": "India",
-  "pincode": "384001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 79",
   "timezone": "Asia/Kolkata",
-  "latitude": 22.4671,
-  "longitude": 74.9647,
-  "landmark": "Mahesana Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mahesana, India",
   "population": 1513748,
   "mobileUsers": 1092926,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ambasa",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "ambasa",
-      "distance": 49.85576445508514
-    },
-    {
-      "city": "Bhopal BHEL (SB)",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bhopal-bhel-sb",
-      "distance": 55.19666155753467
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nangalbibra",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "nangalbibra",
-      "distance": 76.87308404101995
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ashikkal",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "ashikkal",
-      "distance": 89.76584500429283
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Betul",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "betul",
-      "distance": 92.73904462613301
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tevrcf5",
-  "geohashUrl": "https://geohash.softeng.co/tevrcf5"
+  ]
 }

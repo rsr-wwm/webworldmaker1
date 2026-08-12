@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "basti",
   "country": "India",
-  "pincode": "272001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.1738,
-  "longitude": 80.8821,
-  "landmark": "Basti Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Basti, India",
   "population": 825369,
   "mobileUsers": 624804,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sagar Cantt.",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "sagar-cantt",
-      "distance": 25.09754587891068
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rongra",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "rongra",
-      "distance": 52.491294314411384
-    },
-    {
-      "city": "Demgiri",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "demgiri",
-      "distance": 64.07986377782169
-    },
-    {
-      "city": "Auraiya",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "auraiya",
-      "distance": 68.88979089910454
-    },
-    {
-      "city": "Panagi",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "panagi",
-      "distance": 75.44112104409788
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg198w2",
-  "geohashUrl": "https://geohash.softeng.co/tg198w2"
+  ]
 }

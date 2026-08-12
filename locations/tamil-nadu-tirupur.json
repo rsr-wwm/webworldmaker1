@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "tirupur",
   "country": "India",
-  "pincode": "641601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.1152,
-  "longitude": 76.8433,
-  "landmark": "Tirupur Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Tirupur, India",
   "population": 5533448,
   "mobileUsers": 4155619,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Palampur",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "palampur",
-      "distance": 35.83931228719425
-    },
-    {
-      "city": "Solan",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "solan",
-      "distance": 60.917922130981815
-    },
-    {
-      "city": "Thuckalay",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thuckalay",
-      "distance": 82.2985652791001
-    },
-    {
-      "city": "Thinghai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "thinghai",
-      "distance": 83.2912866958045
-    },
-    {
-      "city": "Indore",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "indore",
-      "distance": 107.70331109537005
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdw8k9e",
-  "geohashUrl": "https://geohash.softeng.co/tdw8k9e"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "northern-ireland",
   "citySlug": "belfast",
   "country": "United Kingdom",
-  "pincode": "BT1",
   "currency": "GBP",
   "symbol": "£",
   "compliance": "Ofcom Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+44 20",
   "timezone": "Europe/London",
-  "latitude": 55.1278,
-  "longitude": 0.8998,
-  "landmark": "Belfast Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over EE networks. Failovers route over Vodafone, O2, Three with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Belfast, United Kingdom",
   "population": 942746,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Birmingham",
-      "state": "West Midlands",
-      "stateSlug": "west-midlands",
-      "citySlug": "birmingham",
-      "distance": 2.6959027563141906
+      "city": "Sheffield",
+      "state": "South Yorkshire",
+      "stateSlug": "south-yorkshire",
+      "citySlug": "sheffield"
     },
     {
-      "city": "Bristol",
-      "state": "Bristol",
-      "stateSlug": "bristol",
-      "citySlug": "bristol",
-      "distance": 19.687980885236076
+      "city": "Nottingham",
+      "state": "Nottinghamshire",
+      "stateSlug": "nottinghamshire",
+      "citySlug": "nottingham"
     },
     {
-      "city": "Manchester",
-      "state": "England",
-      "stateSlug": "england",
-      "citySlug": "manchester",
-      "distance": 119.99727048495906
+      "city": "Leicester",
+      "state": "Leicestershire",
+      "stateSlug": "leicestershire",
+      "citySlug": "leicester"
     },
     {
-      "city": "Newcastle",
-      "state": "Tyne and Wear",
-      "stateSlug": "tyne-and-wear",
-      "citySlug": "newcastle",
-      "distance": 125.37681299057108
+      "city": "Southampton",
+      "state": "Hampshire",
+      "stateSlug": "hampshire",
+      "citySlug": "southampton"
     },
     {
-      "city": "London",
-      "state": "England",
-      "stateSlug": "england",
-      "citySlug": "london",
-      "distance": 137.23061123414436
+      "city": "Cardiff",
+      "state": "Wales",
+      "stateSlug": "wales",
+      "citySlug": "cardiff"
     }
-  ],
-  "geohash": "u1b9s7x",
-  "geohashUrl": "https://geohash.softeng.co/u1b9s7x"
+  ]
 }

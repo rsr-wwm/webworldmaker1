@@ -5,7 +5,6 @@
   "stateSlug": "connecticut",
   "citySlug": "hartford",
   "country": "United States",
-  "pincode": "06101",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/New_York",
-  "latitude": 32.9597,
-  "longitude": -119.1475,
-  "landmark": "Hartford GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Hartford, United States",
   "population": 699643,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Cleveland",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "cleveland",
-      "distance": 430.34367664115393
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Indianapolis",
-      "state": "Indiana",
-      "stateSlug": "indiana",
-      "citySlug": "indianapolis",
-      "distance": 447.4764154070449
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Richmond",
-      "state": "Virginia",
-      "stateSlug": "virginia",
-      "citySlug": "richmond",
-      "distance": 632.6048269443907
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Honolulu",
-      "state": "Hawaii",
-      "stateSlug": "hawaii",
-      "citySlug": "honolulu",
-      "distance": 644.4782323806294
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "San Francisco",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "san-francisco",
-      "distance": 738.8675255969805
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9mg788p",
-  "geohashUrl": "https://geohash.softeng.co/9mg788p"
+  ]
 }

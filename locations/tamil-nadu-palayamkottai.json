@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "palayamkottai",
   "country": "India",
-  "pincode": "627002",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 32.2497,
-  "longitude": 82.0984,
-  "landmark": "Palayamkottai Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Palayamkottai, India",
   "population": 2076783,
   "mobileUsers": 1520205,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Pithoragarh",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "pithoragarh",
-      "distance": 22.017203109911225
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Lamlongbazar",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "lamlongbazar",
-      "distance": 37.5352713596976
-    },
-    {
-      "city": "Mosunram",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "mosunram",
-      "distance": 55.69060870723336
-    },
-    {
-      "city": "Razole",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "razole",
-      "distance": 65.0317552038523
-    },
-    {
-      "city": "Osmanabad",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "osmanabad",
-      "distance": 72.55964805467625
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvdrkny",
-  "geohashUrl": "https://geohash.softeng.co/tvdrkny"
+  ]
 }

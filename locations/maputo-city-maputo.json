@@ -5,7 +5,6 @@
   "stateSlug": "maputo-city",
   "citySlug": "maputo",
   "country": "Mozambique",
-  "pincode": "0000",
   "currency": "MZN",
   "symbol": "MT",
   "compliance": "INCM Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+258",
   "timezone": "Africa/Maputo",
-  "latitude": -18.0539,
-  "longitude": 34.955,
-  "landmark": "Maputo Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over mcel, Movitel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Maputo, Mozambique",
   "population": 4166502,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Lilongwe",
-      "state": "Central Region",
-      "stateSlug": "central-region",
-      "citySlug": "lilongwe",
-      "distance": 521.3535336174566
-    },
-    {
-      "city": "Harare",
-      "state": "Harare Province",
-      "stateSlug": "harare-province",
-      "citySlug": "harare",
-      "distance": 548.9627090890324
-    },
-    {
-      "city": "Bulawayo",
-      "state": "Matabeleland North",
-      "stateSlug": "matabeleland-north",
-      "citySlug": "bulawayo",
-      "distance": 562.2423665192096
-    },
-    {
-      "city": "Kitwe",
-      "state": "Copperbelt Province",
-      "stateSlug": "copperbelt-province",
-      "citySlug": "kitwe",
-      "distance": 613.2669741888867
-    },
-    {
-      "city": "Lusaka",
-      "state": "Lusaka Province",
-      "stateSlug": "lusaka-province",
-      "citySlug": "lusaka",
-      "distance": 623.3077020987987
-    }
-  ],
-  "geohash": "kubc73m",
-  "geohashUrl": "https://geohash.softeng.co/kubc73m"
+  "nearbyLocations": []
 }

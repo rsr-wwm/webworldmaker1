@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "dehradun",
   "country": "India",
-  "pincode": "248001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.2651,
-  "longitude": 74.6667,
-  "landmark": "Dehradun Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dehradun, India",
   "population": 868572,
   "mobileUsers": 655771,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Disa",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "disa",
-      "distance": 19.217448740296422
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rohtak",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "rohtak",
-      "distance": 64.19888298095856
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tanuku",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tanuku",
-      "distance": 69.18830112871457
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mawphlang",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "mawphlang",
-      "distance": 82.78623702110855
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Darbhanga",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "darbhanga",
-      "distance": 93.1126282530388
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttjn7pd",
-  "geohashUrl": "https://geohash.softeng.co/ttjn7pd"
+  ]
 }

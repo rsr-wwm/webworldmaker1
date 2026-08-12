@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "satara",
   "country": "India",
-  "pincode": "415001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.2942,
-  "longitude": 86.6971,
-  "landmark": "Satara Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Satara, India",
   "population": 4795346,
   "mobileUsers": 3711597,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Yeshwant Road (Indore)",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "yeshwant-road-indore",
-      "distance": 23.791238664519764
+      "citySlug": "bhopal"
     },
     {
-      "city": "Buldhana",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "buldhana",
-      "distance": 63.742671499578584
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nagercoil",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "nagercoil",
-      "distance": 85.82401641972137
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Churachandpur",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "churachandpur",
-      "distance": 88.51762250641403
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Karkala",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "karkala",
-      "distance": 88.55765947516733
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfjtuy4",
-  "geohashUrl": "https://geohash.softeng.co/tfjtuy4"
+  ]
 }

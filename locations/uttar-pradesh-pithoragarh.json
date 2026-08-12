@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "pithoragarh",
   "country": "India",
-  "pincode": "262501",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 32.435,
-  "longitude": 82.181,
-  "landmark": "Pithoragarh Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Pithoragarh, India",
   "population": 4716398,
   "mobileUsers": 3400522,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Palayamkottai",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "palayamkottai",
-      "distance": 22.017203109911225
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Lamlongbazar",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "lamlongbazar",
-      "distance": 54.749827672959746
-    },
-    {
-      "city": "Osmanabad",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "osmanabad",
-      "distance": 63.00614980402373
+      "citySlug": "nagpur"
     },
     {
-      "city": "Mosunram",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "mosunram",
-      "distance": 77.12738254507578
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Razole",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "razole",
-      "distance": 81.78619942224462
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvf2w0d",
-  "geohashUrl": "https://geohash.softeng.co/tvf2w0d"
+  ]
 }

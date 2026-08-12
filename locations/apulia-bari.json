@@ -5,7 +5,6 @@
   "stateSlug": "apulia",
   "citySlug": "bari",
   "country": "Italy",
-  "pincode": "70121",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / AGCOM",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+39",
   "timezone": "Europe/Rome",
-  "latitude": 42.7734,
-  "longitude": 12.7073,
-  "landmark": "Bari Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over WindTre networks. Failovers route over TIM, Vodafone, iliad with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bari, Italy",
   "population": 2967199,
@@ -45,38 +41,31 @@
       "city": "Bologna",
       "state": "Emilia-Romagna",
       "stateSlug": "emilia-romagna",
-      "citySlug": "bologna",
-      "distance": 8.661281760352876
-    },
-    {
-      "city": "Florence",
-      "state": "Tuscany",
-      "stateSlug": "tuscany",
-      "citySlug": "florence",
-      "distance": 14.654720788186976
-    },
-    {
-      "city": "Naples",
-      "state": "Campania",
-      "stateSlug": "campania",
-      "citySlug": "naples",
-      "distance": 19.525698309321175
-    },
-    {
-      "city": "Turin",
-      "state": "Piedmont",
-      "stateSlug": "piedmont",
-      "citySlug": "turin",
-      "distance": 23.360381548336132
+      "citySlug": "bologna"
     },
     {
       "city": "Milan",
       "state": "Lombardy",
       "stateSlug": "lombardy",
-      "citySlug": "milan",
-      "distance": 27.40793044351255
+      "citySlug": "milan"
+    },
+    {
+      "city": "Turin",
+      "state": "Piedmont",
+      "stateSlug": "piedmont",
+      "citySlug": "turin"
+    },
+    {
+      "city": "Venice",
+      "state": "Veneto",
+      "stateSlug": "veneto",
+      "citySlug": "venice"
+    },
+    {
+      "city": "Florence",
+      "state": "Tuscany",
+      "stateSlug": "tuscany",
+      "citySlug": "florence"
     }
-  ],
-  "geohash": "sr9534t",
-  "geohashUrl": "https://geohash.softeng.co/sr9534t"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "lagos-state",
   "citySlug": "lagos",
   "country": "Nigeria",
-  "pincode": "100001",
   "currency": "NGN",
   "symbol": "₦",
   "compliance": "NCC Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+234",
   "timezone": "Africa/Lagos",
-  "latitude": 10.1228,
-  "longitude": 8.0295,
-  "landmark": "Lagos Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Airtel, Globacom, 9mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Lagos, Nigeria",
   "population": 2829810,
@@ -42,41 +38,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Port Harcourt",
+      "state": "Rivers State",
+      "stateSlug": "rivers-state",
+      "citySlug": "port-harcourt"
+    },
+    {
       "city": "Ibadan",
       "state": "Oyo State",
       "stateSlug": "oyo-state",
-      "citySlug": "ibadan",
-      "distance": 15.622011068710943
+      "citySlug": "ibadan"
     },
     {
       "city": "Kano",
       "state": "Kano State",
       "stateSlug": "kano-state",
-      "citySlug": "kano",
-      "distance": 20.878223289971817
-    },
-    {
-      "city": "Port Harcourt",
-      "state": "Rivers State",
-      "stateSlug": "rivers-state",
-      "citySlug": "port-harcourt",
-      "distance": 23.888201586453164
-    },
-    {
-      "city": "Douala",
-      "state": "Littoral Region",
-      "stateSlug": "littoral-region",
-      "citySlug": "douala",
-      "distance": 618.3951744774357
-    },
-    {
-      "city": "Porto-Novo",
-      "state": "Oueme Department",
-      "stateSlug": "oueme-department",
-      "citySlug": "porto-novo",
-      "distance": 624.7598002324816
+      "citySlug": "kano"
     }
-  ],
-  "geohash": "s1v9wdy",
-  "geohashUrl": "https://geohash.softeng.co/s1v9wdy"
+  ]
 }

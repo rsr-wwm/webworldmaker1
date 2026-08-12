@@ -47,7 +47,6 @@ Disallow: /llms-private.txt
 
 Sitemap: https://webworldmaker.com/sitemap.xml
 Sitemap: https://webworldmaker.com/sitemap-images.xml
-Sitemap: https://webworldmaker.com/locations.kml
 Sitemap: https://webworldmaker.com/sitemap-locations-1.xml
 Sitemap: https://webworldmaker.com/sitemap-locations-2.xml
 Sitemap: https://webworldmaker.com/sitemap-service-locations-1.xml

@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "mavelikara",
   "country": "India",
-  "pincode": "690101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 8.95,
-  "longitude": 87.4551,
-  "landmark": "Mavelikara State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mavelikara, India",
   "population": 7625870,
   "mobileUsers": 5818538,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Manubazar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "manubazar",
-      "distance": 17.52395854003825
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hyderabad G.P.O",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hyderabad-gpo",
-      "distance": 59.83106404902729
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Zamania",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "zamania",
-      "distance": 60.12608425439977
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Sundernagar Township",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "sundernagar-township",
-      "distance": 65.44303979836799
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Berhampur",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "berhampur",
-      "distance": 103.22575276062717
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcw4yj6",
-  "geohashUrl": "https://geohash.softeng.co/tcw4yj6"
+  ]
 }

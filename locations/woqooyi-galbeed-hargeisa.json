@@ -5,7 +5,6 @@
   "stateSlug": "woqooyi-galbeed",
   "citySlug": "hargeisa",
   "country": "Somalia",
-  "pincode": "00000",
   "currency": "SOS",
   "symbol": "Sh.So.",
   "compliance": "NCA Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+252",
   "timezone": "Africa/Mogadishu",
-  "latitude": 10.1311,
-  "longitude": 49.1671,
-  "landmark": "Hargeisa Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Hormuud networks. Failovers route over Somtel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Hargeisa, Somalia",
   "population": 4487301,
@@ -43,38 +39,7 @@
       "city": "Mogadishu",
       "state": "Banaadir",
       "stateSlug": "banaadir",
-      "citySlug": "mogadishu",
-      "distance": 33.34381660599095
-    },
-    {
-      "city": "Sanaa",
-      "state": "Sanaa Governorate",
-      "stateSlug": "sanaa-governorate",
-      "citySlug": "sanaa",
-      "distance": 568.9339849349466
-    },
-    {
-      "city": "Djibouti City",
-      "state": "Djibouti Region",
-      "stateSlug": "djibouti-region",
-      "citySlug": "djibouti-city",
-      "distance": 673.9966941376422
-    },
-    {
-      "city": "Bordeaux",
-      "state": "Nouvelle-Aquitaine",
-      "stateSlug": "nouvelle-aquitaine",
-      "citySlug": "bordeaux",
-      "distance": 1204.832300578339
-    },
-    {
-      "city": "Addis Ababa",
-      "state": "Addis Ababa Area",
-      "stateSlug": "addis-ababa-area",
-      "citySlug": "addis-ababa",
-      "distance": 1239.4887274194532
+      "citySlug": "mogadishu"
     }
-  ],
-  "geohash": "t1fcwu6",
-  "geohashUrl": "https://geohash.softeng.co/t1fcwu6"
+  ]
 }

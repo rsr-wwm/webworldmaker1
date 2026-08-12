@@ -5,7 +5,6 @@
   "stateSlug": "kaohsiung-municipality",
   "citySlug": "kaohsiung",
   "country": "Taiwan",
-  "pincode": "800",
   "currency": "TWD",
   "symbol": "NT$",
   "compliance": "NCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+886",
   "timezone": "Asia/Taipei",
-  "latitude": 23.3335,
-  "longitude": 121.1699,
-  "landmark": "Kaohsiung Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Chunghwa Telecom networks. Failovers route over Taiwan Mobile, FarEasTone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kaohsiung, Taiwan",
   "population": 2313841,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Keelung",
-      "state": "Keelung City",
-      "stateSlug": "keelung-city",
-      "citySlug": "keelung",
-      "distance": 18.953261977810953
-    },
-    {
       "city": "Hsinchu",
       "state": "Hsinchu County",
       "stateSlug": "hsinchu-county",
-      "citySlug": "hsinchu",
-      "distance": 24.80394341321351
-    },
-    {
-      "city": "Taipei",
-      "state": "Taipei Municipality",
-      "stateSlug": "taipei-municipality",
-      "citySlug": "taipei",
-      "distance": 28.245474244876853
+      "citySlug": "hsinchu"
     },
     {
       "city": "Taichung",
       "state": "Taichung City",
       "stateSlug": "taichung-city",
-      "citySlug": "taichung",
-      "distance": 33.302911768967924
+      "citySlug": "taichung"
     },
     {
       "city": "Tainan",
       "state": "Tainan City",
       "stateSlug": "tainan-city",
-      "citySlug": "tainan",
-      "distance": 35.805886953359426
+      "citySlug": "tainan"
+    },
+    {
+      "city": "Keelung",
+      "state": "Keelung City",
+      "stateSlug": "keelung-city",
+      "citySlug": "keelung"
+    },
+    {
+      "city": "Taipei",
+      "state": "Taipei Municipality",
+      "stateSlug": "taipei-municipality",
+      "citySlug": "taipei"
     }
-  ],
-  "geohash": "wsnhtr9",
-  "geohashUrl": "https://geohash.softeng.co/wsnhtr9"
+  ]
 }

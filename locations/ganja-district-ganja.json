@@ -5,7 +5,6 @@
   "stateSlug": "ganja-district",
   "citySlug": "ganja",
   "country": "Azerbaijan",
-  "pincode": "AZ2000",
   "currency": "AZN",
   "symbol": "₼",
   "compliance": "MINCOM Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+994",
   "timezone": "Asia/Baku",
-  "latitude": 40.435,
-  "longitude": 47.4093,
-  "landmark": "Ganja Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Azercell networks. Failovers route over Bakcell, Nar Mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ganja, Azerbaijan",
   "population": 3653364,
@@ -44,38 +40,7 @@
       "city": "Baku",
       "state": "Absheron District",
       "stateSlug": "absheron-district",
-      "citySlug": "baku",
-      "distance": 25.9719963834554
-    },
-    {
-      "city": "Gyumri",
-      "state": "Shirak Province",
-      "stateSlug": "shirak-province",
-      "citySlug": "gyumri",
-      "distance": 193.0427444375837
-    },
-    {
-      "city": "Yerevan",
-      "state": "Yerevan Municipality",
-      "stateSlug": "yerevan-municipality",
-      "citySlug": "yerevan",
-      "distance": 194.80472486283028
-    },
-    {
-      "city": "Kutaisi",
-      "state": "Imereti Region",
-      "stateSlug": "imereti-region",
-      "citySlug": "kutaisi",
-      "distance": 378.1152737965945
-    },
-    {
-      "city": "Tbilisi",
-      "state": "Tbilisi Region",
-      "stateSlug": "tbilisi-region",
-      "citySlug": "tbilisi",
-      "distance": 386.7692953712727
+      "citySlug": "baku"
     }
-  ],
-  "geohash": "tp1wnbf",
-  "geohashUrl": "https://geohash.softeng.co/tp1wnbf"
+  ]
 }

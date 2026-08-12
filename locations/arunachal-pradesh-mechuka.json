@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "mechuka",
   "country": "India",
-  "pincode": "792051",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.0683,
-  "longitude": 77.6763,
-  "landmark": "Mechuka Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mechuka, India",
   "population": 7867368,
   "mobileUsers": 5869056,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Hinoo",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "hinoo",
-      "distance": 70.62804739525963
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Muzaffarnagar",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "muzaffarnagar",
-      "distance": 71.6740453975186
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Almora",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "almora",
-      "distance": 73.99492870779841
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Coonoor",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "coonoor",
-      "distance": 80.15944860274652
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bijapur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bijapur",
-      "distance": 86.3693429985548
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9z1r8f",
-  "geohashUrl": "https://geohash.softeng.co/t9z1r8f"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "azuay-province",
   "citySlug": "cuenca",
   "country": "Ecuador",
-  "pincode": "010150",
   "currency": "USD",
   "symbol": "$",
   "compliance": "ARCOTEL Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+593",
   "timezone": "America/Guayaquil",
-  "latitude": -2.019,
-  "longitude": -77.464,
-  "landmark": "Cuenca Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Conecel networks. Failovers route over Otecel, CNT with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cuenca, Ecuador",
   "population": 4491399,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Quito",
-      "state": "Pichincha Province",
-      "stateSlug": "pichincha-province",
-      "citySlug": "quito",
-      "distance": 4.917196693181351
+      "city": "Manta",
+      "state": "Manabi Province",
+      "stateSlug": "manabi-province",
+      "citySlug": "manta"
     },
     {
       "city": "Guayaquil",
       "state": "Guayas Province",
       "stateSlug": "guayas-province",
-      "citySlug": "guayaquil",
-      "distance": 16.246168758279733
+      "citySlug": "guayaquil"
     },
     {
-      "city": "Manta",
-      "state": "Manabi Province",
-      "stateSlug": "manabi-province",
-      "citySlug": "manta",
-      "distance": 23.5907297896312
-    },
-    {
-      "city": "Bogota",
-      "state": "Bogota Capital District",
-      "stateSlug": "bogota-capital-district",
-      "citySlug": "bogota",
-      "distance": 888.4140124209054
-    },
-    {
-      "city": "Bucaramanga",
-      "state": "Santander Department",
-      "stateSlug": "santander-department",
-      "citySlug": "bucaramanga",
-      "distance": 893.0697286022337
+      "city": "Quito",
+      "state": "Pichincha Province",
+      "stateSlug": "pichincha-province",
+      "citySlug": "quito"
     }
-  ],
-  "geohash": "6r8ut22",
-  "geohashUrl": "https://geohash.softeng.co/6r8ut22"
+  ]
 }

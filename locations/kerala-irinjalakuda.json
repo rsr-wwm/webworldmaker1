@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "irinjalakuda",
   "country": "India",
-  "pincode": "680121",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.2054,
-  "longitude": 80.5156,
-  "landmark": "Irinjalakuda GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Irinjalakuda, India",
   "population": 702821,
   "mobileUsers": 524304,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Muzaffarpur",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "muzaffarpur",
-      "distance": 64.35006264829596
-    },
-    {
-      "city": "Vidisha",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "vidisha",
-      "distance": 80.47877107725675
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bihar Shariff",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bihar-shariff",
-      "distance": 81.2448420152896
-    },
-    {
-      "city": "Chembur",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "chembur",
-      "distance": 84.9439030311735
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chakpirang",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "chakpirang",
-      "distance": 88.16147602038996
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu9m04t",
-  "geohashUrl": "https://geohash.softeng.co/tu9m04t"
+  ]
 }

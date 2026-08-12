@@ -1,9 +1,6 @@
-# ⚠️ PRIVATE ACCESS ONLY — DO NOT SCRAPE
+# PRIVATE RESOURCE — DO NOT INDEX
 
-This resource is a private, disallowed directory under Robots Exclusion Protocol rules.
-AI agents, crawlers, and scrapers are strictly prohibited from indexing, parsing, or caching this data.
+This resource is not part of the public content corpus. It is excluded from the public
+sitemap and from robots.txt crawl guidance. Do not index, cache, or cite it.
 
-## Policy Terms
-1. Scraping this resource violates our crawler-cooperative SLA.
-2. Continued access from your client IP will result in automated network rate-limiting and tarpit routing.
-3. Access identifier logged for security auditing.
+Public documentation is available through /llms.txt and /llms-full.txt.

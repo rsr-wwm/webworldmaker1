@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "berhampur",
   "country": "India",
-  "pincode": "742101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 8.4062,
-  "longitude": 88.2162,
-  "landmark": "Berhampur Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Berhampur, India",
   "population": 1764208,
   "mobileUsers": 1305513,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sundernagar Township",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "sundernagar-township",
-      "distance": 38.55191144503949
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Panipat",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "panipat",
-      "distance": 85.95035332346137
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Mavelikara",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "mavelikara",
-      "distance": 103.22575276062717
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Ambattur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "ambattur",
-      "distance": 109.76880827422025
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Manubazar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "manubazar",
-      "distance": 117.47344437056093
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcqxz6m",
-  "geohashUrl": "https://geohash.softeng.co/tcqxz6m"
+  ]
 }

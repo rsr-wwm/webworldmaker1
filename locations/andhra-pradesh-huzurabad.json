@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "huzurabad",
   "country": "India",
-  "pincode": "505468",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.0308,
-  "longitude": 84.6877,
-  "landmark": "Huzurabad GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Huzurabad, India",
   "population": 6020931,
   "mobileUsers": 4479572,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Khamgaon",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "khamgaon",
-      "distance": 43.20183932543005
-    },
-    {
-      "city": "Sanbhar Lake",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sanbhar-lake",
-      "distance": 87.48439049943372
-    },
-    {
-      "city": "Singjamai bazar",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "singjamai-bazar",
-      "distance": 96.97022159897874
-    },
-    {
-      "city": "Ranchi",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "ranchi",
-      "distance": 141.1258040187895
-    },
-    {
-      "city": "Bilaspur",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bilaspur",
-      "distance": 142.71246893587093
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcs5rh5",
-  "geohashUrl": "https://geohash.softeng.co/tcs5rh5"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "western-visayas",
   "citySlug": "iloilo-city",
   "country": "Philippines",
-  "pincode": "5000",
   "currency": "PHP",
   "symbol": "₱",
   "compliance": "NTC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+63",
   "timezone": "Asia/Manila",
-  "latitude": 12.8926,
-  "longitude": 122.1243,
-  "landmark": "Iloilo City Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Smart networks. Failovers route over Globe, Dito with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Iloilo City, Philippines",
   "population": 1394330,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Davao City",
+      "state": "Davao Region",
+      "stateSlug": "davao-region",
+      "citySlug": "davao-city"
+    },
+    {
       "city": "Cagayan de Oro",
       "state": "Northern Mindanao",
       "stateSlug": "northern-mindanao",
-      "citySlug": "cagayan-de-oro",
-      "distance": 12.23758187453149
+      "citySlug": "cagayan-de-oro"
     },
     {
       "city": "Cebu",
       "state": "Cebu Province",
       "stateSlug": "cebu-province",
-      "citySlug": "cebu",
-      "distance": 15.150881571332855
+      "citySlug": "cebu"
     },
     {
       "city": "Manila",
       "state": "Metro Manila",
       "stateSlug": "metro-manila",
-      "citySlug": "manila",
-      "distance": 19.080643892221847
-    },
-    {
-      "city": "Davao City",
-      "state": "Davao Region",
-      "stateSlug": "davao-region",
-      "citySlug": "davao-city",
-      "distance": 23.509264175655893
-    },
-    {
-      "city": "Kaohsiung",
-      "state": "Kaohsiung Municipality",
-      "stateSlug": "kaohsiung-municipality",
-      "citySlug": "kaohsiung",
-      "distance": 1165.332479168135
+      "citySlug": "manila"
     }
-  ],
-  "geohash": "wdqc750",
-  "geohashUrl": "https://geohash.softeng.co/wdqc750"
+  ]
 }

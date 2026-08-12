@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "aligarh",
   "country": "India",
-  "pincode": "202001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.6854,
-  "longitude": 88.0851,
-  "landmark": "Aligarh District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Aligarh, India",
   "population": 8017052,
   "mobileUsers": 6149078,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tekkali",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tekkali",
-      "distance": 55.92063983711291
-    },
-    {
-      "city": "Likabili",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "likabili",
-      "distance": 63.33556436583281
-    },
-    {
-      "city": "Indi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "indi",
-      "distance": 74.79803582188197
-    },
-    {
-      "city": "Rae Bareli",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "rae-bareli",
-      "distance": 78.58278073925783
-    },
-    {
-      "city": "Bhilai SB",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bhilai-sb",
-      "distance": 83.877313137293
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgqdk3t",
-  "geohashUrl": "https://geohash.softeng.co/tgqdk3t"
+  ]
 }

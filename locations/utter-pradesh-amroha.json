@@ -5,7 +5,6 @@
   "stateSlug": "utter-pradesh",
   "citySlug": "amroha",
   "country": "India",
-  "pincode": "244221",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.2168,
-  "longitude": 80.3148,
-  "landmark": "Amroha Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Amroha, India",
   "population": 987538,
   "mobileUsers": 763366,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mebo",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "mebo",
-      "distance": 11.722415323360572
-    },
-    {
-      "city": "Nagaur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "nagaur",
-      "distance": 53.66063369716766
-    },
-    {
-      "city": "Azamgarh",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "azamgarh",
-      "distance": 83.1238463629197
-    },
-    {
-      "city": "Akola",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "akola",
-      "distance": 88.25922402985535
-    },
-    {
-      "city": "Bhopal G.P.O",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bhopal-gpo",
-      "distance": 90.50655342024308
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu31g8e",
-  "geohashUrl": "https://geohash.softeng.co/tu31g8e"
+  ]
 }

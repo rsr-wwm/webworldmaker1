@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "ramgarh-cantt",
   "country": "India",
-  "pincode": "829112",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.3618,
-  "longitude": 76.8735,
-  "landmark": "Ramgarh Cantt. Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ramgarh Cantt., India",
   "population": 573895,
   "mobileUsers": 443046,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Hukeri",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hukeri",
-      "distance": 10.546771810335903
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bharuch",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bharuch",
-      "distance": 11.17298472100551
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Saitul",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "saitul",
-      "distance": 48.06098508710288
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Dabki",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "dabki",
-      "distance": 51.5927004938135
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Itanagar G.P.O",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "itanagar-gpo",
-      "distance": 58.62172707002598
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tendv29",
-  "geohashUrl": "https://geohash.softeng.co/tendv29"
+  ]
 }

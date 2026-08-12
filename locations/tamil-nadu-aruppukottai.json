@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "aruppukottai",
   "country": "India",
-  "pincode": "626101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.2569,
-  "longitude": 76.706,
-  "landmark": "Aruppukottai Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Aruppukottai, India",
   "population": 580377,
   "mobileUsers": 419032,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Berhampur",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "berhampur",
-      "distance": 17.007998209332605
-    },
-    {
-      "city": "Durg",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "durg",
-      "distance": 29.17371864482799
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rajampet",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "rajampet",
-      "distance": 30.090656534157322
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bhuj",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bhuj",
-      "distance": 99.18434918733075
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nanjangud",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "nanjangud",
-      "distance": 102.41416271022982
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdys3rr",
-  "geohashUrl": "https://geohash.softeng.co/tdys3rr"
+  ]
 }

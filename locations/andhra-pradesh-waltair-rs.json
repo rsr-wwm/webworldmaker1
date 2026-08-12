@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "waltair-rs",
   "country": "India",
-  "pincode": "530004",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.6459,
-  "longitude": 78.5721,
-  "landmark": "Waltair R.S. Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Waltair R.S., India",
   "population": 7916159,
   "mobileUsers": 6016280,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Seoni",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "seoni",
-      "distance": 39.07834860554723
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ahmedabad",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "ahmedabad",
-      "distance": 75.40115359809138
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bobbili",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "bobbili",
-      "distance": 99.81360657367307
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bharatpur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bharatpur",
-      "distance": 104.70611063558259
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Vajapur",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "vajapur",
-      "distance": 109.14434335046374
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttxu5by",
-  "geohashUrl": "https://geohash.softeng.co/ttxu5by"
+  ]
 }

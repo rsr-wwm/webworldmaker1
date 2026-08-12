@@ -5,7 +5,6 @@
   "stateSlug": "texas",
   "citySlug": "mcallen",
   "country": "United States",
-  "pincode": "78501",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 214",
   "timezone": "America/Chicago",
-  "latitude": 47.8385,
-  "longitude": -119.6531,
-  "landmark": "McAllen Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for McAllen, United States",
   "population": 1091141,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Kelowna",
-      "state": "British Columbia",
-      "stateSlug": "british-columbia",
-      "citySlug": "kelowna",
-      "distance": 228.17463822307445
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Victoria",
-      "state": "British Columbia",
-      "stateSlug": "british-columbia",
-      "citySlug": "victoria",
-      "distance": 283.12985826408715
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Vancouver",
-      "state": "British Columbia",
-      "stateSlug": "british-columbia",
-      "citySlug": "vancouver",
-      "distance": 299.8046105360447
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Louisville",
-      "state": "Kentucky",
-      "stateSlug": "kentucky",
-      "citySlug": "louisville",
-      "distance": 500.2640310593786
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Calgary",
-      "state": "Alberta",
-      "stateSlug": "alberta",
-      "citySlug": "calgary",
-      "distance": 539.0289396265068
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "c2dbjhx",
-  "geohashUrl": "https://geohash.softeng.co/c2dbjhx"
+  ]
 }

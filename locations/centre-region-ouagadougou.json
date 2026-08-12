@@ -5,7 +5,6 @@
   "stateSlug": "centre-region",
   "citySlug": "ouagadougou",
   "country": "Burkina Faso",
-  "pincode": "00000",
   "currency": "XOF",
   "symbol": "CFA",
   "compliance": "ARCEP Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+226",
   "timezone": "Africa/Ouagadougou",
-  "latitude": 12.9425,
-  "longitude": -1.9493,
-  "landmark": "Ouagadougou Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Onatel networks. Failovers route over Orange, Telecel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ouagadougou, Burkina Faso",
   "population": 3452143,
@@ -44,38 +40,13 @@
       "city": "Bobo-Dioulasso",
       "state": "Hauts-Bassins",
       "stateSlug": "hauts-bassins",
-      "citySlug": "bobo-dioulasso",
-      "distance": 4.930003813235523
+      "citySlug": "bobo-dioulasso"
     },
     {
-      "city": "Bamako",
-      "state": "Bamako Capital District",
-      "stateSlug": "bamako-capital-district",
-      "citySlug": "bamako",
-      "distance": 506.7027004061215
-    },
-    {
-      "city": "Accra",
-      "state": "Greater Accra",
-      "stateSlug": "greater-accra",
-      "citySlug": "accra",
-      "distance": 555.4651135755427
-    },
-    {
-      "city": "Kumasi",
-      "state": "Ashanti Region",
-      "stateSlug": "ashanti-region",
-      "citySlug": "kumasi",
-      "distance": 557.6433627046223
-    },
-    {
-      "city": "Porto-Novo",
-      "state": "Oueme Department",
-      "stateSlug": "oueme-department",
-      "citySlug": "porto-novo",
-      "distance": 605.4835769029777
+      "city": "Yaounde",
+      "state": "Centre Region",
+      "stateSlug": "centre-region",
+      "citySlug": "yaounde"
     }
-  ],
-  "geohash": "efq9esh",
-  "geohashUrl": "https://geohash.softeng.co/efq9esh"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "western-province",
   "citySlug": "colombo",
   "country": "Sri Lanka",
-  "pincode": "00100",
   "currency": "LKR",
   "symbol": "Rs.",
   "compliance": "TRCSL Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+94",
   "timezone": "Asia/Colombo",
-  "latitude": 6.9371,
-  "longitude": 80.9573,
-  "landmark": "Colombo District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Dialog networks. Failovers route over Mobitel, Hutch with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Colombo, Sri Lanka",
   "population": 1933979,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
   "aiReadiness": "High: Integrating AI agents into customer support systems",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Sultanpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "sultanpur",
-      "distance": 195.12384725334223
-    },
-    {
-      "city": "Seppa",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "seppa",
-      "distance": 202.3361006665913
-    },
-    {
-      "city": "Khilerihat",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "khilerihat",
-      "distance": 234.01597176639618
-    },
-    {
-      "city": "Hapur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "hapur",
-      "distance": 283.79649163771745
-    },
-    {
-      "city": "Pathanamthitta",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "pathanamthitta",
-      "distance": 309.2224607343239
-    }
-  ],
-  "geohash": "tc1x6nz",
-  "geohashUrl": "https://geohash.softeng.co/tc1x6nz"
+  "nearbyLocations": []
 }

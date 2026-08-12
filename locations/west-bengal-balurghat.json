@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "balurghat",
   "country": "India",
-  "pincode": "733101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.8914,
-  "longitude": 69.2879,
-  "landmark": "Balurghat Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Balurghat, India",
   "population": 3445912,
   "mobileUsers": 2625784,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tiruchirappalli",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruchirappalli",
-      "distance": 17.2498861479663
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sri Rangam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "sri-rangam",
-      "distance": 35.98245617124614
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Midnapore",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "midnapore",
-      "distance": 45.334583133634936
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kantolim",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "kantolim",
-      "distance": 47.411099173053486
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Shahpura",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "shahpura",
-      "distance": 47.98285497088803
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "teck89j",
-  "geohashUrl": "https://geohash.softeng.co/teck89j"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "republika-srpska",
   "citySlug": "banja-luka",
   "country": "Bosnia & Herzegovina",
-  "pincode": "78000",
   "currency": "BAM",
   "symbol": "KM",
   "compliance": "RAK Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+387",
   "timezone": "Europe/Sarajevo",
-  "latitude": 43.8833,
-  "longitude": 18.0025,
-  "landmark": "Banja Luka District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over BH Telecom networks. Failovers route over m:tel, HT Eronet with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Banja Luka, Bosnia & Herzegovina",
   "population": 1262779,
@@ -44,38 +40,7 @@
       "city": "Sarajevo",
       "state": "Sarajevo Canton",
       "stateSlug": "sarajevo-canton",
-      "citySlug": "sarajevo",
-      "distance": 35.19932924902021
-    },
-    {
-      "city": "Podgorica",
-      "state": "Podgorica Municipality",
-      "stateSlug": "podgorica-municipality",
-      "citySlug": "podgorica",
-      "distance": 161.18713775958116
-    },
-    {
-      "city": "Split",
-      "state": "Split-Dalmatia",
-      "stateSlug": "split-dalmatia",
-      "citySlug": "split",
-      "distance": 231.01171989632329
-    },
-    {
-      "city": "Rijeka",
-      "state": "Primorje-Gorski Kotar",
-      "stateSlug": "primorje-gorski-kotar",
-      "citySlug": "rijeka",
-      "distance": 233.22951279365546
-    },
-    {
-      "city": "Zagreb",
-      "state": "Zagreb City",
-      "stateSlug": "zagreb-city",
-      "citySlug": "zagreb",
-      "distance": 239.69551659493033
+      "citySlug": "sarajevo"
     }
-  ],
-  "geohash": "sruc9st",
-  "geohashUrl": "https://geohash.softeng.co/sruc9st"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "nungba",
   "country": "India",
-  "pincode": "795147",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.4296,
-  "longitude": 74.0555,
-  "landmark": "Nungba GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nungba, India",
   "population": 5899812,
   "mobileUsers": 4536955,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tiruvarur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruvarur",
-      "distance": 36.67407909317375
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Masanapalle",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "masanapalle",
-      "distance": 38.30554692085515
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kapanga",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "kapanga",
-      "distance": 44.46094438398304
-    },
-    {
-      "city": "Khanna",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "khanna",
-      "distance": 47.181502462833144
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Beawar",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "beawar",
-      "distance": 55.678456296960206
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tehejhv",
-  "geohashUrl": "https://geohash.softeng.co/tehejhv"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "mamit",
   "country": "India",
-  "pincode": "796441",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.8271,
-  "longitude": 78.8282,
-  "landmark": "Mamit GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mamit, India",
   "population": 9307072,
   "mobileUsers": 6961689,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sullia",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "sullia",
-      "distance": 80.66067198242821
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Doimukh",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "doimukh",
-      "distance": 80.71018775632133
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kathua",
-      "state": "Jammu & Kashmir",
-      "stateSlug": "jammu-and-kashmir",
-      "citySlug": "kathua",
-      "distance": 87.18275847140255
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Revdi Bazaar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "revdi-bazaar",
-      "distance": 94.17096267222637
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Anna Road",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "anna-road",
-      "distance": 97.50313827499761
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv05czb",
-  "geohashUrl": "https://geohash.softeng.co/tv05czb"
+  ]
 }

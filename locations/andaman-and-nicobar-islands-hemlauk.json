@@ -5,7 +5,6 @@
   "stateSlug": "andaman-and-nicobar-islands",
   "citySlug": "hemlauk",
   "country": "India",
-  "pincode": "744211",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.1461,
-  "longitude": 82.821,
-  "landmark": "Hemlauk Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Hemlauk, India",
   "population": 2243437,
   "mobileUsers": 1740907,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Madhobewala",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "madhobewala",
-      "distance": 22.40961624446947
-    },
-    {
-      "city": "Sumer",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "sumer",
-      "distance": 29.660556523233673
-    },
-    {
-      "city": "Markapur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "markapur",
-      "distance": 66.39951109305682
-    },
-    {
-      "city": "Ranchi",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "ranchi",
-      "distance": 82.55130064631146
-    },
-    {
-      "city": "Bilaspur",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bilaspur",
-      "distance": 111.12425151933651
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcduh8u",
-  "geohashUrl": "https://geohash.softeng.co/tcduh8u"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "algiers-province",
   "citySlug": "algiers",
   "country": "Algeria",
-  "pincode": "16000",
   "currency": "DZD",
   "symbol": "DA",
   "compliance": "ARPCE Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+213",
   "timezone": "Africa/Algiers",
-  "latitude": 36.6888198,
-  "longitude": 2.8052655,
-  "landmark": "Algiers Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Djezzy networks. Failovers route over Mobilis, Ooredoo with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Algiers, Algeria",
   "population": 2386002,
@@ -44,38 +40,7 @@
       "city": "Oran",
       "state": "Oran Province",
       "stateSlug": "oran-province",
-      "citySlug": "oran",
-      "distance": 328.808047685198
-    },
-    {
-      "city": "Tunis",
-      "state": "Tunis Governorate",
-      "stateSlug": "tunis-governorate",
-      "citySlug": "tunis",
-      "distance": 620.7583949709187
-    },
-    {
-      "city": "Sfax",
-      "state": "Sfax Governorate",
-      "stateSlug": "sfax-governorate",
-      "citySlug": "sfax",
-      "distance": 640.4585135430507
-    },
-    {
-      "city": "Andorra la Vella",
-      "state": "Andorra Parish",
-      "stateSlug": "andorra-parish",
-      "citySlug": "andorra-la-vella",
-      "distance": 665.8162778211566
-    },
-    {
-      "city": "Barcelona",
-      "state": "Catalonia",
-      "stateSlug": "catalonia",
-      "citySlug": "barcelona",
-      "distance": 675.5851474731616
+      "citySlug": "oran"
     }
-  ],
-  "geohash": "sn9bxyf",
-  "geohashUrl": "https://geohash.softeng.co/sn9bxyf"
+  ]
 }

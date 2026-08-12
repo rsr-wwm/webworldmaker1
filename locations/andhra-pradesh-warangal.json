@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "warangal",
   "country": "India",
-  "pincode": "506002",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.8256,
-  "longitude": 83.9772,
-  "landmark": "Warangal Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Warangal, India",
   "population": 1542673,
   "mobileUsers": 1119980,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Amaravati",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "amaravati",
-      "distance": 50.02067359422506
+      "citySlug": "nagpur"
     },
     {
-      "city": "Rairangpur",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "rairangpur",
-      "distance": 59.605653556536765
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Harapanhalli",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "harapanhalli",
-      "distance": 66.98077767467454
-    },
-    {
-      "city": "Lamsang",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "lamsang",
-      "distance": 80.89361744920255
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
       "city": "New Delhi",
       "state": "Delhi",
       "stateSlug": "delhi",
-      "citySlug": "new-delhi",
-      "distance": 82.60864343841574
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf7wwuy",
-  "geohashUrl": "https://geohash.softeng.co/tf7wwuy"
+  ]
 }

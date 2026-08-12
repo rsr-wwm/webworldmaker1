@@ -5,7 +5,6 @@
   "stateSlug": "gujarat",
   "citySlug": "himat-nagar",
   "country": "India",
-  "pincode": "383001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "town",
   "dialingCode": "+91 79",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.5573,
-  "longitude": 88.9674,
-  "landmark": "Himat Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Himat Nagar, India",
   "population": 39720,
   "mobileUsers": 30187,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Penursala",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "penursala",
-      "distance": 55.647826950573766
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Udamalpet",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "udamalpet",
-      "distance": 81.27480084895203
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kottayam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kottayam",
-      "distance": 98.45610612211212
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chittagong",
-      "state": "Chittagong Division",
-      "stateSlug": "chittagong-division",
-      "citySlug": "chittagong",
-      "distance": 104.5879223449637
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Khulna",
-      "state": "Khulna Division",
-      "stateSlug": "khulna-division",
-      "citySlug": "khulna",
-      "distance": 111.70679937004111
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tur78w8",
-  "geohashUrl": "https://geohash.softeng.co/tur78w8"
+  ]
 }

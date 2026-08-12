@@ -5,7 +5,6 @@
   "stateSlug": "goa",
   "citySlug": "panaji-gpo",
   "country": "India",
-  "pincode": "403711",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "post_office",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.9671,
-  "longitude": 88.6061,
-  "landmark": "Panaji Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Panaji G.P.O, India",
   "population": 39784,
   "mobileUsers": 30474,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bathala",
-      "state": "Punjab",
-      "stateSlug": "punjab",
-      "citySlug": "bathala",
-      "distance": 37.40942782881786
-    },
-    {
-      "city": "Patna G.P.O",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "patna-gpo",
-      "distance": 47.750027311558995
-    },
-    {
-      "city": "Dewas",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "dewas",
-      "distance": 55.10023474295896
+      "citySlug": "bhopal"
     },
     {
-      "city": "Avadi Camp",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "avadi-camp",
-      "distance": 60.70394893306973
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Along",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "along",
-      "distance": 66.14787099200719
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tux58r0",
-  "geohashUrl": "https://geohash.softeng.co/tux58r0"
+  ]
 }

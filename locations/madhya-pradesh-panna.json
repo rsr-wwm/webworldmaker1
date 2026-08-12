@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "panna",
   "country": "India",
-  "pincode": "488001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.8938,
-  "longitude": 81.615,
-  "landmark": "Panna Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Panna, India",
   "population": 3424794,
   "mobileUsers": 2575445,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Naginimira",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "naginimira",
-      "distance": 47.44416207748048
-    },
-    {
-      "city": "Hardoi",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "hardoi",
-      "distance": 71.67519883176331
-    },
-    {
-      "city": "Ratlam",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "ratlam",
-      "distance": 98.95382772656248
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ernakulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "ernakulam",
-      "distance": 101.26844016443573
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tirupati",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tirupati",
-      "distance": 107.05868940690958
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf459jn",
-  "geohashUrl": "https://geohash.softeng.co/tf459jn"
+  ]
 }

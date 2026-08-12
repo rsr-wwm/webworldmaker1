@@ -5,7 +5,6 @@
   "stateSlug": "california",
   "citySlug": "san-francisco",
   "country": "United States",
-  "pincode": "94102",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / HIPAA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 213",
   "timezone": "America/Los_Angeles",
-  "latitude": 39.1776,
-  "longitude": -116.2447,
-  "landmark": "San Francisco Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for San Francisco, United States",
   "population": 1999845,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
+    },
+    {
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
+    },
+    {
       "city": "Tucson",
       "state": "Arizona",
       "stateSlug": "arizona",
-      "citySlug": "tucson",
-      "distance": 200.862740120989
+      "citySlug": "tucson"
     },
     {
-      "city": "Cleveland",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "cleveland",
-      "distance": 316.5520014331064
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Pittsburgh",
-      "state": "Pennsylvania",
-      "stateSlug": "pennsylvania",
-      "citySlug": "pittsburgh",
-      "distance": 497.2739328146035
-    },
-    {
-      "city": "Jacksonville",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "jacksonville",
-      "distance": 505.7841433409415
-    },
-    {
-      "city": "Nashville",
-      "state": "Tennessee",
-      "stateSlug": "tennessee",
-      "citySlug": "nashville",
-      "distance": 543.6922557088552
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9qvqfu1",
-  "geohashUrl": "https://geohash.softeng.co/9qvqfu1"
+  ]
 }

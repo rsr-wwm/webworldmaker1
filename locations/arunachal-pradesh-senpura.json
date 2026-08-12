@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "senpura",
   "country": "India",
-  "pincode": "792111",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.5535,
-  "longitude": 83.1824,
-  "landmark": "Senpura Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Senpura, India",
   "population": 5690540,
   "mobileUsers": 4376025,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ratnagiri",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "ratnagiri",
-      "distance": 38.382591081377385
+      "citySlug": "nagpur"
     },
     {
-      "city": "Faizabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "faizabad",
-      "distance": 40.01779700616866
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Faridabad",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "faridabad",
-      "distance": 62.77439834415525
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Union Christian College",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "union-christian-college",
-      "distance": 76.59376110679499
-    },
-    {
-      "city": "Haldwani",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "haldwani",
-      "distance": 81.90584002825304
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcghhc5",
-  "geohashUrl": "https://geohash.softeng.co/tcghhc5"
+  ]
 }

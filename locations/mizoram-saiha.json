@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "saiha",
   "country": "India",
-  "pincode": "796901",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.3699,
-  "longitude": 85.6058,
-  "landmark": "Saiha Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Saiha, India",
   "population": 6586538,
   "mobileUsers": 5018941,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chatrapur",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "chatrapur",
-      "distance": 36.90483484510413
-    },
-    {
-      "city": "Agartala G.P.O",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "agartala-gpo",
-      "distance": 41.9210004246714
-    },
-    {
-      "city": "Rajnandgaon",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "rajnandgaon",
-      "distance": 70.29289618222762
+      "citySlug": "bhopal"
     },
     {
-      "city": "Guntur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "guntur",
-      "distance": 98.6530847544614
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bhubaneswar G.P.O",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bhubaneswar-gpo",
-      "distance": 107.60183322191504
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgkyhn0",
-  "geohashUrl": "https://geohash.softeng.co/tgkyhn0"
+  ]
 }

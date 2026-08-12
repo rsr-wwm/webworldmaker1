@@ -5,7 +5,6 @@
   "stateSlug": "alabama",
   "citySlug": "birmingham",
   "country": "United States",
-  "pincode": "35201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 205",
   "timezone": "America/Chicago",
-  "latitude": 28.6016,
-  "longitude": -93.2655,
-  "landmark": "Birmingham Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Birmingham, United States",
   "population": 1068819,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Spokane",
-      "state": "Washington",
-      "stateSlug": "washington",
-      "citySlug": "spokane",
-      "distance": 174.77991827586308
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Providence",
-      "state": "Rhode Island",
-      "stateSlug": "rhode-island",
-      "citySlug": "providence",
-      "distance": 306.68646216929153
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Raleigh",
-      "state": "North Carolina",
-      "stateSlug": "north-carolina",
-      "citySlug": "raleigh",
-      "distance": 396.9741213011307
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Miami",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "miami",
-      "distance": 404.953684093481
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     },
     {
-      "city": "Atlanta",
-      "state": "Georgia",
-      "stateSlug": "georgia",
-      "citySlug": "atlanta",
-      "distance": 486.21176222993563
+      "city": "Omaha",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "citySlug": "omaha"
     }
-  ],
-  "geohash": "9vjdtwy",
-  "geohashUrl": "https://geohash.softeng.co/9vjdtwy"
+  ]
 }

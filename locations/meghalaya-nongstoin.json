@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "nongstoin",
   "country": "India",
-  "pincode": "793119",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.2229,
-  "longitude": 81.0619,
-  "landmark": "Nongstoin Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nongstoin, India",
   "population": 928800,
   "mobileUsers": 691027,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Navsari",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "navsari",
-      "distance": 24.16773379316069
-    },
-    {
-      "city": "Kanjeri",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kanjeri",
-      "distance": 35.9627273443459
-    },
-    {
-      "city": "Raisen",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "raisen",
-      "distance": 59.44651043685383
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gangtok G.P.O",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "gangtok-gpo",
-      "distance": 61.79394043969997
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chamba",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "chamba",
-      "distance": 78.27428067622284
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv18s9g",
-  "geohashUrl": "https://geohash.softeng.co/tv18s9g"
+  ]
 }

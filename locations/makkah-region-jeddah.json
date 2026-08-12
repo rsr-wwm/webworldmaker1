@@ -5,7 +5,6 @@
   "stateSlug": "makkah-region",
   "citySlug": "jeddah",
   "country": "Saudi Arabia",
-  "pincode": "21411",
   "currency": "SAR",
   "symbol": "﷼",
   "compliance": "CITC Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+966",
   "timezone": "Asia/Riyadh",
-  "latitude": 24.8819,
-  "longitude": 45.0186,
-  "landmark": "Jeddah District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over STC networks. Failovers route over Mobily, Zain with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Jeddah, Saudi Arabia",
   "population": 3027751,
@@ -44,38 +40,31 @@
       "city": "Medina",
       "state": "Al Madinah Region",
       "stateSlug": "al-madinah-region",
-      "citySlug": "medina",
-      "distance": 5.513763490696095
-    },
-    {
-      "city": "Khobar",
-      "state": "Eastern Province",
-      "stateSlug": "eastern-province",
-      "citySlug": "khobar",
-      "distance": 9.13655840529376
+      "citySlug": "medina"
     },
     {
       "city": "Mecca",
       "state": "Makkah Region",
       "stateSlug": "makkah-region",
-      "citySlug": "mecca",
-      "distance": 16.351152229760675
+      "citySlug": "mecca"
+    },
+    {
+      "city": "Khobar",
+      "state": "Eastern Province",
+      "stateSlug": "eastern-province",
+      "citySlug": "khobar"
     },
     {
       "city": "Dammam",
       "state": "Eastern Province",
       "stateSlug": "eastern-province",
-      "citySlug": "dammam",
-      "distance": 26.15884968115729
+      "citySlug": "dammam"
     },
     {
       "city": "Riyadh",
       "state": "Riyadh Region",
       "stateSlug": "riyadh-region",
-      "citySlug": "riyadh",
-      "distance": 35.230686734513675
+      "citySlug": "riyadh"
     }
-  ],
-  "geohash": "th2j83t",
-  "geohashUrl": "https://geohash.softeng.co/th2j83t"
+  ]
 }

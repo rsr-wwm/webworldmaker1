@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "tindivanam",
   "country": "India",
-  "pincode": "604001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.3404,
-  "longitude": 83.8651,
-  "landmark": "Tindivanam State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Tindivanam, India",
   "population": 7188870,
   "mobileUsers": 5341330,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kathmandu",
-      "state": "Bagmati Province",
-      "stateSlug": "bagmati-province",
-      "citySlug": "kathmandu",
-      "distance": 43.21913491706672
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ghaziabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "ghaziabad",
-      "distance": 57.96835553441841
-    },
-    {
-      "city": "Mannargudi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "mannargudi",
-      "distance": 61.700455356872695
-    },
-    {
-      "city": "Bellary",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bellary",
-      "distance": 66.45017487293863
-    },
-    {
-      "city": "Kalbadevi",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "kalbadevi",
-      "distance": 74.43272319182628
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv59hrh",
-  "geohashUrl": "https://geohash.softeng.co/tv59hrh"
+  ]
 }

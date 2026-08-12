@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "mailuri",
   "country": "India",
-  "pincode": "797114",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.8634,
-  "longitude": 84.1242,
-  "landmark": "Mailuri Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mailuri, India",
   "population": 2443572,
   "mobileUsers": 1871776,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Trimulgherry",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "trimulgherry",
-      "distance": 21.32858704860912
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Malda",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "malda",
-      "distance": 40.79451533617213
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bhanjanagar",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bhanjanagar",
-      "distance": 48.61898196704907
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Perumbavoor",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "perumbavoor",
-      "distance": 58.979079190140226
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Atur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "atur",
-      "distance": 70.06405973759485
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv7zd69",
-  "geohashUrl": "https://geohash.softeng.co/tv7zd69"
+  ]
 }

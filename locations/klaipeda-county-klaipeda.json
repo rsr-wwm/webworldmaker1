@@ -5,7 +5,6 @@
   "stateSlug": "klaipeda-county",
   "citySlug": "klaipeda",
   "country": "Lithuania",
-  "pincode": "LT-91001",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / RRT",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+370",
   "timezone": "Europe/Vilnius",
-  "latitude": 55.963,
-  "longitude": 24.0578,
-  "landmark": "Klaipeda Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Tele2, Bitė with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Klaipeda, Lithuania",
   "population": 3403188,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Vilnius",
-      "state": "Vilnius District",
-      "stateSlug": "vilnius-district",
-      "citySlug": "vilnius",
-      "distance": 8.138957524550305
-    },
-    {
       "city": "Kaunas",
       "state": "Kaunas County",
       "stateSlug": "kaunas-county",
-      "citySlug": "kaunas",
-      "distance": 9.26536531184743
+      "citySlug": "kaunas"
     },
     {
       "city": "Siauliai",
       "state": "Siauliai County",
       "stateSlug": "siauliai-county",
-      "citySlug": "siauliai",
-      "distance": 9.384970185238126
+      "citySlug": "siauliai"
     },
     {
-      "city": "Liepaja",
-      "state": "Courland",
-      "stateSlug": "courland",
-      "citySlug": "liepaja",
-      "distance": 115.15926398238325
-    },
-    {
-      "city": "Riga",
-      "state": "Riga Municipality",
-      "stateSlug": "riga-municipality",
-      "citySlug": "riga",
-      "distance": 128.82164714275348
+      "city": "Vilnius",
+      "state": "Vilnius District",
+      "stateSlug": "vilnius-district",
+      "citySlug": "vilnius"
     }
-  ],
-  "geohash": "u9cn77y",
-  "geohashUrl": "https://geohash.softeng.co/u9cn77y"
+  ]
 }

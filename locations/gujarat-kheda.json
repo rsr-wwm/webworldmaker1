@@ -5,7 +5,6 @@
   "stateSlug": "gujarat",
   "citySlug": "kheda",
   "country": "India",
-  "pincode": "387411",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 79",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.1024,
-  "longitude": 81.4979,
-  "landmark": "Kheda Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kheda, India",
   "population": 9471561,
   "mobileUsers": 6933182,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kandi",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "kandi",
-      "distance": 37.27820194361201
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Visakhapatnam",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "visakhapatnam",
-      "distance": 71.02574724956469
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Cherthala",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "cherthala",
-      "distance": 78.48862629324984
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bihar Shariff",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bihar-shariff",
-      "distance": 88.00226779153748
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Chamba",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "chamba",
-      "distance": 88.96669385090476
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tucfntb",
-  "geohashUrl": "https://geohash.softeng.co/tucfntb"
+  ]
 }

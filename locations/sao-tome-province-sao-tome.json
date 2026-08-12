@@ -5,7 +5,6 @@
   "stateSlug": "sao-tome-province",
   "citySlug": "sao-tome",
   "country": "Sao Tome and Principe",
-  "pincode": "0000",
   "currency": "STN",
   "symbol": "Db",
   "compliance": "AGER Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+239",
   "timezone": "Africa/Sao_Tome",
-  "latitude": 0.8829,
-  "longitude": 7.1985,
-  "landmark": "Sao Tome Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over CST networks. Failovers route over Unitel STP with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Sao Tome, Sao Tome and Principe",
   "population": 4323873,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Montpellier",
-      "state": "Occitanie",
-      "stateSlug": "occitanie",
-      "citySlug": "montpellier",
-      "distance": 320.5627259671234
-    },
-    {
-      "city": "Malabo",
-      "state": "Bioko Norte",
-      "stateSlug": "bioko-norte",
-      "citySlug": "malabo",
-      "distance": 354.02263375879744
-    },
-    {
-      "city": "Libreville",
-      "state": "Estuaire Province",
-      "stateSlug": "estuaire-province",
-      "citySlug": "libreville",
-      "distance": 551.6171268053857
-    },
-    {
-      "city": "Yaounde",
-      "state": "Centre Region",
-      "stateSlug": "centre-region",
-      "citySlug": "yaounde",
-      "distance": 793.524879694479
-    },
-    {
-      "city": "Douala",
-      "state": "Littoral Region",
-      "stateSlug": "littoral-region",
-      "citySlug": "douala",
-      "distance": 795.4080084832942
-    }
-  ],
-  "geohash": "s0jj5b9",
-  "geohashUrl": "https://geohash.softeng.co/s0jj5b9"
+  "nearbyLocations": []
 }

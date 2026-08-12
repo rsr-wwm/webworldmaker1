@@ -5,7 +5,6 @@
   "stateSlug": "funafuti-atoll",
   "citySlug": "funafuti",
   "country": "Tuvalu",
-  "pincode": "0000",
   "currency": "AUD",
   "symbol": "A$",
   "compliance": "TTC Rules",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+688",
   "timezone": "Pacific/Funafuti",
-  "latitude": -8.1963,
-  "longitude": 177.8935,
-  "landmark": "Funafuti Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Tuvalu Telecom networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Funafuti, Tuvalu",
   "population": 3091929,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Suva",
-      "state": "Rewa Province",
-      "stateSlug": "rewa-province",
-      "citySlug": "suva",
-      "distance": 1141.315310632632
-    },
-    {
-      "city": "Tarawa",
-      "state": "Gilbert Islands",
-      "stateSlug": "gilbert-islands",
-      "citySlug": "tarawa",
-      "distance": 1189.0690198986297
-    },
-    {
-      "city": "Port Vila",
-      "state": "Shefa Province",
-      "stateSlug": "shefa-province",
-      "citySlug": "port-vila",
-      "distance": 1442.8645429176709
-    },
-    {
-      "city": "Yaren",
-      "state": "Yaren District",
-      "stateSlug": "yaren-district",
-      "citySlug": "yaren",
-      "distance": 1498.258680759418
-    },
-    {
-      "city": "Noumea",
-      "state": "South Province",
-      "stateSlug": "south-province",
-      "citySlug": "noumea",
-      "distance": 1991.3386188365819
-    }
-  ],
-  "geohash": "ryw925f",
-  "geohashUrl": "https://geohash.softeng.co/ryw925f"
+  "nearbyLocations": []
 }

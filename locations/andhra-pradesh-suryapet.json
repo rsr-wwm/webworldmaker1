@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "suryapet",
   "country": "India",
-  "pincode": "508213",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.9274,
-  "longitude": 79.4059,
-  "landmark": "Suryapet Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Suryapet, India",
   "population": 8068374,
   "mobileUsers": 6002870,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Car Nicobar",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "car-nicobar",
-      "distance": 23.35733042447065
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chandel",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "chandel",
-      "distance": 31.98620345474954
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chakpirang",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "chakpirang",
-      "distance": 53.08849130712146
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Deoria",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "deoria",
-      "distance": 53.55773079396966
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tiruvalla",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "tiruvalla",
-      "distance": 82.2589912552191
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tub3nvv",
-  "geohashUrl": "https://geohash.softeng.co/tub3nvv"
+  ]
 }

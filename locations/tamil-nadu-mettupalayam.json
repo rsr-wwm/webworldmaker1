@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "mettupalayam",
   "country": "India",
-  "pincode": "641301",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.985,
-  "longitude": 69.7751,
-  "landmark": "Mettupalayam Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mettupalayam, India",
   "population": 8144019,
   "mobileUsers": 5920701,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Thyagaraynagar",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thyagaraynagar",
-      "distance": 27.87131865171421
-    },
-    {
-      "city": "Bada pani",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bada-pani",
-      "distance": 32.77955991760345
-    },
-    {
-      "city": "Churu",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "churu",
-      "distance": 33.6036550848638
-    },
-    {
-      "city": "Medak",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "medak",
-      "distance": 86.68176286093542
-    },
-    {
-      "city": "Mandla",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "mandla",
-      "distance": 90.43213652781205
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td9t5zb",
-  "geohashUrl": "https://geohash.softeng.co/td9t5zb"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "darlawn",
   "country": "India",
-  "pincode": "796111",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.4192,
-  "longitude": 79.9074,
-  "landmark": "Darlawn Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Darlawn, India",
   "population": 6098951,
   "mobileUsers": 4494926,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Santa",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "santa",
-      "distance": 25.65906082666581
+      "citySlug": "bhopal"
     },
     {
-      "city": "Doimukh",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "doimukh",
-      "distance": 36.78046575220631
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Sullia",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "sullia",
-      "distance": 56.77021679063377
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Salem",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "salem",
-      "distance": 77.79743238942189
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Raisen",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "raisen",
-      "distance": 86.17504424980814
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv0cdmd",
-  "geohashUrl": "https://geohash.softeng.co/tv0cdmd"
+  ]
 }

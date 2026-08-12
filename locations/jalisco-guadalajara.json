@@ -5,7 +5,6 @@
   "stateSlug": "jalisco",
   "citySlug": "guadalajara",
   "country": "Mexico",
-  "pincode": "44100",
   "currency": "MXN",
   "symbol": "$",
   "compliance": "IFT Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+52",
   "timezone": "America/Bahia_Banderas",
-  "latitude": 22.9431,
-  "longitude": -102.1771,
-  "landmark": "Guadalajara District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Guadalajara, Mexico",
   "population": 594433,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Leon",
+      "state": "Guanajuato",
+      "stateSlug": "guanajuato",
+      "citySlug": "leon"
+    },
+    {
       "city": "Toluca",
       "state": "State of Mexico",
       "stateSlug": "state-of-mexico",
-      "citySlug": "toluca",
-      "distance": 14.959447104813453
+      "citySlug": "toluca"
+    },
+    {
+      "city": "Juarez",
+      "state": "Chihuahua",
+      "stateSlug": "chihuahua",
+      "citySlug": "juarez"
     },
     {
       "city": "Torreon",
       "state": "Coahuila",
       "stateSlug": "coahuila",
-      "citySlug": "torreon",
-      "distance": 18.783031321208227
+      "citySlug": "torreon"
     },
     {
-      "city": "Leon",
-      "state": "Guanajuato",
-      "stateSlug": "guanajuato",
-      "citySlug": "leon",
-      "distance": 20.45186771627106
-    },
-    {
-      "city": "Mexico City",
-      "state": "Federal District",
-      "stateSlug": "federal-district",
-      "citySlug": "mexico-city",
-      "distance": 25.619453489828256
-    },
-    {
-      "city": "Queretaro",
-      "state": "Queretaro State",
-      "stateSlug": "queretaro-state",
-      "citySlug": "queretaro",
-      "distance": 26.386729049813628
+      "city": "San Luis Potosi",
+      "state": "San Luis Potosi",
+      "stateSlug": "san-luis-potosi",
+      "citySlug": "san-luis-potosi"
     }
-  ],
-  "geohash": "9sp6dbs",
-  "geohashUrl": "https://geohash.softeng.co/9sp6dbs"
+  ]
 }

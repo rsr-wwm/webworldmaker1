@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "arrah",
   "country": "India",
-  "pincode": "802301",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.9549,
-  "longitude": 88.1264,
-  "landmark": "Arrah Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Arrah, India",
   "population": 5906956,
   "mobileUsers": 4589704,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bahror",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bahror",
-      "distance": 31.572343982966746
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chalakudi",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "chalakudi",
-      "distance": 62.64541264084551
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Madanganj",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "madanganj",
-      "distance": 75.28944037156822
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Akulto",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "akulto",
-      "distance": 84.88927835909887
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Aibok",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "aibok",
-      "distance": 96.70973364502086
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfwtj67",
-  "geohashUrl": "https://geohash.softeng.co/tfwtj67"
+  ]
 }

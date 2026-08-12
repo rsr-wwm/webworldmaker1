@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "manipur-vishwavidyalay",
   "country": "India",
-  "pincode": "795003",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.9223,
-  "longitude": 77.4243,
-  "landmark": "Manipur vishwavidyalay Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Manipur vishwavidyalay, India",
   "population": 5362465,
   "mobileUsers": 4059386,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Phatikarai",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "phatikarai",
-      "distance": 30.823316258467194
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kullu",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "kullu",
-      "distance": 67.77442839661863
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Mancherial",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "mancherial",
-      "distance": 88.18040315423004
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Madras GPO",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "madras-gpo",
-      "distance": 104.66123374423135
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mandgaon G.P.O",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "mandgaon-gpo",
-      "distance": 134.89409036281086
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdr19b6",
-  "geohashUrl": "https://geohash.softeng.co/tdr19b6"
+  ]
 }

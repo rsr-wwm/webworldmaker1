@@ -5,7 +5,6 @@
   "stateSlug": "mashya-pradesh",
   "citySlug": "ambikapur",
   "country": "India",
-  "pincode": "497001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 8.9795,
-  "longitude": 78.5784,
-  "landmark": "Ambikapur Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ambikapur, India",
   "population": 9298530,
   "mobileUsers": 6825121,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Koraput",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "koraput",
-      "distance": 50.047398548428305
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Yadagiri",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "yadagiri",
-      "distance": 91.43006729528578
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Hinoo",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "hinoo",
-      "distance": 103.8930192458056
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bijapur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bijapur",
-      "distance": 104.273086459566
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Aberdeen",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "aberdeen",
-      "distance": 107.10618445204463
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9xgh4e",
-  "geohashUrl": "https://geohash.softeng.co/t9xgh4e"
+  ]
 }

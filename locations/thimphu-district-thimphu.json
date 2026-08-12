@@ -5,7 +5,6 @@
   "stateSlug": "thimphu-district",
   "citySlug": "thimphu",
   "country": "Bhutan",
-  "pincode": "11001",
   "currency": "BTN",
   "symbol": "Nu.",
   "compliance": "BICMA Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+975",
   "timezone": "Asia/Thimphu",
-  "latitude": 27.3492,
-  "longitude": 90.4054,
-  "landmark": "Thimphu GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over B-Mobile networks. Failovers route over TashiCell with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Thimphu, Bhutan",
   "population": 2764880,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Anandpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "anandpur",
-      "distance": 144.989779290101
-    },
-    {
-      "city": "Nevare",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "nevare",
-      "distance": 148.5301263750907
-    },
-    {
-      "city": "Erode",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "erode",
-      "distance": 154.28031083204436
-    },
-    {
-      "city": "Mahim",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "mahim",
-      "distance": 161.9248549445857
-    },
-    {
-      "city": "Dewas",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "dewas",
-      "distance": 180.71761487414724
-    }
-  ],
-  "geohash": "whb794z",
-  "geohashUrl": "https://geohash.softeng.co/whb794z"
+  "nearbyLocations": []
 }

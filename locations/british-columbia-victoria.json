@@ -5,7 +5,6 @@
   "stateSlug": "british-columbia",
   "citySlug": "victoria",
   "country": "Canada",
-  "pincode": "V8W",
   "currency": "CAD",
   "symbol": "C$",
   "compliance": "CRTC / CASL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 416",
   "timezone": "America/Toronto",
-  "latitude": 48.4283182,
-  "longitude": -123.364953,
-  "landmark": "Victoria State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Victoria, Canada",
   "population": 4546769,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Vancouver",
-      "state": "British Columbia",
-      "stateSlug": "british-columbia",
-      "citySlug": "vancouver",
-      "distance": 94.38019964134745
+      "city": "Hamilton",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "hamilton"
     },
     {
-      "city": "McAllen",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "mcallen",
-      "distance": 283.12985826408715
+      "city": "London",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "london"
     },
     {
-      "city": "Kelowna",
-      "state": "British Columbia",
-      "stateSlug": "british-columbia",
-      "citySlug": "kelowna",
-      "distance": 324.74833972436073
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor"
     },
     {
-      "city": "Calgary",
-      "state": "Alberta",
-      "stateSlug": "alberta",
-      "citySlug": "calgary",
-      "distance": 728.7788548932356
+      "city": "Regina",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "regina"
     },
     {
-      "city": "Louisville",
-      "state": "Kentucky",
-      "stateSlug": "kentucky",
-      "citySlug": "louisville",
-      "distance": 743.7787916083246
+      "city": "Saskatoon",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "saskatoon"
     }
-  ],
-  "geohash": "c2878b0",
-  "geohashUrl": "https://geohash.softeng.co/c2878b0"
+  ]
 }

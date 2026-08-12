@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "rasra",
   "country": "India",
-  "pincode": "221712",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 8.4389,
-  "longitude": 72.6501,
-  "landmark": "Rasra Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Rasra, India",
   "population": 4882248,
   "mobileUsers": 3788624,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Parvathipuram",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "parvathipuram",
-      "distance": 29.515027032475967
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Buzar",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "buzar",
-      "distance": 92.04509807168075
-    },
-    {
-      "city": "Kanigiri",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kanigiri",
-      "distance": 105.63446039487448
-    },
-    {
-      "city": "Thingshul Theleha",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "thingshul-theleha",
-      "distance": 148.37554454676783
-    },
-    {
-      "city": "Latur",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "latur",
-      "distance": 163.67172931563454
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9e8j0q",
-  "geohashUrl": "https://geohash.softeng.co/t9e8j0q"
+  ]
 }

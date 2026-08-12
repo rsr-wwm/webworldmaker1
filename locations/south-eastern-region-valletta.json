@@ -5,7 +5,6 @@
   "stateSlug": "south-eastern-region",
   "citySlug": "valletta",
   "country": "Malta",
-  "pincode": "VLT 1115",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / MCA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+356",
   "timezone": "Europe/Malta",
-  "latitude": 35.8347,
-  "longitude": 14.7816,
-  "landmark": "Valletta GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Epic networks. Failovers route over GO, Melita with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Valletta, Malta",
   "population": 1109874,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "High: Integrating AI agents into customer support systems",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Sfax",
-      "state": "Sfax Governorate",
-      "stateSlug": "sfax-governorate",
-      "citySlug": "sfax",
-      "distance": 553.0267187153005
-    },
-    {
-      "city": "Tunis",
-      "state": "Tunis Governorate",
-      "stateSlug": "tunis-governorate",
-      "citySlug": "tunis",
-      "distance": 581.7801502094356
-    },
-    {
-      "city": "Athens",
-      "state": "Attica Region",
-      "stateSlug": "attica-region",
-      "citySlug": "athens",
-      "distance": 704.6262296601561
-    },
-    {
-      "city": "Tirana",
-      "state": "Tirana County",
-      "stateSlug": "tirana-county",
-      "citySlug": "tirana",
-      "distance": 723.956618043615
-    },
-    {
-      "city": "Bologna",
-      "state": "Emilia-Romagna",
-      "stateSlug": "emilia-romagna",
-      "citySlug": "bologna",
-      "distance": 786.719918006089
-    }
-  ],
-  "geohash": "sq6eb7e",
-  "geohashUrl": "https://geohash.softeng.co/sq6eb7e"
+  "nearbyLocations": []
 }

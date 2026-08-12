@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "kanigiri",
   "country": "India",
-  "pincode": "523230",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 8.4591,
-  "longitude": 73.6103,
-  "landmark": "Kanigiri Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kanigiri, India",
   "population": 9011193,
   "mobileUsers": 6722349,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Thingshul Theleha",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "thingshul-theleha",
-      "distance": 82.8809596518184
-    },
-    {
-      "city": "Rasra",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "rasra",
-      "distance": 105.63446039487448
-    },
-    {
-      "city": "Buzar",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "buzar",
-      "distance": 113.6452450583016
-    },
-    {
-      "city": "Guna",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "guna",
-      "distance": 122.54115699274081
+      "citySlug": "bhopal"
     },
     {
-      "city": "Parvathipuram",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "parvathipuram",
-      "distance": 123.58641613554646
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9s255c",
-  "geohashUrl": "https://geohash.softeng.co/t9s255c"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "punjab",
   "citySlug": "bathinda",
   "country": "India",
-  "pincode": "151001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 32.3064,
-  "longitude": 85.9495,
-  "landmark": "Bathinda Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bathinda, India",
   "population": 1327059,
   "mobileUsers": 1008564,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ottapalm",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "ottapalm",
-      "distance": 52.93414843485613
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nashik",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nashik",
-      "distance": 56.40866152458293
+      "citySlug": "nagpur"
     },
     {
-      "city": "Mirzapur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "mirzapur",
-      "distance": 100.4948170364293
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Firozabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "firozabad",
-      "distance": 112.91997679969057
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi"
     },
     {
-      "city": "Chickballapur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chickballapur",
-      "distance": 128.9548973922713
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     }
-  ],
-  "geohash": "tvtpgc4",
-  "geohashUrl": "https://geohash.softeng.co/tvtpgc4"
+  ]
 }

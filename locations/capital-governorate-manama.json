@@ -5,7 +5,6 @@
   "stateSlug": "capital-governorate",
   "citySlug": "manama",
   "country": "Bahrain",
-  "pincode": "302",
   "currency": "BHD",
   "symbol": "BD",
   "compliance": "TRA Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+973",
   "timezone": "Asia/Bahrain",
-  "latitude": 26.0041,
-  "longitude": 50.4373,
-  "landmark": "Manama Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Batelco networks. Failovers route over Zain, stc with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Manama, Bahrain",
   "population": 3183802,
@@ -41,41 +37,10 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Doha",
-      "state": "Ad Dawhah",
-      "stateSlug": "ad-dawhah",
-      "citySlug": "doha",
-      "distance": 107.5393159316809
-    },
-    {
-      "city": "Al Ain",
-      "state": "Abu Dhabi Emirate",
-      "stateSlug": "abu-dhabi-emirate",
-      "citySlug": "al-ain",
-      "distance": 399.5430038415915
-    },
-    {
-      "city": "Sharjah",
-      "state": "Sharjah Emirate",
-      "stateSlug": "sharjah-emirate",
-      "citySlug": "sharjah",
-      "distance": 406.0391965190654
-    },
-    {
-      "city": "Abu Dhabi",
-      "state": "Abu Dhabi Emirate",
-      "stateSlug": "abu-dhabi-emirate",
-      "citySlug": "abu-dhabi",
-      "distance": 410.62693030299744
-    },
-    {
-      "city": "Dubai",
-      "state": "Dubai Emirate",
-      "stateSlug": "dubai-emirate",
-      "citySlug": "dubai",
-      "distance": 435.25866114620345
+      "city": "Kuwait City",
+      "state": "Capital Governorate",
+      "stateSlug": "capital-governorate",
+      "citySlug": "kuwait-city"
     }
-  ],
-  "geohash": "theggtz",
-  "geohashUrl": "https://geohash.softeng.co/theggtz"
+  ]
 }

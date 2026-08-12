@@ -5,7 +5,6 @@
   "stateSlug": "sverdlovsk-oblast",
   "citySlug": "yekaterinburg",
   "country": "Russia",
-  "pincode": "620000",
   "currency": "RUB",
   "symbol": "₽",
   "compliance": "Roskomnadzor Rules",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+7",
   "timezone": "Asia/Anadyr",
-  "latitude": 60.1234,
-  "longitude": 99.9418,
-  "landmark": "Yekaterinburg Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over MTS networks. Failovers route over MegaFon, Beeline, Tele2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Yekaterinburg, Russia",
   "population": 3966566,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "St. Petersburg",
-      "state": "Leningrad Oblast",
-      "stateSlug": "leningrad-oblast",
-      "citySlug": "st-petersburg",
-      "distance": 0.7695003105335191
+      "city": "Vladivostok",
+      "state": "Primorsky Krai",
+      "stateSlug": "primorsky-krai",
+      "citySlug": "vladivostok"
     },
     {
-      "city": "Novosibirsk",
-      "state": "Novosibirsk Oblast",
-      "stateSlug": "novosibirsk-oblast",
-      "citySlug": "novosibirsk",
-      "distance": 4.609629193910705
+      "city": "Kazan",
+      "state": "Republic of Tatarstan",
+      "stateSlug": "republic-of-tatarstan",
+      "citySlug": "kazan"
     },
     {
-      "city": "Chelyabinsk",
-      "state": "Chelyabinsk Oblast",
-      "stateSlug": "chelyabinsk-oblast",
-      "citySlug": "chelyabinsk",
-      "distance": 8.646106511418681
-    },
-    {
-      "city": "Rostov-on-Don",
-      "state": "Rostov Oblast",
-      "stateSlug": "rostov-oblast",
-      "citySlug": "rostov-on-don",
-      "distance": 11.355602632612852
+      "city": "Nizhny Novgorod",
+      "state": "Nizhny Novgorod Oblast",
+      "stateSlug": "nizhny-novgorod-oblast",
+      "citySlug": "nizhny-novgorod"
     },
     {
       "city": "Samara",
       "state": "Samara Oblast",
       "stateSlug": "samara-oblast",
-      "citySlug": "samara",
-      "distance": 12.487860046379984
+      "citySlug": "samara"
+    },
+    {
+      "city": "Krasnoyarsk",
+      "state": "Krasnoyarsk Krai",
+      "stateSlug": "krasnoyarsk-krai",
+      "citySlug": "krasnoyarsk"
     }
-  ],
-  "geohash": "y4xn41p",
-  "geohashUrl": "https://geohash.softeng.co/y4xn41p"
+  ]
 }

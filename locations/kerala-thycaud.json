@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "thycaud",
   "country": "India",
-  "pincode": "695014",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.2613,
-  "longitude": 87.8189,
-  "landmark": "Thycaud Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Thycaud, India",
   "population": 1711794,
   "mobileUsers": 1253033,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Anakpalle",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "anakpalle",
-      "distance": 62.70881085136262
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sangareddy",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "sangareddy",
-      "distance": 68.93385876567358
-    },
-    {
-      "city": "Hyderabad G.P.O",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hyderabad-gpo",
-      "distance": 94.1503491645605
-    },
-    {
-      "city": "Tadepalligudam",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tadepalligudam",
-      "distance": 95.14357580015081
-    },
-    {
-      "city": "Pandharpur",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "pandharpur",
-      "distance": 103.26657030396069
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcy6qk5",
-  "geohashUrl": "https://geohash.softeng.co/tcy6qk5"
+  ]
 }

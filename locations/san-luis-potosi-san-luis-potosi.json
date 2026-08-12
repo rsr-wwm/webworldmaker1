@@ -5,7 +5,6 @@
   "stateSlug": "san-luis-potosi",
   "citySlug": "san-luis-potosi",
   "country": "Mexico",
-  "pincode": "78000",
   "currency": "MXN",
   "symbol": "$",
   "compliance": "IFT Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+52",
   "timezone": "America/Bahia_Banderas",
-  "latitude": 23.1971,
-  "longitude": -102.1072,
-  "landmark": "San Luis Potosi District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for San Luis Potosi, Mexico",
   "population": 3331607,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Mexico City",
-      "state": "Federal District",
-      "stateSlug": "federal-district",
-      "citySlug": "mexico-city",
-      "distance": 4.012762754894633
+      "city": "Leon",
+      "state": "Guanajuato",
+      "stateSlug": "guanajuato",
+      "citySlug": "leon"
     },
     {
-      "city": "Merida",
-      "state": "Yucatan",
-      "stateSlug": "yucatan",
-      "citySlug": "merida",
-      "distance": 18.464880297382383
+      "city": "Toluca",
+      "state": "State of Mexico",
+      "stateSlug": "state-of-mexico",
+      "citySlug": "toluca"
     },
     {
-      "city": "Queretaro",
-      "state": "Queretaro State",
-      "stateSlug": "queretaro-state",
-      "citySlug": "queretaro",
-      "distance": 21.606112532797724
+      "city": "Juarez",
+      "state": "Chihuahua",
+      "stateSlug": "chihuahua",
+      "citySlug": "juarez"
+    },
+    {
+      "city": "Torreon",
+      "state": "Coahuila",
+      "stateSlug": "coahuila",
+      "citySlug": "torreon"
     },
     {
       "city": "Veracruz",
       "state": "Veracruz State",
       "stateSlug": "veracruz-state",
-      "citySlug": "veracruz",
-      "distance": 27.074301510415737
-    },
-    {
-      "city": "Puebla",
-      "state": "Puebla State",
-      "stateSlug": "puebla-state",
-      "citySlug": "puebla",
-      "distance": 27.965603008012437
+      "citySlug": "veracruz"
     }
-  ],
-  "geohash": "9sp7uqz",
-  "geohashUrl": "https://geohash.softeng.co/9sp7uqz"
+  ]
 }

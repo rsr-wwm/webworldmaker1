@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "penursala",
   "country": "India",
-  "pincode": "793110",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.3219,
-  "longitude": 88.4823,
-  "landmark": "Penursala District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Penursala, India",
   "population": 3984713,
   "mobileUsers": 3008458,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kottayam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kottayam",
-      "distance": 54.26421690361374
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Himat Nagar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "himat-nagar",
-      "distance": 55.647826950573766
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nayagarh",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "nayagarh",
-      "distance": 66.7756285343454
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bhavani",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "bhavani",
-      "distance": 96.04431440483732
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Udamalpet",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "udamalpet",
-      "distance": 109.40891414850749
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuqfm7w",
-  "geohashUrl": "https://geohash.softeng.co/tuqfm7w"
+  ]
 }

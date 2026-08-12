@@ -5,7 +5,6 @@
   "stateSlug": "chongqing-municipality",
   "citySlug": "chongqing",
   "country": "China",
-  "pincode": "400000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 35.0695,
-  "longitude": 104.9656,
-  "landmark": "Chongqing GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Chongqing, China",
   "population": 7798352,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Wuxi",
-      "state": "Jiangsu Province",
-      "stateSlug": "jiangsu-province",
-      "citySlug": "wuxi",
-      "distance": 4.422258161474031
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang"
     },
     {
-      "city": "Shenzhen",
-      "state": "Guangdong Province",
-      "stateSlug": "guangdong-province",
-      "citySlug": "shenzhen",
-      "distance": 7.657172680929558
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou"
     },
     {
-      "city": "Shanghai",
-      "state": "Shanghai Municipality",
-      "stateSlug": "shanghai-municipality",
-      "citySlug": "shanghai",
-      "distance": 7.661417004344944
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang"
     },
     {
-      "city": "Urumqi",
-      "state": "Xinjiang Region",
-      "stateSlug": "xinjiang-region",
-      "citySlug": "urumqi",
-      "distance": 9.067219982241621
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
     },
     {
-      "city": "Zhengzhou",
-      "state": "Henan Province",
-      "stateSlug": "henan-province",
-      "citySlug": "zhengzhou",
-      "distance": 9.090183042956053
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan"
     }
-  ],
-  "geohash": "wq4xs81",
-  "geohashUrl": "https://geohash.softeng.co/wq4xs81"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "west-bank",
   "citySlug": "ramallah",
   "country": "Palestine",
-  "pincode": "972",
   "currency": "ILS",
   "symbol": "₪",
   "compliance": "MTIT Guidelines",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+970",
   "timezone": "Asia/Gaza",
-  "latitude": 31.8955,
-  "longitude": 35.3343,
-  "landmark": "Ramallah Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Jawwal networks. Failovers route over Ooredoo with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ramallah, Palestine",
   "population": 1548696,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "High: Integrating AI agents into customer support systems",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Jerusalem",
-      "state": "Jerusalem District",
-      "stateSlug": "jerusalem-district",
-      "citySlug": "jerusalem",
-      "distance": 57.40098017602207
-    },
-    {
-      "city": "Ashdod",
-      "state": "Southern District",
-      "stateSlug": "southern-district",
-      "citySlug": "ashdod",
-      "distance": 60.15631629679144
-    },
-    {
-      "city": "Haifa",
-      "state": "Haifa District",
-      "stateSlug": "haifa-district",
-      "citySlug": "haifa",
-      "distance": 74.9085958050759
-    },
-    {
-      "city": "Tel Aviv",
-      "state": "Tel Aviv District",
-      "stateSlug": "tel-aviv-district",
-      "citySlug": "tel-aviv",
-      "distance": 79.26531006043875
-    },
-    {
-      "city": "Aqaba",
-      "state": "Aqaba Governorate",
-      "stateSlug": "aqaba-governorate",
-      "citySlug": "aqaba",
-      "distance": 115.54186466758298
-    }
-  ],
-  "geohash": "sv9jkn3",
-  "geohashUrl": "https://geohash.softeng.co/sv9jkn3"
+  "nearbyLocations": []
 }

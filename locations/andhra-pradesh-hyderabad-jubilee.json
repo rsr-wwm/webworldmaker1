@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "hyderabad-jubilee",
   "country": "India",
-  "pincode": "500002",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.481,
-  "longitude": 77.0867,
-  "landmark": "Hyderabad Jubilee Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Hyderabad Jubilee, India",
   "population": 1354857,
   "mobileUsers": 1018852,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mati",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "mati",
-      "distance": 27.008820849229807
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rampurhat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "rampurhat",
-      "distance": 37.23205339919688
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
       "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "jalandhar",
-      "distance": 40.731462546534914
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Phulbani",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "phulbani",
-      "distance": 44.01598272104521
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Burdwan",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "burdwan",
-      "distance": 45.37794021311449
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tewud0k",
-  "geohashUrl": "https://geohash.softeng.co/tewud0k"
+  ]
 }

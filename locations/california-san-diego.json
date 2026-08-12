@@ -5,7 +5,6 @@
   "stateSlug": "california",
   "citySlug": "san-diego",
   "country": "United States",
-  "pincode": "92101",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 213",
   "timezone": "America/Los_Angeles",
-  "latitude": 34.3289,
-  "longitude": -91.0484,
-  "landmark": "San Diego Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for San Diego, United States",
   "population": 3001938,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "St. Louis",
-      "state": "Missouri",
-      "stateSlug": "missouri",
-      "citySlug": "st-louis",
-      "distance": 328.6313378438871
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Las Vegas",
-      "state": "Nevada",
-      "stateSlug": "nevada",
-      "citySlug": "las-vegas",
-      "distance": 370.08521344776193
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Providence",
-      "state": "Rhode Island",
-      "stateSlug": "rhode-island",
-      "citySlug": "providence",
-      "distance": 396.45165944495074
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Chicago",
-      "state": "Illinois",
-      "stateSlug": "illinois",
-      "citySlug": "chicago",
-      "distance": 445.5675642429199
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Atlanta",
-      "state": "Georgia",
-      "stateSlug": "georgia",
-      "citySlug": "atlanta",
-      "distance": 459.55156481404026
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9yp721k",
-  "geohashUrl": "https://geohash.softeng.co/9yp721k"
+  ]
 }

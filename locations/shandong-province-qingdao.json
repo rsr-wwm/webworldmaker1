@@ -5,7 +5,6 @@
   "stateSlug": "shandong-province",
   "citySlug": "qingdao",
   "country": "China",
-  "pincode": "266000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 34.953,
-  "longitude": 105.1689,
-  "landmark": "Qingdao Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Qingdao, China",
   "population": 3963848,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Dongguan",
-      "state": "Guangdong Province",
-      "stateSlug": "guangdong-province",
-      "citySlug": "dongguan",
-      "distance": 1.910089813835326
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang"
     },
     {
-      "city": "Ningbo",
+      "city": "Wenzhou",
       "state": "Zhejiang Province",
       "stateSlug": "zhejiang-province",
-      "citySlug": "ningbo",
-      "distance": 4.798302332175622
+      "citySlug": "wenzhou"
     },
     {
-      "city": "Yangzhou",
-      "state": "Jiangsu Province",
-      "stateSlug": "jiangsu-province",
-      "citySlug": "yangzhou",
-      "distance": 6.677543942041923
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang"
     },
     {
-      "city": "Hangzhou",
-      "state": "Zhejiang Province",
-      "stateSlug": "zhejiang-province",
-      "citySlug": "hangzhou",
-      "distance": 7.94501124497102
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
     },
     {
-      "city": "Nantong",
-      "state": "Jiangsu Province",
-      "stateSlug": "jiangsu-province",
-      "citySlug": "nantong",
-      "distance": 12.627659030023775
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan"
     }
-  ],
-  "geohash": "wq4yc4v",
-  "geohashUrl": "https://geohash.softeng.co/wq4yc4v"
+  ]
 }

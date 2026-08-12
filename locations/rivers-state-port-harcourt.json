@@ -5,7 +5,6 @@
   "stateSlug": "rivers-state",
   "citySlug": "port-harcourt",
   "country": "Nigeria",
-  "pincode": "500001",
   "currency": "NGN",
   "symbol": "₦",
   "compliance": "NCC Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+234",
   "timezone": "Africa/Lagos",
-  "latitude": 9.9849,
-  "longitude": 7.8622,
-  "landmark": "Port Harcourt Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Airtel, Globacom, 9mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Port Harcourt, Nigeria",
   "population": 2310740,
@@ -45,38 +41,19 @@
       "city": "Ibadan",
       "state": "Oyo State",
       "stateSlug": "oyo-state",
-      "citySlug": "ibadan",
-      "distance": 9.838541961263852
+      "citySlug": "ibadan"
     },
     {
       "city": "Kano",
       "state": "Kano State",
       "stateSlug": "kano-state",
-      "citySlug": "kano",
-      "distance": 18.139382403882298
+      "citySlug": "kano"
     },
     {
       "city": "Lagos",
       "state": "Lagos State",
       "stateSlug": "lagos-state",
-      "citySlug": "lagos",
-      "distance": 23.888201586453164
-    },
-    {
-      "city": "Porto-Novo",
-      "state": "Oueme Department",
-      "stateSlug": "oueme-department",
-      "citySlug": "porto-novo",
-      "distance": 605.1385533677586
-    },
-    {
-      "city": "Douala",
-      "state": "Littoral Region",
-      "stateSlug": "littoral-region",
-      "citySlug": "douala",
-      "distance": 621.0982540590007
+      "citySlug": "lagos"
     }
-  ],
-  "geohash": "s1v8fct",
-  "geohashUrl": "https://geohash.softeng.co/s1v8fct"
+  ]
 }

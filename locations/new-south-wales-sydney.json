@@ -5,7 +5,6 @@
   "stateSlug": "new-south-wales",
   "citySlug": "sydney",
   "country": "Australia",
-  "pincode": "NSW 2000",
   "currency": "AUD",
   "symbol": "A$",
   "compliance": "ACMA Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+61 2",
   "timezone": "Australia/Sydney",
-  "latitude": -33.8688,
-  "longitude": 151.2093,
-  "landmark": "Sydney Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Telstra networks. Failovers route over Optus, Vodafone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Sydney, Australia",
   "population": 1478789,
@@ -44,38 +40,31 @@
       "city": "Canberra",
       "state": "Australian Capital Territory",
       "stateSlug": "australian-capital-territory",
-      "citySlug": "canberra",
-      "distance": 246.7608459368752
-    },
-    {
-      "city": "Melbourne",
-      "state": "Victoria",
-      "stateSlug": "victoria",
-      "citySlug": "melbourne",
-      "distance": 713.4645255878771
-    },
-    {
-      "city": "Brisbane",
-      "state": "Queensland",
-      "stateSlug": "queensland",
-      "citySlug": "brisbane",
-      "distance": 732.4333116772666
+      "citySlug": "canberra"
     },
     {
       "city": "Hobart",
       "state": "Tasmania",
       "stateSlug": "tasmania",
-      "citySlug": "hobart",
-      "distance": 1057.5120746458563
+      "citySlug": "hobart"
     },
     {
-      "city": "Adelaide",
-      "state": "South Australia",
-      "stateSlug": "south-australia",
-      "citySlug": "adelaide",
-      "distance": 1162.1092798106592
+      "city": "Darwin",
+      "state": "Northern Territory",
+      "stateSlug": "northern-territory",
+      "citySlug": "darwin"
+    },
+    {
+      "city": "Melbourne",
+      "state": "Victoria",
+      "stateSlug": "victoria",
+      "citySlug": "melbourne"
+    },
+    {
+      "city": "Brisbane",
+      "state": "Queensland",
+      "stateSlug": "queensland",
+      "citySlug": "brisbane"
     }
-  ],
-  "geohash": "r3gx2f7",
-  "geohashUrl": "https://geohash.softeng.co/r3gx2f7"
+  ]
 }

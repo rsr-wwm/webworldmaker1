@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "fatehpur",
   "country": "India",
-  "pincode": "212601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.0811,
-  "longitude": 88.3443,
-  "landmark": "Fatehpur Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Fatehpur, India",
   "population": 1093828,
   "mobileUsers": 844435,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shivali",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "shivali",
-      "distance": 86.34102296770511
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Pani Chowki Bazar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "pani-chowki-bazar",
-      "distance": 101.10737814805438
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Karkala",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "karkala",
-      "distance": 106.21568462767769
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Dungarpur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "dungarpur",
-      "distance": 106.44469748638471
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Dhampur",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "dhampur",
-      "distance": 111.17216039198998
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfnudr6",
-  "geohashUrl": "https://geohash.softeng.co/tfnudr6"
+  ]
 }

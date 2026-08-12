@@ -5,7 +5,6 @@
   "stateSlug": "cluj-county",
   "citySlug": "cluj-napoca",
   "country": "Romania",
-  "pincode": "400001",
   "currency": "RON",
   "symbol": "lei",
   "compliance": "GDPR / ANCOM",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+40",
   "timezone": "Europe/Bucharest",
-  "latitude": 46.0814,
-  "longitude": 24.9791,
-  "landmark": "Cluj-Napoca District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Vodafone, Digi.Mobil with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cluj-Napoca, Romania",
   "population": 2393894,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Constanta",
-      "state": "Constanta County",
-      "stateSlug": "constanta-county",
-      "citySlug": "constanta",
-      "distance": 11.38004099170106
-    },
-    {
-      "city": "Bucharest",
-      "state": "Bucharest Municipality",
-      "stateSlug": "bucharest-municipality",
-      "citySlug": "bucharest",
-      "distance": 11.85018537138067
+      "city": "Timisoara",
+      "state": "Timis County",
+      "stateSlug": "timis-county",
+      "citySlug": "timisoara"
     },
     {
       "city": "Brasov",
       "state": "Brasov County",
       "stateSlug": "brasov-county",
-      "citySlug": "brasov",
-      "distance": 14.57260193632675
+      "citySlug": "brasov"
     },
     {
-      "city": "Timisoara",
-      "state": "Timis County",
-      "stateSlug": "timis-county",
-      "citySlug": "timisoara",
-      "distance": 24.351514173705525
+      "city": "Constanta",
+      "state": "Constanta County",
+      "stateSlug": "constanta-county",
+      "citySlug": "constanta"
     },
     {
-      "city": "Sofia",
-      "state": "Sofia City",
-      "stateSlug": "sofia-city",
-      "citySlug": "sofia",
-      "distance": 321.63754859608974
+      "city": "Bucharest",
+      "state": "Bucharest Municipality",
+      "stateSlug": "bucharest-municipality",
+      "citySlug": "bucharest"
     }
-  ],
-  "geohash": "u81y0kv",
-  "geohashUrl": "https://geohash.softeng.co/u81y0kv"
+  ]
 }

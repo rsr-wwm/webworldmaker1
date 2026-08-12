@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "bolganj-bazar",
   "country": "India",
-  "pincode": "793107",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "town",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.6928,
-  "longitude": 80.74,
-  "landmark": "Bolganj Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bolganj bazar, India",
   "population": 102018,
   "mobileUsers": 74677,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kiphir",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "kiphir",
-      "distance": 14.338888015779583
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Barasat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barasat",
-      "distance": 71.18216022347676
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Palai",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "palai",
-      "distance": 80.59738392922131
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Thodupuzha",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thodupuzha",
-      "distance": 88.53038789993185
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Khurja",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "khurja",
-      "distance": 89.11248371636746
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg9mtr1",
-  "geohashUrl": "https://geohash.softeng.co/tg9mtr1"
+  ]
 }

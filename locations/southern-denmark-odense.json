@@ -5,7 +5,6 @@
   "stateSlug": "southern-denmark",
   "citySlug": "odense",
   "country": "Denmark",
-  "pincode": "5000",
   "currency": "DKK",
   "symbol": "kr.",
   "compliance": "GDPR / SDFE",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+45",
   "timezone": "Europe/Copenhagen",
-  "latitude": 55.9598,
-  "longitude": 9.8672,
-  "landmark": "Odense Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over TDC networks. Failovers route over Telenor, Telia, 3 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Odense, Denmark",
   "population": 644631,
@@ -42,41 +38,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Copenhagen",
-      "state": "Capital Region",
-      "stateSlug": "capital-region",
-      "citySlug": "copenhagen",
-      "distance": 9.198595414217237
+      "city": "Aalborg",
+      "state": "North Denmark",
+      "stateSlug": "north-denmark",
+      "citySlug": "aalborg"
     },
     {
       "city": "Aarhus",
       "state": "Central Denmark Region",
       "stateSlug": "central-denmark-region",
-      "citySlug": "aarhus",
-      "distance": 13.389225329119185
+      "citySlug": "aarhus"
     },
     {
-      "city": "Aalborg",
-      "state": "North Denmark",
-      "stateSlug": "north-denmark",
-      "citySlug": "aalborg",
-      "distance": 19.54262418245286
-    },
-    {
-      "city": "Nuremberg",
-      "state": "Bavaria",
-      "stateSlug": "bavaria",
-      "citySlug": "nuremberg",
-      "distance": 381.1341924677962
-    },
-    {
-      "city": "Groningen",
-      "state": "Groningen Province",
-      "stateSlug": "groningen-province",
-      "citySlug": "groningen",
-      "distance": 451.3144843200914
+      "city": "Copenhagen",
+      "state": "Capital Region",
+      "stateSlug": "capital-region",
+      "citySlug": "copenhagen"
     }
-  ],
-  "geohash": "u1zn2e1",
-  "geohashUrl": "https://geohash.softeng.co/u1zn2e1"
+  ]
 }

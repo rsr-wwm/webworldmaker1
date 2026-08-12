@@ -5,7 +5,6 @@
   "stateSlug": "khulna-division",
   "citySlug": "khulna",
   "country": "Bangladesh",
-  "pincode": "9000",
   "currency": "BDT",
   "symbol": "৳",
   "compliance": "BTRC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+880",
   "timezone": "Asia/Dhaka",
-  "latitude": 24.1481,
-  "longitude": 89.9745,
-  "landmark": "Khulna Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Grameenphone networks. Failovers route over Robi, Banglalink with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Khulna, Bangladesh",
   "population": 3619942,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Chittagong",
-      "state": "Chittagong Division",
-      "stateSlug": "chittagong-division",
-      "citySlug": "chittagong",
-      "distance": 14.374491698899467
-    },
-    {
       "city": "Sylhet",
       "state": "Sylhet Division",
       "stateSlug": "sylhet-division",
-      "citySlug": "sylhet",
-      "distance": 29.69501761276671
+      "citySlug": "sylhet"
+    },
+    {
+      "city": "Chittagong",
+      "state": "Chittagong Division",
+      "stateSlug": "chittagong-division",
+      "citySlug": "chittagong"
     },
     {
       "city": "Dhaka",
       "state": "Dhaka Division",
       "stateSlug": "dhaka-division",
-      "citySlug": "dhaka",
-      "distance": 31.345891522071625
-    },
-    {
-      "city": "Himat Nagar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "himat-nagar",
-      "distance": 111.70679937004111
-    },
-    {
-      "city": "Mulund",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "mulund",
-      "distance": 145.18435295564672
+      "citySlug": "dhaka"
     }
-  ],
-  "geohash": "turcrkj",
-  "geohashUrl": "https://geohash.softeng.co/turcrkj"
+  ]
 }

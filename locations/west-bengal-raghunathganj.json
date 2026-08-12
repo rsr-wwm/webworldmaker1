@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "raghunathganj",
   "country": "India",
-  "pincode": "742225",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.1595,
-  "longitude": 74.3139,
-  "landmark": "Raghunathganj GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Raghunathganj, India",
   "population": 9569561,
   "mobileUsers": 7119753,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tadpatri",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tadpatri",
-      "distance": 68.1685398299426
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Thrissur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thrissur",
-      "distance": 107.02458537205203
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ambasa",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "ambasa",
-      "distance": 111.50954171413825
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mylapore",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "mylapore",
-      "distance": 113.40701245918137
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bidar",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bidar",
-      "distance": 117.39244944610897
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "teub75c",
-  "geohashUrl": "https://geohash.softeng.co/teub75c"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "cherthala",
   "country": "India",
-  "pincode": "688524",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.3977,
-  "longitude": 81.4525,
-  "landmark": "Cherthala Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Cherthala, India",
   "population": 7791745,
   "mobileUsers": 5906142,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Visakhapatnam",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "visakhapatnam",
-      "distance": 9.528568212372564
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Anantapur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "anantapur",
-      "distance": 38.96668365764804
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kheda",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "kheda",
-      "distance": 78.48862629324984
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kandi",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "kandi",
-      "distance": 95.50347853302036
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Irinjalakuda",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "irinjalakuda",
-      "distance": 95.80968545976705
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu9yjmx",
-  "geohashUrl": "https://geohash.softeng.co/tu9yjmx"
+  ]
 }

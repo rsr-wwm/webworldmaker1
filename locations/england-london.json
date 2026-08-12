@@ -5,7 +5,6 @@
   "stateSlug": "england",
   "citySlug": "london",
   "country": "United Kingdom",
-  "pincode": "EC1A 1BB",
   "currency": "GBP",
   "symbol": "£",
   "compliance": "GDPR / UK-CO",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+44 20",
   "timezone": "Europe/London",
-  "latitude": 56.344,
-  "longitude": 1.2723,
-  "landmark": "London Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over EE networks. Failovers route over Vodafone, O2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for London, United Kingdom",
   "population": 4206895,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Manchester",
-      "state": "England",
-      "stateSlug": "england",
-      "citySlug": "manchester",
-      "distance": 124.59911060852099
+      "city": "Sheffield",
+      "state": "South Yorkshire",
+      "stateSlug": "south-yorkshire",
+      "citySlug": "sheffield"
     },
     {
-      "city": "Bristol",
-      "state": "Bristol",
-      "stateSlug": "bristol",
-      "citySlug": "bristol",
-      "distance": 129.24895621122644
+      "city": "Nottingham",
+      "state": "Nottinghamshire",
+      "stateSlug": "nottinghamshire",
+      "citySlug": "nottingham"
+    },
+    {
+      "city": "Leicester",
+      "state": "Leicestershire",
+      "stateSlug": "leicestershire",
+      "citySlug": "leicester"
+    },
+    {
+      "city": "Southampton",
+      "state": "Hampshire",
+      "stateSlug": "hampshire",
+      "citySlug": "southampton"
     },
     {
       "city": "Belfast",
       "state": "Northern Ireland",
       "stateSlug": "northern-ireland",
-      "citySlug": "belfast",
-      "distance": 137.23061123414436
-    },
-    {
-      "city": "Birmingham",
-      "state": "West Midlands",
-      "stateSlug": "west-midlands",
-      "citySlug": "birmingham",
-      "distance": 138.66458212811162
-    },
-    {
-      "city": "Newcastle",
-      "state": "Tyne and Wear",
-      "stateSlug": "tyne-and-wear",
-      "citySlug": "newcastle",
-      "distance": 203.83395090588945
+      "citySlug": "belfast"
     }
-  ],
-  "geohash": "u40bscn",
-  "geohashUrl": "https://geohash.softeng.co/u40bscn"
+  ]
 }

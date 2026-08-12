@@ -5,7 +5,6 @@
   "stateSlug": "aragon",
   "citySlug": "zaragoza",
   "country": "Spain",
-  "pincode": "50001",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / CNMC",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+34",
   "timezone": "Africa/Ceuta",
-  "latitude": 40.1676,
-  "longitude": -4.054,
-  "landmark": "Zaragoza Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Movistar networks. Failovers route over Orange, Vodafone, Yoigo with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Zaragoza, Spain",
   "population": 1245405,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Valencia",
-      "state": "Valencian Community",
-      "stateSlug": "valencian-community",
-      "citySlug": "valencia",
-      "distance": 6.290677271414178
-    },
-    {
-      "city": "Seville",
-      "state": "Andalusia",
-      "stateSlug": "andalusia",
-      "citySlug": "seville",
-      "distance": 13.115530927786699
-    },
-    {
       "city": "Malaga",
       "state": "Andalusia",
       "stateSlug": "andalusia",
-      "citySlug": "malaga",
-      "distance": 13.553446604233827
+      "citySlug": "malaga"
     },
     {
       "city": "Las Palmas",
       "state": "Canary Islands",
       "stateSlug": "canary-islands",
-      "citySlug": "las-palmas",
-      "distance": 33.5170367729202
+      "citySlug": "las-palmas"
     },
     {
-      "city": "Madrid",
-      "state": "Community of Madrid",
-      "stateSlug": "community-of-madrid",
-      "citySlug": "madrid",
-      "distance": 35.1672607661321
+      "city": "Barcelona",
+      "state": "Catalonia",
+      "stateSlug": "catalonia",
+      "citySlug": "barcelona"
+    },
+    {
+      "city": "Seville",
+      "state": "Andalusia",
+      "stateSlug": "andalusia",
+      "citySlug": "seville"
+    },
+    {
+      "city": "Valencia",
+      "state": "Valencian Community",
+      "stateSlug": "valencian-community",
+      "citySlug": "valencia"
     }
-  ],
-  "geohash": "ezjhe8r",
-  "geohashUrl": "https://geohash.softeng.co/ezjhe8r"
+  ]
 }

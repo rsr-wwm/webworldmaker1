@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "kongkopi",
   "country": "India",
-  "pincode": "795129",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 8.4509,
-  "longitude": 75.349,
-  "landmark": "Kongkopi Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kongkopi, India",
   "population": 3121843,
   "mobileUsers": 2381966,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ratangarh",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "ratangarh",
-      "distance": 34.71899458730389
-    },
-    {
-      "city": "Rajaji Nagar",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "rajaji-nagar",
-      "distance": 63.496499126667295
-    },
-    {
-      "city": "Guna",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "guna",
-      "distance": 69.63470007806264
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gandhinagar (Jaipur)",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "gandhinagar-jaipur",
-      "distance": 80.32872831551342
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chittoor",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "chittoor",
-      "distance": 126.51729473718518
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9t84d7",
-  "geohashUrl": "https://geohash.softeng.co/t9t84d7"
+  ]
 }

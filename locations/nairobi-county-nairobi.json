@@ -5,7 +5,6 @@
   "stateSlug": "nairobi-county",
   "citySlug": "nairobi",
   "country": "Kenya",
-  "pincode": "00100",
   "currency": "KES",
   "symbol": "KSh",
   "compliance": "CAK Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+254",
   "timezone": "Africa/Nairobi",
-  "latitude": 1.0628,
-  "longitude": 37.8992,
-  "landmark": "Nairobi Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Safaricom networks. Failovers route over Airtel, Telkom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Nairobi, Kenya",
   "population": 842153,
@@ -44,38 +40,13 @@
       "city": "Mombasa",
       "state": "Mombasa County",
       "stateSlug": "mombasa-county",
-      "citySlug": "mombasa",
-      "distance": 28.711996438073598
+      "citySlug": "mombasa"
     },
     {
       "city": "Kisumu",
       "state": "Kisumu County",
       "stateSlug": "kisumu-county",
-      "citySlug": "kisumu",
-      "distance": 34.30442500278282
-    },
-    {
-      "city": "Kampala",
-      "state": "Central Region",
-      "stateSlug": "central-region",
-      "citySlug": "kampala",
-      "distance": 671.5258207318839
-    },
-    {
-      "city": "Addis Ababa",
-      "state": "Addis Ababa Area",
-      "stateSlug": "addis-ababa-area",
-      "citySlug": "addis-ababa",
-      "distance": 757.7325169877423
-    },
-    {
-      "city": "Dire Dawa",
-      "state": "Dire Dawa Charter City",
-      "stateSlug": "dire-dawa-charter-city",
-      "citySlug": "dire-dawa",
-      "distance": 782.3355226811403
+      "citySlug": "kisumu"
     }
-  ],
-  "geohash": "sb4yn3m",
-  "geohashUrl": "https://geohash.softeng.co/sb4yn3m"
+  ]
 }

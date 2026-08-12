@@ -5,7 +5,6 @@
   "stateSlug": "hamburg-state",
   "citySlug": "hamburg",
   "country": "Germany",
-  "pincode": "20095",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / BNetzA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+49 30",
   "timezone": "Europe/Berlin",
-  "latitude": 51.6558,
-  "longitude": 7.8538,
-  "landmark": "Hamburg State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Hamburg, Germany",
   "population": 1558475,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Bremen",
-      "state": "Bremen State",
-      "stateSlug": "bremen-state",
-      "citySlug": "bremen",
-      "distance": 79.33539131349305
+      "city": "Bonn",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "bonn"
+    },
+    {
+      "city": "Karlsruhe",
+      "state": "Baden-Württemberg",
+      "stateSlug": "baden-wurttemberg",
+      "citySlug": "karlsruhe"
+    },
+    {
+      "city": "Munster",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "munster"
+    },
+    {
+      "city": "Munich",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "munich"
     },
     {
       "city": "Dusseldorf",
       "state": "North Rhine-Westphalia",
       "stateSlug": "north-rhine-westphalia",
-      "citySlug": "dusseldorf",
-      "distance": 129.111089773847
-    },
-    {
-      "city": "Nuremberg",
-      "state": "Bavaria",
-      "stateSlug": "bavaria",
-      "citySlug": "nuremberg",
-      "distance": 140.45227114462404
-    },
-    {
-      "city": "The Hague",
-      "state": "South Holland",
-      "stateSlug": "south-holland",
-      "citySlug": "the-hague",
-      "distance": 156.0890826499831
-    },
-    {
-      "city": "Eindhoven",
-      "state": "North Brabant",
-      "stateSlug": "north-brabant",
-      "citySlug": "eindhoven",
-      "distance": 161.6236040285585
+      "citySlug": "dusseldorf"
     }
-  ],
-  "geohash": "u1jtfew",
-  "geohashUrl": "https://geohash.softeng.co/u1jtfew"
+  ]
 }

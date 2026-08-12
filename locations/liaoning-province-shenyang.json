@@ -5,7 +5,6 @@
   "stateSlug": "liaoning-province",
   "citySlug": "shenyang",
   "country": "China",
-  "pincode": "110000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 35.1221,
-  "longitude": 104.8069,
-  "landmark": "Shenyang Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Shenyang, China",
   "population": 9830681,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang"
+    },
+    {
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou"
+    },
+    {
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang"
+    },
+    {
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
+    },
+    {
       "city": "Taiyuan",
       "state": "Shanxi Province",
       "stateSlug": "shanxi-province",
-      "citySlug": "taiyuan",
-      "distance": 1.8099266834345717
-    },
-    {
-      "city": "Guiyang",
-      "state": "Guizhou Province",
-      "stateSlug": "guizhou-province",
-      "citySlug": "guiyang",
-      "distance": 3.2962258709515426
-    },
-    {
-      "city": "Lanzhou",
-      "state": "Gansu Province",
-      "stateSlug": "gansu-province",
-      "citySlug": "lanzhou",
-      "distance": 4.475140842779672
-    },
-    {
-      "city": "Foshan",
-      "state": "Guangdong Province",
-      "stateSlug": "guangdong-province",
-      "citySlug": "foshan",
-      "distance": 7.0282657901753725
-    },
-    {
-      "city": "Dalian",
-      "state": "Liaoning Province",
-      "stateSlug": "liaoning-province",
-      "citySlug": "dalian",
-      "distance": 7.985663059510409
+      "citySlug": "taiyuan"
     }
-  ],
-  "geohash": "wq4xbcy",
-  "geohashUrl": "https://geohash.softeng.co/wq4xbcy"
+  ]
 }

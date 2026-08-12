@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "kaikalur",
   "country": "India",
-  "pincode": "521333",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 32.329,
-  "longitude": 72.4312,
-  "landmark": "Kaikalur Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kaikalur, India",
   "population": 9415086,
   "mobileUsers": 7136635,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Pune City",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "pune-city",
-      "distance": 27.244755289469236
+      "citySlug": "nagpur"
     },
     {
-      "city": "Gadwal",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "gadwal",
-      "distance": 60.937508337855895
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Tiptur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tiptur",
-      "distance": 65.99423315677538
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mandi",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "mandi",
-      "distance": 83.81879326419762
-    },
-    {
-      "city": "Cuddapah",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "cuddapah",
-      "distance": 84.30418913570398
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttexbjq",
-  "geohashUrl": "https://geohash.softeng.co/ttexbjq"
+  ]
 }

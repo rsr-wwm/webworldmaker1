@@ -5,7 +5,6 @@
   "stateSlug": "himachal-pradesh",
   "citySlug": "una",
   "country": "India",
-  "pincode": "174303",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.143,
-  "longitude": 70.7033,
-  "landmark": "Una District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Una, India",
   "population": 3474490,
   "mobileUsers": 2525954,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Hill top",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "hill-top",
-      "distance": 53.42280183328289
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Shatchand",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "shatchand",
-      "distance": 66.4526251847785
-    },
-    {
-      "city": "Kanjirapally",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kanjirapally",
-      "distance": 90.49018904999814
-    },
-    {
-      "city": "Hamirpur",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "hamirpur",
-      "distance": 118.51926594737279
-    },
-    {
-      "city": "Palghar",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "palghar",
-      "distance": 133.2193359415826
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts632gh",
-  "geohashUrl": "https://geohash.softeng.co/ts632gh"
+  ]
 }

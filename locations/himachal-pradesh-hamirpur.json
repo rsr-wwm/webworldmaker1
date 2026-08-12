@@ -5,7 +5,6 @@
   "stateSlug": "himachal-pradesh",
   "citySlug": "hamirpur",
   "country": "India",
-  "pincode": "177001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.0807,
-  "longitude": 71.2607,
-  "landmark": "Hamirpur Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Hamirpur, India",
   "population": 4142507,
   "mobileUsers": 3028172,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Hill top",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "hill-top",
-      "distance": 69.43213958008687
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sivakasi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "sivakasi",
-      "distance": 74.07016136044125
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chengalpattu",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "chengalpattu",
-      "distance": 75.13249011177199
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Ampinagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "ampinagar",
-      "distance": 93.73669723608717
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Hanumangarh Junction",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "hanumangarh-junction",
-      "distance": 95.81210029833885
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts6wttf",
-  "geohashUrl": "https://geohash.softeng.co/ts6wttf"
+  ]
 }

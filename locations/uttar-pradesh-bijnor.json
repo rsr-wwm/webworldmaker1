@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "bijnor",
   "country": "India",
-  "pincode": "246701",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.1594,
-  "longitude": 73.1203,
-  "landmark": "Bijnor Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bijnor, India",
   "population": 7960045,
   "mobileUsers": 6105354,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Athgarh",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "athgarh",
-      "distance": 21.76127212631862
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Belgharia",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "belgharia",
-      "distance": 22.174271369643627
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kavali",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kavali",
-      "distance": 35.133463130530984
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kasaragod",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kasaragod",
-      "distance": 59.44450305136792
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Thuraiyur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thuraiyur",
-      "distance": 96.572134282189
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td5vpvs",
-  "geohashUrl": "https://geohash.softeng.co/td5vpvs"
+  ]
 }

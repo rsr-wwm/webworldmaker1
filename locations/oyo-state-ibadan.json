@@ -5,7 +5,6 @@
   "stateSlug": "oyo-state",
   "citySlug": "ibadan",
   "country": "Nigeria",
-  "pincode": "200001",
   "currency": "NGN",
   "symbol": "₦",
   "compliance": "NCC Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+234",
   "timezone": "Africa/Lagos",
-  "latitude": 10.0066,
-  "longitude": 7.9493,
-  "landmark": "Ibadan Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Airtel, Globacom, 9mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ibadan, Nigeria",
   "population": 828750,
@@ -45,38 +41,19 @@
       "city": "Port Harcourt",
       "state": "Rivers State",
       "stateSlug": "rivers-state",
-      "citySlug": "port-harcourt",
-      "distance": 9.838541961263852
-    },
-    {
-      "city": "Lagos",
-      "state": "Lagos State",
-      "stateSlug": "lagos-state",
-      "citySlug": "lagos",
-      "distance": 15.622011068710943
+      "citySlug": "port-harcourt"
     },
     {
       "city": "Kano",
       "state": "Kano State",
       "stateSlug": "kano-state",
-      "citySlug": "kano",
-      "distance": 19.614887507648373
+      "citySlug": "kano"
     },
     {
-      "city": "Porto-Novo",
-      "state": "Oueme Department",
-      "stateSlug": "oueme-department",
-      "citySlug": "porto-novo",
-      "distance": 614.8394840501188
-    },
-    {
-      "city": "Douala",
-      "state": "Littoral Region",
-      "stateSlug": "littoral-region",
-      "citySlug": "douala",
-      "distance": 615.746557292654
+      "city": "Lagos",
+      "state": "Lagos State",
+      "stateSlug": "lagos-state",
+      "citySlug": "lagos"
     }
-  ],
-  "geohash": "s1v8uvs",
-  "geohashUrl": "https://geohash.softeng.co/s1v8uvs"
+  ]
 }

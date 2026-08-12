@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "tiruchendur",
   "country": "India",
-  "pincode": "628215",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.6412,
-  "longitude": 73.5157,
-  "landmark": "Tiruchendur Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Tiruchendur, India",
   "population": 5152375,
   "mobileUsers": 3853976,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kathali",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kathali",
-      "distance": 34.50446898685165
-    },
-    {
-      "city": "Vela",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "vela",
-      "distance": 43.597172803300516
-    },
-    {
-      "city": "Palakol",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "palakol",
-      "distance": 74.18502009349825
-    },
-    {
-      "city": "Banswara",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "banswara",
-      "distance": 82.82896747570449
-    },
-    {
-      "city": "Chhaindwara",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "chhaindwara",
-      "distance": 83.64400592465859
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdu2bzk",
-  "geohashUrl": "https://geohash.softeng.co/tdu2bzk"
+  ]
 }

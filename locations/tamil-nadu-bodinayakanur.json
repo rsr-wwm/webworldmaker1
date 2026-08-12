@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "bodinayakanur",
   "country": "India",
-  "pincode": "625513",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.9053,
-  "longitude": 68.8046,
-  "landmark": "Bodinayakanur Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bodinayakanur, India",
   "population": 7905462,
   "mobileUsers": 5857947,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nangthumai",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "nangthumai",
-      "distance": 24.93697750415842
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Margo",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "margo",
-      "distance": 54.009075368438715
+      "citySlug": "nagpur"
     },
     {
-      "city": "Asansol",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "asansol",
-      "distance": 56.11065998217268
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Hubli",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hubli",
-      "distance": 78.56442710557563
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Shillong G.P.O",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "shillong-gpo",
-      "distance": 110.6042284767583
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsbyv8j",
-  "geohashUrl": "https://geohash.softeng.co/tsbyv8j"
+  ]
 }

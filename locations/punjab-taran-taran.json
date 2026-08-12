@@ -5,7 +5,6 @@
   "stateSlug": "punjab",
   "citySlug": "taran-taran",
   "country": "India",
-  "pincode": "143401",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.044,
-  "longitude": 83.697,
-  "landmark": "Taran Taran Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Taran Taran, India",
   "population": 1245557,
   "mobileUsers": 905519,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Aurangabad",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "aurangabad",
-      "distance": 35.380527883385206
-    },
-    {
-      "city": "New Delhi",
-      "state": "Delhi",
-      "stateSlug": "delhi",
-      "citySlug": "new-delhi",
-      "distance": 48.768277086099474
-    },
-    {
-      "city": "Hindaun",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "hindaun",
-      "distance": 58.72161740362556
-    },
-    {
-      "city": "Nalbari",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "nalbari",
-      "distance": 66.77270749245538
-    },
-    {
-      "city": "Raigarh",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "raigarh",
-      "distance": 69.57715046810205
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi"
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     }
-  ],
-  "geohash": "tf7d0wd",
-  "geohashUrl": "https://geohash.softeng.co/tf7d0wd"
+  ]
 }

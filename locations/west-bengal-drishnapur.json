@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "drishnapur",
   "country": "India",
-  "pincode": "741101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.4954,
-  "longitude": 79.8966,
-  "landmark": "Drishnapur GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Drishnapur, India",
   "population": 7300587,
   "mobileUsers": 5271023,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Basirhat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "basirhat",
-      "distance": 47.327889238844534
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bettaih",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bettaih",
-      "distance": 49.97674897824925
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kadamtala",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kadamtala",
-      "distance": 85.94409726779749
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Gaya",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "gaya",
-      "distance": 99.3955367959968
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Dehradun Cantt.",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "dehradun-cantt",
-      "distance": 101.86498342422887
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf8f6nf",
-  "geohashUrl": "https://geohash.softeng.co/tf8f6nf"
+  ]
 }

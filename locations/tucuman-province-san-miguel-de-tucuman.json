@@ -5,7 +5,6 @@
   "stateSlug": "tucuman-province",
   "citySlug": "san-miguel-de-tucuman",
   "country": "Argentina",
-  "pincode": "T4000",
   "currency": "ARS",
   "symbol": "$",
   "compliance": "ENACOM Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+54",
   "timezone": "America/Argentina/Buenos_Aires",
-  "latitude": -34.0674,
-  "longitude": -64.048,
-  "landmark": "San Miguel de Tucuman GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Personal networks. Failovers route over Movistar, Claro with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for San Miguel de Tucuman, Argentina",
   "population": 781789,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "ENACOM Regulations & Data Privacy compliance",
   "nearbyLocations": [
     {
-      "city": "Buenos Aires",
-      "state": "Capital Federal",
-      "stateSlug": "capital-federal",
-      "citySlug": "buenos-aires",
-      "distance": 8.942355474331299
+      "city": "Mendoza",
+      "state": "Mendoza Province",
+      "stateSlug": "mendoza-province",
+      "citySlug": "mendoza"
     },
     {
       "city": "Cordoba",
       "state": "Cordoba Province",
       "stateSlug": "cordoba-province",
-      "citySlug": "cordoba",
-      "distance": 9.823207132223482
-    },
-    {
-      "city": "Mendoza",
-      "state": "Mendoza Province",
-      "stateSlug": "mendoza-province",
-      "citySlug": "mendoza",
-      "distance": 16.37841025496774
+      "citySlug": "cordoba"
     },
     {
       "city": "Rosario",
       "state": "Santa Fe Province",
       "stateSlug": "santa-fe-province",
-      "citySlug": "rosario",
-      "distance": 19.82854567082327
+      "citySlug": "rosario"
     },
     {
-      "city": "Montevideo",
-      "state": "Montevideo Department",
-      "stateSlug": "montevideo-department",
-      "citySlug": "montevideo",
-      "distance": 751.6593648443001
+      "city": "Buenos Aires",
+      "state": "Capital Federal",
+      "stateSlug": "capital-federal",
+      "citySlug": "buenos-aires"
     }
-  ],
-  "geohash": "69fqnw1",
-  "geohashUrl": "https://geohash.softeng.co/69fqnw1"
+  ]
 }

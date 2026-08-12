@@ -5,7 +5,6 @@
   "stateSlug": "haifa-district",
   "citySlug": "haifa",
   "country": "Israel",
-  "pincode": "31000",
   "currency": "ILS",
   "symbol": "₪",
   "compliance": "MOC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+972",
   "timezone": "Asia/Jerusalem",
-  "latitude": 31.4165,
-  "longitude": 34.7778,
-  "landmark": "Haifa Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Cellcom networks. Failovers route over Partner, Pelephone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Haifa, Israel",
   "population": 2470933,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Jerusalem",
-      "state": "Jerusalem District",
-      "stateSlug": "jerusalem-district",
-      "citySlug": "jerusalem",
-      "distance": 17.774818385290967
-    },
-    {
       "city": "Ashdod",
       "state": "Southern District",
       "stateSlug": "southern-district",
-      "citySlug": "ashdod",
-      "distance": 29.48281183174722
+      "citySlug": "ashdod"
     },
     {
       "city": "Tel Aviv",
       "state": "Tel Aviv District",
       "stateSlug": "tel-aviv-district",
-      "citySlug": "tel-aviv",
-      "distance": 31.040678283145333
+      "citySlug": "tel-aviv"
     },
     {
-      "city": "Ramallah",
-      "state": "West Bank",
-      "stateSlug": "west-bank",
-      "citySlug": "ramallah",
-      "distance": 74.9085958050759
-    },
-    {
-      "city": "Aqaba",
-      "state": "Aqaba Governorate",
-      "stateSlug": "aqaba-governorate",
-      "citySlug": "aqaba",
-      "distance": 113.95758564367287
+      "city": "Jerusalem",
+      "state": "Jerusalem District",
+      "stateSlug": "jerusalem-district",
+      "citySlug": "jerusalem"
     }
-  ],
-  "geohash": "sv8dxrh",
-  "geohashUrl": "https://geohash.softeng.co/sv8dxrh"
+  ]
 }

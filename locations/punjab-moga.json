@@ -5,7 +5,6 @@
   "stateSlug": "punjab",
   "citySlug": "moga",
   "country": "India",
-  "pincode": "142001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.2836,
-  "longitude": 78.6397,
-  "landmark": "Moga Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Moga, India",
   "population": 8577855,
   "mobileUsers": 6381924,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chinchbunder",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "chinchbunder",
-      "distance": 41.71047362327343
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bokshanagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "bokshanagar",
-      "distance": 61.99113108455856
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Sugumu",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "sugumu",
-      "distance": 84.56045925728895
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi"
     },
     {
-      "city": "Kala pahad",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "kala-pahad",
-      "distance": 88.03669355123503
-    },
-    {
-      "city": "Namakkal",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "namakkal",
-      "distance": 101.5358831741431
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     }
-  ],
-  "geohash": "terbj2r",
-  "geohashUrl": "https://geohash.softeng.co/terbj2r"
+  ]
 }

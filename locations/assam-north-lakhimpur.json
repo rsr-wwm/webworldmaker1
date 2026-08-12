@@ -5,7 +5,6 @@
   "stateSlug": "assam",
   "citySlug": "north-lakhimpur",
   "country": "India",
-  "pincode": "787001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.9626,
-  "longitude": 72.8482,
-  "landmark": "North Lakhimpur Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for North Lakhimpur, India",
   "population": 4721631,
   "mobileUsers": 3555388,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Pune",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "pune",
-      "distance": 23.145257810468678
+      "citySlug": "nagpur"
     },
     {
-      "city": "Peddapalli",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "peddapalli",
-      "distance": 58.07063624972565
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Khairatabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "khairatabad",
-      "distance": 92.36742568817999
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Quilandy",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "quilandy",
-      "distance": 98.48516343027326
-    },
-    {
-      "city": "Ranipet",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "ranipet",
-      "distance": 105.56358589208972
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsgz1dq",
-  "geohashUrl": "https://geohash.softeng.co/tsgz1dq"
+  ]
 }

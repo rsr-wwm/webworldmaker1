@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "ghatkoper-east",
   "country": "India",
-  "pincode": "400086",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.0132,
-  "longitude": 82.5538,
-  "landmark": "Ghatkoper East Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ghatkoper East, India",
   "population": 8139810,
   "mobileUsers": 6218814,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mohripur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "mohripur",
-      "distance": 45.95446230198232
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ampati",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "ampati",
-      "distance": 69.41020288362995
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tenali",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tenali",
-      "distance": 70.94716288243977
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kangra",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "kangra",
-      "distance": 73.06586533347019
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bharatpur City",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bharatpur-city",
-      "distance": 87.19330761401567
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu4dyt3",
-  "geohashUrl": "https://geohash.softeng.co/tu4dyt3"
+  ]
 }

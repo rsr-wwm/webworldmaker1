@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "karaikudi",
   "country": "India",
-  "pincode": "630001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.1153,
-  "longitude": 72.4518,
-  "landmark": "Karaikudi Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Karaikudi, India",
   "population": 8868878,
   "mobileUsers": 6758085,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shamli",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "shamli",
-      "distance": 53.71168692742359
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Shimoga",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "shimoga",
-      "distance": 82.59136528233186
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kasavali",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "kasavali",
-      "distance": 84.82509603697034
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Campwell Bay",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "campwell-bay",
-      "distance": 90.24287987986573
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Lamphelpat",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "lamphelpat",
-      "distance": 102.74873703438725
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td7d8et",
-  "geohashUrl": "https://geohash.softeng.co/td7d8et"
+  ]
 }

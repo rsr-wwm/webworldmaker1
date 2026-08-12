@@ -5,7 +5,6 @@
   "stateSlug": "orissa",
   "citySlug": "bhubaneswar-gpo",
   "country": "India",
-  "pincode": "751001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "post_office",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.003,
-  "longitude": 84.6577,
-  "landmark": "Bhubaneswar District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bhubaneswar G.P.O, India",
   "population": 28575,
   "mobileUsers": 21459,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rajnandgaon",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "rajnandgaon",
-      "distance": 40.24725828872539
+      "citySlug": "bhopal"
     },
     {
-      "city": "Shajapur",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "shajapur",
-      "distance": 64.9788339615909
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bagalkot",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bagalkot",
-      "distance": 72.02830564961373
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Agartala G.P.O",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "agartala-gpo",
-      "distance": 98.84717389313974
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Saiha",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "saiha",
-      "distance": 107.60183322191504
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgkhn7m",
-  "geohashUrl": "https://geohash.softeng.co/tgkhn7m"
+  ]
 }

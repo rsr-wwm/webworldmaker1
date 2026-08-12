@@ -7,7 +7,7 @@ Custom Shopify, Magento, and Headless e-commerce development with ERP, CRM, and 
 Build a fast, scalable online store. We design and build enterprise e-commerce platforms using Shopify Plus, Magento, or modern Headless architectures. Our stores load in under 1 second, feature custom checkouts, and integrate directly with your ERP, CRM, and inventory systems.
 
 Key features:
-- Headless Architecture: Separate backend database from frontend design for fast load speeds. Sub-second load times.
+- Headless Architecture: Separate backend database from frontend design for fast load speeds. low-latency load times.
 - ERP & Inventory Sync: Real-time stock updates across stores and warehouses. Zero duplicate sales.
 - Custom Checkout Loops: Streamlined, secure checkout forms. Higher sales conversions.
 - Localization Engine: Multi-currency, multi-language, and local shipping integrations. Global scaling.
@@ -21,7 +21,7 @@ Q: Can you migrate our store data without losing history?
 A: Yes. We migrate all products, clients, and transaction histories securely without affecting active store operations.
 
 Q: What does the "Headless Architecture" capability include?
-A: Separate backend database from frontend design for fast load speeds. The benefit: sub-second load times.
+A: Separate backend database from frontend design for fast load speeds. The benefit: low-latency load times.
 
 Q: What does the "ERP & Inventory Sync" capability include?
 A: Real-time stock updates across stores and warehouses. The benefit: zero duplicate sales.

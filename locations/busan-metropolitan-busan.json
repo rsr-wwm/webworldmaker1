@@ -5,7 +5,6 @@
   "stateSlug": "busan-metropolitan",
   "citySlug": "busan",
   "country": "South Korea",
-  "pincode": "48900",
   "currency": "KRW",
   "symbol": "₩",
   "compliance": "KCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+82",
   "timezone": "Asia/Seoul",
-  "latitude": 36.922,
-  "longitude": 127.6581,
-  "landmark": "Busan Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over SK Telecom networks. Failovers route over KT, LG Uplus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Busan, South Korea",
   "population": 778377,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Suwon",
-      "state": "Gyeonggi",
-      "stateSlug": "gyeonggi",
-      "citySlug": "suwon",
-      "distance": 2.336524535082885
-    },
-    {
-      "city": "Cheongju",
-      "state": "Chungbuk",
-      "stateSlug": "chungbuk",
-      "citySlug": "cheongju",
-      "distance": 3.2424050321469364
-    },
-    {
-      "city": "Gwangju",
-      "state": "Honam",
-      "stateSlug": "honam",
-      "citySlug": "gwangju",
-      "distance": 4.713877376369583
+      "city": "Daegu",
+      "state": "Yeongnam",
+      "stateSlug": "yeongnam",
+      "citySlug": "daegu"
     },
     {
       "city": "Daejeon",
       "state": "Hoseo",
       "stateSlug": "hoseo",
-      "citySlug": "daejeon",
-      "distance": 6.353574415857766
+      "citySlug": "daejeon"
     },
     {
-      "city": "Daegu",
+      "city": "Gwangju",
+      "state": "Honam",
+      "stateSlug": "honam",
+      "citySlug": "gwangju"
+    },
+    {
+      "city": "Ulsan",
       "state": "Yeongnam",
       "stateSlug": "yeongnam",
-      "citySlug": "daegu",
-      "distance": 8.59307921195657
+      "citySlug": "ulsan"
+    },
+    {
+      "city": "Suwon",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "suwon"
     }
-  ],
-  "geohash": "wydf0cm",
-  "geohashUrl": "https://geohash.softeng.co/wydf0cm"
+  ]
 }

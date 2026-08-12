@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "howrah",
   "country": "India",
-  "pincode": "711101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.6171,
-  "longitude": 84.6135,
-  "landmark": "Howrah Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Howrah, India",
   "population": 5437197,
   "mobileUsers": 4202953,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kayamkulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kayamkulam",
-      "distance": 73.92968759579887
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Haldwani",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "haldwani",
-      "distance": 78.52730358964236
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kothgudem Collieries",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kothgudem-collieries",
-      "distance": 78.6529563466229
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Gokak",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "gokak",
-      "distance": 86.51754145354138
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Valsad",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "valsad",
-      "distance": 89.92120440780272
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcuhmkv",
-  "geohashUrl": "https://geohash.softeng.co/tcuhmkv"
+  ]
 }

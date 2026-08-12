@@ -5,7 +5,6 @@
   "stateSlug": "astana-region",
   "citySlug": "astana",
   "country": "Kazakhstan",
-  "pincode": "010000",
   "currency": "KZT",
   "symbol": "₸",
   "compliance": "ICRIAP Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+7",
   "timezone": "Asia/Almaty",
-  "latitude": 48.0706,
-  "longitude": 67.8056,
-  "landmark": "Astana Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Kcell networks. Failovers route over Beeline, Tele2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Astana, Kazakhstan",
   "population": 3043914,
@@ -44,38 +40,13 @@
       "city": "Shymkent",
       "state": "Shymkent Region",
       "stateSlug": "shymkent-region",
-      "citySlug": "shymkent",
-      "distance": 22.796307322333313
+      "citySlug": "shymkent"
     },
     {
       "city": "Almaty",
       "state": "Almaty Region",
       "stateSlug": "almaty-region",
-      "citySlug": "almaty",
-      "distance": 30.30323216681236
-    },
-    {
-      "city": "Tashkent",
-      "state": "Tashkent City",
-      "stateSlug": "tashkent-city",
-      "citySlug": "tashkent",
-      "distance": 820.5733712030371
-    },
-    {
-      "city": "Samarkand",
-      "state": "Samarkand Region",
-      "stateSlug": "samarkand-region",
-      "citySlug": "samarkand",
-      "distance": 833.2088123701574
-    },
-    {
-      "city": "Bishkek",
-      "state": "Chuy Region",
-      "stateSlug": "chuy-region",
-      "citySlug": "bishkek",
-      "distance": 968.7282711775489
+      "citySlug": "almaty"
     }
-  ],
-  "geohash": "v881qyy",
-  "geohashUrl": "https://geohash.softeng.co/v881qyy"
+  ]
 }

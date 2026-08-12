@@ -5,7 +5,6 @@
   "stateSlug": "uusimaa",
   "citySlug": "helsinki",
   "country": "Finland",
-  "pincode": "00100",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / Traficom",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+358",
   "timezone": "Europe/Helsinki",
-  "latitude": 64.1958,
-  "longitude": 26.1446,
-  "landmark": "Helsinki Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Elisa networks. Failovers route over Telia, DNA with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Helsinki, Finland",
   "population": 2830199,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Espoo",
-      "state": "Uusimaa",
-      "stateSlug": "uusimaa",
-      "citySlug": "espoo",
-      "distance": 12.992774646258349
+      "city": "Tampere",
+      "state": "Pirkanmaa",
+      "stateSlug": "pirkanmaa",
+      "citySlug": "tampere"
     },
     {
       "city": "Turku",
       "state": "Southwest Finland",
       "stateSlug": "southwest-finland",
-      "citySlug": "turku",
-      "distance": 31.14150747814098
+      "citySlug": "turku"
+    },
+    {
+      "city": "Espoo",
+      "state": "Uusimaa",
+      "stateSlug": "uusimaa",
+      "citySlug": "espoo"
     },
     {
       "city": "Vantaa",
       "state": "Uusimaa",
       "stateSlug": "uusimaa",
-      "citySlug": "vantaa",
-      "distance": 40.44075890223263
-    },
-    {
-      "city": "Tampere",
-      "state": "Pirkanmaa",
-      "stateSlug": "pirkanmaa",
-      "citySlug": "tampere",
-      "distance": 42.21519444801048
-    },
-    {
-      "city": "Narva",
-      "state": "Ida-Viru County",
-      "stateSlug": "ida-viru-county",
-      "citySlug": "narva",
-      "distance": 557.3586216220065
+      "citySlug": "vantaa"
     }
-  ],
-  "geohash": "ue6t4ym",
-  "geohashUrl": "https://geohash.softeng.co/ue6t4ym"
+  ]
 }

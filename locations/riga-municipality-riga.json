@@ -5,7 +5,6 @@
   "stateSlug": "riga-municipality",
   "citySlug": "riga",
   "country": "Latvia",
-  "pincode": "LV-1050",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / SPRK",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+371",
   "timezone": "Europe/Riga",
-  "latitude": 57.034,
-  "longitude": 24.8582,
-  "landmark": "Riga GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over LMT networks. Failovers route over Tele2, Bite with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Riga, Latvia",
   "population": 4826259,
@@ -44,38 +40,7 @@
       "city": "Liepaja",
       "state": "Courland",
       "stateSlug": "courland",
-      "citySlug": "liepaja",
-      "distance": 14.206149752594285
-    },
-    {
-      "city": "Vilnius",
-      "state": "Vilnius District",
-      "stateSlug": "vilnius-district",
-      "citySlug": "vilnius",
-      "distance": 120.80308000648698
-    },
-    {
-      "city": "Klaipeda",
-      "state": "Klaipeda County",
-      "stateSlug": "klaipeda-county",
-      "citySlug": "klaipeda",
-      "distance": 128.82164714275348
-    },
-    {
-      "city": "Kaunas",
-      "state": "Kaunas County",
-      "stateSlug": "kaunas-county",
-      "citySlug": "kaunas",
-      "distance": 134.08465609852504
-    },
-    {
-      "city": "Siauliai",
-      "state": "Siauliai County",
-      "stateSlug": "siauliai-county",
-      "citySlug": "siauliai",
-      "distance": 136.7650459986107
+      "citySlug": "liepaja"
     }
-  ],
-  "geohash": "ud1smwt",
-  "geohashUrl": "https://geohash.softeng.co/ud1smwt"
+  ]
 }

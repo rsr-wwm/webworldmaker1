@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "ranipet",
   "country": "India",
-  "pincode": "632401",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.4073,
-  "longitude": 73.7998,
-  "landmark": "Ranipet Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ranipet, India",
   "population": 6579905,
   "mobileUsers": 4757271,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rajapalayam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "rajapalayam",
-      "distance": 43.29445099426772
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mawphlang",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "mawphlang",
-      "distance": 91.79101310674402
-    },
-    {
-      "city": "Pune",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "pune",
-      "distance": 94.83795963138708
+      "citySlug": "nagpur"
     },
     {
-      "city": "Rohtak",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "rohtak",
-      "distance": 99.2854462980323
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "North Lakhimpur",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "north-lakhimpur",
-      "distance": 105.56358589208972
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tth3x77",
-  "geohashUrl": "https://geohash.softeng.co/tth3x77"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "mumbai",
   "country": "India",
-  "pincode": "400001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.8532,
-  "longitude": 69.0409,
-  "landmark": "Mumbai GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mumbai, India",
   "population": 4926945,
   "mobileUsers": 3759259,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Manamadurai",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "manamadurai",
-      "distance": 16.183930448120336
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Krishnagiri",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "krishnagiri",
-      "distance": 37.30512559446498
-    },
-    {
-      "city": "Kovvur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kovvur",
-      "distance": 66.92127358139689
-    },
-    {
-      "city": "Paratwada",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "paratwada",
-      "distance": 72.11852282633049
+      "citySlug": "nagpur"
     },
     {
-      "city": "Melakaveri",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "melakaveri",
-      "distance": 76.09200418590827
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
+    },
+    {
+      "city": "Bangalore (Bengaluru)",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bangalore-bengaluru"
     }
-  ],
-  "geohash": "tdcpgh4",
-  "geohashUrl": "https://geohash.softeng.co/tdcpgh4"
+  ]
 }

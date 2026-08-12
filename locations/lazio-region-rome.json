@@ -5,7 +5,6 @@
   "stateSlug": "lazio-region",
   "citySlug": "rome",
   "country": "Italy",
-  "pincode": "00187",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / AGCOM",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+39",
   "timezone": "Europe/Rome",
-  "latitude": 43.0327,
-  "longitude": 12.8711,
-  "landmark": "Rome Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over WindTre networks. Failovers route over TIM, Vodafone, iliad with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Rome, Italy",
   "population": 1518098,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Venice",
-      "state": "Veneto",
-      "stateSlug": "veneto",
-      "citySlug": "venice",
-      "distance": 5.803228768313298
+      "city": "Bologna",
+      "state": "Emilia-Romagna",
+      "stateSlug": "emilia-romagna",
+      "citySlug": "bologna"
     },
     {
-      "city": "Genoa",
-      "state": "Liguria",
-      "stateSlug": "liguria",
-      "citySlug": "genoa",
-      "distance": 8.333430852729084
+      "city": "Bari",
+      "state": "Apulia",
+      "stateSlug": "apulia",
+      "citySlug": "bari"
     },
     {
       "city": "Milan",
       "state": "Lombardy",
       "stateSlug": "lombardy",
-      "citySlug": "milan",
-      "distance": 10.342730969486029
-    },
-    {
-      "city": "Naples",
-      "state": "Campania",
-      "stateSlug": "campania",
-      "citySlug": "naples",
-      "distance": 12.281383133396993
+      "citySlug": "milan"
     },
     {
       "city": "Turin",
       "state": "Piedmont",
       "stateSlug": "piedmont",
-      "citySlug": "turin",
-      "distance": 16.646553297771806
+      "citySlug": "turin"
+    },
+    {
+      "city": "Venice",
+      "state": "Veneto",
+      "stateSlug": "veneto",
+      "citySlug": "venice"
     }
-  ],
-  "geohash": "sr9hucu",
-  "geohashUrl": "https://geohash.softeng.co/sr9hucu"
+  ]
 }

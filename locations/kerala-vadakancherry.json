@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "vadakancherry",
   "country": "India",
-  "pincode": "680582",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.3744,
-  "longitude": 81.0782,
-  "landmark": "Vadakancherry State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Vadakancherry, India",
   "population": 6427816,
   "mobileUsers": 4975129,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Baramulla",
-      "state": "Jammu & Kashmir",
-      "stateSlug": "jammu-and-kashmir",
-      "citySlug": "baramulla",
-      "distance": 50.79245034365564
-    },
-    {
-      "city": "Sattenapalle",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "sattenapalle",
-      "distance": 62.33021145448413
-    },
-    {
-      "city": "Chandrapur",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "chandrapur",
-      "distance": 68.97592398307859
-    },
-    {
-      "city": "Bilaspur",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "bilaspur",
-      "distance": 75.02293487393925
-    },
-    {
-      "city": "Chhatarpur City",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "chhatarpur-city",
-      "distance": 79.45319387699057
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv9dkzx",
-  "geohashUrl": "https://geohash.softeng.co/tv9dkzx"
+  ]
 }

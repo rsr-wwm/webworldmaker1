@@ -5,7 +5,6 @@
   "stateSlug": "sermersooq",
   "citySlug": "nuuk",
   "country": "Greenland",
-  "pincode": "3900",
   "currency": "DKK",
   "symbol": "kr.",
   "compliance": "GDPR Guidelines",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+299",
   "timezone": "America/Danmarkshavn",
-  "latitude": 71.9968,
-  "longitude": -40.1092,
-  "landmark": "Nuuk State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Tusass networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Nuuk, Greenland",
   "population": 2404509,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Reykjavik",
-      "state": "Capital Region",
-      "stateSlug": "capital-region",
-      "citySlug": "reykjavik",
-      "distance": 1158.2093497981004
-    },
-    {
-      "city": "Liverpool",
-      "state": "Merseyside",
-      "stateSlug": "merseyside",
-      "citySlug": "liverpool",
-      "distance": 2295.0969021312194
-    },
-    {
-      "city": "Trondheim",
-      "state": "Trøndelag",
-      "stateSlug": "trondelag",
-      "citySlug": "trondheim",
-      "distance": 2334.495263854664
-    },
-    {
-      "city": "Glasgow",
-      "state": "Scotland",
-      "stateSlug": "scotland",
-      "citySlug": "glasgow",
-      "distance": 2341.006346413484
-    },
-    {
-      "city": "Oslo",
-      "state": "Oslo County",
-      "stateSlug": "oslo-county",
-      "citySlug": "oslo",
-      "distance": 2341.2742877093683
-    }
-  ],
-  "geohash": "ghg3x69",
-  "geohashUrl": "https://geohash.softeng.co/ghg3x69"
+  "nearbyLocations": []
 }

@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "upper-shillong",
   "country": "India",
-  "pincode": "793005",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.4836,
-  "longitude": 80.0959,
-  "landmark": "Upper Shillong Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Upper Shillong, India",
   "population": 1005151,
   "mobileUsers": 760899,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tuipang",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "tuipang",
-      "distance": 70.43415380366164
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bhadravathi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bhadravathi",
-      "distance": 98.57213535965438
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Serampore",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "serampore",
-      "distance": 99.22394285515533
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Basti",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "basti",
-      "distance": 113.54243361577906
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Sagar (Shinoga)",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "sagar-shinoga",
-      "distance": 119.72997593153592
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfbvy8s",
-  "geohashUrl": "https://geohash.softeng.co/tfbvy8s"
+  ]
 }

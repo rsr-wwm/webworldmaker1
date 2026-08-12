@@ -5,7 +5,6 @@
   "stateSlug": "goa",
   "citySlug": "santacruz",
   "country": "India",
-  "pincode": "403005",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.8119,
-  "longitude": 85.3952,
-  "landmark": "Santacruz Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Santacruz, India",
   "population": 9624212,
   "mobileUsers": 7006426,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Gondia",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "gondia",
-      "distance": 69.19136798724728
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kozhikode",
-      "distance": 70.28627941691182
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kallakurichi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "kallakurichi",
-      "distance": 83.95529932297146
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Pali",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "pali",
-      "distance": 101.53832720295222
-    },
-    {
-      "city": "Ghaziabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "ghaziabad",
-      "distance": 103.27177521630782
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuuwppn",
-  "geohashUrl": "https://geohash.softeng.co/tuuwppn"
+  ]
 }

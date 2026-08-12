@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "ernakulam",
   "country": "India",
-  "pincode": "682011",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.3731,
-  "longitude": 80.8229,
-  "landmark": "Ernakulam Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ernakulam, India",
   "population": 3254386,
   "mobileUsers": 2518894,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tirupati",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tirupati",
-      "distance": 51.86046047016596
-    },
-    {
-      "city": "Tiruthuraipundi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruthuraipundi",
-      "distance": 54.412311871915435
-    },
-    {
-      "city": "Ratlam",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "ratlam",
-      "distance": 59.10701147567129
+      "citySlug": "bhopal"
     },
     {
-      "city": "Phenk",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "phenk",
-      "distance": 73.43004725878832
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Panna",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "panna",
-      "distance": 101.26844016443573
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf1qrhm",
-  "geohashUrl": "https://geohash.softeng.co/tf1qrhm"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "florida",
   "citySlug": "orlando",
   "country": "United States",
-  "pincode": "32801",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 305",
   "timezone": "America/New_York",
-  "latitude": 32.641,
-  "longitude": -104.3835,
-  "landmark": "Orlando Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Orlando, United States",
   "population": 1997178,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Rochester",
-      "state": "New York",
-      "stateSlug": "new-york",
-      "citySlug": "rochester",
-      "distance": 484.20960794262567
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Washington, D.C.",
-      "state": "District of Columbia",
-      "stateSlug": "district-of-columbia",
-      "citySlug": "washington-dc",
-      "distance": 560.2582367264555
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Des Moines",
-      "state": "Iowa",
-      "stateSlug": "iowa",
-      "citySlug": "des-moines",
-      "distance": 573.9125345760034
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Portland",
-      "state": "Oregon",
-      "stateSlug": "oregon",
-      "citySlug": "portland",
-      "distance": 582.4454493764996
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Denver",
-      "state": "Colorado",
-      "stateSlug": "colorado",
-      "citySlug": "denver",
-      "distance": 641.1201936630479
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9tvc8wn",
-  "geohashUrl": "https://geohash.softeng.co/9tvc8wn"
+  ]
 }

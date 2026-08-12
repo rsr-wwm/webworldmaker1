@@ -5,7 +5,6 @@
   "stateSlug": "selangor",
   "citySlug": "shah-alam",
   "country": "Malaysia",
-  "pincode": "40000",
   "currency": "MYR",
   "symbol": "RM",
   "compliance": "MCMC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+60",
   "timezone": "Asia/Kuala_Lumpur",
-  "latitude": 2.3394,
-  "longitude": 112.3494,
-  "landmark": "Shah Alam GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Maxis networks. Failovers route over CelcomDigi, U Mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Shah Alam, Malaysia",
   "population": 1975642,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Kuala Lumpur",
-      "state": "Federal Territory",
-      "stateSlug": "federal-territory",
-      "citySlug": "kuala-lumpur",
-      "distance": 3.1591638155657087
+      "city": "Malacca",
+      "state": "Malacca State",
+      "stateSlug": "malacca-state",
+      "citySlug": "malacca"
     },
     {
       "city": "Ipoh",
       "state": "Perak",
       "stateSlug": "perak",
-      "citySlug": "ipoh",
-      "distance": 6.923616835881542
+      "citySlug": "ipoh"
     },
     {
       "city": "Penang",
       "state": "Penang State",
       "stateSlug": "penang-state",
-      "citySlug": "penang",
-      "distance": 16.013979714040786
+      "citySlug": "penang"
     },
     {
       "city": "Johor Bahru",
       "state": "Johor State",
       "stateSlug": "johor-state",
-      "citySlug": "johor-bahru",
-      "distance": 20.35642195619249
+      "citySlug": "johor-bahru"
     },
     {
-      "city": "Malacca",
-      "state": "Malacca State",
-      "stateSlug": "malacca-state",
-      "citySlug": "malacca",
-      "distance": 40.4783712989545
+      "city": "Kuala Lumpur",
+      "state": "Federal Territory",
+      "stateSlug": "federal-territory",
+      "citySlug": "kuala-lumpur"
     }
-  ],
-  "geohash": "w2rvk9f",
-  "geohashUrl": "https://geohash.softeng.co/w2rvk9f"
+  ]
 }

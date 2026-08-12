@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "chilakaluripeta",
   "country": "India",
-  "pincode": "522616",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.4331,
-  "longitude": 69.0925,
-  "landmark": "Chilakaluripeta Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chilakaluripeta, India",
   "population": 9819048,
   "mobileUsers": 7177724,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Murgaon",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "murgaon",
-      "distance": 57.222292630707884
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chickmagalur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chickmagalur",
-      "distance": 100.0038657702488
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kannur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kannur",
-      "distance": 121.55365946103818
-    },
-    {
-      "city": "Kapurthala",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "kapurthala",
-      "distance": 152.02435040559172
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Turiyur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "turiyur",
-      "distance": 152.47443987371292
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t99jsjp",
-  "geohashUrl": "https://geohash.softeng.co/t99jsjp"
+  ]
 }

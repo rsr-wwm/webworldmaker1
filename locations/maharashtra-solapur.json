@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "solapur",
   "country": "India",
-  "pincode": "413001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.9404,
-  "longitude": 83.6497,
-  "landmark": "Solapur Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Solapur, India",
   "population": 3512544,
   "mobileUsers": 2711683,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Pollachi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "pollachi",
-      "distance": 57.248909994107784
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Perumbavoor",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "perumbavoor",
-      "distance": 61.34953128647216
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Atur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "atur",
-      "distance": 72.09617825387316
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Saharsa",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "saharsa",
-      "distance": 73.77505128607787
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Calcutta G.P.O",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "calcutta-gpo",
-      "distance": 92.1522709248444
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv76r6r",
-  "geohashUrl": "https://geohash.softeng.co/tv76r6r"
+  ]
 }

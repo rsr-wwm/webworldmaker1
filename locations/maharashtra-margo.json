@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "margo",
   "country": "India",
-  "pincode": "403601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.287,
-  "longitude": 69.1451,
-  "landmark": "Margo Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Margo, India",
   "population": 6158692,
   "mobileUsers": 4446575,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nangthumai",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "nangthumai",
-      "distance": 41.78227923307372
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bodinayakanur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "bodinayakanur",
-      "distance": 54.009075368438715
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Shillong G.P.O",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "shillong-gpo",
-      "distance": 56.88682534738932
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Hubli",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hubli",
-      "distance": 65.60663362095454
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Hayuliyang",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "hayuliyang",
-      "distance": 77.48676094386383
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt10vmm",
-  "geohashUrl": "https://geohash.softeng.co/tt10vmm"
+  ]
 }

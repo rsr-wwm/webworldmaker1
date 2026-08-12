@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "thodupuzha",
   "country": "India",
-  "pincode": "685584",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.4484,
-  "longitude": 80.4711,
-  "landmark": "Thodupuzha Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Thodupuzha, India",
   "population": 3407053,
   "mobileUsers": 2613209,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Vijaywada",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "vijaywada",
-      "distance": 31.27251723167113
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Palai",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "palai",
-      "distance": 45.27522912754083
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Yonghong",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "yonghong",
-      "distance": 49.783555154237746
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kiphir",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "kiphir",
-      "distance": 74.19150039022891
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bolganj bazar",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bolganj-bazar",
-      "distance": 88.53038789993185
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgc4p0t",
-  "geohashUrl": "https://geohash.softeng.co/tgc4p0t"
+  ]
 }

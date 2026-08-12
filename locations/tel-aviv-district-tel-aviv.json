@@ -5,7 +5,6 @@
   "stateSlug": "tel-aviv-district",
   "citySlug": "tel-aviv",
   "country": "Israel",
-  "pincode": "61000",
   "currency": "ILS",
   "symbol": "₪",
   "compliance": "MOC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+972",
   "timezone": "Asia/Jerusalem",
-  "latitude": 31.6242,
-  "longitude": 34.559,
-  "landmark": "Tel Aviv Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Cellcom networks. Failovers route over Partner, Pelephone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tel Aviv, Israel",
   "population": 2797929,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Ashdod",
-      "state": "Southern District",
-      "stateSlug": "southern-district",
-      "citySlug": "ashdod",
-      "distance": 19.15371803878773
-    },
-    {
       "city": "Haifa",
       "state": "Haifa District",
       "stateSlug": "haifa-district",
-      "citySlug": "haifa",
-      "distance": 31.040678283145333
+      "citySlug": "haifa"
+    },
+    {
+      "city": "Ashdod",
+      "state": "Southern District",
+      "stateSlug": "southern-district",
+      "citySlug": "ashdod"
     },
     {
       "city": "Jerusalem",
       "state": "Jerusalem District",
       "stateSlug": "jerusalem-district",
-      "citySlug": "jerusalem",
-      "distance": 37.114837522337965
-    },
-    {
-      "city": "Ramallah",
-      "state": "West Bank",
-      "stateSlug": "west-bank",
-      "citySlug": "ramallah",
-      "distance": 79.26531006043875
-    },
-    {
-      "city": "Aqaba",
-      "state": "Aqaba Governorate",
-      "stateSlug": "aqaba-governorate",
-      "citySlug": "aqaba",
-      "distance": 143.29122769379924
+      "citySlug": "jerusalem"
     }
-  ],
-  "geohash": "sv8efmj",
-  "geohashUrl": "https://geohash.softeng.co/sv8efmj"
+  ]
 }

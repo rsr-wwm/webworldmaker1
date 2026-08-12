@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "dargamitta",
   "country": "India",
-  "pincode": "524003",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.3271,
-  "longitude": 84.1412,
-  "landmark": "Dargamitta Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dargamitta, India",
   "population": 4129988,
   "mobileUsers": 3184220,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mon",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "mon",
-      "distance": 13.302433281668053
-    },
-    {
-      "city": "Datia",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "datia",
-      "distance": 81.62340806367216
+      "citySlug": "bhopal"
     },
     {
-      "city": "Adur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "adur",
-      "distance": 105.06238597787097
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Pulivendla",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "pulivendla",
-      "distance": 108.03298934644249
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nellore",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nellore",
-      "distance": 109.70382261713125
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg5fddm",
-  "geohashUrl": "https://geohash.softeng.co/tg5fddm"
+  ]
 }

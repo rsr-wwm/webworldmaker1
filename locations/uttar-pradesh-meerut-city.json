@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "meerut-city",
   "country": "India",
-  "pincode": "250002",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.5182,
-  "longitude": 88.3605,
-  "landmark": "Meerut City District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Meerut City, India",
   "population": 9437009,
   "mobileUsers": 6822957,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Longlai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "longlai",
-      "distance": 42.92941735722445
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chaichima",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chaichima",
-      "distance": 53.315744372815814
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Budaun",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "budaun",
-      "distance": 83.74531955437713
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Keonjargarh",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "keonjargarh",
-      "distance": 86.84918849413862
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Nawabganj",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "nawabganj",
-      "distance": 91.61858756343965
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgwudxn",
-  "geohashUrl": "https://geohash.softeng.co/tgwudxn"
+  ]
 }

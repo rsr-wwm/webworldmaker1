@@ -5,7 +5,6 @@
   "stateSlug": "gujarat",
   "citySlug": "godhra",
   "country": "India",
-  "pincode": "389001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 79",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.7292,
-  "longitude": 73.0034,
-  "landmark": "Godhra Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Godhra, India",
   "population": 1844307,
   "mobileUsers": 1429337,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kalpeni",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "kalpeni",
-      "distance": 32.52908651270219
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rayagada",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "rayagada",
-      "distance": 53.0992601159823
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tumkur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tumkur",
-      "distance": 58.345756531075146
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mohanpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "mohanpur",
-      "distance": 81.75307683879406
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Khairatabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "khairatabad",
-      "distance": 86.05596688510884
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsgbj1z",
-  "geohashUrl": "https://geohash.softeng.co/tsgbj1z"
+  ]
 }

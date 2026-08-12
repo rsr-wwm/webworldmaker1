@@ -5,7 +5,6 @@
   "stateSlug": "jammu-and-kashmir",
   "citySlug": "leh",
   "country": "India",
-  "pincode": "194101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.8916,
-  "longitude": 79.3976,
-  "landmark": "Leh Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Leh, India",
   "population": 5130967,
   "mobileUsers": 3709689,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sehore",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "sehore",
-      "distance": 44.20568198076544
+      "citySlug": "bhopal"
     },
     {
-      "city": "Namakkal",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "namakkal",
-      "distance": 48.83974043512813
-    },
-    {
-      "city": "Giribam",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "giribam",
-      "distance": 56.16112776199291
-    },
-    {
-      "city": "Bokshanagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "bokshanagar",
-      "distance": 65.06628827981704
-    },
-    {
-      "city": "Chinchbunder",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "chinchbunder",
-      "distance": 67.25012055232514
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg27qxp",
-  "geohashUrl": "https://geohash.softeng.co/tg27qxp"
+  ]
 }

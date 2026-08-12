@@ -5,7 +5,6 @@
   "stateSlug": "karnataka",
   "citySlug": "sullia",
   "country": "India",
-  "pincode": "574239",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 80",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.8789,
-  "longitude": 79.6543,
-  "landmark": "Sullia GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sullia, India",
   "population": 6892123,
   "mobileUsers": 5238013,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Doimukh",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "doimukh",
-      "distance": 26.540269340079647
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kathua",
-      "state": "Jammu & Kashmir",
-      "stateSlug": "jammu-and-kashmir",
-      "citySlug": "kathua",
-      "distance": 41.07410119545676
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Revdi Bazaar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "revdi-bazaar",
-      "distance": 54.95432499272128
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Darlawn",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "darlawn",
-      "distance": 56.77021679063377
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mamit",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "mamit",
-      "distance": 80.66067198242821
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv0sk94",
-  "geohashUrl": "https://geohash.softeng.co/tv0sk94"
+  ]
 }

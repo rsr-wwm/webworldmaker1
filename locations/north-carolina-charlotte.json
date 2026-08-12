@@ -5,7 +5,6 @@
   "stateSlug": "north-carolina",
   "citySlug": "charlotte",
   "country": "United States",
-  "pincode": "28201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/New_York",
-  "latitude": 41.6027,
-  "longitude": -84.4465,
-  "landmark": "Charlotte State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Charlotte, United States",
   "population": 637650,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Memphis",
-      "state": "Tennessee",
-      "stateSlug": "tennessee",
-      "citySlug": "memphis",
-      "distance": 57.998133358375604
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Windsor",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "windsor",
-      "distance": 143.2451139851566
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Columbus",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "columbus",
-      "distance": 169.49433778707615
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
       "city": "Albuquerque",
       "state": "New Mexico",
       "stateSlug": "new-mexico",
-      "citySlug": "albuquerque",
-      "distance": 205.2997822881681
+      "citySlug": "albuquerque"
     },
     {
-      "city": "New York City",
-      "state": "New York",
-      "stateSlug": "new-york",
-      "citySlug": "new-york-city",
-      "distance": 302.7260121149751
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "dp7uwme",
-  "geohashUrl": "https://geohash.softeng.co/dp7uwme"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "barmihat",
   "country": "India",
-  "pincode": "793101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.6628,
-  "longitude": 74.4312,
-  "landmark": "Barmihat Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Barmihat, India",
   "population": 8898430,
   "mobileUsers": 6842892,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Zunhebato",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "zunhebato",
-      "distance": 6.705158102494508
-    },
-    {
-      "city": "Kamptee",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "kamptee",
-      "distance": 62.45264476478559
-    },
-    {
-      "city": "Shahdol",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "shahdol",
-      "distance": 63.177959969850654
+      "citySlug": "bhopal"
     },
     {
-      "city": "Barrackpore",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barrackpore",
-      "distance": 63.18710237941842
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kothapeta",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kothapeta",
-      "distance": 87.06816637450639
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsszttz",
-  "geohashUrl": "https://geohash.softeng.co/tsszttz"
+  ]
 }

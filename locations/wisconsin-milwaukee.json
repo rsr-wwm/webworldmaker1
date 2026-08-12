@@ -5,7 +5,6 @@
   "stateSlug": "wisconsin",
   "citySlug": "milwaukee",
   "country": "United States",
-  "pincode": "53201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Chicago",
-  "latitude": 26.0662,
-  "longitude": -88.1471,
-  "landmark": "Milwaukee Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Milwaukee, United States",
   "population": 3780988,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Raleigh",
-      "state": "North Carolina",
-      "stateSlug": "north-carolina",
-      "citySlug": "raleigh",
-      "distance": 351.17100525111283
-    },
-    {
-      "city": "Baltimore",
-      "state": "Maryland",
-      "stateSlug": "maryland",
-      "citySlug": "baltimore",
-      "distance": 447.9142633807756
-    },
-    {
       "city": "Birmingham",
       "state": "Alabama",
       "stateSlug": "alabama",
-      "citySlug": "birmingham",
-      "distance": 578.786971752746
+      "citySlug": "birmingham"
     },
     {
-      "city": "Providence",
-      "state": "Rhode Island",
-      "stateSlug": "rhode-island",
-      "citySlug": "providence",
-      "distance": 607.2365894092366
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Chicago",
-      "state": "Illinois",
-      "stateSlug": "illinois",
-      "citySlug": "chicago",
-      "distance": 684.2923964975062
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
+    },
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "dh9k61j",
-  "geohashUrl": "https://geohash.softeng.co/dh9k61j"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "vilnius-district",
   "citySlug": "vilnius",
   "country": "Lithuania",
-  "pincode": "LT-01001",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / RRT",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+370",
   "timezone": "Europe/Vilnius",
-  "latitude": 56.0253,
-  "longitude": 24.1265,
-  "landmark": "Vilnius Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Tele2, Bitė with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Vilnius, Lithuania",
   "population": 3220996,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Klaipeda",
-      "state": "Klaipeda County",
-      "stateSlug": "klaipeda-county",
-      "citySlug": "klaipeda",
-      "distance": 8.138957524550305
-    },
-    {
       "city": "Kaunas",
       "state": "Kaunas County",
       "stateSlug": "kaunas-county",
-      "citySlug": "kaunas",
-      "distance": 14.55832828208132
+      "citySlug": "kaunas"
+    },
+    {
+      "city": "Klaipeda",
+      "state": "Klaipeda County",
+      "stateSlug": "klaipeda-county",
+      "citySlug": "klaipeda"
     },
     {
       "city": "Siauliai",
       "state": "Siauliai County",
       "stateSlug": "siauliai-county",
-      "citySlug": "siauliai",
-      "distance": 16.320705740941737
-    },
-    {
-      "city": "Liepaja",
-      "state": "Courland",
-      "stateSlug": "courland",
-      "citySlug": "liepaja",
-      "distance": 107.09966529289312
-    },
-    {
-      "city": "Riga",
-      "state": "Riga Municipality",
-      "stateSlug": "riga-municipality",
-      "citySlug": "riga",
-      "distance": 120.80308000648698
+      "citySlug": "siauliai"
     }
-  ],
-  "geohash": "u9cntp0",
-  "geohashUrl": "https://geohash.softeng.co/u9cntp0"
+  ]
 }

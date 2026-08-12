@@ -5,7 +5,6 @@
   "stateSlug": "kano-state",
   "citySlug": "kano",
   "country": "Nigeria",
-  "pincode": "700001",
   "currency": "NGN",
   "symbol": "₦",
   "compliance": "NCC Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+234",
   "timezone": "Africa/Lagos",
-  "latitude": 10.1466,
-  "longitude": 7.8403,
-  "landmark": "Kano State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Airtel, Globacom, 9mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kano, Nigeria",
   "population": 1694936,
@@ -45,38 +41,19 @@
       "city": "Port Harcourt",
       "state": "Rivers State",
       "stateSlug": "rivers-state",
-      "citySlug": "port-harcourt",
-      "distance": 18.139382403882298
+      "citySlug": "port-harcourt"
     },
     {
       "city": "Ibadan",
       "state": "Oyo State",
       "stateSlug": "oyo-state",
-      "citySlug": "ibadan",
-      "distance": 19.614887507648373
+      "citySlug": "ibadan"
     },
     {
       "city": "Lagos",
       "state": "Lagos State",
       "stateSlug": "lagos-state",
-      "citySlug": "lagos",
-      "distance": 20.878223289971817
-    },
-    {
-      "city": "Porto-Novo",
-      "state": "Oueme Department",
-      "stateSlug": "oueme-department",
-      "citySlug": "porto-novo",
-      "distance": 604.440686122453
-    },
-    {
-      "city": "Douala",
-      "state": "Littoral Region",
-      "stateSlug": "littoral-region",
-      "citySlug": "douala",
-      "distance": 635.1116484572373
+      "citySlug": "lagos"
     }
-  ],
-  "geohash": "s1v9drj",
-  "geohashUrl": "https://geohash.softeng.co/s1v9drj"
+  ]
 }

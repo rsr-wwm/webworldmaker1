@@ -5,7 +5,6 @@
   "stateSlug": "santiago-metropolitan",
   "citySlug": "santiago",
   "country": "Chile",
-  "pincode": "8320000",
   "currency": "CLP",
   "symbol": "$",
   "compliance": "SUBTEL Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+56",
   "timezone": "America/Punta_Arenas",
-  "latitude": -30.0946,
-  "longitude": -70.873,
-  "landmark": "Santiago GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Entel networks. Failovers route over Movistar, WOM, Claro with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Santiago, Chile",
   "population": 4396022,
@@ -45,38 +41,13 @@
       "city": "Valparaiso",
       "state": "Valparaiso Province",
       "stateSlug": "valparaiso-province",
-      "citySlug": "valparaiso",
-      "distance": 16.418108952589808
+      "citySlug": "valparaiso"
     },
     {
       "city": "Concepcion",
       "state": "Concepcion Province",
       "stateSlug": "concepcion-province",
-      "citySlug": "concepcion",
-      "distance": 31.695520812494728
-    },
-    {
-      "city": "San Miguel de Tucuman",
-      "state": "Tucuman Province",
-      "stateSlug": "tucuman-province",
-      "citySlug": "san-miguel-de-tucuman",
-      "distance": 779.8218127853822
-    },
-    {
-      "city": "Rosario",
-      "state": "Santa Fe Province",
-      "stateSlug": "santa-fe-province",
-      "citySlug": "rosario",
-      "distance": 781.2213884242063
-    },
-    {
-      "city": "Cordoba",
-      "state": "Cordoba Province",
-      "stateSlug": "cordoba-province",
-      "citySlug": "cordoba",
-      "distance": 781.4914585317315
+      "citySlug": "concepcion"
     }
-  ],
-  "geohash": "66tsg1r",
-  "geohashUrl": "https://geohash.softeng.co/66tsg1r"
+  ]
 }

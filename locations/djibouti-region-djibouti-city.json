@@ -5,7 +5,6 @@
   "stateSlug": "djibouti-region",
   "citySlug": "djibouti-city",
   "country": "Djibouti",
-  "pincode": "0000",
   "currency": "DJF",
   "symbol": "Fdj",
   "compliance": "MCP Rules",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+253",
   "timezone": "Africa/Djibouti",
-  "latitude": 11.5858,
-  "longitude": 43.1753,
-  "landmark": "Djibouti City Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Evatis networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Djibouti City, Djibouti",
   "population": 3011308,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Asmara",
-      "state": "Maekel Region",
-      "stateSlug": "maekel-region",
-      "citySlug": "asmara",
-      "distance": 606.2199778487245
-    },
-    {
-      "city": "Mogadishu",
-      "state": "Banaadir",
-      "stateSlug": "banaadir",
-      "citySlug": "mogadishu",
-      "distance": 642.0064310579735
-    },
-    {
-      "city": "Sanaa",
-      "state": "Sanaa Governorate",
-      "stateSlug": "sanaa-governorate",
-      "citySlug": "sanaa",
-      "distance": 670.3138422584324
-    },
-    {
-      "city": "Hargeisa",
-      "state": "Woqooyi Galbeed",
-      "stateSlug": "woqooyi-galbeed",
-      "citySlug": "hargeisa",
-      "distance": 673.9966941376422
-    },
-    {
-      "city": "Dire Dawa",
-      "state": "Dire Dawa Charter City",
-      "stateSlug": "dire-dawa-charter-city",
-      "citySlug": "dire-dawa",
-      "distance": 681.5770126141468
-    }
-  ],
-  "geohash": "sfn9ymp",
-  "geohashUrl": "https://geohash.softeng.co/sfn9ymp"
+  "nearbyLocations": []
 }

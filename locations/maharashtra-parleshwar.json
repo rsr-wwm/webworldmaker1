@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "parleshwar",
   "country": "India",
-  "pincode": "400057",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.1194,
-  "longitude": 80.4938,
-  "landmark": "Parleshwar Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Parleshwar, India",
   "population": 7902858,
   "mobileUsers": 5911337,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kalkalang",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "kalkalang",
-      "distance": 49.91271556606299
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Pathanamthitta",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "pathanamthitta",
-      "distance": 67.18841676640992
-    },
-    {
-      "city": "Deomali",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "deomali",
-      "distance": 95.49803513964967
-    },
-    {
-      "city": "Ahmednagar",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "ahmednagar",
-      "distance": 105.74426516986722
+      "citySlug": "nagpur"
     },
     {
-      "city": "Port Blair",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "port-blair",
-      "distance": 116.62544462820816
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcc1xdj",
-  "geohashUrl": "https://geohash.softeng.co/tcc1xdj"
+  ]
 }

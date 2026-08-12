@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "agra",
   "country": "India",
-  "pincode": "282001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.6295,
-  "longitude": 72.1776,
-  "landmark": "Agra Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Agra, India",
   "population": 1753064,
   "mobileUsers": 1327069,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sirsi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "sirsi",
-      "distance": 42.9753387984147
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kowpoi",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "kowpoi",
-      "distance": 54.354129795301894
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Lalitpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "lalitpur",
-      "distance": 60.57421756342497
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Gurgaon",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "gurgaon",
-      "distance": 71.22816251562404
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mangaldoi",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "mangaldoi",
-      "distance": 90.28447454818597
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdg2fmq",
-  "geohashUrl": "https://geohash.softeng.co/tdg2fmq"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "palani",
   "country": "India",
-  "pincode": "624601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.8254,
-  "longitude": 76.6842,
-  "landmark": "Palani Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Palani, India",
   "population": 503447,
   "mobileUsers": 369026,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Karad",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "karad",
-      "distance": 49.6207789183315
+      "citySlug": "nagpur"
     },
     {
-      "city": "Paramakudi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "paramakudi",
-      "distance": 55.3144752234348
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Daltonganj",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "daltonganj",
-      "distance": 73.04439990075804
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Dharamnagar G.P.O",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "dharamnagar-gpo",
-      "distance": 75.18694199273045
-    },
-    {
-      "city": "Bhilwara",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bhilwara",
-      "distance": 77.35499432995438
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttwt0cx",
-  "geohashUrl": "https://geohash.softeng.co/ttwt0cx"
+  ]
 }

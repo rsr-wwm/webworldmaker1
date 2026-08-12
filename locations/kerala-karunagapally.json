@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "karunagapally",
   "country": "India",
-  "pincode": "690518",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.2023,
-  "longitude": 68.9247,
-  "landmark": "Karunagapally District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Karunagapally, India",
   "population": 1920829,
   "mobileUsers": 1396442,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Thane",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "thane",
-      "distance": 49.65803602407198
+      "citySlug": "nagpur"
     },
     {
-      "city": "Srirangapatna",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "srirangapatna",
-      "distance": 55.212882128871335
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Melakaveri",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "melakaveri",
-      "distance": 75.44548669723828
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Madasa",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "madasa",
-      "distance": 75.91168326282843
-    },
-    {
-      "city": "Kovvur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kovvur",
-      "distance": 91.78215682471252
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te1p83t",
-  "geohashUrl": "https://geohash.softeng.co/te1p83t"
+  ]
 }

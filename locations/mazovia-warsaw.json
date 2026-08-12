@@ -5,7 +5,6 @@
   "stateSlug": "mazovia",
   "citySlug": "warsaw",
   "country": "Poland",
-  "pincode": "00-001",
   "currency": "PLN",
   "symbol": "zł",
   "compliance": "GDPR / UKE",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+48",
   "timezone": "Europe/Warsaw",
-  "latitude": 51.9122,
-  "longitude": 19.9864,
-  "landmark": "Warsaw Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Play, Plus, T-Mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Warsaw, Poland",
   "population": 4815684,
@@ -45,38 +41,31 @@
       "city": "Szczecin",
       "state": "West Pomerania",
       "stateSlug": "west-pomerania",
-      "citySlug": "szczecin",
-      "distance": 4.148769794029511
-    },
-    {
-      "city": "Lublin",
-      "state": "Lublin Voivodeship",
-      "stateSlug": "lublin-voivodeship",
-      "citySlug": "lublin",
-      "distance": 14.878693247081163
-    },
-    {
-      "city": "Poznan",
-      "state": "Greater Poland",
-      "stateSlug": "greater-poland",
-      "citySlug": "poznan",
-      "distance": 16.7265463366272
+      "citySlug": "szczecin"
     },
     {
       "city": "Gdansk",
       "state": "Pomerania",
       "stateSlug": "pomerania",
-      "citySlug": "gdansk",
-      "distance": 20.42406321543017
+      "citySlug": "gdansk"
     },
     {
-      "city": "Wroclaw",
-      "state": "Lower Silesia",
-      "stateSlug": "lower-silesia",
-      "citySlug": "wroclaw",
-      "distance": 24.126883219595168
+      "city": "Lublin",
+      "state": "Lublin Voivodeship",
+      "stateSlug": "lublin-voivodeship",
+      "citySlug": "lublin"
+    },
+    {
+      "city": "Katowice",
+      "state": "Silesian Voivodeship",
+      "stateSlug": "silesian-voivodeship",
+      "citySlug": "katowice"
+    },
+    {
+      "city": "Krakow",
+      "state": "Lesser Poland",
+      "stateSlug": "lesser-poland",
+      "citySlug": "krakow"
     }
-  ],
-  "geohash": "u3npqf3",
-  "geohashUrl": "https://geohash.softeng.co/u3npqf3"
+  ]
 }

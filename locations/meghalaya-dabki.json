@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "dabki",
   "country": "India",
-  "pincode": "793109",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.2654,
-  "longitude": 76.3981,
-  "landmark": "Dabki Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dabki, India",
   "population": 5007108,
   "mobileUsers": 3655188,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bharuch",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bharuch",
-      "distance": 44.597394184404294
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hukeri",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hukeri",
-      "distance": 51.2447699730117
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ramgarh Cantt.",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "ramgarh-cantt",
-      "distance": 51.5927004938135
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Itanagar G.P.O",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "itanagar-gpo",
-      "distance": 56.151604899234094
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Udupi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "udupi",
-      "distance": 77.85641002538712
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ten64rp",
-  "geohashUrl": "https://geohash.softeng.co/ten64rp"
+  ]
 }

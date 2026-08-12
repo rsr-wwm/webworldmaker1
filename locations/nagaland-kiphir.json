@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "kiphir",
   "country": "India",
-  "pincode": "798611",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.8152,
-  "longitude": 80.6966,
-  "landmark": "Kiphir Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kiphir, India",
   "population": 9826212,
   "mobileUsers": 7369659,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bolganj bazar",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bolganj-bazar",
-      "distance": 14.338888015779583
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Palai",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "palai",
-      "distance": 68.642033952712
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Barasat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barasat",
-      "distance": 68.73986841885073
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Thodupuzha",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thodupuzha",
-      "distance": 74.19150039022891
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Yonghong",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "yonghong",
-      "distance": 79.01172288014575
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg9qkm3",
-  "geohashUrl": "https://geohash.softeng.co/tg9qkm3"
+  ]
 }

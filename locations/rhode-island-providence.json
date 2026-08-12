@@ -5,7 +5,6 @@
   "stateSlug": "rhode-island",
   "citySlug": "providence",
   "country": "United States",
-  "pincode": "02901",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/New_York",
-  "latitude": 30.77,
-  "longitude": -91.3033,
-  "landmark": "Providence Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Providence, United States",
   "population": 1650481,
@@ -44,38 +40,31 @@
       "city": "Birmingham",
       "state": "Alabama",
       "stateSlug": "alabama",
-      "citySlug": "birmingham",
-      "distance": 306.68646216929153
+      "citySlug": "birmingham"
     },
     {
-      "city": "St. Louis",
-      "state": "Missouri",
-      "stateSlug": "missouri",
-      "citySlug": "st-louis",
-      "distance": 386.2735472032439
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "San Diego",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "san-diego",
-      "distance": 396.45165944495074
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Baltimore",
-      "state": "Maryland",
-      "stateSlug": "maryland",
-      "citySlug": "baltimore",
-      "distance": 426.9313971624303
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Chicago",
-      "state": "Illinois",
-      "stateSlug": "illinois",
-      "citySlug": "chicago",
-      "distance": 432.85397903546203
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9vrp43d",
-  "geohashUrl": "https://geohash.softeng.co/9vrp43d"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "greater-banjul-area",
   "citySlug": "banjul",
   "country": "Gambia",
-  "pincode": "00000",
   "currency": "GMD",
   "symbol": "D",
   "compliance": "PURA Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+220",
   "timezone": "Africa/Banjul",
-  "latitude": 13.3626,
-  "longitude": -16.6393,
-  "landmark": "Banjul Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Africell networks. Failovers route over QCell, Gamcel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Banjul, Gambia",
   "population": 4015122,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Bissau",
-      "state": "Bissau Sector",
-      "stateSlug": "bissau-sector",
-      "citySlug": "bissau",
-      "distance": 211.41576631181962
-    },
-    {
-      "city": "Saint-Louis",
-      "state": "Saint-Louis Region",
-      "stateSlug": "saint-louis-region",
-      "citySlug": "saint-louis",
-      "distance": 291.7870689789868
-    },
-    {
-      "city": "Dakar",
-      "state": "Dakar Region",
-      "stateSlug": "dakar-region",
-      "citySlug": "dakar",
-      "distance": 293.46710631753444
-    },
-    {
-      "city": "Grenoble",
-      "state": "Auvergne-Rhône-Alpes",
-      "stateSlug": "auvergne-rhone-alpes",
-      "citySlug": "grenoble",
-      "distance": 620.2662251178875
-    },
-    {
-      "city": "Conakry",
-      "state": "Conakry Region",
-      "stateSlug": "conakry-region",
-      "citySlug": "conakry",
-      "distance": 760.3493268653448
-    }
-  ],
-  "geohash": "edkhj2e",
-  "geohashUrl": "https://geohash.softeng.co/edkhj2e"
+  "nearbyLocations": []
 }

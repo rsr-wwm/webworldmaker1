@@ -5,7 +5,6 @@
   "stateSlug": "gyeongnam",
   "citySlug": "changwon",
   "country": "South Korea",
-  "pincode": "51435",
   "currency": "KRW",
   "symbol": "₩",
   "compliance": "KCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+82",
   "timezone": "Asia/Seoul",
-  "latitude": 36.9683,
-  "longitude": 127.5072,
-  "landmark": "Changwon Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over SK Telecom networks. Failovers route over KT, LG Uplus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Changwon, South Korea",
   "population": 4210276,
@@ -44,38 +40,31 @@
       "city": "Daegu",
       "state": "Yeongnam",
       "stateSlug": "yeongnam",
-      "citySlug": "daegu",
-      "distance": 7.286614135925036
+      "citySlug": "daegu"
     },
     {
-      "city": "Suwon",
-      "state": "Gyeonggi",
-      "stateSlug": "gyeonggi",
-      "citySlug": "suwon",
-      "distance": 12.090224091395106
-    },
-    {
-      "city": "Busan",
-      "state": "Busan Metropolitan",
-      "stateSlug": "busan-metropolitan",
-      "citySlug": "busan",
-      "distance": 14.364508776936542
+      "city": "Daejeon",
+      "state": "Hoseo",
+      "stateSlug": "hoseo",
+      "citySlug": "daejeon"
     },
     {
       "city": "Gwangju",
       "state": "Honam",
       "stateSlug": "honam",
-      "citySlug": "gwangju",
-      "distance": 14.652396714815834
+      "citySlug": "gwangju"
     },
     {
-      "city": "Cheongju",
-      "state": "Chungbuk",
-      "stateSlug": "chungbuk",
-      "citySlug": "cheongju",
-      "distance": 15.09159369403269
+      "city": "Ulsan",
+      "state": "Yeongnam",
+      "stateSlug": "yeongnam",
+      "citySlug": "ulsan"
+    },
+    {
+      "city": "Suwon",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "suwon"
     }
-  ],
-  "geohash": "wyddm3z",
-  "geohashUrl": "https://geohash.softeng.co/wyddm3z"
+  ]
 }

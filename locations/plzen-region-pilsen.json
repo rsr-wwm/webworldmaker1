@@ -5,7 +5,6 @@
   "stateSlug": "plzen-region",
   "citySlug": "pilsen",
   "country": "Czechia",
-  "pincode": "301 00",
   "currency": "CZK",
   "symbol": "Kč",
   "compliance": "GDPR / CTU",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+420",
   "timezone": "Europe/Prague",
-  "latitude": 49.9003,
-  "longitude": 15.4858,
-  "landmark": "Pilsen Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over T-Mobile networks. Failovers route over O2, Vodafone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Pilsen, Czechia",
   "population": 2769338,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Prague",
-      "state": "Prague City",
-      "stateSlug": "prague-city",
-      "citySlug": "prague",
-      "distance": 3.8166120374700343
+      "city": "Brno",
+      "state": "South Moravian",
+      "stateSlug": "south-moravian",
+      "citySlug": "brno"
     },
     {
       "city": "Ostrava",
       "state": "Moravian-Silesian",
       "stateSlug": "moravian-silesian",
-      "citySlug": "ostrava",
-      "distance": 12.545237064476728
+      "citySlug": "ostrava"
     },
     {
-      "city": "Brno",
-      "state": "South Moravian",
-      "stateSlug": "south-moravian",
-      "citySlug": "brno",
-      "distance": 37.11238081641783
-    },
-    {
-      "city": "Hanover",
-      "state": "Lower Saxony",
-      "stateSlug": "lower-saxony",
-      "citySlug": "hanover",
-      "distance": 149.77671872280945
-    },
-    {
-      "city": "Leipzig",
-      "state": "Saxony",
-      "stateSlug": "saxony",
-      "citySlug": "leipzig",
-      "distance": 175.43213727273087
+      "city": "Prague",
+      "state": "Prague City",
+      "stateSlug": "prague-city",
+      "citySlug": "prague"
     }
-  ],
-  "geohash": "u2g5bkh",
-  "geohashUrl": "https://geohash.softeng.co/u2g5bkh"
+  ]
 }

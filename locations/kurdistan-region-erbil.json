@@ -5,7 +5,6 @@
   "stateSlug": "kurdistan-region",
   "citySlug": "erbil",
   "country": "Iraq",
-  "pincode": "44001",
   "currency": "IQD",
   "symbol": "ع.د",
   "compliance": "CMC Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+964",
   "timezone": "Asia/Baghdad",
-  "latitude": 32.9712,
-  "longitude": 43.9106,
-  "landmark": "Erbil Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Zain Iraq networks. Failovers route over Asiacell, Korek with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Erbil, Iraq",
   "population": 1320099,
@@ -44,38 +40,19 @@
       "city": "Basra",
       "state": "Basra Governorate",
       "stateSlug": "basra-governorate",
-      "citySlug": "basra",
-      "distance": 1.7945359229111089
+      "citySlug": "basra"
     },
     {
       "city": "Mosul",
       "state": "Nineveh Governorate",
       "stateSlug": "nineveh-governorate",
-      "citySlug": "mosul",
-      "distance": 14.803032043432685
+      "citySlug": "mosul"
     },
     {
       "city": "Baghdad",
       "state": "Baghdad Governorate",
       "stateSlug": "baghdad-governorate",
-      "citySlug": "baghdad",
-      "distance": 23.372220537957116
-    },
-    {
-      "city": "Marseille",
-      "state": "Provence-Alpes-Côte d'Azur",
-      "stateSlug": "provence-alpes-cote-dazur",
-      "citySlug": "marseille",
-      "distance": 347.92021168853586
-    },
-    {
-      "city": "Kuwait City",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "kuwait-city",
-      "distance": 555.6716200667743
+      "citySlug": "baghdad"
     }
-  ],
-  "geohash": "svz5x4n",
-  "geohashUrl": "https://geohash.softeng.co/svz5x4n"
+  ]
 }

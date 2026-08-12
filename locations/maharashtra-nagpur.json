@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "nagpur",
   "country": "India",
-  "pincode": "440001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 32.4803,
-  "longitude": 69.5815,
-  "landmark": "Nagpur GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nagpur, India",
   "population": 5908755,
   "mobileUsers": 4561558,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chandnichowk",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "chandnichowk",
-      "distance": 56.6210117897462
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kollegal",
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
+    },
+    {
+      "city": "Bangalore (Bengaluru)",
       "state": "Karnataka",
       "stateSlug": "karnataka",
-      "citySlug": "kollegal",
-      "distance": 56.9062107476771
-    },
-    {
-      "city": "Proddatur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "proddatur",
-      "distance": 88.10783570855574
-    },
-    {
-      "city": "Dholpur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "dholpur",
-      "distance": 123.88840068679514
-    },
-    {
-      "city": "Punalur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "punalur",
-      "distance": 135.44709669965184
+      "citySlug": "bangalore-bengaluru"
     }
-  ],
-  "geohash": "ttc2z2g",
-  "geohashUrl": "https://geohash.softeng.co/ttc2z2g"
+  ]
 }

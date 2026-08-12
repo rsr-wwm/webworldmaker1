@@ -5,7 +5,6 @@
   "stateSlug": "punjab",
   "citySlug": "ferozepur",
   "country": "India",
-  "pincode": "152001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.8361,
-  "longitude": 69.041,
-  "landmark": "Ferozepur Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ferozepur, India",
   "population": 7324766,
   "mobileUsers": 5347079,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bargarh",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bargarh",
-      "distance": 19.793551729834224
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Roorkee",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "roorkee",
-      "distance": 87.91074035310419
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chapra",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "chapra",
-      "distance": 107.30497624262703
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Purulai",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "purulai",
-      "distance": 108.5057760570896
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi"
     },
     {
-      "city": "Bhongir",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "bhongir",
-      "distance": 124.34277897462394
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     }
-  ],
-  "geohash": "td1574d",
-  "geohashUrl": "https://geohash.softeng.co/td1574d"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "eastern-province",
   "citySlug": "dammam",
   "country": "Saudi Arabia",
-  "pincode": "31146",
   "currency": "SAR",
   "symbol": "﷼",
   "compliance": "CITC Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+966",
   "timezone": "Asia/Riyadh",
-  "latitude": 25.0781,
-  "longitude": 44.8754,
-  "landmark": "Dammam Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over STC networks. Failovers route over Mobily, Zain with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Dammam, Saudi Arabia",
   "population": 2908107,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Khobar",
-      "state": "Eastern Province",
-      "stateSlug": "eastern-province",
-      "citySlug": "khobar",
-      "distance": 19.997843146639312
-    },
-    {
       "city": "Medina",
       "state": "Al Madinah Region",
       "stateSlug": "al-madinah-region",
-      "citySlug": "medina",
-      "distance": 20.962080445742306
-    },
-    {
-      "city": "Riyadh",
-      "state": "Riyadh Region",
-      "stateSlug": "riyadh-region",
-      "citySlug": "riyadh",
-      "distance": 23.951409695831554
-    },
-    {
-      "city": "Jeddah",
-      "state": "Makkah Region",
-      "stateSlug": "makkah-region",
-      "citySlug": "jeddah",
-      "distance": 26.15884968115729
+      "citySlug": "medina"
     },
     {
       "city": "Mecca",
       "state": "Makkah Region",
       "stateSlug": "makkah-region",
-      "citySlug": "mecca",
-      "distance": 40.97524121019298
+      "citySlug": "mecca"
+    },
+    {
+      "city": "Khobar",
+      "state": "Eastern Province",
+      "stateSlug": "eastern-province",
+      "citySlug": "khobar"
+    },
+    {
+      "city": "Jeddah",
+      "state": "Makkah Region",
+      "stateSlug": "makkah-region",
+      "citySlug": "jeddah"
+    },
+    {
+      "city": "Riyadh",
+      "state": "Riyadh Region",
+      "stateSlug": "riyadh-region",
+      "citySlug": "riyadh"
     }
-  ],
-  "geohash": "surytjm",
-  "geohashUrl": "https://geohash.softeng.co/surytjm"
+  ]
 }

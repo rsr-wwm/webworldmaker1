@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "nalgonda",
   "country": "India",
-  "pincode": "508001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.8805,
-  "longitude": 81.7436,
-  "landmark": "Nalgonda Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nalgonda, India",
   "population": 8480912,
   "mobileUsers": 6292836,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Hapur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "hapur",
-      "distance": 60.61513608747747
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ahmednagar",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "ahmednagar",
-      "distance": 82.35385393518385
+      "citySlug": "nagpur"
     },
     {
-      "city": "Pathanamthitta",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "pathanamthitta",
-      "distance": 88.56753998635747
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Union Christian College",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "union-christian-college",
-      "distance": 110.95140471964568
-    },
-    {
-      "city": "Parleshwar",
+      "city": "Mumbai",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "parleshwar",
-      "distance": 139.41420361481704
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcf0hne",
-  "geohashUrl": "https://geohash.softeng.co/tcf0hne"
+  ]
 }

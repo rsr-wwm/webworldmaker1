@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "hayuliyang",
   "country": "India",
-  "pincode": "792102",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.6859,
-  "longitude": 69.7952,
-  "landmark": "Hayuliyang Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Hayuliyang, India",
   "population": 8752901,
   "mobileUsers": 6398370,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shillong G.P.O",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "shillong-gpo",
-      "distance": 35.32333483753859
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Srivaikuntam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "srivaikuntam",
-      "distance": 75.20376890285863
-    },
-    {
-      "city": "Margo",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "margo",
-      "distance": 77.48676094386383
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bangalore G.P.O.",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bangalore-gpo",
-      "distance": 88.875273867384
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Hubli",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hubli",
-      "distance": 94.17847202368017
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt1ehnp",
-  "geohashUrl": "https://geohash.softeng.co/tt1ehnp"
+  ]
 }

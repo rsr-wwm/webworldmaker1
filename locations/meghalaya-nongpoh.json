@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "nongpoh",
   "country": "India",
-  "pincode": "793102",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.1349,
-  "longitude": 69.5417,
-  "landmark": "Nongpoh Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nongpoh, India",
   "population": 3183339,
   "mobileUsers": 2333387,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nagpur City",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nagpur-city",
-      "distance": 28.971072827667825
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kathihar",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "kathihar",
-      "distance": 33.87461776627673
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Tisk",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "tisk",
-      "distance": 44.212572372541075
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Dharmavaram",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "dharmavaram",
-      "distance": 53.54477596137673
-    },
-    {
-      "city": "Nuvem",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "nuvem",
-      "distance": 58.78318092966576
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts3qyrw",
-  "geohashUrl": "https://geohash.softeng.co/ts3qyrw"
+  ]
 }

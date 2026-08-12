@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "cooch-behar",
   "country": "India",
-  "pincode": "736101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.2477,
-  "longitude": 72.0183,
-  "landmark": "Cooch Behar State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Cooch Behar, India",
   "population": 7849716,
   "mobileUsers": 5840188,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shabroom",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "shabroom",
-      "distance": 14.469325199325478
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hanumangarh Junction",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "hanumangarh-junction",
-      "distance": 35.51884801329121
-    },
-    {
-      "city": "Phatikchara",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "phatikchara",
-      "distance": 51.06774425052645
-    },
-    {
-      "city": "Palghar",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "palghar",
-      "distance": 60.34308801158444
+      "citySlug": "nagpur"
     },
     {
-      "city": "Shatchand",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "shatchand",
-      "distance": 67.49570813946895
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts71yy4",
-  "geohashUrl": "https://geohash.softeng.co/ts71yy4"
+  ]
 }

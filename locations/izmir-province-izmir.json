@@ -5,7 +5,6 @@
   "stateSlug": "izmir-province",
   "citySlug": "izmir",
   "country": "Türkiye",
-  "pincode": "35000",
   "currency": "TRY",
   "symbol": "₺",
   "compliance": "BTK Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+90",
   "timezone": "Europe/Istanbul",
-  "latitude": 39.0662,
-  "longitude": 34.9906,
-  "landmark": "Izmir Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Turkcell networks. Failovers route over Vodafone, Türk Telekom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Izmir, Türkiye",
   "population": 2389797,
@@ -44,38 +40,31 @@
       "city": "Antalya",
       "state": "Antalya Province",
       "stateSlug": "antalya-province",
-      "citySlug": "antalya",
-      "distance": 0.5612801107371876
+      "citySlug": "antalya"
     },
     {
-      "city": "Istanbul",
-      "state": "Istanbul Province",
-      "stateSlug": "istanbul-province",
-      "citySlug": "istanbul",
-      "distance": 3.494250892485062
-    },
-    {
-      "city": "Konya",
-      "state": "Konya Province",
-      "stateSlug": "konya-province",
-      "citySlug": "konya",
-      "distance": 9.70830963419517
+      "city": "Adana",
+      "state": "Adana Province",
+      "stateSlug": "adana-province",
+      "citySlug": "adana"
     },
     {
       "city": "Bursa",
       "state": "Bursa Province",
       "stateSlug": "bursa-province",
-      "citySlug": "bursa",
-      "distance": 9.978400631970581
+      "citySlug": "bursa"
     },
     {
-      "city": "Mersin",
-      "state": "Mersin Province",
-      "stateSlug": "mersin-province",
-      "citySlug": "mersin",
-      "distance": 12.435988677794793
+      "city": "Konya",
+      "state": "Konya Province",
+      "stateSlug": "konya-province",
+      "citySlug": "konya"
+    },
+    {
+      "city": "Gaziantep",
+      "state": "Gaziantep Province",
+      "stateSlug": "gaziantep-province",
+      "citySlug": "gaziantep"
     }
-  ],
-  "geohash": "sybyhpz",
-  "geohashUrl": "https://geohash.softeng.co/sybyhpz"
+  ]
 }

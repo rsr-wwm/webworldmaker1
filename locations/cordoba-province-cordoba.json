@@ -5,7 +5,6 @@
   "stateSlug": "cordoba-province",
   "citySlug": "cordoba",
   "country": "Argentina",
-  "pincode": "X5000",
   "currency": "ARS",
   "symbol": "$",
   "compliance": "ENACOM Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+54",
   "timezone": "America/Argentina/Buenos_Aires",
-  "latitude": -34.0018,
-  "longitude": -63.9766,
-  "landmark": "Cordoba Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Personal networks. Failovers route over Movistar, Claro with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cordoba, Argentina",
   "population": 3317312,
@@ -44,38 +40,25 @@
       "city": "Mendoza",
       "state": "Mendoza Province",
       "stateSlug": "mendoza-province",
-      "citySlug": "mendoza",
-      "distance": 8.307589289031839
+      "citySlug": "mendoza"
     },
     {
       "city": "San Miguel de Tucuman",
       "state": "Tucuman Province",
       "stateSlug": "tucuman-province",
-      "citySlug": "san-miguel-de-tucuman",
-      "distance": 9.823207132223482
+      "citySlug": "san-miguel-de-tucuman"
     },
     {
       "city": "Rosario",
       "state": "Santa Fe Province",
       "stateSlug": "santa-fe-province",
-      "citySlug": "rosario",
-      "distance": 10.115233987006503
+      "citySlug": "rosario"
     },
     {
       "city": "Buenos Aires",
       "state": "Capital Federal",
       "stateSlug": "capital-federal",
-      "citySlug": "buenos-aires",
-      "distance": 18.103969253021226
-    },
-    {
-      "city": "Montevideo",
-      "state": "Montevideo Department",
-      "stateSlug": "montevideo-department",
-      "citySlug": "montevideo",
-      "distance": 744.0928961932375
+      "citySlug": "buenos-aires"
     }
-  ],
-  "geohash": "69fw84j",
-  "geohashUrl": "https://geohash.softeng.co/69fw84j"
+  ]
 }

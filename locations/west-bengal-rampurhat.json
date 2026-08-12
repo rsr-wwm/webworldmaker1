@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "rampurhat",
   "country": "India",
-  "pincode": "731224",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.3041,
-  "longitude": 76.7834,
-  "landmark": "Rampurhat Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Rampurhat, India",
   "population": 567024,
   "mobileUsers": 433206,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
       "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "jalandhar",
-      "distance": 3.9014603498767175
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Hyderabad Jubilee",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hyderabad-jubilee",
-      "distance": 37.23205339919688
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Burdwan",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "burdwan",
-      "distance": 39.68791113179276
-    },
-    {
-      "city": "Sitapur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "sitapur",
-      "distance": 52.2355622144982
-    },
-    {
-      "city": "Mati",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "mati",
-      "distance": 63.40425220005306
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tewee0p",
-  "geohashUrl": "https://geohash.softeng.co/tewee0p"
+  ]
 }

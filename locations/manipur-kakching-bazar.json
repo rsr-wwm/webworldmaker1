@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "kakching-bazar",
   "country": "India",
-  "pincode": "795103",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "town",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.9906,
-  "longitude": 78.9174,
-  "landmark": "Kakching Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kakching bazar, India",
   "population": 30356,
   "mobileUsers": 22615,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Yadagiri",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "yadagiri",
-      "distance": 28.249537637769055
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Aberdeen",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "aberdeen",
-      "distance": 29.76465013581678
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bijapur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bijapur",
-      "distance": 52.20532088976404
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Port Blair",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "port-blair",
-      "distance": 57.94922893728467
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Koraput",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "koraput",
-      "distance": 68.50947310039355
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcb0gf9",
-  "geohashUrl": "https://geohash.softeng.co/tcb0gf9"
+  ]
 }

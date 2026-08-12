@@ -5,7 +5,6 @@
   "stateSlug": "veracruz-state",
   "citySlug": "veracruz",
   "country": "Mexico",
-  "pincode": "91700",
   "currency": "MXN",
   "symbol": "$",
   "compliance": "IFT Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+52",
   "timezone": "America/Bahia_Banderas",
-  "latitude": 23.198,
-  "longitude": -101.8423,
-  "landmark": "Veracruz Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Veracruz, Mexico",
   "population": 3249255,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Merida",
-      "state": "Yucatan",
-      "stateSlug": "yucatan",
-      "citySlug": "merida",
-      "distance": 17.85283136355278
+      "city": "Leon",
+      "state": "Guanajuato",
+      "stateSlug": "guanajuato",
+      "citySlug": "leon"
     },
     {
-      "city": "Queretaro",
-      "state": "Queretaro State",
-      "stateSlug": "queretaro-state",
-      "citySlug": "queretaro",
-      "distance": 18.911399567061096
+      "city": "Toluca",
+      "state": "State of Mexico",
+      "stateSlug": "state-of-mexico",
+      "citySlug": "toluca"
     },
     {
-      "city": "Puebla",
-      "state": "Puebla State",
-      "stateSlug": "puebla-state",
-      "citySlug": "puebla",
-      "distance": 19.84413429723643
+      "city": "Juarez",
+      "state": "Chihuahua",
+      "stateSlug": "chihuahua",
+      "citySlug": "juarez"
+    },
+    {
+      "city": "Torreon",
+      "state": "Coahuila",
+      "stateSlug": "coahuila",
+      "citySlug": "torreon"
     },
     {
       "city": "San Luis Potosi",
       "state": "San Luis Potosi",
       "stateSlug": "san-luis-potosi",
-      "citySlug": "san-luis-potosi",
-      "distance": 27.074301510415737
-    },
-    {
-      "city": "Monterrey",
-      "state": "Nuevo Leon",
-      "stateSlug": "nuevo-leon",
-      "citySlug": "monterrey",
-      "distance": 28.86623196250258
+      "citySlug": "san-luis-potosi"
     }
-  ],
-  "geohash": "9spefx0",
-  "geohashUrl": "https://geohash.softeng.co/9spefx0"
+  ]
 }

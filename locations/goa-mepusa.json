@@ -5,7 +5,6 @@
   "stateSlug": "goa",
   "citySlug": "mepusa",
   "country": "India",
-  "pincode": "403507",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.5861,
-  "longitude": 75.5821,
-  "landmark": "Mepusa Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mepusa, India",
   "population": 1817433,
   "mobileUsers": 1379431,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mowkarvat",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "mowkarvat",
-      "distance": 63.74658263397786
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kothapeta",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kothapeta",
-      "distance": 66.56990437494206
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Dhanbad",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "dhanbad",
-      "distance": 69.9817745402254
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Thalassery",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thalassery",
-      "distance": 70.66830207172299
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Attili",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "attili",
-      "distance": 75.91530762265225
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsvszvv",
-  "geohashUrl": "https://geohash.softeng.co/tsvszvv"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "chihuahua",
   "citySlug": "juarez",
   "country": "Mexico",
-  "pincode": "32000",
   "currency": "MXN",
   "symbol": "$",
   "compliance": "IFT Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+52",
   "timezone": "America/Bahia_Banderas",
-  "latitude": 22.8526,
-  "longitude": -101.8811,
-  "landmark": "Juarez Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Juarez, Mexico",
   "population": 3045530,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Tijuana",
-      "state": "Baja California",
-      "stateSlug": "baja-california",
-      "citySlug": "tijuana",
-      "distance": 4.19752170890013
-    },
-    {
-      "city": "Monterrey",
-      "state": "Nuevo Leon",
-      "stateSlug": "nuevo-leon",
-      "citySlug": "monterrey",
-      "distance": 10.351102231132797
-    },
-    {
       "city": "Leon",
       "state": "Guanajuato",
       "stateSlug": "guanajuato",
-      "citySlug": "leon",
-      "distance": 11.514688985320399
+      "citySlug": "leon"
+    },
+    {
+      "city": "Toluca",
+      "state": "State of Mexico",
+      "stateSlug": "state-of-mexico",
+      "citySlug": "toluca"
     },
     {
       "city": "Torreon",
       "state": "Coahuila",
       "stateSlug": "coahuila",
-      "citySlug": "torreon",
-      "distance": 19.673884936243702
+      "citySlug": "torreon"
     },
     {
-      "city": "Puebla",
-      "state": "Puebla State",
-      "stateSlug": "puebla-state",
-      "citySlug": "puebla",
-      "distance": 19.732377794890102
+      "city": "San Luis Potosi",
+      "state": "San Luis Potosi",
+      "stateSlug": "san-luis-potosi",
+      "citySlug": "san-luis-potosi"
+    },
+    {
+      "city": "Veracruz",
+      "state": "Veracruz State",
+      "stateSlug": "veracruz-state",
+      "citySlug": "veracruz"
     }
-  ],
-  "geohash": "9spd18h",
-  "geohashUrl": "https://geohash.softeng.co/9spd18h"
+  ]
 }

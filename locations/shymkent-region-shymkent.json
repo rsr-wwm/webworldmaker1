@@ -5,7 +5,6 @@
   "stateSlug": "shymkent-region",
   "citySlug": "shymkent",
   "country": "Kazakhstan",
-  "pincode": "160000",
   "currency": "KZT",
   "symbol": "₸",
   "compliance": "ICRIAP Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+7",
   "timezone": "Asia/Almaty",
-  "latitude": 47.9191,
-  "longitude": 68.012,
-  "landmark": "Shymkent Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Kcell networks. Failovers route over Beeline, Tele2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Shymkent, Kazakhstan",
   "population": 2948728,
@@ -41,41 +37,16 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Astana",
-      "state": "Astana Region",
-      "stateSlug": "astana-region",
-      "citySlug": "astana",
-      "distance": 22.796307322333313
-    },
-    {
       "city": "Almaty",
       "state": "Almaty Region",
       "stateSlug": "almaty-region",
-      "citySlug": "almaty",
-      "distance": 31.263809669547907
+      "citySlug": "almaty"
     },
     {
-      "city": "Tashkent",
-      "state": "Tashkent City",
-      "stateSlug": "tashkent-city",
-      "citySlug": "tashkent",
-      "distance": 810.9521179199351
-    },
-    {
-      "city": "Samarkand",
-      "state": "Samarkand Region",
-      "stateSlug": "samarkand-region",
-      "citySlug": "samarkand",
-      "distance": 823.6778116489351
-    },
-    {
-      "city": "Bishkek",
-      "state": "Chuy Region",
-      "stateSlug": "chuy-region",
-      "citySlug": "bishkek",
-      "distance": 945.9628074002181
+      "city": "Astana",
+      "state": "Astana Region",
+      "stateSlug": "astana-region",
+      "citySlug": "astana"
     }
-  ],
-  "geohash": "v882eek",
-  "geohashUrl": "https://geohash.softeng.co/v882eek"
+  ]
 }

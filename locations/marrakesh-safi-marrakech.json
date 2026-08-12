@@ -5,7 +5,6 @@
   "stateSlug": "marrakesh-safi",
   "citySlug": "marrakech",
   "country": "Morocco",
-  "pincode": "40000",
   "currency": "MAD",
   "symbol": "DH",
   "compliance": "ANRT Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+212",
   "timezone": "Africa/Casablanca",
-  "latitude": 31.9321,
-  "longitude": -5.179,
-  "landmark": "Marrakech Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Maroc Telecom networks. Failovers route over Orange, inwi with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Marrakech, Morocco",
   "population": 4010005,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Rabat",
-      "state": "Rabat-Salé-Kénitra",
-      "stateSlug": "rabat-sale-kenitra",
-      "citySlug": "rabat",
-      "distance": 5.953198441428835
-    },
-    {
-      "city": "Casablanca",
-      "state": "Casablanca-Settat",
-      "stateSlug": "casablanca-settat",
-      "citySlug": "casablanca",
-      "distance": 26.675898129864787
-    },
-    {
       "city": "Tangier",
       "state": "Tangier-Tetouan-Al Hoceima",
       "stateSlug": "tangier-tetouan-al-hoceima",
-      "citySlug": "tangier",
-      "distance": 31.542623230419522
+      "citySlug": "tangier"
     },
     {
       "city": "Fez",
       "state": "Fes-Meknes",
       "stateSlug": "fes-meknes",
-      "citySlug": "fez",
-      "distance": 36.01686036274256
+      "citySlug": "fez"
     },
     {
-      "city": "Oran",
-      "state": "Oran Province",
-      "stateSlug": "oran-province",
-      "citySlug": "oran",
-      "distance": 592.289255814846
+      "city": "Casablanca",
+      "state": "Casablanca-Settat",
+      "stateSlug": "casablanca-settat",
+      "citySlug": "casablanca"
+    },
+    {
+      "city": "Rabat",
+      "state": "Rabat-Salé-Kénitra",
+      "stateSlug": "rabat-sale-kenitra",
+      "citySlug": "rabat"
     }
-  ],
-  "geohash": "evsmdjh",
-  "geohashUrl": "https://geohash.softeng.co/evsmdjh"
+  ]
 }

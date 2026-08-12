@@ -5,7 +5,6 @@
   "stateSlug": "baden-wurttemberg",
   "citySlug": "karlsruhe",
   "country": "Germany",
-  "pincode": "76131",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / BNetzA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+49 30",
   "timezone": "Europe/Berlin",
-  "latitude": 51.7877,
-  "longitude": 12.2583,
-  "landmark": "Karlsruhe Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Karlsruhe, Germany",
   "population": 1292390,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Dresden",
-      "state": "Saxony",
-      "stateSlug": "saxony",
-      "citySlug": "dresden",
-      "distance": 64.2028169707531
+      "city": "Bonn",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "bonn"
     },
     {
       "city": "Munster",
       "state": "North Rhine-Westphalia",
       "stateSlug": "north-rhine-westphalia",
-      "citySlug": "munster",
-      "distance": 112.99068634845072
+      "citySlug": "munster"
     },
     {
-      "city": "Stuttgart",
-      "state": "Baden-Württemberg",
-      "stateSlug": "baden-wurttemberg",
-      "citySlug": "stuttgart",
-      "distance": 116.67634204540711
+      "city": "Munich",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "munich"
     },
     {
-      "city": "Hanover",
-      "state": "Lower Saxony",
-      "stateSlug": "lower-saxony",
-      "citySlug": "hanover",
-      "distance": 159.30824727757832
+      "city": "Hamburg",
+      "state": "Hamburg State",
+      "stateSlug": "hamburg-state",
+      "citySlug": "hamburg"
     },
     {
-      "city": "Berlin",
-      "state": "Berlin",
-      "stateSlug": "berlin",
-      "citySlug": "berlin",
-      "distance": 216.40468250437448
+      "city": "Dusseldorf",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "dusseldorf"
     }
-  ],
-  "geohash": "u30wwgw",
-  "geohashUrl": "https://geohash.softeng.co/u30wwgw"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "begusarai",
   "country": "India",
-  "pincode": "851101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.1708,
-  "longitude": 87.3597,
-  "landmark": "Begusarai Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Begusarai, India",
   "population": 3683893,
   "mobileUsers": 2799758,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bhavani",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "bhavani",
-      "distance": 19.24306345212153
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Veraval",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "veraval",
-      "distance": 43.04523641962552
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Palel",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "palel",
-      "distance": 45.542257698709776
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nayagarh",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "nayagarh",
-      "distance": 48.43668791227361
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tenkasi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tenkasi",
-      "distance": 52.69401791721756
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuq1ebj",
-  "geohashUrl": "https://geohash.softeng.co/tuq1ebj"
+  ]
 }

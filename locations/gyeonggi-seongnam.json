@@ -5,7 +5,6 @@
   "stateSlug": "gyeonggi",
   "citySlug": "seongnam",
   "country": "South Korea",
-  "pincode": "13437",
   "currency": "KRW",
   "symbol": "₩",
   "compliance": "KCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+82",
   "timezone": "Asia/Seoul",
-  "latitude": 37.1331,
-  "longitude": 127.4299,
-  "landmark": "Seongnam Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over SK Telecom networks. Failovers route over KT, LG Uplus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Seongnam, South Korea",
   "population": 837723,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Incheon",
-      "state": "Incheon Metropolitan",
-      "stateSlug": "incheon-metropolitan",
-      "citySlug": "incheon",
-      "distance": 1.1835441633531816
+      "city": "Daegu",
+      "state": "Yeongnam",
+      "stateSlug": "yeongnam",
+      "citySlug": "daegu"
     },
     {
-      "city": "Seoul",
-      "state": "Seoul Capital Area",
-      "stateSlug": "seoul-capital-area",
-      "citySlug": "seoul",
-      "distance": 9.012246470132903
+      "city": "Daejeon",
+      "state": "Hoseo",
+      "stateSlug": "hoseo",
+      "citySlug": "daejeon"
+    },
+    {
+      "city": "Gwangju",
+      "state": "Honam",
+      "stateSlug": "honam",
+      "citySlug": "gwangju"
     },
     {
       "city": "Ulsan",
       "state": "Yeongnam",
       "stateSlug": "yeongnam",
-      "citySlug": "ulsan",
-      "distance": 16.90096313276719
+      "citySlug": "ulsan"
     },
     {
-      "city": "Changwon",
-      "state": "Gyeongnam",
-      "stateSlug": "gyeongnam",
-      "citySlug": "changwon",
-      "distance": 19.566863648410255
-    },
-    {
-      "city": "Daegu",
-      "state": "Yeongnam",
-      "stateSlug": "yeongnam",
-      "citySlug": "daegu",
-      "distance": 26.498867502009183
+      "city": "Suwon",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "suwon"
     }
-  ],
-  "geohash": "wyde5xz",
-  "geohashUrl": "https://geohash.softeng.co/wyde5xz"
+  ]
 }

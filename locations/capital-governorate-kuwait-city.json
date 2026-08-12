@@ -5,7 +5,6 @@
   "stateSlug": "capital-governorate",
   "citySlug": "kuwait-city",
   "country": "Kuwait",
-  "pincode": "13001",
   "currency": "KWD",
   "symbol": "KD",
   "compliance": "CITRA Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+965",
   "timezone": "Asia/Kuwait",
-  "latitude": 29.3796532,
-  "longitude": 47.9734174,
-  "landmark": "Kuwait City Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Zain networks. Failovers route over Ooredoo, stc with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kuwait City, Kuwait",
   "population": 1874221,
@@ -44,38 +40,7 @@
       "city": "Manama",
       "state": "Capital Governorate",
       "stateSlug": "capital-governorate",
-      "citySlug": "manama",
-      "distance": 446.8786007210487
-    },
-    {
-      "city": "Tehran",
-      "state": "Tehran Province",
-      "stateSlug": "tehran-province",
-      "citySlug": "tehran",
-      "distance": 540.3545819417146
-    },
-    {
-      "city": "Mashhad",
-      "state": "Razavi Khorasan",
-      "stateSlug": "razavi-khorasan",
-      "citySlug": "mashhad",
-      "distance": 542.2048758488932
-    },
-    {
-      "city": "Baghdad",
-      "state": "Baghdad Governorate",
-      "stateSlug": "baghdad-governorate",
-      "citySlug": "baghdad",
-      "distance": 544.9122741436831
-    },
-    {
-      "city": "Riyadh",
-      "state": "Riyadh Region",
-      "stateSlug": "riyadh-region",
-      "citySlug": "riyadh",
-      "distance": 546.3545947868333
+      "citySlug": "manama"
     }
-  ],
-  "geohash": "tj4p5sm",
-  "geohashUrl": "https://geohash.softeng.co/tj4p5sm"
+  ]
 }

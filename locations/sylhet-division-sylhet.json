@@ -5,7 +5,6 @@
   "stateSlug": "sylhet-division",
   "citySlug": "sylhet",
   "country": "Bangladesh",
-  "pincode": "3100",
   "currency": "BDT",
   "symbol": "৳",
   "compliance": "BTRC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+880",
   "timezone": "Asia/Dhaka",
-  "latitude": 23.9316,
-  "longitude": 90.1457,
-  "landmark": "Sylhet GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Grameenphone networks. Failovers route over Robi, Banglalink with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Sylhet, Bangladesh",
   "population": 3891369,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Dhaka",
-      "state": "Dhaka Division",
-      "stateSlug": "dhaka-division",
-      "citySlug": "dhaka",
-      "distance": 6.501581579248798
-    },
-    {
       "city": "Khulna",
       "state": "Khulna Division",
       "stateSlug": "khulna-division",
-      "citySlug": "khulna",
-      "distance": 29.69501761276671
+      "citySlug": "khulna"
     },
     {
       "city": "Chittagong",
       "state": "Chittagong Division",
       "stateSlug": "chittagong-division",
-      "citySlug": "chittagong",
-      "distance": 33.67415225787381
+      "citySlug": "chittagong"
     },
     {
-      "city": "Himat Nagar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "himat-nagar",
-      "distance": 138.24705450363436
-    },
-    {
-      "city": "Mulund",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "mulund",
-      "distance": 147.71236782111595
+      "city": "Dhaka",
+      "state": "Dhaka Division",
+      "stateSlug": "dhaka-division",
+      "citySlug": "dhaka"
     }
-  ],
-  "geohash": "wh205kd",
-  "geohashUrl": "https://geohash.softeng.co/wh205kd"
+  ]
 }

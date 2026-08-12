@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "gudur",
   "country": "India",
-  "pincode": "524101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.5246,
-  "longitude": 69.5975,
-  "landmark": "Gudur Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Gudur, India",
   "population": 2753022,
   "mobileUsers": 2095049,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "A.I.O. Donna Paula",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "aio-donna-paula",
-      "distance": 38.17329590374953
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Labaan",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "labaan",
-      "distance": 77.81218878331985
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Darjeeling",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "darjeeling",
-      "distance": 80.02232727964292
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Karimganj",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "karimganj",
-      "distance": 117.60234608681327
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kantolim",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "kantolim",
-      "distance": 119.41893289439646
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te9kz8r",
-  "geohashUrl": "https://geohash.softeng.co/te9kz8r"
+  ]
 }

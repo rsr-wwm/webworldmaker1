@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "chaichima",
   "country": "India",
-  "pincode": "797105",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.5309,
-  "longitude": 87.8487,
-  "landmark": "Chaichima Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chaichima, India",
   "population": 6663945,
   "mobileUsers": 5064598,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Longlai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "longlai",
-      "distance": 47.78907634002818
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Budaun",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "budaun",
-      "distance": 52.08177623609887
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Meerut City",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "meerut-city",
-      "distance": 53.315744372815814
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Lakhibera",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "lakhibera",
-      "distance": 79.85836853389318
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Hyderabad",
-      "state": "Telangana",
-      "stateSlug": "telangana",
-      "citySlug": "hyderabad",
-      "distance": 86.75924289706265
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgwkz19",
-  "geohashUrl": "https://geohash.softeng.co/tgwkz19"
+  ]
 }

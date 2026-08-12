@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "phalaing",
   "country": "India",
-  "pincode": "796431",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.1166,
-  "longitude": 75.3505,
-  "landmark": "Phalaing District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Phalaing, India",
   "population": 3966053,
   "mobileUsers": 2970573,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dahod",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "dahod",
-      "distance": 40.07395859285701
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Tanuku",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tanuku",
-      "distance": 79.44667292609824
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kaknad",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "kaknad",
-      "distance": 79.58625804352246
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Puttur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "puttur",
-      "distance": 81.35346559361756
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Darbhanga",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "darbhanga",
-      "distance": 91.81750148182927
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttme6ds",
-  "geohashUrl": "https://geohash.softeng.co/ttme6ds"
+  ]
 }

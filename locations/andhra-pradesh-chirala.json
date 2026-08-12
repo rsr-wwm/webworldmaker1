@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "chirala",
   "country": "India",
-  "pincode": "523115",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.8534,
-  "longitude": 73.6658,
-  "landmark": "Chirala Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chirala, India",
   "population": 2361703,
   "mobileUsers": 1813787,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kamptee",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "kamptee",
-      "distance": 56.55908098902578
-    },
-    {
-      "city": "Shahdol",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "shahdol",
-      "distance": 60.27168848252055
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bhivani",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "bhivani",
-      "distance": 64.98697504944307
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tumkur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tumkur",
-      "distance": 68.37443963756105
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Barrackpore",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barrackpore",
-      "distance": 115.00019125776946
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tss7h63",
-  "geohashUrl": "https://geohash.softeng.co/tss7h63"
+  ]
 }

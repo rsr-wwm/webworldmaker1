@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "azamgarh",
   "country": "India",
-  "pincode": "276001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.8487,
-  "longitude": 79.6024,
-  "landmark": "Azamgarh Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Azamgarh, India",
   "population": 6262935,
   "mobileUsers": 4546890,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Androth",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "androth",
-      "distance": 28.36005036925475
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Amroha",
-      "state": "Utter Pradesh",
-      "stateSlug": "utter-pradesh",
-      "citySlug": "amroha",
-      "distance": 83.1238463629197
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Mebo",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "mebo",
-      "distance": 88.8963971605472
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Sitamarhi",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "sitamarhi",
-      "distance": 92.24502726569551
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Vellore",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "vellore",
-      "distance": 103.9407151494827
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu0xems",
-  "geohashUrl": "https://geohash.softeng.co/tu0xems"
+  ]
 }

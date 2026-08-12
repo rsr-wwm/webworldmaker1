@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "raipur",
   "country": "India",
-  "pincode": "492001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.4779,
-  "longitude": 74.0844,
-  "landmark": "Raipur Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Raipur, India",
   "population": 6719227,
   "mobileUsers": 4878158,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shastrinagar (Jodhpur)",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "shastrinagar-jodhpur",
-      "distance": 29.655115140123034
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Durgapur",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "durgapur",
-      "distance": 37.737521412679946
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Dumka",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "dumka",
-      "distance": 39.37982507074411
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Darbhanga",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "darbhanga",
-      "distance": 54.50204565313999
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Hissar",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "hissar",
-      "distance": 75.6346520536607
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttktmu6",
-  "geohashUrl": "https://geohash.softeng.co/ttktmu6"
+  ]
 }

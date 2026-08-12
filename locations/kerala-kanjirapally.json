@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "kanjirapally",
   "country": "India",
-  "pincode": "686507",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.6735,
-  "longitude": 71.4304,
-  "landmark": "Kanjirapally State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kanjirapally, India",
   "population": 9507825,
   "mobileUsers": 7149884,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Palghar",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "palghar",
-      "distance": 50.65104322896149
-    },
-    {
-      "city": "Bhind",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bhind",
-      "distance": 50.697443268939935
+      "citySlug": "bhopal"
     },
     {
-      "city": "Shatchand",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "shatchand",
-      "distance": 56.54496904499787
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Phatikchara",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "phatikchara",
-      "distance": 76.2930841097137
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Cooch Behar",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "cooch-behar",
-      "distance": 87.43667257811333
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts4y9mw",
-  "geohashUrl": "https://geohash.softeng.co/ts4y9mw"
+  ]
 }

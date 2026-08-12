@@ -5,7 +5,6 @@
   "stateSlug": "fukuoka-prefecture",
   "citySlug": "fukuoka",
   "country": "Japan",
-  "pincode": "810-0001",
   "currency": "JPY",
   "symbol": "¥",
   "compliance": "MIC Telecommunications Act",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+81 3",
   "timezone": "Asia/Tokyo",
-  "latitude": 33.5898988,
-  "longitude": 130.4017509,
-  "landmark": "Fukuoka GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Fukuoka, Japan",
   "population": 620732,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Kitakyushu",
-      "state": "Fukuoka Prefecture",
-      "stateSlug": "fukuoka-prefecture",
-      "citySlug": "kitakyushu",
-      "distance": 54.55668115751572
-    },
-    {
-      "city": "Kumamoto",
-      "state": "Kumamoto Prefecture",
-      "stateSlug": "kumamoto-prefecture",
-      "citySlug": "kumamoto",
-      "distance": 91.98872524384346
+      "city": "Sendai",
+      "state": "Miyagi Prefecture",
+      "stateSlug": "miyagi-prefecture",
+      "citySlug": "sendai"
     },
     {
       "city": "Hiroshima",
       "state": "Hiroshima Prefecture",
       "stateSlug": "hiroshima-prefecture",
-      "citySlug": "hiroshima",
-      "distance": 208.96824153238148
+      "citySlug": "hiroshima"
     },
     {
-      "city": "Kagoshima",
-      "state": "Kagoshima Prefecture",
-      "stateSlug": "kagoshima-prefecture",
-      "citySlug": "kagoshima",
-      "distance": 222.10107098050062
+      "city": "Kitakyushu",
+      "state": "Fukuoka Prefecture",
+      "stateSlug": "fukuoka-prefecture",
+      "citySlug": "kitakyushu"
     },
     {
-      "city": "Okayama",
-      "state": "Okayama Prefecture",
-      "stateSlug": "okayama-prefecture",
-      "citySlug": "okayama",
-      "distance": 344.77887113742213
+      "city": "Niigata",
+      "state": "Niigata Prefecture",
+      "stateSlug": "niigata-prefecture",
+      "citySlug": "niigata"
+    },
+    {
+      "city": "Hamamatsu",
+      "state": "Shizuoka Prefecture",
+      "stateSlug": "shizuoka-prefecture",
+      "citySlug": "hamamatsu"
     }
-  ],
-  "geohash": "wvuxp6g",
-  "geohashUrl": "https://geohash.softeng.co/wvuxp6g"
+  ]
 }

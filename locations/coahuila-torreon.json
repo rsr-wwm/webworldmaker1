@@ -5,7 +5,6 @@
   "stateSlug": "coahuila",
   "citySlug": "torreon",
   "country": "Mexico",
-  "pincode": "27000",
   "currency": "MXN",
   "symbol": "$",
   "compliance": "IFT Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+52",
   "timezone": "America/Bahia_Banderas",
-  "latitude": 22.8081,
-  "longitude": -102.0669,
-  "landmark": "Torreon Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Torreon, Mexico",
   "population": 2605015,
@@ -44,38 +40,31 @@
       "city": "Leon",
       "state": "Guanajuato",
       "stateSlug": "guanajuato",
-      "citySlug": "leon",
-      "distance": 11.323552373610006
+      "citySlug": "leon"
     },
     {
       "city": "Toluca",
       "state": "State of Mexico",
       "stateSlug": "state-of-mexico",
-      "citySlug": "toluca",
-      "distance": 12.177266199639037
-    },
-    {
-      "city": "Tijuana",
-      "state": "Baja California",
-      "stateSlug": "baja-california",
-      "citySlug": "tijuana",
-      "distance": 16.952878395759196
-    },
-    {
-      "city": "Guadalajara",
-      "state": "Jalisco",
-      "stateSlug": "jalisco",
-      "citySlug": "guadalajara",
-      "distance": 18.783031321208227
+      "citySlug": "toluca"
     },
     {
       "city": "Juarez",
       "state": "Chihuahua",
       "stateSlug": "chihuahua",
-      "citySlug": "juarez",
-      "distance": 19.673884936243702
+      "citySlug": "juarez"
+    },
+    {
+      "city": "San Luis Potosi",
+      "state": "San Luis Potosi",
+      "stateSlug": "san-luis-potosi",
+      "citySlug": "san-luis-potosi"
+    },
+    {
+      "city": "Veracruz",
+      "state": "Veracruz State",
+      "stateSlug": "veracruz-state",
+      "citySlug": "veracruz"
     }
-  ],
-  "geohash": "9sp3v2j",
-  "geohashUrl": "https://geohash.softeng.co/9sp3v2j"
+  ]
 }

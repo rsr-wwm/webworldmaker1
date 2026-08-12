@@ -5,7 +5,6 @@
   "stateSlug": "utah",
   "citySlug": "salt-lake-city",
   "country": "United States",
-  "pincode": "84101",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Denver",
-  "latitude": 47.3875,
-  "longitude": -79.1363,
-  "landmark": "Salt Lake City Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Salt Lake City, United States",
   "population": 4808713,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Minneapolis",
-      "state": "Minnesota",
-      "stateSlug": "minnesota",
-      "citySlug": "minneapolis",
-      "distance": 70.12398315529863
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Austin",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "austin",
-      "distance": 200.65661277613944
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Phoenix",
+      "city": "Tucson",
       "state": "Arizona",
       "stateSlug": "arizona",
-      "citySlug": "phoenix",
-      "distance": 278.58123666609964
+      "citySlug": "tucson"
     },
     {
-      "city": "Buffalo",
-      "state": "New York",
-      "stateSlug": "new-york",
-      "citySlug": "buffalo",
-      "distance": 322.9089909615524
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Ottawa",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "ottawa",
-      "distance": 342.93296256008483
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "f0rtx4w",
-  "geohashUrl": "https://geohash.softeng.co/f0rtx4w"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "new-york",
   "citySlug": "new-york",
   "country": "United States",
-  "pincode": "10001",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / HIPAA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 212",
   "timezone": "America/New_York",
-  "latitude": 30.6231,
-  "longitude": -78.9833,
-  "landmark": "New York Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for New York, United States",
   "population": 1923075,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Houston",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "houston",
-      "distance": 244.47764484765784
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Detroit",
+      "city": "Grand Rapids",
       "state": "Michigan",
       "stateSlug": "michigan",
-      "citySlug": "detroit",
-      "distance": 356.4570045697089
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Chattanooga",
-      "state": "Tennessee",
-      "stateSlug": "tennessee",
-      "citySlug": "chattanooga",
-      "distance": 459.07378035633224
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Nassau",
-      "state": "New Providence",
-      "stateSlug": "new-providence",
-      "citySlug": "nassau",
-      "distance": 761.0336395942809
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Baltimore",
-      "state": "Maryland",
-      "stateSlug": "maryland",
-      "citySlug": "baltimore",
-      "distance": 768.8202788996394
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "djry4wy",
-  "geohashUrl": "https://geohash.softeng.co/djry4wy"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "razavi-khorasan",
   "citySlug": "mashhad",
   "country": "Iran",
-  "pincode": "91375",
   "currency": "IRR",
   "symbol": "﷼",
   "compliance": "CRA Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+98",
   "timezone": "Asia/Tehran",
-  "latitude": 31.8512,
-  "longitude": 52.8588,
-  "landmark": "Mashhad District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over MCI networks. Failovers route over Irancell, RighTel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Mashhad, Iran",
   "population": 3505529,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Tehran",
-      "state": "Tehran Province",
-      "stateSlug": "tehran-province",
-      "citySlug": "tehran",
-      "distance": 6.5052596510605785
-    },
-    {
       "city": "Tabriz",
       "state": "East Azerbaijan",
       "stateSlug": "east-azerbaijan",
-      "citySlug": "tabriz",
-      "distance": 15.999327022359079
+      "citySlug": "tabriz"
     },
     {
       "city": "Isfahan",
       "state": "Isfahan Province",
       "stateSlug": "isfahan-province",
-      "citySlug": "isfahan",
-      "distance": 35.77459323565087
+      "citySlug": "isfahan"
     },
     {
-      "city": "Kuwait City",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "kuwait-city",
-      "distance": 542.2048758488932
-    },
-    {
-      "city": "Manama",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "manama",
-      "distance": 691.4919781258891
+      "city": "Tehran",
+      "state": "Tehran Province",
+      "stateSlug": "tehran-province",
+      "citySlug": "tehran"
     }
-  ],
-  "geohash": "tjtt4y6",
-  "geohashUrl": "https://geohash.softeng.co/tjtt4y6"
+  ]
 }

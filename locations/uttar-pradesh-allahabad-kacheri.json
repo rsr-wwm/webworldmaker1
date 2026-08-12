@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "allahabad-kacheri",
   "country": "India",
-  "pincode": "211002",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.1549,
-  "longitude": 84.8204,
-  "landmark": "Allahabad Kacheri Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Allahabad Kacheri, India",
   "population": 6785491,
   "mobileUsers": 5272326,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Pattukottai",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "pattukottai",
-      "distance": 25.80466936481169
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kurukshetra",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "kurukshetra",
-      "distance": 72.27859860712911
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kumar ghat",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kumar-ghat",
-      "distance": 73.70587040564814
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Agartala G.P.O",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "agartala-gpo",
-      "distance": 78.02066884506314
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Sirohi",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sirohi",
-      "distance": 86.33218176926559
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgs6djh",
-  "geohashUrl": "https://geohash.softeng.co/tgs6djh"
+  ]
 }

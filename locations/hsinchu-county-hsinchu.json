@@ -5,7 +5,6 @@
   "stateSlug": "hsinchu-county",
   "citySlug": "hsinchu",
   "country": "Taiwan",
-  "pincode": "300",
   "currency": "TWD",
   "symbol": "NT$",
   "compliance": "NCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+886",
   "timezone": "Asia/Taipei",
-  "latitude": 23.4343,
-  "longitude": 120.9531,
-  "landmark": "Hsinchu GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Chunghwa Telecom networks. Failovers route over Taiwan Mobile, FarEasTone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Hsinchu, Taiwan",
   "population": 3809941,
@@ -44,38 +40,31 @@
       "city": "Taichung",
       "state": "Taichung City",
       "stateSlug": "taichung-city",
-      "citySlug": "taichung",
-      "distance": 8.498971671393392
-    },
-    {
-      "city": "Keelung",
-      "state": "Keelung City",
-      "stateSlug": "keelung-city",
-      "citySlug": "keelung",
-      "distance": 10.990963439614083
+      "citySlug": "taichung"
     },
     {
       "city": "Tainan",
       "state": "Tainan City",
       "stateSlug": "tainan-city",
-      "citySlug": "tainan",
-      "distance": 17.84999372938397
+      "citySlug": "tainan"
     },
     {
-      "city": "Kaohsiung",
-      "state": "Kaohsiung Municipality",
-      "stateSlug": "kaohsiung-municipality",
-      "citySlug": "kaohsiung",
-      "distance": 24.80394341321351
+      "city": "Keelung",
+      "state": "Keelung City",
+      "stateSlug": "keelung-city",
+      "citySlug": "keelung"
     },
     {
       "city": "Taipei",
       "state": "Taipei Municipality",
       "stateSlug": "taipei-municipality",
-      "citySlug": "taipei",
-      "distance": 26.093775334415653
+      "citySlug": "taipei"
+    },
+    {
+      "city": "Kaohsiung",
+      "state": "Kaohsiung Municipality",
+      "stateSlug": "kaohsiung-municipality",
+      "citySlug": "kaohsiung"
     }
-  ],
-  "geohash": "wsnj265",
-  "geohashUrl": "https://geohash.softeng.co/wsnj265"
+  ]
 }

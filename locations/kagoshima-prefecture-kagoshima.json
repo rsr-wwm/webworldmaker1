@@ -5,7 +5,6 @@
   "stateSlug": "kagoshima-prefecture",
   "citySlug": "kagoshima",
   "country": "Japan",
-  "pincode": "890-8577",
   "currency": "JPY",
   "symbol": "¥",
   "compliance": "MIC Telecommunications Act",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+81 3",
   "timezone": "Asia/Tokyo",
-  "latitude": 31.596793,
-  "longitude": 130.5571949,
-  "landmark": "Kagoshima Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kagoshima, Japan",
   "population": 1983415,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Kumamoto",
-      "state": "Kumamoto Prefecture",
-      "stateSlug": "kumamoto-prefecture",
-      "citySlug": "kumamoto",
-      "distance": 134.91847648638526
-    },
-    {
-      "city": "Fukuoka",
-      "state": "Fukuoka Prefecture",
-      "stateSlug": "fukuoka-prefecture",
-      "citySlug": "fukuoka",
-      "distance": 222.10107098050062
-    },
-    {
-      "city": "Kitakyushu",
-      "state": "Fukuoka Prefecture",
-      "stateSlug": "fukuoka-prefecture",
-      "citySlug": "kitakyushu",
-      "distance": 255.94486096012815
+      "city": "Sendai",
+      "state": "Miyagi Prefecture",
+      "stateSlug": "miyagi-prefecture",
+      "citySlug": "sendai"
     },
     {
       "city": "Hiroshima",
       "state": "Hiroshima Prefecture",
       "stateSlug": "hiroshima-prefecture",
-      "citySlug": "hiroshima",
-      "distance": 357.47771997599386
+      "citySlug": "hiroshima"
     },
     {
-      "city": "Okayama",
-      "state": "Okayama Prefecture",
-      "stateSlug": "okayama-prefecture",
-      "citySlug": "okayama",
-      "distance": 462.21228690813575
+      "city": "Kitakyushu",
+      "state": "Fukuoka Prefecture",
+      "stateSlug": "fukuoka-prefecture",
+      "citySlug": "kitakyushu"
+    },
+    {
+      "city": "Niigata",
+      "state": "Niigata Prefecture",
+      "stateSlug": "niigata-prefecture",
+      "citySlug": "niigata"
+    },
+    {
+      "city": "Hamamatsu",
+      "state": "Shizuoka Prefecture",
+      "stateSlug": "shizuoka-prefecture",
+      "citySlug": "hamamatsu"
     }
-  ],
-  "geohash": "wvsgfbh",
-  "geohashUrl": "https://geohash.softeng.co/wvsgfbh"
+  ]
 }

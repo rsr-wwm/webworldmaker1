@@ -5,7 +5,6 @@
   "stateSlug": "orissa",
   "citySlug": "baripada",
   "country": "India",
-  "pincode": "757001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 22.096,
-  "longitude": 82.9916,
-  "landmark": "Baripada Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Baripada, India",
   "population": 1414152,
   "mobileUsers": 1083240,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Botad",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "botad",
-      "distance": 33.49478600546195
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ghatkoper East",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "ghatkoper-east",
-      "distance": 111.45707862921113
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bakultala",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "bakultala",
-      "distance": 112.83194246584945
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Amadalavalasa",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "amadalavalasa",
-      "distance": 116.38652753911019
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Vadakara",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "vadakara",
-      "distance": 126.54212263032555
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tggj8w2",
-  "geohashUrl": "https://geohash.softeng.co/tggj8w2"
+  ]
 }

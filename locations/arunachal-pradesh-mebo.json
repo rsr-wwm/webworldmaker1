@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "mebo",
   "country": "India",
-  "pincode": "791104",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.1569,
-  "longitude": 80.4099,
-  "landmark": "Mebo Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mebo, India",
   "population": 5265898,
   "mobileUsers": 4060007,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Amroha",
-      "state": "Utter Pradesh",
-      "stateSlug": "utter-pradesh",
-      "citySlug": "amroha",
-      "distance": 11.722415323360572
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nagaur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "nagaur",
-      "distance": 47.85762523690221
-    },
-    {
-      "city": "Akola",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "akola",
-      "distance": 87.99669153072114
+      "citySlug": "nagpur"
     },
     {
-      "city": "Azamgarh",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "azamgarh",
-      "distance": 88.8963971605472
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Etah",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "etah",
-      "distance": 92.60504842074667
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu31mv8",
-  "geohashUrl": "https://geohash.softeng.co/tu31mv8"
+  ]
 }

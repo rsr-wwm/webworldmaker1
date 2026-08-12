@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "tanuku",
   "country": "India",
-  "pincode": "534211",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.4022,
-  "longitude": 75.3629,
-  "landmark": "Tanuku Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Tanuku, India",
   "population": 6030622,
   "mobileUsers": 4697854,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Disa",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "disa",
-      "distance": 51.05482509438881
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Dehradun",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "dehradun",
-      "distance": 69.18830112871457
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Phalaing",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "phalaing",
-      "distance": 79.44667292609824
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Dahod",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "dahod",
-      "distance": 116.47815785244292
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Darbhanga",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "darbhanga",
-      "distance": 119.10265112811233
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttjx6bt",
-  "geohashUrl": "https://geohash.softeng.co/ttjx6bt"
+  ]
 }

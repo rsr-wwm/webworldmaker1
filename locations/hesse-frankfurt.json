@@ -5,7 +5,6 @@
   "stateSlug": "hesse",
   "citySlug": "frankfurt",
   "country": "Germany",
-  "pincode": "60306",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / Bundesnetzagentur",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+49 30",
   "timezone": "Europe/Berlin",
-  "latitude": 49.3065,
-  "longitude": 12.2716,
-  "landmark": "Frankfurt State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Deutsche Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Frankfurt, Germany",
   "population": 4266313,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Leipzig",
-      "state": "Saxony",
-      "stateSlug": "saxony",
-      "citySlug": "leipzig",
-      "distance": 73.0469391041143
-    },
-    {
       "city": "Bonn",
       "state": "North Rhine-Westphalia",
       "stateSlug": "north-rhine-westphalia",
-      "citySlug": "bonn",
-      "distance": 141.36248189791115
+      "citySlug": "bonn"
     },
     {
-      "city": "Berlin",
-      "state": "Berlin",
-      "stateSlug": "berlin",
-      "citySlug": "berlin",
-      "distance": 173.1789238171677
+      "city": "Karlsruhe",
+      "state": "Baden-Württemberg",
+      "stateSlug": "baden-wurttemberg",
+      "citySlug": "karlsruhe"
     },
     {
       "city": "Munster",
       "state": "North Rhine-Westphalia",
       "stateSlug": "north-rhine-westphalia",
-      "citySlug": "munster",
-      "distance": 184.97603211701914
+      "citySlug": "munster"
     },
     {
-      "city": "Hanover",
-      "state": "Lower Saxony",
-      "stateSlug": "lower-saxony",
-      "citySlug": "hanover",
-      "distance": 213.7647898458015
+      "city": "Munich",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "munich"
+    },
+    {
+      "city": "Hamburg",
+      "state": "Hamburg State",
+      "stateSlug": "hamburg-state",
+      "citySlug": "hamburg"
     }
-  ],
-  "geohash": "u2b8rpz",
-  "geohashUrl": "https://geohash.softeng.co/u2b8rpz"
+  ]
 }

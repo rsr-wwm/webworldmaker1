@@ -5,7 +5,6 @@
   "stateSlug": "khomas-region",
   "citySlug": "windhoek",
   "country": "Namibia",
-  "pincode": "9000",
   "currency": "NAD",
   "symbol": "N$",
   "compliance": "CRAN Guidelines",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+264",
   "timezone": "Africa/Windhoek",
-  "latitude": -22.0239,
-  "longitude": 16.9923,
-  "landmark": "Windhoek District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over MTC networks. Failovers route over tn mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Windhoek, Namibia",
   "population": 1778232,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
   "aiReadiness": "High: Integrating AI agents into customer support systems",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Rennes",
-      "state": "Brittany",
-      "stateSlug": "brittany",
-      "citySlug": "rennes",
-      "distance": 619.6749736961158
-    },
-    {
-      "city": "Gaborone",
-      "state": "South-East District",
-      "stateSlug": "south-east-district",
-      "citySlug": "gaborone",
-      "distance": 717.4463900394156
-    },
-    {
-      "city": "Durban",
-      "state": "KwaZulu-Natal",
-      "stateSlug": "kwazulu-natal",
-      "citySlug": "durban",
-      "distance": 1032.4758191558456
-    },
-    {
-      "city": "Pretoria",
-      "state": "Gauteng",
-      "stateSlug": "gauteng",
-      "citySlug": "pretoria",
-      "distance": 1034.971581515783
-    },
-    {
-      "city": "Port Elizabeth",
-      "state": "Eastern Cape",
-      "stateSlug": "eastern-cape",
-      "citySlug": "port-elizabeth",
-      "distance": 1047.5426758068413
-    }
-  ],
-  "geohash": "kkh4dwt",
-  "geohashUrl": "https://geohash.softeng.co/kkh4dwt"
+  "nearbyLocations": []
 }

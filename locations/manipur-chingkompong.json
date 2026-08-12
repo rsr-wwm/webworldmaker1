@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "chingkompong",
   "country": "India",
-  "pincode": "795158",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.0967,
-  "longitude": 86.1875,
-  "landmark": "Chingkompong District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chingkompong, India",
   "population": 9507320,
   "mobileUsers": 7282607,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Haveri",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "haveri",
-      "distance": 63.9746376019624
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Changlang",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "changlang",
-      "distance": 78.34463924221141
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Neyyattinkara",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "neyyattinkara",
-      "distance": 81.28441760589385
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bansi",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "bansi",
-      "distance": 82.61200446297575
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kumta",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "kumta",
-      "distance": 88.26022485612935
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tftmchr",
-  "geohashUrl": "https://geohash.softeng.co/tftmchr"
+  ]
 }

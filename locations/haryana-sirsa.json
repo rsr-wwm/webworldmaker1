@@ -5,7 +5,6 @@
   "stateSlug": "haryana",
   "citySlug": "sirsa",
   "country": "India",
-  "pincode": "125055",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.4339,
-  "longitude": 85.9013,
-  "landmark": "Sirsa Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sirsa, India",
   "population": 7280645,
   "mobileUsers": 5358554,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Gondal",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "gondal",
-      "distance": 9.935354163221204
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nashik road",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nashik-road",
-      "distance": 51.85794248657906
+      "citySlug": "nagpur"
     },
     {
-      "city": "Gopeshwar",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "gopeshwar",
-      "distance": 59.522934944119264
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Guntur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "guntur",
-      "distance": 59.79082669295887
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Fatehpur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "fatehpur",
-      "distance": 69.7385029505247
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgth4xz",
-  "geohashUrl": "https://geohash.softeng.co/tgth4xz"
+  ]
 }

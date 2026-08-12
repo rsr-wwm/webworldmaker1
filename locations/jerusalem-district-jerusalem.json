@@ -5,7 +5,6 @@
   "stateSlug": "jerusalem-district",
   "citySlug": "jerusalem",
   "country": "Israel",
-  "pincode": "91000",
   "currency": "ILS",
   "symbol": "₪",
   "compliance": "MOC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+972",
   "timezone": "Asia/Jerusalem",
-  "latitude": 31.5121,
-  "longitude": 34.928,
-  "landmark": "Jerusalem Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Cellcom networks. Failovers route over Partner, Pelephone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Jerusalem, Israel",
   "population": 3073775,
@@ -44,38 +40,19 @@
       "city": "Haifa",
       "state": "Haifa District",
       "stateSlug": "haifa-district",
-      "citySlug": "haifa",
-      "distance": 17.774818385290967
+      "citySlug": "haifa"
     },
     {
       "city": "Ashdod",
       "state": "Southern District",
       "stateSlug": "southern-district",
-      "citySlug": "ashdod",
-      "distance": 25.191771246491577
+      "citySlug": "ashdod"
     },
     {
       "city": "Tel Aviv",
       "state": "Tel Aviv District",
       "stateSlug": "tel-aviv-district",
-      "citySlug": "tel-aviv",
-      "distance": 37.114837522337965
-    },
-    {
-      "city": "Ramallah",
-      "state": "West Bank",
-      "stateSlug": "west-bank",
-      "citySlug": "ramallah",
-      "distance": 57.40098017602207
-    },
-    {
-      "city": "Aqaba",
-      "state": "Aqaba Governorate",
-      "stateSlug": "aqaba-governorate",
-      "citySlug": "aqaba",
-      "distance": 107.1853319897567
+      "citySlug": "tel-aviv"
     }
-  ],
-  "geohash": "sv8g6b9",
-  "geohashUrl": "https://geohash.softeng.co/sv8g6b9"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "islamabad-capital-territory",
   "citySlug": "islamabad",
   "country": "Pakistan",
-  "pincode": "44000",
   "currency": "PKR",
   "symbol": "Rs.",
   "compliance": "PTA Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+92",
   "timezone": "Asia/Karachi",
-  "latitude": 29.9467,
-  "longitude": 70.1308,
-  "landmark": "Islamabad Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Jazz networks. Failovers route over Telenor, Zong, Ufone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Islamabad, Pakistan",
   "population": 4377699,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Karachi",
-      "state": "Sindh",
-      "stateSlug": "sindh",
-      "citySlug": "karachi",
-      "distance": 6.215311062067535
-    },
-    {
-      "city": "Lahore",
+      "city": "Rawalpindi",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "lahore",
-      "distance": 11.534976100214612
+      "citySlug": "rawalpindi"
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     },
     {
       "city": "Multan",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "multan",
-      "distance": 15.369860903730896
+      "citySlug": "multan"
     },
     {
-      "city": "Gudivada",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "gudivada",
-      "distance": 29.79929623956782
+      "city": "Karachi",
+      "state": "Sindh",
+      "stateSlug": "sindh",
+      "citySlug": "karachi"
     },
     {
-      "city": "Rajkot",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "rajkot",
-      "distance": 30.059342602317376
+      "city": "Lahore",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "lahore"
     }
-  ],
-  "geohash": "tt3f7ge",
-  "geohashUrl": "https://geohash.softeng.co/tt3f7ge"
+  ]
 }

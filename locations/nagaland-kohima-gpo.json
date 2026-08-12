@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "kohima-gpo",
   "country": "India",
-  "pincode": "797001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "post_office",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.6101,
-  "longitude": 70.853,
-  "landmark": "Kohima Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kohima G.P.O, India",
   "population": 12120,
   "mobileUsers": 9308,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tong",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "tong",
-      "distance": 52.68451923088188
-    },
-    {
-      "city": "Neemuch",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "neemuch",
-      "distance": 73.9389329738316
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sibsagar",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "sibsagar",
-      "distance": 120.8565834695814
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Barsar",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "barsar",
-      "distance": 123.6962316582443
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Borholla",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "borholla",
-      "distance": 125.80322475177107
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td46h39",
-  "geohashUrl": "https://geohash.softeng.co/td46h39"
+  ]
 }

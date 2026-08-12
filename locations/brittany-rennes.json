@@ -5,7 +5,6 @@
   "stateSlug": "brittany",
   "citySlug": "rennes",
   "country": "France",
-  "pincode": "35000",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / ARCEP",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+33 1",
   "timezone": "Europe/Paris",
-  "latitude": -17.5504,
-  "longitude": 20.5255,
-  "landmark": "Rennes GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Rennes, France",
   "population": 900641,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Luanda",
-      "state": "Luanda Province",
-      "stateSlug": "luanda-province",
-      "citySlug": "luanda",
-      "distance": 577.7254183615295
+      "city": "Nantes",
+      "state": "Pays de la Loire",
+      "stateSlug": "pays-de-la-loire",
+      "citySlug": "nantes"
     },
     {
-      "city": "Gaborone",
-      "state": "South-East District",
-      "stateSlug": "south-east-district",
-      "citySlug": "gaborone",
-      "distance": 615.8360010337066
+      "city": "Montpellier",
+      "state": "Occitanie",
+      "stateSlug": "occitanie",
+      "citySlug": "montpellier"
     },
     {
-      "city": "Windhoek",
-      "state": "Khomas Region",
-      "stateSlug": "khomas-region",
-      "citySlug": "windhoek",
-      "distance": 619.6749736961158
+      "city": "Grenoble",
+      "state": "Auvergne-Rhône-Alpes",
+      "stateSlug": "auvergne-rhone-alpes",
+      "citySlug": "grenoble"
     },
     {
-      "city": "Bulawayo",
-      "state": "Matabeleland North",
-      "stateSlug": "matabeleland-north",
-      "citySlug": "bulawayo",
-      "distance": 1027.3442104308212
+      "city": "Lyon",
+      "state": "Auvergne-Rhône-Alpes",
+      "stateSlug": "auvergne-rhone-alpes",
+      "citySlug": "lyon"
     },
     {
-      "city": "Kitwe",
-      "state": "Copperbelt Province",
-      "stateSlug": "copperbelt-province",
-      "citySlug": "kitwe",
-      "distance": 1054.5956751288434
+      "city": "Marseille",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "stateSlug": "provence-alpes-cote-dazur",
+      "citySlug": "marseille"
     }
-  ],
-  "geohash": "kkys5j4",
-  "geohashUrl": "https://geohash.softeng.co/kkys5j4"
+  ]
 }

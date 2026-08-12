@@ -5,7 +5,6 @@
   "stateSlug": "plovdiv-province",
   "citySlug": "plovdiv",
   "country": "Bulgaria",
-  "pincode": "4000",
   "currency": "BGN",
   "symbol": "лв",
   "compliance": "GDPR / CRC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+359",
   "timezone": "Europe/Sofia",
-  "latitude": 42.916,
-  "longitude": 25.1419,
-  "landmark": "Plovdiv Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over A1 networks. Failovers route over Yettel, Vivacom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Plovdiv, Bulgaria",
   "population": 1656427,
@@ -44,38 +40,13 @@
       "city": "Varna",
       "state": "Varna Province",
       "stateSlug": "varna-province",
-      "citySlug": "varna",
-      "distance": 9.545293782348471
+      "citySlug": "varna"
     },
     {
       "city": "Sofia",
       "state": "Sofia City",
       "stateSlug": "sofia-city",
-      "citySlug": "sofia",
-      "distance": 30.601026112062197
-    },
-    {
-      "city": "Bitola",
-      "state": "Pelagonia Region",
-      "stateSlug": "pelagonia-region",
-      "citySlug": "bitola",
-      "distance": 282.8052525303104
-    },
-    {
-      "city": "Skopje",
-      "state": "Skopje Region",
-      "stateSlug": "skopje-region",
-      "citySlug": "skopje",
-      "distance": 296.8144526146351
-    },
-    {
-      "city": "Timisoara",
-      "state": "Timis County",
-      "stateSlug": "timis-county",
-      "citySlug": "timisoara",
-      "distance": 327.96923419671174
+      "citySlug": "sofia"
     }
-  ],
-  "geohash": "sx9uhhe",
-  "geohashUrl": "https://geohash.softeng.co/sx9uhhe"
+  ]
 }

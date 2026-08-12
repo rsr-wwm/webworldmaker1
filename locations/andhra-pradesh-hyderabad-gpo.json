@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "hyderabad-gpo",
   "country": "India",
-  "pincode": "500001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "post_office",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.4202,
-  "longitude": 87.7201,
-  "landmark": "Hyderabad State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Hyderabad G.P.O, India",
   "population": 5929,
   "mobileUsers": 4417,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Manubazar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "manubazar",
-      "distance": 49.01076213673958
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mavelikara",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "mavelikara",
-      "distance": 59.83106404902729
-    },
-    {
-      "city": "Zamania",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "zamania",
-      "distance": 85.9459102695549
-    },
-    {
-      "city": "Pandharpur",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "pandharpur",
-      "distance": 91.97007974061246
+      "citySlug": "nagpur"
     },
     {
-      "city": "Thycaud",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thycaud",
-      "distance": 94.1503491645605
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcwms4g",
-  "geohashUrl": "https://geohash.softeng.co/tcwms4g"
+  ]
 }

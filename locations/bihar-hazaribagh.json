@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "hazaribagh",
   "country": "India",
-  "pincode": "825301",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.2256,
-  "longitude": 72.0154,
-  "landmark": "Hazaribagh Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Hazaribagh, India",
   "population": 888585,
   "mobileUsers": 677990,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tilakwadi East",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tilakwadi-east",
-      "distance": 33.13712991247532
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Amarpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "amarpur",
-      "distance": 79.0877391000089
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Pondicherry",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "pondicherry",
-      "distance": 84.46161343434662
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kimin",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "kimin",
-      "distance": 98.81294158016594
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Baidyanadh Deoghar",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "baidyanadh-deoghar",
-      "distance": 115.0199822908987
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te7jqgb",
-  "geohashUrl": "https://geohash.softeng.co/te7jqgb"
+  ]
 }

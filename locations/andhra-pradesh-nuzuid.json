@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "nuzuid",
   "country": "India",
-  "pincode": "521201",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.6158,
-  "longitude": 85.0633,
-  "landmark": "Nuzuid Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nuzuid, India",
   "population": 5030991,
   "mobileUsers": 3637406,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chirawa",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "chirawa",
-      "distance": 28.25836949947044
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Samalkot",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "samalkot",
-      "distance": 48.98639994464976
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Saikot",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "saikot",
-      "distance": 50.63652972965924
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Allappuzha",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "allappuzha",
-      "distance": 70.61829179173871
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Arundatinagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "arundatinagar",
-      "distance": 76.5866732425285
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfhrz8t",
-  "geohashUrl": "https://geohash.softeng.co/tfhrz8t"
+  ]
 }

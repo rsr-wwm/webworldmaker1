@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "ichalkaranji",
   "country": "India",
-  "pincode": "416115",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.0967,
-  "longitude": 85.9518,
-  "landmark": "Ichalkaranji State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ichalkaranji, India",
   "population": 1369816,
   "mobileUsers": 1067086,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Khurda",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "khurda",
-      "distance": 55.20989627249673
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Parkal",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "parkal",
-      "distance": 73.03034400298431
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nellore",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nellore",
-      "distance": 102.23964824902242
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Adur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "adur",
-      "distance": 104.97822667255731
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bagalkot",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bagalkot",
-      "distance": 105.98361531328004
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgjngyk",
-  "geohashUrl": "https://geohash.softeng.co/tgjngyk"
+  ]
 }

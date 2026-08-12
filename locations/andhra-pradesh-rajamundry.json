@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "rajamundry",
   "country": "India",
-  "pincode": "533101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.0675,
-  "longitude": 86.4039,
-  "landmark": "Rajamundry Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Rajamundry, India",
   "population": 1697718,
   "mobileUsers": 1302149,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nawada",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "nawada",
-      "distance": 42.88117216985261
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kallakurichi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "kallakurichi",
-      "distance": 45.98566485826691
-    },
-    {
-      "city": "Shivajinagar Pune",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "shivajinagar-pune",
-      "distance": 68.81939688841202
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chochuba",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chochuba",
-      "distance": 85.82324478656795
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Gondia",
+      "city": "Mumbai",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "gondia",
-      "distance": 101.94930552085629
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuv3ypm",
-  "geohashUrl": "https://geohash.softeng.co/tuv3ypm"
+  ]
 }

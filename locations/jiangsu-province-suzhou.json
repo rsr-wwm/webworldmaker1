@@ -5,7 +5,6 @@
   "stateSlug": "jiangsu-province",
   "citySlug": "suzhou",
   "country": "China",
-  "pincode": "215000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 35.0329,
-  "longitude": 104.837,
-  "landmark": "Suzhou GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Suzhou, China",
   "population": 6608601,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Guangzhou",
-      "state": "Guangdong Province",
-      "stateSlug": "guangdong-province",
-      "citySlug": "guangzhou",
-      "distance": 2.3893774913179175
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang"
     },
     {
-      "city": "Fuzhou",
-      "state": "Fujian Province",
-      "stateSlug": "fujian-province",
-      "citySlug": "fuzhou",
-      "distance": 2.7428390448401916
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou"
     },
     {
-      "city": "Wuhan",
-      "state": "Hubei Province",
-      "stateSlug": "hubei-province",
-      "citySlug": "wuhan",
-      "distance": 3.1448182770008484
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang"
     },
     {
-      "city": "Foshan",
-      "state": "Guangdong Province",
-      "stateSlug": "guangdong-province",
-      "citySlug": "foshan",
-      "distance": 4.262186675838161
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
     },
     {
-      "city": "Urumqi",
-      "state": "Xinjiang Region",
-      "stateSlug": "xinjiang-region",
-      "citySlug": "urumqi",
-      "distance": 4.271073369311807
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan"
     }
-  ],
-  "geohash": "wq4x39e",
-  "geohashUrl": "https://geohash.softeng.co/wq4x39e"
+  ]
 }

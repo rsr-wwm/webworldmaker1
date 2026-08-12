@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "kolkata",
   "country": "India",
-  "pincode": "700001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.7878,
-  "longitude": 71.1938,
-  "landmark": "Kolkata Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kolkata, India",
   "population": 5305466,
   "mobileUsers": 4000321,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Belgaum",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "belgaum",
-      "distance": 45.87658021060134
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gohana",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "gohana",
-      "distance": 68.58487466804098
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Allahabad City",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "allahabad-city",
-      "distance": 102.8223488948515
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Ajmer",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "ajmer",
-      "distance": 107.00273441378529
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mangan",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "mangan",
-      "distance": 147.86205415615265
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tedwk03",
-  "geohashUrl": "https://geohash.softeng.co/tedwk03"
+  ]
 }

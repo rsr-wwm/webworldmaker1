@@ -5,7 +5,6 @@
   "stateSlug": "punjab",
   "citySlug": "faisalabad",
   "country": "Pakistan",
-  "pincode": "38000",
   "currency": "PKR",
   "symbol": "Rs.",
   "compliance": "PTA Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+92",
   "timezone": "Asia/Karachi",
-  "latitude": 30.1965,
-  "longitude": 69.8297,
-  "landmark": "Faisalabad Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Jazz networks. Failovers route over Telenor, Zong, Ufone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Faisalabad, Pakistan",
   "population": 3837935,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
       "city": "Rawalpindi",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "rawalpindi",
-      "distance": 17.727621215889418
+      "citySlug": "rawalpindi"
     },
     {
-      "city": "Karnal",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "karnal",
-      "distance": 27.605468909096786
-    },
-    {
-      "city": "Nadiad",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "nadiad",
-      "distance": 28.70940892283129
-    },
-    {
-      "city": "Arambagh",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "arambagh",
-      "distance": 34.068572606453294
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan"
     },
     {
       "city": "Karachi",
       "state": "Sindh",
       "stateSlug": "sindh",
-      "citySlug": "karachi",
-      "distance": 37.005769079525436
+      "citySlug": "karachi"
+    },
+    {
+      "city": "Lahore",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "lahore"
     }
-  ],
-  "geohash": "tt3ev10",
-  "geohashUrl": "https://geohash.softeng.co/tt3ev10"
+  ]
 }

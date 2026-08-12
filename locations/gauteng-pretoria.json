@@ -5,7 +5,6 @@
   "stateSlug": "gauteng",
   "citySlug": "pretoria",
   "country": "South Africa",
-  "pincode": "0001",
   "currency": "ZAR",
   "symbol": "R",
   "compliance": "ICASA Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+27",
   "timezone": "Africa/Johannesburg",
-  "latitude": -28.9968,
-  "longitude": 23.8316,
-  "landmark": "Pretoria District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over MTN, Telkom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Pretoria, South Africa",
   "population": 2496175,
@@ -44,38 +40,25 @@
       "city": "Durban",
       "state": "KwaZulu-Natal",
       "stateSlug": "kwazulu-natal",
-      "citySlug": "durban",
-      "distance": 11.08463559342653
+      "citySlug": "durban"
     },
     {
       "city": "Port Elizabeth",
       "state": "Eastern Cape",
       "stateSlug": "eastern-cape",
-      "citySlug": "port-elizabeth",
-      "distance": 12.777104730405748
+      "citySlug": "port-elizabeth"
     },
     {
       "city": "Johannesburg",
       "state": "Gauteng",
       "stateSlug": "gauteng",
-      "citySlug": "johannesburg",
-      "distance": 19.038872897527007
+      "citySlug": "johannesburg"
     },
     {
       "city": "Cape Town",
       "state": "Western Cape",
       "stateSlug": "western-cape",
-      "citySlug": "cape-town",
-      "distance": 29.334463248635043
-    },
-    {
-      "city": "Maseru",
-      "state": "Maseru District",
-      "stateSlug": "maseru-district",
-      "citySlug": "maseru",
-      "distance": 450.58130034866207
+      "citySlug": "cape-town"
     }
-  ],
-  "geohash": "kdbgn33",
-  "geohashUrl": "https://geohash.softeng.co/kdbgn33"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "haryana",
   "citySlug": "bhivani",
   "country": "India",
-  "pincode": "125021",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.2968,
-  "longitude": 73.4682,
-  "landmark": "Bhivani GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bhivani, India",
   "population": 5012306,
   "mobileUsers": 3789303,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chirala",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "chirala",
-      "distance": 64.98697504944307
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Tezpur",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "tezpur",
-      "distance": 107.32265850979776
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tumkur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tumkur",
-      "distance": 108.01673850154228
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "St.Thomas Mount",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "stthomas-mount",
-      "distance": 108.09699850331216
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Davangere",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "davangere",
-      "distance": 110.45848872943631
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tskpzv1",
-  "geohashUrl": "https://geohash.softeng.co/tskpzv1"
+  ]
 }

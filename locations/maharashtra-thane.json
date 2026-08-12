@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "thane",
   "country": "India",
-  "pincode": "400601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.7732,
-  "longitude": 68.7946,
-  "landmark": "Thane GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Thane, India",
   "population": 8583115,
   "mobileUsers": 6677663,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Srirangapatna",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "srirangapatna",
-      "distance": 8.468926244511241
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Melakaveri",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "melakaveri",
-      "distance": 29.867072161440095
-    },
-    {
-      "city": "Karunagapally",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "karunagapally",
-      "distance": 49.65803602407198
-    },
-    {
-      "city": "Kovvur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kovvur",
-      "distance": 59.687171463099425
-    },
-    {
-      "city": "Paratwada",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "paratwada",
-      "distance": 68.56179118032499
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te0vj7w",
-  "geohashUrl": "https://geohash.softeng.co/te0vj7w"
+  ]
 }

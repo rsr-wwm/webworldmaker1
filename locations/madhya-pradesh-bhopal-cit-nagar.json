@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "bhopal-cit-nagar",
   "country": "India",
-  "pincode": "462003",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "town",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 22.4075,
-  "longitude": 86.2626,
-  "landmark": "Bhopal C.I.T. Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bhopal C.I.T. Nagar, India",
   "population": 145098,
   "mobileUsers": 106356,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Station Jadcheral",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "station-jadcheral",
-      "distance": 38.79043637655276
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Baleshwar",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "baleshwar",
-      "distance": 40.49971710276559
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chuchaimalang",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chuchaimalang",
-      "distance": 44.314801193333395
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kanchanbadi",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kanchanbadi",
-      "distance": 53.00361884979193
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Nanglayer",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "nanglayer",
-      "distance": 66.98166123964067
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgvr6zn",
-  "geohashUrl": "https://geohash.softeng.co/tgvr6zn"
+  ]
 }

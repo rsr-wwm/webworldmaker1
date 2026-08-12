@@ -5,7 +5,6 @@
   "stateSlug": "ceara",
   "citySlug": "fortaleza",
   "country": "Brazil",
-  "pincode": "60000-000",
   "currency": "BRL",
   "symbol": "R$",
   "compliance": "ANATEL Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+55",
   "timezone": "America/Araguaina",
-  "latitude": -9.8025,
-  "longitude": -54.9731,
-  "landmark": "Fortaleza Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Vivo networks. Failovers route over Claro, TIM with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Fortaleza, Brazil",
   "population": 2888516,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Manaus",
-      "state": "Amazonas",
-      "stateSlug": "amazonas",
-      "citySlug": "manaus",
-      "distance": 8.79649923451474
-    },
-    {
-      "city": "Curitiba",
-      "state": "Parana",
-      "stateSlug": "parana",
-      "citySlug": "curitiba",
-      "distance": 9.192237968215528
-    },
-    {
-      "city": "Rio de Janeiro",
-      "state": "Rio de Janeiro State",
-      "stateSlug": "rio-de-janeiro-state",
-      "citySlug": "rio-de-janeiro",
-      "distance": 15.860034750446609
-    },
-    {
       "city": "Salvador",
       "state": "Bahia",
       "stateSlug": "bahia",
-      "citySlug": "salvador",
-      "distance": 21.418118690902755
+      "citySlug": "salvador"
+    },
+    {
+      "city": "Recife",
+      "state": "Pernambuco",
+      "stateSlug": "pernambuco",
+      "citySlug": "recife"
+    },
+    {
+      "city": "Manaus",
+      "state": "Amazonas",
+      "stateSlug": "amazonas",
+      "citySlug": "manaus"
+    },
+    {
+      "city": "Goiania",
+      "state": "Goias",
+      "stateSlug": "goias",
+      "citySlug": "goiania"
     },
     {
       "city": "São Paulo",
       "state": "São Paulo State",
       "stateSlug": "sao-paulo-state",
-      "citySlug": "sao-paulo",
-      "distance": 21.945516457581498
+      "citySlug": "sao-paulo"
     }
-  ],
-  "geohash": "6y2bjp9",
-  "geohashUrl": "https://geohash.softeng.co/6y2bjp9"
+  ]
 }

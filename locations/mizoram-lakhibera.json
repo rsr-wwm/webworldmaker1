@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "lakhibera",
   "country": "India",
-  "pincode": "796471",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.8774,
-  "longitude": 87.1762,
-  "landmark": "Lakhibera Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Lakhibera, India",
   "population": 7972735,
   "mobileUsers": 5931714,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Singghat",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "singghat",
-      "distance": 59.010296269362286
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Karong",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "karong",
-      "distance": 77.06645689493638
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Udaipur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "udaipur",
-      "distance": 78.0974597120742
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chaichima",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chaichima",
-      "distance": 79.85836853389318
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Hyderabad",
-      "state": "Telangana",
-      "stateSlug": "telangana",
-      "citySlug": "hyderabad",
-      "distance": 91.37844934864219
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgtyz8x",
-  "geohashUrl": "https://geohash.softeng.co/tgtyz8x"
+  ]
 }

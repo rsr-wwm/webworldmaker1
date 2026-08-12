@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "dharapuram",
   "country": "India",
-  "pincode": "638656",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.9195,
-  "longitude": 70.1322,
-  "landmark": "Dharapuram Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dharapuram, India",
   "population": 8518774,
   "mobileUsers": 6516862,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Visnagar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "visnagar",
-      "distance": 17.02294026986407
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Surat",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "surat",
-      "distance": 62.13447280106119
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Dholpur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "dholpur",
-      "distance": 85.41539445478885
-    },
-    {
-      "city": "Faisalabad",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "faisalabad",
-      "distance": 85.45246807912997
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nadiad",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "nadiad",
-      "distance": 90.66743697548218
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt3zgus",
-  "geohashUrl": "https://geohash.softeng.co/tt3zgus"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "nashik",
   "country": "India",
-  "pincode": "422001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.8697,
-  "longitude": 85.6448,
-  "landmark": "Nashik District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nashik, India",
   "population": 8469665,
   "mobileUsers": 6115098,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ottapalm",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "ottapalm",
-      "distance": 27.86666558316437
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bathinda",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "bathinda",
-      "distance": 56.40866152458293
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chickballapur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chickballapur",
-      "distance": 79.53440899028315
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Firozabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "firozabad",
-      "distance": 87.02360027888457
-    },
-    {
-      "city": "Ramnagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "ramnagar",
-      "distance": 91.96083115996042
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvsvkcs",
-  "geohashUrl": "https://geohash.softeng.co/tvsvkcs"
+  ]
 }

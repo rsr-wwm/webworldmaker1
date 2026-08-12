@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "wanaparthy",
   "country": "India",
-  "pincode": "509103",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.3602,
-  "longitude": 71.192,
-  "landmark": "Wanaparthy Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Wanaparthy, India",
   "population": 7352970,
   "mobileUsers": 5500021,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Morbi",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "morbi",
-      "distance": 24.09462094766071
-    },
-    {
-      "city": "Bangalore G.P.O.",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bangalore-gpo",
-      "distance": 56.59767525459332
-    },
-    {
-      "city": "Srivaikuntam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "srivaikuntam",
-      "distance": 67.85461318218776
-    },
-    {
-      "city": "Quilandy",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "quilandy",
-      "distance": 72.33966926476133
-    },
-    {
-      "city": "Khargone",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "khargone",
-      "distance": 79.67330127155392
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt49k4b",
-  "geohashUrl": "https://geohash.softeng.co/tt49k4b"
+  ]
 }

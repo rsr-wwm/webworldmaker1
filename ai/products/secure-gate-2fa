@@ -8,7 +8,7 @@ When a user logs in, they need that security code right now. If it takes even a 
 
 Key features:
 - Flash Delivery: Sub-5-second latency. Happy users.
-- Auto-Fallback: SMS -> WhatsApp -> Voice. 100% Delivery.
+- Auto-Fallback: SMS -> WhatsApp -> Voice. Maximum delivery.
 - Fraud Guard: Blocks fake traffic bots. Saves money.
 - Global Reach: Works in 220 countries. Scale globally.
 
@@ -24,7 +24,7 @@ Q: How fast is it?
 A: Average delivery globally is 3.5 seconds thanks to our "Priority Direct" operator routes.
 
 Q: What if SMS fails?
-A: The system automatically falls back to WhatsApp, and then a Voice call if needed, ensuring 100% arrival.
+A: The system automatically falls back to WhatsApp, and then a Voice call if needed, ensuring maximum arrival.
 
 Q: Do we pay for failed codes?
 A: No, you only pay for successfully delivered One-Time Passwords.
@@ -48,4 +48,4 @@ Q: What does the "Flash Delivery" capability include?
 A: Sub-5-second latency. The benefit: happy users.
 
 Q: What does the "Auto-Fallback" capability include?
-A: SMS -> WhatsApp -> Voice. The benefit: 100% delivery.
+A: SMS -> WhatsApp -> Voice. The benefit: maximum delivery.

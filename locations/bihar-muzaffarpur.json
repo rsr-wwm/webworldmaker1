@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "muzaffarpur",
   "country": "India",
-  "pincode": "842001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.7821,
-  "longitude": 80.5695,
-  "landmark": "Muzaffarpur Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Muzaffarpur, India",
   "population": 1414021,
   "mobileUsers": 1035063,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bihar Shariff",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bihar-shariff",
-      "distance": 17.41242160497593
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Irinjalakuda",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "irinjalakuda",
-      "distance": 64.35006264829596
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kandi",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "kandi",
-      "distance": 74.00372612070996
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Upling",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "upling",
-      "distance": 77.29860732962128
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tiruvalla",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "tiruvalla",
-      "distance": 81.3086825467119
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuc237s",
-  "geohashUrl": "https://geohash.softeng.co/tuc237s"
+  ]
 }

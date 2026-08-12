@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "palghar",
   "country": "India",
-  "pincode": "401404",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.7116,
-  "longitude": 71.9261,
-  "landmark": "Palghar Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Palghar, India",
   "population": 8541191,
   "mobileUsers": 6585258,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Phatikchara",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "phatikchara",
-      "distance": 26.621375428180258
-    },
-    {
-      "city": "Bhind",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bhind",
-      "distance": 30.959814555558395
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kanjirapally",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kanjirapally",
-      "distance": 50.65104322896149
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Cooch Behar",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "cooch-behar",
-      "distance": 60.34308801158444
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Shabroom",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "shabroom",
-      "distance": 74.45841928269498
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts5nusw",
-  "geohashUrl": "https://geohash.softeng.co/ts5nusw"
+  ]
 }

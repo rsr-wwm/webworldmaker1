@@ -5,7 +5,6 @@
   "stateSlug": "bratislava-region",
   "citySlug": "bratislava",
   "country": "Slovakia",
-  "pincode": "811 01",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / RU",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+421",
   "timezone": "Europe/Bratislava",
-  "latitude": 48.7915,
-  "longitude": 19.6576,
-  "landmark": "Bratislava Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Slovak Telekom, O2, 4ka with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bratislava, Slovakia",
   "population": 4561247,
@@ -45,38 +41,7 @@
       "city": "Kosice",
       "state": "Kosice Region",
       "stateSlug": "kosice-region",
-      "citySlug": "kosice",
-      "distance": 13.299859733608395
-    },
-    {
-      "city": "Budapest",
-      "state": "Central Hungary",
-      "stateSlug": "central-hungary",
-      "citySlug": "budapest",
-      "distance": 182.4918328595889
-    },
-    {
-      "city": "Miskolc",
-      "state": "Borsod-Abauj-Zemplen",
-      "stateSlug": "borsod-abauj-zemplen",
-      "citySlug": "miskolc",
-      "distance": 197.9868572365615
-    },
-    {
-      "city": "Debrecen",
-      "state": "Hajdu-Bihar",
-      "stateSlug": "hajdu-bihar",
-      "citySlug": "debrecen",
-      "distance": 220.52619842770486
-    },
-    {
-      "city": "Brno",
-      "state": "South Moravian",
-      "stateSlug": "south-moravian",
-      "citySlug": "brno",
-      "distance": 323.7056956763446
+      "citySlug": "kosice"
     }
-  ],
-  "geohash": "u2tvx64",
-  "geohashUrl": "https://geohash.softeng.co/u2tvx64"
+  ]
 }

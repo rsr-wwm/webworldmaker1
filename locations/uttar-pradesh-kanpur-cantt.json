@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "kanpur-cantt",
   "country": "India",
-  "pincode": "208004",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.7324,
-  "longitude": 81.6331,
-  "landmark": "Kanpur Cantt. Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kanpur Cantt., India",
   "population": 4861261,
   "mobileUsers": 3626500,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Balrampur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "balrampur",
-      "distance": 14.16837487036727
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Padrauna",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "padrauna",
-      "distance": 52.84418713539147
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bharatpur City",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bharatpur-city",
-      "distance": 75.71487273542871
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mohripur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "mohripur",
-      "distance": 82.80628900060334
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Light core peak",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "light-core-peak",
-      "distance": 96.56669215841926
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu4p187",
-  "geohashUrl": "https://geohash.softeng.co/tu4p187"
+  ]
 }

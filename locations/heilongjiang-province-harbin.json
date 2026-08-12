@@ -5,7 +5,6 @@
   "stateSlug": "heilongjiang-province",
   "citySlug": "harbin",
   "country": "China",
-  "pincode": "150000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 35.192,
-  "longitude": 105.0372,
-  "landmark": "Harbin Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Harbin, China",
   "population": 8278919,
@@ -44,38 +40,31 @@
       "city": "Shijiazhuang",
       "state": "Hebei Province",
       "stateSlug": "hebei-province",
-      "citySlug": "shijiazhuang",
-      "distance": 1.3889285978692536
+      "citySlug": "shijiazhuang"
     },
     {
-      "city": "Zhengzhou",
-      "state": "Henan Province",
-      "stateSlug": "henan-province",
-      "citySlug": "zhengzhou",
-      "distance": 6.01719697949198
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou"
     },
     {
-      "city": "Kunming",
-      "state": "Yunnan Province",
-      "stateSlug": "yunnan-province",
-      "citySlug": "kunming",
-      "distance": 6.625536583538589
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang"
     },
     {
-      "city": "Xian",
-      "state": "Shaanxi Province",
-      "stateSlug": "shaanxi-province",
-      "citySlug": "xian",
-      "distance": 8.094448342524965
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
     },
     {
-      "city": "Beijing",
-      "state": "Beijing Municipality",
-      "stateSlug": "beijing-municipality",
-      "citySlug": "beijing",
-      "distance": 9.107466918505741
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan"
     }
-  ],
-  "geohash": "wq68nnt",
-  "geohashUrl": "https://geohash.softeng.co/wq68nnt"
+  ]
 }

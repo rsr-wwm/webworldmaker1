@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "kottarakara",
   "country": "India",
-  "pincode": "691506",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.6254,
-  "longitude": 72.2712,
-  "landmark": "Kottarakara Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kottarakara, India",
   "population": 4373629,
   "mobileUsers": 3258353,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sawaimadhopur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sawaimadhopur",
-      "distance": 35.99645267655239
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mao",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "mao",
-      "distance": 39.14442952846199
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Patan",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "patan",
-      "distance": 48.434567035909936
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Alwar",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "alwar",
-      "distance": 52.66770104474594
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Etawah",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "etawah",
-      "distance": 62.81846572355508
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt72s94",
-  "geohashUrl": "https://geohash.softeng.co/tt72s94"
+  ]
 }

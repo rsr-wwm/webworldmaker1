@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "ratangarh",
   "country": "India",
-  "pincode": "331022",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 8.421,
-  "longitude": 75.0348,
-  "landmark": "Ratangarh Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ratangarh, India",
   "population": 4953274,
   "mobileUsers": 3635703,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kongkopi",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "kongkopi",
-      "distance": 34.71899458730389
-    },
-    {
-      "city": "Guna",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "guna",
-      "distance": 36.75303455761226
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rajaji Nagar",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "rajaji-nagar",
-      "distance": 88.28849375487555
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Gandhinagar (Jaipur)",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "gandhinagar-jaipur",
-      "distance": 93.28522314251545
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mandvi",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "mandvi",
-      "distance": 150.07339075682208
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9mrgky",
-  "geohashUrl": "https://geohash.softeng.co/t9mrgky"
+  ]
 }

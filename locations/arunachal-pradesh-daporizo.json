@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "daporizo",
   "country": "India",
-  "pincode": "791122",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.9322,
-  "longitude": 81.1671,
-  "landmark": "Daporizo State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Daporizo, India",
   "population": 3300388,
   "mobileUsers": 2396081,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Pagaiyangdong",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "pagaiyangdong",
-      "distance": 33.86057546440907
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Aluva",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "aluva",
-      "distance": 57.19073337112764
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ambasamudram",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "ambasamudram",
-      "distance": 63.78784111667456
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Amadalavalasa",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "amadalavalasa",
-      "distance": 86.710601607507
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Thodupuzha",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thodupuzha",
-      "distance": 89.80700148114441
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgcsz08",
-  "geohashUrl": "https://geohash.softeng.co/tgcsz08"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "tehran-province",
   "citySlug": "tehran",
   "country": "Iran",
-  "pincode": "11111",
   "currency": "IRR",
   "symbol": "﷼",
   "compliance": "CRA Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+98",
   "timezone": "Asia/Tehran",
-  "latitude": 31.8918,
-  "longitude": 52.8092,
-  "landmark": "Tehran Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over MCI networks. Failovers route over Irancell, RighTel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tehran, Iran",
   "population": 3015169,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Mashhad",
-      "state": "Razavi Khorasan",
-      "stateSlug": "razavi-khorasan",
-      "citySlug": "mashhad",
-      "distance": 6.5052596510605785
-    },
-    {
       "city": "Tabriz",
       "state": "East Azerbaijan",
       "stateSlug": "east-azerbaijan",
-      "citySlug": "tabriz",
-      "distance": 18.983075911502468
+      "citySlug": "tabriz"
     },
     {
       "city": "Isfahan",
       "state": "Isfahan Province",
       "stateSlug": "isfahan-province",
-      "citySlug": "isfahan",
-      "distance": 34.146428356940774
+      "citySlug": "isfahan"
     },
     {
-      "city": "Kuwait City",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "kuwait-city",
-      "distance": 540.3545819417146
-    },
-    {
-      "city": "Manama",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "manama",
-      "distance": 694.1050477299699
+      "city": "Mashhad",
+      "state": "Razavi Khorasan",
+      "stateSlug": "razavi-khorasan",
+      "citySlug": "mashhad"
     }
-  ],
-  "geohash": "tjtt3tw",
-  "geohashUrl": "https://geohash.softeng.co/tjtt3tw"
+  ]
 }

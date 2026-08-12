@@ -5,7 +5,6 @@
   "stateSlug": "atlantico-department",
   "citySlug": "barranquilla",
   "country": "Colombia",
-  "pincode": "080001",
   "currency": "COP",
   "symbol": "$",
   "compliance": "CRC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+57",
   "timezone": "America/Bogota",
-  "latitude": 3.9646,
-  "longitude": -71.971,
-  "landmark": "Barranquilla Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Claro networks. Failovers route over Movistar, Tigo with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Barranquilla, Colombia",
   "population": 2119922,
@@ -44,38 +40,31 @@
       "city": "Bucaramanga",
       "state": "Santander Department",
       "stateSlug": "santander-department",
-      "citySlug": "bucaramanga",
-      "distance": 10.727488443374444
-    },
-    {
-      "city": "Bogota",
-      "state": "Bogota Capital District",
-      "stateSlug": "bogota-capital-district",
-      "citySlug": "bogota",
-      "distance": 15.585173161408864
-    },
-    {
-      "city": "Cali",
-      "state": "Valle del Cauca Department",
-      "stateSlug": "valle-del-cauca-department",
-      "citySlug": "cali",
-      "distance": 18.115680981573526
+      "citySlug": "bucaramanga"
     },
     {
       "city": "Cartagena",
       "state": "Bolivar Department",
       "stateSlug": "bolivar-department",
-      "citySlug": "cartagena",
-      "distance": 21.597730036421034
+      "citySlug": "cartagena"
     },
     {
       "city": "Medellin",
       "state": "Antioquia Department",
       "stateSlug": "antioquia-department",
-      "citySlug": "medellin",
-      "distance": 23.361893665815042
+      "citySlug": "medellin"
+    },
+    {
+      "city": "Cali",
+      "state": "Valle del Cauca Department",
+      "stateSlug": "valle-del-cauca-department",
+      "citySlug": "cali"
+    },
+    {
+      "city": "Bogota",
+      "state": "Bogota Capital District",
+      "stateSlug": "bogota-capital-district",
+      "citySlug": "bogota"
     }
-  ],
-  "geohash": "d2syd38",
-  "geohashUrl": "https://geohash.softeng.co/d2syd38"
+  ]
 }

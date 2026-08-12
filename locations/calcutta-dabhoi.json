@@ -5,7 +5,6 @@
   "stateSlug": "calcutta",
   "citySlug": "dabhoi",
   "country": "India",
-  "pincode": "391110",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.0658,
-  "longitude": 76.229,
-  "landmark": "Dabhoi Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dabhoi, India",
   "population": 6290374,
   "mobileUsers": 4843587,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Udupi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "udupi",
-      "distance": 12.92950163111936
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Itanagar G.P.O",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "itanagar-gpo",
-      "distance": 45.2451095420128
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kamalpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kamalpur",
-      "distance": 87.84382868037552
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Dabki",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "dabki",
-      "distance": 90.78581689374333
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bharuch",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bharuch",
-      "distance": 93.10320955026452
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tenny8u",
-  "geohashUrl": "https://geohash.softeng.co/tenny8u"
+  ]
 }

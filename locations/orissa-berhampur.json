@@ -5,7 +5,6 @@
   "stateSlug": "orissa",
   "citySlug": "berhampur",
   "country": "India",
-  "pincode": "760001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.1342,
-  "longitude": 76.6109,
-  "landmark": "Berhampur GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Berhampur, India",
   "population": 5109412,
   "mobileUsers": 3913809,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Aruppukottai",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "aruppukottai",
-      "distance": 17.007998209332605
-    },
-    {
-      "city": "Durg",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "durg",
-      "distance": 44.995139758838306
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rajampet",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "rajampet",
-      "distance": 46.94945573204564
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nanjangud",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "nanjangud",
-      "distance": 95.91032756987482
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bhuj",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bhuj",
-      "distance": 96.20532561232174
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdy7z34",
-  "geohashUrl": "https://geohash.softeng.co/tdy7z34"
+  ]
 }

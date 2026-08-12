@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "karong",
   "country": "India",
-  "pincode": "795106",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.3339,
-  "longitude": 86.6172,
-  "landmark": "Karong State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Karong, India",
   "population": 4946035,
   "mobileUsers": 3566091,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Vimangad",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "vimangad",
-      "distance": 43.55862902753577
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gopeshwar",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "gopeshwar",
-      "distance": 65.43731431349484
-    },
-    {
-      "city": "Gular thal",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "gular-thal",
-      "distance": 66.38516304826305
-    },
-    {
-      "city": "Lakhibera",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "lakhibera",
-      "distance": 77.06645689493638
-    },
-    {
-      "city": "Malvan",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "malvan",
-      "distance": 81.94445031035272
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgv9758",
-  "geohashUrl": "https://geohash.softeng.co/tgv9758"
+  ]
 }

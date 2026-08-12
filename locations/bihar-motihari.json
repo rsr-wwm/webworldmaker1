@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "motihari",
   "country": "India",
-  "pincode": "845401",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.7799,
-  "longitude": 84.991,
-  "landmark": "Motihari Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Motihari, India",
   "population": 2876678,
   "mobileUsers": 2206412,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bhanjanagar",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bhanjanagar",
-      "distance": 37.92141521930988
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ramnagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "ramnagar",
-      "distance": 44.209748655476155
-    },
-    {
-      "city": "Malda",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "malda",
-      "distance": 45.895600006651414
-    },
-    {
-      "city": "Trimulgherry",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "trimulgherry",
-      "distance": 64.53378440257289
-    },
-    {
-      "city": "Aurangabad",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "aurangabad",
-      "distance": 79.35270437428309
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvkrn52",
-  "geohashUrl": "https://geohash.softeng.co/tvkrn52"
+  ]
 }

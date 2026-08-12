@@ -5,7 +5,6 @@
   "stateSlug": "goa",
   "citySlug": "vela",
   "country": "India",
-  "pincode": "412212",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 832",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.5492,
-  "longitude": 73.9114,
-  "landmark": "Vela Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Vela, India",
   "population": 9001341,
   "mobileUsers": 6733003,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Banswara",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "banswara",
-      "distance": 41.39385578199506
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Tiruchendur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruchendur",
-      "distance": 43.597172803300516
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Palakol",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "palakol",
-      "distance": 66.95638201402335
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Sairang",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "sairang",
-      "distance": 67.833679630318
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Amalapuram",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "amalapuram",
-      "distance": 76.47967424660617
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdu83ys",
-  "geohashUrl": "https://geohash.softeng.co/tdu83ys"
+  ]
 }

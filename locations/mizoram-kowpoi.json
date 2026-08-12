@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "kowpoi",
   "country": "India",
-  "pincode": "796070",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.1571,
-  "longitude": 72.3079,
-  "landmark": "Kowpoi Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kowpoi, India",
   "population": 8996703,
   "mobileUsers": 6657560,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sirsi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "sirsi",
-      "distance": 45.45682170121565
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Agra",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "agra",
-      "distance": 54.354129795301894
-    },
-    {
-      "city": "Champang",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "champang",
-      "distance": 83.09697088997761
-    },
-    {
-      "city": "Girgaon",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "girgaon",
-      "distance": 95.07079171013892
+      "citySlug": "nagpur"
     },
     {
-      "city": "Mangaldoi",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "mangaldoi",
-      "distance": 102.29217509806216
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdeqjrm",
-  "geohashUrl": "https://geohash.softeng.co/tdeqjrm"
+  ]
 }

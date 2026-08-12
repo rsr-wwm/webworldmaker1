@@ -5,7 +5,6 @@
   "stateSlug": "saskatchewan",
   "citySlug": "saskatoon",
   "country": "Canada",
-  "pincode": "S7K",
   "currency": "CAD",
   "symbol": "C$",
   "compliance": "CRTC / CASL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 416",
   "timezone": "America/Toronto",
-  "latitude": 52.131802,
-  "longitude": -106.660767,
-  "landmark": "Saskatoon Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Saskatoon, Canada",
   "population": 644872,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Hamilton",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "hamilton"
+    },
+    {
+      "city": "London",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "london"
+    },
+    {
+      "city": "Victoria",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "victoria"
+    },
+    {
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor"
+    },
+    {
       "city": "Regina",
       "state": "Saskatchewan",
       "stateSlug": "saskatchewan",
-      "citySlug": "regina",
-      "distance": 235.09046688637764
-    },
-    {
-      "city": "Edmonton",
-      "state": "Alberta",
-      "stateSlug": "alberta",
-      "citySlug": "edmonton",
-      "distance": 484.7662372692413
-    },
-    {
-      "city": "Calgary",
-      "state": "Alberta",
-      "stateSlug": "alberta",
-      "citySlug": "calgary",
-      "distance": 524.8352760771969
-    },
-    {
-      "city": "El Paso",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "el-paso",
-      "distance": 645.0448400031148
-    },
-    {
-      "city": "Tampa",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "tampa",
-      "distance": 645.3094434780551
+      "citySlug": "regina"
     }
-  ],
-  "geohash": "c9k0sf7",
-  "geohashUrl": "https://geohash.softeng.co/c9k0sf7"
+  ]
 }

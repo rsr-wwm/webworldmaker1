@@ -5,7 +5,6 @@
   "stateSlug": "ankara-province",
   "citySlug": "ankara",
   "country": "Türkiye",
-  "pincode": "06000",
   "currency": "TRY",
   "symbol": "₺",
   "compliance": "BTK Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+90",
   "timezone": "Europe/Istanbul",
-  "latitude": 38.8092,
-  "longitude": 35.088,
-  "landmark": "Ankara Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Turkcell networks. Failovers route over Vodafone, Türk Telekom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ankara, Türkiye",
   "population": 1168571,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Kayseri",
-      "state": "Kayseri Province",
-      "stateSlug": "kayseri-province",
-      "citySlug": "kayseri",
-      "distance": 12.580678227895298
+      "city": "Antalya",
+      "state": "Antalya Province",
+      "stateSlug": "antalya-province",
+      "citySlug": "antalya"
+    },
+    {
+      "city": "Adana",
+      "state": "Adana Province",
+      "stateSlug": "adana-province",
+      "citySlug": "adana"
     },
     {
       "city": "Bursa",
       "state": "Bursa Province",
       "stateSlug": "bursa-province",
-      "citySlug": "bursa",
-      "distance": 25.403815247116647
+      "citySlug": "bursa"
     },
     {
-      "city": "Izmir",
-      "state": "Izmir Province",
-      "stateSlug": "izmir-province",
-      "citySlug": "izmir",
-      "distance": 29.792904455994158
+      "city": "Konya",
+      "state": "Konya Province",
+      "stateSlug": "konya-province",
+      "citySlug": "konya"
     },
     {
-      "city": "Antalya",
-      "state": "Antalya Province",
-      "stateSlug": "antalya-province",
-      "citySlug": "antalya",
-      "distance": 29.94611608323008
-    },
-    {
-      "city": "Istanbul",
-      "state": "Istanbul Province",
-      "stateSlug": "istanbul-province",
-      "citySlug": "istanbul",
-      "distance": 33.1915811962214
+      "city": "Gaziantep",
+      "state": "Gaziantep Province",
+      "stateSlug": "gaziantep-province",
+      "citySlug": "gaziantep"
     }
-  ],
-  "geohash": "sybuy2y",
-  "geohashUrl": "https://geohash.softeng.co/sybuy2y"
+  ]
 }

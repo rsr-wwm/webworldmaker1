@@ -5,7 +5,6 @@
   "stateSlug": "minas-gerais",
   "citySlug": "belo-horizonte",
   "country": "Brazil",
-  "pincode": "30000-000",
   "currency": "BRL",
   "symbol": "R$",
   "compliance": "ANATEL Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+55",
   "timezone": "America/Araguaina",
-  "latitude": -10.1564,
-  "longitude": -55.1664,
-  "landmark": "Belo Horizonte Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Vivo networks. Failovers route over Claro, TIM with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Belo Horizonte, Brazil",
   "population": 3816334,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Goiania",
-      "state": "Goias",
-      "stateSlug": "goias",
-      "citySlug": "goiania",
-      "distance": 17.733820725451615
-    },
-    {
-      "city": "Brasilia",
-      "state": "Federal District",
-      "stateSlug": "federal-district",
-      "citySlug": "brasilia",
-      "distance": 19.30857519572449
-    },
-    {
       "city": "Salvador",
       "state": "Bahia",
       "stateSlug": "bahia",
-      "citySlug": "salvador",
-      "distance": 24.570913951657978
+      "citySlug": "salvador"
     },
     {
-      "city": "Porto Alegre",
-      "state": "Rio Grande do Sul",
-      "stateSlug": "rio-grande-do-sul",
-      "citySlug": "porto-alegre",
-      "distance": 29.341594546009613
+      "city": "Recife",
+      "state": "Pernambuco",
+      "stateSlug": "pernambuco",
+      "citySlug": "recife"
     },
     {
-      "city": "São Paulo",
-      "state": "São Paulo State",
-      "stateSlug": "sao-paulo-state",
-      "citySlug": "sao-paulo",
-      "distance": 32.149588192557275
+      "city": "Fortaleza",
+      "state": "Ceara",
+      "stateSlug": "ceara",
+      "citySlug": "fortaleza"
+    },
+    {
+      "city": "Manaus",
+      "state": "Amazonas",
+      "stateSlug": "amazonas",
+      "citySlug": "manaus"
+    },
+    {
+      "city": "Goiania",
+      "state": "Goias",
+      "stateSlug": "goias",
+      "citySlug": "goiania"
     }
-  ],
-  "geohash": "6y0y0xj",
-  "geohashUrl": "https://geohash.softeng.co/6y0y0xj"
+  ]
 }

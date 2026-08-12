@@ -5,7 +5,6 @@
   "stateSlug": "hokkaido",
   "citySlug": "sapporo",
   "country": "Japan",
-  "pincode": "060-0808",
   "currency": "JPY",
   "symbol": "¥",
   "compliance": "MIC Telecommunications Act",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+81 3",
   "timezone": "Asia/Tokyo",
-  "latitude": 43.061936,
-  "longitude": 141.3542924,
-  "landmark": "Sapporo GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Sapporo, Japan",
   "population": 4758946,
@@ -44,38 +40,31 @@
       "city": "Sendai",
       "state": "Miyagi Prefecture",
       "stateSlug": "miyagi-prefecture",
-      "citySlug": "sendai",
-      "distance": 534.6537828005986
+      "citySlug": "sendai"
+    },
+    {
+      "city": "Hiroshima",
+      "state": "Hiroshima Prefecture",
+      "stateSlug": "hiroshima-prefecture",
+      "citySlug": "hiroshima"
+    },
+    {
+      "city": "Kitakyushu",
+      "state": "Fukuoka Prefecture",
+      "stateSlug": "fukuoka-prefecture",
+      "citySlug": "kitakyushu"
     },
     {
       "city": "Niigata",
       "state": "Niigata Prefecture",
       "stateSlug": "niigata-prefecture",
-      "citySlug": "niigata",
-      "distance": 604.7329483685518
+      "citySlug": "niigata"
     },
     {
-      "city": "Saitama",
-      "state": "Saitama Prefecture",
-      "stateSlug": "saitama-prefecture",
-      "citySlug": "saitama",
-      "distance": 813.9132166385089
-    },
-    {
-      "city": "Tokyo",
-      "state": "Tokyo Metropolis",
-      "stateSlug": "tokyo-metropolis",
-      "citySlug": "tokyo",
-      "distance": 832.4381731398765
-    },
-    {
-      "city": "Yokohama",
-      "state": "Kanagawa Prefecture",
-      "stateSlug": "kanagawa-prefecture",
-      "citySlug": "yokohama",
-      "distance": 859.1716154099761
+      "city": "Hamamatsu",
+      "state": "Shizuoka Prefecture",
+      "stateSlug": "shizuoka-prefecture",
+      "citySlug": "hamamatsu"
     }
-  ],
-  "geohash": "xpssbx5",
-  "geohashUrl": "https://geohash.softeng.co/xpssbx5"
+  ]
 }

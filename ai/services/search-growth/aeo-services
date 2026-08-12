@@ -4,12 +4,12 @@ Category: Search Growth Solutions
 
 Optimize website architecture and copy to answer user questions directly on voice search and AI search systems.
 
-Answer Engine Optimization (AEO) positions your business as the definitive zero-click answer on Google Rich Results, voice search assistants, and AI answer boxes. By deploying precise FAQ schemas, semantic content clusters, and sub-second asset delivery, we capture prime featured snippet positions across intent-rich search queries.
+Answer Engine Optimization (AEO) positions your business as the definitive zero-click answer on Google Rich Results, voice search assistants, and AI answer boxes. By deploying precise FAQ schemas, semantic content clusters, and low-latency asset delivery, we capture prime featured snippet positions across intent-rich search queries.
 
 Key features:
 - FAQ Schema Coding: Implement advanced JSON-LD FAQ tags to capture Google search cards. Immediate search visibility.
 - Conversational Copywriting: Format content to match spoken questions and voice queries. High voice search capture.
-- Sub-Second Load Speeds: Clean backend code to deliver instant answers to scraper bots. Preferred source selection.
+- low-latency Load Speeds: Clean backend code to deliver instant answers to scraper bots. Preferred source selection.
 - Semantic Answer Clusters: Authoritative database maps answering who, what, why, and how. Broad query coverage.
 
 FAQs:
@@ -26,7 +26,7 @@ A: Implement advanced JSON-LD FAQ tags to capture Google search cards. The benef
 Q: What does the "Conversational Copywriting" capability include?
 A: Format content to match spoken questions and voice queries. The benefit: high voice search capture.
 
-Q: What does the "Sub-Second Load Speeds" capability include?
+Q: What does the "low-latency Load Speeds" capability include?
 A: Clean backend code to deliver instant answers to scraper bots. The benefit: preferred source selection.
 
 Q: What does the "Semantic Answer Clusters" capability include?

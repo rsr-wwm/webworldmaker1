@@ -5,7 +5,6 @@
   "stateSlug": "nicosia-district",
   "citySlug": "nicosia",
   "country": "Cyprus",
-  "pincode": "1010",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / OCECPR",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+357",
   "timezone": "Asia/Famagusta",
-  "latitude": 35.1982,
-  "longitude": 32.9723,
-  "landmark": "Nicosia State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Cyta networks. Failovers route over Epic, Cablenet with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Nicosia, Cyprus",
   "population": 4320495,
@@ -44,38 +40,7 @@
       "city": "Limassol",
       "state": "Limassol District",
       "stateSlug": "limassol-district",
-      "citySlug": "limassol",
-      "distance": 23.86974134450856
-    },
-    {
-      "city": "Beirut",
-      "state": "Beirut Governorate",
-      "stateSlug": "beirut-governorate",
-      "citySlug": "beirut",
-      "distance": 303.7366277886682
-    },
-    {
-      "city": "Tel Aviv",
-      "state": "Tel Aviv District",
-      "stateSlug": "tel-aviv-district",
-      "citySlug": "tel-aviv",
-      "distance": 423.802710377447
-    },
-    {
-      "city": "Ashdod",
-      "state": "Southern District",
-      "stateSlug": "southern-district",
-      "citySlug": "ashdod",
-      "distance": 424.48125167652904
-    },
-    {
-      "city": "Ramallah",
-      "state": "West Bank",
-      "stateSlug": "west-bank",
-      "citySlug": "ramallah",
-      "distance": 427.49272714656485
+      "citySlug": "limassol"
     }
-  ],
-  "geohash": "swr2nr9",
-  "geohashUrl": "https://geohash.softeng.co/swr2nr9"
+  ]
 }

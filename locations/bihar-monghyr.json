@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "monghyr",
   "country": "India",
-  "pincode": "811201",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.183,
-  "longitude": 84.5214,
-  "landmark": "Monghyr Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Monghyr, India",
   "population": 7962869,
   "mobileUsers": 5972151,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kamareddy",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kamareddy",
-      "distance": 18.34629742093344
-    },
-    {
-      "city": "Kota",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "kota",
-      "distance": 32.70160486788651
-    },
-    {
-      "city": "Rampur Bushahr",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "rampur-bushahr",
-      "distance": 46.31771198276347
-    },
-    {
-      "city": "Datia",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "datia",
-      "distance": 56.9444540458564
+      "citySlug": "bhopal"
     },
     {
-      "city": "Shrikakulam",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "shrikakulam",
-      "distance": 60.573777874528794
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfuh564",
-  "geohashUrl": "https://geohash.softeng.co/tfuh564"
+  ]
 }

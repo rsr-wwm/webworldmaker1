@@ -5,7 +5,6 @@
   "stateSlug": "ontario",
   "citySlug": "hamilton",
   "country": "Canada",
-  "pincode": "L8P",
   "currency": "CAD",
   "symbol": "C$",
   "compliance": "CRTC / CASL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 416",
   "timezone": "America/Toronto",
-  "latitude": 43.2557,
-  "longitude": -79.8711,
-  "landmark": "Hamilton Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Hamilton, Canada",
   "population": 4091987,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Toronto",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "toronto",
-      "distance": 59.18363511119452
-    },
-    {
       "city": "London",
       "state": "Ontario",
       "stateSlug": "ontario",
-      "citySlug": "london",
-      "distance": 115.52640097355668
+      "citySlug": "london"
     },
     {
-      "city": "Phoenix",
-      "state": "Arizona",
-      "stateSlug": "arizona",
-      "citySlug": "phoenix",
-      "distance": 231.11961501819616
+      "city": "Victoria",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "victoria"
     },
     {
       "city": "Windsor",
       "state": "Ontario",
       "stateSlug": "ontario",
-      "citySlug": "windsor",
-      "distance": 275.56166986018405
+      "citySlug": "windsor"
     },
     {
-      "city": "Kingston",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "kingston",
-      "distance": 299.9937387579024
+      "city": "Regina",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "regina"
+    },
+    {
+      "city": "Saskatoon",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "saskatoon"
     }
-  ],
-  "geohash": "dpxnn6r",
-  "geohashUrl": "https://geohash.softeng.co/dpxnn6r"
+  ]
 }

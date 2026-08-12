@@ -5,7 +5,6 @@
   "stateSlug": "orissa",
   "citySlug": "dhenkanal",
   "country": "India",
-  "pincode": "759001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.07,
-  "longitude": 82.838,
-  "landmark": "Dhenkanal Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dhenkanal, India",
   "population": 3174237,
   "mobileUsers": 2425117,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Pani Sagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "pani-sagar",
-      "distance": 19.24788108942951
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Olavakkot",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "olavakkot",
-      "distance": 22.512437945197547
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ambala City",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "ambala-city",
-      "distance": 24.907752500334492
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Adilabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "adilabad",
-      "distance": 65.97667626517384
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Aldona",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "aldona",
-      "distance": 76.72136402663648
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu6yt5b",
-  "geohashUrl": "https://geohash.softeng.co/tu6yt5b"
+  ]
 }

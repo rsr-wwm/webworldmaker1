@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "chinchbunder",
   "country": "India",
-  "pincode": "400009",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.4097,
-  "longitude": 79.0119,
-  "landmark": "Chinchbunder Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chinchbunder, India",
   "population": 2076593,
   "mobileUsers": 1509683,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bokshanagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "bokshanagar",
-      "distance": 24.169752844279913
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Moga",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "moga",
-      "distance": 41.71047362327343
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Namakkal",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "namakkal",
-      "distance": 60.305519313526915
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Sugumu",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "sugumu",
-      "distance": 61.956906985515914
-    },
-    {
-      "city": "Leh",
-      "state": "Jammu & Kashmir",
-      "stateSlug": "jammu-and-kashmir",
-      "citySlug": "leh",
-      "distance": 67.25012055232514
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg20tzq",
-  "geohashUrl": "https://geohash.softeng.co/tg20tzq"
+  ]
 }

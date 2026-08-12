@@ -5,7 +5,6 @@
   "stateSlug": "ashanti-region",
   "citySlug": "kumasi",
   "country": "Ghana",
-  "pincode": "00233",
   "currency": "GHS",
   "symbol": "GH₵",
   "compliance": "NCA Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+233",
   "timezone": "Africa/Accra",
-  "latitude": 7.933,
-  "longitude": -2.1883,
-  "landmark": "Kumasi Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Telecel, AT with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kumasi, Ghana",
   "population": 1404054,
@@ -44,38 +40,7 @@
       "city": "Accra",
       "state": "Greater Accra",
       "stateSlug": "greater-accra",
-      "citySlug": "accra",
-      "distance": 37.08485320129237
-    },
-    {
-      "city": "Abidjan",
-      "state": "Lagunes District",
-      "stateSlug": "lagunes-district",
-      "citySlug": "abidjan",
-      "distance": 290.1223236748255
-    },
-    {
-      "city": "Bouake",
-      "state": "Vallee du Bandama",
-      "stateSlug": "vallee-du-bandama",
-      "citySlug": "bouake",
-      "distance": 311.0035532541076
-    },
-    {
-      "city": "Yamoussoukro",
-      "state": "Lacs District",
-      "stateSlug": "lacs-district",
-      "citySlug": "yamoussoukro",
-      "distance": 311.49725969926806
-    },
-    {
-      "city": "Lome",
-      "state": "Maritime Region",
-      "stateSlug": "maritime-region",
-      "citySlug": "lome",
-      "distance": 368.83214536076014
+      "citySlug": "accra"
     }
-  ],
-  "geohash": "ecqmnhn",
-  "geohashUrl": "https://geohash.softeng.co/ecqmnhn"
+  ]
 }

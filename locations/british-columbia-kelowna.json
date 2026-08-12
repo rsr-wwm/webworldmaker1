@@ -5,7 +5,6 @@
   "stateSlug": "british-columbia",
   "citySlug": "kelowna",
   "country": "Canada",
-  "pincode": "V1Y",
   "currency": "CAD",
   "symbol": "C$",
   "compliance": "CRTC / CASL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 416",
   "timezone": "America/Toronto",
-  "latitude": 49.8879177,
-  "longitude": -119.495902,
-  "landmark": "Kelowna Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kelowna, Canada",
   "population": 4285514,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "McAllen",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "mcallen",
-      "distance": 228.17463822307445
+      "city": "Hamilton",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "hamilton"
     },
     {
-      "city": "Vancouver",
-      "state": "British Columbia",
-      "stateSlug": "british-columbia",
-      "citySlug": "vancouver",
-      "distance": 270.00721220575997
+      "city": "London",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "london"
     },
     {
       "city": "Victoria",
       "state": "British Columbia",
       "stateSlug": "british-columbia",
-      "citySlug": "victoria",
-      "distance": 324.74833972436073
+      "citySlug": "victoria"
     },
     {
-      "city": "Calgary",
-      "state": "Alberta",
-      "stateSlug": "alberta",
-      "citySlug": "calgary",
-      "distance": 405.7587326184001
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor"
     },
     {
-      "city": "Edmonton",
-      "state": "Alberta",
-      "stateSlug": "alberta",
-      "citySlug": "edmonton",
-      "distance": 579.7885753554841
+      "city": "Regina",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "regina"
     }
-  ],
-  "geohash": "c2g5bcc",
-  "geohashUrl": "https://geohash.softeng.co/c2g5bcc"
+  ]
 }

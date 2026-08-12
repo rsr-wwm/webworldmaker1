@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "aizawal-gpo",
   "country": "India",
-  "pincode": "796001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "post_office",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.778,
-  "longitude": 72.0512,
-  "landmark": "Aizawal Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Aizawal G.P.O, India",
   "population": 42606,
   "mobileUsers": 30676,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Patan",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "patan",
-      "distance": 72.96767540119603
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Morbi",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "morbi",
-      "distance": 77.21742196282376
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Quilandy",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "quilandy",
-      "distance": 81.20345472062108
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Wanaparthy",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "wanaparthy",
-      "distance": 95.90829381686925
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kottarakara",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kottarakara",
-      "distance": 96.61583031840478
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt55xwf",
-  "geohashUrl": "https://geohash.softeng.co/tt55xwf"
+  ]
 }

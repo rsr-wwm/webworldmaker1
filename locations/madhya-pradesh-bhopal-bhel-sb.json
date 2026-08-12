@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "bhopal-bhel-sb",
   "country": "India",
-  "pincode": "462022",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 22.3382,
-  "longitude": 74.4462,
-  "landmark": "Bhopal BHEL (SB) Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bhopal BHEL (SB), India",
   "population": 8000817,
   "mobileUsers": 5776589,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ashikkal",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "ashikkal",
-      "distance": 34.57092065276298
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ambasa",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "ambasa",
-      "distance": 53.19029598739895
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Mahesana",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "mahesana",
-      "distance": 55.19666155753467
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Tadpatri",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "tadpatri",
-      "distance": 113.03113747319236
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mylapore",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "mylapore",
-      "distance": 114.38251504603429
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "teuzn4d",
-  "geohashUrl": "https://geohash.softeng.co/teuzn4d"
+  ]
 }

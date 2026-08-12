@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "guntur",
   "country": "India",
-  "pincode": "522001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.0118,
-  "longitude": 86.2563,
-  "landmark": "Guntur State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Guntur, India",
   "population": 763277,
   "mobileUsers": 581617,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nashik road",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nashik-road",
-      "distance": 34.38476654473871
+      "citySlug": "nagpur"
     },
     {
-      "city": "Sirsa",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "sirsa",
-      "distance": 59.79082669295887
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chatrapur",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "chatrapur",
-      "distance": 63.86219442529285
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Gondal",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "gondal",
-      "distance": 68.4064444405476
-    },
-    {
-      "city": "Singghat",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "singghat",
-      "distance": 77.01492101958671
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgt3fg1",
-  "geohashUrl": "https://geohash.softeng.co/tgt3fg1"
+  ]
 }

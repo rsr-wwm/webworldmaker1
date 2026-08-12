@@ -5,7 +5,6 @@
   "stateSlug": "central-hungary",
   "citySlug": "budapest",
   "country": "Hungary",
-  "pincode": "1011",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / NMHH",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+36",
   "timezone": "Europe/Budapest",
-  "latitude": 47.1894,
-  "longitude": 20.1897,
-  "landmark": "Budapest Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Yettel networks. Failovers route over Telekom, Vodafone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Budapest, Hungary",
   "population": 1092655,
@@ -41,41 +37,16 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Miskolc",
-      "state": "Borsod-Abauj-Zemplen",
-      "stateSlug": "borsod-abauj-zemplen",
-      "citySlug": "miskolc",
-      "distance": 16.207339849929483
-    },
-    {
       "city": "Debrecen",
       "state": "Hajdu-Bihar",
       "stateSlug": "hajdu-bihar",
-      "citySlug": "debrecen",
-      "distance": 43.23694065749786
+      "citySlug": "debrecen"
     },
     {
-      "city": "Kosice",
-      "state": "Kosice Region",
-      "stateSlug": "kosice-region",
-      "citySlug": "kosice",
-      "distance": 170.37927728869738
-    },
-    {
-      "city": "Bratislava",
-      "state": "Bratislava Region",
-      "stateSlug": "bratislava-region",
-      "citySlug": "bratislava",
-      "distance": 182.4918328595889
-    },
-    {
-      "city": "Nis",
-      "state": "Nisava District",
-      "stateSlug": "nisava-district",
-      "citySlug": "nis",
-      "distance": 352.9054862200099
+      "city": "Miskolc",
+      "state": "Borsod-Abauj-Zemplen",
+      "stateSlug": "borsod-abauj-zemplen",
+      "citySlug": "miskolc"
     }
-  ],
-  "geohash": "u2qk7qt",
-  "geohashUrl": "https://geohash.softeng.co/u2qk7qt"
+  ]
 }

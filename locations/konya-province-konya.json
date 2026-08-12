@@ -5,7 +5,6 @@
   "stateSlug": "konya-province",
   "citySlug": "konya",
   "country": "Türkiye",
-  "pincode": "42000",
   "currency": "TRY",
   "symbol": "₺",
   "compliance": "BTK Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+90",
   "timezone": "Europe/Istanbul",
-  "latitude": 39.0981,
-  "longitude": 34.8859,
-  "landmark": "Konya Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Turkcell networks. Failovers route over Vodafone, Türk Telekom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Konya, Türkiye",
   "population": 3915618,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Mersin",
-      "state": "Mersin Province",
-      "stateSlug": "mersin-province",
-      "citySlug": "mersin",
-      "distance": 2.731354200428296
-    },
-    {
-      "city": "Istanbul",
-      "state": "Istanbul Province",
-      "stateSlug": "istanbul-province",
-      "citySlug": "istanbul",
-      "distance": 8.897193381597583
-    },
-    {
       "city": "Antalya",
       "state": "Antalya Province",
       "stateSlug": "antalya-province",
-      "citySlug": "antalya",
-      "distance": 9.192646771426345
+      "citySlug": "antalya"
     },
     {
-      "city": "Izmir",
-      "state": "Izmir Province",
-      "stateSlug": "izmir-province",
-      "citySlug": "izmir",
-      "distance": 9.70830963419517
+      "city": "Adana",
+      "state": "Adana Province",
+      "stateSlug": "adana-province",
+      "citySlug": "adana"
     },
     {
       "city": "Bursa",
       "state": "Bursa Province",
       "stateSlug": "bursa-province",
-      "citySlug": "bursa",
-      "distance": 11.713897969606766
+      "citySlug": "bursa"
+    },
+    {
+      "city": "Gaziantep",
+      "state": "Gaziantep Province",
+      "stateSlug": "gaziantep-province",
+      "citySlug": "gaziantep"
+    },
+    {
+      "city": "Kayseri",
+      "state": "Kayseri Province",
+      "stateSlug": "kayseri-province",
+      "citySlug": "kayseri"
     }
-  ],
-  "geohash": "syby3ve",
-  "geohashUrl": "https://geohash.softeng.co/syby3ve"
+  ]
 }

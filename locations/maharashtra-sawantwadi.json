@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "sawantwadi",
   "country": "India",
-  "pincode": "416510",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.6627,
-  "longitude": 83.3563,
-  "landmark": "Sawantwadi Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sawantwadi, India",
   "population": 1802343,
   "mobileUsers": 1389606,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kakinada",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kakinada",
-      "distance": 17.588728163855492
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kalyanpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kalyanpur",
-      "distance": 33.880727884677555
-    },
-    {
-      "city": "Mandvi",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "mandvi",
-      "distance": 34.57545571202971
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bhawani Patana",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bhawani-patana",
-      "distance": 69.15357220195449
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Shrikakulam",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "shrikakulam",
-      "distance": 86.69445586119477
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfg30g6",
-  "geohashUrl": "https://geohash.softeng.co/tfg30g6"
+  ]
 }

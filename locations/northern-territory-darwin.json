@@ -5,7 +5,6 @@
   "stateSlug": "northern-territory",
   "citySlug": "darwin",
   "country": "Australia",
-  "pincode": "NT 0800",
   "currency": "AUD",
   "symbol": "A$",
   "compliance": "ACMA Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+61 2",
   "timezone": "Australia/Sydney",
-  "latitude": -12.46044,
-  "longitude": 130.8410469,
-  "landmark": "Darwin Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Telstra networks. Failovers route over Optus, Vodafone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Darwin, Australia",
   "population": 2900241,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Dili",
-      "state": "Dili District",
-      "stateSlug": "dili-district",
-      "citySlug": "dili",
-      "distance": 669.603260427269
+      "city": "Canberra",
+      "state": "Australian Capital Territory",
+      "stateSlug": "australian-capital-territory",
+      "citySlug": "canberra"
     },
     {
-      "city": "Medan",
-      "state": "North Sumatra",
-      "stateSlug": "north-sumatra",
-      "citySlug": "medan",
-      "distance": 1428.3898455298029
+      "city": "Hobart",
+      "state": "Tasmania",
+      "stateSlug": "tasmania",
+      "citySlug": "hobart"
     },
     {
-      "city": "Bandung",
-      "state": "West Java",
-      "stateSlug": "west-java",
-      "citySlug": "bandung",
-      "distance": 1437.5017448491797
+      "city": "Melbourne",
+      "state": "Victoria",
+      "stateSlug": "victoria",
+      "citySlug": "melbourne"
     },
     {
-      "city": "Semarang",
-      "state": "Central Java",
-      "stateSlug": "central-java",
-      "citySlug": "semarang",
-      "distance": 1449.113345498993
+      "city": "Brisbane",
+      "state": "Queensland",
+      "stateSlug": "queensland",
+      "citySlug": "brisbane"
     },
     {
-      "city": "Palembang",
-      "state": "South Sumatra",
-      "stateSlug": "south-sumatra",
-      "citySlug": "palembang",
-      "distance": 1452.249772504047
+      "city": "Perth",
+      "state": "Western Australia",
+      "stateSlug": "western-australia",
+      "citySlug": "perth"
     }
-  ],
-  "geohash": "qvv117e",
-  "geohashUrl": "https://geohash.softeng.co/qvv117e"
+  ]
 }

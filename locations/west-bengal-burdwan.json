@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "burdwan",
   "country": "India",
-  "pincode": "713101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.0731,
-  "longitude": 77.0733,
-  "landmark": "Burdwan Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Burdwan, India",
   "population": 2680204,
   "mobileUsers": 1937787,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rampurhat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "rampurhat",
-      "distance": 39.68791113179276
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
       "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "jalandhar",
-      "distance": 42.550206582638396
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Alibag",
+      "city": "Mumbai",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "alibag",
-      "distance": 43.44508042037287
+      "citySlug": "mumbai"
     },
     {
-      "city": "Lungsein",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "lungsein",
-      "distance": 45.24019825347048
-    },
-    {
-      "city": "Hyderabad Jubilee",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hyderabad-jubilee",
-      "distance": 45.37794021311449
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tewf1y5",
-  "geohashUrl": "https://geohash.softeng.co/tewf1y5"
+  ]
 }

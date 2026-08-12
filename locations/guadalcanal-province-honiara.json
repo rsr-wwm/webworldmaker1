@@ -5,7 +5,6 @@
   "stateSlug": "guadalcanal-province",
   "citySlug": "honiara",
   "country": "Solomon Islands",
-  "pincode": "0000",
   "currency": "SBD",
   "symbol": "SI$",
   "compliance": "TCSI Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+677",
   "timezone": "Pacific/Guadalcanal",
-  "latitude": -7.9672,
-  "longitude": 158.8717,
-  "landmark": "Honiara Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Our Telekom networks. Failovers route over Bmobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Honiara, Solomon Islands",
   "population": 2462997,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Yaren",
-      "state": "Yaren District",
-      "stateSlug": "yaren-district",
-      "citySlug": "yaren",
-      "distance": 1230.5122120824267
-    },
-    {
-      "city": "Port Vila",
-      "state": "Shefa Province",
-      "stateSlug": "shefa-province",
-      "citySlug": "port-vila",
-      "distance": 1257.4505680045627
-    },
-    {
-      "city": "Noumea",
-      "state": "South Province",
-      "stateSlug": "south-province",
-      "citySlug": "noumea",
-      "distance": 1643.3603033708866
-    },
-    {
-      "city": "Palikir",
-      "state": "Pohnpei State",
-      "stateSlug": "pohnpei-state",
-      "citySlug": "palikir",
-      "distance": 1658.5609080189283
-    },
-    {
-      "city": "Tarawa",
-      "state": "Gilbert Islands",
-      "stateSlug": "gilbert-islands",
-      "citySlug": "tarawa",
-      "distance": 1873.3923752766548
-    }
-  ],
-  "geohash": "rw8fxjw",
-  "geohashUrl": "https://geohash.softeng.co/rw8fxjw"
+  "nearbyLocations": []
 }

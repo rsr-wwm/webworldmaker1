@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "pani-chowki-bazar",
   "country": "India",
-  "pincode": "799277",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "town",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.5834,
-  "longitude": 89.1218,
-  "landmark": "Pani Chowki Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Pani Chowki Bazar, India",
   "population": 148164,
   "mobileUsers": 108604,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shivali",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "shivali",
-      "distance": 48.094012784430525
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Fatehpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "fatehpur",
-      "distance": 101.10737814805438
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Anakpalle",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "anakpalle",
-      "distance": 154.99317064534978
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kollam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kollam",
-      "distance": 162.5374617221204
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Sangareddy",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "sangareddy",
-      "distance": 172.07976874458862
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfp3uh8",
-  "geohashUrl": "https://geohash.softeng.co/tfp3uh8"
+  ]
 }

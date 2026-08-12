@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "allagada",
   "country": "India",
-  "pincode": "518543",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.3916,
-  "longitude": 77.8616,
-  "landmark": "Allagada Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Allagada, India",
   "population": 2145699,
   "mobileUsers": 1587817,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Wardha",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "wardha",
-      "distance": 80.14730946323151
-    },
-    {
-      "city": "Amreli",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "amreli",
-      "distance": 87.77494278351585
-    },
-    {
-      "city": "Kolar",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "kolar",
-      "distance": 111.63420727699929
-    },
-    {
-      "city": "Akbarpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "akbarpur",
-      "distance": 111.75788351952329
-    },
-    {
-      "city": "Seoni",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "seoni",
-      "distance": 117.52609886625243
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttrkgu9",
-  "geohashUrl": "https://geohash.softeng.co/ttrkgu9"
+  ]
 }

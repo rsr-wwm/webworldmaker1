@@ -5,7 +5,6 @@
   "stateSlug": "andaman-and-nicobar-islands",
   "citySlug": "mayabandar",
   "country": "India",
-  "pincode": "744204",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.0855,
-  "longitude": 72.834,
-  "landmark": "Mayabandar Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mayabandar, India",
   "population": 2667431,
   "mobileUsers": 2016577,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bilimora",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bilimora",
-      "distance": 34.449244931998585
-    },
-    {
-      "city": "Tikamgarh",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "tikamgarh",
-      "distance": 47.036429057400674
+      "citySlug": "bhopal"
     },
     {
-      "city": "Virudhunagar",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "virudhunagar",
-      "distance": 58.15794085146953
-    },
-    {
-      "city": "Dadar",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "dadar",
-      "distance": 73.90824758096855
+      "citySlug": "nagpur"
     },
     {
-      "city": "Beawar",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "beawar",
-      "distance": 94.23799830628813
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te5c1qk",
-  "geohashUrl": "https://geohash.softeng.co/te5c1qk"
+  ]
 }

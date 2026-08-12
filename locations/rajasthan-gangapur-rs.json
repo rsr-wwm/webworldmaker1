@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "gangapur-rs",
   "country": "India",
-  "pincode": "322201",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.6021,
-  "longitude": 75.5435,
-  "landmark": "Gangapur R.S Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Gangapur R.S, India",
   "population": 2830990,
   "mobileUsers": 2094932,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Villupuram",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "villupuram",
-      "distance": 55.46015516119443
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Cherrapunji",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "cherrapunji",
-      "distance": 61.9279372470848
-    },
-    {
-      "city": "Miraj",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "miraj",
-      "distance": 78.73064771652211
+      "citySlug": "nagpur"
     },
     {
-      "city": "Dabhoi",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "dabhoi",
-      "distance": 93.76232485034751
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Udupi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "udupi",
-      "distance": 104.1559836247302
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tem9z43",
-  "geohashUrl": "https://geohash.softeng.co/tem9z43"
+  ]
 }

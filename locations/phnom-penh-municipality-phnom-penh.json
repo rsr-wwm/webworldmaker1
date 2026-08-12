@@ -5,7 +5,6 @@
   "stateSlug": "phnom-penh-municipality",
   "citySlug": "phnom-penh",
   "country": "Cambodia",
-  "pincode": "12000",
   "currency": "KHR",
   "symbol": "៛",
   "compliance": "TRC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+855",
   "timezone": "Asia/Phnom_Penh",
-  "latitude": 13.0486,
-  "longitude": 105.1714,
-  "landmark": "Phnom Penh GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Smart networks. Failovers route over Cellcard, Metfone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Phnom Penh, Cambodia",
   "population": 1317624,
@@ -44,38 +40,13 @@
       "city": "Siem Reap",
       "state": "Siem Reap Province",
       "stateSlug": "siem-reap-province",
-      "citySlug": "siem-reap",
-      "distance": 3.4472311713060297
+      "citySlug": "siem-reap"
     },
     {
       "city": "Sihanoukville",
       "state": "Preah Sihanouk Province",
       "stateSlug": "preah-sihanouk-province",
-      "citySlug": "sihanoukville",
-      "distance": 30.601543936832712
-    },
-    {
-      "city": "Danang",
-      "state": "South Central Coast",
-      "stateSlug": "south-central-coast",
-      "citySlug": "danang",
-      "distance": 421.02257464081634
-    },
-    {
-      "city": "Haiphong",
-      "state": "Red River Delta",
-      "stateSlug": "red-river-delta",
-      "citySlug": "haiphong",
-      "distance": 433.5784989200289
-    },
-    {
-      "city": "Hanoi",
-      "state": "Hanoi Capital",
-      "stateSlug": "hanoi-capital",
-      "citySlug": "hanoi",
-      "distance": 434.04620734389835
+      "citySlug": "sihanoukville"
     }
-  ],
-  "geohash": "w66f1pr",
-  "geohashUrl": "https://geohash.softeng.co/w66f1pr"
+  ]
 }

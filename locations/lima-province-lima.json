@@ -5,7 +5,6 @@
   "stateSlug": "lima-province",
   "citySlug": "lima",
   "country": "Peru",
-  "pincode": "Lima 1",
   "currency": "PEN",
   "symbol": "S/.",
   "compliance": "OSIPTEL Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+51",
   "timezone": "America/Lima",
-  "latitude": -9.9321,
-  "longitude": -75.8372,
-  "landmark": "Lima Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Claro networks. Failovers route over Movistar, Entel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Lima, Peru",
   "population": 508471,
@@ -44,38 +40,13 @@
       "city": "Trujillo",
       "state": "La Libertad",
       "stateSlug": "la-libertad",
-      "citySlug": "trujillo",
-      "distance": 19.02977554245482
+      "citySlug": "trujillo"
     },
     {
       "city": "Arequipa",
       "state": "Arequipa Province",
       "stateSlug": "arequipa-province",
-      "citySlug": "arequipa",
-      "distance": 21.79075389759423
-    },
-    {
-      "city": "Cuenca",
-      "state": "Azuay Province",
-      "stateSlug": "azuay-province",
-      "citySlug": "cuenca",
-      "distance": 898.0712953209636
-    },
-    {
-      "city": "Guayaquil",
-      "state": "Guayas Province",
-      "stateSlug": "guayas-province",
-      "citySlug": "guayaquil",
-      "distance": 898.5711985911569
-    },
-    {
-      "city": "Quito",
-      "state": "Pichincha Province",
-      "stateSlug": "pichincha-province",
-      "citySlug": "quito",
-      "distance": 902.3555276538136
+      "citySlug": "arequipa"
     }
-  ],
-  "geohash": "6q4p6rc",
-  "geohashUrl": "https://geohash.softeng.co/6q4p6rc"
+  ]
 }

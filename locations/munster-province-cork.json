@@ -5,7 +5,6 @@
   "stateSlug": "munster-province",
   "citySlug": "cork",
   "country": "Ireland",
-  "pincode": "T12",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / ComReg",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+353",
   "timezone": "Europe/Dublin",
-  "latitude": 53.0431,
-  "longitude": -7.9384,
-  "landmark": "Cork Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Vodafone networks. Failovers route over Three, Eir with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cork, Ireland",
   "population": 2050421,
@@ -41,41 +37,16 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Dublin",
-      "state": "Leinster Province",
-      "stateSlug": "leinster-province",
-      "citySlug": "dublin",
-      "distance": 7.772373954864794
-    },
-    {
       "city": "Limerick",
       "state": "Munster Province",
       "stateSlug": "munster-province",
-      "citySlug": "limerick",
-      "distance": 20.04071311044024
+      "citySlug": "limerick"
     },
     {
-      "city": "Leeds",
-      "state": "West Yorkshire",
-      "stateSlug": "west-yorkshire",
-      "citySlug": "leeds",
-      "distance": 242.79715961704326
-    },
-    {
-      "city": "Edinburgh",
-      "state": "Scotland",
-      "stateSlug": "scotland",
-      "citySlug": "edinburgh",
-      "distance": 261.8432718949613
-    },
-    {
-      "city": "Nottingham",
-      "state": "Nottinghamshire",
-      "stateSlug": "nottinghamshire",
-      "citySlug": "nottingham",
-      "distance": 264.052941346811
+      "city": "Dublin",
+      "state": "Leinster Province",
+      "stateSlug": "leinster-province",
+      "citySlug": "dublin"
     }
-  ],
-  "geohash": "gc6mg25",
-  "geohashUrl": "https://geohash.softeng.co/gc6mg25"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "phatikarai",
   "country": "India",
-  "pincode": "799290",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.06,
-  "longitude": 77.1774,
-  "landmark": "Phatikarai Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Phatikarai, India",
   "population": 9135235,
   "mobileUsers": 6705262,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Manipur vishwavidyalay",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "manipur-vishwavidyalay",
-      "distance": 30.823316258467194
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Madras GPO",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "madras-gpo",
-      "distance": 75.16872397026125
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Mancherial",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "mancherial",
-      "distance": 92.28299901114713
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kullu",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "kullu",
-      "distance": 96.73114963644792
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mandgaon G.P.O",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "mandgaon-gpo",
-      "distance": 108.95818395696642
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdqfk1w",
-  "geohashUrl": "https://geohash.softeng.co/tdqfk1w"
+  ]
 }

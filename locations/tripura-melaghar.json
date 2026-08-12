@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "melaghar",
   "country": "India",
-  "pincode": "799115",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.4811,
-  "longitude": 75.2119,
-  "landmark": "Melaghar Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Melaghar, India",
   "population": 8378260,
   "mobileUsers": 6040725,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Lungdar",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "lungdar",
-      "distance": 29.369276312338958
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Daltonganj",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "daltonganj",
-      "distance": 77.65912350604417
-    },
-    {
-      "city": "Thingdol",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "thingdol",
-      "distance": 92.62311431878507
-    },
-    {
-      "city": "Dharamnagar G.P.O",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "dharamnagar-gpo",
-      "distance": 107.34673697316666
-    },
-    {
-      "city": "Karad",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "karad",
-      "distance": 116.47923825041858
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttt7p6z",
-  "geohashUrl": "https://geohash.softeng.co/ttt7p6z"
+  ]
 }

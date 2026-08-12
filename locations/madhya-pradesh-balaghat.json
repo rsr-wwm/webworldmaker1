@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "balaghat",
   "country": "India",
-  "pincode": "481001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 22.6645,
-  "longitude": 72.8951,
-  "landmark": "Balaghat Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Balaghat, India",
   "population": 4829981,
   "mobileUsers": 3627315,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chongtai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "chongtai",
-      "distance": 4.457063778759638
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chittorgarh",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "chittorgarh",
-      "distance": 54.48989568023575
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nilakottai",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "nilakottai",
-      "distance": 57.05415307991067
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Udhampur",
-      "state": "Jammu & Kashmir",
-      "stateSlug": "jammu-and-kashmir",
-      "citySlug": "udhampur",
-      "distance": 85.45063058400362
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Dausa",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "dausa",
-      "distance": 119.51969051535193
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts5bfvb",
-  "geohashUrl": "https://geohash.softeng.co/ts5bfvb"
+  ]
 }

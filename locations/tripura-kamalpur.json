@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "kamalpur",
   "country": "India",
-  "pincode": "799285",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.7845,
-  "longitude": 76.5747,
-  "landmark": "Kamalpur Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kamalpur, India",
   "population": 2543025,
   "mobileUsers": 1886924,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dabhoi",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "dabhoi",
-      "distance": 87.84382868037552
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Udupi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "udupi",
-      "distance": 98.58715570566575
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Gangapur R.S",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "gangapur-rs",
-      "distance": 110.49262385305713
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Cherrapunji",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "cherrapunji",
-      "distance": 114.15399752402082
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Itanagar G.P.O",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "itanagar-gpo",
-      "distance": 114.2354789481878
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "teq6y7x",
-  "geohashUrl": "https://geohash.softeng.co/teq6y7x"
+  ]
 }

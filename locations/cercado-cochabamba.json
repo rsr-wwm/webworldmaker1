@@ -5,7 +5,6 @@
   "stateSlug": "cercado",
   "citySlug": "cochabamba",
   "country": "Bolivia",
-  "pincode": "0000",
   "currency": "BOB",
   "symbol": "Bs.",
   "compliance": "ATT Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+591",
   "timezone": "America/La_Paz",
-  "latitude": -16.9883,
-  "longitude": -65.0457,
-  "landmark": "Cochabamba GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Entel networks. Failovers route over Tigo, Viva with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cochabamba, Bolivia",
   "population": 4492328,
@@ -41,41 +37,16 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Sucre",
-      "state": "Chuquisaca",
-      "stateSlug": "chuquisaca",
-      "citySlug": "sucre",
-      "distance": 7.871767546038445
-    },
-    {
       "city": "Santa Cruz de la Sierra",
       "state": "Andres Ibanez",
       "stateSlug": "andres-ibanez",
-      "citySlug": "santa-cruz-de-la-sierra",
-      "distance": 11.827274358525228
+      "citySlug": "santa-cruz-de-la-sierra"
     },
     {
-      "city": "Ciudad del Este",
-      "state": "Alto Parana",
-      "stateSlug": "alto-parana",
-      "citySlug": "ciudad-del-este",
-      "distance": 980.684089058325
-    },
-    {
-      "city": "Asuncion",
-      "state": "Capital District",
-      "stateSlug": "capital-district",
-      "citySlug": "asuncion",
-      "distance": 984.4880540399628
-    },
-    {
-      "city": "Belo Horizonte",
-      "state": "Minas Gerais",
-      "stateSlug": "minas-gerais",
-      "citySlug": "belo-horizonte",
-      "distance": 1309.8332886962967
+      "city": "Sucre",
+      "state": "Chuquisaca",
+      "stateSlug": "chuquisaca",
+      "citySlug": "sucre"
     }
-  ],
-  "geohash": "6scxrg7",
-  "geohashUrl": "https://geohash.softeng.co/6scxrg7"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "sandila",
   "country": "India",
-  "pincode": "241204",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.2292,
-  "longitude": 75.8953,
-  "landmark": "Sandila Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sandila, India",
   "population": 2661247,
   "mobileUsers": 1929404,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rupnagar (Ropar)",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "rupnagar-ropar",
-      "distance": 1.0154680380560164
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nargarpattinam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "nargarpattinam",
-      "distance": 30.82173263802352
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Suramangalam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "suramangalam",
-      "distance": 43.867087007944114
-    },
-    {
-      "city": "Nargund",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "nargund",
-      "distance": 80.9798449078467
-    },
-    {
-      "city": "Sirkali",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "sirkali",
-      "distance": 93.46665522127667
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9vzzh1",
-  "geohashUrl": "https://geohash.softeng.co/t9vzzh1"
+  ]
 }

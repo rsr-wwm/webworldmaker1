@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "shalima",
   "country": "India",
-  "pincode": "799278",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.1245,
-  "longitude": 86.9022,
-  "landmark": "Shalima Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Shalima, India",
   "population": 6606094,
   "mobileUsers": 5086692,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Lucknow GPO",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "lucknow-gpo",
-      "distance": 50.172267479813726
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kundapura",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "kundapura",
-      "distance": 64.45079860083746
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Palel",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "palel",
-      "distance": 70.4549015279934
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Allahabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "allahabad",
-      "distance": 81.73505572955375
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Unjha",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "unjha",
-      "distance": 82.71780017635703
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tumyctb",
-  "geohashUrl": "https://geohash.softeng.co/tumyctb"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "padrauna",
   "country": "India",
-  "pincode": "274304",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.6353,
-  "longitude": 81.1251,
-  "landmark": "Padrauna Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Padrauna, India",
   "population": 7589773,
   "mobileUsers": 5737868,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kanpur Cantt.",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "kanpur-cantt",
-      "distance": 52.84418713539147
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Balrampur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "balrampur",
-      "distance": 53.80783064594585
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bulandshahar",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "bulandshahar",
-      "distance": 76.35980542316715
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bharatpur City",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bharatpur-city",
-      "distance": 87.4669327174854
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Nagaur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "nagaur",
-      "distance": 88.90068168832735
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu1wqn9",
-  "geohashUrl": "https://geohash.softeng.co/tu1wqn9"
+  ]
 }

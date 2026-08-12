@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "shivajinagar-pune",
   "country": "India",
-  "pincode": "411005",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.2369,
-  "longitude": 87.0729,
-  "landmark": "Shivajinagar Pune Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Shivajinagar Pune, India",
   "population": 4340042,
   "mobileUsers": 3220311,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nawada",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "nawada",
-      "distance": 28.344053661454126
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rajamundry",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "rajamundry",
-      "distance": 68.81939688841202
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kallakurichi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "kallakurichi",
-      "distance": 104.75622447209985
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bundi",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bundi",
-      "distance": 111.5786936165209
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Puri",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "puri",
-      "distance": 118.1150664959881
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuvfvqk",
-  "geohashUrl": "https://geohash.softeng.co/tuvfvqk"
+  ]
 }

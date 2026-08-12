@@ -5,7 +5,6 @@
   "stateSlug": "central-region",
   "citySlug": "kampala",
   "country": "Uganda",
-  "pincode": "00000",
   "currency": "UGX",
   "symbol": "USh",
   "compliance": "UCC Guidelines",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+256",
   "timezone": "Africa/Kampala",
-  "latitude": 0.9974,
-  "longitude": 31.8594,
-  "landmark": "Kampala GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Airtel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kampala, Uganda",
   "population": 1184927,
@@ -40,41 +36,10 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Kigali",
-      "state": "Kigali Province",
-      "stateSlug": "kigali-province",
-      "citySlug": "kigali",
-      "distance": 406.8487806357801
-    },
-    {
-      "city": "Bujumbura",
-      "state": "Bujumbura Mairie",
-      "stateSlug": "bujumbura-mairie",
-      "citySlug": "bujumbura",
-      "distance": 554.7107670368007
-    },
-    {
-      "city": "Gitega",
-      "state": "Gitega Province",
-      "stateSlug": "gitega-province",
-      "citySlug": "gitega",
-      "distance": 555.4115112439099
-    },
-    {
-      "city": "Nairobi",
-      "state": "Nairobi County",
-      "stateSlug": "nairobi-county",
-      "citySlug": "nairobi",
-      "distance": 671.5258207318839
-    },
-    {
-      "city": "Juba",
-      "state": "Central Equatoria",
-      "stateSlug": "central-equatoria",
-      "citySlug": "juba",
-      "distance": 688.943542541273
+      "city": "Lilongwe",
+      "state": "Central Region",
+      "stateSlug": "central-region",
+      "citySlug": "lilongwe"
     }
-  ],
-  "geohash": "s8ntsvx",
-  "geohashUrl": "https://geohash.softeng.co/s8ntsvx"
+  ]
 }

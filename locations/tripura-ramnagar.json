@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "ramnagar",
   "country": "India",
-  "pincode": "799002",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.1363,
-  "longitude": 85.1965,
-  "landmark": "Ramnagar Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ramnagar, India",
   "population": 4866826,
   "mobileUsers": 3528448,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Motihari",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "motihari",
-      "distance": 44.209748655476155
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bhanjanagar",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bhanjanagar",
-      "distance": 59.11455048642632
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chickballapur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chickballapur",
-      "distance": 60.25828400470041
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Malda",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "malda",
-      "distance": 79.85155672569886
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Trimulgherry",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "trimulgherry",
-      "distance": 85.29651603580011
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvs94sn",
-  "geohashUrl": "https://geohash.softeng.co/tvs94sn"
+  ]
 }

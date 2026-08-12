@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "muvattupuzha",
   "country": "India",
-  "pincode": "686661",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.9154,
-  "longitude": 78.605,
-  "landmark": "Muvattupuzha Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Muvattupuzha, India",
   "population": 3132588,
   "mobileUsers": 2333778,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Agra Fort",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "agra-fort",
-      "distance": 85.63731203305306
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mau Nath Bhanjan",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "mau-nath-bhanjan",
-      "distance": 93.14288371653993
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kailashahar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kailashahar",
-      "distance": 103.09068789911315
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Rathinasabapathipuram",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "rathinasabapathipuram",
-      "distance": 105.94051396359446
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Surendra Nagar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "surendra-nagar",
-      "distance": 109.45053639883193
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "texyuxw",
-  "geohashUrl": "https://geohash.softeng.co/texyuxw"
+  ]
 }

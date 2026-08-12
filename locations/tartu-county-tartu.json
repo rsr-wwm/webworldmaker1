@@ -5,7 +5,6 @@
   "stateSlug": "tartu-county",
   "citySlug": "tartu",
   "country": "Estonia",
-  "pincode": "50050",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / TTJA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+372",
   "timezone": "Europe/Tallinn",
-  "latitude": 58.8112,
-  "longitude": 26.1704,
-  "landmark": "Tartu Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Elisa, Tele2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tartu, Estonia",
   "population": 1421321,
@@ -41,41 +37,16 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Tallinn",
-      "state": "Harju County",
-      "stateSlug": "harju-county",
-      "citySlug": "tallinn",
-      "distance": 16.473697390521412
-    },
-    {
       "city": "Narva",
       "state": "Ida-Viru County",
       "stateSlug": "ida-viru-county",
-      "citySlug": "narva",
-      "distance": 46.58641948744511
+      "citySlug": "narva"
     },
     {
-      "city": "Riga",
-      "state": "Riga Municipality",
-      "stateSlug": "riga-municipality",
-      "citySlug": "riga",
-      "distance": 212.25436563583293
-    },
-    {
-      "city": "Liepaja",
-      "state": "Courland",
-      "stateSlug": "courland",
-      "citySlug": "liepaja",
-      "distance": 226.1126867652748
-    },
-    {
-      "city": "Vilnius",
-      "state": "Vilnius District",
-      "stateSlug": "vilnius-district",
-      "citySlug": "vilnius",
-      "distance": 333.03901797137223
+      "city": "Tallinn",
+      "state": "Harju County",
+      "stateSlug": "harju-county",
+      "citySlug": "tallinn"
     }
-  ],
-  "geohash": "ud6wed2",
-  "geohashUrl": "https://geohash.softeng.co/ud6wed2"
+  ]
 }

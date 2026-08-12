@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "chittorgarh",
   "country": "India",
-  "pincode": "312001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 22.8598,
-  "longitude": 72.4077,
-  "landmark": "Chittorgarh Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chittorgarh, India",
   "population": 9802459,
   "mobileUsers": 7596905,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nilakottai",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "nilakottai",
-      "distance": 36.299664337881715
-    },
-    {
-      "city": "Chongtai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "chongtai",
-      "distance": 53.13935248268287
-    },
-    {
-      "city": "Balaghat",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "balaghat",
-      "distance": 54.48989568023575
+      "citySlug": "bhopal"
     },
     {
-      "city": "Udhampur",
-      "state": "Jammu & Kashmir",
-      "stateSlug": "jammu-and-kashmir",
-      "citySlug": "udhampur",
-      "distance": 72.38108390609253
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bhind",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "bhind",
-      "distance": 85.60054871879107
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts56p9m",
-  "geohashUrl": "https://geohash.softeng.co/ts56p9m"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "central-region",
   "citySlug": "lilongwe",
   "country": "Malawi",
-  "pincode": "0000",
   "currency": "MWK",
   "symbol": "MK",
   "compliance": "MACRA Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+265",
   "timezone": "Africa/Blantyre",
-  "latitude": -13.4759,
-  "longitude": 33.9025,
-  "landmark": "Lilongwe District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Airtel networks. Failovers route over TNM with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Lilongwe, Malawi",
   "population": 583756,
@@ -40,41 +36,10 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Lusaka",
-      "state": "Lusaka Province",
-      "stateSlug": "lusaka-province",
-      "citySlug": "lusaka",
-      "distance": 440.94599036063994
-    },
-    {
-      "city": "Kitwe",
-      "state": "Copperbelt Province",
-      "stateSlug": "copperbelt-province",
-      "citySlug": "kitwe",
-      "distance": 450.57742302999355
-    },
-    {
-      "city": "Maputo",
-      "state": "Maputo City",
-      "stateSlug": "maputo-city",
-      "citySlug": "maputo",
-      "distance": 521.3535336174566
-    },
-    {
-      "city": "Bulawayo",
-      "state": "Matabeleland North",
-      "stateSlug": "matabeleland-north",
-      "citySlug": "bulawayo",
-      "distance": 825.9128002027005
-    },
-    {
-      "city": "Harare",
-      "state": "Harare Province",
-      "stateSlug": "harare-province",
-      "citySlug": "harare",
-      "distance": 833.6676983979269
+      "city": "Kampala",
+      "state": "Central Region",
+      "stateSlug": "central-region",
+      "citySlug": "kampala"
     }
-  ],
-  "geohash": "kv8576z",
-  "geohashUrl": "https://geohash.softeng.co/kv8576z"
+  ]
 }

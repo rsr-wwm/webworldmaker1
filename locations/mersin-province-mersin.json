@@ -5,7 +5,6 @@
   "stateSlug": "mersin-province",
   "citySlug": "mersin",
   "country": "Türkiye",
-  "pincode": "33000",
   "currency": "TRY",
   "symbol": "₺",
   "compliance": "BTK Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+90",
   "timezone": "Europe/Istanbul",
-  "latitude": 39.1057,
-  "longitude": 34.8558,
-  "landmark": "Mersin Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Turkcell networks. Failovers route over Vodafone, Türk Telekom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Mersin, Türkiye",
   "population": 1595405,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Konya",
-      "state": "Konya Province",
-      "stateSlug": "konya-province",
-      "citySlug": "konya",
-      "distance": 2.731354200428296
-    },
-    {
-      "city": "Istanbul",
-      "state": "Istanbul Province",
-      "stateSlug": "istanbul-province",
-      "citySlug": "istanbul",
-      "distance": 11.529116031585227
-    },
-    {
       "city": "Antalya",
       "state": "Antalya Province",
       "stateSlug": "antalya-province",
-      "citySlug": "antalya",
-      "distance": 11.91689094620767
+      "citySlug": "antalya"
     },
     {
-      "city": "Izmir",
-      "state": "Izmir Province",
-      "stateSlug": "izmir-province",
-      "citySlug": "izmir",
-      "distance": 12.435988677794793
+      "city": "Adana",
+      "state": "Adana Province",
+      "stateSlug": "adana-province",
+      "citySlug": "adana"
     },
     {
       "city": "Bursa",
       "state": "Bursa Province",
       "stateSlug": "bursa-province",
-      "citySlug": "bursa",
-      "distance": 13.366395992397484
+      "citySlug": "bursa"
+    },
+    {
+      "city": "Konya",
+      "state": "Konya Province",
+      "stateSlug": "konya-province",
+      "citySlug": "konya"
+    },
+    {
+      "city": "Gaziantep",
+      "state": "Gaziantep Province",
+      "stateSlug": "gaziantep-province",
+      "citySlug": "gaziantep"
     }
-  ],
-  "geohash": "syby3nv",
-  "geohashUrl": "https://geohash.softeng.co/syby3nv"
+  ]
 }

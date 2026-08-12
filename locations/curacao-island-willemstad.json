@@ -5,7 +5,6 @@
   "stateSlug": "curacao-island",
   "citySlug": "willemstad",
   "country": "Curacao",
-  "pincode": "0000",
   "currency": "ANG",
   "symbol": "NAƒ",
   "compliance": "BT&P Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+599",
   "timezone": "America/Curacao",
-  "latitude": 11.9372,
-  "longitude": -68.9392,
-  "landmark": "Willemstad Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Willemstad, Curacao",
   "population": 1421348,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
   "aiReadiness": "High: Integrating AI agents into customer support systems",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Caracas",
-      "state": "Capital District",
-      "stateSlug": "capital-district",
-      "citySlug": "caracas",
-      "distance": 533.4795307009721
-    },
-    {
-      "city": "Maracay",
-      "state": "Aragua State",
-      "stateSlug": "aragua-state",
-      "citySlug": "maracay",
-      "distance": 535.2075083160244
-    },
-    {
-      "city": "Maracaibo",
-      "state": "Zulia",
-      "stateSlug": "zulia",
-      "citySlug": "maracaibo",
-      "distance": 543.367365354859
-    },
-    {
-      "city": "Valencia",
-      "state": "Carabobo State",
-      "stateSlug": "carabobo-state",
-      "citySlug": "valencia",
-      "distance": 557.8008158142926
-    },
-    {
-      "city": "San Juan",
-      "state": "San Juan Municipality",
-      "stateSlug": "san-juan-municipality",
-      "citySlug": "san-juan",
-      "distance": 763.1855399733939
-    }
-  ],
-  "geohash": "d6ngzm0",
-  "geohashUrl": "https://geohash.softeng.co/d6ngzm0"
+  "nearbyLocations": []
 }

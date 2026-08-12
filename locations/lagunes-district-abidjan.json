@@ -5,7 +5,6 @@
   "stateSlug": "lagunes-district",
   "citySlug": "abidjan",
   "country": "Ivory Coast",
-  "pincode": "00000",
   "currency": "XOF",
   "symbol": "CFA",
   "compliance": "ARTCI Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+225",
   "timezone": "Africa/Abidjan",
-  "latitude": 7.8308,
-  "longitude": -4.8203,
-  "landmark": "Abidjan Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over MTN, Moov with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Abidjan, Ivory Coast",
   "population": 3538002,
@@ -44,38 +40,13 @@
       "city": "Bouake",
       "state": "Vallee du Bandama",
       "stateSlug": "vallee-du-bandama",
-      "citySlug": "bouake",
-      "distance": 23.49209749227709
+      "citySlug": "bouake"
     },
     {
       "city": "Yamoussoukro",
       "state": "Lacs District",
       "stateSlug": "lacs-district",
-      "citySlug": "yamoussoukro",
-      "distance": 24.06421067475589
-    },
-    {
-      "city": "Kumasi",
-      "state": "Ashanti Region",
-      "stateSlug": "ashanti-region",
-      "citySlug": "kumasi",
-      "distance": 290.1223236748255
-    },
-    {
-      "city": "Accra",
-      "state": "Greater Accra",
-      "stateSlug": "greater-accra",
-      "citySlug": "accra",
-      "distance": 327.20573220120826
-    },
-    {
-      "city": "Monrovia",
-      "state": "Montserrado County",
-      "stateSlug": "montserrado-county",
-      "citySlug": "monrovia",
-      "distance": 532.4605799648563
+      "citySlug": "yamoussoukro"
     }
-  ],
-  "geohash": "ecksd39",
-  "geohashUrl": "https://geohash.softeng.co/ecksd39"
+  ]
 }

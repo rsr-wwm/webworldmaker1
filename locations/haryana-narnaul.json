@@ -5,7 +5,6 @@
   "stateSlug": "haryana",
   "citySlug": "narnaul",
   "country": "India",
-  "pincode": "123001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.8216,
-  "longitude": 71.1074,
-  "landmark": "Narnaul Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Narnaul, India",
   "population": 9837707,
   "mobileUsers": 7092986,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Baruipur",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "baruipur",
-      "distance": 27.800038634429868
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Langding",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "langding",
-      "distance": 30.859060518357026
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Alwar",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "alwar",
-      "distance": 69.71998214817032
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mao",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "mao",
-      "distance": 75.58636863681473
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Gudivada",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "gudivada",
-      "distance": 78.39006312871766
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt69dhf",
-  "geohashUrl": "https://geohash.softeng.co/tt69dhf"
+  ]
 }

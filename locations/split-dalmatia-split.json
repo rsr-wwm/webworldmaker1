@@ -5,7 +5,6 @@
   "stateSlug": "split-dalmatia",
   "citySlug": "split",
   "country": "Croatia",
-  "pincode": "21000",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / HAKOM",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+385",
   "timezone": "Europe/Zagreb",
-  "latitude": 45.0072,
-  "longitude": 15.5548,
-  "landmark": "Split Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Hrvatski Telekom networks. Failovers route over A1, Telemach with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Split, Croatia",
   "population": 4670664,
@@ -44,38 +40,13 @@
       "city": "Rijeka",
       "state": "Primorje-Gorski Kotar",
       "stateSlug": "primorje-gorski-kotar",
-      "citySlug": "rijeka",
-      "distance": 15.361931506157617
+      "citySlug": "rijeka"
     },
     {
       "city": "Zagreb",
       "state": "Zagreb City",
       "stateSlug": "zagreb-city",
-      "citySlug": "zagreb",
-      "distance": 23.029971238136614
-    },
-    {
-      "city": "Ljubljana",
-      "state": "Ljubljana Province",
-      "stateSlug": "ljubljana-province",
-      "citySlug": "ljubljana",
-      "distance": 130.99384161468947
-    },
-    {
-      "city": "Maribor",
-      "state": "Drava Statistical Region",
-      "stateSlug": "drava-statistical-region",
-      "citySlug": "maribor",
-      "distance": 138.26316600831964
-    },
-    {
-      "city": "Sarajevo",
-      "state": "Sarajevo Canton",
-      "stateSlug": "sarajevo-canton",
-      "citySlug": "sarajevo",
-      "distance": 215.7756699138468
+      "citySlug": "zagreb"
     }
-  ],
-  "geohash": "u2501cq",
-  "geohashUrl": "https://geohash.softeng.co/u2501cq"
+  ]
 }

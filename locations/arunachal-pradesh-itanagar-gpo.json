@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "itanagar-gpo",
   "country": "India",
-  "pincode": "791111",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "post_office",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.759,
-  "longitude": 76.5099,
-  "landmark": "Itanagar Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Itanagar G.P.O, India",
   "population": 39202,
   "mobileUsers": 30185,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Udupi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "udupi",
-      "distance": 34.58220905136459
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Dabhoi",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "dabhoi",
-      "distance": 45.2451095420128
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bharuch",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bharuch",
-      "distance": 47.895133363039044
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Dabki",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "dabki",
-      "distance": 56.151604899234094
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Ramgarh Cantt.",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "ramgarh-cantt",
-      "distance": 58.62172707002598
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tenmj0b",
-  "geohashUrl": "https://geohash.softeng.co/tenmj0b"
+  ]
 }

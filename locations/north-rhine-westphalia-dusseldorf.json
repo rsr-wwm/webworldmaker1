@@ -5,7 +5,6 @@
   "stateSlug": "north-rhine-westphalia",
   "citySlug": "dusseldorf",
   "country": "Germany",
-  "pincode": "40210",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / BNetzA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+49 30",
   "timezone": "Europe/Berlin",
-  "latitude": 50.9064,
-  "longitude": 9.2718,
-  "landmark": "Dusseldorf Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Dusseldorf, Germany",
   "population": 3136567,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Berlin",
-      "state": "Berlin",
-      "stateSlug": "berlin",
-      "citySlug": "berlin",
-      "distance": 105.54600476812865
-    },
-    {
-      "city": "Cologne",
+      "city": "Bonn",
       "state": "North Rhine-Westphalia",
       "stateSlug": "north-rhine-westphalia",
-      "citySlug": "cologne",
-      "distance": 122.99857622974932
-    },
-    {
-      "city": "Hamburg",
-      "state": "Hamburg State",
-      "stateSlug": "hamburg-state",
-      "citySlug": "hamburg",
-      "distance": 129.111089773847
-    },
-    {
-      "city": "Bremen",
-      "state": "Bremen State",
-      "stateSlug": "bremen-state",
-      "citySlug": "bremen",
-      "distance": 143.5277135779174
+      "citySlug": "bonn"
     },
     {
       "city": "Karlsruhe",
       "state": "Baden-Württemberg",
       "stateSlug": "baden-wurttemberg",
-      "citySlug": "karlsruhe",
-      "distance": 229.3807097213325
+      "citySlug": "karlsruhe"
+    },
+    {
+      "city": "Munster",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "munster"
+    },
+    {
+      "city": "Munich",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "munich"
+    },
+    {
+      "city": "Hamburg",
+      "state": "Hamburg State",
+      "stateSlug": "hamburg-state",
+      "citySlug": "hamburg"
     }
-  ],
-  "geohash": "u1n9dgp",
-  "geohashUrl": "https://geohash.softeng.co/u1n9dgp"
+  ]
 }

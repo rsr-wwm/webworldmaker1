@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "bishanpur",
   "country": "India",
-  "pincode": "795126",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.1191,
-  "longitude": 82.5391,
-  "landmark": "Bishanpur Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bishanpur, India",
   "population": 7198505,
   "mobileUsers": 5348489,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rajnagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "rajnagar",
-      "distance": 35.42340495629748
-    },
-    {
-      "city": "Khowai",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "khowai",
-      "distance": 43.91135362985553
-    },
-    {
-      "city": "Anantapur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "anantapur",
-      "distance": 74.82907237819816
-    },
-    {
-      "city": "Kanchanpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kanchanpur",
-      "distance": 77.43351187968389
-    },
-    {
-      "city": "Hoshangabad",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "hoshangabad",
-      "distance": 95.25623037668923
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tudsw4z",
-  "geohashUrl": "https://geohash.softeng.co/tudsw4z"
+  ]
 }

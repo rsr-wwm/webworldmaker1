@@ -5,7 +5,6 @@
   "stateSlug": "surrey-county",
   "citySlug": "kingston",
   "country": "Jamaica",
-  "pincode": "0000",
   "currency": "JMD",
   "symbol": "J$",
   "compliance": "OUR Regulations",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1",
   "timezone": "America/Jamaica",
-  "latitude": 18.4099,
-  "longitude": -77.5493,
-  "landmark": "Kingston State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kingston, Jamaica",
   "population": 2208875,
@@ -43,38 +39,7 @@
       "city": "Montego Bay",
       "state": "Saint James Parish",
       "stateSlug": "saint-james-parish",
-      "citySlug": "montego-bay",
-      "distance": 12.778051028439547
-    },
-    {
-      "city": "George Town",
-      "state": "Grand Cayman",
-      "stateSlug": "grand-cayman",
-      "citySlug": "george-town",
-      "distance": 320.44949342237436
-    },
-    {
-      "city": "Havana",
-      "state": "La Habana Province",
-      "stateSlug": "la-habana-province",
-      "citySlug": "havana",
-      "distance": 414.5257154846714
-    },
-    {
-      "city": "Nassau",
-      "state": "New Providence",
-      "stateSlug": "new-providence",
-      "citySlug": "nassau",
-      "distance": 667.0446994570625
-    },
-    {
-      "city": "Santo Domingo",
-      "state": "National District",
-      "stateSlug": "national-district",
-      "citySlug": "santo-domingo",
-      "distance": 736.4347874411795
+      "citySlug": "montego-bay"
     }
-  ],
-  "geohash": "d72ber6",
-  "geohashUrl": "https://geohash.softeng.co/d72ber6"
+  ]
 }

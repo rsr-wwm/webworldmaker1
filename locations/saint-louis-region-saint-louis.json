@@ -5,7 +5,6 @@
   "stateSlug": "saint-louis-region",
   "citySlug": "saint-louis",
   "country": "Senegal",
-  "pincode": "32000",
   "currency": "XOF",
   "symbol": "CFA",
   "compliance": "ARTP Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+221",
   "timezone": "Africa/Dakar",
-  "latitude": 14.1542,
-  "longitude": -14.0635,
-  "landmark": "Saint-Louis Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Free, Expresso with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Saint-Louis, Senegal",
   "population": 3170375,
@@ -44,38 +40,7 @@
       "city": "Dakar",
       "state": "Dakar Region",
       "stateSlug": "dakar-region",
-      "citySlug": "dakar",
-      "distance": 3.6146456963929636
-    },
-    {
-      "city": "Bissau",
-      "state": "Bissau Sector",
-      "stateSlug": "bissau-sector",
-      "citySlug": "bissau",
-      "distance": 253.38349525083262
-    },
-    {
-      "city": "Banjul",
-      "state": "Greater Banjul Area",
-      "stateSlug": "greater-banjul-area",
-      "citySlug": "banjul",
-      "distance": 291.7870689789868
-    },
-    {
-      "city": "Conakry",
-      "state": "Conakry Region",
-      "stateSlug": "conakry-region",
-      "citySlug": "conakry",
-      "distance": 549.7682226661768
-    },
-    {
-      "city": "Nouakchott",
-      "state": "Nouakchott Region",
-      "stateSlug": "nouakchott-region",
-      "citySlug": "nouakchott",
-      "distance": 703.7237344117963
+      "citySlug": "dakar"
     }
-  ],
-  "geohash": "edtbxbx",
-  "geohashUrl": "https://geohash.softeng.co/edtbxbx"
+  ]
 }

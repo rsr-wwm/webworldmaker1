@@ -5,7 +5,6 @@
   "stateSlug": "constanta-county",
   "citySlug": "constanta",
   "country": "Romania",
-  "pincode": "900001",
   "currency": "RON",
   "symbol": "lei",
   "compliance": "GDPR / ANCOM",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+40",
   "timezone": "Europe/Bucharest",
-  "latitude": 46.0885,
-  "longitude": 25.1263,
-  "landmark": "Constanta Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Vodafone, Digi.Mobil with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Constanta, Romania",
   "population": 2101671,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Brasov",
-      "state": "Brasov County",
-      "stateSlug": "brasov-county",
-      "citySlug": "brasov",
-      "distance": 5.040722292779466
-    },
-    {
-      "city": "Bucharest",
-      "state": "Bucharest Municipality",
-      "stateSlug": "bucharest-municipality",
-      "citySlug": "bucharest",
-      "distance": 7.574002003915542
-    },
-    {
       "city": "Cluj-Napoca",
       "state": "Cluj County",
       "stateSlug": "cluj-county",
-      "citySlug": "cluj-napoca",
-      "distance": 11.38004099170106
+      "citySlug": "cluj-napoca"
     },
     {
       "city": "Timisoara",
       "state": "Timis County",
       "stateSlug": "timis-county",
-      "citySlug": "timisoara",
-      "distance": 26.273450534400585
+      "citySlug": "timisoara"
     },
     {
-      "city": "Chisinau",
-      "state": "Chisinau Municipality",
-      "stateSlug": "chisinau-municipality",
-      "citySlug": "chisinau",
-      "distance": 312.0245263461556
+      "city": "Brasov",
+      "state": "Brasov County",
+      "stateSlug": "brasov-county",
+      "citySlug": "brasov"
+    },
+    {
+      "city": "Bucharest",
+      "state": "Bucharest Municipality",
+      "stateSlug": "bucharest-municipality",
+      "citySlug": "bucharest"
     }
-  ],
-  "geohash": "u81y5y0",
-  "geohashUrl": "https://geohash.softeng.co/u81y5y0"
+  ]
 }

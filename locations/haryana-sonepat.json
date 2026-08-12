@@ -5,7 +5,6 @@
   "stateSlug": "haryana",
   "citySlug": "sonepat",
   "country": "India",
-  "pincode": "131001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.3082,
-  "longitude": 76.4017,
-  "landmark": "Sonepat GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sonepat, India",
   "population": 8364145,
   "mobileUsers": 6206195,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dhule",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "dhule",
-      "distance": 30.70853762983076
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chareelum",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "chareelum",
-      "distance": 81.56755406568986
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Peren",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "peren",
-      "distance": 100.31679072609028
-    },
-    {
-      "city": "Tirukkoyilur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tirukkoyilur",
-      "distance": 102.74679187015437
-    },
-    {
-      "city": "Borivali",
+      "city": "Mumbai",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "borivali",
-      "distance": 102.95643698493735
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tswmdt6",
-  "geohashUrl": "https://geohash.softeng.co/tswmdt6"
+  ]
 }

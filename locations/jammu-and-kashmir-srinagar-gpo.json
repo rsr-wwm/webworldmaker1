@@ -5,7 +5,6 @@
   "stateSlug": "jammu-and-kashmir",
   "citySlug": "srinagar-gpo",
   "country": "India",
-  "pincode": "190001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "post_office",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.9211,
-  "longitude": 69.8629,
-  "landmark": "Srinagar Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Srinagar GPO, India",
   "population": 35334,
   "mobileUsers": 27313,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Turiyur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "turiyur",
-      "distance": 68.3352576669517
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kannur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kannur",
-      "distance": 78.61472305526534
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chickmagalur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chickmagalur",
-      "distance": 88.55705512929045
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Tong",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "tong",
-      "distance": 94.45086859444748
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Sibsagar",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "sibsagar",
-      "distance": 94.71314466174552
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9cwju0",
-  "geohashUrl": "https://geohash.softeng.co/t9cwju0"
+  ]
 }

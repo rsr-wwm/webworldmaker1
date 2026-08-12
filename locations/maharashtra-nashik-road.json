@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "nashik-road",
   "country": "India",
-  "pincode": "422001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.2993,
-  "longitude": 86.3776,
-  "landmark": "Nashik road Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nashik road, India",
   "population": 9263284,
   "mobileUsers": 7021569,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Guntur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "guntur",
-      "distance": 34.38476654473871
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Singghat",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "singghat",
-      "distance": 48.43246399792476
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Sirsa",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "sirsa",
-      "distance": 51.85794248657906
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Gopeshwar",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "gopeshwar",
-      "distance": 61.17601152796136
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Gondal",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "gondal",
-      "distance": 61.78329753122099
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgt7mx6",
-  "geohashUrl": "https://geohash.softeng.co/tgt7mx6"
+  ]
 }

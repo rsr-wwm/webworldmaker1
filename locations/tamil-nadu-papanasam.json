@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "papanasam",
   "country": "India",
-  "pincode": "614205",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.8134,
-  "longitude": 74.5173,
-  "landmark": "Papanasam Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Papanasam, India",
   "population": 5834550,
   "mobileUsers": 4469265,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Morar",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "morar",
-      "distance": 54.73237901614369
+      "citySlug": "bhopal"
     },
     {
-      "city": "Moradabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "moradabad",
-      "distance": 63.155242228279384
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Sekmai",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "sekmai",
-      "distance": 96.33168623601982
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Koppa",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "koppa",
-      "distance": 99.24180280942412
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Buchinghampet",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "buchinghampet",
-      "distance": 106.752719152838
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tdkyxdt",
-  "geohashUrl": "https://geohash.softeng.co/tdkyxdt"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "katwa",
   "country": "India",
-  "pincode": "713130",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.0722,
-  "longitude": 88.0262,
-  "landmark": "Katwa GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Katwa, India",
   "population": 1808205,
   "mobileUsers": 1383276,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Station Kachiguda",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "station-kachiguda",
-      "distance": 39.40524332107168
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Lightmukhra",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "lightmukhra",
-      "distance": 57.72109742321782
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Arakkonam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "arakkonam",
-      "distance": 67.2413363272823
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nagaon (Nowgong)",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "nagaon-nowgong",
-      "distance": 81.8036931570942
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Senapati",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "senapati",
-      "distance": 98.22261900458363
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvqe546",
-  "geohashUrl": "https://geohash.softeng.co/tvqe546"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "champhai",
   "country": "India",
-  "pincode": "796321",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.2585,
-  "longitude": 73.1652,
-  "landmark": "Champhai Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Champhai, India",
   "population": 3231232,
   "mobileUsers": 2491279,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Loleim",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "loleim",
-      "distance": 22.458975789957535
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Thrissur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thrissur",
-      "distance": 57.723930943491055
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Gandhinagar (Jammu)",
-      "state": "Jammu & Kashmir",
-      "stateSlug": "jammu-and-kashmir",
-      "citySlug": "gandhinagar-jammu",
-      "distance": 72.01730346369273
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mangan",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "mangan",
-      "distance": 72.73722394353422
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Amarpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "amarpur",
-      "distance": 90.57298813068635
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tes50zv",
-  "geohashUrl": "https://geohash.softeng.co/tes50zv"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "parana",
   "citySlug": "curitiba",
   "country": "Brazil",
-  "pincode": "80000-000",
   "currency": "BRL",
   "symbol": "R$",
   "compliance": "ANATEL Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+55",
   "timezone": "America/Araguaina",
-  "latitude": -9.8792,
-  "longitude": -54.9418,
-  "landmark": "Curitiba District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Vivo networks. Failovers route over Claro, TIM with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Curitiba, Brazil",
   "population": 4914217,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Rio de Janeiro",
-      "state": "Rio de Janeiro State",
-      "stateSlug": "rio-de-janeiro-state",
-      "citySlug": "rio-de-janeiro",
-      "distance": 8.1703707963786
+      "city": "Salvador",
+      "state": "Bahia",
+      "stateSlug": "bahia",
+      "citySlug": "salvador"
+    },
+    {
+      "city": "Recife",
+      "state": "Pernambuco",
+      "stateSlug": "pernambuco",
+      "citySlug": "recife"
     },
     {
       "city": "Fortaleza",
       "state": "Ceara",
       "stateSlug": "ceara",
-      "citySlug": "fortaleza",
-      "distance": 9.192237968215528
+      "citySlug": "fortaleza"
     },
     {
       "city": "Manaus",
       "state": "Amazonas",
       "stateSlug": "amazonas",
-      "citySlug": "manaus",
-      "distance": 12.229912547418172
+      "citySlug": "manaus"
     },
     {
-      "city": "Salvador",
-      "state": "Bahia",
-      "stateSlug": "bahia",
-      "citySlug": "salvador",
-      "distance": 19.385274959676963
-    },
-    {
-      "city": "Porto Alegre",
-      "state": "Rio Grande do Sul",
-      "stateSlug": "rio-grande-do-sul",
-      "citySlug": "porto-alegre",
-      "distance": 19.85866796737692
+      "city": "Goiania",
+      "state": "Goias",
+      "stateSlug": "goias",
+      "citySlug": "goiania"
     }
-  ],
-  "geohash": "6y0zvc8",
-  "geohashUrl": "https://geohash.softeng.co/6y0zvc8"
+  ]
 }

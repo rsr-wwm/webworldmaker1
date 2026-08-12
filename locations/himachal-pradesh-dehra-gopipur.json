@@ -5,7 +5,6 @@
   "stateSlug": "himachal-pradesh",
   "citySlug": "dehra-gopipur",
   "country": "India",
-  "pincode": "177101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.9774,
-  "longitude": 70.8567,
-  "landmark": "Dehra Gopipur State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dehra Gopipur, India",
   "population": 4253504,
   "mobileUsers": 3143339,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dikchu",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "dikchu",
-      "distance": 21.59069348331093
-    },
-    {
-      "city": "Panvel",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "panvel",
-      "distance": 47.18477218404105
-    },
-    {
-      "city": "Kalol",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "kalol",
-      "distance": 47.98308942832432
-    },
-    {
-      "city": "Vaivakown",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "vaivakown",
-      "distance": 55.00878374489578
-    },
-    {
-      "city": "Khargone",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "khargone",
-      "distance": 77.59640519450848
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsf3krh",
-  "geohashUrl": "https://geohash.softeng.co/tsf3krh"
+  ]
 }

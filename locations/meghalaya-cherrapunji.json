@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "cherrapunji",
   "country": "India",
-  "pincode": "793108",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.1587,
-  "longitude": 75.5638,
-  "landmark": "Cherrapunji Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Cherrapunji, India",
   "population": 4765279,
   "mobileUsers": 3559663,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Gangapur R.S",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "gangapur-rs",
-      "distance": 61.9279372470848
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Porbandar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "porbandar",
-      "distance": 95.05158772521258
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Dirang",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "dirang",
-      "distance": 101.10806616904455
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mandya",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "mandya",
-      "distance": 103.50332449234995
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Lucknow Chowk",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "lucknow-chowk",
-      "distance": 103.93366961561335
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "temszrx",
-  "geohashUrl": "https://geohash.softeng.co/temszrx"
+  ]
 }

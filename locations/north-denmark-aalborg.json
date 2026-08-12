@@ -5,7 +5,6 @@
   "stateSlug": "north-denmark",
   "citySlug": "aalborg",
   "country": "Denmark",
-  "pincode": "9000",
   "currency": "DKK",
   "symbol": "kr.",
   "compliance": "GDPR / SDFE",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+45",
   "timezone": "Europe/Copenhagen",
-  "latitude": 56.1035,
-  "longitude": 10.0483,
-  "landmark": "Aalborg Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over TDC networks. Failovers route over Telenor, Telia, 3 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Aalborg, Denmark",
   "population": 2198047,
@@ -42,41 +38,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Aarhus",
-      "state": "Central Denmark Region",
-      "stateSlug": "central-denmark-region",
-      "citySlug": "aarhus",
-      "distance": 16.216952795551546
-    },
-    {
       "city": "Odense",
       "state": "Southern Denmark",
       "stateSlug": "southern-denmark",
-      "citySlug": "odense",
-      "distance": 19.54262418245286
+      "citySlug": "odense"
+    },
+    {
+      "city": "Aarhus",
+      "state": "Central Denmark Region",
+      "stateSlug": "central-denmark-region",
+      "citySlug": "aarhus"
     },
     {
       "city": "Copenhagen",
       "state": "Capital Region",
       "stateSlug": "capital-region",
-      "citySlug": "copenhagen",
-      "distance": 22.04656318802344
-    },
-    {
-      "city": "Nuremberg",
-      "state": "Bavaria",
-      "stateSlug": "bavaria",
-      "citySlug": "nuremberg",
-      "distance": 400.48522212765573
-    },
-    {
-      "city": "Groningen",
-      "state": "Groningen Province",
-      "stateSlug": "groningen-province",
-      "citySlug": "groningen",
-      "distance": 470.8452911209742
+      "citySlug": "copenhagen"
     }
-  ],
-  "geohash": "u1zphtk",
-  "geohashUrl": "https://geohash.softeng.co/u1zphtk"
+  ]
 }

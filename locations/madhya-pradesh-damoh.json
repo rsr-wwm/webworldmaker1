@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "damoh",
   "country": "India",
-  "pincode": "470661",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.8519,
-  "longitude": 77.6869,
-  "landmark": "Damoh Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Damoh, India",
   "population": 8194536,
   "mobileUsers": 6236041,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Anand",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "anand",
-      "distance": 6.342569969782813
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Borivali",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "borivali",
-      "distance": 39.473092280164295
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nandyal",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nandyal",
-      "distance": 41.812051618848756
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Peren",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "peren",
-      "distance": 46.405141273409875
-    },
-    {
-      "city": "Chiplun",
+      "city": "Mumbai",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "chiplun",
-      "distance": 52.52839102699257
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsx5pf1",
-  "geohashUrl": "https://geohash.softeng.co/tsx5pf1"
+  ]
 }

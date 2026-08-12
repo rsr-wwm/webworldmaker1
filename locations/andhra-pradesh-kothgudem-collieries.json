@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "kothgudem-collieries",
   "country": "India",
-  "pincode": "507101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.1645,
-  "longitude": 84.1573,
-  "landmark": "Kothgudem Collieries State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kothgudem Collieries, India",
   "population": 8596677,
   "mobileUsers": 6619441,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kayamkulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kayamkulam",
-      "distance": 18.213235637821363
-    },
-    {
-      "city": "Phagwara",
-      "state": "Punjab",
-      "stateSlug": "punjab",
-      "citySlug": "phagwara",
-      "distance": 35.24819885392144
-    },
-    {
-      "city": "Valsad",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "valsad",
-      "distance": 60.782204298744496
-    },
-    {
-      "city": "Morena",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "morena",
-      "distance": 75.36507783424916
+      "citySlug": "bhopal"
     },
     {
-      "city": "Howrah",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "howrah",
-      "distance": 78.6529563466229
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcgze03",
-  "geohashUrl": "https://geohash.softeng.co/tcgze03"
+  ]
 }

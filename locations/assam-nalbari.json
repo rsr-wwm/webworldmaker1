@@ -5,7 +5,6 @@
   "stateSlug": "assam",
   "citySlug": "nalbari",
   "country": "India",
-  "pincode": "781335",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.9143,
-  "longitude": 84.2987,
-  "landmark": "Nalbari Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nalbari, India",
   "population": 760733,
   "mobileUsers": 591850,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
       "city": "New Delhi",
       "state": "Delhi",
       "stateSlug": "delhi",
-      "citySlug": "new-delhi",
-      "distance": 26.67223411125453
-    },
-    {
-      "city": "Hindaun",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "hindaun",
-      "distance": 29.113687034488873
-    },
-    {
-      "city": "Rairangpur",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "rairangpur",
-      "distance": 51.75580694049293
-    },
-    {
-      "city": "Aurangabad",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "aurangabad",
-      "distance": 60.621114782534725
-    },
-    {
-      "city": "Taran Taran",
-      "state": "Punjab",
-      "stateSlug": "punjab",
-      "citySlug": "taran-taran",
-      "distance": 66.77270749245538
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf7cqqb",
-  "geohashUrl": "https://geohash.softeng.co/tf7cqqb"
+  ]
 }

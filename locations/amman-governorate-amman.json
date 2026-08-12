@@ -5,7 +5,6 @@
   "stateSlug": "amman-governorate",
   "citySlug": "amman",
   "country": "Jordan",
-  "pincode": "11118",
   "currency": "JOD",
   "symbol": "JD",
   "compliance": "TRC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+962",
   "timezone": "Asia/Amman",
-  "latitude": 30.8367,
-  "longitude": 35.9776,
-  "landmark": "Amman Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Zain networks. Failovers route over Orange, U通 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Amman, Jordan",
   "population": 878095,
@@ -44,38 +40,7 @@
       "city": "Aqaba",
       "state": "Aqaba Governorate",
       "stateSlug": "aqaba-governorate",
-      "citySlug": "aqaba",
-      "distance": 17.99347424736098
-    },
-    {
-      "city": "Jerusalem",
-      "state": "Jerusalem District",
-      "stateSlug": "jerusalem-district",
-      "citySlug": "jerusalem",
-      "distance": 124.94486132128054
-    },
-    {
-      "city": "Haifa",
-      "state": "Haifa District",
-      "stateSlug": "haifa-district",
-      "citySlug": "haifa",
-      "distance": 131.14375328452223
-    },
-    {
-      "city": "Ramallah",
-      "state": "West Bank",
-      "stateSlug": "west-bank",
-      "citySlug": "ramallah",
-      "distance": 132.63252880930733
-    },
-    {
-      "city": "Ashdod",
-      "state": "Southern District",
-      "stateSlug": "southern-district",
-      "citySlug": "ashdod",
-      "distance": 149.7206642874908
+      "citySlug": "aqaba"
     }
-  ],
-  "geohash": "sv3x6tw",
-  "geohashUrl": "https://geohash.softeng.co/sv3x6tw"
+  ]
 }

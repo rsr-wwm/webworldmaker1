@@ -5,7 +5,6 @@
   "stateSlug": "pirkanmaa",
   "citySlug": "tampere",
   "country": "Finland",
-  "pincode": "33100",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / Traficom",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+358",
   "timezone": "Europe/Helsinki",
-  "latitude": 63.8315,
-  "longitude": 25.9007,
-  "landmark": "Tampere Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over Elisa networks. Failovers route over Telia, DNA with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tampere, Finland",
   "population": 3602177,
@@ -44,38 +40,25 @@
       "city": "Turku",
       "state": "Southwest Finland",
       "stateSlug": "southwest-finland",
-      "citySlug": "turku",
-      "distance": 12.354140145367735
-    },
-    {
-      "city": "Vantaa",
-      "state": "Uusimaa",
-      "stateSlug": "uusimaa",
-      "citySlug": "vantaa",
-      "distance": 14.47159258520095
+      "citySlug": "turku"
     },
     {
       "city": "Espoo",
       "state": "Uusimaa",
       "stateSlug": "uusimaa",
-      "citySlug": "espoo",
-      "distance": 34.61580543193247
+      "citySlug": "espoo"
+    },
+    {
+      "city": "Vantaa",
+      "state": "Uusimaa",
+      "stateSlug": "uusimaa",
+      "citySlug": "vantaa"
     },
     {
       "city": "Helsinki",
       "state": "Uusimaa",
       "stateSlug": "uusimaa",
-      "citySlug": "helsinki",
-      "distance": 42.21519444801048
-    },
-    {
-      "city": "Narva",
-      "state": "Ida-Viru County",
-      "stateSlug": "ida-viru-county",
-      "citySlug": "narva",
-      "distance": 516.5911681338449
+      "citySlug": "helsinki"
     }
-  ],
-  "geohash": "ue67jkh",
-  "geohashUrl": "https://geohash.softeng.co/ue67jkh"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "kunnamkulam",
   "country": "India",
-  "pincode": "680503",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.2265,
-  "longitude": 84.719,
-  "landmark": "Kunnamkulam Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kunnamkulam, India",
   "population": 1043621,
   "mobileUsers": 811937,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bayana",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bayana",
-      "distance": 47.82635927356512
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Tehri",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "tehri",
-      "distance": 69.83543775288537
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Marhowrah",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "marhowrah",
-      "distance": 89.32841019357409
-    },
-    {
-      "city": "Chandmari",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "chandmari",
-      "distance": 109.61765200293036
-    },
-    {
-      "city": "Faridkot",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "faridkot",
-      "distance": 119.02068533070076
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuk1zf6",
-  "geohashUrl": "https://geohash.softeng.co/tuk1zf6"
+  ]
 }

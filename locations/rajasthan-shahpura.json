@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "shahpura",
   "country": "India",
-  "pincode": "303103",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.7102,
-  "longitude": 69.7097,
-  "landmark": "Shahpura Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Shahpura, India",
   "population": 8974709,
   "mobileUsers": 6811804,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Midnapore",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "midnapore",
-      "distance": 12.562783241843807
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Balurghat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "balurghat",
-      "distance": 47.98285497088803
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tiruchirappalli",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruchirappalli",
-      "distance": 60.45135151738273
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kantolim",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "kantolim",
-      "distance": 66.22526374808778
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Sri Rangam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "sri-rangam",
-      "distance": 78.0391419732107
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "teced21",
-  "geohashUrl": "https://geohash.softeng.co/teced21"
+  ]
 }

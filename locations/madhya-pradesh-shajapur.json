@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "shajapur",
   "country": "India",
-  "pincode": "465001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.2338,
-  "longitude": 84.0895,
-  "landmark": "Shajapur Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Shajapur, India",
   "population": 1511970,
   "mobileUsers": 1123393,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bhubaneswar G.P.O",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bhubaneswar-gpo",
-      "distance": 64.9788339615909
-    },
-    {
-      "city": "Sirohi",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sirohi",
-      "distance": 75.4881308971724
-    },
-    {
-      "city": "Rajnandgaon",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "rajnandgaon",
-      "distance": 90.47852810090828
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kavlem",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "kavlem",
-      "distance": 92.85178098945075
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kurukshetra",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "kurukshetra",
-      "distance": 93.02120689427896
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg7v3t2",
-  "geohashUrl": "https://geohash.softeng.co/tg7v3t2"
+  ]
 }

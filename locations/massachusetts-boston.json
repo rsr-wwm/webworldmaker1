@@ -5,7 +5,6 @@
   "stateSlug": "massachusetts",
   "citySlug": "boston",
   "country": "United States",
-  "pincode": "02108",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/New_York",
-  "latitude": 25.3439,
-  "longitude": -98.6492,
-  "landmark": "Boston Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Boston, United States",
   "population": 1814794,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Miami",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "miami",
-      "distance": 328.33942602190854
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Denver",
-      "state": "Colorado",
-      "stateSlug": "colorado",
-      "citySlug": "denver",
-      "distance": 349.6568545033675
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Veracruz",
-      "state": "Veracruz State",
-      "stateSlug": "veracruz-state",
-      "citySlug": "veracruz",
-      "distance": 402.0903241206507
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Puebla",
-      "state": "Puebla State",
-      "stateSlug": "puebla-state",
-      "citySlug": "puebla",
-      "distance": 418.61365091558724
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Merida",
-      "state": "Yucatan",
-      "stateSlug": "yucatan",
-      "citySlug": "merida",
-      "distance": 419.8561119213532
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9u9b5jt",
-  "geohashUrl": "https://geohash.softeng.co/9u9b5jt"
+  ]
 }

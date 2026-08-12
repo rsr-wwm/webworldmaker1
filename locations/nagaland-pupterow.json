@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "pupterow",
   "country": "India",
-  "pincode": "797107",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.8662,
-  "longitude": 79.9121,
-  "landmark": "Pupterow Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Pupterow, India",
   "population": 2768133,
   "mobileUsers": 2092708,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Amini",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "amini",
-      "distance": 49.70422924728597
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Ernakulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "ernakulam",
-      "distance": 113.0202731874332
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Phenk",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "phenk",
-      "distance": 121.90041409290505
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Landsdowne",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "landsdowne",
-      "distance": 125.91751765513396
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mahabubnagar",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "mahabubnagar",
-      "distance": 127.20521222855135
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf2c4qn",
-  "geohashUrl": "https://geohash.softeng.co/tf2c4qn"
+  ]
 }

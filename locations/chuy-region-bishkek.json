@@ -5,7 +5,6 @@
   "stateSlug": "chuy-region",
   "citySlug": "bishkek",
   "country": "Kyrgyz Republic",
-  "pincode": "720000",
   "currency": "KGS",
   "symbol": "сом",
   "compliance": "ICT Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+996",
   "timezone": "Asia/Bishkek",
-  "latitude": 41.0921,
-  "longitude": 75.1481,
-  "landmark": "Bishkek Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Beeline networks. Failovers route over Megacom, O! with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bishkek, Kyrgyz Republic",
   "population": 2280783,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Dushanbe",
-      "state": "Region of Republican Subordination",
-      "stateSlug": "region-of-republican-subordination",
-      "citySlug": "dushanbe",
-      "distance": 435.8088062104142
-    },
-    {
-      "city": "Tashkent",
-      "state": "Tashkent City",
-      "stateSlug": "tashkent-city",
-      "citySlug": "tashkent",
-      "distance": 919.7905287305501
-    },
-    {
-      "city": "Samarkand",
-      "state": "Samarkand Region",
-      "stateSlug": "samarkand-region",
-      "citySlug": "samarkand",
-      "distance": 928.151317685859
-    },
-    {
-      "city": "Shymkent",
-      "state": "Shymkent Region",
-      "stateSlug": "shymkent-region",
-      "citySlug": "shymkent",
-      "distance": 945.9628074002181
-    },
-    {
-      "city": "Anini",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "anini",
-      "distance": 959.8992931360159
-    }
-  ],
-  "geohash": "txm3y09",
-  "geohashUrl": "https://geohash.softeng.co/txm3y09"
+  "nearbyLocations": []
 }

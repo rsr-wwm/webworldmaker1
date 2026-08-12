@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "mahabubnagar",
   "country": "India",
-  "pincode": "509001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.1221,
-  "longitude": 79.0221,
-  "landmark": "Mahabubnagar Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mahabubnagar, India",
   "population": 2509626,
   "mobileUsers": 1897277,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kulokon",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "kulokon",
-      "distance": 78.34874359811252
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Landsdowne",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "landsdowne",
-      "distance": 87.44336752843223
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Vaikom",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "vaikom",
-      "distance": 94.59685877521635
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bahadurgarh",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "bahadurgarh",
-      "distance": 95.13716672270563
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Amini",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "amini",
-      "distance": 98.96313894095188
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf0hyny",
-  "geohashUrl": "https://geohash.softeng.co/tf0hyny"
+  ]
 }

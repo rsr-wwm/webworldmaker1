@@ -5,7 +5,6 @@
   "stateSlug": "north-carolina",
   "citySlug": "raleigh",
   "country": "United States",
-  "pincode": "27601",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/New_York",
-  "latitude": 25.3685,
-  "longitude": -91.566,
-  "landmark": "Raleigh GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Raleigh, United States",
   "population": 4169091,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Milwaukee",
-      "state": "Wisconsin",
-      "stateSlug": "wisconsin",
-      "citySlug": "milwaukee",
-      "distance": 351.17100525111283
-    },
-    {
       "city": "Birmingham",
       "state": "Alabama",
       "stateSlug": "alabama",
-      "citySlug": "birmingham",
-      "distance": 396.9741213011307
+      "citySlug": "birmingham"
     },
     {
-      "city": "Spokane",
-      "state": "Washington",
-      "stateSlug": "washington",
-      "citySlug": "spokane",
-      "distance": 480.8966522459964
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Providence",
-      "state": "Rhode Island",
-      "stateSlug": "rhode-island",
-      "citySlug": "providence",
-      "distance": 601.1714421377967
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Miami",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "miami",
-      "distance": 648.4137872010376
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
+    },
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9uwbk65",
-  "geohashUrl": "https://geohash.softeng.co/9uwbk65"
+  ]
 }

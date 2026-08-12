@@ -5,7 +5,6 @@
   "stateSlug": "baja-california",
   "citySlug": "tijuana",
   "country": "Mexico",
-  "pincode": "22000",
   "currency": "MXN",
   "symbol": "$",
   "compliance": "IFT Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+52",
   "timezone": "America/Bahia_Banderas",
-  "latitude": 22.8716,
-  "longitude": -101.9165,
-  "landmark": "Tijuana Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Telcel networks. Failovers route over Movistar, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tijuana, Mexico",
   "population": 1465076,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Juarez",
-      "state": "Chihuahua",
-      "stateSlug": "chihuahua",
-      "citySlug": "juarez",
-      "distance": 4.19752170890013
-    },
-    {
       "city": "Leon",
       "state": "Guanajuato",
       "stateSlug": "guanajuato",
-      "citySlug": "leon",
-      "distance": 7.525141536638962
+      "citySlug": "leon"
     },
     {
-      "city": "Monterrey",
-      "state": "Nuevo Leon",
-      "stateSlug": "nuevo-leon",
-      "citySlug": "monterrey",
-      "distance": 10.656389769707653
+      "city": "Toluca",
+      "state": "State of Mexico",
+      "stateSlug": "state-of-mexico",
+      "citySlug": "toluca"
+    },
+    {
+      "city": "Juarez",
+      "state": "Chihuahua",
+      "stateSlug": "chihuahua",
+      "citySlug": "juarez"
     },
     {
       "city": "Torreon",
       "state": "Coahuila",
       "stateSlug": "coahuila",
-      "citySlug": "torreon",
-      "distance": 16.952878395759196
+      "citySlug": "torreon"
     },
     {
-      "city": "Puebla",
-      "state": "Puebla State",
-      "stateSlug": "puebla-state",
-      "citySlug": "puebla",
-      "distance": 17.526638963782663
+      "city": "San Luis Potosi",
+      "state": "San Luis Potosi",
+      "stateSlug": "san-luis-potosi",
+      "citySlug": "san-luis-potosi"
     }
-  ],
-  "geohash": "9spd0gd",
-  "geohashUrl": "https://geohash.softeng.co/9spd0gd"
+  ]
 }

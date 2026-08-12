@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "turiyur",
   "country": "India",
-  "pincode": "628001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.3601,
-  "longitude": 70.1182,
-  "landmark": "Turiyur Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Turiyur, India",
   "population": 6359772,
   "mobileUsers": 4884304,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chickmagalur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chickmagalur",
-      "distance": 57.60383714180405
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sibsagar",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "sibsagar",
-      "distance": 60.593603339713475
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Srinagar GPO",
-      "state": "Jammu & Kashmir",
-      "stateSlug": "jammu-and-kashmir",
-      "citySlug": "srinagar-gpo",
-      "distance": 68.3352576669517
-    },
-    {
-      "city": "Kannur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kannur",
-      "distance": 93.5419823250171
-    },
-    {
-      "city": "Kapurthala",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "kapurthala",
-      "distance": 100.64059056610748
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9cfgtf",
-  "geohashUrl": "https://geohash.softeng.co/t9cfgtf"
+  ]
 }

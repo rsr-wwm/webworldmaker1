@@ -5,7 +5,6 @@
   "stateSlug": "aqaba-governorate",
   "citySlug": "aqaba",
   "country": "Jordan",
-  "pincode": "77110",
   "currency": "JOD",
   "symbol": "JD",
   "compliance": "TRC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+962",
   "timezone": "Asia/Amman",
-  "latitude": 30.9526,
-  "longitude": 35.846,
-  "landmark": "Aqaba Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Zain networks. Failovers route over Orange, U通 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Aqaba, Jordan",
   "population": 3285804,
@@ -44,38 +40,7 @@
       "city": "Amman",
       "state": "Amman Governorate",
       "stateSlug": "amman-governorate",
-      "citySlug": "amman",
-      "distance": 17.99347424736098
-    },
-    {
-      "city": "Jerusalem",
-      "state": "Jerusalem District",
-      "stateSlug": "jerusalem-district",
-      "citySlug": "jerusalem",
-      "distance": 107.1853319897567
-    },
-    {
-      "city": "Haifa",
-      "state": "Haifa District",
-      "stateSlug": "haifa-district",
-      "citySlug": "haifa",
-      "distance": 113.95758564367287
-    },
-    {
-      "city": "Ramallah",
-      "state": "West Bank",
-      "stateSlug": "west-bank",
-      "citySlug": "ramallah",
-      "distance": 115.54186466758298
-    },
-    {
-      "city": "Ashdod",
-      "state": "Southern District",
-      "stateSlug": "southern-district",
-      "citySlug": "ashdod",
-      "distance": 131.86474153481254
+      "citySlug": "amman"
     }
-  ],
-  "geohash": "sv92pdw",
-  "geohashUrl": "https://geohash.softeng.co/sv92pdw"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "gujarat",
   "citySlug": "mandvi",
   "country": "India",
-  "pincode": "370465",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 79",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.7447,
-  "longitude": 75.3015,
-  "landmark": "Mandvi Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mandvi, India",
   "population": 3263095,
   "mobileUsers": 2362480,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Arasaradi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "arasaradi",
-      "distance": 61.48991253735845
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gandhinagar (Jaipur)",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "gandhinagar-jaipur",
-      "distance": 65.12124867847258
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ludhiana",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "ludhiana",
-      "distance": 69.20552064227527
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Dimapur",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "dimapur",
-      "distance": 75.30081296473676
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Chittoor",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "chittoor",
-      "distance": 90.57651283892649
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9tx3tb",
-  "geohashUrl": "https://geohash.softeng.co/t9tx3tb"
+  ]
 }

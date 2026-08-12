@@ -5,7 +5,6 @@
   "stateSlug": "shaanxi-province",
   "citySlug": "xian",
   "country": "China",
-  "pincode": "710000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 35.1325,
-  "longitude": 105.0885,
-  "landmark": "Xian District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Xian, China",
   "population": 3169909,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Changsha",
-      "state": "Hunan Province",
-      "stateSlug": "hunan-province",
-      "citySlug": "changsha",
-      "distance": 4.711034074472213
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang"
+    },
+    {
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou"
     },
     {
       "city": "Nanchang",
       "state": "Jiangxi Province",
       "stateSlug": "jiangxi-province",
-      "citySlug": "nanchang",
-      "distance": 4.7667415616515205
+      "citySlug": "nanchang"
     },
     {
-      "city": "Zhengzhou",
-      "state": "Henan Province",
-      "stateSlug": "henan-province",
-      "citySlug": "zhengzhou",
-      "distance": 7.102358141144238
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
     },
     {
-      "city": "Harbin",
-      "state": "Heilongjiang Province",
-      "stateSlug": "heilongjiang-province",
-      "citySlug": "harbin",
-      "distance": 8.094448342524965
-    },
-    {
-      "city": "Tianjin",
-      "state": "Tianjin Municipality",
-      "stateSlug": "tianjin-municipality",
-      "citySlug": "tianjin",
-      "distance": 8.842631094173747
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan"
     }
-  ],
-  "geohash": "wq4xz7e",
-  "geohashUrl": "https://geohash.softeng.co/wq4xz7e"
+  ]
 }

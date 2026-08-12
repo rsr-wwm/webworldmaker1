@@ -5,7 +5,6 @@
   "stateSlug": "otago-region",
   "citySlug": "dunedin",
   "country": "New Zealand",
-  "pincode": "9016",
   "currency": "NZD",
   "symbol": "NZ$",
   "compliance": "RSM Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+64",
   "timezone": "Pacific/Auckland",
-  "latitude": -41.0641,
-  "longitude": 173.8045,
-  "landmark": "Dunedin Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over One NZ networks. Failovers route over Spark, 2degrees with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Dunedin, New Zealand",
   "population": 2768979,
@@ -44,38 +40,25 @@
       "city": "Hamilton",
       "state": "Waikato Region",
       "stateSlug": "waikato-region",
-      "citySlug": "hamilton",
-      "distance": 18.20765899056468
-    },
-    {
-      "city": "Christchurch",
-      "state": "Canterbury Region",
-      "stateSlug": "canterbury-region",
-      "citySlug": "christchurch",
-      "distance": 23.327340879100653
+      "citySlug": "hamilton"
     },
     {
       "city": "Auckland",
       "state": "Auckland Region",
       "stateSlug": "auckland-region",
-      "citySlug": "auckland",
-      "distance": 28.021091812658593
+      "citySlug": "auckland"
+    },
+    {
+      "city": "Christchurch",
+      "state": "Canterbury Region",
+      "stateSlug": "canterbury-region",
+      "citySlug": "christchurch"
     },
     {
       "city": "Wellington",
       "state": "Wellington Region",
       "stateSlug": "wellington-region",
-      "citySlug": "wellington",
-      "distance": 33.103705736080336
-    },
-    {
-      "city": "Sydney",
-      "state": "New South Wales",
-      "stateSlug": "new-south-wales",
-      "citySlug": "sydney",
-      "distance": 2140.8341895799826
+      "citySlug": "wellington"
     }
-  ],
-  "geohash": "rbew7h8",
-  "geohashUrl": "https://geohash.softeng.co/rbew7h8"
+  ]
 }

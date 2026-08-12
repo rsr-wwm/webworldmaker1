@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "chandmari",
   "country": "India",
-  "pincode": "796007",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.7807,
-  "longitude": 85.6815,
-  "landmark": "Chandmari Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Chandmari, India",
   "population": 7871846,
   "mobileUsers": 5848781,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bayana",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bayana",
-      "distance": 69.4346112081166
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Faridkot",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "faridkot",
-      "distance": 73.21422112783048
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Madikeri",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "madikeri",
-      "distance": 100.76589179817513
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Rangpo",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "rangpo",
-      "distance": 104.75487833387356
-    },
-    {
-      "city": "Kadamtala",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "kadamtala",
-      "distance": 106.98088059899901
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuhzm9p",
-  "geohashUrl": "https://geohash.softeng.co/tuhzm9p"
+  ]
 }

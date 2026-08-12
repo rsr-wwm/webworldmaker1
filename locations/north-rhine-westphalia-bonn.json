@@ -5,7 +5,6 @@
   "stateSlug": "north-rhine-westphalia",
   "citySlug": "bonn",
   "country": "Germany",
-  "pincode": "53111",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / BNetzA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+49 30",
   "timezone": "Europe/Berlin",
-  "latitude": 48.0747,
-  "longitude": 12.748,
-  "landmark": "Bonn State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bonn, Germany",
   "population": 1122796,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Linz",
-      "state": "Upper Austria",
-      "stateSlug": "upper-austria",
-      "citySlug": "linz",
-      "distance": 78.61778741344112
+      "city": "Karlsruhe",
+      "state": "Baden-Württemberg",
+      "stateSlug": "baden-wurttemberg",
+      "citySlug": "karlsruhe"
     },
     {
-      "city": "Salzburg",
-      "state": "Salzburg State",
-      "stateSlug": "salzburg-state",
-      "citySlug": "salzburg",
-      "distance": 81.77287778563868
+      "city": "Munster",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "munster"
     },
     {
-      "city": "Vienna",
-      "state": "Vienna State",
-      "stateSlug": "vienna-state",
-      "citySlug": "vienna",
-      "distance": 84.18042836528565
+      "city": "Munich",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "munich"
     },
     {
-      "city": "Graz",
-      "state": "Styria",
-      "stateSlug": "styria",
-      "citySlug": "graz",
-      "distance": 93.29734040595113
+      "city": "Hamburg",
+      "state": "Hamburg State",
+      "stateSlug": "hamburg-state",
+      "citySlug": "hamburg"
     },
     {
-      "city": "Innsbruck",
-      "state": "Tyrol",
-      "stateSlug": "tyrol",
-      "citySlug": "innsbruck",
-      "distance": 106.93625492459122
+      "city": "Dusseldorf",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "dusseldorf"
     }
-  ],
-  "geohash": "u2916pd",
-  "geohashUrl": "https://geohash.softeng.co/u2916pd"
+  ]
 }

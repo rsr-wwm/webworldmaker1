@@ -5,7 +5,6 @@
   "stateSlug": "punjab",
   "citySlug": "jalandhar",
   "country": "India",
-  "pincode": "144001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.3014,
-  "longitude": 76.7461,
-  "landmark": "Jalandhar Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Jalandhar, India",
   "population": 8479148,
   "mobileUsers": 6452631,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rampurhat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "rampurhat",
-      "distance": 3.9014603498767175
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hyderabad Jubilee",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hyderabad-jubilee",
-      "distance": 40.731462546534914
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Burdwan",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "burdwan",
-      "distance": 42.550206582638396
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi"
     },
     {
-      "city": "Sitapur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "sitapur",
-      "distance": 49.29177653901498
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     },
     {
-      "city": "Mati",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "mati",
-      "distance": 66.6224130516462
+      "city": "Multan",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "multan"
     }
-  ],
-  "geohash": "tewe6ru",
-  "geohashUrl": "https://geohash.softeng.co/tewe6ru"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "karnataka",
   "citySlug": "belgaum",
   "country": "India",
-  "pincode": "590001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 80",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.801,
-  "longitude": 71.6349,
-  "landmark": "Belgaum Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Belgaum, India",
   "population": 6266406,
   "mobileUsers": 4856464,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kolkata",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "kolkata",
-      "distance": 45.87658021060134
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Gohana",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "gohana",
-      "distance": 92.64613755322772
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Mangan",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "mangan",
-      "distance": 109.31129802967004
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bhimavaram",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "bhimavaram",
-      "distance": 117.06019177680848
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Ajmer",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "ajmer",
-      "distance": 127.42490034488561
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tedyq4d",
-  "geohashUrl": "https://geohash.softeng.co/tedyq4d"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "north-kivu",
   "citySlug": "goma",
   "country": "Democratic Republic of the Congo",
-  "pincode": "00000",
   "currency": "CDF",
   "symbol": "FC",
   "compliance": "ARPTC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+243",
   "timezone": "Africa/Kinshasa",
-  "latitude": -0.1958,
-  "longitude": 24.8006,
-  "landmark": "Goma State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over Orange, Airtel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Goma, Democratic Republic of the Congo",
   "population": 4023216,
@@ -44,38 +40,13 @@
       "city": "Lubumbashi",
       "state": "Haut-Katanga",
       "stateSlug": "haut-katanga",
-      "citySlug": "lubumbashi",
-      "distance": 23.633640132296847
+      "citySlug": "lubumbashi"
     },
     {
       "city": "Kinshasa",
       "state": "Kinshasa Province",
       "stateSlug": "kinshasa-province",
-      "citySlug": "kinshasa",
-      "distance": 36.659812811085686
-    },
-    {
-      "city": "Kigali",
-      "state": "Kigali Province",
-      "stateSlug": "kigali-province",
-      "citySlug": "kigali",
-      "distance": 594.0447906572817
-    },
-    {
-      "city": "Gitega",
-      "state": "Gitega Province",
-      "stateSlug": "gitega-province",
-      "citySlug": "gitega",
-      "distance": 673.0677496241082
-    },
-    {
-      "city": "Bujumbura",
-      "state": "Bujumbura Mairie",
-      "stateSlug": "bujumbura-mairie",
-      "citySlug": "bujumbura",
-      "distance": 692.8526636288238
+      "citySlug": "kinshasa"
     }
-  ],
-  "geohash": "kxcwuk7",
-  "geohashUrl": "https://geohash.softeng.co/kxcwuk7"
+  ]
 }

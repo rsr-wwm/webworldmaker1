@@ -5,7 +5,6 @@
   "stateSlug": "wisconsin",
   "citySlug": "madison",
   "country": "United States",
-  "pincode": "53701",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Chicago",
-  "latitude": 41.8889,
-  "longitude": -94.7291,
-  "landmark": "Madison GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Madison, United States",
   "population": 3024961,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Tulsa",
-      "state": "Oklahoma",
-      "stateSlug": "oklahoma",
-      "citySlug": "tulsa",
-      "distance": 341.6915640129068
-    },
-    {
-      "city": "Omaha",
-      "state": "Nebraska",
-      "stateSlug": "nebraska",
-      "citySlug": "omaha",
-      "distance": 428.38787570152584
-    },
-    {
-      "city": "Las Vegas",
-      "state": "Nevada",
-      "stateSlug": "nevada",
-      "citySlug": "las-vegas",
-      "distance": 550.678927521475
-    },
-    {
-      "city": "Little Rock",
-      "state": "Arkansas",
-      "stateSlug": "arkansas",
-      "citySlug": "little-rock",
-      "distance": 593.367850779437
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
       "city": "Grand Rapids",
       "state": "Michigan",
       "stateSlug": "michigan",
-      "citySlug": "grand-rapids",
-      "distance": 617.5616844593843
+      "citySlug": "grand-rapids"
+    },
+    {
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
+    },
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9zkwk3s",
-  "geohashUrl": "https://geohash.softeng.co/9zkwk3s"
+  ]
 }

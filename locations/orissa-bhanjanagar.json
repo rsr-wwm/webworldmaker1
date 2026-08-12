@@ -5,7 +5,6 @@
   "stateSlug": "orissa",
   "citySlug": "bhanjanagar",
   "country": "India",
-  "pincode": "761126",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.9209,
-  "longitude": 84.6293,
-  "landmark": "Bhanjanagar Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bhanjanagar, India",
   "population": 917209,
   "mobileUsers": 696161,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Malda",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "malda",
-      "distance": 25.0333325525752
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Trimulgherry",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "trimulgherry",
-      "distance": 27.96120371615024
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Motihari",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "motihari",
-      "distance": 37.92141521930988
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mailuri",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "mailuri",
-      "distance": 48.61898196704907
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Ramnagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "ramnagar",
-      "distance": 59.11455048642632
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvkpvuc",
-  "geohashUrl": "https://geohash.softeng.co/tvkpvuc"
+  ]
 }

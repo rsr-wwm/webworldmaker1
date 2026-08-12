@@ -5,7 +5,6 @@
   "stateSlug": "fujian-province",
   "citySlug": "xiamen",
   "country": "China",
-  "pincode": "361000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 34.8483,
-  "longitude": 105.1019,
-  "landmark": "Xiamen GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Xiamen, China",
   "population": 1231111,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Yinchuan",
-      "state": "Ningxia Region",
-      "stateSlug": "ningxia-region",
-      "citySlug": "yinchuan",
-      "distance": 1.4187725032664955
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang"
     },
     {
-      "city": "Hohhot",
-      "state": "Inner Mongolia",
-      "stateSlug": "inner-mongolia",
-      "citySlug": "hohhot",
-      "distance": 2.0538466807025317
-    },
-    {
-      "city": "Nanjing",
-      "state": "Jiangsu Province",
-      "stateSlug": "jiangsu-province",
-      "citySlug": "nanjing",
-      "distance": 4.807320897344374
-    },
-    {
-      "city": "Hangzhou",
+      "city": "Wenzhou",
       "state": "Zhejiang Province",
       "stateSlug": "zhejiang-province",
-      "citySlug": "hangzhou",
-      "distance": 5.674534866005172
+      "citySlug": "wenzhou"
     },
     {
-      "city": "Jinan",
-      "state": "Shandong Province",
-      "stateSlug": "shandong-province",
-      "citySlug": "jinan",
-      "distance": 8.989755273633886
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang"
+    },
+    {
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
+    },
+    {
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan"
     }
-  ],
-  "geohash": "wq4wpxu",
-  "geohashUrl": "https://geohash.softeng.co/wq4wpxu"
+  ]
 }

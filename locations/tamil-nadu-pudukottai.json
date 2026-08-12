@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "pudukottai",
   "country": "India",
-  "pincode": "622001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.2026,
-  "longitude": 77.4203,
-  "landmark": "Pudukottai GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Pudukottai, India",
   "population": 9434870,
   "mobileUsers": 7274284,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Machilipatnam",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "machilipatnam",
-      "distance": 18.1026601958803
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mandapeta",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "mandapeta",
-      "distance": 52.52268209734
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Salkia",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "salkia",
-      "distance": 59.61757762008005
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Abhaynagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "abhaynagar",
-      "distance": 69.57001460004848
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Rabindranath Tagore Nagar",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "rabindranath-tagore-nagar",
-      "distance": 98.20428720685446
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsr19tz",
-  "geohashUrl": "https://geohash.softeng.co/tsr19tz"
+  ]
 }

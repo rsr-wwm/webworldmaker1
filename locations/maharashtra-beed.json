@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "beed",
   "country": "India",
-  "pincode": "431122",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 2442",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.0684,
-  "longitude": 84.0198,
-  "landmark": "Beed Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Beed, India",
   "population": 5602634,
   "mobileUsers": 4258001,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kanker",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "kanker",
-      "distance": 18.642082672873393
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chitradurga",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chitradurga",
-      "distance": 22.03526719785011
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kanhangad",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kanhangad",
-      "distance": 26.96991287629009
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Arsikere",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "arsikere",
-      "distance": 32.772834117840226
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Manipal",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "manipal",
-      "distance": 87.04933616541301
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tug9zzt",
-  "geohashUrl": "https://geohash.softeng.co/tug9zzt"
+  ]
 }

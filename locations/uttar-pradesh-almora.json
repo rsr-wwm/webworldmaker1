@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "almora",
   "country": "India",
-  "pincode": "263601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.409,
-  "longitude": 77.5847,
-  "landmark": "Almora Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Almora, India",
   "population": 3894221,
   "mobileUsers": 2928454,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Hinoo",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "hinoo",
-      "distance": 18.789412298889722
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mechuka",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "mechuka",
-      "distance": 73.99492870779841
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bijapur",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bijapur",
-      "distance": 109.73255218450423
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Ambikapur",
-      "state": "Mashya Pradesh",
-      "stateSlug": "mashya-pradesh",
-      "citySlug": "ambikapur",
-      "distance": 119.07179358401169
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Koraput",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "koraput",
-      "distance": 121.97468118768049
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9xjt2z",
-  "geohashUrl": "https://geohash.softeng.co/t9xjt2z"
+  ]
 }

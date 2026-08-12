@@ -5,7 +5,6 @@
   "stateSlug": "central-java",
   "citySlug": "semarang",
   "country": "Indonesia",
-  "pincode": "50135",
   "currency": "IDR",
   "symbol": "Rp",
   "compliance": "SDPPI Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+62",
   "timezone": "Asia/Jakarta",
-  "latitude": -4.9603,
-  "longitude": 120.0504,
-  "landmark": "Semarang Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Telkomsel networks. Failovers route over Indosat Ooredoo, XL Axiata with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Semarang, Indonesia",
   "population": 2091524,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Bandung",
-      "state": "West Java",
-      "stateSlug": "west-java",
-      "citySlug": "bandung",
-      "distance": 13.8379478056468
+      "city": "Medan",
+      "state": "North Sumatra",
+      "stateSlug": "north-sumatra",
+      "citySlug": "medan"
+    },
+    {
+      "city": "Makassar",
+      "state": "South Sulawesi",
+      "stateSlug": "south-sulawesi",
+      "citySlug": "makassar"
     },
     {
       "city": "Palembang",
       "state": "South Sumatra",
       "stateSlug": "south-sumatra",
-      "citySlug": "palembang",
-      "distance": 16.19143895043539
-    },
-    {
-      "city": "Jakarta",
-      "state": "Special Capital Region",
-      "stateSlug": "special-capital-region",
-      "citySlug": "jakarta",
-      "distance": 19.131554984296354
-    },
-    {
-      "city": "Medan",
-      "state": "North Sumatra",
-      "stateSlug": "north-sumatra",
-      "citySlug": "medan",
-      "distance": 22.817867814949025
+      "citySlug": "palembang"
     },
     {
       "city": "Surabaya",
       "state": "East Java",
       "stateSlug": "east-java",
-      "citySlug": "surabaya",
-      "distance": 23.3443635950884
+      "citySlug": "surabaya"
+    },
+    {
+      "city": "Bandung",
+      "state": "West Java",
+      "stateSlug": "west-java",
+      "citySlug": "bandung"
     }
-  ],
-  "geohash": "qxj7gc4",
-  "geohashUrl": "https://geohash.softeng.co/qxj7gc4"
+  ]
 }

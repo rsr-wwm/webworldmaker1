@@ -5,7 +5,6 @@
   "stateSlug": "paramaribo-district",
   "citySlug": "paramaribo",
   "country": "Suriname",
-  "pincode": "0000",
   "currency": "SRD",
   "symbol": "SRD$",
   "compliance": "TAS Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+597",
   "timezone": "America/Paramaribo",
-  "latitude": 3.9576,
-  "longitude": -56.0675,
-  "landmark": "Paramaribo Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Telesur networks. Failovers route over Digicel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Paramaribo, Suriname",
   "population": 1322041,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
   "aiReadiness": "High: Integrating AI agents into customer support systems",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Georgetown",
-      "state": "Demerara-Mahaica",
-      "stateSlug": "demerara-mahaica",
-      "citySlug": "georgetown",
-      "distance": 355.9593775032349
-    },
-    {
-      "city": "Bridgetown",
-      "state": "Saint Michael Parish",
-      "stateSlug": "saint-michael-parish",
-      "citySlug": "bridgetown",
-      "distance": 1086.5810857586605
-    },
-    {
-      "city": "Saint George's",
-      "state": "Saint George Parish",
-      "stateSlug": "saint-george-parish",
-      "citySlug": "saint-georges",
-      "distance": 1092.8857407533294
-    },
-    {
-      "city": "Kingstown",
-      "state": "Saint George Parish",
-      "stateSlug": "saint-george-parish",
-      "citySlug": "kingstown",
-      "distance": 1163.2427441832015
-    },
-    {
-      "city": "Valencia",
-      "state": "Carabobo State",
-      "stateSlug": "carabobo-state",
-      "citySlug": "valencia",
-      "distance": 1177.3602456793767
-    }
-  ],
-  "geohash": "db8ns0k",
-  "geohashUrl": "https://geohash.softeng.co/db8ns0k"
+  "nearbyLocations": []
 }

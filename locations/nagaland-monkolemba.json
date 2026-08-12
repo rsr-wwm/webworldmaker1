@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "monkolemba",
   "country": "India",
-  "pincode": "798604",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.8881,
-  "longitude": 70.0439,
-  "landmark": "Monkolemba Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Monkolemba, India",
   "population": 3463720,
   "mobileUsers": 2518124,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bahraich",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "bahraich",
-      "distance": 33.11606908291011
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Palanpur",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "palanpur",
-      "distance": 84.38491828655432
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Karimganj",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "karimganj",
-      "distance": 84.90656983003666
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Madasa",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "madasa",
-      "distance": 103.47214843024793
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Nizamabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nizamabad",
-      "distance": 106.90333251856856
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te3g3yk",
-  "geohashUrl": "https://geohash.softeng.co/te3g3yk"
+  ]
 }

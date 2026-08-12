@@ -5,7 +5,6 @@
   "stateSlug": "uppsala-county",
   "citySlug": "uppsala",
   "country": "Sweden",
-  "pincode": "753 09",
   "currency": "SEK",
   "symbol": "kr",
   "compliance": "GDPR / PTS",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+46",
   "timezone": "Europe/Stockholm",
-  "latitude": 61.9834,
-  "longitude": 15.1239,
-  "landmark": "Uppsala Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Tele2, Telenor, 3 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Uppsala, Sweden",
   "population": 1753430,
@@ -42,41 +38,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Malmo",
-      "state": "Skåne County",
-      "stateSlug": "skane-county",
-      "citySlug": "malmo",
-      "distance": 7.797538519635485
-    },
-    {
       "city": "Linköping",
       "state": "Östergötland",
       "stateSlug": "ostergotland",
-      "citySlug": "linkoping",
-      "distance": 18.404144476117498
+      "citySlug": "linkoping"
     },
     {
       "city": "Gothenburg",
       "state": "Västra Götaland County",
       "stateSlug": "vastra-gotaland-county",
-      "citySlug": "gothenburg",
-      "distance": 20.08392187698972
+      "citySlug": "gothenburg"
+    },
+    {
+      "city": "Malmo",
+      "state": "Skåne County",
+      "stateSlug": "skane-county",
+      "citySlug": "malmo"
     },
     {
       "city": "Stockholm",
       "state": "Stockholm County",
       "stateSlug": "stockholm-county",
-      "citySlug": "stockholm",
-      "distance": 22.255496558074157
-    },
-    {
-      "city": "Stavanger",
-      "state": "Rogaland",
-      "stateSlug": "rogaland",
-      "citySlug": "stavanger",
-      "distance": 259.4580896732573
+      "citySlug": "stockholm"
     }
-  ],
-  "geohash": "u74b85s",
-  "geohashUrl": "https://geohash.softeng.co/u74b85s"
+  ]
 }

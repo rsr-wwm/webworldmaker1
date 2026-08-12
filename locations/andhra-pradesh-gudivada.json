@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "gudivada",
   "country": "India",
-  "pincode": "521301",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.7242,
-  "longitude": 70.303,
-  "landmark": "Gudivada District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Gudivada, India",
   "population": 9118627,
   "mobileUsers": 7030461,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Multan",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "multan",
-      "distance": 17.770014701084225
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bhadrachalam",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "bhadrachalam",
-      "distance": 25.097842066055048
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Lahore",
-      "state": "Punjab",
-      "stateSlug": "punjab",
-      "citySlug": "lahore",
-      "distance": 28.30475268355252
-    },
-    {
-      "city": "Mriyalguda",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "mriyalguda",
-      "distance": 28.41415988775544
-    },
-    {
-      "city": "Islamabad",
-      "state": "Islamabad Capital Territory",
-      "stateSlug": "islamabad-capital-territory",
-      "citySlug": "islamabad",
-      "distance": 29.79929623956782
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt3cpg1",
-  "geohashUrl": "https://geohash.softeng.co/tt3cpg1"
+  ]
 }

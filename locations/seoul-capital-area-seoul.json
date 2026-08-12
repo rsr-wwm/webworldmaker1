@@ -5,7 +5,6 @@
   "stateSlug": "seoul-capital-area",
   "citySlug": "seoul",
   "country": "South Korea",
-  "pincode": "03000",
   "currency": "KRW",
   "symbol": "₩",
   "compliance": "KCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+82",
   "timezone": "Asia/Seoul",
-  "latitude": 37.1074,
-  "longitude": 127.5263,
-  "landmark": "Seoul Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over SK Telecom networks. Failovers route over KT, LG Uplus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Seoul, South Korea",
   "population": 2112963,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Incheon",
-      "state": "Incheon Metropolitan",
-      "stateSlug": "incheon-metropolitan",
-      "citySlug": "incheon",
-      "distance": 8.690508705807911
+      "city": "Daegu",
+      "state": "Yeongnam",
+      "stateSlug": "yeongnam",
+      "citySlug": "daegu"
     },
     {
-      "city": "Seongnam",
-      "state": "Gyeonggi",
-      "stateSlug": "gyeonggi",
-      "citySlug": "seongnam",
-      "distance": 9.012246470132903
+      "city": "Daejeon",
+      "state": "Hoseo",
+      "stateSlug": "hoseo",
+      "citySlug": "daejeon"
+    },
+    {
+      "city": "Gwangju",
+      "state": "Honam",
+      "stateSlug": "honam",
+      "citySlug": "gwangju"
     },
     {
       "city": "Ulsan",
       "state": "Yeongnam",
       "stateSlug": "yeongnam",
-      "citySlug": "ulsan",
-      "distance": 11.220093468690303
+      "citySlug": "ulsan"
     },
     {
-      "city": "Changwon",
-      "state": "Gyeongnam",
-      "stateSlug": "gyeongnam",
-      "citySlug": "changwon",
-      "distance": 15.559846078357852
-    },
-    {
-      "city": "Daegu",
-      "state": "Yeongnam",
-      "stateSlug": "yeongnam",
-      "citySlug": "daegu",
-      "distance": 21.158978826466484
+      "city": "Suwon",
+      "state": "Gyeonggi",
+      "stateSlug": "gyeonggi",
+      "citySlug": "suwon"
     }
-  ],
-  "geohash": "wydejgj",
-  "geohashUrl": "https://geohash.softeng.co/wydejgj"
+  ]
 }

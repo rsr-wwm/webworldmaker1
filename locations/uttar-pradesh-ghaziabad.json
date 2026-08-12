@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "ghaziabad",
   "country": "India",
-  "pincode": "201001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 28.1396,
-  "longitude": 84.4112,
-  "landmark": "Ghaziabad Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ghaziabad, India",
   "population": 5120872,
   "mobileUsers": 3876500,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kathmandu",
-      "state": "Bagmati Province",
-      "stateSlug": "bagmati-province",
-      "citySlug": "kathmandu",
-      "distance": 33.254321657491275
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mannargudi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "mannargudi",
-      "distance": 48.859922356043434
-    },
-    {
-      "city": "Tindivanam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tindivanam",
-      "distance": 57.96835553441841
-    },
-    {
-      "city": "Kalbadevi",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "kalbadevi",
-      "distance": 68.00526576974968
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kozhikode",
-      "distance": 79.5207324219679
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvh00fd",
-  "geohashUrl": "https://geohash.softeng.co/tvh00fd"
+  ]
 }

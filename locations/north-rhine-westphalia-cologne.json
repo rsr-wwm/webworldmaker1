@@ -5,7 +5,6 @@
   "stateSlug": "north-rhine-westphalia",
   "citySlug": "cologne",
   "country": "Germany",
-  "pincode": "50667",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / BNetzA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+49 30",
   "timezone": "Europe/Berlin",
-  "latitude": 50.1182,
-  "longitude": 8.0513,
-  "landmark": "Cologne Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cologne, Germany",
   "population": 3716234,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Bremen",
-      "state": "Bremen State",
-      "stateSlug": "bremen-state",
-      "citySlug": "bremen",
-      "distance": 119.12166504997559
-    },
-    {
-      "city": "Dusseldorf",
+      "city": "Bonn",
       "state": "North Rhine-Westphalia",
       "stateSlug": "north-rhine-westphalia",
-      "citySlug": "dusseldorf",
-      "distance": 122.99857622974932
+      "citySlug": "bonn"
+    },
+    {
+      "city": "Karlsruhe",
+      "state": "Baden-Württemberg",
+      "stateSlug": "baden-wurttemberg",
+      "citySlug": "karlsruhe"
+    },
+    {
+      "city": "Munster",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "munster"
     },
     {
       "city": "Munich",
       "state": "Bavaria",
       "stateSlug": "bavaria",
-      "citySlug": "munich",
-      "distance": 135.12446756181424
+      "citySlug": "munich"
     },
     {
-      "city": "Luxembourg City",
-      "state": "Luxembourg Canton",
-      "stateSlug": "luxembourg-canton",
-      "citySlug": "luxembourg-city",
-      "distance": 156.81336417350505
-    },
-    {
-      "city": "Berlin",
-      "state": "Berlin",
-      "stateSlug": "berlin",
-      "citySlug": "berlin",
-      "distance": 164.75161356660968
+      "city": "Hamburg",
+      "state": "Hamburg State",
+      "stateSlug": "hamburg-state",
+      "citySlug": "hamburg"
     }
-  ],
-  "geohash": "u0vtp5w",
-  "geohashUrl": "https://geohash.softeng.co/u0vtp5w"
+  ]
 }

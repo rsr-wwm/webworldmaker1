@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "pilibhit",
   "country": "India",
-  "pincode": "262001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.1436,
-  "longitude": 84.6728,
-  "landmark": "Pilibhit GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Pilibhit, India",
   "population": 7467904,
   "mobileUsers": 5571056,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Amaravati",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "amaravati",
-      "distance": 35.387907644306296
+      "citySlug": "nagpur"
     },
     {
-      "city": "Malegaon town",
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "malegaon-town",
-      "distance": 37.141609800091686
+      "citySlug": "mumbai"
     },
     {
-      "city": "Harapanhalli",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "harapanhalli",
-      "distance": 47.88989240411542
-    },
-    {
-      "city": "Warangal",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "warangal",
-      "distance": 82.96693189074163
-    },
-    {
-      "city": "Ramanathapuram",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "ramanathapuram",
-      "distance": 91.67717636797914
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfs0qyb",
-  "geohashUrl": "https://geohash.softeng.co/tfs0qyb"
+  ]
 }

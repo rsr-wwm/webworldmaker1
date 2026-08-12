@@ -5,7 +5,6 @@
   "stateSlug": "oregon",
   "citySlug": "portland",
   "country": "United States",
-  "pincode": "97201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Los_Angeles",
-  "latitude": 27.4046,
-  "longitude": -104.5358,
-  "landmark": "Portland Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Portland, United States",
   "population": 1450502,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Denver",
-      "state": "Colorado",
-      "stateSlug": "colorado",
-      "citySlug": "denver",
-      "distance": 444.45665545206634
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Philadelphia",
-      "state": "Pennsylvania",
-      "stateSlug": "pennsylvania",
-      "citySlug": "philadelphia",
-      "distance": 464.2799136864546
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "San Luis Potosi",
-      "state": "San Luis Potosi",
-      "stateSlug": "san-luis-potosi",
-      "citySlug": "san-luis-potosi",
-      "distance": 527.6798258648107
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Mexico City",
-      "state": "Federal District",
-      "stateSlug": "federal-district",
-      "citySlug": "mexico-city",
-      "distance": 529.1871337570252
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Veracruz",
-      "state": "Veracruz State",
-      "stateSlug": "veracruz-state",
-      "citySlug": "veracruz",
-      "distance": 540.4192861808214
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9svevhz",
-  "geohashUrl": "https://geohash.softeng.co/9svevhz"
+  ]
 }

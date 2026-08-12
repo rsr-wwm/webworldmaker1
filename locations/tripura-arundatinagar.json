@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "arundatinagar",
   "country": "India",
-  "pincode": "799003",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.8635,
-  "longitude": 85.7222,
-  "landmark": "Arundatinagar Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Arundatinagar, India",
   "population": 7219170,
   "mobileUsers": 5219459,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Samalkot",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "samalkot",
-      "distance": 31.46951101356026
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Allappuzha",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "allappuzha",
-      "distance": 33.191928278267305
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Churachandpur",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "churachandpur",
-      "distance": 36.01212216170746
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chirawa",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "chirawa",
-      "distance": 75.63416780369
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Nuzuid",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nuzuid",
-      "distance": 76.5866732425285
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfkcntt",
-  "geohashUrl": "https://geohash.softeng.co/tfkcntt"
+  ]
 }

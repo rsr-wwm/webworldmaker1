@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "radhanagar",
   "country": "India",
-  "pincode": "799153",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.5191,
-  "longitude": 85.9375,
-  "landmark": "Radhanagar Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Radhanagar, India",
   "population": 3891316,
   "mobileUsers": 2910704,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Baghmara",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "baghmara",
-      "distance": 49.63264331135666
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Shahjahanpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "shahjahanpur",
-      "distance": 60.70064456899463
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Gokak",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "gokak",
-      "distance": 78.75401174241188
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chengannur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "chengannur",
-      "distance": 81.46803554295616
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bada bazar",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bada-bazar",
-      "distance": 105.52284302560135
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcv5gdc",
-  "geohashUrl": "https://geohash.softeng.co/tcv5gdc"
+  ]
 }

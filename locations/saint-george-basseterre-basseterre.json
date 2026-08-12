@@ -5,7 +5,6 @@
   "stateSlug": "saint-george-basseterre",
   "citySlug": "basseterre",
   "country": "Saint Kitts and Nevis",
-  "pincode": "00000",
   "currency": "XCD",
   "symbol": "EC$",
   "compliance": "ECTEL / NTRC",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1",
   "timezone": "America/St_Kitts",
-  "latitude": 17.4356,
-  "longitude": -62.8586,
-  "landmark": "Basseterre District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Basseterre, Saint Kitts and Nevis",
   "population": 4381493,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Low email open rates for critical transaction updates",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Gustavia",
-      "state": "Saint Barthelemy",
-      "stateSlug": "saint-barthelemy",
-      "citySlug": "gustavia",
-      "distance": 51.16787458957858
-    },
-    {
-      "city": "Plymouth",
-      "state": "Saint Anthony Parish",
-      "stateSlug": "saint-anthony-parish",
-      "citySlug": "plymouth",
-      "distance": 94.42606254866632
-    },
-    {
-      "city": "Saint John's",
-      "state": "Saint John Parish",
-      "stateSlug": "saint-john-parish",
-      "citySlug": "saint-johns",
-      "distance": 111.3177423399423
-    },
-    {
-      "city": "Road Town",
-      "state": "Tortola Island",
-      "stateSlug": "tortola-island",
-      "citySlug": "road-town",
-      "distance": 199.40322168615432
-    },
-    {
-      "city": "Charlotte Amalie",
-      "state": "Saint Thomas Island",
-      "stateSlug": "saint-thomas-island",
-      "citySlug": "charlotte-amalie",
-      "distance": 240.6537358944134
-    }
-  ],
-  "geohash": "de571w5",
-  "geohashUrl": "https://geohash.softeng.co/de571w5"
+  "nearbyLocations": []
 }

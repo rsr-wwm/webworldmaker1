@@ -5,7 +5,6 @@
   "stateSlug": "rogaland",
   "citySlug": "stavanger",
   "country": "Norway",
-  "pincode": "4005",
   "currency": "NOK",
   "symbol": "kr",
   "compliance": "GDPR / Nkom",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+47",
   "timezone": "Europe/Oslo",
-  "latitude": 62.1596,
-  "longitude": 10.155,
-  "landmark": "Stavanger Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Telenor networks. Failovers route over Telia, Ice with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Stavanger, Norway",
   "population": 1456564,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Oslo",
-      "state": "Oslo County",
-      "stateSlug": "oslo-county",
-      "citySlug": "oslo",
-      "distance": 12.90578778888115
-    },
-    {
       "city": "Trondheim",
       "state": "Trøndelag",
       "stateSlug": "trondelag",
-      "citySlug": "trondheim",
-      "distance": 13.374696047665637
+      "citySlug": "trondheim"
     },
     {
       "city": "Bergen",
       "state": "Vestland County",
       "stateSlug": "vestland-county",
-      "citySlug": "bergen",
-      "distance": 17.983194833250295
+      "citySlug": "bergen"
     },
     {
-      "city": "Linköping",
-      "state": "Östergötland",
-      "stateSlug": "ostergotland",
-      "citySlug": "linkoping",
-      "distance": 245.25519589432196
-    },
-    {
-      "city": "Gothenburg",
-      "state": "Västra Götaland County",
-      "stateSlug": "vastra-gotaland-county",
-      "citySlug": "gothenburg",
-      "distance": 254.28605070326796
+      "city": "Oslo",
+      "state": "Oslo County",
+      "stateSlug": "oslo-county",
+      "citySlug": "oslo"
     }
-  ],
-  "geohash": "u5p1x5f",
-  "geohashUrl": "https://geohash.softeng.co/u5p1x5f"
+  ]
 }

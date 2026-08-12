@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "kalkalang",
   "country": "India",
-  "pincode": "790002",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.8374,
-  "longitude": 80.1392,
-  "landmark": "Kalkalang Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kalkalang, India",
   "population": 2649022,
   "mobileUsers": 1962925,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Parleshwar",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "parleshwar",
-      "distance": 49.91271556606299
+      "citySlug": "nagpur"
     },
     {
-      "city": "Port Blair",
-      "state": "Andaman & Nicobar Islands",
-      "stateSlug": "andaman-and-nicobar-islands",
-      "citySlug": "port-blair",
-      "distance": 84.21326374332406
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Pathanamthitta",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "pathanamthitta",
-      "distance": 90.08297646328755
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Deomali",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "deomali",
-      "distance": 92.16245866365713
-    },
-    {
-      "city": "Khilerihat",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "khilerihat",
-      "distance": 118.39219586415854
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tc8zzwg",
-  "geohashUrl": "https://geohash.softeng.co/tc8zzwg"
+  ]
 }

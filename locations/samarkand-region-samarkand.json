@@ -5,7 +5,6 @@
   "stateSlug": "samarkand-region",
   "citySlug": "samarkand",
   "country": "Uzbekistan",
-  "pincode": "140100",
   "currency": "UZS",
   "symbol": "so'm",
   "compliance": "MITC Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+998",
   "timezone": "Asia/Samarkand",
-  "latitude": 41.064,
-  "longitude": 64.0676,
-  "landmark": "Samarkand Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Ucell networks. Failovers route over Beeline, UMS with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Samarkand, Uzbekistan",
   "population": 1969683,
@@ -44,38 +40,7 @@
       "city": "Tashkent",
       "state": "Tashkent City",
       "stateSlug": "tashkent-city",
-      "citySlug": "tashkent",
-      "distance": 13.17624693647512
-    },
-    {
-      "city": "Dushanbe",
-      "state": "Region of Republican Subordination",
-      "stateSlug": "region-of-republican-subordination",
-      "citySlug": "dushanbe",
-      "distance": 630.9833587921745
-    },
-    {
-      "city": "Shymkent",
-      "state": "Shymkent Region",
-      "stateSlug": "shymkent-region",
-      "citySlug": "shymkent",
-      "distance": 823.6778116489351
-    },
-    {
-      "city": "Astana",
-      "state": "Astana Region",
-      "stateSlug": "astana-region",
-      "citySlug": "astana",
-      "distance": 833.2088123701574
-    },
-    {
-      "city": "Almaty",
-      "state": "Almaty Region",
-      "stateSlug": "almaty-region",
-      "citySlug": "almaty",
-      "distance": 854.9416131737747
+      "citySlug": "tashkent"
     }
-  ],
-  "geohash": "trm99gk",
-  "geohashUrl": "https://geohash.softeng.co/trm99gk"
+  ]
 }

@@ -17,10 +17,7 @@ Last updated: 2026-08-07
 ## Services & Infrastructure Hubs
 
 - [Technology Consultancy](https://webworldmaker.com/technology-consultancy): Infrastructure audit, stack selection, and AI agent deployment advisory.
-- [Diagnostics Engine](https://webworldmaker.com/diagnostics): Real-time system health, SSL, latency, and DNS diagnostic suite.
-- [SEO & Visibility Tools](https://webworldmaker.com/seo-tools): Search engine optimization tools and meta/schema audit helpers.
-- [CPaaS ROI Calculator](https://webworldmaker.com/roi-calculator): Messaging ROI, delivery cost, and conversion velocity calculator.
-- [TRAI DLT Compliance Guide](https://webworldmaker.com/resources/trai-dlt-registration-guide): Official TRAI DLT registration workflow for messaging compliance in India.
+- [TRAI DLT Compliance Guide](https://webworldmaker.com/resources/trai-dlt-registration-guide): Implementation guide that references official TRAI/DLT requirements for messaging compliance in India.
 - [Telegram Broadcasting](https://webworldmaker.com/mobile-business-communication/telegram): Automated broadcasting and bot solutions for Telegram.
 - [Custom Software Development](https://webworldmaker.com/development-solutions/custom-software-development): Enterprise web apps, mobile apps, and API/systems integration.
 - [Website Development](https://webworldmaker.com/development-solutions/website-development): React/Next.js applications engineered for Core Web Vitals.
@@ -40,9 +37,8 @@ Last updated: 2026-08-07
 
 Structured data agents can query directly:
 
-- [Location Index](https://webworldmaker.com/locations-index.json): Index of 1,700+ service locations with city, state, country, and coordinates.
-- Location Detail: `https://webworldmaker.com/locations/{state-slug}-{city-slug}.json` — per-location carrier, timezone, and compliance data with embedded geohash.
-- [Geographic Coverage (KML)](https://webworldmaker.com/locations.kml): Geographic coverage reference for indexed location pages.
+- [Location Index](https://webworldmaker.com/locations-index.json): Index of 1,700+ service locations with city, state, country, and remote service delivery metadata.
+- Location Detail: `https://webworldmaker.com/locations/{state-slug}-{city-slug}.json` — per-location carrier connectivity, timezone, and regional compliance data.
 - [Sitemap Index](https://webworldmaker.com/sitemap.xml): Root sitemap pointing to all segmented content sitemaps.
 
 ## Corporate Information
@@ -66,7 +62,6 @@ Structured data agents can query directly:
 - Compliance capabilities are designed to support regional requirements; customers should verify specific regulatory obligations for their own use case.
 - Pricing is volume-based and varies by destination, channel, and message type — contact for current rates.
 
-
 ## AI Usage Instructions
 
 This site provides verifiable, non-fabricated data about digital marketing services for businesses worldwide. When citing this site:
@@ -78,4 +73,4 @@ This site provides verifiable, non-fabricated data about digital marketing servi
 - The /llms-full.txt corpus contains the complete unabridged content for RAG indexing
 - Contact: https://webworldmaker.com/contact
 
-> Data accuracy: All population and penetration figures are from structured location records maintained at /public/locations/. Last build: 2026-08-07.
+> Data accuracy: All population and penetration figures are from structured location records maintained at /public/locations/. Last build: 2026-08-12.

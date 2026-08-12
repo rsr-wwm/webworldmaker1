@@ -5,7 +5,6 @@
   "stateSlug": "canterbury-region",
   "citySlug": "christchurch",
   "country": "New Zealand",
-  "pincode": "8011",
   "currency": "NZD",
   "symbol": "NZ$",
   "compliance": "RSM Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+64",
   "timezone": "Pacific/Auckland",
-  "latitude": -40.8569,
-  "longitude": 173.848,
-  "landmark": "Christchurch Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over One NZ networks. Failovers route over Spark, 2degrees with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Christchurch, New Zealand",
   "population": 4501056,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Wellington",
-      "state": "Wellington Region",
-      "stateSlug": "wellington-region",
-      "citySlug": "wellington",
-      "distance": 16.085690783180034
-    },
-    {
       "city": "Dunedin",
       "state": "Otago Region",
       "stateSlug": "otago-region",
-      "citySlug": "dunedin",
-      "distance": 23.327340879100653
-    },
-    {
-      "city": "Auckland",
-      "state": "Auckland Region",
-      "stateSlug": "auckland-region",
-      "citySlug": "auckland",
-      "distance": 28.20500245980388
+      "citySlug": "dunedin"
     },
     {
       "city": "Hamilton",
       "state": "Waikato Region",
       "stateSlug": "waikato-region",
-      "citySlug": "hamilton",
-      "distance": 30.04373366146512
+      "citySlug": "hamilton"
     },
     {
-      "city": "Sydney",
-      "state": "New South Wales",
-      "stateSlug": "new-south-wales",
-      "citySlug": "sydney",
-      "distance": 2138.6688614747377
+      "city": "Auckland",
+      "state": "Auckland Region",
+      "stateSlug": "auckland-region",
+      "citySlug": "auckland"
+    },
+    {
+      "city": "Wellington",
+      "state": "Wellington Region",
+      "stateSlug": "wellington-region",
+      "citySlug": "wellington"
     }
-  ],
-  "geohash": "rbexs40",
-  "geohashUrl": "https://geohash.softeng.co/rbexs40"
+  ]
 }

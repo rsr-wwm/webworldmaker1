@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "sangli",
   "country": "India",
-  "pincode": "416416",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.3947,
-  "longitude": 69.9669,
-  "landmark": "Sangli Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sangli, India",
   "population": 4709228,
   "mobileUsers": 3574304,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Barmer",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "barmer",
-      "distance": 16.45708905591764
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Panvel",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "panvel",
-      "distance": 52.37169471864577
+      "citySlug": "nagpur"
     },
     {
-      "city": "Hubli",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hubli",
-      "distance": 62.65559306388525
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Alathur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "alathur",
-      "distance": 71.15034498255679
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Dehra Gopipur",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "dehra-gopipur",
-      "distance": 99.49346676005435
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tscgb5h",
-  "geohashUrl": "https://geohash.softeng.co/tscgb5h"
+  ]
 }

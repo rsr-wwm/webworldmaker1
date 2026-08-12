@@ -5,7 +5,6 @@
   "stateSlug": "nisava-district",
   "citySlug": "nis",
   "country": "Serbia",
-  "pincode": "18000",
   "currency": "RSD",
   "symbol": "дин.",
   "compliance": "RATEL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+381",
   "timezone": "Europe/Belgrade",
-  "latitude": 44.0919,
-  "longitude": 21.1793,
-  "landmark": "Nis Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over MTS networks. Failovers route over Yettel, A1 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Nis, Serbia",
   "population": 3994824,
@@ -44,38 +40,13 @@
       "city": "Novi Sad",
       "state": "Vojvodina",
       "stateSlug": "vojvodina",
-      "citySlug": "novi-sad",
-      "distance": 3.985450714672943
+      "citySlug": "novi-sad"
     },
     {
       "city": "Belgrade",
       "state": "Belgrade City",
       "stateSlug": "belgrade-city",
-      "citySlug": "belgrade",
-      "distance": 20.52848924663372
-    },
-    {
-      "city": "Podgorica",
-      "state": "Podgorica Municipality",
-      "stateSlug": "podgorica-municipality",
-      "citySlug": "podgorica",
-      "distance": 225.4574303969008
-    },
-    {
-      "city": "Sarajevo",
-      "state": "Sarajevo Canton",
-      "stateSlug": "sarajevo-canton",
-      "citySlug": "sarajevo",
-      "distance": 251.32030658178346
-    },
-    {
-      "city": "Banja Luka",
-      "state": "Republika Srpska",
-      "stateSlug": "republika-srpska",
-      "citySlug": "banja-luka",
-      "distance": 255.19568080949762
+      "citySlug": "belgrade"
     }
-  ],
-  "geohash": "srz4cfw",
-  "geohashUrl": "https://geohash.softeng.co/srz4cfw"
+  ]
 }

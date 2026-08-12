@@ -5,7 +5,6 @@
   "stateSlug": "chittagong-division",
   "citySlug": "chittagong",
   "country": "Bangladesh",
-  "pincode": "4000",
   "currency": "BDT",
   "symbol": "৳",
   "compliance": "BTRC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+880",
   "timezone": "Asia/Dhaka",
-  "latitude": 24.078,
-  "longitude": 89.8555,
-  "landmark": "Chittagong State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Grameenphone networks. Failovers route over Robi, Banglalink with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Chittagong, Bangladesh",
   "population": 4146065,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Sylhet",
+      "state": "Sylhet Division",
+      "stateSlug": "sylhet-division",
+      "citySlug": "sylhet"
+    },
+    {
       "city": "Khulna",
       "state": "Khulna Division",
       "stateSlug": "khulna-division",
-      "citySlug": "khulna",
-      "distance": 14.374491698899467
+      "citySlug": "khulna"
     },
     {
       "city": "Dhaka",
       "state": "Dhaka Division",
       "stateSlug": "dhaka-division",
-      "citySlug": "dhaka",
-      "distance": 32.43047222245027
-    },
-    {
-      "city": "Sylhet",
-      "state": "Sylhet Division",
-      "stateSlug": "sylhet-division",
-      "citySlug": "sylhet",
-      "distance": 33.67415225787381
-    },
-    {
-      "city": "Himat Nagar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "himat-nagar",
-      "distance": 104.5879223449637
-    },
-    {
-      "city": "Mulund",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "mulund",
-      "distance": 130.8486295894598
+      "citySlug": "dhaka"
     }
-  ],
-  "geohash": "turbuxq",
-  "geohashUrl": "https://geohash.softeng.co/turbuxq"
+  ]
 }

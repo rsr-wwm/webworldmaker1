@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "barasat",
   "country": "India",
-  "pincode": "743201",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.0488,
-  "longitude": 81.3094,
-  "landmark": "Barasat Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Barasat, India",
   "population": 3096479,
   "mobileUsers": 2374999,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kiphir",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "kiphir",
-      "distance": 68.73986841885073
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bolganj bazar",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bolganj-bazar",
-      "distance": 71.18216022347676
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Aluva",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "aluva",
-      "distance": 81.40385775256145
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Amadalavalasa",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "amadalavalasa",
-      "distance": 96.74926001410657
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Thodupuzha",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thodupuzha",
-      "distance": 97.58074582285863
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg9zdpz",
-  "geohashUrl": "https://geohash.softeng.co/tg9zdpz"
+  ]
 }

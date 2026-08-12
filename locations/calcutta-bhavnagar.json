@@ -5,7 +5,6 @@
   "stateSlug": "calcutta",
   "citySlug": "bhavnagar",
   "country": "India",
-  "pincode": "364001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.2871,
-  "longitude": 85.7858,
-  "landmark": "Bhavnagar Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bhavnagar, India",
   "population": 4788324,
   "mobileUsers": 3476323,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bolomia",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "bolomia",
-      "distance": 17.938277104406723
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Banka",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "banka",
-      "distance": 89.6783107548158
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kankroli",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "kankroli",
-      "distance": 91.88418079456494
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Marhowrah",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "marhowrah",
-      "distance": 93.32469295109118
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tehri",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "tehri",
-      "distance": 97.65927955447539
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tumpb57",
-  "geohashUrl": "https://geohash.softeng.co/tumpb57"
+  ]
 }

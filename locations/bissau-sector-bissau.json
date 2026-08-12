@@ -5,7 +5,6 @@
   "stateSlug": "bissau-sector",
   "citySlug": "bissau",
   "country": "Guinea-Bissau",
-  "pincode": "1000",
   "currency": "XOF",
   "symbol": "CFA",
   "compliance": "ARN Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+245",
   "timezone": "Africa/Bissau",
-  "latitude": 12.1359,
-  "longitude": -15.1499,
-  "landmark": "Bissau Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Orange with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bissau, Guinea-Bissau",
   "population": 2554715,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Banjul",
-      "state": "Greater Banjul Area",
-      "stateSlug": "greater-banjul-area",
-      "citySlug": "banjul",
-      "distance": 211.41576631181962
-    },
-    {
-      "city": "Saint-Louis",
-      "state": "Saint-Louis Region",
-      "stateSlug": "saint-louis-region",
-      "citySlug": "saint-louis",
-      "distance": 253.38349525083262
-    },
-    {
-      "city": "Dakar",
-      "state": "Dakar Region",
-      "stateSlug": "dakar-region",
-      "citySlug": "dakar",
-      "distance": 256.8302674256308
-    },
-    {
-      "city": "Conakry",
-      "state": "Conakry Region",
-      "stateSlug": "conakry-region",
-      "citySlug": "conakry",
-      "distance": 570.3797428620724
-    },
-    {
-      "city": "Freetown",
-      "state": "Western Area",
-      "stateSlug": "western-area",
-      "citySlug": "freetown",
-      "distance": 590.4895247481032
-    }
-  ],
-  "geohash": "edjjp32",
-  "geohashUrl": "https://geohash.softeng.co/edjjp32"
+  "nearbyLocations": []
 }

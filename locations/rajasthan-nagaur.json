@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "nagaur",
   "country": "India",
-  "pincode": "341001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 24.382,
-  "longitude": 80.8123,
-  "landmark": "Nagaur Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nagaur, India",
   "population": 2300291,
   "mobileUsers": 1736719,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mebo",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "mebo",
-      "distance": 47.85762523690221
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Akola",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "akola",
-      "distance": 49.81064807556351
+      "citySlug": "nagpur"
     },
     {
-      "city": "Amroha",
-      "state": "Utter Pradesh",
-      "stateSlug": "utter-pradesh",
-      "citySlug": "amroha",
-      "distance": 53.66063369716766
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Etah",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "etah",
-      "distance": 54.86691744772829
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Chikodi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chikodi",
-      "distance": 81.25941509799848
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu36wyt",
-  "geohashUrl": "https://geohash.softeng.co/tu36wyt"
+  ]
 }

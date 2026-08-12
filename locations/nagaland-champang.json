@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "champang",
   "country": "India",
-  "pincode": "798603",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.8031,
-  "longitude": 71.6266,
-  "landmark": "Champang Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Champang, India",
   "population": 4137239,
   "mobileUsers": 3115340,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Girgaon",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "girgaon",
-      "distance": 22.03440294820824
+      "citySlug": "nagpur"
     },
     {
-      "city": "Makshmara",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "makshmara",
-      "distance": 26.104867296969672
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Cobichettipalayam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "cobichettipalayam",
-      "distance": 42.88275855676392
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Sirsi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "sirsi",
-      "distance": 66.73536750701084
-    },
-    {
-      "city": "Mangaldoi",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "mangaldoi",
-      "distance": 68.20472645663025
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tddujyu",
-  "geohashUrl": "https://geohash.softeng.co/tddujyu"
+  ]
 }

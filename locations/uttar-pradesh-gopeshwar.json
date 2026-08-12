@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "gopeshwar",
   "country": "India",
-  "pincode": "246401",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 20.8407,
-  "longitude": 86.2731,
-  "landmark": "Gopeshwar Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Gopeshwar, India",
   "population": 7862280,
   "mobileUsers": 5857398,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Vimangad",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "vimangad",
-      "distance": 52.55956598223066
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sirsa",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "sirsa",
-      "distance": 59.522934944119264
-    },
-    {
-      "city": "Nashik road",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nashik-road",
-      "distance": 61.17601152796136
+      "citySlug": "nagpur"
     },
     {
-      "city": "Gondal",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "gondal",
-      "distance": 63.75827074748512
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Karong",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "karong",
-      "distance": 65.43731431349484
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgtqe1y",
-  "geohashUrl": "https://geohash.softeng.co/tgtqe1y"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "abu-dhabi-emirate",
   "citySlug": "abu-dhabi",
   "country": "United Arab Emirates",
-  "pincode": "00000",
   "currency": "AED",
   "symbol": "د.إ",
   "compliance": "TDRA Guidelines",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+971",
   "timezone": "Asia/Dubai",
-  "latitude": 24.1923,
-  "longitude": 53.991,
-  "landmark": "Abu Dhabi Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Etisalat networks. Failovers route over du with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Abu Dhabi, United Arab Emirates",
   "population": 2841662,
@@ -40,41 +36,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Sharjah",
-      "state": "Sharjah Emirate",
-      "stateSlug": "sharjah-emirate",
-      "citySlug": "sharjah",
-      "distance": 6.629719723794863
-    },
-    {
       "city": "Al Ain",
       "state": "Abu Dhabi Emirate",
       "stateSlug": "abu-dhabi-emirate",
-      "citySlug": "al-ain",
-      "distance": 14.036082051131098
+      "citySlug": "al-ain"
+    },
+    {
+      "city": "Sharjah",
+      "state": "Sharjah Emirate",
+      "stateSlug": "sharjah-emirate",
+      "citySlug": "sharjah"
     },
     {
       "city": "Dubai",
       "state": "Dubai Emirate",
       "stateSlug": "dubai-emirate",
-      "citySlug": "dubai",
-      "distance": 43.00332401155685
-    },
-    {
-      "city": "Doha",
-      "state": "Ad Dawhah",
-      "stateSlug": "ad-dawhah",
-      "citySlug": "doha",
-      "distance": 307.0829551019527
-    },
-    {
-      "city": "Manama",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "manama",
-      "distance": 410.62693030299744
+      "citySlug": "dubai"
     }
-  ],
-  "geohash": "thq3ss5",
-  "geohashUrl": "https://geohash.softeng.co/thq3ss5"
+  ]
 }

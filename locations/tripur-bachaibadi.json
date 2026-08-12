@@ -5,7 +5,6 @@
   "stateSlug": "tripur",
   "citySlug": "bachaibadi",
   "country": "India",
-  "pincode": "799206",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.5428,
-  "longitude": 86.8665,
-  "landmark": "Bachaibadi Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bachaibadi, India",
   "population": 6788957,
   "mobileUsers": 5159607,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Likabili",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "likabili",
-      "distance": 67.08014705183115
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sunamura",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "sunamura",
-      "distance": 76.69458911395593
-    },
-    {
-      "city": "Ichalkaranji",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "ichalkaranji",
-      "distance": 108.55117726545022
+      "citySlug": "nagpur"
     },
     {
-      "city": "Indi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "indi",
-      "distance": 110.4905363591432
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Aligarh",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "aligarh",
-      "distance": 129.3889771609619
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgmc2xw",
-  "geohashUrl": "https://geohash.softeng.co/tgmc2xw"
+  ]
 }

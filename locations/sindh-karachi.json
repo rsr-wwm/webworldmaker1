@@ -5,7 +5,6 @@
   "stateSlug": "sindh",
   "citySlug": "karachi",
   "country": "Pakistan",
-  "pincode": "74200",
   "currency": "PKR",
   "symbol": "Rs.",
   "compliance": "PTA Guidelines",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+92",
   "timezone": "Asia/Karachi",
-  "latitude": 29.9351,
-  "longitude": 70.0677,
-  "landmark": "Karachi Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Jazz networks. Failovers route over Telenor, Zong, Ufone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Karachi, Pakistan",
   "population": 3296857,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Islamabad",
-      "state": "Islamabad Capital Territory",
-      "stateSlug": "islamabad-capital-territory",
-      "citySlug": "islamabad",
-      "distance": 6.215311062067535
-    },
-    {
-      "city": "Lahore",
+      "city": "Rawalpindi",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "lahore",
-      "distance": 7.926802017774497
+      "citySlug": "rawalpindi"
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     },
     {
       "city": "Multan",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "multan",
-      "distance": 15.956081877742356
+      "citySlug": "multan"
     },
     {
-      "city": "Rajkot",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "rajkot",
-      "distance": 24.54974651137713
-    },
-    {
-      "city": "Rawalpindi",
+      "city": "Lahore",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "rawalpindi",
-      "distance": 27.439346854959396
+      "citySlug": "lahore"
+    },
+    {
+      "city": "Islamabad",
+      "state": "Islamabad Capital Territory",
+      "stateSlug": "islamabad-capital-territory",
+      "citySlug": "islamabad"
     }
-  ],
-  "geohash": "tt3f63t",
-  "geohashUrl": "https://geohash.softeng.co/tt3f63t"
+  ]
 }

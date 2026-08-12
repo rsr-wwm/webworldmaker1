@@ -5,7 +5,6 @@
   "stateSlug": "casablanca-settat",
   "citySlug": "casablanca",
   "country": "Morocco",
-  "pincode": "20000",
   "currency": "MAD",
   "symbol": "DH",
   "compliance": "ANRT Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+212",
   "timezone": "Africa/Casablanca",
-  "latitude": 32.1298,
-  "longitude": -5.0187,
-  "landmark": "Casablanca Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Maroc Telecom networks. Failovers route over Orange, inwi with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Casablanca, Morocco",
   "population": 1597170,
@@ -44,38 +40,25 @@
       "city": "Tangier",
       "state": "Tangier-Tetouan-Al Hoceima",
       "stateSlug": "tangier-tetouan-al-hoceima",
-      "citySlug": "tangier",
-      "distance": 12.23755001696179
-    },
-    {
-      "city": "Fez",
-      "state": "Fes-Meknes",
-      "stateSlug": "fes-meknes",
-      "citySlug": "fez",
-      "distance": 25.24424486017302
+      "citySlug": "tangier"
     },
     {
       "city": "Marrakech",
       "state": "Marrakesh-Safi",
       "stateSlug": "marrakesh-safi",
-      "citySlug": "marrakech",
-      "distance": 26.675898129864787
+      "citySlug": "marrakech"
+    },
+    {
+      "city": "Fez",
+      "state": "Fes-Meknes",
+      "stateSlug": "fes-meknes",
+      "citySlug": "fez"
     },
     {
       "city": "Rabat",
       "state": "Rabat-Salé-Kénitra",
       "stateSlug": "rabat-sale-kenitra",
-      "citySlug": "rabat",
-      "distance": 30.175449468106812
-    },
-    {
-      "city": "Oran",
-      "state": "Oran Province",
-      "stateSlug": "oran-province",
-      "citySlug": "oran",
-      "distance": 565.974255990911
+      "citySlug": "rabat"
     }
-  ],
-  "geohash": "evsqvc1",
-  "geohashUrl": "https://geohash.softeng.co/evsqvc1"
+  ]
 }

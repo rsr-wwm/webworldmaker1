@@ -5,7 +5,6 @@
   "stateSlug": "isfahan-province",
   "citySlug": "isfahan",
   "country": "Iran",
-  "pincode": "81331",
   "currency": "IRR",
   "symbol": "﷼",
   "compliance": "CRA Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+98",
   "timezone": "Asia/Tehran",
-  "latitude": 32.1442,
-  "longitude": 53.0155,
-  "landmark": "Isfahan State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over MCI networks. Failovers route over Irancell, RighTel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Isfahan, Iran",
   "population": 2591296,
@@ -44,38 +40,19 @@
       "city": "Tabriz",
       "state": "East Azerbaijan",
       "stateSlug": "east-azerbaijan",
-      "citySlug": "tabriz",
-      "distance": 24.919077150997214
-    },
-    {
-      "city": "Tehran",
-      "state": "Tehran Province",
-      "stateSlug": "tehran-province",
-      "citySlug": "tehran",
-      "distance": 34.146428356940774
+      "citySlug": "tabriz"
     },
     {
       "city": "Mashhad",
       "state": "Razavi Khorasan",
       "stateSlug": "razavi-khorasan",
-      "citySlug": "mashhad",
-      "distance": 35.77459323565087
+      "citySlug": "mashhad"
     },
     {
-      "city": "Kuwait City",
-      "state": "Capital Governorate",
-      "stateSlug": "capital-governorate",
-      "citySlug": "kuwait-city",
-      "distance": 571.3730328793781
-    },
-    {
-      "city": "Marseille",
-      "state": "Provence-Alpes-Côte d'Azur",
-      "stateSlug": "provence-alpes-cote-dazur",
-      "citySlug": "marseille",
-      "distance": 710.9873390743719
+      "city": "Tehran",
+      "state": "Tehran Province",
+      "stateSlug": "tehran-province",
+      "citySlug": "tehran"
     }
-  ],
-  "geohash": "tjtwy7s",
-  "geohashUrl": "https://geohash.softeng.co/tjtwy7s"
+  ]
 }

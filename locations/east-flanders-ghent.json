@@ -5,7 +5,6 @@
   "stateSlug": "east-flanders",
   "citySlug": "ghent",
   "country": "Belgium",
-  "pincode": "9000",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / BIPT",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+32",
   "timezone": "Europe/Brussels",
-  "latitude": 51.0282,
-  "longitude": 3.8699,
-  "landmark": "Ghent District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Proximus networks. Failovers route over Orange, Telenet with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ghent, Belgium",
   "population": 948937,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Antwerp",
+      "state": "Antwerp Province",
+      "stateSlug": "antwerp-province",
+      "citySlug": "antwerp"
+    },
+    {
       "city": "Liege",
       "state": "Liege Province",
       "stateSlug": "liege-province",
-      "citySlug": "liege",
-      "distance": 3.4338573194947744
+      "citySlug": "liege"
     },
     {
       "city": "Brussels",
       "state": "Brussels-Capital",
       "stateSlug": "brussels-capital",
-      "citySlug": "brussels",
-      "distance": 14.663998336179871
-    },
-    {
-      "city": "Antwerp",
-      "state": "Antwerp Province",
-      "stateSlug": "antwerp-province",
-      "citySlug": "antwerp",
-      "distance": 20.198329483837966
-    },
-    {
-      "city": "Amsterdam",
-      "state": "North Holland",
-      "stateSlug": "north-holland",
-      "citySlug": "amsterdam",
-      "distance": 201.5758309864837
-    },
-    {
-      "city": "Eindhoven",
-      "state": "North Brabant",
-      "stateSlug": "north-brabant",
-      "citySlug": "eindhoven",
-      "distance": 203.70506215523713
+      "citySlug": "brussels"
     }
-  ],
-  "geohash": "u14f213",
-  "geohashUrl": "https://geohash.softeng.co/u14f213"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "tyrol",
   "citySlug": "innsbruck",
   "country": "Austria",
-  "pincode": "6020",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / RTR",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+43",
   "timezone": "Europe/Vienna",
-  "latitude": 47.1775,
-  "longitude": 13.2618,
-  "landmark": "Innsbruck Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over A1 networks. Failovers route over Magenta Telekom, Drei with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Innsbruck, Austria",
   "population": 4957568,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Salzburg",
+      "state": "Salzburg State",
+      "stateSlug": "salzburg-state",
+      "citySlug": "salzburg"
+    },
+    {
       "city": "Graz",
       "state": "Styria",
       "stateSlug": "styria",
-      "citySlug": "graz",
-      "distance": 15.437501993477065
+      "citySlug": "graz"
     },
     {
       "city": "Linz",
       "state": "Upper Austria",
       "stateSlug": "upper-austria",
-      "citySlug": "linz",
-      "distance": 28.464553457129895
+      "citySlug": "linz"
     },
     {
       "city": "Vienna",
       "state": "Vienna State",
       "stateSlug": "vienna-state",
-      "citySlug": "vienna",
-      "distance": 29.30946971299022
-    },
-    {
-      "city": "Salzburg",
-      "state": "Salzburg State",
-      "stateSlug": "salzburg-state",
-      "citySlug": "salzburg",
-      "distance": 34.18197930547639
-    },
-    {
-      "city": "Bonn",
-      "state": "North Rhine-Westphalia",
-      "stateSlug": "north-rhine-westphalia",
-      "citySlug": "bonn",
-      "distance": 106.93625492459122
+      "citySlug": "vienna"
     }
-  ],
-  "geohash": "u23kmu2",
-  "geohashUrl": "https://geohash.softeng.co/u23kmu2"
+  ]
 }

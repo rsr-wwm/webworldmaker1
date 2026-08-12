@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "buchinghampet",
   "country": "India",
-  "pincode": "520002",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.4651,
-  "longitude": 73.7903,
-  "landmark": "Buchinghampet GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Buchinghampet, India",
   "population": 8858395,
   "mobileUsers": 6785530,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bordoli",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bordoli",
-      "distance": 45.7543119997016
-    },
-    {
-      "city": "Amalapuram",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "amalapuram",
-      "distance": 48.10471531687134
-    },
-    {
-      "city": "Morar",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "morar",
-      "distance": 103.38316336378868
+      "citySlug": "bhopal"
     },
     {
-      "city": "Papanasam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "papanasam",
-      "distance": 106.752719152838
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Lamphelpat",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "lamphelpat",
-      "distance": 107.11748041896021
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tds6r1k",
-  "geohashUrl": "https://geohash.softeng.co/tds6r1k"
+  ]
 }

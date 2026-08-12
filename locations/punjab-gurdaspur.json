@@ -5,7 +5,6 @@
   "stateSlug": "punjab",
   "citySlug": "gurdaspur",
   "country": "India",
-  "pincode": "143521",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.3208,
-  "longitude": 76.0247,
-  "landmark": "Gurdaspur Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Gurdaspur, India",
   "population": 2060061,
   "mobileUsers": 1553285,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chidambaram",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "chidambaram",
-      "distance": 45.02871805870353
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Lucknow",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "lucknow",
-      "distance": 56.55344710014475
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Phulbari",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "phulbari",
-      "distance": 93.37603008701494
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Dharwad",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "dharwad",
-      "distance": 100.54793850788613
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi"
     },
     {
-      "city": "Berhampur",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "berhampur",
-      "distance": 110.0770791962482
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     }
-  ],
-  "geohash": "tdwp1vp",
-  "geohashUrl": "https://geohash.softeng.co/tdwp1vp"
+  ]
 }

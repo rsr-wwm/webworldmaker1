@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "kankroli",
   "country": "India",
-  "pincode": "313324",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.8715,
-  "longitude": 86.4335,
-  "landmark": "Kankroli Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kankroli, India",
   "population": 2723240,
   "mobileUsers": 2072385,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Saraswathipuram",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "saraswathipuram",
-      "distance": 42.171745118154575
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chochuba",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chochuba",
-      "distance": 54.298126236440275
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bhavnagar",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bhavnagar",
-      "distance": 91.88418079456494
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Bolomia",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "bolomia",
-      "distance": 91.90784020932482
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Shalima",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "shalima",
-      "distance": 95.45777209979059
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tut7nvf",
-  "geohashUrl": "https://geohash.softeng.co/tut7nvf"
+  ]
 }

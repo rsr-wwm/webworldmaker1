@@ -5,7 +5,6 @@
   "stateSlug": "goa",
   "citySlug": "kavlem",
   "country": "India",
-  "pincode": "403410",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.481,
-  "longitude": 83.2441,
-  "landmark": "Kavlem Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kavlem, India",
   "population": 4849371,
   "mobileUsers": 3734015,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Gangtok",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "gangtok",
-      "distance": 32.77008295999942
-    },
-    {
-      "city": "Hospet",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hospet",
-      "distance": 55.53619734448596
-    },
-    {
-      "city": "Hoshiarpur",
-      "state": "Punjab",
-      "stateSlug": "punjab",
-      "citySlug": "hoshiarpur",
-      "distance": 69.2646146921449
-    },
-    {
-      "city": "Shajapur",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "shajapur",
-      "distance": 92.85178098945075
+      "citySlug": "bhopal"
     },
     {
-      "city": "Sirohi",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sirohi",
-      "distance": 95.68303161605108
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg7ny62",
-  "geohashUrl": "https://geohash.softeng.co/tg7ny62"
+  ]
 }

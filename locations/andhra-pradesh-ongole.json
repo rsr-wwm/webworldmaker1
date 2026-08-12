@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "ongole",
   "country": "India",
-  "pincode": "523001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.1477,
-  "longitude": 84.9862,
-  "landmark": "Ongole Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Ongole, India",
   "population": 2023841,
   "mobileUsers": 1509785,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Katni",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "katni",
-      "distance": 52.904996656097694
+      "citySlug": "bhopal"
     },
     {
-      "city": "Pratapgarh",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "pratapgarh",
-      "distance": 56.015705565025364
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Fatehpur",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "fatehpur",
-      "distance": 65.90105024247123
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Ramachandrapuram",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "ramachandrapuram",
-      "distance": 69.56112557320573
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Manughat",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "manughat",
-      "distance": 83.78951976541197
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgu2mcv",
-  "geohashUrl": "https://geohash.softeng.co/tgu2mcv"
+  ]
 }

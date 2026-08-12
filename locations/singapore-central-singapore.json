@@ -5,7 +5,6 @@
   "stateSlug": "singapore-central",
   "citySlug": "singapore",
   "country": "Singapore",
-  "pincode": "018981",
   "currency": "SGD",
   "symbol": "S$",
   "compliance": "PDPA / IMDA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+65",
   "timezone": "Asia/Singapore",
-  "latitude": 1.3636,
-  "longitude": 103.7036,
-  "landmark": "Singapore Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Singtel networks. Failovers route over StarHub, M1 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Singapore, Singapore",
   "population": 2922923,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Shah Alam",
-      "state": "Selangor",
-      "stateSlug": "selangor",
-      "citySlug": "shah-alam",
-      "distance": 966.9615534018164
-    },
-    {
-      "city": "Kuala Lumpur",
-      "state": "Federal Territory",
-      "stateSlug": "federal-territory",
-      "citySlug": "kuala-lumpur",
-      "distance": 969.6118806335073
-    },
-    {
-      "city": "Ipoh",
-      "state": "Perak",
-      "stateSlug": "perak",
-      "citySlug": "ipoh",
-      "distance": 972.170730481887
-    },
-    {
-      "city": "Penang",
-      "state": "Penang State",
-      "stateSlug": "penang-state",
-      "citySlug": "penang",
-      "distance": 977.3618576270432
-    },
-    {
-      "city": "Johor Bahru",
-      "state": "Johor State",
-      "stateSlug": "johor-state",
-      "citySlug": "johor-bahru",
-      "distance": 986.8141756194534
-    }
-  ],
-  "geohash": "w21xzb4",
-  "geohashUrl": "https://geohash.softeng.co/w21xzb4"
+  "nearbyLocations": []
 }

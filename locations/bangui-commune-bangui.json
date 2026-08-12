@@ -5,7 +5,6 @@
   "stateSlug": "bangui-commune",
   "citySlug": "bangui",
   "country": "Central African Republic",
-  "pincode": "00000",
   "currency": "XAF",
   "symbol": "FCFA",
   "compliance": "ART Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+236",
   "timezone": "Africa/Bangui",
-  "latitude": 7.129,
-  "longitude": 20.8808,
-  "landmark": "Bangui GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Telecel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bangui, Central African Republic",
   "population": 4838556,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "N'Djamena",
-      "state": "Chari-Baguirmi",
-      "stateSlug": "chari-baguirmi",
-      "citySlug": "ndjamena",
-      "distance": 909.3195126051411
-    },
-    {
-      "city": "Lubumbashi",
-      "state": "Haut-Katanga",
-      "stateSlug": "haut-katanga",
-      "citySlug": "lubumbashi",
-      "distance": 911.771878652288
-    },
-    {
-      "city": "Kinshasa",
-      "state": "Kinshasa Province",
-      "stateSlug": "kinshasa-province",
-      "citySlug": "kinshasa",
-      "distance": 912.3131111415423
-    },
-    {
-      "city": "Goma",
-      "state": "North Kivu",
-      "stateSlug": "north-kivu",
-      "citySlug": "goma",
-      "distance": 923.2543688520186
-    },
-    {
-      "city": "Yaounde",
-      "state": "Centre Region",
-      "stateSlug": "centre-region",
-      "citySlug": "yaounde",
-      "distance": 968.0268971512579
-    }
-  ],
-  "geohash": "s3qbe1u",
-  "geohashUrl": "https://geohash.softeng.co/s3qbe1u"
+  "nearbyLocations": []
 }

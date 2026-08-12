@@ -5,7 +5,6 @@
   "stateSlug": "fes-meknes",
   "citySlug": "fez",
   "country": "Morocco",
-  "pincode": "30000",
   "currency": "MAD",
   "symbol": "DH",
   "compliance": "ANRT Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+212",
   "timezone": "Africa/Casablanca",
-  "latitude": 31.9938,
-  "longitude": -4.8042,
-  "landmark": "Fez Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Maroc Telecom networks. Failovers route over Orange, inwi with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Fez, Morocco",
   "population": 4131467,
@@ -44,38 +40,25 @@
       "city": "Tangier",
       "state": "Tangier-Tetouan-Al Hoceima",
       "stateSlug": "tangier-tetouan-al-hoceima",
-      "citySlug": "tangier",
-      "distance": 13.694402527906405
-    },
-    {
-      "city": "Casablanca",
-      "state": "Casablanca-Settat",
-      "stateSlug": "casablanca-settat",
-      "citySlug": "casablanca",
-      "distance": 25.24424486017302
-    },
-    {
-      "city": "Rabat",
-      "state": "Rabat-Salé-Kénitra",
-      "stateSlug": "rabat-sale-kenitra",
-      "citySlug": "rabat",
-      "distance": 35.11046536271453
+      "citySlug": "tangier"
     },
     {
       "city": "Marrakech",
       "state": "Marrakesh-Safi",
       "stateSlug": "marrakesh-safi",
-      "citySlug": "marrakech",
-      "distance": 36.01686036274256
+      "citySlug": "marrakech"
     },
     {
-      "city": "Oran",
-      "state": "Oran Province",
-      "stateSlug": "oran-province",
-      "citySlug": "oran",
-      "distance": 563.2536298573528
+      "city": "Casablanca",
+      "state": "Casablanca-Settat",
+      "stateSlug": "casablanca-settat",
+      "citySlug": "casablanca"
+    },
+    {
+      "city": "Rabat",
+      "state": "Rabat-Salé-Kénitra",
+      "stateSlug": "rabat-sale-kenitra",
+      "citySlug": "rabat"
     }
-  ],
-  "geohash": "evsw48m",
-  "geohashUrl": "https://geohash.softeng.co/evsw48m"
+  ]
 }

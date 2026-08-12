@@ -5,7 +5,6 @@
   "stateSlug": "punjab",
   "citySlug": "kapurthala",
   "country": "India",
-  "pincode": "144601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 9.5262,
-  "longitude": 70.4754,
-  "landmark": "Kapurthala State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kapurthala, India",
   "population": 2935737,
   "mobileUsers": 2266388,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dholka",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "dholka",
-      "distance": 77.35869451379197
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Turiyur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "turiyur",
-      "distance": 100.64059056610748
-    },
-    {
-      "city": "Latur",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "latur",
-      "distance": 107.9565740948232
+      "citySlug": "nagpur"
     },
     {
-      "city": "Devakottai",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "devakottai",
-      "distance": 109.727314230982
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Sibsagar",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "sibsagar",
-      "distance": 114.54529849780614
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi"
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     }
-  ],
-  "geohash": "t9dn5wn",
-  "geohashUrl": "https://geohash.softeng.co/t9dn5wn"
+  ]
 }

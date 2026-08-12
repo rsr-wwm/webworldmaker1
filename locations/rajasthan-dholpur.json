@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "dholpur",
   "country": "India",
-  "pincode": "328001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 31.6398,
-  "longitude": 70.4445,
-  "landmark": "Dholpur Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dholpur, India",
   "population": 8723062,
   "mobileUsers": 6777819,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Proddatur",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "proddatur",
-      "distance": 35.84373786622498
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Surat",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "surat",
-      "distance": 52.534242057452666
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Dharapuram",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "dharapuram",
-      "distance": 85.41539445478885
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Punalur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "punalur",
-      "distance": 93.72415300168183
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Visnagar",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "visnagar",
-      "distance": 99.60706239297431
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttd5gpb",
-  "geohashUrl": "https://geohash.softeng.co/ttd5gpb"
+  ]
 }

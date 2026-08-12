@@ -5,7 +5,6 @@
   "stateSlug": "saint-anthony-parish",
   "citySlug": "plymouth",
   "country": "Montserrat",
-  "pincode": "MSR1110",
   "currency": "XCD",
   "symbol": "EC$",
   "compliance": "MASC Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1",
   "timezone": "America/Montserrat",
-  "latitude": 16.8242,
-  "longitude": -62.2419,
-  "landmark": "Plymouth Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Flow networks. Failovers route over Digicel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Plymouth, Montserrat",
   "population": 2822775,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Saint John's",
-      "state": "Saint John Parish",
-      "stateSlug": "saint-john-parish",
-      "citySlug": "saint-johns",
-      "distance": 61.10310485732176
-    },
-    {
-      "city": "Basseterre",
-      "state": "Saint George Basseterre",
-      "stateSlug": "saint-george-basseterre",
-      "citySlug": "basseterre",
-      "distance": 94.42606254866632
-    },
-    {
-      "city": "Gustavia",
-      "state": "Saint Barthelemy",
-      "stateSlug": "saint-barthelemy",
-      "citySlug": "gustavia",
-      "distance": 135.543896908361
-    },
-    {
-      "city": "Road Town",
-      "state": "Tortola Island",
-      "stateSlug": "tortola-island",
-      "citySlug": "road-town",
-      "distance": 291.6842313354849
-    },
-    {
-      "city": "Charlotte Amalie",
-      "state": "Saint Thomas Island",
-      "stateSlug": "saint-thomas-island",
-      "citySlug": "charlotte-amalie",
-      "distance": 328.73769460712293
-    }
-  ],
-  "geohash": "ddgxxwu",
-  "geohashUrl": "https://geohash.softeng.co/ddgxxwu"
+  "nearbyLocations": []
 }

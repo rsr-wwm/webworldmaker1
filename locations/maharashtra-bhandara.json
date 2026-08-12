@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "bhandara",
   "country": "India",
-  "pincode": "441904",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.2675,
-  "longitude": 71.9237,
-  "landmark": "Bhandara Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bhandara, India",
   "population": 2433563,
   "mobileUsers": 1895745,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mohanpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "mohanpur",
-      "distance": 41.594602399989384
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rayagada",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "rayagada",
-      "distance": 71.60146051570051
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Loktak Project",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "loktak-project",
-      "distance": 86.40120591632358
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kalol",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "kalol",
-      "distance": 90.53980609509327
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kalpeni",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "kalpeni",
-      "distance": 101.7889489932064
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsejktv",
-  "geohashUrl": "https://geohash.softeng.co/tsejktv"
+  ]
 }

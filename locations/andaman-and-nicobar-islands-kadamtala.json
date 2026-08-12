@@ -5,7 +5,6 @@
   "stateSlug": "andaman-and-nicobar-islands",
   "citySlug": "kadamtala",
   "country": "India",
-  "pincode": "744209",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.0563,
-  "longitude": 86.3715,
-  "landmark": "Kadamtala Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kadamtala, India",
   "population": 5552184,
   "mobileUsers": 4225212,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nanglayer",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "nanglayer",
-      "distance": 22.32436663762198
-    },
-    {
-      "city": "Chuchaimalang",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "chuchaimalang",
-      "distance": 57.45571740293996
-    },
-    {
-      "city": "Station Jadcheral",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "station-jadcheral",
-      "distance": 62.44832839831113
-    },
-    {
-      "city": "Baleshwar",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "baleshwar",
-      "distance": 62.513981364414676
-    },
-    {
-      "city": "Bhopal C.I.T. Nagar",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bhopal-cit-nagar",
-      "distance": 73.00263797604089
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuj7jmm",
-  "geohashUrl": "https://geohash.softeng.co/tuj7jmm"
+  ]
 }

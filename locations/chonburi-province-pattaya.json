@@ -5,7 +5,6 @@
   "stateSlug": "chonburi-province",
   "citySlug": "pattaya",
   "country": "Thailand",
-  "pincode": "20150",
   "currency": "THB",
   "symbol": "฿",
   "compliance": "NBTC Guidelines",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+66",
   "timezone": "Asia/Bangkok",
-  "latitude": 15.1711,
-  "longitude": 99.955,
-  "landmark": "Pattaya Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over AIS networks. Failovers route over TrueMove H with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Pattaya, Thailand",
   "population": 843796,
@@ -40,41 +36,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Bangkok",
-      "state": "Bangkok Metropolitan",
-      "stateSlug": "bangkok-metropolitan",
-      "citySlug": "bangkok",
-      "distance": 7.5017649571590255
+      "city": "Nonthaburi",
+      "state": "Nonthaburi Province",
+      "stateSlug": "nonthaburi-province",
+      "citySlug": "nonthaburi"
     },
     {
       "city": "Chiang Mai",
       "state": "Chiang Mai Province",
       "stateSlug": "chiang-mai-province",
-      "citySlug": "chiang-mai",
-      "distance": 8.376015741155253
+      "citySlug": "chiang-mai"
     },
     {
-      "city": "Nonthaburi",
-      "state": "Nonthaburi Province",
-      "stateSlug": "nonthaburi-province",
-      "citySlug": "nonthaburi",
-      "distance": 14.284492479205882
-    },
-    {
-      "city": "Sihanoukville",
-      "state": "Preah Sihanouk Province",
-      "stateSlug": "preah-sihanouk-province",
-      "citySlug": "sihanoukville",
-      "distance": 589.9960224777902
-    },
-    {
-      "city": "Siem Reap",
-      "state": "Siem Reap Province",
-      "stateSlug": "siem-reap-province",
-      "citySlug": "siem-reap",
-      "distance": 607.9550608496395
+      "city": "Bangkok",
+      "state": "Bangkok Metropolitan",
+      "stateSlug": "bangkok-metropolitan",
+      "citySlug": "bangkok"
     }
-  ],
-  "geohash": "w4xn69c",
-  "geohashUrl": "https://geohash.softeng.co/w4xn69c"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "taichung-city",
   "citySlug": "taichung",
   "country": "Taiwan",
-  "pincode": "400",
   "currency": "TWD",
   "symbol": "NT$",
   "compliance": "NCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+886",
   "timezone": "Asia/Taipei",
-  "latitude": 23.4687,
-  "longitude": 120.8787,
-  "landmark": "Taichung Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Chunghwa Telecom networks. Failovers route over Taiwan Mobile, FarEasTone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Taichung, Taiwan",
   "population": 554848,
@@ -44,38 +40,31 @@
       "city": "Hsinchu",
       "state": "Hsinchu County",
       "stateSlug": "hsinchu-county",
-      "citySlug": "hsinchu",
-      "distance": 8.498971671393392
+      "citySlug": "hsinchu"
     },
     {
       "city": "Tainan",
       "state": "Tainan City",
       "stateSlug": "tainan-city",
-      "citySlug": "tainan",
-      "distance": 16.487242885358864
+      "citySlug": "tainan"
     },
     {
       "city": "Keelung",
       "state": "Keelung City",
       "stateSlug": "keelung-city",
-      "citySlug": "keelung",
-      "distance": 17.952283372879016
+      "citySlug": "keelung"
     },
     {
       "city": "Taipei",
       "state": "Taipei Municipality",
       "stateSlug": "taipei-municipality",
-      "citySlug": "taipei",
-      "distance": 30.40198084692277
+      "citySlug": "taipei"
     },
     {
       "city": "Kaohsiung",
       "state": "Kaohsiung Municipality",
       "stateSlug": "kaohsiung-municipality",
-      "citySlug": "kaohsiung",
-      "distance": 33.302911768967924
+      "citySlug": "kaohsiung"
     }
-  ],
-  "geohash": "wsjvw8m",
-  "geohashUrl": "https://geohash.softeng.co/wsjvw8m"
+  ]
 }

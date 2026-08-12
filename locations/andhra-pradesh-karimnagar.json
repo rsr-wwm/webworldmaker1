@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "karimnagar",
   "country": "India",
-  "pincode": "505001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.5907,
-  "longitude": 70.0474,
-  "landmark": "Karimnagar Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Karimnagar, India",
   "population": 2274884,
   "mobileUsers": 1763035,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nuvem",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "nuvem",
-      "distance": 14.015932932693671
-    },
-    {
-      "city": "Kathihar",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "kathihar",
-      "distance": 37.938722430368706
-    },
-    {
-      "city": "Gwalior (Lashkar)",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "gwalior-lashkar",
-      "distance": 40.51190657608872
+      "citySlug": "bhopal"
     },
     {
-      "city": "Thiruvallur",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thiruvallur",
-      "distance": 62.15654806251695
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chengalpattu",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "chengalpattu",
-      "distance": 63.83904608047199
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts9c9fw",
-  "geohashUrl": "https://geohash.softeng.co/ts9c9fw"
+  ]
 }

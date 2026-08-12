@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "panagi",
   "country": "India",
-  "pincode": "403001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.7497,
-  "longitude": 81.2581,
-  "landmark": "Panagi Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Panagi, India",
   "population": 3518477,
   "mobileUsers": 2628302,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mantri Pokhri",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "mantri-pokhri",
-      "distance": 23.865604260434733
-    },
-    {
-      "city": "Auraiya",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "auraiya",
-      "distance": 30.36095313780304
-    },
-    {
-      "city": "Mall",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "mall",
-      "distance": 45.37319344536558
-    },
-    {
-      "city": "Sagar Cantt.",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "sagar-cantt",
-      "distance": 56.28633512503722
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rongra",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "rongra",
-      "distance": 62.727631932840055
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg1ucp4",
-  "geohashUrl": "https://geohash.softeng.co/tg1ucp4"
+  ]
 }

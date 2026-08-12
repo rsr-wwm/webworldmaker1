@@ -5,7 +5,6 @@
   "stateSlug": "texas",
   "citySlug": "dallas",
   "country": "United States",
-  "pincode": "75201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 214",
   "timezone": "America/Chicago",
-  "latitude": 40.2942,
-  "longitude": -109.7278,
-  "landmark": "Dallas Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Dallas, United States",
   "population": 2286856,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Pittsburgh",
-      "state": "Pennsylvania",
-      "stateSlug": "pennsylvania",
-      "citySlug": "pittsburgh",
-      "distance": 96.91728079437675
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Cincinnati",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "cincinnati",
-      "distance": 131.99394217820313
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Nashville",
-      "state": "Tennessee",
-      "stateSlug": "tennessee",
-      "citySlug": "nashville",
-      "distance": 214.89629264555396
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Los Angeles",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "los-angeles",
-      "distance": 243.54990526777075
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Jacksonville",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "jacksonville",
-      "distance": 342.4163175576913
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9x1vpp6",
-  "geohashUrl": "https://geohash.softeng.co/9x1vpp6"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "vellore",
   "country": "India",
-  "pincode": "632001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.5735,
-  "longitude": 78.6267,
-  "landmark": "Vellore Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Vellore, India",
   "population": 1327506,
   "mobileUsers": 1026162,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dasuya",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "dasuya",
-      "distance": 37.31469435758858
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Assam rifles",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "assam-rifles",
-      "distance": 39.16465084097132
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Androth",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "androth",
-      "distance": 83.19584993238887
-    },
-    {
-      "city": "Sitamarhi",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "sitamarhi",
-      "distance": 88.2053404259502
-    },
-    {
-      "city": "Maidjiphema",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "maidjiphema",
-      "distance": 93.90269464315143
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tspyj5q",
-  "geohashUrl": "https://geohash.softeng.co/tspyj5q"
+  ]
 }

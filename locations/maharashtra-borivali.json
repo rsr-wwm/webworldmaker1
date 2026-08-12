@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "borivali",
   "country": "India",
-  "pincode": "400091",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.1033,
-  "longitude": 77.4081,
-  "landmark": "Borivali District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Borivali, India",
   "population": 818512,
   "mobileUsers": 616339,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chiplun",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "chiplun",
-      "distance": 21.93452600155792
-    },
-    {
-      "city": "Anand",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "anand",
-      "distance": 34.82976276992447
-    },
-    {
-      "city": "Peren",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "peren",
-      "distance": 38.74163916381621
-    },
-    {
-      "city": "Damoh",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "damoh",
-      "distance": 39.473092280164295
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nandyal",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nandyal",
-      "distance": 71.56014579060673
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsxh3ry",
-  "geohashUrl": "https://geohash.softeng.co/tsxh3ry"
+  ]
 }

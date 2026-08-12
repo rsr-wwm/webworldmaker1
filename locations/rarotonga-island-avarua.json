@@ -5,7 +5,6 @@
   "stateSlug": "rarotonga-island",
   "citySlug": "avarua",
   "country": "Cook Islands",
-  "pincode": "0000",
   "currency": "NZD",
   "symbol": "$",
   "compliance": "OOTU Rules",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+682",
   "timezone": "Pacific/Rarotonga",
-  "latitude": -21.2991,
-  "longitude": -159.9514,
-  "landmark": "Avarua GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Vodafone Cook Islands networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Avarua, Cook Islands",
   "population": 3407842,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Alofi",
-      "state": "Alofi Village",
-      "stateSlug": "alofi-village",
-      "citySlug": "alofi",
-      "distance": 1083.2399691974365
-    },
-    {
-      "city": "Apia",
-      "state": "Tuamasaga",
-      "stateSlug": "tuamasaga",
-      "citySlug": "apia",
-      "distance": 1564.6639645518158
-    },
-    {
-      "city": "Papeete",
-      "state": "Tahiti Island",
-      "stateSlug": "tahiti-island",
-      "citySlug": "papeete",
-      "distance": 2230.6528834591218
-    },
-    {
-      "city": "Honolulu",
-      "state": "Hawaii",
-      "stateSlug": "hawaii",
-      "citySlug": "honolulu",
-      "distance": 6995.432698505628
-    },
-    {
-      "city": "Hartford",
-      "state": "Connecticut",
-      "stateSlug": "connecticut",
-      "citySlug": "hartford",
-      "distance": 7426.567904541334
-    }
-  ],
-  "geohash": "2knqb4w",
-  "geohashUrl": "https://geohash.softeng.co/2knqb4w"
+  "nearbyLocations": []
 }

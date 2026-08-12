@@ -5,7 +5,6 @@
   "stateSlug": "harare-province",
   "citySlug": "harare",
   "country": "Zimbabwe",
-  "pincode": "0000",
   "currency": "USD",
   "symbol": "$",
   "compliance": "POTRAZ Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+263",
   "timezone": "Africa/Harare",
-  "latitude": -20.0788,
-  "longitude": 30.1906,
-  "landmark": "Harare Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Econet networks. Failovers route over NetOne, Telecel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Harare, Zimbabwe",
   "population": 4778325,
@@ -44,38 +40,7 @@
       "city": "Bulawayo",
       "state": "Matabeleland North",
       "stateSlug": "matabeleland-north",
-      "citySlug": "bulawayo",
-      "distance": 32.289939776105165
-    },
-    {
-      "city": "Maputo",
-      "state": "Maputo City",
-      "stateSlug": "maputo-city",
-      "citySlug": "maputo",
-      "distance": 548.9627090890324
-    },
-    {
-      "city": "Kitwe",
-      "state": "Copperbelt Province",
-      "stateSlug": "copperbelt-province",
-      "citySlug": "kitwe",
-      "distance": 551.4162719674077
-    },
-    {
-      "city": "Lusaka",
-      "state": "Lusaka Province",
-      "stateSlug": "lusaka-province",
-      "citySlug": "lusaka",
-      "distance": 572.2712182743803
-    },
-    {
-      "city": "Gaborone",
-      "state": "South-East District",
-      "stateSlug": "south-east-district",
-      "citySlug": "gaborone",
-      "distance": 683.3241819915571
+      "citySlug": "bulawayo"
     }
-  ],
-  "geohash": "ksmmz0b",
-  "geohashUrl": "https://geohash.softeng.co/ksmmz0b"
+  ]
 }

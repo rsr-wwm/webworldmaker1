@@ -5,7 +5,6 @@
   "stateSlug": "shizuoka-prefecture",
   "citySlug": "hamamatsu",
   "country": "Japan",
-  "pincode": "430-0926",
   "currency": "JPY",
   "symbol": "¥",
   "compliance": "MIC Telecommunications Act",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+81 3",
   "timezone": "Asia/Tokyo",
-  "latitude": 34.7109786,
-  "longitude": 137.7259431,
-  "landmark": "Hamamatsu District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Hamamatsu, Japan",
   "population": 1621685,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Sendai",
+      "state": "Miyagi Prefecture",
+      "stateSlug": "miyagi-prefecture",
+      "citySlug": "sendai"
+    },
+    {
+      "city": "Hiroshima",
+      "state": "Hiroshima Prefecture",
+      "stateSlug": "hiroshima-prefecture",
+      "citySlug": "hiroshima"
+    },
+    {
+      "city": "Kitakyushu",
+      "state": "Fukuoka Prefecture",
+      "stateSlug": "fukuoka-prefecture",
+      "citySlug": "kitakyushu"
+    },
+    {
+      "city": "Niigata",
+      "state": "Niigata Prefecture",
+      "stateSlug": "niigata-prefecture",
+      "citySlug": "niigata"
+    },
+    {
       "city": "Shizuoka",
       "state": "Shizuoka Prefecture",
       "stateSlug": "shizuoka-prefecture",
-      "citySlug": "shizuoka",
-      "distance": 66.78738050309316
-    },
-    {
-      "city": "Nagoya",
-      "state": "Aichi Prefecture",
-      "stateSlug": "aichi-prefecture",
-      "citySlug": "nagoya",
-      "distance": 91.91535776951115
-    },
-    {
-      "city": "Kyoto",
-      "state": "Kyoto Prefecture",
-      "stateSlug": "kyoto-prefecture",
-      "citySlug": "kyoto",
-      "distance": 181.72601821811867
-    },
-    {
-      "city": "Yokohama",
-      "state": "Kanagawa Prefecture",
-      "stateSlug": "kanagawa-prefecture",
-      "citySlug": "yokohama",
-      "distance": 192.1318643777329
-    },
-    {
-      "city": "Osaka",
-      "state": "Osaka Prefecture",
-      "stateSlug": "osaka-prefecture",
-      "citySlug": "osaka",
-      "distance": 203.35795709533832
+      "citySlug": "shizuoka"
     }
-  ],
-  "geohash": "xn1vqnb",
-  "geohashUrl": "https://geohash.softeng.co/xn1vqnb"
+  ]
 }

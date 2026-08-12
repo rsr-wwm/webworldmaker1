@@ -5,7 +5,6 @@
   "stateSlug": "gilbert-islands",
   "citySlug": "tarawa",
   "country": "Kiribati",
-  "pincode": "0000",
   "currency": "AUD",
   "symbol": "A$",
   "compliance": "CCK Rules",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+686",
   "timezone": "Pacific/Enderbury",
-  "latitude": 1.3073,
-  "longitude": 172.9765,
-  "landmark": "Tarawa Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Vodafone Kiribati networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tarawa, Kiribati",
   "population": 3157368,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Yaren",
-      "state": "Yaren District",
-      "stateSlug": "yaren-district",
-      "citySlug": "yaren",
-      "distance": 698.6212955542492
-    },
-    {
-      "city": "Majuro",
-      "state": "Majuro Atoll",
-      "stateSlug": "majuro-atoll",
-      "citySlug": "majuro",
-      "distance": 1017.7078423063011
-    },
-    {
-      "city": "Funafuti",
-      "state": "Funafuti Atoll",
-      "stateSlug": "funafuti-atoll",
-      "citySlug": "funafuti",
-      "distance": 1189.0690198986297
-    },
-    {
-      "city": "Palikir",
-      "state": "Pohnpei State",
-      "stateSlug": "pohnpei-state",
-      "citySlug": "palikir",
-      "distance": 1741.1550721384115
-    },
-    {
-      "city": "Honiara",
-      "state": "Guadalcanal Province",
-      "stateSlug": "guadalcanal-province",
-      "citySlug": "honiara",
-      "distance": 1873.3923752766548
-    }
-  ],
-  "geohash": "xb5p2jv",
-  "geohashUrl": "https://geohash.softeng.co/xb5p2jv"
+  "nearbyLocations": []
 }

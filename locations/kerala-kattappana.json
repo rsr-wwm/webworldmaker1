@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "kattappana",
   "country": "India",
-  "pincode": "685508",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.8233,
-  "longitude": 78.5038,
-  "landmark": "Kattappana Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kattappana, India",
   "population": 4633782,
   "mobileUsers": 3433632,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ghazipur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "ghazipur",
-      "distance": 18.3926029001038
-    },
-    {
-      "city": "Diamond Harbour",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "diamond-harbour",
-      "distance": 29.148820376425366
-    },
-    {
-      "city": "Dhamloan",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "dhamloan",
-      "distance": 50.0620541475085
-    },
-    {
-      "city": "Williamnagar",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "williamnagar",
-      "distance": 66.94992510706126
-    },
-    {
-      "city": "Ujjain",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "ujjain",
-      "distance": 77.89175802141298
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsxffku",
-  "geohashUrl": "https://geohash.softeng.co/tsxffku"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "greater-accra",
   "citySlug": "accra",
   "country": "Ghana",
-  "pincode": "00233",
   "currency": "GHS",
   "symbol": "GH₵",
   "compliance": "NCA Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+233",
   "timezone": "Africa/Accra",
-  "latitude": 7.948,
-  "longitude": -1.8519,
-  "landmark": "Accra Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over MTN networks. Failovers route over Telecel, AT with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Accra, Ghana",
   "population": 2497470,
@@ -44,38 +40,7 @@
       "city": "Kumasi",
       "state": "Ashanti Region",
       "stateSlug": "ashanti-region",
-      "citySlug": "kumasi",
-      "distance": 37.08485320129237
-    },
-    {
-      "city": "Abidjan",
-      "state": "Lagunes District",
-      "stateSlug": "lagunes-district",
-      "citySlug": "abidjan",
-      "distance": 327.20573220120826
-    },
-    {
-      "city": "Lome",
-      "state": "Maritime Region",
-      "stateSlug": "maritime-region",
-      "citySlug": "lome",
-      "distance": 331.75969398558664
-    },
-    {
-      "city": "Bouake",
-      "state": "Vallee du Bandama",
-      "stateSlug": "vallee-du-bandama",
-      "citySlug": "bouake",
-      "distance": 348.0545282263545
-    },
-    {
-      "city": "Yamoussoukro",
-      "state": "Lacs District",
-      "stateSlug": "lacs-district",
-      "citySlug": "yamoussoukro",
-      "distance": 348.5468064724306
+      "citySlug": "kumasi"
     }
-  ],
-  "geohash": "ecqtjyg",
-  "geohashUrl": "https://geohash.softeng.co/ecqtjyg"
+  ]
 }

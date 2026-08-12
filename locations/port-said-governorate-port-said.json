@@ -5,7 +5,6 @@
   "stateSlug": "port-said-governorate",
   "citySlug": "port-said",
   "country": "Egypt",
-  "pincode": "42511",
   "currency": "EGP",
   "symbol": "E£",
   "compliance": "NTRA Regulations",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+20",
   "timezone": "Africa/Cairo",
-  "latitude": 27.1636,
-  "longitude": 29.8198,
-  "landmark": "Port Said Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Vodafone networks. Failovers route over Orange, Etisalat, WE with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Port Said, Egypt",
   "population": 3211264,
@@ -45,38 +41,19 @@
       "city": "Giza",
       "state": "Giza Governorate",
       "stateSlug": "giza-governorate",
-      "citySlug": "giza",
-      "distance": 3.25635986500895
+      "citySlug": "giza"
     },
     {
       "city": "Alexandria",
       "state": "Alexandria Governorate",
       "stateSlug": "alexandria-governorate",
-      "citySlug": "alexandria",
-      "distance": 38.41193717739516
+      "citySlug": "alexandria"
     },
     {
       "city": "Cairo",
       "state": "Cairo Governorate",
       "stateSlug": "cairo-governorate",
-      "citySlug": "cairo",
-      "distance": 43.40439088230346
-    },
-    {
-      "city": "Haifa",
-      "state": "Haifa District",
-      "stateSlug": "haifa-district",
-      "citySlug": "haifa",
-      "distance": 674.2288739681201
-    },
-    {
-      "city": "Tel Aviv",
-      "state": "Tel Aviv District",
-      "stateSlug": "tel-aviv-district",
-      "citySlug": "tel-aviv",
-      "distance": 675.7074634049079
+      "citySlug": "cairo"
     }
-  ],
-  "geohash": "ssv4w8f",
-  "geohashUrl": "https://geohash.softeng.co/ssv4w8f"
+  ]
 }

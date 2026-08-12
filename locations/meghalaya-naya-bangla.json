@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "naya-bangla",
   "country": "India",
-  "pincode": "793105",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.761,
-  "longitude": 74.5292,
-  "landmark": "Naya bangla Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Naya bangla, India",
   "population": 879095,
   "mobileUsers": 647013,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Tallakulam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tallakulam",
-      "distance": 11.998728669033378
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Lilong",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "lilong",
-      "distance": 25.600794392502387
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Barpeta",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "barpeta",
-      "distance": 74.15815647331254
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Gopalganj",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "gopalganj",
-      "distance": 74.6095822080986
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Labarchandmari",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "labarchandmari",
-      "distance": 124.45369220363479
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9uvpyy",
-  "geohashUrl": "https://geohash.softeng.co/t9uvpyy"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "dharmapuri",
   "country": "India",
-  "pincode": "636701",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 16.5026,
-  "longitude": 85.6876,
-  "landmark": "Dharmapuri Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dharmapuri, India",
   "population": 2572211,
   "mobileUsers": 1952308,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Silchar",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "silchar",
-      "distance": 97.26007036732179
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Parkal",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "parkal",
-      "distance": 125.41631908470232
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kota",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "kota",
-      "distance": 125.62221973519335
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Monghyr",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "monghyr",
-      "distance": 129.41087784422857
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Madurai",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "madurai",
-      "distance": 137.23173568320544
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfuvvu5",
-  "geohashUrl": "https://geohash.softeng.co/tfuvvu5"
+  ]
 }

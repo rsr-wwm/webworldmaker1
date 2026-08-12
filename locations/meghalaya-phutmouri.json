@@ -5,7 +5,6 @@
   "stateSlug": "meghalaya",
   "citySlug": "phutmouri",
   "country": "India",
-  "pincode": "793008",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.8065,
-  "longitude": 83.4963,
-  "landmark": "Phutmouri Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Phutmouri, India",
   "population": 6663969,
   "mobileUsers": 5131256,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Morena",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "morena",
-      "distance": 36.61589071119407
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hanamkonda",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "hanamkonda",
-      "distance": 44.27927445563738
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Phagwara",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "phagwara",
-      "distance": 69.54275352534857
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Raigarh",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "raigarh",
-      "distance": 72.05325974994047
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Faridabad",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "faridabad",
-      "distance": 82.52311201983352
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf57hj2",
-  "geohashUrl": "https://geohash.softeng.co/tf57hj2"
+  ]
 }

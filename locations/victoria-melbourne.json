@@ -5,7 +5,6 @@
   "stateSlug": "victoria",
   "citySlug": "melbourne",
   "country": "Australia",
-  "pincode": "3000",
   "currency": "AUD",
   "symbol": "A$",
   "compliance": "ACMA Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+61 2",
   "timezone": "Australia/Sydney",
-  "latitude": -37.8142454,
-  "longitude": 144.9631732,
-  "landmark": "Melbourne District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Telstra networks. Failovers route over Optus, Vodafone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Melbourne, Australia",
   "population": 4683781,
@@ -44,38 +40,31 @@
       "city": "Canberra",
       "state": "Australian Capital Territory",
       "stateSlug": "australian-capital-territory",
-      "citySlug": "canberra",
-      "distance": 466.7118613604765
+      "citySlug": "canberra"
     },
     {
       "city": "Hobart",
       "state": "Tasmania",
       "stateSlug": "tasmania",
-      "citySlug": "hobart",
-      "distance": 598.0692067616146
+      "citySlug": "hobart"
     },
     {
-      "city": "Adelaide",
-      "state": "South Australia",
-      "stateSlug": "south-australia",
-      "citySlug": "adelaide",
-      "distance": 653.6604832212761
-    },
-    {
-      "city": "Sydney",
-      "state": "New South Wales",
-      "stateSlug": "new-south-wales",
-      "citySlug": "sydney",
-      "distance": 713.4645255878771
+      "city": "Darwin",
+      "state": "Northern Territory",
+      "stateSlug": "northern-territory",
+      "citySlug": "darwin"
     },
     {
       "city": "Brisbane",
       "state": "Queensland",
       "stateSlug": "queensland",
-      "citySlug": "brisbane",
-      "distance": 1374.462160622392
+      "citySlug": "brisbane"
+    },
+    {
+      "city": "Perth",
+      "state": "Western Australia",
+      "stateSlug": "western-australia",
+      "citySlug": "perth"
     }
-  ],
-  "geohash": "r1r0fsn",
-  "geohashUrl": "https://geohash.softeng.co/r1r0fsn"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "loktak-project",
   "country": "India",
-  "pincode": "795124",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.0351,
-  "longitude": 72.0587,
-  "landmark": "Loktak Project District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Loktak Project, India",
   "population": 4543279,
   "mobileUsers": 3498324,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Khairatabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "khairatabad",
-      "distance": 38.56382985682801
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Rayagada",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "rayagada",
-      "distance": 56.44877076959034
-    },
-    {
-      "city": "Kalpeni",
-      "state": "Lakshadweep",
-      "stateSlug": "lakshadweep",
-      "citySlug": "kalpeni",
-      "distance": 67.37186122604587
-    },
-    {
-      "city": "Peddapalli",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "peddapalli",
-      "distance": 75.52117604628292
-    },
-    {
-      "city": "Bhandara",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "bhandara",
-      "distance": 86.40120591632358
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsg1z9x",
-  "geohashUrl": "https://geohash.softeng.co/tsg1z9x"
+  ]
 }

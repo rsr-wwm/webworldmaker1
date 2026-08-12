@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "adoni",
   "country": "India",
-  "pincode": "518301",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.0652,
-  "longitude": 76.7411,
-  "landmark": "Adoni District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Adoni, India",
   "population": 9603088,
   "mobileUsers": 7432790,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Salkia",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "salkia",
-      "distance": 64.09608158003768
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Tonk",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "tonk",
-      "distance": 82.7094002620425
-    },
-    {
-      "city": "Nampong",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "nampong",
-      "distance": 87.69595444874862
-    },
-    {
-      "city": "Peren",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "peren",
-      "distance": 94.72105950478164
-    },
-    {
-      "city": "Nanded",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nanded",
-      "distance": 97.6452147025504
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsqwd6c",
-  "geohashUrl": "https://geohash.softeng.co/tsqwd6c"
+  ]
 }

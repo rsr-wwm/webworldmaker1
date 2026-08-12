@@ -5,7 +5,6 @@
   "stateSlug": "pelagonia-region",
   "citySlug": "bitola",
   "country": "North Macedonia",
-  "pincode": "7000",
   "currency": "MKD",
   "symbol": "ден",
   "compliance": "AEK Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+389",
   "timezone": "Europe/Skopje",
-  "latitude": 41.7677,
-  "longitude": 22.0713,
-  "landmark": "Bitola Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Maktel networks. Failovers route over A1 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bitola, North Macedonia",
   "population": 4747707,
@@ -43,38 +39,7 @@
       "city": "Skopje",
       "state": "Skopje Region",
       "stateSlug": "skopje-region",
-      "citySlug": "skopje",
-      "distance": 15.920149621335703
-    },
-    {
-      "city": "Tirana",
-      "state": "Tirana County",
-      "stateSlug": "tirana-county",
-      "citySlug": "tirana",
-      "distance": 198.05024478812925
-    },
-    {
-      "city": "Belgrade",
-      "state": "Belgrade City",
-      "stateSlug": "belgrade-city",
-      "citySlug": "belgrade",
-      "distance": 251.15196649337997
-    },
-    {
-      "city": "Podgorica",
-      "state": "Podgorica Municipality",
-      "stateSlug": "podgorica-municipality",
-      "citySlug": "podgorica",
-      "distance": 261.7520061902365
-    },
-    {
-      "city": "Novi Sad",
-      "state": "Vojvodina",
-      "stateSlug": "vojvodina",
-      "citySlug": "novi-sad",
-      "distance": 265.85628649899076
+      "citySlug": "skopje"
     }
-  ],
-  "geohash": "srrtw5x",
-  "geohashUrl": "https://geohash.softeng.co/srrtw5x"
+  ]
 }

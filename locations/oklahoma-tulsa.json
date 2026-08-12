@@ -5,7 +5,6 @@
   "stateSlug": "oklahoma",
   "citySlug": "tulsa",
   "country": "United States",
-  "pincode": "74101",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Chicago",
-  "latitude": 41.6938,
-  "longitude": -98.8427,
-  "landmark": "Tulsa Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tulsa, United States",
   "population": 2597098,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Madison",
-      "state": "Wisconsin",
-      "stateSlug": "wisconsin",
-      "citySlug": "madison",
-      "distance": 341.6915640129068
-    },
-    {
-      "city": "Kansas City",
-      "state": "Missouri",
-      "stateSlug": "missouri",
-      "citySlug": "kansas-city",
-      "distance": 445.7772723698801
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
       "city": "Grand Rapids",
       "state": "Michigan",
       "stateSlug": "michigan",
-      "citySlug": "grand-rapids",
-      "distance": 454.6374347526551
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "El Paso",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "el-paso",
-      "distance": 660.5484347255934
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "San Antonio",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "san-antonio",
-      "distance": 685.1793023312898
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
+    },
+    {
+      "city": "Omaha",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "citySlug": "omaha"
     }
-  ],
-  "geohash": "9z3tny0",
-  "geohashUrl": "https://geohash.softeng.co/9z3tny0"
+  ]
 }

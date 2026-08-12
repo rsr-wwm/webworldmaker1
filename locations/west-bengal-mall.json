@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "mall",
   "country": "India",
-  "pincode": "735221",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.8973,
-  "longitude": 80.8585,
-  "landmark": "Mall GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mall, India",
   "population": 7099290,
   "mobileUsers": 5217978,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rongra",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "rongra",
-      "distance": 37.13670503567563
-    },
-    {
-      "city": "Panagi",
-      "state": "Maharashtra",
-      "stateSlug": "maharashtra",
-      "citySlug": "panagi",
-      "distance": 45.37319344536558
-    },
-    {
-      "city": "Sagar Cantt.",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "sagar-cantt",
-      "distance": 55.3908882692089
+      "citySlug": "bhopal"
     },
     {
-      "city": "Mahbubabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "mahbubabad",
-      "distance": 64.30486885355204
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Cossipore",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "cossipore",
-      "distance": 65.86953797929327
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg1mzfp",
-  "geohashUrl": "https://geohash.softeng.co/tg1mzfp"
+  ]
 }

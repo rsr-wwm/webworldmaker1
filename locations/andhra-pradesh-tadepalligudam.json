@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "tadepalligudam",
   "country": "India",
-  "pincode": "534101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.2203,
-  "longitude": 86.9504,
-  "landmark": "Tadepalligudam Municipal Office Plaza",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Tadepalligudam, India",
   "population": 3635706,
   "mobileUsers": 2657701,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bangalore City",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bangalore-city",
-      "distance": 34.238947900350325
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chengannur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "chengannur",
-      "distance": 37.54975118121817
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Saharnpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "saharnpur",
-      "distance": 51.95452049262697
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Shahjahanpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "shahjahanpur",
-      "distance": 60.437067871211646
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Thycaud",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thycaud",
-      "distance": 95.14357580015081
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tcvf4se",
-  "geohashUrl": "https://geohash.softeng.co/tcvf4se"
+  ]
 }

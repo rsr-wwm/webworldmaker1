@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "nasirabad",
   "country": "India",
-  "pincode": "305601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.7339,
-  "longitude": 77.8164,
-  "landmark": "Nasirabad Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nasirabad, India",
   "population": 1929085,
   "mobileUsers": 1489253,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Raniganj",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "raniganj",
-      "distance": 85.77893478315423
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Laheriasarai",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "laheriasarai",
-      "distance": 94.84901517751322
-    },
-    {
-      "city": "Chalisgaon",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "chalisgaon",
-      "distance": 96.71959455797433
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kolosib",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "kolosib",
-      "distance": 135.37652952885094
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nahan",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "nahan",
-      "distance": 147.17800924051923
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tszmfbb",
-  "geohashUrl": "https://geohash.softeng.co/tszmfbb"
+  ]
 }

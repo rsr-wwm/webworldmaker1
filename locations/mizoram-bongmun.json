@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "bongmun",
   "country": "India",
-  "pincode": "796710",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.3645,
-  "longitude": 68.7187,
-  "landmark": "Bongmun Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bongmun, India",
   "population": 6778624,
   "mobileUsers": 4995845,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Simra",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "simra",
-      "distance": 44.747433683820276
-    },
-    {
-      "city": "Mandla",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "mandla",
-      "distance": 58.85374331999363
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bada pani",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bada-pani",
-      "distance": 109.069778303056
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Churu",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "churu",
-      "distance": 115.54153808652637
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Thyagaraynagar",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "thyagaraynagar",
-      "distance": 125.49822447665338
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td8cewz",
-  "geohashUrl": "https://geohash.softeng.co/td8cewz"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "virginia",
   "citySlug": "richmond",
   "country": "United States",
-  "pincode": "23219",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/New_York",
-  "latitude": 33.0259,
-  "longitude": -112.3638,
-  "landmark": "Richmond Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Richmond, United States",
   "population": 2932200,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Indianapolis",
-      "state": "Indiana",
-      "stateSlug": "indiana",
-      "citySlug": "indianapolis",
-      "distance": 185.6211771006712
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Jacksonville",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "jacksonville",
-      "distance": 499.27531204829546
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Sacramento",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "sacramento",
-      "distance": 542.8203871356185
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Hartford",
-      "state": "Connecticut",
-      "stateSlug": "connecticut",
-      "citySlug": "hartford",
-      "distance": 632.6048269443907
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Philadelphia",
-      "state": "Pennsylvania",
-      "stateSlug": "pennsylvania",
-      "citySlug": "philadelphia",
-      "distance": 662.19914864726
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9tb5gh5",
-  "geohashUrl": "https://geohash.softeng.co/9tb5gh5"
+  ]
 }

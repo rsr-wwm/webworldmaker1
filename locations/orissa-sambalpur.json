@@ -5,7 +5,6 @@
   "stateSlug": "orissa",
   "citySlug": "sambalpur",
   "country": "India",
-  "pincode": "768001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.4876,
-  "longitude": 82.0328,
-  "landmark": "Sambalpur Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sambalpur, India",
   "population": 5438588,
   "mobileUsers": 4182274,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Pollachi",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "pollachi",
-      "distance": 129.25416897791783
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kochi",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kochi",
-      "distance": 131.85338230591026
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kanjeri",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kanjeri",
-      "distance": 137.68934311322283
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Varanasi",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "varanasi",
-      "distance": 148.35144864129404
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Gangtok G.P.O",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "gangtok-gpo",
-      "distance": 150.16560909945972
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tv4rf8n",
-  "geohashUrl": "https://geohash.softeng.co/tv4rf8n"
+  ]
 }

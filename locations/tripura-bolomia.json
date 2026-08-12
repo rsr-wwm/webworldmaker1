@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "bolomia",
   "country": "India",
-  "pincode": "799155",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.1848,
-  "longitude": 85.9237,
-  "landmark": "Bolomia District Secretariat Enclave",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bolomia, India",
   "population": 1953675,
   "mobileUsers": 1463302,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bhavnagar",
-      "state": "Calcutta",
-      "stateSlug": "calcutta",
-      "citySlug": "bhavnagar",
-      "distance": 17.938277104406723
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kankroli",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "kankroli",
-      "distance": 91.90784020932482
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Shalima",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "shalima",
-      "distance": 98.7134108909313
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Rangpo",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "rangpo",
-      "distance": 99.19642851802638
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Marhowrah",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "marhowrah",
-      "distance": 103.8634924709104
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tump70z",
-  "geohashUrl": "https://geohash.softeng.co/tump70z"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "south-province",
   "citySlug": "noumea",
   "country": "New Caledonia",
-  "pincode": "98800",
   "currency": "XPF",
   "symbol": "F",
   "compliance": "OPT Rules",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+687",
   "timezone": "Pacific/Noumea",
-  "latitude": -21.3748,
-  "longitude": 165.3168,
-  "landmark": "Noumea Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Mobilis networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Noumea, New Caledonia",
   "population": 4919912,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Port Vila",
-      "state": "Shefa Province",
-      "stateSlug": "shefa-province",
-      "citySlug": "port-vila",
-      "distance": 644.8095627119028
-    },
-    {
-      "city": "Suva",
-      "state": "Rewa Province",
-      "stateSlug": "rewa-province",
-      "citySlug": "suva",
-      "distance": 1073.531264858969
-    },
-    {
-      "city": "Brisbane",
-      "state": "Queensland",
-      "stateSlug": "queensland",
-      "citySlug": "brisbane",
-      "distance": 1415.9631526457158
-    },
-    {
-      "city": "Honiara",
-      "state": "Guadalcanal Province",
-      "stateSlug": "guadalcanal-province",
-      "citySlug": "honiara",
-      "distance": 1643.3603033708866
-    },
-    {
-      "city": "Sydney",
-      "state": "New South Wales",
-      "stateSlug": "new-south-wales",
-      "citySlug": "sydney",
-      "distance": 1961.066474107662
-    }
-  ],
-  "geohash": "rsjw3uu",
-  "geohashUrl": "https://geohash.softeng.co/rsjw3uu"
+  "nearbyLocations": []
 }

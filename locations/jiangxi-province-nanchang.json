@@ -5,7 +5,6 @@
   "stateSlug": "jiangxi-province",
   "citySlug": "nanchang",
   "country": "China",
-  "pincode": "330000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 35.0923,
-  "longitude": 105.0703,
-  "landmark": "Nanchang Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Nanchang, China",
   "population": 7410461,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Changsha",
-      "state": "Hunan Province",
-      "stateSlug": "hunan-province",
-      "citySlug": "changsha",
-      "distance": 0.44212547547909964
+      "city": "Shijiazhuang",
+      "state": "Hebei Province",
+      "stateSlug": "hebei-province",
+      "citySlug": "shijiazhuang"
     },
     {
-      "city": "Xian",
-      "state": "Shaanxi Province",
-      "stateSlug": "shaanxi-province",
-      "citySlug": "xian",
-      "distance": 4.7667415616515205
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou"
     },
     {
-      "city": "Zhengzhou",
-      "state": "Henan Province",
-      "stateSlug": "henan-province",
-      "citySlug": "zhengzhou",
-      "distance": 7.719120049018168
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
     },
     {
-      "city": "Wuxi",
-      "state": "Jiangsu Province",
-      "stateSlug": "jiangsu-province",
-      "citySlug": "wuxi",
-      "distance": 8.687849955142722
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan"
     },
     {
-      "city": "Nantong",
-      "state": "Jiangsu Province",
-      "stateSlug": "jiangsu-province",
-      "citySlug": "nantong",
-      "distance": 9.170778503037345
+      "city": "Guiyang",
+      "state": "Guizhou Province",
+      "stateSlug": "guizhou-province",
+      "citySlug": "guiyang"
     }
-  ],
-  "geohash": "wq4xwum",
-  "geohashUrl": "https://geohash.softeng.co/wq4xwum"
+  ]
 }

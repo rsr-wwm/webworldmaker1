@@ -5,7 +5,6 @@
   "stateSlug": "guayas-province",
   "citySlug": "guayaquil",
   "country": "Ecuador",
-  "pincode": "090150",
   "currency": "USD",
   "symbol": "$",
   "compliance": "ARCOTEL Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+593",
   "timezone": "America/Guayaquil",
-  "latitude": -1.9868,
-  "longitude": -77.3214,
-  "landmark": "Guayaquil Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over Conecel networks. Failovers route over Otecel, CNT with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Guayaquil, Ecuador",
   "population": 1200335,
@@ -44,38 +40,19 @@
       "city": "Cuenca",
       "state": "Azuay Province",
       "stateSlug": "azuay-province",
-      "citySlug": "cuenca",
-      "distance": 16.246168758279733
-    },
-    {
-      "city": "Quito",
-      "state": "Pichincha Province",
-      "stateSlug": "pichincha-province",
-      "citySlug": "quito",
-      "distance": 19.070052407536508
+      "citySlug": "cuenca"
     },
     {
       "city": "Manta",
       "state": "Manabi Province",
       "stateSlug": "manabi-province",
-      "citySlug": "manta",
-      "distance": 25.18620560402222
+      "citySlug": "manta"
     },
     {
-      "city": "Bogota",
-      "state": "Bogota Capital District",
-      "stateSlug": "bogota-capital-district",
-      "citySlug": "bogota",
-      "distance": 875.1711289081649
-    },
-    {
-      "city": "Bucaramanga",
-      "state": "Santander Department",
-      "stateSlug": "santander-department",
-      "citySlug": "bucaramanga",
-      "distance": 879.8111402714715
+      "city": "Quito",
+      "state": "Pichincha Province",
+      "stateSlug": "pichincha-province",
+      "citySlug": "quito"
     }
-  ],
-  "geohash": "6r9h8w2",
-  "geohashUrl": "https://geohash.softeng.co/6r9h8w2"
+  ]
 }

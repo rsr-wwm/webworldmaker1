@@ -5,7 +5,6 @@
   "stateSlug": "mizoram",
   "citySlug": "aibok",
   "country": "India",
-  "pincode": "796190",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.4929,
-  "longitude": 88.8883,
-  "landmark": "Aibok Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Aibok, India",
   "population": 8651330,
   "mobileUsers": 6324122,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Khambhalia",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "khambhalia",
-      "distance": 47.45472700761074
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Avanigadda",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "avanigadda",
-      "distance": 86.29042977114246
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chalakudi",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "chalakudi",
-      "distance": 90.46502662694905
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Arrah",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "arrah",
-      "distance": 96.70973364502086
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bahror",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bahror",
-      "distance": 110.59038522859687
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfx4qwq",
-  "geohashUrl": "https://geohash.softeng.co/tfx4qwq"
+  ]
 }

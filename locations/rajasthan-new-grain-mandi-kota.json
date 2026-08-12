@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "new-grain-mandi-kota",
   "country": "India",
-  "pincode": "324007",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.7041,
-  "longitude": 79.5156,
-  "landmark": "New Grain Mandi (Kota) Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for New Grain Mandi (Kota), India",
   "population": 8183106,
   "mobileUsers": 6014582,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sugumu",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "sugumu",
-      "distance": 33.11824387473752
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Khojovai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "khojovai",
-      "distance": 49.19885176326265
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Serampore",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "serampore",
-      "distance": 49.85158887953057
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chandragiri",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "chandragiri",
-      "distance": 54.36144134158466
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bokshanagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "bokshanagar",
-      "distance": 76.0626627304927
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg0s9qv",
-  "geohashUrl": "https://geohash.softeng.co/tg0s9qv"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "south-holland",
   "citySlug": "the-hague",
   "country": "Netherlands",
-  "pincode": "2500",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / ACM",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+31",
   "timezone": "Europe/Amsterdam",
-  "latitude": 52.3879,
-  "longitude": 5.9073,
-  "landmark": "The Hague Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over KPN networks. Failovers route over VodafoneZiggo, Odido with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for The Hague, Netherlands",
   "population": 1915125,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Eindhoven",
-      "state": "North Brabant",
-      "stateSlug": "north-brabant",
-      "citySlug": "eindhoven",
-      "distance": 5.715331581152947
-    },
-    {
-      "city": "Amsterdam",
-      "state": "North Holland",
-      "stateSlug": "north-holland",
-      "citySlug": "amsterdam",
-      "distance": 7.024262786500908
-    },
-    {
-      "city": "Utrecht",
-      "state": "Utrecht Province",
-      "stateSlug": "utrecht-province",
-      "citySlug": "utrecht",
-      "distance": 21.836694805016524
+      "city": "Groningen",
+      "state": "Groningen Province",
+      "stateSlug": "groningen-province",
+      "citySlug": "groningen"
     },
     {
       "city": "Rotterdam",
       "state": "South Holland",
       "stateSlug": "south-holland",
-      "citySlug": "rotterdam",
-      "distance": 29.617560901476566
+      "citySlug": "rotterdam"
     },
     {
-      "city": "Groningen",
-      "state": "Groningen Province",
-      "stateSlug": "groningen-province",
-      "citySlug": "groningen",
-      "distance": 29.87868923420708
+      "city": "Utrecht",
+      "state": "Utrecht Province",
+      "stateSlug": "utrecht-province",
+      "citySlug": "utrecht"
+    },
+    {
+      "city": "Eindhoven",
+      "state": "North Brabant",
+      "stateSlug": "north-brabant",
+      "citySlug": "eindhoven"
+    },
+    {
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "stateSlug": "north-holland",
+      "citySlug": "amsterdam"
     }
-  ],
-  "geohash": "u1k4n2v",
-  "geohashUrl": "https://geohash.softeng.co/u1k4n2v"
+  ]
 }

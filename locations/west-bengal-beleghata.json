@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "beleghata",
   "country": "India",
-  "pincode": "700010",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 10.6791,
-  "longitude": 71.9537,
-  "landmark": "Beleghata Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Beleghata, India",
   "population": 1446937,
   "mobileUsers": 1063498,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kenndrapara",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "kenndrapara",
-      "distance": 66.64450203295723
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kanpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "kanpur",
-      "distance": 97.24394518458003
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Cuddalore",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "cuddalore",
-      "distance": 112.0092436195464
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Majorda",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "majorda",
-      "distance": 120.354410013265
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Deeg",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "deeg",
-      "distance": 123.27503451426679
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "t9ghv25",
-  "geohashUrl": "https://geohash.softeng.co/t9ghv25"
+  ]
 }

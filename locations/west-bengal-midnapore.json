@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "midnapore",
   "country": "India",
-  "pincode": "721101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.8227,
-  "longitude": 69.7209,
-  "landmark": "Midnapore Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Midnapore, India",
   "population": 1273186,
   "mobileUsers": 931972,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shahpura",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "shahpura",
-      "distance": 12.562783241843807
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Balurghat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "balurghat",
-      "distance": 45.334583133634936
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Tiruchirappalli",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "tiruchirappalli",
-      "distance": 60.242882059925556
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Sri Rangam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "sri-rangam",
-      "distance": 70.95430686162295
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kantolim",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "kantolim",
-      "distance": 72.62514601956939
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tecs4s9",
-  "geohashUrl": "https://geohash.softeng.co/tecs4s9"
+  ]
 }

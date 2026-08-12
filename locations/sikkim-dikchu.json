@@ -5,7 +5,6 @@
   "stateSlug": "sikkim",
   "citySlug": "dikchu",
   "country": "India",
-  "pincode": "737107",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.7858,
-  "longitude": 70.892,
-  "landmark": "Dikchu State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dikchu, India",
   "population": 5008049,
   "mobileUsers": 3851189,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Dehra Gopipur",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "dehra-gopipur",
-      "distance": 21.59069348331093
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kalol",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "kalol",
-      "distance": 28.701205425050087
-    },
-    {
-      "city": "Vaivakown",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "vaivakown",
-      "distance": 33.914162573990225
-    },
-    {
-      "city": "Panvel",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "panvel",
-      "distance": 62.18421340249835
+      "citySlug": "nagpur"
     },
     {
-      "city": "Alathur",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "alathur",
-      "distance": 85.76373518679767
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsf2mhj",
-  "geohashUrl": "https://geohash.softeng.co/tsf2mhj"
+  ]
 }

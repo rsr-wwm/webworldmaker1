@@ -23,7 +23,7 @@ Q: What is the difference between a Telegram channel and a group?
 A: A channel is a one-to-many broadcast tool (up to unlimited subscribers, only admins post). A group is a two-way conversation space (up to 200,000 members). Channels are better for announcements; groups are better for community engagement.
 
 Q: How fast is Telegram message delivery?
-A: Telegram delivers messages with sub-second latency globally across all platforms (Android, iOS, web, desktop). There are no carrier dependencies or SMS routing delays — it is pure internet protocol delivery.
+A: Telegram delivers messages with low-latency latency globally across all platforms (Android, iOS, web, desktop). There are no carrier dependencies or SMS routing delays — it is pure internet protocol delivery.
 
 Q: Can I send files, images, and videos via Telegram broadcasting?
 A: Yes. Telegram supports files up to 2GB, including images, videos, PDFs, audio, polls, and interactive buttons. This makes it significantly more capable than SMS or even WhatsApp for rich content distribution.

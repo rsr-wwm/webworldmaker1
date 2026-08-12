@@ -5,7 +5,6 @@
   "stateSlug": "new-york",
   "citySlug": "buffalo",
   "country": "United States",
-  "pincode": "14201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 212",
   "timezone": "America/New_York",
-  "latitude": 46.1615,
-  "longitude": -75.2918,
-  "landmark": "Buffalo Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Buffalo, United States",
   "population": 1386444,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Ottawa",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "ottawa",
-      "distance": 87.9531419650282
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Austin",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "austin",
-      "distance": 125.88726189361121
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Montreal",
-      "state": "Quebec",
-      "stateSlug": "quebec",
-      "citySlug": "montreal",
-      "distance": 152.17139862907726
-    },
-    {
-      "city": "Kingston",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "kingston",
-      "distance": 224.75284067071019
-    },
-    {
-      "city": "Phoenix",
+      "city": "Tucson",
       "state": "Arizona",
       "stateSlug": "arizona",
-      "citySlug": "phoenix",
-      "distance": 264.06709961199584
+      "citySlug": "tucson"
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
+    },
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "f24qweq",
-  "geohashUrl": "https://geohash.softeng.co/f24qweq"
+  ]
 }

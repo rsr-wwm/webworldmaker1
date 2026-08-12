@@ -5,7 +5,6 @@
   "stateSlug": "zulia",
   "citySlug": "maracaibo",
   "country": "Venezuela",
-  "pincode": "4001",
   "currency": "VES",
   "symbol": "Bs.S",
   "compliance": "CONATEL Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+58",
   "timezone": "America/Caracas",
-  "latitude": 8.0448,
-  "longitude": -65.9387,
-  "landmark": "Maracaibo Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Movilnet networks. Failovers route over Movistar, Digitel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Maracaibo, Venezuela",
   "population": 4002390,
@@ -44,38 +40,19 @@
       "city": "Maracay",
       "state": "Aragua State",
       "stateSlug": "aragua-state",
-      "citySlug": "maracay",
-      "distance": 15.99485903670726
-    },
-    {
-      "city": "Caracas",
-      "state": "Capital District",
-      "stateSlug": "capital-district",
-      "citySlug": "caracas",
-      "distance": 18.991458643007974
+      "citySlug": "maracay"
     },
     {
       "city": "Valencia",
       "state": "Carabobo State",
       "stateSlug": "carabobo-state",
-      "citySlug": "valencia",
-      "distance": 19.987524976508112
+      "citySlug": "valencia"
     },
     {
-      "city": "Willemstad",
-      "state": "Curacao Island",
-      "stateSlug": "curacao-island",
-      "citySlug": "willemstad",
-      "distance": 543.367365354859
-    },
-    {
-      "city": "Saint George's",
-      "state": "Saint George Parish",
-      "stateSlug": "saint-george-parish",
-      "citySlug": "saint-georges",
-      "distance": 639.104450150104
+      "city": "Caracas",
+      "state": "Capital District",
+      "stateSlug": "capital-district",
+      "citySlug": "caracas"
     }
-  ],
-  "geohash": "d93jg88",
-  "geohashUrl": "https://geohash.softeng.co/d93jg88"
+  ]
 }

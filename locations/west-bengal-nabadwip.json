@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "nabadwip",
   "country": "India",
-  "pincode": "741302",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 32.1111,
-  "longitude": 88.004,
-  "landmark": "Nabadwip Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nabadwip, India",
   "population": 1725551,
   "mobileUsers": 1326948,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Resubelpada",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "resubelpada",
-      "distance": 34.92985444727217
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Barega pada",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "barega-pada",
-      "distance": 83.64783844245719
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Rourkela",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "rourkela",
-      "distance": 87.17847550976569
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mirzapur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "mirzapur",
-      "distance": 94.05347400684812
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "A.R.T.C",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "artc",
-      "distance": 107.09848820938757
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvwwdtd",
-  "geohashUrl": "https://geohash.softeng.co/tvwwdtd"
+  ]
 }

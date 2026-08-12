@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "bahror",
   "country": "India",
-  "pincode": "301701",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.772,
-  "longitude": 87.9017,
-  "landmark": "Bahror Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bahror, India",
   "population": 6817238,
   "mobileUsers": 5235638,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Arrah",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "arrah",
-      "distance": 31.572343982966746
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Madanganj",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "madanganj",
-      "distance": 52.48793170099706
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chalakudi",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "chalakudi",
-      "distance": 94.06479398897655
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Gonda",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "gonda",
-      "distance": 105.25254505440864
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Aibok",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "aibok",
-      "distance": 110.59038522859687
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfws030",
-  "geohashUrl": "https://geohash.softeng.co/tfws030"
+  ]
 }

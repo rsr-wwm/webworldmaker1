@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "baidyanadh-deoghar",
   "country": "India",
-  "pincode": "814112",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.1922,
-  "longitude": 72.0634,
-  "landmark": "Baidyanadh Deoghar State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Baidyanadh Deoghar, India",
   "population": 9652964,
   "mobileUsers": 7519658,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Serchhip",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "serchhip",
-      "distance": 73.40098705672368
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Pondicherry",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "pondicherry",
-      "distance": 78.74268694639467
-    },
-    {
-      "city": "Dadar",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "dadar",
-      "distance": 81.85874967297056
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kimin",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "kimin",
-      "distance": 87.56694633889178
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Tilakwadi East",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tilakwadi-east",
-      "distance": 103.93841595441755
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te5przf",
-  "geohashUrl": "https://geohash.softeng.co/te5przf"
+  ]
 }

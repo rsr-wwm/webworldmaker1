@@ -5,7 +5,6 @@
   "stateSlug": "cebu-province",
   "citySlug": "cebu",
   "country": "Philippines",
-  "pincode": "6000",
   "currency": "PHP",
   "symbol": "₱",
   "compliance": "NTC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+63",
   "timezone": "Asia/Manila",
-  "latitude": 12.9451,
-  "longitude": 121.9953,
-  "landmark": "Cebu Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Smart networks. Failovers route over Globe, Dito with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Cebu, Philippines",
   "population": 2277845,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Manila",
-      "state": "Metro Manila",
-      "stateSlug": "metro-manila",
-      "citySlug": "manila",
-      "distance": 3.935614807129534
-    },
-    {
       "city": "Davao City",
       "state": "Davao Region",
       "stateSlug": "davao-region",
-      "citySlug": "davao-city",
-      "distance": 8.904455595633225
+      "citySlug": "davao-city"
     },
     {
       "city": "Iloilo City",
       "state": "Western Visayas",
       "stateSlug": "western-visayas",
-      "citySlug": "iloilo-city",
-      "distance": 15.150881571332855
+      "citySlug": "iloilo-city"
     },
     {
       "city": "Cagayan de Oro",
       "state": "Northern Mindanao",
       "stateSlug": "northern-mindanao",
-      "citySlug": "cagayan-de-oro",
-      "distance": 22.371067087258222
+      "citySlug": "cagayan-de-oro"
     },
     {
-      "city": "Kaohsiung",
-      "state": "Kaohsiung Municipality",
-      "stateSlug": "kaohsiung-municipality",
-      "citySlug": "kaohsiung",
-      "distance": 1158.4135377526186
+      "city": "Manila",
+      "state": "Metro Manila",
+      "stateSlug": "metro-manila",
+      "citySlug": "manila"
     }
-  ],
-  "geohash": "wdqc8hd",
-  "geohashUrl": "https://geohash.softeng.co/wdqc8hd"
+  ]
 }

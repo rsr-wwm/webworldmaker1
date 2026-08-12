@@ -5,7 +5,6 @@
   "stateSlug": "maseru-district",
   "citySlug": "maseru",
   "country": "Lesotho",
-  "pincode": "100",
   "currency": "LSL",
   "symbol": "L",
   "compliance": "LTA Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+266",
   "timezone": "Africa/Maseru",
-  "latitude": -29.59,
-  "longitude": 28.4282,
-  "landmark": "Maseru District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over Econet with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Maseru, Lesotho",
   "population": 579396,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
   "aiReadiness": "Medium: Growing demand for conversational AI and automated workflows",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Cape Town",
-      "state": "Western Cape",
-      "stateSlug": "western-cape",
-      "citySlug": "cape-town",
-      "distance": 424.21636103526464
-    },
-    {
-      "city": "Johannesburg",
-      "state": "Gauteng",
-      "stateSlug": "gauteng",
-      "citySlug": "johannesburg",
-      "distance": 438.9133082179401
-    },
-    {
-      "city": "Port Elizabeth",
-      "state": "Eastern Cape",
-      "stateSlug": "eastern-cape",
-      "citySlug": "port-elizabeth",
-      "distance": 442.0970442562635
-    },
-    {
-      "city": "Durban",
-      "state": "KwaZulu-Natal",
-      "stateSlug": "kwazulu-natal",
-      "citySlug": "durban",
-      "distance": 446.1679199038797
-    },
-    {
-      "city": "Pretoria",
-      "state": "Gauteng",
-      "stateSlug": "gauteng",
-      "citySlug": "pretoria",
-      "distance": 450.58130034866207
-    }
-  ],
-  "geohash": "kdspwvk",
-  "geohashUrl": "https://geohash.softeng.co/kdspwvk"
+  "nearbyLocations": []
 }

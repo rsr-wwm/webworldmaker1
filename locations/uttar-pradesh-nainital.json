@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "nainital",
   "country": "India",
-  "pincode": "263001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.8109,
-  "longitude": 82.2768,
-  "landmark": "Nainital Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nainital, India",
   "population": 5548872,
   "mobileUsers": 4111714,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Ambala Cantt.",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "ambala-cantt",
-      "distance": 32.2022618736143
-    },
-    {
-      "city": "Narsinghpur",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "narsinghpur",
-      "distance": 72.71622243386817
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kulashekar",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "kulashekar",
-      "distance": 108.14809788165995
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kalyanpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kalyanpur",
-      "distance": 138.10551450345525
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chaibasa",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "chaibasa",
-      "distance": 138.85281016206616
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfds220",
-  "geohashUrl": "https://geohash.softeng.co/tfds220"
+  ]
 }

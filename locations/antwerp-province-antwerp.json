@@ -5,7 +5,6 @@
   "stateSlug": "antwerp-province",
   "citySlug": "antwerp",
   "country": "Belgium",
-  "pincode": "2000",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / BIPT",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+32",
   "timezone": "Europe/Brussels",
-  "latitude": 50.985,
-  "longitude": 4.1503,
-  "landmark": "Antwerp Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over Proximus networks. Failovers route over Orange, Telenet with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Antwerp, Belgium",
   "population": 4021593,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Brussels",
-      "state": "Brussels-Capital",
-      "stateSlug": "brussels-capital",
-      "citySlug": "brussels",
-      "distance": 6.509329718116011
+      "city": "Liege",
+      "state": "Liege Province",
+      "stateSlug": "liege-province",
+      "citySlug": "liege"
     },
     {
       "city": "Ghent",
       "state": "East Flanders",
       "stateSlug": "east-flanders",
-      "citySlug": "ghent",
-      "distance": 20.198329483837966
+      "citySlug": "ghent"
     },
     {
-      "city": "Liege",
-      "state": "Liege Province",
-      "stateSlug": "liege-province",
-      "citySlug": "liege",
-      "distance": 23.24582079209791
-    },
-    {
-      "city": "Amsterdam",
-      "state": "North Holland",
-      "stateSlug": "north-holland",
-      "citySlug": "amsterdam",
-      "distance": 193.2547434599059
-    },
-    {
-      "city": "Eindhoven",
-      "state": "North Brabant",
-      "stateSlug": "north-brabant",
-      "citySlug": "eindhoven",
-      "distance": 195.3626497333554
+      "city": "Brussels",
+      "state": "Brussels-Capital",
+      "stateSlug": "brussels-capital",
+      "citySlug": "brussels"
     }
-  ],
-  "geohash": "u14fn3w",
-  "geohashUrl": "https://geohash.softeng.co/u14fn3w"
+  ]
 }

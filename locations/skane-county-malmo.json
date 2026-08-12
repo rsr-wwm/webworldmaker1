@@ -5,7 +5,6 @@
   "stateSlug": "skane-county",
   "citySlug": "malmo",
   "country": "Sweden",
-  "pincode": "211 15",
   "currency": "SEK",
   "symbol": "kr",
   "compliance": "GDPR / PTS",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+46",
   "timezone": "Europe/Stockholm",
-  "latitude": 62.0457,
-  "longitude": 15.1925,
-  "landmark": "Malmo Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Tele2, Telenor, 3 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Malmo, Sweden",
   "population": 3107321,
@@ -45,38 +41,25 @@
       "city": "Uppsala",
       "state": "Uppsala County",
       "stateSlug": "uppsala-county",
-      "citySlug": "uppsala",
-      "distance": 7.797538519635485
-    },
-    {
-      "city": "Stockholm",
-      "state": "Stockholm County",
-      "stateSlug": "stockholm-county",
-      "citySlug": "stockholm",
-      "distance": 16.294137542605682
+      "citySlug": "uppsala"
     },
     {
       "city": "Linköping",
       "state": "Östergötland",
       "stateSlug": "ostergotland",
-      "citySlug": "linkoping",
-      "distance": 17.71001050750057
+      "citySlug": "linkoping"
     },
     {
       "city": "Gothenburg",
       "state": "Västra Götaland County",
       "stateSlug": "vastra-gotaland-county",
-      "citySlug": "gothenburg",
-      "distance": 27.869770428388954
+      "citySlug": "gothenburg"
     },
     {
-      "city": "Stavanger",
-      "state": "Rogaland",
-      "stateSlug": "rogaland",
-      "citySlug": "stavanger",
-      "distance": 262.3248586086881
+      "city": "Stockholm",
+      "state": "Stockholm County",
+      "stateSlug": "stockholm-county",
+      "citySlug": "stockholm"
     }
-  ],
-  "geohash": "u74bcxn",
-  "geohashUrl": "https://geohash.softeng.co/u74bcxn"
+  ]
 }

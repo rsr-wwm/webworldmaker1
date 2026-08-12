@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "nilakottai",
   "country": "India",
-  "pincode": "624208",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 23.1151,
-  "longitude": 72.6287,
-  "landmark": "Nilakottai Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nilakottai, India",
   "population": 9395122,
   "mobileUsers": 7281219,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chittorgarh",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "chittorgarh",
-      "distance": 36.299664337881715
-    },
-    {
-      "city": "Chongtai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "chongtai",
-      "distance": 53.33633328863062
-    },
-    {
-      "city": "Balaghat",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "balaghat",
-      "distance": 57.05415307991067
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bhind",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "bhind",
-      "distance": 86.6483701627037
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Phatikchara",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "phatikchara",
-      "distance": 90.43780738795627
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ts5ekxy",
-  "geohashUrl": "https://geohash.softeng.co/ts5ekxy"
+  ]
 }

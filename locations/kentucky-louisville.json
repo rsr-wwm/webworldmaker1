@@ -5,7 +5,6 @@
   "stateSlug": "kentucky",
   "citySlug": "louisville",
   "country": "United States",
-  "pincode": "40201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/New_York",
-  "latitude": 44.1852,
-  "longitude": -115.8694,
-  "landmark": "Louisville Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Louisville, United States",
   "population": 684242,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Columbia",
-      "state": "South Carolina",
-      "stateSlug": "south-carolina",
-      "citySlug": "columbia",
-      "distance": 356.54070345464584
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
+    },
+    {
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
       "city": "Tucson",
       "state": "Arizona",
       "stateSlug": "arizona",
-      "citySlug": "tucson",
-      "distance": 363.4788619808999
+      "citySlug": "tucson"
     },
     {
-      "city": "Nashville",
-      "state": "Tennessee",
-      "stateSlug": "tennessee",
-      "citySlug": "nashville",
-      "distance": 466.88584156045613
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "McAllen",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "mcallen",
-      "distance": 500.2640310593786
-    },
-    {
-      "city": "San Francisco",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "san-francisco",
-      "distance": 557.6894335007978
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9rve77d",
-  "geohashUrl": "https://geohash.softeng.co/9rve77d"
+  ]
 }

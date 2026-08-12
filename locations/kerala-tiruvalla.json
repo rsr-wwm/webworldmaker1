@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "tiruvalla",
   "country": "India",
-  "pincode": "689101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.3661,
-  "longitude": 80.0753,
-  "landmark": "Tiruvalla Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Tiruvalla, India",
   "population": 7222698,
   "mobileUsers": 5590368,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chandel",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "chandel",
-      "distance": 53.11576866117011
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Salem",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "salem",
-      "distance": 55.87913205890312
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Upling",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "upling",
-      "distance": 59.25356098119566
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chamba",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "chamba",
-      "distance": 71.82657852894003
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bihar Shariff",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bihar-shariff",
-      "distance": 73.42270834945717
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tubgwjv",
-  "geohashUrl": "https://geohash.softeng.co/tubgwjv"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "dewas",
   "country": "India",
-  "pincode": "455001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.3059,
-  "longitude": 89.0089,
-  "landmark": "Dewas Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dewas, India",
   "population": 2531086,
   "mobileUsers": 1971715,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Panaji G.P.O",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "panaji-gpo",
-      "distance": 55.10023474295896
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bhattason",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bhattason",
-      "distance": 71.41803060543464
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Bathala",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "bathala",
-      "distance": 81.91536951926304
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Patna G.P.O",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "patna-gpo",
-      "distance": 90.23841905981627
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Along",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "along",
-      "distance": 92.03276926479255
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuxm9ky",
-  "geohashUrl": "https://geohash.softeng.co/tuxm9ky"
+  ]
 }

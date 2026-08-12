@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "allappuzha",
   "country": "India",
-  "pincode": "688001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.0784,
-  "longitude": 85.5096,
-  "landmark": "Allappuzha Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Allappuzha, India",
   "population": 9167119,
   "mobileUsers": 6618659,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Arundatinagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "arundatinagar",
-      "distance": 33.191928278267305
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Samalkot",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "samalkot",
-      "distance": 45.5347882526703
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chirawa",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "chirawa",
-      "distance": 57.57603717648761
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Churachandpur",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "churachandpur",
-      "distance": 69.18650162259354
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Nuzuid",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "nuzuid",
-      "distance": 70.61829179173871
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfkf3uf",
-  "geohashUrl": "https://geohash.softeng.co/tfkf3uf"
+  ]
 }

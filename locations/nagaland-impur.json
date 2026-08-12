@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "impur",
   "country": "India",
-  "pincode": "798619",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.0737,
-  "longitude": 80.1032,
-  "landmark": "Impur Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Impur, India",
   "population": 4904720,
   "mobileUsers": 3703063,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bhopal G.P.O",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "bhopal-gpo",
-      "distance": 18.120911101359518
+      "citySlug": "bhopal"
     },
     {
-      "city": "Vidisha",
-      "state": "Madhya Pradesh",
-      "stateSlug": "madhya-pradesh",
-      "citySlug": "vidisha",
-      "distance": 54.15517642130278
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Chikodi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "chikodi",
-      "distance": 55.76079160633332
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Athni",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "athni",
-      "distance": 77.42240873263755
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Etah",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "etah",
-      "distance": 81.44233065613824
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tu2ywu9",
-  "geohashUrl": "https://geohash.softeng.co/tu2ywu9"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "western-area",
   "citySlug": "freetown",
   "country": "Sierra Leone",
-  "pincode": "00000",
   "currency": "SLE",
   "symbol": "Le",
   "compliance": "NATCOM Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+232",
   "timezone": "Africa/Freetown",
-  "latitude": 8.3011,
-  "longitude": -11.4164,
-  "landmark": "Freetown Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Africell with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Freetown, Sierra Leone",
   "population": 2582631,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Monrovia",
-      "state": "Montserrado County",
-      "stateSlug": "montserrado-county",
-      "citySlug": "monrovia",
-      "distance": 307.8458762773364
-    },
-    {
-      "city": "Conakry",
-      "state": "Conakry Region",
-      "stateSlug": "conakry-region",
-      "citySlug": "conakry",
-      "distance": 357.65631000888936
-    },
-    {
-      "city": "Bissau",
-      "state": "Bissau Sector",
-      "stateSlug": "bissau-sector",
-      "citySlug": "bissau",
-      "distance": 590.4895247481032
-    },
-    {
-      "city": "Yamoussoukro",
-      "state": "Lacs District",
-      "stateSlug": "lacs-district",
-      "citySlug": "yamoussoukro",
-      "distance": 705.7190989771719
-    },
-    {
-      "city": "Bouake",
-      "state": "Vallee du Bandama",
-      "stateSlug": "vallee-du-bandama",
-      "citySlug": "bouake",
-      "distance": 706.2329960353619
-    }
-  ],
-  "geohash": "e9rzhpn",
-  "geohashUrl": "https://geohash.softeng.co/e9rzhpn"
+  "nearbyLocations": []
 }

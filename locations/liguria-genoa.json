@@ -5,7 +5,6 @@
   "stateSlug": "liguria",
   "citySlug": "genoa",
   "country": "Italy",
-  "pincode": "16121",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / AGCOM",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+39",
   "timezone": "Europe/Rome",
-  "latitude": 42.9905,
-  "longitude": 12.9558,
-  "landmark": "Genoa Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over WindTre networks. Failovers route over TIM, Vodafone, iliad with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Genoa, Italy",
   "population": 2501430,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Venice",
-      "state": "Veneto",
-      "stateSlug": "veneto",
-      "citySlug": "venice",
-      "distance": 4.767797128235952
+      "city": "Bologna",
+      "state": "Emilia-Romagna",
+      "stateSlug": "emilia-romagna",
+      "citySlug": "bologna"
     },
     {
-      "city": "Rome",
-      "state": "Lazio Region",
-      "stateSlug": "lazio-region",
-      "citySlug": "rome",
-      "distance": 8.333430852729084
-    },
-    {
-      "city": "Turin",
-      "state": "Piedmont",
-      "stateSlug": "piedmont",
-      "citySlug": "turin",
-      "distance": 10.9341928348634
-    },
-    {
-      "city": "Naples",
-      "state": "Campania",
-      "stateSlug": "campania",
-      "citySlug": "naples",
-      "distance": 14.119735101137936
+      "city": "Bari",
+      "state": "Apulia",
+      "stateSlug": "apulia",
+      "citySlug": "bari"
     },
     {
       "city": "Milan",
       "state": "Lombardy",
       "stateSlug": "lombardy",
-      "citySlug": "milan",
-      "distance": 17.38610464078367
+      "citySlug": "milan"
+    },
+    {
+      "city": "Turin",
+      "state": "Piedmont",
+      "stateSlug": "piedmont",
+      "citySlug": "turin"
+    },
+    {
+      "city": "Venice",
+      "state": "Veneto",
+      "stateSlug": "veneto",
+      "citySlug": "venice"
     }
-  ],
-  "geohash": "sr9hwf4",
-  "geohashUrl": "https://geohash.softeng.co/sr9hwf4"
+  ]
 }

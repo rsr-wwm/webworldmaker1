@@ -5,7 +5,6 @@
   "stateSlug": "arunachal-pradesh",
   "citySlug": "khousa",
   "country": "India",
-  "pincode": "786630",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.1295,
-  "longitude": 69.9561,
-  "landmark": "Khousa Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Khousa, India",
   "population": 1483852,
   "mobileUsers": 1129211,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "HAL II Stage",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hal-ii-stage",
-      "distance": 26.38937592744828
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bhongir",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "bhongir",
-      "distance": 64.10365603382661
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Borholla",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "borholla",
-      "distance": 71.41074863004427
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Happy valley",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "happy-valley",
-      "distance": 71.81224376243823
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Purulai",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "purulai",
-      "distance": 80.19976084787486
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td3dxyh",
-  "geohashUrl": "https://geohash.softeng.co/td3dxyh"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "mirzapur",
   "country": "India",
-  "pincode": "231001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 32.1918,
-  "longitude": 87.0095,
-  "landmark": "Mirzapur Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mirzapur, India",
   "population": 6172648,
   "mobileUsers": 4759111,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "A.R.T.C",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "artc",
-      "distance": 65.29787928631762
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bokaro Steel City",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bokaro-steel-city",
-      "distance": 89.3293732845236
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Nabadwip",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "nabadwip",
-      "distance": 94.05347400684812
-    },
-    {
-      "city": "Bathinda",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "bathinda",
-      "distance": 100.4948170364293
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Firozabad",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "firozabad",
-      "distance": 114.64121309285748
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvtz5uq",
-  "geohashUrl": "https://geohash.softeng.co/tvtz5uq"
+  ]
 }

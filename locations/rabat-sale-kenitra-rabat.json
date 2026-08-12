@@ -5,7 +5,6 @@
   "stateSlug": "rabat-sale-kenitra",
   "citySlug": "rabat",
   "country": "Morocco",
-  "pincode": "10000",
   "currency": "MAD",
   "symbol": "DH",
   "compliance": "ANRT Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+212",
   "timezone": "Africa/Casablanca",
-  "latitude": 31.8834,
-  "longitude": -5.1528,
-  "landmark": "Rabat Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Maroc Telecom networks. Failovers route over Orange, inwi with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Rabat, Morocco",
   "population": 724854,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Marrakech",
-      "state": "Marrakesh-Safi",
-      "stateSlug": "marrakesh-safi",
-      "citySlug": "marrakech",
-      "distance": 5.953198441428835
-    },
-    {
-      "city": "Casablanca",
-      "state": "Casablanca-Settat",
-      "stateSlug": "casablanca-settat",
-      "citySlug": "casablanca",
-      "distance": 30.175449468106812
-    },
-    {
       "city": "Tangier",
       "state": "Tangier-Tetouan-Al Hoceima",
       "stateSlug": "tangier-tetouan-al-hoceima",
-      "citySlug": "tangier",
-      "distance": 32.96917860682176
+      "citySlug": "tangier"
+    },
+    {
+      "city": "Marrakech",
+      "state": "Marrakesh-Safi",
+      "stateSlug": "marrakesh-safi",
+      "citySlug": "marrakech"
     },
     {
       "city": "Fez",
       "state": "Fes-Meknes",
       "stateSlug": "fes-meknes",
-      "citySlug": "fez",
-      "distance": 35.11046536271453
+      "citySlug": "fez"
     },
     {
-      "city": "Oran",
-      "state": "Oran Province",
-      "stateSlug": "oran-province",
-      "citySlug": "oran",
-      "distance": 594.5221756345102
+      "city": "Casablanca",
+      "state": "Casablanca-Settat",
+      "stateSlug": "casablanca-settat",
+      "citySlug": "casablanca"
     }
-  ],
-  "geohash": "evsm6sp",
-  "geohashUrl": "https://geohash.softeng.co/evsm6sp"
+  ]
 }

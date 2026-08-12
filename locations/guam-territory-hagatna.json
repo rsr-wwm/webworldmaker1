@@ -5,7 +5,6 @@
   "stateSlug": "guam-territory",
   "citySlug": "hagatna",
   "country": "Guam",
-  "pincode": "96910",
   "currency": "USD",
   "symbol": "$",
   "compliance": "FCC Regulations",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1",
   "timezone": "Pacific/Guam",
-  "latitude": 13.2896,
-  "longitude": 144.6532,
-  "landmark": "Hagatna GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over GTA networks. Failovers route over Docomo Pacific with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Hagatna, Guam",
   "population": 2758437,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "High customer acquisition cost and low checkout conversion rates",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Palikir",
-      "state": "Pohnpei State",
-      "stateSlug": "pohnpei-state",
-      "citySlug": "palikir",
-      "distance": 1653.6483309473329
-    },
-    {
-      "city": "Cagayan de Oro",
-      "state": "Northern Mindanao",
-      "stateSlug": "northern-mindanao",
-      "citySlug": "cagayan-de-oro",
-      "distance": 2430.8781284131082
-    },
-    {
-      "city": "Iloilo City",
-      "state": "Western Visayas",
-      "stateSlug": "western-visayas",
-      "citySlug": "iloilo-city",
-      "distance": 2439.5701842668536
-    },
-    {
-      "city": "Cebu",
-      "state": "Cebu Province",
-      "stateSlug": "cebu-province",
-      "citySlug": "cebu",
-      "distance": 2453.163417918118
-    },
-    {
-      "city": "Manila",
-      "state": "Metro Manila",
-      "stateSlug": "metro-manila",
-      "citySlug": "manila",
-      "distance": 2456.5847303057503
-    }
-  ],
-  "geohash": "x4qgeem",
-  "geohashUrl": "https://geohash.softeng.co/x4qgeem"
+  "nearbyLocations": []
 }

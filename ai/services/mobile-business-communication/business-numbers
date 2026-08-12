@@ -29,7 +29,7 @@ Q: What is a VMN (Virtual Mobile Number)?
 A: A VMN is a standard 10-digit mobile number provisioned on a virtual platform so it can send and receive SMS programmatically without a physical SIM. It behaves like a normal mobile number to the recipient — ideal for two-way support conversations.
 
 Q: What happens when someone texts STOP to my number?
-A: Our platform automatically adds that number to your opt-out list, prevents any further messages from being sent to them, and responds with the mandatory confirmation — fully compliant with TRAI and GDPR requirements.
+A: Our platform automatically adds that number to your opt-out list, prevents any further messages from being sent to them, and responds with the mandatory confirmation — Designed for compliance with TRAI and GDPR requirements.
 
 Q: How many keywords can I run on one short code?
 A: On a shared short code, keywords must not be already taken by other brands. On a dedicated short code, you can run unlimited keywords simultaneously — hundreds if needed — each with its own auto-response and CRM action.

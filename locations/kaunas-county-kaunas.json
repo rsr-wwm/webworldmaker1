@@ -5,7 +5,6 @@
   "stateSlug": "kaunas-county",
   "citySlug": "kaunas",
   "country": "Lithuania",
-  "pincode": "LT-44001",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / RRT",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+370",
   "timezone": "Europe/Vilnius",
-  "latitude": 55.8947,
-  "longitude": 24.143,
-  "landmark": "Kaunas GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Telia networks. Failovers route over Tele2, Bitė with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Kaunas, Lithuania",
   "population": 3139246,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Siauliai",
-      "state": "Siauliai County",
-      "stateSlug": "siauliai-county",
-      "citySlug": "siauliai",
-      "distance": 3.8464171555164537
-    },
-    {
       "city": "Klaipeda",
       "state": "Klaipeda County",
       "stateSlug": "klaipeda-county",
-      "citySlug": "klaipeda",
-      "distance": 9.26536531184743
+      "citySlug": "klaipeda"
+    },
+    {
+      "city": "Siauliai",
+      "state": "Siauliai County",
+      "stateSlug": "siauliai-county",
+      "citySlug": "siauliai"
     },
     {
       "city": "Vilnius",
       "state": "Vilnius District",
       "stateSlug": "vilnius-district",
-      "citySlug": "vilnius",
-      "distance": 14.55832828208132
-    },
-    {
-      "city": "Liepaja",
-      "state": "Courland",
-      "stateSlug": "courland",
-      "citySlug": "liepaja",
-      "distance": 120.20756635157689
-    },
-    {
-      "city": "Riga",
-      "state": "Riga Municipality",
-      "stateSlug": "riga-municipality",
-      "citySlug": "riga",
-      "distance": 134.08465609852504
+      "citySlug": "vilnius"
     }
-  ],
-  "geohash": "u9cjvrk",
-  "geohashUrl": "https://geohash.softeng.co/u9cjvrk"
+  ]
 }

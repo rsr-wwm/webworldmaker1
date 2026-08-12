@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "bhongir",
   "country": "India",
-  "pincode": "508116",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.5542,
-  "longitude": 69.918,
-  "landmark": "Bhongir Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bhongir, India",
   "population": 3816158,
   "mobileUsers": 2904096,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Purulai",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "purulai",
-      "distance": 17.312082838646
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Happy valley",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "happy-valley",
-      "distance": 26.19118579958716
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "HAL II Stage",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "hal-ii-stage",
-      "distance": 45.17435750629336
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Borholla",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "borholla",
-      "distance": 52.4451474543958
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Khousa",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "khousa",
-      "distance": 64.10365603382661
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td1xrj2",
-  "geohashUrl": "https://geohash.softeng.co/td1xrj2"
+  ]
 }

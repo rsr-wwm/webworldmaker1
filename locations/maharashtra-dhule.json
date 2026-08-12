@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "dhule",
   "country": "India",
-  "pincode": "424001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.0379,
-  "longitude": 76.4648,
-  "landmark": "Dhule Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dhule, India",
   "population": 6205698,
   "mobileUsers": 4623245,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sonepat",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "sonepat",
-      "distance": 30.70853762983076
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Peren",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "peren",
-      "distance": 80.92922496223328
-    },
-    {
-      "city": "Nampong",
-      "state": "Arunachal Pradesh",
-      "stateSlug": "arunachal-pradesh",
-      "citySlug": "nampong",
-      "distance": 87.24805609738551
-    },
-    {
-      "city": "Borivali",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "borivali",
-      "distance": 94.49795246209429
+      "citySlug": "nagpur"
     },
     {
-      "city": "Secunderabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "secunderabad",
-      "distance": 95.79706058761694
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tswk5up",
-  "geohashUrl": "https://geohash.softeng.co/tswk5up"
+  ]
 }

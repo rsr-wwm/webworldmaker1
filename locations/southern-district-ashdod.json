@@ -5,7 +5,6 @@
   "stateSlug": "southern-district",
   "citySlug": "ashdod",
   "country": "Israel",
-  "pincode": "77000",
   "currency": "ILS",
   "symbol": "₪",
   "compliance": "MOC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+972",
   "timezone": "Asia/Jerusalem",
-  "latitude": 31.6806,
-  "longitude": 34.7502,
-  "landmark": "Ashdod Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Cellcom networks. Failovers route over Partner, Pelephone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Ashdod, Israel",
   "population": 2323030,
@@ -41,41 +37,22 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Haifa",
+      "state": "Haifa District",
+      "stateSlug": "haifa-district",
+      "citySlug": "haifa"
+    },
+    {
       "city": "Tel Aviv",
       "state": "Tel Aviv District",
       "stateSlug": "tel-aviv-district",
-      "citySlug": "tel-aviv",
-      "distance": 19.15371803878773
+      "citySlug": "tel-aviv"
     },
     {
       "city": "Jerusalem",
       "state": "Jerusalem District",
       "stateSlug": "jerusalem-district",
-      "citySlug": "jerusalem",
-      "distance": 25.191771246491577
-    },
-    {
-      "city": "Haifa",
-      "state": "Haifa District",
-      "stateSlug": "haifa-district",
-      "citySlug": "haifa",
-      "distance": 29.48281183174722
-    },
-    {
-      "city": "Ramallah",
-      "state": "West Bank",
-      "stateSlug": "west-bank",
-      "citySlug": "ramallah",
-      "distance": 60.15631629679144
-    },
-    {
-      "city": "Aqaba",
-      "state": "Aqaba Governorate",
-      "stateSlug": "aqaba-governorate",
-      "citySlug": "aqaba",
-      "distance": 131.86474153481254
+      "citySlug": "jerusalem"
     }
-  ],
-  "geohash": "sv8snz2",
-  "geohashUrl": "https://geohash.softeng.co/sv8snz2"
+  ]
 }

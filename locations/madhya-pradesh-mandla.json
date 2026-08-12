@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "mandla",
   "country": "India",
-  "pincode": "481661",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 14.339,
-  "longitude": 69.2644,
-  "landmark": "Mandla Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Mandla, India",
   "population": 9417102,
   "mobileUsers": 7317088,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bongmun",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "bongmun",
-      "distance": 58.85374331999363
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bada pani",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bada-pani",
-      "distance": 59.8019688971468
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Simra",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "simra",
-      "distance": 68.34290955388101
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Churu",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "churu",
-      "distance": 87.23623967919221
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Mettupalayam",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "mettupalayam",
-      "distance": 90.43213652781205
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td9384k",
-  "geohashUrl": "https://geohash.softeng.co/td9384k"
+  ]
 }

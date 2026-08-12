@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "bihar-shariff",
   "country": "India",
-  "pincode": "803101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.9287,
-  "longitude": 80.6312,
-  "landmark": "Bihar Shariff Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bihar Shariff, India",
   "population": 2194269,
   "mobileUsers": 1599622,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Muzaffarpur",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "muzaffarpur",
-      "distance": 17.41242160497593
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kandi",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "kandi",
-      "distance": 59.4232266989063
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Upling",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "upling",
-      "distance": 60.51932968162272
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Chamba",
-      "state": "Himachal Pradesh",
-      "stateSlug": "himachal-pradesh",
-      "citySlug": "chamba",
-      "distance": 72.46353496467619
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Tiruvalla",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "tiruvalla",
-      "distance": 73.42270834945717
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuc34y1",
-  "geohashUrl": "https://geohash.softeng.co/tuc34y1"
+  ]
 }

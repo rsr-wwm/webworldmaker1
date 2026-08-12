@@ -5,7 +5,6 @@
   "stateSlug": "madhya-pradesh",
   "citySlug": "bhopal",
   "country": "India",
-  "pincode": "462001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 755",
   "timezone": "Asia/Kolkata",
-  "latitude": 25.9745,
-  "longitude": 69.2528,
-  "landmark": "Bhopal Civil Station Complex",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi, BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bhopal, India",
   "population": 852033,
   "mobileUsers": 662029,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rayak",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "rayak",
-      "distance": 53.681178290626455
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Shiroda",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "shiroda",
-      "distance": 78.97157033019008
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Kathihar",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "kathihar",
-      "distance": 88.51068612347008
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Karimnagar",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "karimnagar",
-      "distance": 90.28284664131579
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     },
     {
-      "city": "Nuvem",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "nuvem",
-      "distance": 92.11347046864803
+      "city": "Bangalore (Bengaluru)",
+      "state": "Karnataka",
+      "stateSlug": "karnataka",
+      "citySlug": "bangalore-bengaluru"
     }
-  ],
-  "geohash": "ts95zbs",
-  "geohashUrl": "https://geohash.softeng.co/ts95zbs"
+  ]
 }

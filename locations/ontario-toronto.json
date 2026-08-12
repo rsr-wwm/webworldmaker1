@@ -5,7 +5,6 @@
   "stateSlug": "ontario",
   "citySlug": "toronto",
   "country": "Canada",
-  "pincode": "M5V 2T6",
   "currency": "CAD",
   "symbol": "C$",
   "compliance": "CASL / PIPEDA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 416",
   "timezone": "America/Toronto",
-  "latitude": 43.6534817,
-  "longitude": -79.3839347,
-  "landmark": "Toronto Commercial Market Circle",
   "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Toronto, Canada",
   "population": 1537651,
@@ -44,38 +40,31 @@
       "city": "Hamilton",
       "state": "Ontario",
       "stateSlug": "ontario",
-      "citySlug": "hamilton",
-      "distance": 59.18363511119452
+      "citySlug": "hamilton"
     },
     {
       "city": "London",
       "state": "Ontario",
       "stateSlug": "ontario",
-      "citySlug": "london",
-      "distance": 167.92900684817113
+      "citySlug": "london"
     },
     {
-      "city": "Phoenix",
-      "state": "Arizona",
-      "stateSlug": "arizona",
-      "citySlug": "phoenix",
-      "distance": 172.57833025232293
-    },
-    {
-      "city": "Kingston",
-      "state": "Ontario",
-      "stateSlug": "ontario",
-      "citySlug": "kingston",
-      "distance": 247.33226646365608
+      "city": "Victoria",
+      "state": "British Columbia",
+      "stateSlug": "british-columbia",
+      "citySlug": "victoria"
     },
     {
       "city": "Windsor",
       "state": "Ontario",
       "stateSlug": "ontario",
-      "citySlug": "windsor",
-      "distance": 329.56578123801233
+      "citySlug": "windsor"
+    },
+    {
+      "city": "Regina",
+      "state": "Saskatchewan",
+      "stateSlug": "saskatchewan",
+      "citySlug": "regina"
     }
-  ],
-  "geohash": "dpz83df",
-  "geohashUrl": "https://geohash.softeng.co/dpz83df"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "paicharthal",
   "country": "India",
-  "pincode": "799263",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.3993,
-  "longitude": 80.3077,
-  "landmark": "Paicharthal Green Valley Digital Exchange",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Paicharthal, India",
   "population": 4456930,
   "mobileUsers": 3315955,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Sagar (Shinoga)",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "sagar-shinoga",
-      "distance": 18.22606709287794
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kadamtala",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kadamtala",
-      "distance": 35.47662186971096
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kuli bazar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kuli-bazar",
-      "distance": 52.60447949270684
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Drishnapur",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "drishnapur",
-      "distance": 109.7844162959418
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bhadravathi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "bhadravathi",
-      "distance": 117.22108093241901
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tf9pe7q",
-  "geohashUrl": "https://geohash.softeng.co/tf9pe7q"
+  ]
 }

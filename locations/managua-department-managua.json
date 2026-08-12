@@ -5,7 +5,6 @@
   "stateSlug": "managua-department",
   "citySlug": "managua",
   "country": "Nicaragua",
-  "pincode": "10000",
   "currency": "NIO",
   "symbol": "C$",
   "compliance": "TELCOR Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+505",
   "timezone": "America/Managua",
-  "latitude": 12.9472,
-  "longitude": -84.8663,
-  "landmark": "Managua Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Claro networks. Failovers route over Tigo with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Managua, Nicaragua",
   "population": 3396524,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Tegucigalpa",
-      "state": "Francisco Morazan Department",
-      "stateSlug": "francisco-morazan-department",
-      "citySlug": "tegucigalpa",
-      "distance": 275.01247035086215
-    },
-    {
-      "city": "San Jose",
-      "state": "San Jose Province",
-      "stateSlug": "san-jose-province",
-      "citySlug": "san-jose",
-      "distance": 354.45559901100444
-    },
-    {
-      "city": "San Salvador",
-      "state": "San Salvador Department",
-      "stateSlug": "san-salvador-department",
-      "citySlug": "san-salvador",
-      "distance": 467.1861579571386
-    },
-    {
-      "city": "Belmopan",
-      "state": "Cayo District",
-      "stateSlug": "cayo-district",
-      "citySlug": "belmopan",
-      "distance": 622.9462824178847
-    },
-    {
-      "city": "Guatemala City",
-      "state": "Guatemala Department",
-      "stateSlug": "guatemala-department",
-      "citySlug": "guatemala-city",
-      "distance": 665.4960961696559
-    }
-  ],
-  "geohash": "d479suf",
-  "geohashUrl": "https://geohash.softeng.co/d479suf"
+  "nearbyLocations": []
 }

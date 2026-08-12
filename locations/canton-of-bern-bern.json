@@ -5,7 +5,6 @@
   "stateSlug": "canton-of-bern",
   "citySlug": "bern",
   "country": "Switzerland",
-  "pincode": "3000",
   "currency": "CHF",
   "symbol": "CHF",
   "compliance": "Bakom Rules",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+41",
   "timezone": "Europe/Zurich",
-  "latitude": 46.8944,
-  "longitude": 7.9193,
-  "landmark": "Bern Metropolitan IT Corridor",
   "carrierQuality": "Primary edge trunk terminated over Swisscom networks. Failovers route over Sunrise, Salt with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bern, Switzerland",
   "population": 2331960,
@@ -44,38 +40,25 @@
       "city": "Zurich",
       "state": "Canton of Zurich",
       "stateSlug": "canton-of-zurich",
-      "citySlug": "zurich",
-      "distance": 5.526530973274022
-    },
-    {
-      "city": "Lausanne",
-      "state": "Canton of Vaud",
-      "stateSlug": "canton-of-vaud",
-      "citySlug": "lausanne",
-      "distance": 13.925512835064199
+      "citySlug": "zurich"
     },
     {
       "city": "Geneva",
       "state": "Canton of Geneva",
       "stateSlug": "canton-of-geneva",
-      "citySlug": "geneva",
-      "distance": 25.639907763871797
+      "citySlug": "geneva"
     },
     {
       "city": "Basel",
       "state": "Canton of Basel-Stadt",
       "stateSlug": "canton-of-basel-stadt",
-      "citySlug": "basel",
-      "distance": 29.128156445244265
+      "citySlug": "basel"
     },
     {
-      "city": "Vaduz",
-      "state": "Vaduz Commune",
-      "stateSlug": "vaduz-commune",
-      "citySlug": "vaduz",
-      "distance": 129.05688113140025
+      "city": "Lausanne",
+      "state": "Canton of Vaud",
+      "stateSlug": "canton-of-vaud",
+      "citySlug": "lausanne"
     }
-  ],
-  "geohash": "u0mdu0y",
-  "geohashUrl": "https://geohash.softeng.co/u0mdu0y"
+  ]
 }

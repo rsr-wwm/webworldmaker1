@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "nizamabad",
   "country": "India",
-  "pincode": "503001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 18.0654,
-  "longitude": 70.5684,
-  "landmark": "Nizamabad State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Nizamabad, India",
   "population": 555259,
   "mobileUsers": 427549,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Balat",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "balat",
-      "distance": 88.87768485082096
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Angul",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "angul",
-      "distance": 95.28255717595584
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Madasa",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "madasa",
-      "distance": 99.8406466817347
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Monkolemba",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "monkolemba",
-      "distance": 106.90333251856856
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Sriganganagar",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "sriganganagar",
-      "distance": 131.02583224208044
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "te4nvbd",
-  "geohashUrl": "https://geohash.softeng.co/te4nvbd"
+  ]
 }

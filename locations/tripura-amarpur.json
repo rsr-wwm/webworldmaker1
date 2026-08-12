@@ -5,7 +5,6 @@
   "stateSlug": "tripura",
   "citySlug": "amarpur",
   "country": "India",
-  "pincode": "799101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 381",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.8148,
-  "longitude": 72.4381,
-  "landmark": "Amarpur Techno Park Terminal Hub",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Amarpur, India",
   "population": 6883326,
   "mobileUsers": 5348344,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mangan",
-      "state": "Sikkim",
-      "stateSlug": "sikkim",
-      "citySlug": "mangan",
-      "distance": 43.618275767695216
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hazaribagh",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "hazaribagh",
-      "distance": 79.0877391000089
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Champhai",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "champhai",
-      "distance": 90.57298813068635
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Tilakwadi East",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "tilakwadi-east",
-      "distance": 109.84701589200924
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Loleim",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "loleim",
-      "distance": 110.79046380983357
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tee88r5",
-  "geohashUrl": "https://geohash.softeng.co/tee88r5"
+  ]
 }

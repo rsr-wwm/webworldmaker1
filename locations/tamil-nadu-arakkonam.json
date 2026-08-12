@@ -5,7 +5,6 @@
   "stateSlug": "tamil-nadu",
   "citySlug": "arakkonam",
   "country": "India",
-  "pincode": "631001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 44",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.4323,
-  "longitude": 87.4638,
-  "landmark": "Arakkonam Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Arakkonam, India",
   "population": 545882,
   "mobileUsers": 394126,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Katwa",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "katwa",
-      "distance": 67.2413363272823
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Somdal",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "somdal",
-      "distance": 71.21100648639991
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Station Kachiguda",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "station-kachiguda",
-      "distance": 93.12803971307788
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Nagaon (Nowgong)",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "nagaon-nowgong",
-      "distance": 103.96480146032194
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bokaro Steel City",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "bokaro-steel-city",
-      "distance": 113.25755364204522
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvqjnk1",
-  "geohashUrl": "https://geohash.softeng.co/tvqjnk1"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "south-central-coast",
   "citySlug": "danang",
   "country": "Vietnam",
-  "pincode": "550000",
   "currency": "VND",
   "symbol": "₫",
   "compliance": "MIC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+84",
   "timezone": "Asia/Ho_Chi_Minh",
-  "latitude": 15.9875,
-  "longitude": 107.6378,
-  "landmark": "Danang Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Viettel networks. Failovers route over Vinaphone, Mobifone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Danang, Vietnam",
   "population": 3825258,
@@ -44,38 +40,25 @@
       "city": "Haiphong",
       "state": "Red River Delta",
       "stateSlug": "red-river-delta",
-      "citySlug": "haiphong",
-      "distance": 19.768080682097878
-    },
-    {
-      "city": "Hanoi",
-      "state": "Hanoi Capital",
-      "stateSlug": "hanoi-capital",
-      "citySlug": "hanoi",
-      "distance": 21.467094316676594
+      "citySlug": "haiphong"
     },
     {
       "city": "Can Tho",
       "state": "Mekong Delta",
       "stateSlug": "mekong-delta",
-      "citySlug": "can-tho",
-      "distance": 42.97790975041194
+      "citySlug": "can-tho"
     },
     {
       "city": "Ho Chi Minh City",
       "state": "Southeast Region",
       "stateSlug": "southeast-region",
-      "citySlug": "ho-chi-minh-city",
-      "distance": 45.372375343327164
+      "citySlug": "ho-chi-minh-city"
     },
     {
-      "city": "Luang Prabang",
-      "state": "Luang Prabang Province",
-      "stateSlug": "luang-prabang-province",
-      "citySlug": "luang-prabang",
-      "distance": 353.87852617641795
+      "city": "Hanoi",
+      "state": "Hanoi Capital",
+      "stateSlug": "hanoi-capital",
+      "citySlug": "hanoi"
     }
-  ],
-  "geohash": "w6udcq7",
-  "geohashUrl": "https://geohash.softeng.co/w6udcq7"
+  ]
 }

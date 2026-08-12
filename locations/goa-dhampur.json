@@ -5,7 +5,6 @@
   "stateSlug": "goa",
   "citySlug": "dhampur",
   "country": "India",
-  "pincode": "403504",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 13.0088,
-  "longitude": 87.9624,
-  "landmark": "Dhampur Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dhampur, India",
   "population": 5424167,
   "mobileUsers": 3959641,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nagpur G.P.O.",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "nagpur-gpo",
-      "distance": 71.061848866512
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kunjvan",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kunjvan",
-      "distance": 80.26425957866084
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Basavanagudi",
-      "state": "Karnataka",
-      "stateSlug": "karnataka",
-      "citySlug": "basavanagudi",
-      "distance": 83.12184034426136
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Avanigadda",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "avanigadda",
-      "distance": 106.69350352228955
-    },
-    {
-      "city": "Fatehpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "fatehpur",
-      "distance": 111.17216039198998
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfqd18h",
-  "geohashUrl": "https://geohash.softeng.co/tfqd18h"
+  ]
 }

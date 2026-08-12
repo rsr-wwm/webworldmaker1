@@ -5,7 +5,6 @@
   "stateSlug": "manipur",
   "citySlug": "kala-pahad",
   "country": "India",
-  "pincode": "795122",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 17.6483,
-  "longitude": 78.143,
-  "landmark": "Kala pahad Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kala pahad, India",
   "population": 4477833,
   "mobileUsers": 3479276,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Moga",
-      "state": "Punjab",
-      "stateSlug": "punjab",
-      "citySlug": "moga",
-      "distance": 88.03669355123503
-    },
-    {
-      "city": "Parlakhemudi",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "parlakhemudi",
-      "distance": 98.66818447341868
-    },
-    {
-      "city": "Saitul",
-      "state": "Mizoram",
-      "stateSlug": "mizoram",
-      "citySlug": "saitul",
-      "distance": 104.33732295686592
-    },
-    {
-      "city": "Khandwa",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "khandwa",
-      "distance": 108.7411163487766
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chinchbunder",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "chinchbunder",
-      "distance": 124.9339724472735
+      "citySlug": "nagpur"
+    },
+    {
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "teps6hv",
-  "geohashUrl": "https://geohash.softeng.co/teps6hv"
+  ]
 }

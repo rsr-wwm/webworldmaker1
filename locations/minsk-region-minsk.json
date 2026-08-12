@@ -5,7 +5,6 @@
   "stateSlug": "minsk-region",
   "citySlug": "minsk",
   "country": "Belarus",
-  "pincode": "220000",
   "currency": "BYN",
   "symbol": "Br",
   "compliance": "OAC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+375",
   "timezone": "Europe/Minsk",
-  "latitude": 53.1937,
-  "longitude": 27.8881,
-  "landmark": "Minsk Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over A1 networks. Failovers route over MTS, life:) with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Minsk, Belarus",
   "population": 4024222,
@@ -39,43 +35,5 @@
   "dominantB2BPainPoint": "Manual lead qualification delays in B2B sales pipelines",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Kaunas",
-      "state": "Kaunas County",
-      "stateSlug": "kaunas-county",
-      "citySlug": "kaunas",
-      "distance": 385.3145365054996
-    },
-    {
-      "city": "Siauliai",
-      "state": "Siauliai County",
-      "stateSlug": "siauliai-county",
-      "citySlug": "siauliai",
-      "distance": 386.3659515381358
-    },
-    {
-      "city": "Klaipeda",
-      "state": "Klaipeda County",
-      "stateSlug": "klaipeda-county",
-      "citySlug": "klaipeda",
-      "distance": 394.5392026554847
-    },
-    {
-      "city": "Vilnius",
-      "state": "Vilnius District",
-      "stateSlug": "vilnius-district",
-      "citySlug": "vilnius",
-      "distance": 397.1394601381041
-    },
-    {
-      "city": "Liepaja",
-      "state": "Courland",
-      "stateSlug": "courland",
-      "citySlug": "liepaja",
-      "distance": 456.5627178369939
-    }
-  ],
-  "geohash": "u97ydee",
-  "geohashUrl": "https://geohash.softeng.co/u97ydee"
+  "nearbyLocations": []
 }

@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "aurangabad",
   "country": "India",
-  "pincode": "431001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.4029,
-  "longitude": 85.6949,
-  "landmark": "Aurangabad Old Town Fort Gate Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Aurangabad, India",
   "population": 5726860,
   "mobileUsers": 4180607,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Arni",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "arni",
-      "distance": 70.72691740754537
-    },
-    {
-      "city": "Korba",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "korba",
-      "distance": 74.0122495940463
+      "citySlug": "bhopal"
     },
     {
-      "city": "Motihari",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "motihari",
-      "distance": 79.35270437428309
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ramnagar",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "ramnagar",
-      "distance": 94.43457264201737
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Somdal",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "somdal",
-      "distance": 99.02038532577188
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvkuyn9",
-  "geohashUrl": "https://geohash.softeng.co/tvkuyn9"
+  ]
 }

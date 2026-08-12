@@ -5,7 +5,6 @@
   "stateSlug": "southwest-finland",
   "citySlug": "turku",
   "country": "Finland",
-  "pincode": "20100",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / Traficom",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+358",
   "timezone": "Europe/Helsinki",
-  "latitude": 63.9183,
-  "longitude": 26.0582,
-  "landmark": "Turku Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Elisa networks. Failovers route over Telia, DNA with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Turku, Finland",
   "population": 1803377,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Vantaa",
-      "state": "Uusimaa",
-      "stateSlug": "uusimaa",
-      "citySlug": "vantaa",
-      "distance": 11.652245855259668
-    },
-    {
       "city": "Tampere",
       "state": "Pirkanmaa",
       "stateSlug": "pirkanmaa",
-      "citySlug": "tampere",
-      "distance": 12.354140145367735
+      "citySlug": "tampere"
     },
     {
       "city": "Espoo",
       "state": "Uusimaa",
       "stateSlug": "uusimaa",
-      "citySlug": "espoo",
-      "distance": 26.045590298761716
+      "citySlug": "espoo"
+    },
+    {
+      "city": "Vantaa",
+      "state": "Uusimaa",
+      "stateSlug": "uusimaa",
+      "citySlug": "vantaa"
     },
     {
       "city": "Helsinki",
       "state": "Uusimaa",
       "stateSlug": "uusimaa",
-      "citySlug": "helsinki",
-      "distance": 31.14150747814098
-    },
-    {
-      "city": "Narva",
-      "state": "Ida-Viru County",
-      "stateSlug": "ida-viru-county",
-      "citySlug": "narva",
-      "distance": 526.3866581299005
+      "citySlug": "helsinki"
     }
-  ],
-  "geohash": "ue6e8gz",
-  "geohashUrl": "https://geohash.softeng.co/ue6e8gz"
+  ]
 }

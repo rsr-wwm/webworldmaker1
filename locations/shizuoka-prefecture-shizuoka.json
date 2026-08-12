@@ -5,7 +5,6 @@
   "stateSlug": "shizuoka-prefecture",
   "citySlug": "shizuoka",
   "country": "Japan",
-  "pincode": "420-0853",
   "currency": "JPY",
   "symbol": "¥",
   "compliance": "MIC Telecommunications Act",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+81 3",
   "timezone": "Asia/Tokyo",
-  "latitude": 34.9751974,
-  "longitude": 138.3831697,
-  "landmark": "Shizuoka Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over NTT Docomo networks. Failovers route over KDDI, SoftBank with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Shizuoka, Japan",
   "population": 4149714,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Sendai",
+      "state": "Miyagi Prefecture",
+      "stateSlug": "miyagi-prefecture",
+      "citySlug": "sendai"
+    },
+    {
+      "city": "Hiroshima",
+      "state": "Hiroshima Prefecture",
+      "stateSlug": "hiroshima-prefecture",
+      "citySlug": "hiroshima"
+    },
+    {
+      "city": "Kitakyushu",
+      "state": "Fukuoka Prefecture",
+      "stateSlug": "fukuoka-prefecture",
+      "citySlug": "kitakyushu"
+    },
+    {
+      "city": "Niigata",
+      "state": "Niigata Prefecture",
+      "stateSlug": "niigata-prefecture",
+      "citySlug": "niigata"
+    },
+    {
       "city": "Hamamatsu",
       "state": "Shizuoka Prefecture",
       "stateSlug": "shizuoka-prefecture",
-      "citySlug": "hamamatsu",
-      "distance": 66.78738050309316
-    },
-    {
-      "city": "Yokohama",
-      "state": "Kanagawa Prefecture",
-      "stateSlug": "kanagawa-prefecture",
-      "citySlug": "yokohama",
-      "distance": 125.34704206287302
-    },
-    {
-      "city": "Nagoya",
-      "state": "Aichi Prefecture",
-      "stateSlug": "aichi-prefecture",
-      "citySlug": "nagoya",
-      "distance": 136.97886746382827
-    },
-    {
-      "city": "Tokyo",
-      "state": "Tokyo Metropolis",
-      "stateSlug": "tokyo-metropolis",
-      "citySlug": "tokyo",
-      "distance": 147.56996424410815
-    },
-    {
-      "city": "Saitama",
-      "state": "Saitama Prefecture",
-      "stateSlug": "saitama-prefecture",
-      "citySlug": "saitama",
-      "distance": 150.9982472413665
+      "citySlug": "hamamatsu"
     }
-  ],
-  "geohash": "xn4quzp",
-  "geohashUrl": "https://geohash.softeng.co/xn4quzp"
+  ]
 }

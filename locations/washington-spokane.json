@@ -5,7 +5,6 @@
   "stateSlug": "washington",
   "citySlug": "spokane",
   "country": "United States",
-  "pincode": "99201",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 206",
   "timezone": "America/Los_Angeles",
-  "latitude": 28.3885,
-  "longitude": -95.0375,
-  "landmark": "Spokane Municipal Office Plaza",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Spokane, United States",
   "population": 3589868,
@@ -44,38 +40,31 @@
       "city": "Birmingham",
       "state": "Alabama",
       "stateSlug": "alabama",
-      "citySlug": "birmingham",
-      "distance": 174.77991827586308
+      "citySlug": "birmingham"
     },
     {
-      "city": "Miami",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "miami",
-      "distance": 230.17523124060355
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Providence",
-      "state": "Rhode Island",
-      "stateSlug": "rhode-island",
-      "citySlug": "providence",
-      "distance": 447.74614576110446
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Atlanta",
-      "state": "Georgia",
-      "stateSlug": "georgia",
-      "citySlug": "atlanta",
-      "distance": 462.2801510567656
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Raleigh",
-      "state": "North Carolina",
-      "stateSlug": "north-carolina",
-      "citySlug": "raleigh",
-      "distance": 480.8966522459964
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9vh3mrg",
-  "geohashUrl": "https://geohash.softeng.co/9vh3mrg"
+  ]
 }

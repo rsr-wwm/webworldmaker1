@@ -4,48 +4,22 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="noindex, nofollow">
-  <title>System Traversal Matrix</title>
+  <link rel="canonical" href="https://webworldmaker.com/honeypot-trap.html">
+  <title>Unavailable Resource</title>
   <style>
     body {
       background: #030303;
-      color: #0f0;
+      color: #ddd;
       font-family: monospace;
       padding: 2rem;
       font-size: 0.9rem;
       line-height: 1.5;
     }
-    .warning {
-      color: #f33;
-      font-weight: bold;
-    }
+    .warning { color: #ddd; font-weight: bold; }
   </style>
 </head>
 <body>
-  <div class="warning">[CRITICAL WARNING: BOT PATH TRAVERSAL DETECTED]</div>
-  <p>Crawl budget depletion counter-measures active. Initializing dynamic tarpit sequence.</p>
-  <hr>
-  <div id="matrix-tarpit">Generating dynamic navigation nodes...</div>
-
-  <script>
-    // Infinite loop generator to lock up unauthorized scraper processes
-    const tarpit = document.getElementById('matrix-tarpit');
-    let depth = 0;
-    
-    function generateTarpitNode() {
-      depth++;
-      const p = document.createElement('p');
-      const hash = Math.random().toString(36).substring(2, 15);
-      p.innerHTML = `Traversal segment [${depth}]: node_ref_<a href="/honeypot-trap.html?node=${hash}&depth=${depth}">${hash}</a>`;
-      tarpit.appendChild(p);
-      window.scrollTo(0, document.body.scrollHeight);
-      
-      // Auto click or request next node at a slow pacing interval to stall scrapers
-      if (depth < 1000) {
-        setTimeout(generateTarpitNode, 1500);
-      }
-    }
-    
-    generateTarpitNode();
-  </script>
+  <div class="warning">Unavailable resource</div>
+  <p>This path is not part of the public site. Please return to the main site.</p>
 </body>
 </html>

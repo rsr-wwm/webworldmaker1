@@ -5,7 +5,6 @@
   "stateSlug": "north-rhine-westphalia",
   "citySlug": "munster",
   "country": "Germany",
-  "pincode": "48143",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / BNetzA",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+49 30",
   "timezone": "Europe/Berlin",
-  "latitude": 50.8958,
-  "longitude": 13.0378,
-  "landmark": "Munster Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Telekom networks. Failovers route over Vodafone, O2 with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Munster, Germany",
   "population": 3239737,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Dresden",
-      "state": "Saxony",
-      "stateSlug": "saxony",
-      "citySlug": "dresden",
-      "distance": 48.81012747759158
-    },
-    {
-      "city": "Hanover",
-      "state": "Lower Saxony",
-      "stateSlug": "lower-saxony",
-      "citySlug": "hanover",
-      "distance": 68.8089590356128
-    },
-    {
-      "city": "Stuttgart",
-      "state": "Baden-Württemberg",
-      "stateSlug": "baden-wurttemberg",
-      "citySlug": "stuttgart",
-      "distance": 83.74009499903323
+      "city": "Bonn",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "bonn"
     },
     {
       "city": "Karlsruhe",
       "state": "Baden-Württemberg",
       "stateSlug": "baden-wurttemberg",
-      "citySlug": "karlsruhe",
-      "distance": 112.99068634845072
+      "citySlug": "karlsruhe"
     },
     {
-      "city": "Leipzig",
-      "state": "Saxony",
-      "stateSlug": "saxony",
-      "citySlug": "leipzig",
-      "distance": 130.6498124734184
+      "city": "Munich",
+      "state": "Bavaria",
+      "stateSlug": "bavaria",
+      "citySlug": "munich"
+    },
+    {
+      "city": "Hamburg",
+      "state": "Hamburg State",
+      "stateSlug": "hamburg-state",
+      "citySlug": "hamburg"
+    },
+    {
+      "city": "Dusseldorf",
+      "state": "North Rhine-Westphalia",
+      "stateSlug": "north-rhine-westphalia",
+      "citySlug": "dusseldorf"
     }
-  ],
-  "geohash": "u31389m",
-  "geohashUrl": "https://geohash.softeng.co/u31389m"
+  ]
 }

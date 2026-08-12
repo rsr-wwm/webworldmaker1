@@ -5,7 +5,6 @@
   "stateSlug": "kerala",
   "citySlug": "taliparamba",
   "country": "India",
-  "pincode": "670141",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 471",
   "timezone": "Asia/Kolkata",
-  "latitude": 27.3906,
-  "longitude": 88.4385,
-  "landmark": "Taliparamba Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Taliparamba, India",
   "population": 1415890,
   "mobileUsers": 1067581,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bundi",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "bundi",
-      "distance": 40.885485660245436
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nevare",
-      "state": "Goa",
-      "stateSlug": "goa",
-      "citySlug": "nevare",
-      "distance": 56.862450935626995
-    },
-    {
-      "city": "Mahim",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "mahim",
-      "distance": 73.27714199960141
+      "citySlug": "nagpur"
     },
     {
-      "city": "Anandpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "anandpur",
-      "distance": 77.80939373464342
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Erode",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "erode",
-      "distance": 86.07306192500978
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tuygu6q",
-  "geohashUrl": "https://geohash.softeng.co/tuygu6q"
+  ]
 }

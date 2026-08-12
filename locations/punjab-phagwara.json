@@ -5,7 +5,6 @@
   "stateSlug": "punjab",
   "citySlug": "phagwara",
   "country": "India",
-  "pincode": "144401",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 11.4528,
-  "longitude": 84.0229,
-  "landmark": "Phagwara Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Phagwara, India",
   "population": 7779143,
   "mobileUsers": 6021056,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Kothgudem Collieries",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "kothgudem-collieries",
-      "distance": 35.24819885392144
-    },
-    {
-      "city": "Morena",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "morena",
-      "distance": 40.25526401949114
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kayamkulam",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kayamkulam",
-      "distance": 41.537769997119554
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Valsad",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "valsad",
-      "distance": 68.12064822176256
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Phutmouri",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "phutmouri",
-      "distance": 69.54275352534857
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "rawalpindi"
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "faisalabad"
     }
-  ],
-  "geohash": "tf59puz",
-  "geohashUrl": "https://geohash.softeng.co/tf59puz"
+  ]
 }

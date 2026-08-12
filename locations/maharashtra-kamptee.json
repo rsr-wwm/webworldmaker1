@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "kamptee",
   "country": "India",
-  "pincode": "441001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.1934,
-  "longitude": 74.0868,
-  "landmark": "Kamptee Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kamptee, India",
   "population": 1091190,
   "mobileUsers": 839125,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shahdol",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "shahdol",
-      "distance": 25.865914725277772
+      "citySlug": "bhopal"
     },
     {
-      "city": "Chirala",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "chirala",
-      "distance": 56.55908098902578
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Barmihat",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "barmihat",
-      "distance": 62.45264476478559
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Zunhebato",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "zunhebato",
-      "distance": 63.724718202409065
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Barrackpore",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barrackpore",
-      "distance": 67.11135106978236
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsstjbk",
-  "geohashUrl": "https://geohash.softeng.co/tsstjbk"
+  ]
 }

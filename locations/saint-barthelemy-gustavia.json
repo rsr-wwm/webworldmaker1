@@ -5,7 +5,6 @@
   "stateSlug": "saint-barthelemy",
   "citySlug": "gustavia",
   "country": "Saint Barthelemy",
-  "pincode": "97133",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / ARCEP",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+590",
   "timezone": "America/St_Barthelemy",
-  "latitude": 17.8957043,
-  "longitude": -62.8508372,
-  "landmark": "Gustavia Old Town Fort Gate Road",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over Digicel with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Gustavia, Saint Barthelemy",
   "population": 3992609,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "OTP latency and delivery delays on legacy carrier networks",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Basseterre",
-      "state": "Saint George Basseterre",
-      "stateSlug": "saint-george-basseterre",
-      "citySlug": "basseterre",
-      "distance": 51.16787458957858
-    },
-    {
-      "city": "Saint John's",
-      "state": "Saint John Parish",
-      "stateSlug": "saint-john-parish",
-      "citySlug": "saint-johns",
-      "distance": 131.64649173205666
-    },
-    {
-      "city": "Plymouth",
-      "state": "Saint Anthony Parish",
-      "stateSlug": "saint-anthony-parish",
-      "citySlug": "plymouth",
-      "distance": 135.543896908361
-    },
-    {
-      "city": "Road Town",
-      "state": "Tortola Island",
-      "stateSlug": "tortola-island",
-      "citySlug": "road-town",
-      "distance": 179.20245234709267
-    },
-    {
-      "city": "Charlotte Amalie",
-      "state": "Saint Thomas Island",
-      "stateSlug": "saint-thomas-island",
-      "citySlug": "charlotte-amalie",
-      "distance": 228.10633223166053
-    }
-  ],
-  "geohash": "de5mccc",
-  "geohashUrl": "https://geohash.softeng.co/de5mccc"
+  "nearbyLocations": []
 }

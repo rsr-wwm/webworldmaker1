@@ -5,7 +5,6 @@
   "stateSlug": "majuro-atoll",
   "citySlug": "majuro",
   "country": "Marshall Islands",
-  "pincode": "96960",
   "currency": "USD",
   "symbol": "$",
   "compliance": "NTA Regulations",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+692",
   "timezone": "Pacific/Kwajalein",
-  "latitude": 9.0184,
-  "longitude": 168.0224,
-  "landmark": "Majuro District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over MINTA networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Majuro, Marshall Islands",
   "population": 3426447,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Tarawa",
-      "state": "Gilbert Islands",
-      "stateSlug": "gilbert-islands",
-      "citySlug": "tarawa",
-      "distance": 1017.7078423063011
-    },
-    {
-      "city": "Yaren",
-      "state": "Yaren District",
-      "stateSlug": "yaren-district",
-      "citySlug": "yaren",
-      "distance": 1047.2361540557993
-    },
-    {
-      "city": "Palikir",
-      "state": "Pohnpei State",
-      "stateSlug": "pohnpei-state",
-      "citySlug": "palikir",
-      "distance": 1092.9240167374453
-    },
-    {
-      "city": "Honiara",
-      "state": "Guadalcanal Province",
-      "stateSlug": "guadalcanal-province",
-      "citySlug": "honiara",
-      "distance": 2143.5669093549873
-    },
-    {
-      "city": "Funafuti",
-      "state": "Funafuti Atoll",
-      "stateSlug": "funafuti-atoll",
-      "citySlug": "funafuti",
-      "distance": 2204.47957051971
-    }
-  ],
-  "geohash": "x9x7r3w",
-  "geohashUrl": "https://geohash.softeng.co/x9x7r3w"
+  "nearbyLocations": []
 }

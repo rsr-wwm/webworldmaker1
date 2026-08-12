@@ -5,7 +5,6 @@
   "stateSlug": "nagaland",
   "citySlug": "yonghong",
   "country": "India",
-  "pincode": "798617",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 21.2104,
-  "longitude": 80.064,
-  "landmark": "Yonghong GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Yonghong, India",
   "population": 8707417,
   "mobileUsers": 6626344,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Palai",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "palai",
-      "distance": 10.458658763069016
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Thodupuzha",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "thodupuzha",
-      "distance": 49.783555154237746
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Vijaywada",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "vijaywada",
-      "distance": 57.96731995707893
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Mau Nath Bhanjan",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "mau-nath-bhanjan",
-      "distance": 61.97175529366816
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kiphir",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "kiphir",
-      "distance": 79.01172288014575
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tgbbtvh",
-  "geohashUrl": "https://geohash.softeng.co/tgbbtvh"
+  ]
 }

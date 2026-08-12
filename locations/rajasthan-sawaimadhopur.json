@@ -5,7 +5,6 @@
   "stateSlug": "rajasthan",
   "citySlug": "sawaimadhopur",
   "country": "India",
-  "pincode": "322001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 141",
   "timezone": "Asia/Kolkata",
-  "latitude": 29.7008,
-  "longitude": 72.6335,
-  "landmark": "Sawaimadhopur Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Sawaimadhopur, India",
   "population": 9053862,
   "mobileUsers": 6980527,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Etawah",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "etawah",
-      "distance": 33.306286122498385
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kottarakara",
-      "state": "Kerala",
-      "stateSlug": "kerala",
-      "citySlug": "kottarakara",
-      "distance": 35.99645267655239
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Patan",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "patan",
-      "distance": 48.99975347356096
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Makrana",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "makrana",
-      "distance": 50.07424172186246
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Barabazar",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barabazar",
-      "distance": 58.12740923032724
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt78uyf",
-  "geohashUrl": "https://geohash.softeng.co/tt78uyf"
+  ]
 }

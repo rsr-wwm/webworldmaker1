@@ -5,7 +5,6 @@
   "stateSlug": "new-mexico",
   "citySlug": "albuquerque",
   "country": "United States",
-  "pincode": "87101",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 202",
   "timezone": "America/Denver",
-  "latitude": 43.0288,
-  "longitude": -86.0325,
-  "landmark": "Albuquerque Civil Station Complex",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Albuquerque, United States",
   "population": 2212895,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "New York City",
-      "state": "New York",
-      "stateSlug": "new-york",
-      "citySlug": "new-york-city",
-      "distance": 136.70967533563177
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Seattle",
-      "state": "Washington",
-      "stateSlug": "washington",
-      "citySlug": "seattle",
-      "distance": 141.34173990295537
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "San Jose",
-      "state": "California",
-      "stateSlug": "california",
-      "citySlug": "san-jose",
-      "distance": 161.16812685308855
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Charlotte",
-      "state": "North Carolina",
-      "stateSlug": "north-carolina",
-      "citySlug": "charlotte",
-      "distance": 205.2997822881681
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     },
     {
-      "city": "Columbus",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "columbus",
-      "distance": 245.60946710164234
+      "city": "Omaha",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "citySlug": "omaha"
     }
-  ],
-  "geohash": "dpduf31",
-  "geohashUrl": "https://geohash.softeng.co/dpduf31"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "california",
   "citySlug": "sacramento",
   "country": "United States",
-  "pincode": "95801",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 213",
   "timezone": "America/Los_Angeles",
-  "latitude": 28.6067,
-  "longitude": -109.9475,
-  "landmark": "Sacramento Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Sacramento, United States",
   "population": 3563460,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Philadelphia",
-      "state": "Pennsylvania",
-      "stateSlug": "pennsylvania",
-      "citySlug": "philadelphia",
-      "distance": 121.18646535670949
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Richmond",
-      "state": "Virginia",
-      "stateSlug": "virginia",
-      "citySlug": "richmond",
-      "distance": 542.8203871356185
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Portland",
-      "state": "Oregon",
-      "stateSlug": "oregon",
-      "citySlug": "portland",
-      "distance": 547.7860523883459
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Indianapolis",
-      "state": "Indiana",
-      "stateSlug": "indiana",
-      "citySlug": "indianapolis",
-      "distance": 656.7006073181483
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Orlando",
-      "state": "Florida",
-      "stateSlug": "florida",
-      "citySlug": "orlando",
-      "distance": 695.9799057325733
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9t1fdpd",
-  "geohashUrl": "https://geohash.softeng.co/9t1fdpd"
+  ]
 }

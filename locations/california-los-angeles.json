@@ -5,7 +5,6 @@
   "stateSlug": "california",
   "citySlug": "los-angeles",
   "country": "United States",
-  "pincode": "90001",
   "currency": "USD",
   "symbol": "$",
   "compliance": "10DLC / FCC",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 213",
   "timezone": "America/Los_Angeles",
-  "latitude": 39.2871,
-  "longitude": -107.1963,
-  "landmark": "Los Angeles GPO Circle Square",
   "carrierQuality": "Primary edge trunk terminated over Verizon networks. Failovers route over T-Mobile, AT&T with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Los Angeles, United States",
   "population": 4915728,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "TCPA, CTIA Guidelines & 10DLC registration",
   "nearbyLocations": [
     {
-      "city": "Cincinnati",
-      "state": "Ohio",
-      "stateSlug": "ohio",
-      "citySlug": "cincinnati",
-      "distance": 117.33776372251435
+      "city": "Birmingham",
+      "state": "Alabama",
+      "stateSlug": "alabama",
+      "citySlug": "birmingham"
     },
     {
-      "city": "Dallas",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "dallas",
-      "distance": 243.54990526777075
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "citySlug": "grand-rapids"
     },
     {
-      "city": "Washington, D.C.",
-      "state": "District of Columbia",
-      "stateSlug": "district-of-columbia",
-      "citySlug": "washington-dc",
-      "distance": 264.5104263055628
+      "city": "Tucson",
+      "state": "Arizona",
+      "stateSlug": "arizona",
+      "citySlug": "tucson"
     },
     {
-      "city": "Pittsburgh",
-      "state": "Pennsylvania",
-      "stateSlug": "pennsylvania",
-      "citySlug": "pittsburgh",
-      "distance": 285.2675302735521
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "citySlug": "albuquerque"
     },
     {
-      "city": "Rochester",
-      "state": "New York",
-      "stateSlug": "new-york",
-      "citySlug": "rochester",
-      "distance": 306.57063258422187
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "stateSlug": "oklahoma",
+      "citySlug": "tulsa"
     }
-  ],
-  "geohash": "9wgz2xy",
-  "geohashUrl": "https://geohash.softeng.co/9wgz2xy"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "bareilly",
   "country": "India",
-  "pincode": "243001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.1555,
-  "longitude": 89.1622,
-  "landmark": "Bareilly State Highway Crossing Terminal",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Bareilly, India",
   "population": 9755441,
   "mobileUsers": 7336091,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Station Kachiguda",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "station-kachiguda",
-      "distance": 73.4677724508581
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nagaon (Nowgong)",
-      "state": "Assam",
-      "stateSlug": "assam",
-      "citySlug": "nagaon-nowgong",
-      "distance": 85.16734980172424
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Lightmukhra",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "lightmukhra",
-      "distance": 95.24622955494473
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Senapati",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "senapati",
-      "distance": 98.20037115858986
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Katwa",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "katwa",
-      "distance": 109.65980882289774
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tvr7sct",
-  "geohashUrl": "https://geohash.softeng.co/tvr7sct"
+  ]
 }

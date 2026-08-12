@@ -21,7 +21,7 @@ Q: How fast can we recover?
 A: Critical systems can usually be rebooted in the cloud within 4 hours.
 
 Q: What happens if your cloud fails?
-A: We use the "3-2-1" rule, meaning your data is replicated across multiple global data centers for 100% redundancy.
+A: We use the "3-2-1" rule, meaning your data is replicated across multiple global data centers for comprehensive redundancy.
 
 Q: Is cloud storage expensive?
 A: Our tiered storage plans mean you only pay premium prices for urgent data; cold data is stored very cheaply.

@@ -5,7 +5,6 @@
   "stateSlug": "alberta",
   "citySlug": "calgary",
   "country": "Canada",
-  "pincode": "T2P 2M5",
   "currency": "CAD",
   "symbol": "C$",
   "compliance": "CRTC / CASL Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+1 416",
   "timezone": "America/Toronto",
-  "latitude": 51.0456064,
-  "longitude": -114.057541,
-  "landmark": "Calgary District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Rogers networks. Failovers route over Bell, Telus with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Calgary, Canada",
   "population": 2398264,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Edmonton",
-      "state": "Alberta",
-      "stateSlug": "alberta",
-      "citySlug": "edmonton",
-      "distance": 280.7056810466961
+      "city": "Hamilton",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "hamilton"
     },
     {
-      "city": "Kelowna",
+      "city": "London",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "london"
+    },
+    {
+      "city": "Victoria",
       "state": "British Columbia",
       "stateSlug": "british-columbia",
-      "citySlug": "kelowna",
-      "distance": 405.7587326184001
+      "citySlug": "victoria"
     },
     {
-      "city": "Saskatoon",
+      "city": "Windsor",
+      "state": "Ontario",
+      "stateSlug": "ontario",
+      "citySlug": "windsor"
+    },
+    {
+      "city": "Regina",
       "state": "Saskatchewan",
       "stateSlug": "saskatchewan",
-      "citySlug": "saskatoon",
-      "distance": 524.8352760771969
-    },
-    {
-      "city": "McAllen",
-      "state": "Texas",
-      "stateSlug": "texas",
-      "citySlug": "mcallen",
-      "distance": 539.0289396265068
-    },
-    {
-      "city": "Columbia",
-      "state": "South Carolina",
-      "stateSlug": "south-carolina",
-      "citySlug": "columbia",
-      "distance": 559.5753827412905
+      "citySlug": "regina"
     }
-  ],
-  "geohash": "c3nfks9",
-  "geohashUrl": "https://geohash.softeng.co/c3nfks9"
+  ]
 }

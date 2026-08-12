@@ -5,7 +5,6 @@
   "stateSlug": "west-bengal",
   "citySlug": "arambagh",
   "country": "India",
-  "pincode": "712601",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.2848,
-  "longitude": 69.4901,
-  "landmark": "Arambagh Industrial Growth Center",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Arambagh, India",
   "population": 4654098,
   "mobileUsers": 3471957,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Nadiad",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "nadiad",
-      "distance": 5.448484168117282
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Karnal",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "karnal",
-      "distance": 7.203492083430954
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Hamirpur",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "hamirpur",
-      "distance": 17.85525256672045
-    },
-    {
-      "city": "Faisalabad",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "faisalabad",
-      "distance": 34.068572606453294
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Rawalpindi",
-      "state": "Punjab",
-      "stateSlug": "punjab",
-      "citySlug": "rawalpindi",
-      "distance": 41.125531615630116
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tt3km31",
-  "geohashUrl": "https://geohash.softeng.co/tt3km31"
+  ]
 }

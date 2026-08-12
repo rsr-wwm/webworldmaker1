@@ -5,7 +5,6 @@
   "stateSlug": "bihar",
   "citySlug": "dumka",
   "country": "India",
-  "pincode": "814101",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 30.1479,
-  "longitude": 73.9355,
-  "landmark": "Dumka GPO Circle Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Dumka, India",
   "population": 4370677,
   "mobileUsers": 3221188,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Shastrinagar (Jodhpur)",
-      "state": "Rajasthan",
-      "stateSlug": "rajasthan",
-      "citySlug": "shastrinagar-jodhpur",
-      "distance": 9.726388949372446
-    },
-    {
-      "city": "Raipur",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "raipur",
-      "distance": 39.37982507074411
+      "citySlug": "bhopal"
     },
     {
-      "city": "Hissar",
-      "state": "Haryana",
-      "stateSlug": "haryana",
-      "citySlug": "hissar",
-      "distance": 42.41233299449282
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Darbhanga",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "darbhanga",
-      "distance": 45.31301193177925
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Durgapur",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "durgapur",
-      "distance": 74.59010902084201
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "ttked2q",
-  "geohashUrl": "https://geohash.softeng.co/ttked2q"
+  ]
 }

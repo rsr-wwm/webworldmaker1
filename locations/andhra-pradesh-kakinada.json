@@ -5,7 +5,6 @@
   "stateSlug": "andhra-pradesh",
   "citySlug": "kakinada",
   "country": "India",
-  "pincode": "533001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 866",
   "timezone": "Asia/Kolkata",
-  "latitude": 15.7186,
-  "longitude": 83.51,
-  "landmark": "Kakinada Central Industrial Area Road",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kakinada, India",
   "population": 9499488,
   "mobileUsers": 7191112,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Mandvi",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
+    },
+    {
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "mandvi",
-      "distance": 17.178869611684203
+      "citySlug": "nagpur"
     },
     {
-      "city": "Sawantwadi",
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "sawantwadi",
-      "distance": 17.588728163855492
+      "citySlug": "mumbai"
     },
     {
-      "city": "Kalyanpur",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kalyanpur",
-      "distance": 47.88278062233932
-    },
-    {
-      "city": "Bhawani Patana",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bhawani-patana",
-      "distance": 52.19203680117917
-    },
-    {
-      "city": "Shrikakulam",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "shrikakulam",
-      "distance": 70.67341887522593
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfg3km6",
-  "geohashUrl": "https://geohash.softeng.co/tfg3km6"
+  ]
 }

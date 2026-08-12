@@ -5,7 +5,6 @@
   "stateSlug": "keelung-city",
   "citySlug": "keelung",
   "country": "Taiwan",
-  "pincode": "200",
   "currency": "TWD",
   "symbol": "NT$",
   "compliance": "NCC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+886",
   "timezone": "Asia/Taipei",
-  "latitude": 23.4672,
-  "longitude": 121.0547,
-  "landmark": "Keelung Railway Station Chowk Node",
   "carrierQuality": "Primary edge trunk terminated over Chunghwa Telecom networks. Failovers route over Taiwan Mobile, FarEasTone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Keelung, Taiwan",
   "population": 1562015,
@@ -44,38 +40,31 @@
       "city": "Hsinchu",
       "state": "Hsinchu County",
       "stateSlug": "hsinchu-county",
-      "citySlug": "hsinchu",
-      "distance": 10.990963439614083
-    },
-    {
-      "city": "Taipei",
-      "state": "Taipei Municipality",
-      "stateSlug": "taipei-municipality",
-      "citySlug": "taipei",
-      "distance": 16.32372992341386
-    },
-    {
-      "city": "Tainan",
-      "state": "Tainan City",
-      "stateSlug": "tainan-city",
-      "citySlug": "tainan",
-      "distance": 16.890961562180863
+      "citySlug": "hsinchu"
     },
     {
       "city": "Taichung",
       "state": "Taichung City",
       "stateSlug": "taichung-city",
-      "citySlug": "taichung",
-      "distance": 17.952283372879016
+      "citySlug": "taichung"
+    },
+    {
+      "city": "Tainan",
+      "state": "Tainan City",
+      "stateSlug": "tainan-city",
+      "citySlug": "tainan"
+    },
+    {
+      "city": "Taipei",
+      "state": "Taipei Municipality",
+      "stateSlug": "taipei-municipality",
+      "citySlug": "taipei"
     },
     {
       "city": "Kaohsiung",
       "state": "Kaohsiung Municipality",
       "stateSlug": "kaohsiung-municipality",
-      "citySlug": "kaohsiung",
-      "distance": 18.953261977810953
+      "citySlug": "kaohsiung"
     }
-  ],
-  "geohash": "wsnjd8j",
-  "geohashUrl": "https://geohash.softeng.co/wsnjd8j"
+  ]
 }

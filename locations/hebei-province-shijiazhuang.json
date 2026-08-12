@@ -5,7 +5,6 @@
   "stateSlug": "hebei-province",
   "citySlug": "shijiazhuang",
   "country": "China",
-  "pincode": "050000",
   "currency": "CNY",
   "symbol": "¥",
   "compliance": "MIIT Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+86",
   "timezone": "Asia/Shanghai",
-  "latitude": 35.1944,
-  "longitude": 105.0222,
-  "landmark": "Shijiazhuang District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over China Mobile networks. Failovers route over China Unicom, China Telecom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Shijiazhuang, China",
   "population": 4980637,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Harbin",
-      "state": "Heilongjiang Province",
-      "stateSlug": "heilongjiang-province",
-      "citySlug": "harbin",
-      "distance": 1.3889285978692536
+      "city": "Wenzhou",
+      "state": "Zhejiang Province",
+      "stateSlug": "zhejiang-province",
+      "citySlug": "wenzhou"
     },
     {
-      "city": "Kunming",
-      "state": "Yunnan Province",
-      "stateSlug": "yunnan-province",
-      "citySlug": "kunming",
-      "distance": 5.4546418328057245
+      "city": "Nanchang",
+      "state": "Jiangxi Province",
+      "stateSlug": "jiangxi-province",
+      "citySlug": "nanchang"
     },
     {
-      "city": "Zhengzhou",
-      "state": "Henan Province",
-      "stateSlug": "henan-province",
-      "citySlug": "zhengzhou",
-      "distance": 5.888329833639754
+      "city": "Nanning",
+      "state": "Guangxi Province",
+      "stateSlug": "guangxi-province",
+      "citySlug": "nanning"
     },
     {
-      "city": "Beijing",
-      "state": "Beijing Municipality",
-      "stateSlug": "beijing-municipality",
-      "citySlug": "beijing",
-      "distance": 7.9841689398370885
+      "city": "Taiyuan",
+      "state": "Shanxi Province",
+      "stateSlug": "shanxi-province",
+      "citySlug": "taiyuan"
     },
     {
-      "city": "Xian",
-      "state": "Shaanxi Province",
-      "stateSlug": "shaanxi-province",
-      "citySlug": "xian",
-      "distance": 9.14869106448923
+      "city": "Guiyang",
+      "state": "Guizhou Province",
+      "stateSlug": "guizhou-province",
+      "citySlug": "guiyang"
     }
-  ],
-  "geohash": "wq68jyf",
-  "geohashUrl": "https://geohash.softeng.co/wq68jyf"
+  ]
 }

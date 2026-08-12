@@ -5,7 +5,6 @@
   "stateSlug": "provence-alpes-cote-dazur",
   "citySlug": "marseille",
   "country": "France",
-  "pincode": "13001",
   "currency": "EUR",
   "symbol": "€",
   "compliance": "GDPR / ARCEP",
@@ -18,9 +17,6 @@
   "nodeType": "city_center",
   "dialingCode": "+33 1",
   "timezone": "Europe/Paris",
-  "latitude": 35.3542,
-  "longitude": 46.3616,
-  "landmark": "Marseille District Secretariat Enclave",
   "carrierQuality": "Primary edge trunk terminated over Orange networks. Failovers route over SFR, Bouygues, Free Mobile with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Marseille, France",
   "population": 3634572,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "GDPR compliance & ICO registrations",
   "nearbyLocations": [
     {
-      "city": "Baghdad",
-      "state": "Baghdad Governorate",
-      "stateSlug": "baghdad-governorate",
-      "citySlug": "baghdad",
-      "distance": 328.71470130849
+      "city": "Nantes",
+      "state": "Pays de la Loire",
+      "stateSlug": "pays-de-la-loire",
+      "citySlug": "nantes"
     },
     {
-      "city": "Erbil",
-      "state": "Kurdistan Region",
-      "stateSlug": "kurdistan-region",
-      "citySlug": "erbil",
-      "distance": 347.92021168853586
+      "city": "Rennes",
+      "state": "Brittany",
+      "stateSlug": "brittany",
+      "citySlug": "rennes"
     },
     {
-      "city": "Basra",
-      "state": "Basra Governorate",
-      "stateSlug": "basra-governorate",
-      "citySlug": "basra",
-      "distance": 348.9820667026429
+      "city": "Montpellier",
+      "state": "Occitanie",
+      "stateSlug": "occitanie",
+      "citySlug": "montpellier"
     },
     {
-      "city": "Mosul",
-      "state": "Nineveh Governorate",
-      "stateSlug": "nineveh-governorate",
-      "citySlug": "mosul",
-      "distance": 362.05318840012376
+      "city": "Grenoble",
+      "state": "Auvergne-Rhône-Alpes",
+      "stateSlug": "auvergne-rhone-alpes",
+      "citySlug": "grenoble"
     },
     {
-      "city": "Yerevan",
-      "state": "Yerevan Municipality",
-      "stateSlug": "yerevan-municipality",
-      "citySlug": "yerevan",
-      "distance": 537.7910943258908
+      "city": "Lyon",
+      "state": "Auvergne-Rhône-Alpes",
+      "stateSlug": "auvergne-rhone-alpes",
+      "citySlug": "lyon"
     }
-  ],
-  "geohash": "tn2cnup",
-  "geohashUrl": "https://geohash.softeng.co/tn2cnup"
+  ]
 }

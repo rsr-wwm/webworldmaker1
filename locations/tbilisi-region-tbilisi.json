@@ -5,7 +5,6 @@
   "stateSlug": "tbilisi-region",
   "citySlug": "tbilisi",
   "country": "Georgia",
-  "pincode": "0100",
   "currency": "GEL",
   "symbol": "₾",
   "compliance": "GNCC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+995",
   "timezone": "Asia/Tbilisi",
-  "latitude": 42.1817,
-  "longitude": 43.4041,
-  "landmark": "Tbilisi Industrial Growth Center",
   "carrierQuality": "Primary edge trunk terminated over MagtiCom networks. Failovers route over Silknet, Beeline with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Tbilisi, Georgia",
   "population": 3116497,
@@ -44,38 +40,7 @@
       "city": "Kutaisi",
       "state": "Imereti Region",
       "stateSlug": "imereti-region",
-      "citySlug": "kutaisi",
-      "distance": 11.025413531801808
-    },
-    {
-      "city": "Gyumri",
-      "state": "Shirak Province",
-      "stateSlug": "shirak-province",
-      "citySlug": "gyumri",
-      "distance": 269.8474920543063
-    },
-    {
-      "city": "Yerevan",
-      "state": "Yerevan Municipality",
-      "stateSlug": "yerevan-municipality",
-      "citySlug": "yerevan",
-      "distance": 274.4426175039721
-    },
-    {
-      "city": "Ganja",
-      "state": "Ganja District",
-      "stateSlug": "ganja-district",
-      "citySlug": "ganja",
-      "distance": 386.7692953712727
-    },
-    {
-      "city": "Baku",
-      "state": "Absheron District",
-      "stateSlug": "absheron-district",
-      "citySlug": "baku",
-      "distance": 401.3664379938733
+      "citySlug": "kutaisi"
     }
-  ],
-  "geohash": "szqzgwv",
-  "geohashUrl": "https://geohash.softeng.co/szqzgwv"
+  ]
 }

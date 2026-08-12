@@ -5,7 +5,6 @@
   "stateSlug": "mekong-delta",
   "citySlug": "can-tho",
   "country": "Vietnam",
-  "pincode": "900000",
   "currency": "VND",
   "symbol": "₫",
   "compliance": "MIC Regulations",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+84",
   "timezone": "Asia/Ho_Chi_Minh",
-  "latitude": 16.3607,
-  "longitude": 107.7425,
-  "landmark": "Can Tho Green Valley Digital Exchange",
   "carrierQuality": "Primary edge trunk terminated over Viettel networks. Failovers route over Vinaphone, Mobifone with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Can Tho, Vietnam",
   "population": 3102651,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Ho Chi Minh City",
-      "state": "Southeast Region",
-      "stateSlug": "southeast-region",
-      "citySlug": "ho-chi-minh-city",
-      "distance": 33.08345235867021
-    },
-    {
       "city": "Haiphong",
       "state": "Red River Delta",
       "stateSlug": "red-river-delta",
-      "citySlug": "haiphong",
-      "distance": 42.72114025377867
+      "citySlug": "haiphong"
+    },
+    {
+      "city": "Ho Chi Minh City",
+      "state": "Southeast Region",
+      "stateSlug": "southeast-region",
+      "citySlug": "ho-chi-minh-city"
     },
     {
       "city": "Danang",
       "state": "South Central Coast",
       "stateSlug": "south-central-coast",
-      "citySlug": "danang",
-      "distance": 42.97790975041194
+      "citySlug": "danang"
     },
     {
       "city": "Hanoi",
       "state": "Hanoi Capital",
       "stateSlug": "hanoi-capital",
-      "citySlug": "hanoi",
-      "distance": 43.91830073894357
-    },
-    {
-      "city": "Luang Prabang",
-      "state": "Luang Prabang Province",
-      "stateSlug": "luang-prabang-province",
-      "citySlug": "luang-prabang",
-      "distance": 339.8004901490902
+      "citySlug": "hanoi"
     }
-  ],
-  "geohash": "w6ut5dr",
-  "geohashUrl": "https://geohash.softeng.co/w6ut5dr"
+  ]
 }

@@ -5,7 +5,6 @@
   "stateSlug": "bogota-capital-district",
   "citySlug": "bogota",
   "country": "Colombia",
-  "pincode": "110111",
   "currency": "COP",
   "symbol": "$",
   "compliance": "CRC Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+57",
   "timezone": "America/Bogota",
-  "latitude": 3.9024,
-  "longitude": -72.0969,
-  "landmark": "Bogota Telecom Exchange Square",
   "carrierQuality": "Primary edge trunk terminated over Claro networks. Failovers route over Movistar, Tigo with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Bogota, Colombia",
   "population": 3914508,
@@ -41,41 +37,34 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
-      "city": "Bucaramanga",
-      "state": "Santander Department",
-      "stateSlug": "santander-department",
-      "citySlug": "bucaramanga",
-      "distance": 4.875563459102683
-    },
-    {
       "city": "Barranquilla",
       "state": "Atlantico Department",
       "stateSlug": "atlantico-department",
-      "citySlug": "barranquilla",
-      "distance": 15.585173161408864
+      "citySlug": "barranquilla"
     },
     {
-      "city": "Cali",
-      "state": "Valle del Cauca Department",
-      "stateSlug": "valle-del-cauca-department",
-      "citySlug": "cali",
-      "distance": 25.070855074808993
+      "city": "Bucaramanga",
+      "state": "Santander Department",
+      "stateSlug": "santander-department",
+      "citySlug": "bucaramanga"
     },
     {
       "city": "Cartagena",
       "state": "Bolivar Department",
       "stateSlug": "bolivar-department",
-      "citySlug": "cartagena",
-      "distance": 27.711352877389174
+      "citySlug": "cartagena"
     },
     {
       "city": "Medellin",
       "state": "Antioquia Department",
       "stateSlug": "antioquia-department",
-      "citySlug": "medellin",
-      "distance": 35.39496550348653
+      "citySlug": "medellin"
+    },
+    {
+      "city": "Cali",
+      "state": "Valle del Cauca Department",
+      "stateSlug": "valle-del-cauca-department",
+      "citySlug": "cali"
     }
-  ],
-  "geohash": "d2swpqk",
-  "geohashUrl": "https://geohash.softeng.co/d2swpqk"
+  ]
 }

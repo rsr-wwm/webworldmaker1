@@ -5,7 +5,6 @@
   "stateSlug": "maritime-region",
   "citySlug": "lome",
   "country": "Togo",
-  "pincode": "00000",
   "currency": "XOF",
   "symbol": "CFA",
   "compliance": "ARCEP Rules",
@@ -16,9 +15,6 @@
   "nodeType": "city_center",
   "dialingCode": "+228",
   "timezone": "Africa/Lome",
-  "latitude": 7.9888,
-  "longitude": 1.1605,
-  "landmark": "Lome Central Industrial Area Road",
   "carrierQuality": "Primary edge trunk terminated over Togocel networks. Failovers route over Moov with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Lome, Togo",
   "population": 1189053,
@@ -38,43 +34,5 @@
   "dominantB2BPainPoint": "Lack of real-time CRM tracking for conversational ad campaigns",
   "aiReadiness": "High: Integrating AI agents into customer support systems",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Porto-Novo",
-      "state": "Oueme Department",
-      "stateSlug": "oueme-department",
-      "citySlug": "porto-novo",
-      "distance": 214.56380620600626
-    },
-    {
-      "city": "Accra",
-      "state": "Greater Accra",
-      "stateSlug": "greater-accra",
-      "citySlug": "accra",
-      "distance": 331.75969398558664
-    },
-    {
-      "city": "Kumasi",
-      "state": "Ashanti Region",
-      "stateSlug": "ashanti-region",
-      "citySlug": "kumasi",
-      "distance": 368.83214536076014
-    },
-    {
-      "city": "Bobo-Dioulasso",
-      "state": "Hauts-Bassins",
-      "stateSlug": "hauts-bassins",
-      "citySlug": "bobo-dioulasso",
-      "distance": 646.1184576054576
-    },
-    {
-      "city": "Ouagadougou",
-      "state": "Centre Region",
-      "stateSlug": "centre-region",
-      "citySlug": "ouagadougou",
-      "distance": 647.2691755552676
-    }
-  ],
-  "geohash": "s12v6qm",
-  "geohashUrl": "https://geohash.softeng.co/s12v6qm"
+  "nearbyLocations": []
 }

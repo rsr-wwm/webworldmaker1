@@ -5,7 +5,6 @@
   "stateSlug": "lakshadweep",
   "citySlug": "kalpeni",
   "country": "India",
-  "pincode": "682557",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 33",
   "timezone": "Asia/Kolkata",
-  "latitude": 26.8557,
-  "longitude": 72.7079,
-  "landmark": "Kalpeni Commercial Market Circle",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Kalpeni, India",
   "population": 961372,
   "mobileUsers": 709492,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Rayagada",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "rayagada",
-      "distance": 30.19391608900067
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Godhra",
-      "state": "Gujarat",
-      "stateSlug": "gujarat",
-      "citySlug": "godhra",
-      "distance": 32.52908651270219
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Khairatabad",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "khairatabad",
-      "distance": 55.75029091323863
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Loktak Project",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "loktak-project",
-      "distance": 67.37186122604587
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Peddapalli",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "peddapalli",
-      "distance": 68.95502253752777
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tsg8y8b",
-  "geohashUrl": "https://geohash.softeng.co/tsg8y8b"
+  ]
 }

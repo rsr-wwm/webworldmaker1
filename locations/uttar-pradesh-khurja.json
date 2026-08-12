@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "khurja",
   "country": "India",
-  "pincode": "203131",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 19.9,
-  "longitude": 80.8649,
-  "landmark": "Khurja Metropolitan IT Corridor",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Khurja, India",
   "population": 2846104,
   "mobileUsers": 2163039,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Bolganj bazar",
-      "state": "Meghalaya",
-      "stateSlug": "meghalaya",
-      "citySlug": "bolganj-bazar",
-      "distance": 89.11248371636746
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Kamalghat",
-      "state": "Tripura",
-      "stateSlug": "tripura",
-      "citySlug": "kamalghat",
-      "distance": 98.91440938131622
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Kiphir",
-      "state": "Nagaland",
-      "stateSlug": "nagaland",
-      "citySlug": "kiphir",
-      "distance": 103.26694570216543
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Meerut",
-      "state": "Uttar Pradesh",
-      "stateSlug": "uttar-pradesh",
-      "citySlug": "meerut",
-      "distance": 120.28413616515071
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Barasat",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "barasat",
-      "distance": 135.8736013078215
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tg990ns",
-  "geohashUrl": "https://geohash.softeng.co/tg990ns"
+  ]
 }

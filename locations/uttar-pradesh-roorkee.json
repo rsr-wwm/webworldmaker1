@@ -5,7 +5,6 @@
   "stateSlug": "uttar-pradesh",
   "citySlug": "roorkee",
   "country": "India",
-  "pincode": "247667",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 522",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.5997,
-  "longitude": 68.8314,
-  "landmark": "Roorkee Railway Station Chowk Node",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Roorkee, India",
   "population": 8149648,
   "mobileUsers": 5892195,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Chapra",
-      "state": "Bihar",
-      "stateSlug": "bihar",
-      "citySlug": "chapra",
-      "distance": 46.847521649072426
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "stateSlug": "madhya-pradesh",
+      "citySlug": "bhopal"
     },
     {
-      "city": "Bargarh",
-      "state": "Orissa",
-      "stateSlug": "orissa",
-      "citySlug": "bargarh",
-      "distance": 73.71319928535988
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "nagpur"
     },
     {
-      "city": "Ferozepur",
+      "city": "Jalandhar",
       "state": "Punjab",
       "stateSlug": "punjab",
-      "citySlug": "ferozepur",
-      "distance": 87.91074035310419
+      "citySlug": "jalandhar"
     },
     {
-      "city": "Purulai",
-      "state": "West Bengal",
-      "stateSlug": "west-bengal",
-      "citySlug": "purulai",
-      "distance": 111.7055822299694
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
     },
     {
-      "city": "Bhongir",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "bhongir",
-      "distance": 118.03355261853177
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "td0zwm9",
-  "geohashUrl": "https://geohash.softeng.co/td0zwm9"
+  ]
 }

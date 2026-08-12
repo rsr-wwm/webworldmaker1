@@ -5,7 +5,6 @@
   "stateSlug": "gauteng",
   "citySlug": "johannesburg",
   "country": "South Africa",
-  "pincode": "2000",
   "currency": "ZAR",
   "symbol": "R",
   "compliance": "ICASA Guidelines",
@@ -17,9 +16,6 @@
   "nodeType": "city_center",
   "dialingCode": "+27",
   "timezone": "Africa/Johannesburg",
-  "latitude": -29.1462,
-  "longitude": 23.9273,
-  "landmark": "Johannesburg State Highway Crossing Terminal",
   "carrierQuality": "Primary edge trunk terminated over Vodacom networks. Failovers route over MTN, Telkom with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Johannesburg, South Africa",
   "population": 1081388,
@@ -41,41 +37,28 @@
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
   "nearbyLocations": [
     {
+      "city": "Durban",
+      "state": "KwaZulu-Natal",
+      "stateSlug": "kwazulu-natal",
+      "citySlug": "durban"
+    },
+    {
       "city": "Port Elizabeth",
       "state": "Eastern Cape",
       "stateSlug": "eastern-cape",
-      "citySlug": "port-elizabeth",
-      "distance": 6.3321585977391885
+      "citySlug": "port-elizabeth"
     },
     {
       "city": "Cape Town",
       "state": "Western Cape",
       "stateSlug": "western-cape",
-      "citySlug": "cape-town",
-      "distance": 14.81991609873595
+      "citySlug": "cape-town"
     },
     {
       "city": "Pretoria",
       "state": "Gauteng",
       "stateSlug": "gauteng",
-      "citySlug": "pretoria",
-      "distance": 19.038872897527007
-    },
-    {
-      "city": "Durban",
-      "state": "KwaZulu-Natal",
-      "stateSlug": "kwazulu-natal",
-      "citySlug": "durban",
-      "distance": 26.035349830224938
-    },
-    {
-      "city": "Maseru",
-      "state": "Maseru District",
-      "stateSlug": "maseru-district",
-      "citySlug": "maseru",
-      "distance": 438.9133082179401
+      "citySlug": "pretoria"
     }
-  ],
-  "geohash": "kdc40qp",
-  "geohashUrl": "https://geohash.softeng.co/kdc40qp"
+  ]
 }

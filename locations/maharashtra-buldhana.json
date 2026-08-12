@@ -5,7 +5,6 @@
   "stateSlug": "maharashtra",
   "citySlug": "buldhana",
   "country": "India",
-  "pincode": "443001",
   "currency": "INR",
   "symbol": "₹",
   "compliance": "TRAI DLT registered",
@@ -18,10 +17,7 @@
   "nodeType": "city_center",
   "dialingCode": "+91 22",
   "timezone": "Asia/Kolkata",
-  "latitude": 12.1328,
-  "longitude": 86.1343,
-  "landmark": "Buldhana Telecom Exchange Square",
-  "carrierQuality": "Optimized routes via direct SMPP binds connected directly to Jio regional gateways. Network uses dual-link redundancy through Airtel, Vi (Vodafone Idea), BSNL for high-availability delivery.",
+  "carrierQuality": "Carrier routing engineered for high-availability message delivery across major regional mobile networks including Jio, Airtel, Vi, and BSNL with automated routing redundancy.",
   "localSupport": "Remote regional support and carrier network coverage for Buldhana, India",
   "population": 7347432,
   "mobileUsers": 5378320,
@@ -42,41 +38,34 @@
   "localComplianceRequirement": "DLT Template Registration & TRAI Guidelines",
   "nearbyLocations": [
     {
-      "city": "Yeshwant Road (Indore)",
+      "city": "Bhopal",
       "state": "Madhya Pradesh",
       "stateSlug": "madhya-pradesh",
-      "citySlug": "yeshwant-road-indore",
-      "distance": 41.902045858805025
+      "citySlug": "bhopal"
     },
     {
-      "city": "Nagercoil",
-      "state": "Tamil Nadu",
-      "stateSlug": "tamil-nadu",
-      "citySlug": "nagercoil",
-      "distance": 51.32643885054732
-    },
-    {
-      "city": "Churachandpur",
-      "state": "Manipur",
-      "stateSlug": "manipur",
-      "citySlug": "churachandpur",
-      "distance": 59.44016940915273
-    },
-    {
-      "city": "Satara",
+      "city": "Nagpur",
       "state": "Maharashtra",
       "stateSlug": "maharashtra",
-      "citySlug": "satara",
-      "distance": 63.742671499578584
+      "citySlug": "nagpur"
     },
     {
-      "city": "Samalkot",
-      "state": "Andhra Pradesh",
-      "stateSlug": "andhra-pradesh",
-      "citySlug": "samalkot",
-      "distance": 90.15651113812498
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "stateSlug": "punjab",
+      "citySlug": "jalandhar"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "stateSlug": "maharashtra",
+      "citySlug": "mumbai"
+    },
+    {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "stateSlug": "delhi",
+      "citySlug": "new-delhi"
     }
-  ],
-  "geohash": "tfjm009",
-  "geohashUrl": "https://geohash.softeng.co/tfjm009"
+  ]
 }

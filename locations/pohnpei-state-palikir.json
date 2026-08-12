@@ -5,7 +5,6 @@
   "stateSlug": "pohnpei-state",
   "citySlug": "palikir",
   "country": "Micronesia",
-  "pincode": "96941",
   "currency": "USD",
   "symbol": "$",
   "compliance": "TRA Rules",
@@ -15,9 +14,6 @@
   "nodeType": "city_center",
   "dialingCode": "+691",
   "timezone": "Pacific/Chuuk",
-  "latitude": 6.9385,
-  "longitude": 158.3214,
-  "landmark": "Palikir Techno Park Terminal Hub",
   "carrierQuality": "Primary edge trunk terminated over FSMTC networks. Failovers route over local regional carriers with active latency policing loops.",
   "localSupport": "Remote regional support and carrier network coverage for Palikir, Micronesia",
   "population": 2042105,
@@ -37,43 +33,5 @@
   "dominantB2BPainPoint": "High support ticket volumes blocking customer agent response times",
   "aiReadiness": "Ultra-High: High tech density & rapid AI agent adoption",
   "localComplianceRequirement": "Regional Carrier Regulations & Local Spam policies",
-  "nearbyLocations": [
-    {
-      "city": "Majuro",
-      "state": "Majuro Atoll",
-      "stateSlug": "majuro-atoll",
-      "citySlug": "majuro",
-      "distance": 1092.9240167374453
-    },
-    {
-      "city": "Yaren",
-      "state": "Yaren District",
-      "stateSlug": "yaren-district",
-      "citySlug": "yaren",
-      "distance": 1249.8419386057687
-    },
-    {
-      "city": "Hagatna",
-      "state": "Guam Territory",
-      "stateSlug": "guam-territory",
-      "citySlug": "hagatna",
-      "distance": 1653.6483309473329
-    },
-    {
-      "city": "Honiara",
-      "state": "Guadalcanal Province",
-      "stateSlug": "guadalcanal-province",
-      "citySlug": "honiara",
-      "distance": 1658.5609080189283
-    },
-    {
-      "city": "Tarawa",
-      "state": "Gilbert Islands",
-      "stateSlug": "gilbert-islands",
-      "citySlug": "tarawa",
-      "distance": 1741.1550721384115
-    }
-  ],
-  "geohash": "x90x6xn",
-  "geohashUrl": "https://geohash.softeng.co/x90x6xn"
+  "nearbyLocations": []
 }
