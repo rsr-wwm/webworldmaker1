@@ -4,11 +4,11 @@
 
 > WebWorldMaker builds business communication, automation, web application, AI integration, and search visibility systems for companies that need measurable digital operations and compliance-aware implementation support.
 
-Last generated: 2026-08-12
+Last generated: 2026-08-15
 Canonical site: https://webworldmaker.com
 Navigation index: https://webworldmaker.com/llms.txt
 
-This file flattens the public content of webworldmaker.com — services, solutions, products, industries, problems, comparisons, glossary, and blog — into one plain-markdown corpus for LLM ingestion. Any public page can also be requested as clean Markdown by appending `?format=markdown` or sending an `Accept: text/markdown` header.
+This file flattens the public content of webworldmaker.com — services, solutions, products, industries, problems, comparisons, glossary, and blog — into one plain-markdown corpus for LLM ingestion and retrieval.
 
 ---
 

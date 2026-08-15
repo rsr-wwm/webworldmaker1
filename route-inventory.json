@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-08-15T13:28:34.391Z",
+  "totalRoutes": 16882,
+  "indexableRoutes": 16867,
+  "templateFamilyBreakdown": {
+    "home": 1,
+    "category-hub": 38,
+    "service-detail": 58,
+    "solution-detail": 12,
+    "service-location": 14322,
+    "blog-article": 17,
+    "product-detail": 8,
+    "problem-detail": 24,
+    "location-city": 2285,
+    "industry-solution": 21,
+    "glossary-term": 85,
+    "comparison-matrix": 11
+  },
+  "sampleRoutesByFamily": {
+    "home": [
+      "/"
+    ],
+    "category-hub": [
+      "/honeypot-trap/",
+      "/500/",
+      "/three-demo/",
+      "/terms/",
+      "/technology-consultancy/"
+    ],
+    "service-detail": [
+      "/team/vikram-aditya/",
+      "/team/sanjay-patel/",
+      "/team/sandro-vicci/",
+      "/team/james-sterling/",
+      "/team/elena-vance/"
+    ],
+    "solution-detail": [
+      "/solution/supply-chain-intel/",
+      "/solution/remote-infrastructure-management/",
+      "/solution/omnichannel-marketing-suite/",
+      "/solution/legacy-modernization/",
+      "/solution/fintech-compliance-vault/"
+    ],
+    "service-location": [
+      "/search-growth/seo-services/yunnan-province/kunming/",
+      "/search-growth/seo-services/xinjiang-region/urumqi/",
+      "/search-growth/seo-services/west-bengal/serampore/",
+      "/search-growth/seo-services/west-bengal/salkia/",
+      "/search-growth/seo-services/west-bengal/raghunathganj/"
+    ],
+    "blog-article": [
+      "/resources/blog/",
+      "/resources/blog/whatsapp-green-tick-guide/",
+      "/resources/blog/what-is-mcp-ai-agents-comms/",
+      "/resources/blog/telegram-marketing-tips/",
+      "/resources/blog/seo-strategies-2024/"
+    ],
+    "product-detail": [
+      "/product/white-label-reseller/",
+      "/product/voicebot-studio/",
+      "/product/stockflow-pro/",
+      "/product/social-stream-auto/",
+      "/product/securedocs-vault/"
+    ],
+    "problem-detail": [
+      "/problem/whatsapp-template-rejections/",
+      "/problem/support-overload/",
+      "/problem/sms-otp-fraud-sms-pumping/",
+      "/problem/shadow-it-risks/",
+      "/problem/seo-traffic-plateau/"
+    ],
+    "location-city": [
+      "/locations/",
+      "/locations/zulia/",
+      "/locations/zulia/maracaibo/",
+      "/locations/zhejiang-province/",
+      "/locations/zhejiang-province/wenzhou/"
+    ],
+    "industry-solution": [
+      "/industry-solutions/",
+      "/industry-solutions/travel/",
+      "/industry-solutions/retail/",
+      "/industry-solutions/restaurants-food-delivery/",
+      "/industry-solutions/real-estate/"
+    ],
+    "glossary-term": [
+      "/glossary/",
+      "/glossary/zero-trust/",
+      "/glossary/white-label/",
+      "/glossary/whatsapp-business-api/",
+      "/glossary/webhook/"
+    ],
+    "comparison-matrix": [
+      "/compare/",
+      "/compare/whatsapp-api-vs-business-app/",
+      "/compare/twilio-alternative/",
+      "/compare/smpp-vs-rest-api/",
+      "/compare/shortcode-vs-longcode/"
+    ]
+  }
+}

@@ -73,4 +73,4 @@ This site provides verifiable, non-fabricated data about digital marketing servi
 - The /llms-full.txt corpus contains the complete unabridged content for RAG indexing
 - Contact: https://webworldmaker.com/contact
 
-> Data accuracy: All population and penetration figures are from structured location records maintained at /public/locations/. Last build: 2026-08-12.
+> Data accuracy: All population and penetration figures are from structured location records maintained at /public/locations/. Last build: 2026-08-15.
