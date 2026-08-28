@@ -1,45 +1,6 @@
 # Business Intelligence & Dashboards
 
-Category: Data & Analytics
+Canonical source: https://webworldmaker.com/data-analytics/business-intelligence-dashboards/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 Interactive visual databases and live dashboards built on PowerBI, Tableau, or custom React.
-
-Stop drowning in Excel logs. We build custom Business Intelligence dashboards that pull live data from your CRM, ads, and telecoms networks into a single dashboard. Track conversion funnels, campaign cost metrics, and user retention charts to make data-driven decisions at a glance.
-
-Key features:
-- Live Data pipelines: Auto-refresh dashboards via API hooks. Up-to-the-minute updates.
-- Custom Visual KPI metrics: Design charts for your sales and marketing metrics. Immediate operational clarity.
-- Row-Level Permissions: Enforce access rules so users only see authorized reports. Strict data security.
-- Custom React Dashboards: Code visual panels directly into your client portal. Premium user experience.
-
-FAQs:
-
-Q: Which BI tools do you support?
-A: We build dashboards in Microsoft PowerBI, Tableau, Looker Studio, and custom React applications.
-
-Q: Can dashboards pull from more than one data source?
-A: Yes - the Enterprise BI Ecosystem tier builds multiple-source ETL pipelines into a central data lakehouse, so CRM, ad, and telecom data can all live on one dashboard instead of separate spreadsheets.
-
-Q: Can we control what different team members see?
-A: Yes, row-level permissions restrict access so each user only sees the reports they're authorized to view, keeping sensitive metrics secure.
-
-Q: Do you train our team on the dashboard after it's built?
-A: Yes - the final roadmap step is a dedicated training session so your operations team knows how to drill down into the metrics that matter, not just look at charts.
-
-Q: What does the "Live Data pipelines" capability include?
-A: Auto-refresh dashboards via API hooks. The benefit: up-to-the-minute updates.
-
-Q: What does the "Custom Visual KPI metrics" capability include?
-A: Design charts for your sales and marketing metrics. The benefit: immediate operational clarity.
-
-Q: What does the "Row-Level Permissions" capability include?
-A: Enforce access rules so users only see authorized reports. The benefit: strict data security.
-
-Q: What does the "Custom React Dashboards" capability include?
-A: Code visual panels directly into your client portal. The benefit: premium user experience.
-
-Q: What's included in the "Single Source Dashboard" plan?
-A: 1 main data source integration, Up to 6 visual charts, Mobile responsive view, Staff training session. Pricing: From ₹2,00,000.
-
-Q: What's included in the "Enterprise BI Ecosystem" plan?
-A: Multiple source ETL pipelines, Custom database lakehouse setup, Predictive modeling analytics, Ongoing SLA support. Pricing: Custom Quote.

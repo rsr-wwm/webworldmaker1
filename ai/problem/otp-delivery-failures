@@ -1,21 +1,6 @@
 # Your OTPs Aren't Arriving in Time
 
-Login and verification codes are delayed, dropped, or blocked by spam filters, costing you signups.
+Canonical source: https://webworldmaker.com/problem/otp-delivery-failures/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 Every second an OTP takes to arrive is a chance for a user to give up on signing up, logging in, or completing a payment. Aggregator routing, unregistered sender IDs, and single-channel delivery all create silent failure points that standard analytics rarely surface until churn shows up downstream.
-
-Symptoms:
-- Support tickets about codes that 'never arrived'
-- High OTP resend rates inflating your messaging bill
-- Signup or checkout abandonment right at the verification step
-- No visibility into which routes or operators are failing
-
-Our solution: We route OTPs over direct Premium Carrier carrier binds instead of aggregator hops, and layer automatic Voice or WhatsApp fallback when SMS is not confirmed within a few seconds, so verification completes even when one channel is congested.
-
-FAQs:
-
-Q: How fast should an OTP arrive?
-A: On a direct carrier route, OTPs typically arrive in seconds. If yours regularly take longer, aggregator routing is the likely cause.
-
-Q: Does a fallback channel add cost?
-A: Fallback only fires when the primary channel fails to confirm, so it adds cost only on the deliveries that would otherwise have been lost anyway.

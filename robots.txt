@@ -20,7 +20,6 @@ Allow: /
 Disallow: /admin
 Disallow: /api
 Disallow: /drafts
-Disallow: /llms-private.txt
 
 # Throttle aggressive scrapers to save server CPU crawl budget
 User-agent: SemrushBot
@@ -32,14 +31,12 @@ Crawl-delay: 5
 Disallow: /admin
 Disallow: /api
 Disallow: /drafts
-Disallow: /llms-private.txt
 
 User-agent: *
 Allow: /
 Disallow: /admin
 Disallow: /api
 Disallow: /drafts
-Disallow: /llms-private.txt
 
 # LLM Manifest Reference
 # Info-url: https://webworldmaker.com/llms.txt
@@ -47,9 +44,5 @@ Disallow: /llms-private.txt
 
 Sitemap: https://webworldmaker.com/sitemap.xml
 Sitemap: https://webworldmaker.com/sitemap-images.xml
-Sitemap: https://webworldmaker.com/sitemap-locations-1.xml
-Sitemap: https://webworldmaker.com/sitemap-locations-2.xml
-Sitemap: https://webworldmaker.com/sitemap-service-locations-1.xml
-Sitemap: https://webworldmaker.com/sitemap-service-locations-2.xml
 Sitemap: https://webworldmaker.com/sitemap-main.xml
 Sitemap: https://webworldmaker.com/sitemap-delta.xml

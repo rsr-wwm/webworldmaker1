@@ -1,51 +1,6 @@
 # CRM Connector Hub
 
-Tagline: Get all your apps talking to each other.
+Canonical source: https://webworldmaker.com/product/crm-connector-hub/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
-A simple way to sync systems like Salesforce and HubSpot in real-time.
-
-Stop wasting time with manual data entry. The CRM Connector Hub is the central brain for your business data. It watches for changes in one app and instantly updates the others. New lead on Facebook? It's in your CRM in seconds. New sale in Shopify? Your marketing team knows about it instantly.
-
-Key features:
-- Real-time Sync: No 15-min delays. Instant data accuracy.
-- Custom Mappings: Map any field to any field. Flexible data structure.
-- Error Handling: Auto-retry on failure. Reliable pipelines.
-- Visual Logs: See exactly what moved where. Total transparency.
-
-Benefits:
-- No Manual Entry
-- Single Source of Truth
-- Happy Sales Team
-- Better Reporting
-
-FAQs:
-
-Q: Do you store our data?
-A: No, we stream it securely via HTTPS. We do not store your customer records persistently.
-
-Q: Does it work with HubSpot?
-A: Yes, we have deep native connectors for HubSpot, Salesforce, Zoho, and Pipedrive.
-
-Q: Is there a delay?
-A: Our "Direct Stream" technology ensures data moves in under 500 milliseconds across most platforms.
-
-Q: What if an API is down?
-A: The Hub keeps a "Replay Queue" and automatically retries the sync once the software is back online.
-
-Q: Can we connect our own app?
-A: Yes, we provide a "Custom Webhook" block to connect any software that can send or receive data.
-
-Q: What is an "Event"?
-A: An event is any single piece of data (like a new lead or an updated order) that moves through the hub.
-
-Q: Is there a data size limit?
-A: We support payloads up to 10MB per event, covering almost all standard business data.
-
-Q: Can we sync old data?
-A: Yes, our "Bulk Sync" tool allows you to migrate thousands of historical records in one go.
-
-Q: What does the "Real-time Sync" capability include?
-A: No 15-min delays. The benefit: instant data accuracy.
-
-Q: What does the "Custom Mappings" capability include?
-A: Map any field to any field. The benefit: flexible data structure.
+Get all your apps talking to each other.

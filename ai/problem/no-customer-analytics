@@ -1,21 +1,6 @@
 # You Don't Know Why Customers Are Leaving
 
-You can see the churn number, but not which behaviors or moments actually predict it.
+Canonical source: https://webworldmaker.com/problem/no-customer-analytics/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 Without behavioral analytics connecting product usage, support interactions, and billing events, churn shows up as a lagging number with no visibility into its leading indicators, which means retention efforts are reactive instead of targeted.
-
-Symptoms:
-- Churn rate is visible but its causes are not
-- No way to identify at-risk accounts before they cancel
-- Retention efforts applied broadly instead of to accounts that actually need them
-- Product and support data live in separate, disconnected tools
-
-Our solution: We connect product usage, support, and billing data into a unified customer analytics view, surfacing the behavioral signals that precede churn so retention efforts can target the accounts actually at risk, before they cancel.
-
-FAQs:
-
-Q: How much historical data do we need?
-A: Useful patterns can often be found with as little as six to twelve months of combined usage and churn data, though more history improves accuracy.
-
-Q: Does this require a data science team?
-A: Not necessarily at the start. Simple rule-based risk scoring can surface real value before investing in more advanced predictive models.

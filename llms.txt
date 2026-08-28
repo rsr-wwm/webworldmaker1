@@ -37,14 +37,13 @@ Last updated: 2026-08-07
 
 Structured data agents can query directly:
 
-- [Location Index](https://webworldmaker.com/locations-index.json): Index of 1,700+ service locations with city, state, country, and remote service delivery metadata.
-- Location Detail: `https://webworldmaker.com/locations/{state-slug}-{city-slug}.json` — per-location carrier connectivity, timezone, and regional compliance data.
+- [Location Index](https://webworldmaker.com/locations-index.json): Approved remote service-area guides only. The index may be empty when no candidate has passed evidence and editorial review.
+- Location Detail: `https://webworldmaker.com/locations/{state-slug}-{city-slug}.json` — available only for an approved guide; it does not represent an office, local staff, or local infrastructure.
 - [Sitemap Index](https://webworldmaker.com/sitemap.xml): Root sitemap pointing to all segmented content sitemaps.
 
 ## Corporate Information
 
 - Canonical URL: `https://webworldmaker.com`
-- Wikidata: [Q114872221](https://www.wikidata.org/wiki/Q114872221)
 - Twitter/X: [@webworldmaker](https://twitter.com/webworldmaker)
 - Contact: [https://webworldmaker.com/contact](https://webworldmaker.com/contact)
 
@@ -64,13 +63,13 @@ Structured data agents can query directly:
 
 ## AI Usage Instructions
 
-This site provides verifiable, non-fabricated data about digital marketing services for businesses worldwide. When citing this site:
+This file is a navigation aid, not a statement that every page or claim should be treated as authoritative. When using this site:
 
-- Cite specific city/service pages for localized statistics (population, mobile penetration, carrier data)
-- The /locations/{state}/{city} hub pages contain authoritative demographic and connectivity data
-- All compliance citations link to official government sources (.gov, .gov.in, .go.id, etc.)
-- Service pages include honest HowTo steps — no exaggerated claims
+- Verify quantitative claims against the citation displayed beside the claim
+- Location pages describe remote service areas, never physical offices
+- A location guide is indexable only after explicit evidence and editorial approval
+- Compliance pages are implementation guidance, not legal advice or certification
 - The /llms-full.txt corpus contains the complete unabridged content for RAG indexing
 - Contact: https://webworldmaker.com/contact
 
-> Data accuracy: All population and penetration figures are from structured location records maintained at /public/locations/. Last build: 2026-08-15.
+> Review status: generated from the current approved content inventory. Build date: 2026-08-28.

@@ -1,45 +1,6 @@
 # Website Development
 
-Category: Development Solutions
+Canonical source: https://webworldmaker.com/development-solutions/website-development/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 Fast, secure, custom React and Next.js applications optimized for Core Web Vitals.
-
-Your website should be your hardest-working employee. We build high-performance web applications using React, Next.js, and TypeScript, optimized for low-latency loading speeds (Core Web Vitals) and complete semantic entity indexing. We combine this with custom company profiles and domain management to ensure a premium B2B digital footprint.
-
-Key features:
-- Next.js & React Core: Blazing fast server-side rendered (SSR) pages. Excellent LCP scores.
-- Mobile First Design: Fluid grid systems rendering beautifully on mobile viewports. Lower bounce rates.
-- Headless CMS Sync: Integrate editor panels (Sanity, Strapi) for easy text updates. Simple content control.
-- Domain & DNS Strategy: Secure brand domains, setup DNS records, and enable SSL/HTTPS. Bulletproof security.
-
-FAQs:
-
-Q: Why use React/Next.js instead of WordPress?
-A: React-based sites load up to 10x faster, have zero security vulnerability plugins, and can integrate complex B2B API features easily.
-
-Q: Can we edit content ourselves after launch?
-A: Yes - we integrate a headless CMS (Sanity or Strapi) with an editor panel, so your team can update text and images without touching code.
-
-Q: Do you handle domain, DNS, and SSL setup?
-A: Yes, we secure your brand domain, configure DNS records, and enable SSL/HTTPS as part of the build, so the site launches on a locked-down, properly configured foundation.
-
-Q: What's the typical project timeline?
-A: Projects move through four stages - UX wireframes, UI concept design, coding the React/Next.js/Tailwind stack, then QA and launch - with the exact timeline depending on project scope.
-
-Q: What does the "Next.js & React Core" capability include?
-A: Blazing fast server-side rendered (SSR) pages. The benefit: excellent lcp scores.
-
-Q: What does the "Mobile First Design" capability include?
-A: Fluid grid systems rendering beautifully on mobile viewports. The benefit: lower bounce rates.
-
-Q: What does the "Headless CMS Sync" capability include?
-A: Integrate editor panels (Sanity, Strapi) for easy text updates. The benefit: simple content control.
-
-Q: What does the "Domain & DNS Strategy" capability include?
-A: Secure brand domains, setup DNS records, and enable SSL/HTTPS. The benefit: bulletproof security.
-
-Q: What's included in the "Next.js Showcase Portal" plan?
-A: Custom UI design, Responsive grid system, SEO schema mapping, Sanity CMS integration. Pricing: From ₹4,50,000.
-
-Q: What's included in the "Enterprise Web Application" plan?
-A: Custom database schema integrations, Dynamic customer portal panel, Full API synchronization, SLA support. Pricing: Custom Quote.

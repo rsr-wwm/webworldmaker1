@@ -1,45 +1,6 @@
 # Autonomous AI Voice Agents
 
-Category: AI Solutions
+Canonical source: https://webworldmaker.com/ai-solutions/voice-agents/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 Natural-sounding voice AI agents that handle inbound support calls and outbound lead qualifying.
-
-Your customers don't want to wait on hold. Our AI Voice Agents answer calls in under a second, talk in natural tones, and resolve queries without robotic menu clicks. Built on ultra-low latency voice pipelines, they qualify incoming leads, schedule appointments, and coordinate support calls automatically.
-
-Key features:
-- Low-Latency Processing: Sub-500ms conversation loops for natural pacing. Zero awkward silence.
-- Custom Voice Cloning: Brand-specific voices matching your preferred tone and accent. Enhanced brand consistency.
-- CRM Integration: Log call summaries and scheduled tasks during the live call. Automatic record keeping.
-- Outbound Qualification: Automate outbound calls to qualify web leads in real time. Speed-to-lead advantage.
-
-FAQs:
-
-Q: Does the voice agent sound robotic?
-A: No. We use state-of-the-art neural text-to-speech models that replicate natural speech patterns, inflections, and pauses.
-
-Q: Can it route the call to a human if the customer asks?
-A: Yes. The voice agent detects requests for human help and transfers the live call to your office desk via SIP forwarding.
-
-Q: What does the "Low-Latency Processing" capability include?
-A: Sub-500ms conversation loops for natural pacing. The benefit: zero awkward silence.
-
-Q: What does the "Custom Voice Cloning" capability include?
-A: Brand-specific voices matching your preferred tone and accent. The benefit: enhanced brand consistency.
-
-Q: What does the "CRM Integration" capability include?
-A: Log call summaries and scheduled tasks during the live call. The benefit: automatic record keeping.
-
-Q: What does the "Outbound Qualification" capability include?
-A: Automate outbound calls to qualify web leads in real time. The benefit: speed-to-lead advantage.
-
-Q: What's included in the "Single Purpose Voice Bot" plan?
-A: Core inbound/outbound engine, 1 voice profile, Calendar sync, Call logging. Pricing: From ₹5,00,000.
-
-Q: What's included in the "Custom Enterprise Voice Stack" plan?
-A: Cloned brand voice, Complex transactional databases integration, Intelligent human routing fallback, Dedicated server setup. Pricing: From ₹12,0,000.
-
-Q: Can you share an example of this in action?
-A: Home Services Agency: Built an inbound voice agent that scheduled emergency technician visits during after-hours, capturing 20% more revenue.
-
-Q: What happens during the "Script & Logic Mapping" stage?
-A: Deconstruct calling protocols, qualification criteria, and CRM logging steps.

@@ -1,45 +1,6 @@
 # Voice & IVR Solutions
 
-Category: Mobile Communication & Customer Engagement
+Canonical source: https://webworldmaker.com/mobile-business-communication/voice-ivr/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 Outbound voice broadcasting (OBD), neural answering machine detection, and multi-level interactive voice menus.
-
-Deliver impact with voice communication. We combine outbound voice broadcasting (OBD) and Toll-Free numbers (1800/1860) with custom multi-level cloud IVR systems. Powered by neural Answering Machine Detection (AMD) and DTMF capture, our voice solutions route calls dynamically, verify logins via Voice OTP, and conduct automated phone surveys. Rest assured with carrier-grade SIP trunking infrastructure.
-
-Key features:
-- Outbound Broadcaster (OBD): Broadcast pre-recorded calls or AI text-to-speech to 10k+ contacts simultaneously. Instant regional alerts.
-- Cloud IVR Attendant: Design multi-level DTMF menu paths ("Press 1 for Sales, 2 for Support"). Zero missed inbound calls.
-- Answering Machine Detection: Identify and filter out voice mailboxes in under 1.2 seconds of call setup. Save call credits.
-- Toll-Free Numbers: Provision 1800/1860 toll-free lines for premium branding and incoming lead capture. Lower caller friction.
-
-FAQs:
-
-Q: Can we port existing numbers?
-A: Yes, we handle the technical transition and configuration to move your current toll-free or virtual numbers to our SIP gateway.
-
-Q: What is Neural AMD?
-A: It is a machine-learning algorithm that listens to the first seconds of a call to distinguish human speech from automated mailboxes, routing the call accordingly.
-
-Q: How is outbound dialing priced?
-A: Enterprise Outbound dialer is billed per call, from ₹0.25 to ₹0.40, with neural AMD, SIP trunk termination, and CRM hook APIs included. Inbound IVR is a flat ₹1,999/mo for toll-free setup, menu configuration, and call log access.
-
-Q: Can callers reach the right department without waiting?
-A: Yes - the Cloud IVR Attendant lets you design multi-level DTMF menus ("Press 1 for Sales, 2 for Support") so inbound calls route directly without a receptionist.
-
-Q: What does the "Outbound Broadcaster (OBD)" capability include?
-A: Broadcast pre-recorded calls or AI text-to-speech to 10k+ contacts simultaneously. The benefit: instant regional alerts.
-
-Q: What does the "Cloud IVR Attendant" capability include?
-A: Design multi-level DTMF menu paths ("Press 1 for Sales, 2 for Support"). The benefit: zero missed inbound calls.
-
-Q: What does the "Answering Machine Detection" capability include?
-A: Identify and filter out voice mailboxes in under 1.2 seconds of call setup. The benefit: save call credits.
-
-Q: What does the "Toll-Free Numbers" capability include?
-A: Provision 1800/1860 toll-free lines for premium branding and incoming lead capture. The benefit: lower caller friction.
-
-Q: What's included in the "Inbound IVR Setup" plan?
-A: Toll-free/Virtual number connection, Custom menu flow config, Standard audio recordings, Call logs dashboard. Pricing: From ₹1,999 /mo.
-
-Q: What's included in the "Enterprise Outbound dialer" plan?
-A: Neural AMD enabled, SIP trunk termination, High TPS dialer capacity, APIs for CRM hooks. Pricing: ₹0.25 - ₹0.40 /call.

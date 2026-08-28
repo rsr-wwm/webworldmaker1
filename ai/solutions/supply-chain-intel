@@ -1,53 +1,6 @@
 # Smarter Tracking for Your Stuff
 
-Focus: Logistics
-
-Outcome: Knowing where everything is
+Canonical source: https://webworldmaker.com/solution/supply-chain-intel/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 Use sensors and AI to keep your logistics on track.
-
-Stop guessing where your shipments are. We use smart sensors top-to-bottom so you have a live view of your entire supply chain. Our AI even predicts delays from weather or traffic, so you can re-route your drivers before they get stuck in a gridlock.
-
-Key features:
-- Asset Tracking: GPS precision.
-- Route Optimization: Save fuel and time.
-- Predictive Maintenance: Fix trucks before they break.
-- Inventory AI: Auto-reorder stock.
-
-Benefits:
-- Lower Logistics Costs
-- On-time Delivery
-- Reduced Theft
-- Data-Driven Decisions
-
-FAQs:
-
-Q: Do you provide sensors?
-A: We partner with the world's leading IoT manufacturers to provide the best hardware for your specific needs.
-
-Q: How long do sensors last?
-A: Our low-power sensors can run for 3-5 years on a single internal battery.
-
-Q: What if there is no signal?
-A: Our sensors store data locally and "burst" it to the cloud as soon as a connection is found.
-
-Q: How precise is the GPS?
-A: We provide precision within 2 meters globally using GPS and GLONASS satellites.
-
-Q: Does it work with SAP?
-A: Yes, we provide a unified API to feed logistics data directly into your SAP or Oracle system.
-
-Q: What is the ROI?
-A: Most clients pay for the system through fuel savings and reduced cargo loss within 6-9 months.
-
-Q: Can my customers see it?
-A: Yes, you can create "Public Tracking Links" to share with your customers for their specific orders.
-
-Q: Can we track 10,000 items?
-A: Our backend uses high-throughput event processing and can handle millions of sensors simultaneously.
-
-Q: What does the "Asset Tracking" capability include?
-A: GPS precision.
-
-Q: What does the "Route Optimization" capability include?
-A: Save fuel and time.

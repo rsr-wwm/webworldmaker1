@@ -1,21 +1,6 @@
 # Your Marketing Channels Don't Talk to Each Other
 
-Email, SMS, and WhatsApp run as separate silos, so customers get inconsistent or duplicate messages.
+Canonical source: https://webworldmaker.com/problem/disconnected-marketing-channels/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 When each channel is managed through a different tool with no shared customer view, the same promotion can hit a customer three times across three channels, or a customer who already converted keeps getting follow-up messages meant for someone still deciding.
-
-Symptoms:
-- Customers receiving the same offer on email, SMS, and WhatsApp simultaneously
-- No single view of which channel actually drove a conversion
-- Manual, channel-by-channel campaign setup that doesn't scale
-- Unsubscribes on one channel with no effect on the others
-
-Our solution: We unify your channels behind a single customer record and orchestration layer, so a message sequence can start on email, fall back to SMS, and escalate to WhatsApp only if needed, with consent and suppression respected everywhere at once.
-
-FAQs:
-
-Q: Do we need to replace our existing tools?
-A: Not necessarily. Orchestration can often sit on top of existing channel tools via integration rather than requiring a full replacement.
-
-Q: How does this affect unsubscribe compliance?
-A: A unified record means an opt-out on one channel can be reflected everywhere, which is both better for customers and safer for compliance.

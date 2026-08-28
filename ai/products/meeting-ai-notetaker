@@ -1,51 +1,6 @@
 # MeetingAI Notetaker
 
-Tagline: Focus on the call, we'll take the notes.
+Canonical source: https://webworldmaker.com/product/meeting-ai-notetaker/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
-An AI assistant that joins your Zoom and Teams calls to write summaries.
-
-Stop scrambling to take notes while you're trying to listen. MeetingAI joins your video calls, listens in, and writes a clear summary with action items and deadlines. It can even push those tasks directly to your team's to-do list so nothing gets missed.
-
-Key features:
-- Multi-Platform: Zoom, Teams, Meet. Works everywhere.
-- Speaker ID: Knows who said what. Clarity.
-- Action Items: Auto-detects tasks. Accountability.
-- Searchable: Find keywords. Easy recall.
-
-Benefits:
-- Productive Meetings
-- Accurate Records
-- Time Savings
-- Better Follow-up
-
-FAQs:
-
-Q: Does it record everything?
-A: It only joins meetings you invite it to. You can stop or delete recordings at any time.
-
-Q: Does it work with Zoom?
-A: Yes, it works natively with Zoom, Microsoft Teams, Google Meet, and Webex.
-
-Q: Does it understand accents?
-A: Our AI model is trained on global accents and handles "Spanglish" or "Hinglish" beautifully.
-
-Q: Is the summary reliable?
-A: The AI reaches 90%+ accuracy in capturing key facts and action items.
-
-Q: Does the bot show on the screen?
-A: Yes, it appears as a participant (e.g., "[Your Name]'s Assistant") to ensure transparency.
-
-Q: Can I search past meetings?
-A: Yes, all meetings are searchable by keyword. "What did we decide on the budget in July?".
-
-Q: Can I edit the notes?
-A: Yes, you can edit the generated summary before sharing the final version with the team.
-
-Q: How long are recordings kept?
-A: Recordings are kept forever on our Pro plan, or for 30 days on our Basic plan.
-
-Q: What does the "Multi-Platform" capability include?
-A: Zoom, Teams, Meet. The benefit: works everywhere.
-
-Q: What does the "Speaker ID" capability include?
-A: Knows who said what. The benefit: clarity.
+Focus on the call, we'll take the notes.

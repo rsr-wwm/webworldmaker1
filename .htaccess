@@ -1,4 +1,3 @@
-# WebWorldMaker — Hostinger / Apache 0.1% Genius Server Configuration
 DirectoryIndex index.html
 ErrorDocument 404 /404.html
 
@@ -6,29 +5,50 @@ ErrorDocument 404 /404.html
   RewriteEngine On
   RewriteBase /
 
-  # ── 1. Serve Pre-Compressed Brotli (.br) Assets ─────────────────────
-  # Serve Brotli CSS, JS, SVG, JSON, XML files if browser accepts Brotli and .br file exists
-  RewriteCond %{HTTP:Accept-Encoding} br
-  RewriteCond %{REQUEST_FILENAME}\.br -s
-  RewriteRule ^(.*)\.(js|css|svg|json|xml|txt)$ $1\.$2\.br [QSA,L]
+  # Redirect legacy aliases before Apache's DirectorySlash handler can turn
+  # /alias into a second redirect to /alias/. These are exact, intentional
+  # routes only; unknown paths must continue to return 404.
+  RewriteRule ^partners/partner-program/?$ /partners/ [R=301,L,NE]
+  RewriteRule ^contact-us/?$ /contact/ [R=301,L,NE]
+  RewriteRule ^company/contact/?$ /contact/ [R=301,L,NE]
+  RewriteRule ^company/about-us/?$ /company/about/ [R=301,L,NE]
+  RewriteRule ^about(?:-us)?/?$ /company/about/ [R=301,L,NE]
+  RewriteRule ^careers/?$ /company/careers/ [R=301,L,NE]
+  RewriteRule ^seo-tools/?$ /search-growth/seo-services/ [R=301,L,NE]
+  RewriteRule ^roi-calculator/?$ /pricing/ [R=301,L,NE]
+  RewriteRule ^diagnostics/?$ /contact/ [R=301,L,NE]
+  RewriteRule ^search-growth/aeo/?$ /search-growth/aeo-services/ [R=301,L,NE]
+  RewriteRule ^search-growth/geo/?$ /search-growth/geo-services/ [R=301,L,NE]
+  RewriteRule ^search-growth/seo/?$ /search-growth/seo-services/ [R=301,L,NE]
 
-  # ── 2. Canonical Trailing Slash Normalization ───────────────────────
-  # Redirect requests for directories without trailing slashes (301 Permanent)
+  # Mark hashed Astro assets before the optional Brotli rewrite. This is more
+  # reliable on shared Apache/CDN stacks than relying only on SetEnvIf.
+  RewriteRule ^assets/ - [E=wwm_immutable:1]
+
+  # Serve a pre-compressed sibling only when the browser accepts Brotli.
+  RewriteCond %{HTTP:Accept-Encoding} br
+  RewriteCond %{REQUEST_FILENAME}.br -s
+  RewriteRule ^(.+)\.(html|js|mjs|css|svg|json|xml|txt)$ $1.$2.br [QSA,L]
+
+  # Astro's canonical format uses directory URLs with a trailing slash.
   RewriteCond %{REQUEST_FILENAME} -d
   RewriteCond %{REQUEST_URI} !/$
-  RewriteRule ^(.*)$ /$1/ [R=301,L]
+  RewriteRule ^(.+)$ /$1/ [R=301,L]
 </IfModule>
 
-# ── 3. MIME Types & Content Encodings for Brotli Assets ─────────────────
 <IfModule mod_headers.c>
-  # Correct Content-Encoding for pre-compressed Brotli files
-  <FilesMatch "\.js\.br$">
-    Header set Content-Type "application/javascript; charset=utf-8"
+  <FilesMatch "\.(js|mjs)\.br$">
+    Header set Content-Type "text/javascript; charset=utf-8"
     Header set Content-Encoding "br"
     Header append Vary "Accept-Encoding"
   </FilesMatch>
   <FilesMatch "\.css\.br$">
     Header set Content-Type "text/css; charset=utf-8"
+    Header set Content-Encoding "br"
+    Header append Vary "Accept-Encoding"
+  </FilesMatch>
+  <FilesMatch "\.html\.br$">
+    Header set Content-Type "text/html; charset=utf-8"
     Header set Content-Encoding "br"
     Header append Vary "Accept-Encoding"
   </FilesMatch>
@@ -47,33 +67,27 @@ ErrorDocument 404 /404.html
     Header set Content-Encoding "br"
     Header append Vary "Accept-Encoding"
   </FilesMatch>
-
-  # ── 4. Immutable Caching for Static Assets (/assets/*) ───────────────
-  <FilesMatch "\.(js|css|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot)$">
-    Header set Cache-Control "public, max-age=31536000, immutable"
+  <FilesMatch "\.txt\.br$">
+    Header set Content-Type "text/plain; charset=utf-8"
+    Header set Content-Encoding "br"
+    Header append Vary "Accept-Encoding"
   </FilesMatch>
 
-  # ── 5. AI/LLM Text Files CORS & Encoding ────────────────────────────
-  <FilesMatch "(llms\.txt|llms-full\.txt|robots\.txt|sitemap.*\.xml)$">
+  # Astro /assets files are content-hashed. Public images and documents are not.
+  Header always set Cache-Control "public, max-age=31536000, immutable" env=wwm_immutable
+  <FilesMatch "\.(html|json|xml|txt)$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+  <FilesMatch "(llms(?:-full|-locations)?\.txt|robots\.txt|sitemap.*\.xml)$">
     Header set Access-Control-Allow-Origin "*"
     Header set Cache-Control "public, max-age=3600, must-revalidate"
   </FilesMatch>
 
-  # ── 6. Security Headers ───────────────────────────────────────────────
-  Header set X-Content-Type-Options "nosniff"
-  Header set X-Frame-Options "SAMEORIGIN"
-  Header set X-XSS-Protection "1; mode=block"
-  Header set Referrer-Policy "strict-origin-when-cross-origin"
-  # HSTS: site is HTTPS-only already (all canonical/OG URLs use https://) —
-  # this just makes browsers enforce it, closing the downgrade window.
-  # Start without `preload` until this has run cleanly for a while; adding
-  # to the HSTS preload list is a one-way commitment.
-  Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
-  # Locks down powerful browser APIs. geolocation stays allowed for same-origin
-  # only — GlobalLocaleSelector.tsx uses navigator.geolocation (gated behind
-  # cookie consent) for the "nearest location" feature; blocking it outright
-  # would have silently broken that. camera/microphone/payment are genuinely
-  # unused anywhere in this codebase (verified: no getUserMedia, no
-  # PaymentRequest API calls) so those are safe to lock down fully.
-  Header set Permissions-Policy "geolocation=(self), camera=(), microphone=(), payment=()"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "geolocation=(), camera=(), microphone=(), payment=()"
+  # Keep subdomains out until every subdomain has been verified for HTTPS.
+  Header always set Strict-Transport-Security "max-age=31536000"
+  Header unset X-Powered-By
 </IfModule>

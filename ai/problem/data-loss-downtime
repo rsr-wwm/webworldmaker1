@@ -1,45 +1,6 @@
 # The Constant Fear of Data Loss
 
-What happens if your system crashes today?
+Canonical source: https://webworldmaker.com/problem/data-loss-downtime/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 Think about your customer lists, invoices, and contracts. If a server dies or someone gets hit by ransomware, that data could be gone forever. "Hoping for the best" isn't a backup plan. You need a setup that saves your work automatically so you never have to worry about a crash again.
-
-Symptoms:
-- Zero automatic backups (or you do them "when you remember")
-- All your files are on one laptop (that could be stolen)
-- Losing sleep over the latest hacking news
-- A system crash that stops your business cold
-
-Our solution: We set up the "3-2-1" backup rule so you don't have to. We encrypt your data and beam it to secure cloud servers. If your office has a disaster, we can get you back up and running in hours with everything intact.
-
-FAQs:
-
-Q: Is my data readable by you?
-A: No. We use AES-256 encryption. Only you hold the key to read your files.
-
-Q: How fast can we recover?
-A: Critical systems can usually be rebooted in the cloud within 4 hours.
-
-Q: What happens if your cloud fails?
-A: We use the "3-2-1" rule, meaning your data is replicated across multiple global data centers for comprehensive redundancy.
-
-Q: Is cloud storage expensive?
-A: Our tiered storage plans mean you only pay premium prices for urgent data; cold data is stored very cheaply.
-
-Q: Do I have to remember to back up?
-A: No, our agents run silently in the background, syncing changes every hour or even in real-time.
-
-Q: Is it GDPR/HIPAA compliant?
-A: Our encryption and access logs are designed to meet rigorous international data-handling standards, including GDPR- and HIPAA-aligned controls. Contact us for our current compliance documentation.
-
-Q: How do I know the backup works?
-A: We perform quarterly "Disaster Drills" to verify that your data can be restored successfully.
-
-Q: What if my data grows?
-A: The cloud is infinitely scalable. We expand your storage automatically as needed.
-
-Q: How do I know if this problem applies to us?
-A: Common signs include: Zero automatic backups (or you do them "when you remember"); All your files are on one laptop (that could be stolen); Losing sleep over the latest hacking news.
-
-Q: What's your actual approach to fixing this?
-A: We set up the "3-2-1" backup rule so you don't have to. We encrypt your data and beam it to secure cloud servers. If your office has a disaster, we can get you back up and running in hours with everything intact.

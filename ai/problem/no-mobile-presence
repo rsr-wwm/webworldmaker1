@@ -1,21 +1,6 @@
 # Your Customers Expect an App and You Don't Have One
 
-Competitors offer a mobile app while you're mobile-web only, and customers notice the gap.
+Canonical source: https://webworldmaker.com/problem/no-mobile-presence/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 For many categories, a mobile app is no longer a differentiator, it's a baseline expectation, especially where push notifications, offline access, or device features like camera and location matter. Staying mobile-web-only can quietly cost you engagement and repeat visits.
-
-Symptoms:
-- Customers asking if you have an app
-- Low repeat engagement compared to competitors with an app
-- No way to send push notifications for time-sensitive updates
-- Mobile web experience that feels like a compromise, not a product
-
-Our solution: We build native or cross-platform mobile apps scoped to what actually drives engagement for your business, whether that's push notifications, offline access, or device-native features, without over-building features customers won't use.
-
-FAQs:
-
-Q: Native or cross-platform, which is better?
-A: It depends on your feature needs. Cross-platform frameworks now cover most business use cases well and ship faster; native is worth it for performance-critical or device-deep features.
-
-Q: Do we need iOS and Android on day one?
-A: Not necessarily. Many businesses launch on their dominant platform first and expand once product-market fit is confirmed.

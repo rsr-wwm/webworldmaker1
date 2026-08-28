@@ -1,53 +1,6 @@
 # Watching Your Tech 24/7
 
-Focus: Stability & Security
-
-Outcome: Peace of mind
+Canonical source: https://webworldmaker.com/solution/remote-infrastructure-management/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 We keep your servers and remote teams running while you sleep.
-
-When your team is working from all over the world, you can't afford for your tools to go down. We monitor your servers and networks around the clock. We usually catch problems before they even affect your business, so you never have to deal with a sudden "everything is broken" phone call.
-
-Key features:
-- 24/7 Server Monitoring: Sleep well knowing we are watching.
-- Automated Patching: Always secure against latest threats.
-- VPN Management: Secure remote access for staff.
-- Cloud Optimization: Lower AWS/Azure bills.
-
-Benefits:
-- Reduced Downtime
-- Lower IT Costs
-- Enhanced Security
-- Productive Remote Teams
-
-FAQs:
-
-Q: Do you support Linux?
-A: Yes, we support Linux, Windows, and Mac environments.
-
-Q: What is the uptime guarantee?
-A: We engineer our managed infrastructure to target highly reliable uptime.
-
-Q: How do you secure remote access?
-A: We implement Zero-Trust Network Access (ZTNA) and hardware-based MFA for all connections.
-
-Q: Is it 24/7?
-A: Yes, our Security Operations Center (SOC) monitors your systems 24 hours a day, 365 days a year.
-
-Q: Can it handle 1,000 servers?
-A: Our management platform is infinitely scalable and currently manages environments of all sizes.
-
-Q: Do you help with SOC2?
-A: Our RIM service includes the logging and access controls commonly required to support SOC2 readiness; contact us for details on your specific compliance needs.
-
-Q: Do I get status updates?
-A: You get weekly "Infrastructure Health" reports and real-time alerts for any critical issues.
-
-Q: Do you manage endpoints?
-A: Yes, we manage both cloud servers and physical laptops for your remote team members.
-
-Q: What does the "24/7 Server Monitoring" capability include?
-A: Sleep well knowing we are watching.
-
-Q: What does the "Automated Patching" capability include?
-A: Always secure against latest threats.

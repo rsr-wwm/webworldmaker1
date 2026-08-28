@@ -1,18 +1,6 @@
 # Gaming & Esports
 
+Canonical source: https://webworldmaker.com/industry-solutions/gaming/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
+
 Verify players, re-engage lapsed users, and notify communities at scale.
-
-Gaming platforms live and die by player verification, re-engagement, and community trust. We provide the OTP infrastructure to onboard players securely, plus the messaging tools to bring lapsed players back and keep esports communities informed of tournaments and updates.
-
-How WebWorldMaker helps:
-- secure-gate-2fa
-- sms
-- whatsapp
-
-FAQs:
-
-Q: Can this reduce bot and fraudulent signups?
-A: OTP verification at signup significantly raises the cost of automated fake account creation, though it should be paired with other fraud signals for full protection.
-
-Q: Does this work for global player bases?
-A: Yes, our carrier network supports OTP and messaging delivery across a wide range of countries and mobile operators.

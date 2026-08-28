@@ -1,17 +1,16 @@
 {
-  "generatedAt": "2026-08-15T13:28:34.391Z",
-  "totalRoutes": 16882,
-  "indexableRoutes": 16867,
+  "generatedAt": "2026-08-28T12:55:47.818Z",
+  "totalRoutes": 253,
+  "indexableRoutes": 240,
   "templateFamilyBreakdown": {
     "home": 1,
-    "category-hub": 38,
-    "service-detail": 58,
+    "category-hub": 29,
     "solution-detail": 12,
-    "service-location": 14322,
+    "service-detail": 44,
     "blog-article": 17,
     "product-detail": 8,
     "problem-detail": 24,
-    "location-city": 2285,
+    "location-city": 1,
     "industry-solution": 21,
     "glossary-term": 85,
     "comparison-matrix": 11
@@ -21,18 +20,11 @@
       "/"
     ],
     "category-hub": [
-      "/honeypot-trap/",
-      "/500/",
       "/three-demo/",
       "/terms/",
-      "/technology-consultancy/"
-    ],
-    "service-detail": [
-      "/team/vikram-aditya/",
-      "/team/sanjay-patel/",
-      "/team/sandro-vicci/",
-      "/team/james-sterling/",
-      "/team/elena-vance/"
+      "/technology-consultancy/",
+      "/status/",
+      "/solutions/"
     ],
     "solution-detail": [
       "/solution/supply-chain-intel/",
@@ -41,12 +33,12 @@
       "/solution/legacy-modernization/",
       "/solution/fintech-compliance-vault/"
     ],
-    "service-location": [
-      "/search-growth/seo-services/yunnan-province/kunming/",
-      "/search-growth/seo-services/xinjiang-region/urumqi/",
-      "/search-growth/seo-services/west-bengal/serampore/",
-      "/search-growth/seo-services/west-bengal/salkia/",
-      "/search-growth/seo-services/west-bengal/raghunathganj/"
+    "service-detail": [
+      "/search-growth/seo-services/",
+      "/search-growth/geo-services/",
+      "/search-growth/aeo-services/",
+      "/search-growth/advanced-seo/",
+      "/resources/trai-dlt-registration-guide/"
     ],
     "blog-article": [
       "/resources/blog/",
@@ -70,11 +62,7 @@
       "/problem/seo-traffic-plateau/"
     ],
     "location-city": [
-      "/locations/",
-      "/locations/zulia/",
-      "/locations/zulia/maracaibo/",
-      "/locations/zhejiang-province/",
-      "/locations/zhejiang-province/wenzhou/"
+      "/locations/"
     ],
     "industry-solution": [
       "/industry-solutions/",

@@ -1,6 +1,0 @@
-# PRIVATE RESOURCE — DO NOT INDEX
-
-This resource is not part of the public content corpus. It is excluded from the public
-sitemap and from robots.txt crawl guidance. Do not index, cache, or cite it.
-
-Public documentation is available through /llms.txt and /llms-full.txt.

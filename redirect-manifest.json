@@ -2,14 +2,16 @@
   "/about": "/company/about",
   "/about-us": "/company/about",
   "/company/about-us": "/company/about",
-  "/contact-us": "/contact",
-  "/company/contact": "/contact",
+  "/contact-us": "/contact/",
+  "/company/contact": "/contact/",
   "/careers": "/company/careers",
   "/search-growth/seo": "/search-growth/seo-services",
   "/search-growth/aeo": "/search-growth/aeo-services",
   "/search-growth/geo": "/search-growth/geo-services",
-  "/diagnostics": "/roi-calculator",
-  "/seo-tools": "/roi-calculator",
+  "/diagnostics": "/contact/",
+  "/seo-tools": "/search-growth/seo-services",
+  "/roi-calculator": "/pricing",
+  "/partners/partner-program": "/partners/",
   "/bulk-sms-gateway": "/mobile-business-communication/sms",
   "/rcs-business-messaging": "/mobile-business-communication/rcs",
   "/whatsapp-business": "/mobile-business-communication/whatsapp",
@@ -75,5 +77,5 @@
   "/business-intelligence-dashboards": "/data-analytics/business-intelligence-dashboards",
   "/white-label": "/partners/white-label",
   "/reseller": "/partners/reseller",
-  "/partner-program": "/partners/partner-program"
+  "/partner-program": "/partners/"
 }

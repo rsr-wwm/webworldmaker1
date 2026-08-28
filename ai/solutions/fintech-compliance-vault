@@ -1,53 +1,6 @@
 # Easy Compliance for Finance
 
-Focus: Legal & Safety
-
-Outcome: Getting through audits faster
+Canonical source: https://webworldmaker.com/solution/fintech-compliance-vault/
+Scope: Machine-readable mirror of claims visible on the canonical human page.
 
 Bank-grade security rules that follow the law.
-
-Building a finance app is stressful; figuring out the legal rules is even worse. We provide a secure vault with everything you need to follow KYC and AML laws from day one. It lets you launch your product fast without worrying that a regulator is going to come knocking.
-
-Key features:
-- Auto-KYC: Verify users in seconds.
-- Transaction Monitoring: Flag suspicious activity.
-- Audit Trails: Immutable records.
-- Data Sovereignty: Keep data in specific regions.
-
-Benefits:
-- Faster Licensing
-- Reduced Fraud
-- Global Scaling
-- Trust
-
-FAQs:
-
-Q: Does this work in EU?
-A: Yes, it is Designed for compliance with GDPR, PSD2, and other local EU financial regulations.
-
-Q: How fast is a KYC check?
-A: Our automated biometric flow takes an average of 45 seconds for a user to complete.
-
-Q: Can you detect fake IDs?
-A: Yes, our AI uses liveness detection and forensic document analysis to spot deepfakes and fraudulent IDs.
-
-Q: Where is data stored?
-A: Data is stored in regionally-locked, banking-grade secure vaults with AES-256 encryption.
-
-Q: Is it easy to integrate?
-A: We provide a clean REST API and mobile SDKs (iOS/Android) to drop compliance into your app.
-
-Q: Can we export reports?
-A: Yes, you can generate regulator-ready PDF reports with a single click.
-
-Q: How do you spot money laundering?
-A: Our AML engine monitors patterns, connections, and velocity of money in real-time.
-
-Q: Do you have experts?
-A: Yes, our Enterprise plan includes access to senior compliance consultants to review your setup.
-
-Q: What does the "Auto-KYC" capability include?
-A: Verify users in seconds.
-
-Q: What does the "Transaction Monitoring" capability include?
-A: Flag suspicious activity.
