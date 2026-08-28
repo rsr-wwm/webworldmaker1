@@ -76,11 +76,11 @@ ErrorDocument 404 /404.html
   # Astro /assets files are content-hashed. Public images and documents are not.
   Header always set Cache-Control "public, max-age=31536000, immutable" env=wwm_immutable
   <FilesMatch "\.(html|json|xml|txt)$">
-    Header set Cache-Control "public, max-age=0, must-revalidate"
+    Header always set Cache-Control "public, max-age=0, must-revalidate"
   </FilesMatch>
-  <FilesMatch "(llms(?:-full|-locations)?\.txt|robots\.txt|sitemap.*\.xml)$">
-    Header set Access-Control-Allow-Origin "*"
-    Header set Cache-Control "public, max-age=3600, must-revalidate"
+  <FilesMatch "(llms.*\.txt|robots\.txt|sitemap.*\.xml)$">
+    Header always set Access-Control-Allow-Origin "*"
+    Header always set Cache-Control "public, max-age=3600, must-revalidate"
   </FilesMatch>
 
   Header always set X-Content-Type-Options "nosniff"
