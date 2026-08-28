@@ -1,5 +1,6 @@
 DirectoryIndex index.html
 ErrorDocument 404 /404.html
+DirectorySlash Off
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
