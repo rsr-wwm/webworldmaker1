@@ -433,12 +433,6 @@
     <priority>0.67</priority>
   </url>
   <url>
-    <loc>https://webworldmaker.com/solution/remote-infrastructure-management/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.67</priority>
-  </url>
-  <url>
     <loc>https://webworldmaker.com/solution/fintech-compliance-vault/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -500,6 +494,12 @@
   </url>
   <url>
     <loc>https://webworldmaker.com/solution/ai-automation-workforce/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://webworldmaker.com/solution/remote-infrastructure-management/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
@@ -776,7 +776,7 @@
   </url>
   <url>
     <loc>https://webworldmaker.com/social-media/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.53</priority>
   </url>
@@ -1309,12 +1309,6 @@
     <priority>0.44</priority>
   </url>
   <url>
-    <loc>https://webworldmaker.com/glossary/prompt-injection/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.44</priority>
-  </url>
-  <url>
     <loc>https://webworldmaker.com/glossary/hallucination/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -1352,6 +1346,12 @@
   </url>
   <url>
     <loc>https://webworldmaker.com/glossary/mcp/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.43</priority>
+  </url>
+  <url>
+    <loc>https://webworldmaker.com/glossary/prompt-injection/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.43</priority>
