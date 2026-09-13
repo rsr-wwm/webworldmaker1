@@ -3,7 +3,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://webworldmaker.com/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://webworldmaker.com/solutions/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://webworldmaker.com/products/</loc>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15,7 +27,7 @@
   </url>
   <url>
     <loc>https://webworldmaker.com/resources/blog/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -28,6 +40,30 @@
   <url>
     <loc>https://webworldmaker.com/privacy/</loc>
     <lastmod>2026-09-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://webworldmaker.com/case-studies/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://webworldmaker.com/glossary/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://webworldmaker.com/social-media/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://webworldmaker.com/problems/</loc>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
