@@ -1,0 +1,1 @@
+var e=e=>e.normalize(`NFKD`).replace(/[\u0300-\u036f]/g,``).toLowerCase().replace(/&/g,`and`).replace(/[^a-z0-9]+/g,`-`).replace(/^-+|-+$/g,``),t=t=>t.countrySlug||e(t.country),n=e=>`${t(e)}/${e.stateSlug}/${e.citySlug}`,r=e=>`/locations/${n(e)}/`,i=e=>`/locations/${t(e)}/${e.stateSlug}/`,a=(e,t,r)=>`/${e}/${t}/${n(r)}/`;export{a as n,i as r,r as t};

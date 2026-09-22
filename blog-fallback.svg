@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">WebWorldMaker Insights</title>
+  <desc id="desc">Branded article image placeholder</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#0b0f19"/><stop offset="1" stop-color="#0d221c"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#surface)"/>
+  <rect width="800" height="450" fill="url(#grid)"/>
+  <path d="M650 28 820 198 650 368 480 198 650 28Z" fill="#00e58f" opacity=".07"/>
+  <path d="M650 90 758 198 650 306 542 198 650 90Z" fill="none" stroke="#00e58f" stroke-width="2" opacity=".5"/>
+  <path d="M650 142 706 198 650 254 594 198 650 142Z" fill="#00e58f" opacity=".7"/>
+  <rect x="56" y="54" width="42" height="42" rx="10" fill="#0b0f19" stroke="#00e58f"/>
+  <path d="m77 64 11 11-11 11-11-11 11-11Z" fill="#00e58f"/>
+  <text x="56" y="252" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Insights</text>
+  <text x="58" y="303" font-family="Arial, sans-serif" font-size="19" fill="#cbd5e1">WebWorldMaker Editorial</text>
+  <rect x="56" y="380" width="688" height="2" fill="#00e58f" opacity=".6"/>
+</svg>

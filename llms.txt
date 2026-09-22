@@ -72,4 +72,4 @@ This file is a navigation aid, not a statement that every page or claim should b
 - The /llms-full.txt corpus contains the complete unabridged content for RAG indexing
 - Contact: https://webworldmaker.com/contact
 
-> Review status: generated from the current approved content inventory. Build date: 2026-09-13.
+> Review status: generated from the current approved content inventory. Build date: 2026-09-22.
