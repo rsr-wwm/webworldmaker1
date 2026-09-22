@@ -26,10 +26,13 @@ DirectorySlash Off
   # reliable on shared Apache/CDN stacks than relying only on SetEnvIf.
   RewriteRule ^assets/ - [E=wwm_immutable:1]
 
-  # Serve a pre-compressed sibling only when the browser accepts Brotli.
-  RewriteCond %{HTTP:Accept-Encoding} br
-  RewriteCond %{REQUEST_FILENAME}.br -s
-  RewriteRule ^(.+)\.(html|js|mjs|css|svg|json|xml|txt)$ $1.$2.br [QSA,L]
+  # Hostinger CDN (hcdn) automatically applies Brotli compression at the edge.
+  # Rewriting to pre-compressed .br files causes Hostinger CDN to double-compress
+  # static assets into corrupted binary, breaking CSS and JS parsing in browsers.
+  # Keep direct static asset serving so Hostinger CDN compresses clean uncompressed assets.
+  # RewriteCond %{HTTP:Accept-Encoding} br
+  # RewriteCond %{REQUEST_FILENAME}.br -s
+  # RewriteRule ^(.+)\.(html|js|mjs|css|svg|json|xml|txt)$ $1.$2.br [QSA,L]
 
   # Astro's canonical format uses directory URLs with a trailing slash.
   RewriteCond %{REQUEST_FILENAME} -d
